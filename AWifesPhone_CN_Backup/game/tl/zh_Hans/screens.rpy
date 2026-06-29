@@ -168,7 +168,7 @@ translate zh_Hans strings:
 
     # screens.rpy:952
     old "{size=54}Language"
-    new "{size=54}Language"
+    new "{size=54}语言"
 
     # screens.rpy:1074
     old "The dialogue history is empty."

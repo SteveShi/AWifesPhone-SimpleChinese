@@ -764,7 +764,7 @@ translate zh_Hans strings:
 
     # renpy/common/00preferences.rpy:703
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-    new "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
+    new "系统自动朗读将读出 \"[renpy.display.tts.last]\"。按 'alt+shift+V' 禁用。"
 
     # renpy/common/00preferences.rpy:705
     old "Self-voicing enabled. Press 'v' to disable."
@@ -920,7 +920,7 @@ translate zh_Hans strings:
 
     # renpy/common/00updater.rpy:2029
     old "An error has occured:"
-    new "An error has occured:"
+    new "发生了一个错误："
 
     # renpy/common/00updater.rpy:2031
     old "Checking for updates."
@@ -980,7 +980,7 @@ translate zh_Hans strings:
 
     # renpy/common/00updater.rpy:2086
     old "An error occured when trying to download game data:"
-    new "An error occured when trying to download game data:"
+    new "尝试下载游戏数据时发生错误："
 
     # renpy/common/00updater.rpy:2091
     old "This game cannot be run until the game data has been downloaded."
@@ -1024,15 +1024,15 @@ translate zh_Hans strings:
 
     # renpy/common/00gltest.rpy:101
     old "Force GL Renderer"
-    new "Force GL Renderer"
+    new "强制使用 GL 渲染器"
 
     # renpy/common/00gltest.rpy:106
     old "Force ANGLE Renderer"
-    new "Force ANGLE Renderer"
+    new "强制使用 ANGLE 渲染器"
 
     # renpy/common/00gltest.rpy:111
     old "Force GLES Renderer"
-    new "Force GLES Renderer"
+    new "强制使用 GLES 渲染器"
 
     # renpy/common/00gltest.rpy:117
     old "Force GL2 Renderer"

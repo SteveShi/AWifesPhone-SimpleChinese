@@ -5596,29 +5596,29 @@ translate zh_Hans strings:
 
     # xmas content/new_christmass_phone_0_2.rpy:616
     old "Let's visit your sister (MC+Wife Sis content)"
-    new "Let's visit your sister (MC+Wife Sis content)"
+    new "我们去拜访你妹妹（主角+小姨子剧情）"
 
     # xmas content/new_christmass_phone_0_2.rpy:616
     old "Let's stay home (MC+Wife content/MC's Mum content)"
-    new "Let's stay home (MC+Wife content/MC's Mum content)"
+    new "我们留在家里（主角+妻子/主角母亲剧情）"
 
     # xmas content/new_christmass_phone_0_2.rpy:616
     old "Let's join my son and his friends (Son+Wife or Fem Son content)"
-    new "Let's join my son and his friends (Son+Wife or Fem Son content)"
+    new "我们和儿子及他的朋友们聚聚（儿子+妻子或女性化儿子剧情）"
 
     # xmas content/new_christmass_phone_0_2.rpy:616
     old "Go with Jenna (Wife BBC content)"
-    new "Go with Jenna (Wife BBC content)"
+    new "和珍娜一起去（妻子BBC剧情）"
 
     # xmas content/new_christmass_phone_0_2.rpy:616
     old "Let's visit my parents (MC+Wife content)"
-    new "Let's visit my parents (MC+Wife content)"
+    new "我们去拜访我的父母（主角+妻子剧情）"
 
     # xmas content/new_christmass_phone_0_2.rpy:1792
     old "{color=#000}{cps=+50}Was the son feminised?"
-    new "{color=#000}{cps=+50}Was the son feminised?"
+    new "{color=#000}{cps=+50}儿子被女性化了吗？"
 
     # xmas content/new_christmass_phone_0_2.rpy:2227
     old "{color=#000}{cps=+50}Would you like to see the other branches?"
-    new "{color=#000}{cps=+50}Would you like to see the other branches?"
+    new "{color=#000}{cps=+50}你想看看其他分支剧情吗？"
 
