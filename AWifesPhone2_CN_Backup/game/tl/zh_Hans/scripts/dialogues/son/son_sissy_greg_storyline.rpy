@@ -382,7 +382,7 @@ translate zh_Hans son_sissy_greg_storyline_29_e3f56912:
 translate zh_Hans son_sissy_greg_storyline_29_cfb47dd4:
 
     # nvlsson "Do you want me to have sex with him?"
-    nvlsson "您希望我被他操吗？"
+    nvlsson "你希望我被他操吗？"
 
 # game/scripts/dialogues/son/son_sissy_greg_storyline.rpy:220
 translate zh_Hans son_sissy_greg_storyline_29_286433b4:
@@ -1084,7 +1084,7 @@ translate zh_Hans son_sissy_greg_storyline_32_85014048:
 translate zh_Hans son_sissy_greg_storyline_32_8fd61cfa:
 
     # nvlsson "Do you think I should do that?"
-    nvlsson "您觉得我应该那么做吗？"
+    nvlsson "你觉得我应该那么做吗？"
 
 # game/scripts/dialogues/son/son_sissy_greg_storyline.rpy:545
 translate zh_Hans son_sissy_greg_storyline_32_770a710e:
@@ -1308,7 +1308,7 @@ translate zh_Hans son_sissy_greg_storyline_33_8976723d:
 translate zh_Hans son_sissy_greg_storyline_33_922b2b06:
 
     # nvlgreg "{a=show:show_chat_media}{image=mikky_pic_68}"
-    nvlgreg "{a=show:show_chat_media}{image=mikky_pic_68}"
+    nvlgreg ""
 
 # game/scripts/dialogues/son/son_sissy_greg_storyline.rpy:656
 translate zh_Hans son_sissy_greg_storyline_33_1905e761:
@@ -1458,7 +1458,7 @@ translate zh_Hans son_sissy_greg_storyline_33_529a8fc1:
 translate zh_Hans son_sissy_greg_storyline_33_2dc6bdc7:
 
     # nvlsson "😊"
-    nvlsson "😊|😊"
+    nvlsson "😊|"
 
 # game/scripts/dialogues/son/son_sissy_greg_storyline.rpy:706
 translate zh_Hans son_sissy_greg_storyline_33_40c559e5:

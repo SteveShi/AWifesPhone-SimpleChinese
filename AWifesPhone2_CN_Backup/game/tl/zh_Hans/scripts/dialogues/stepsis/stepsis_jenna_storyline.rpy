@@ -288,13 +288,13 @@ translate zh_Hans stepsis_jenna_storyline_0_f2fe8e66:
 translate zh_Hans stepsis_jenna_storyline_0_f64cc374:
 
     # nvljenna "{a=show:show_chat_media}{image=blacked_pic_1}"
-    nvljenna "{a=show:show_chat_media}{image=blacked_pic_1}"
+    nvljenna ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:150
 translate zh_Hans stepsis_jenna_storyline_0_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:152
 translate zh_Hans stepsis_jenna_storyline_0_cc3ecd2f:
@@ -306,7 +306,7 @@ translate zh_Hans stepsis_jenna_storyline_0_cc3ecd2f:
 translate zh_Hans stepsis_jenna_storyline_0_80098b0d:
 
     # nvljenna "{a=show:show_chat_media}{image=blacked_pic_2}"
-    nvljenna "{a=show:show_chat_media}{image=blacked_pic_2}"
+    nvljenna ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:160
 translate zh_Hans stepsis_jenna_storyline_0_1c0e3a23:
@@ -324,7 +324,7 @@ translate zh_Hans stepsis_jenna_storyline_0_7aa58cdd:
 translate zh_Hans stepsis_jenna_storyline_0_ff44dca4:
 
     # nvljenna "{a=show:show_chat_media}{image=blacked_pic_3}"
-    nvljenna "{a=show:show_chat_media}{image=blacked_pic_3}"
+    nvljenna ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:170
 translate zh_Hans stepsis_jenna_storyline_0_cce5e54d:
@@ -342,7 +342,7 @@ translate zh_Hans stepsis_jenna_storyline_0_09bba403:
 translate zh_Hans stepsis_jenna_storyline_0_04932c5e:
 
     # nvljenna "{a=show:show_chat_media}{image=blacked_pic_4}"
-    nvljenna "{a=show:show_chat_media}{image=blacked_pic_4}"
+    nvljenna ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:180
 translate zh_Hans stepsis_jenna_storyline_0_823bad39:
@@ -360,7 +360,7 @@ translate zh_Hans stepsis_jenna_storyline_0_42d78e77:
 translate zh_Hans stepsis_jenna_storyline_0_daba7c6c:
 
     # nvljenna "{a=show:show_chat_media}{image=blacked_pic_5}"
-    nvljenna "{a=show:show_chat_media}{image=blacked_pic_5}"
+    nvljenna ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:190
 translate zh_Hans stepsis_jenna_storyline_0_6cb662d5:
@@ -650,7 +650,7 @@ translate zh_Hans stepsis_jenna_storyline_1_128573bf:
 translate zh_Hans stepsis_jenna_storyline_1_b5f827e5:
 
     # nvlstepsis "😊"
-    nvlstepsis "😊|😊"
+    nvlstepsis "😊|"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:317
 translate zh_Hans stepsis_jenna_storyline_1_72aa69f8:
@@ -1146,7 +1146,7 @@ translate zh_Hans stepsis_jenna_storyline_3_23a45146:
 translate zh_Hans stepsis_jenna_storyline_3_dda5a5f9:
 
     # nvljenna "Then don't worry. We definitely won't hire him 😊"
-    nvljenna "那您就不用担心了。我们肯定不会雇用他😊"
+    nvljenna "那你就不用担心了。我们肯定不会雇用他😊"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:543
 translate zh_Hans stepsis_jenna_storyline_3_cc76474d:
@@ -1230,7 +1230,7 @@ translate zh_Hans stepsis_jenna_storyline_3_eb38dd06:
 translate zh_Hans stepsis_jenna_storyline_3_b5f827e5:
 
     # nvlstepsis "😊"
-    nvlstepsis "😊|😊"
+    nvlstepsis "😊|"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:583
 translate zh_Hans stepsis_jenna_storyline_3_53c71d7c:
@@ -1474,7 +1474,7 @@ translate zh_Hans stepsis_jenna_storyline_5_ebf71a55:
 translate zh_Hans stepsis_jenna_storyline_5_b5f827e5:
 
     # nvlstepsis "😊"
-    nvlstepsis "😊|😊"
+    nvlstepsis "😊|"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:721
 translate zh_Hans stepsis_jenna_storyline_5_19977855:
@@ -1552,7 +1552,7 @@ translate zh_Hans stepsis_jenna_storyline_5_abab8442:
 translate zh_Hans stepsis_jenna_storyline_5_a9ebd74c:
 
     # nvlmark "Bitch 😊"
-    nvlmark "Bitch 😊"
+    nvlmark ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:747
 translate zh_Hans stepsis_jenna_storyline_5_7ec4dc47:
@@ -1756,7 +1756,7 @@ translate zh_Hans stepsis_jenna_storyline_5_b4198aaa_1:
 translate zh_Hans stepsis_jenna_storyline_5_4be7f6f8:
 
     # nvlmark "😊"
-    nvlmark "😊|😊"
+    nvlmark "😊|"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:815
 translate zh_Hans stepsis_jenna_storyline_5_685262b8:
@@ -1878,7 +1878,7 @@ translate zh_Hans stepsis_jenna_storyline_6_59abe237:
 translate zh_Hans stepsis_jenna_storyline_6_dca685a6:
 
     # nvljenna "{a=show:show_chat_media}{image=sis_video_5_ns}"
-    nvljenna "{a=show:show_chat_media}{image=sis_video_5_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:890
 translate zh_Hans stepsis_jenna_storyline_6_08977d75:
@@ -2324,7 +2324,7 @@ translate zh_Hans stepsis_jenna_storyline_7_7ea94d3d:
 translate zh_Hans stepsis_jenna_storyline_7_b5f827e5:
 
     # nvlstepsis "😊"
-    nvlstepsis "😊|😊"
+    nvlstepsis "😊|"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:1069
 translate zh_Hans stepsis_jenna_storyline_7_bc5b1776:
@@ -2644,7 +2644,7 @@ translate zh_Hans stepsis_jenna_storyline_8_7f1bf7db:
 translate zh_Hans stepsis_jenna_storyline_8_d2dc7b37:
 
     # nvljenna "{a=show:show_chat_media}{image=sis_video_6_ns}"
-    nvljenna "{a=show:show_chat_media}{image=sis_video_6_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:1210
 translate zh_Hans stepsis_jenna_storyline_8_17efc46e:
@@ -3248,7 +3248,7 @@ translate zh_Hans stepsis_jenna_storyline_10_4312bca8:
 translate zh_Hans stepsis_jenna_storyline_10_353b4ebc:
 
     # nvljenna "{a=show:show_chat_media}{image=sis_pic_117}"
-    nvljenna "{a=show:show_chat_media}{image=sis_pic_117}"
+    nvljenna ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:1476
 translate zh_Hans stepsis_jenna_storyline_10_0ebdc02c:
@@ -3266,7 +3266,7 @@ translate zh_Hans stepsis_jenna_storyline_10_751ce90e:
 translate zh_Hans stepsis_jenna_storyline_10_ca66ebdc:
 
     # nvljenna "{a=show:show_chat_media}{image=sis_pic_118}"
-    nvljenna "{a=show:show_chat_media}{image=sis_pic_118}"
+    nvljenna ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:1486
 translate zh_Hans stepsis_jenna_storyline_10_a4a79446:
@@ -3284,7 +3284,7 @@ translate zh_Hans stepsis_jenna_storyline_10_71483664:
 translate zh_Hans stepsis_jenna_storyline_10_654b67ce:
 
     # nvljenna "{a=show:show_chat_media}{image=sis_pic_120}"
-    nvljenna "{a=show:show_chat_media}{image=sis_pic_120}"
+    nvljenna ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:1496
 translate zh_Hans stepsis_jenna_storyline_10_9b8033a1:
@@ -3392,7 +3392,7 @@ translate zh_Hans stepsis_jenna_storyline_10_b74c733d:
 translate zh_Hans stepsis_jenna_storyline_10_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:1532
 translate zh_Hans stepsis_jenna_storyline_10_5f549635:
@@ -3526,7 +3526,7 @@ translate zh_Hans stepsis_jenna_storyline_11_55f3c2eb:
 translate zh_Hans stepsis_jenna_storyline_11_7e06a5d2:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_119}"
-    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_119}"
+    nvlstepsis ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:1611
 translate zh_Hans stepsis_jenna_storyline_11_183dd65d:
@@ -3902,7 +3902,7 @@ translate zh_Hans stepsis_jenna_storyline_13_e7180902:
 translate zh_Hans stepsis_jenna_storyline_13_2f2232bb:
 
     # nvljenna "{a=show:show_chat_media}{image=sis_pic_121}"
-    nvljenna "{a=show:show_chat_media}{image=sis_pic_121}"
+    nvljenna ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:1807
 translate zh_Hans stepsis_jenna_storyline_13_81b871a6:
@@ -3926,7 +3926,7 @@ translate zh_Hans stepsis_jenna_storyline_13_a31ed86a:
 translate zh_Hans stepsis_jenna_storyline_13_57516bff:
 
     # nvljenna "{a=show:show_chat_media}{image=sis_pic_122}"
-    nvljenna "{a=show:show_chat_media}{image=sis_pic_122}"
+    nvljenna ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:1819
 translate zh_Hans stepsis_jenna_storyline_13_ee52bb72:
@@ -4168,7 +4168,7 @@ translate zh_Hans stepsis_jenna_storyline_14_94c37466:
 translate zh_Hans stepsis_jenna_storyline_14_0823c261:
 
     # nvlmark "{a=show:show_chat_media}{image=sis_video_7_ns}"
-    nvlmark "{a=show:show_chat_media}{image=sis_video_7_ns}"
+    nvlmark ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:1942
 translate zh_Hans stepsis_jenna_storyline_14_8db6dda1:
@@ -4216,7 +4216,7 @@ translate zh_Hans stepsis_jenna_storyline_14_40490425:
 translate zh_Hans stepsis_jenna_storyline_14_5bb3d7fd:
 
     # nvlmark "{a=show:show_chat_media}{image=sis_video_8_ns}"
-    nvlmark "{a=show:show_chat_media}{image=sis_video_8_ns}"
+    nvlmark ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:1962
 translate zh_Hans stepsis_jenna_storyline_14_4ebd1140:
@@ -4300,7 +4300,7 @@ translate zh_Hans stepsis_jenna_storyline_14_1217a47c:
 translate zh_Hans stepsis_jenna_storyline_14_b5f827e5:
 
     # nvlstepsis "😊"
-    nvlstepsis "😊|😊"
+    nvlstepsis "😊|"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:1990
 translate zh_Hans stepsis_jenna_storyline_14_2b71853f:
@@ -4444,7 +4444,7 @@ translate zh_Hans stepsis_jenna_storyline_14_1374474b:
 translate zh_Hans stepsis_jenna_storyline_14_992b1fb0:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_123}"
-    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_123}"
+    nvlstepsis ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:2042
 translate zh_Hans stepsis_jenna_storyline_14_309d9776:
@@ -4716,7 +4716,7 @@ translate zh_Hans stepsis_jenna_storyline_15_655e74d8:
 translate zh_Hans stepsis_jenna_storyline_15_f67cbbee:
 
     # nvljenna "If your plans change, let me know"
-    nvljenna "如果您的计划有变，请告诉我。"
+    nvljenna "如果你的计划有变，请告诉我。"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:2163
 translate zh_Hans stepsis_jenna_storyline_15_eb57a039:
@@ -4844,7 +4844,7 @@ translate zh_Hans stepsis_jenna_storyline_16_5c393f0e:
 translate zh_Hans stepsis_jenna_storyline_16_d81677c1:
 
     # nvljenna "😉"
-    nvljenna "😉|😉"
+    nvljenna "😉|"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:2256
 translate zh_Hans stepsis_jenna_storyline_16_53c71d7c:
@@ -5590,7 +5590,7 @@ translate zh_Hans stepsis_jenna_storyline_20_cc28a153:
 translate zh_Hans stepsis_jenna_storyline_20_874e406f:
 
     # nvljenna "{a=show:show_chat_media}{image=sis_video_9_ns}"
-    nvljenna "{a=show:show_chat_media}{image=sis_video_9_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:2647
 translate zh_Hans stepsis_jenna_storyline_20_0ebdc02c:
@@ -5740,7 +5740,7 @@ translate zh_Hans stepsis_jenna_storyline_20_2854d05f:
 translate zh_Hans stepsis_jenna_storyline_20_f04a5a47:
 
     # nvlwife "Hahahaah"
-    nvlwife "Hahahaah"
+    nvlwife ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:2697
 translate zh_Hans stepsis_jenna_storyline_20_847347e0:
@@ -6434,7 +6434,7 @@ translate zh_Hans stepsis_jenna_storyline_22_8711bba7:
 translate zh_Hans stepsis_jenna_storyline_22_b5f827e5:
 
     # nvlstepsis "😊"
-    nvlstepsis "😊|😊"
+    nvlstepsis "😊|"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:2995
 translate zh_Hans stepsis_jenna_storyline_22_eb2cc0c9:
@@ -6684,7 +6684,7 @@ translate zh_Hans stepsis_jenna_storyline_24_bb052052:
 translate zh_Hans stepsis_jenna_storyline_24_5dce85ed:
 
     # nvljenna "{a=show:show_chat_media}{image=sis_video_28_ns}"
-    nvljenna "{a=show:show_chat_media}{image=sis_video_28_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:3143
 translate zh_Hans stepsis_jenna_storyline_24_a0c97b98:
@@ -6702,7 +6702,7 @@ translate zh_Hans stepsis_jenna_storyline_24_378ab1aa:
 translate zh_Hans stepsis_jenna_storyline_24_e7f16d56:
 
     # nvljenna "{a=show:show_chat_media}{image=sis_video_29_ns}"
-    nvljenna "{a=show:show_chat_media}{image=sis_video_29_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:3153
 translate zh_Hans stepsis_jenna_storyline_24_bb8fdaa1:
@@ -6782,7 +6782,7 @@ translate zh_Hans stepsis_jenna_storyline_25_54c34e49:
 translate zh_Hans stepsis_jenna_storyline_25_c20a173d:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_video_28_ns}"
-    nvlstepsis "{a=show:show_chat_media}{image=sis_video_28_ns}"
+    nvlstepsis ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:3212
 translate zh_Hans stepsis_jenna_storyline_25_f6cdb0b1:
@@ -6800,7 +6800,7 @@ translate zh_Hans stepsis_jenna_storyline_25_c7744c3c:
 translate zh_Hans stepsis_jenna_storyline_25_5a89cc85:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_video_29_ns}"
-    nvlstepsis "{a=show:show_chat_media}{image=sis_video_29_ns}"
+    nvlstepsis ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:3220
 translate zh_Hans stepsis_jenna_storyline_25_c3353b6f:
@@ -7118,7 +7118,7 @@ translate zh_Hans stepsis_jenna_storyline_28_387beb7f:
 translate zh_Hans stepsis_jenna_storyline_28_cf7ed3cc:
 
     # nvlstepsis "Sorry if I’m being annoying."
-    nvlstepsis "如果我打扰到您，我很抱歉。"
+    nvlstepsis "如果我打扰到你，我很抱歉。"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:3425
 translate zh_Hans stepsis_jenna_storyline_28_41ba274f:
@@ -7180,7 +7180,7 @@ translate zh_Hans stepsis_jenna_storyline_29_b849d441:
 translate zh_Hans stepsis_jenna_storyline_29_077f6309:
 
     # nvlstepsis "{a=show:show_chat_media}{image=wife_pic_364}"
-    nvlstepsis "{a=show:show_chat_media}{image=wife_pic_364}"
+    nvlstepsis ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:3480
 translate zh_Hans stepsis_jenna_storyline_29_41aec1f1:
@@ -7246,13 +7246,13 @@ translate zh_Hans stepsis_jenna_storyline_29_521d2965:
 translate zh_Hans stepsis_jenna_storyline_29_86e9b93f:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_143}"
-    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_143}"
+    nvlstepsis ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:3508
 translate zh_Hans stepsis_jenna_storyline_29_c6da2a38:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_144}"
-    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_144}"
+    nvlstepsis ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:3518
 translate zh_Hans stepsis_jenna_storyline_29_77fecce3:
@@ -7510,7 +7510,7 @@ translate zh_Hans stepsis_jenna_storyline_32_fc258178:
 translate zh_Hans stepsis_jenna_storyline_32_464af5ae:
 
     # nvljenna "{a=show:show_chat_media}{image=sis_video_30_ns}"
-    nvljenna "{a=show:show_chat_media}{image=sis_video_30_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:3709
 translate zh_Hans stepsis_jenna_storyline_32_e82e01e2:
@@ -7612,7 +7612,7 @@ translate zh_Hans stepsis_jenna_storyline_33_64602d7d:
 translate zh_Hans stepsis_jenna_storyline_33_7eb70d32:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_video_30_ns}"
-    nvlstepsis "{a=show:show_chat_media}{image=sis_video_30_ns}"
+    nvlstepsis ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:3776
 translate zh_Hans stepsis_jenna_storyline_33_6e313d76:
@@ -7980,7 +7980,7 @@ translate zh_Hans stepsis_jenna_storyline_37_eed3fdbe:
 translate zh_Hans stepsis_jenna_storyline_37_65b7d6b8:
 
     # nvljenna "{a=show:show_chat_media}{image=sis_video_31_ns}"
-    nvljenna "{a=show:show_chat_media}{image=sis_video_31_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:4024
 translate zh_Hans stepsis_jenna_storyline_37_3e274638:
@@ -8048,7 +8048,7 @@ translate zh_Hans stepsis_jenna_storyline_38_998d8091:
 translate zh_Hans stepsis_jenna_storyline_38_f5132885:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_video_31_ns}"
-    nvlstepsis "{a=show:show_chat_media}{image=sis_video_31_ns}"
+    nvlstepsis ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:4079
 translate zh_Hans stepsis_jenna_storyline_38_8f864fe5:
@@ -8724,7 +8724,7 @@ translate zh_Hans stepsis_jenna_storyline_46_6c197791:
 translate zh_Hans stepsis_jenna_storyline_46_5caccdcc:
 
     # nvljenna "{a=show:show_chat_media}{image=sis_video_32_ns}"
-    nvljenna "{a=show:show_chat_media}{image=sis_video_32_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:4557
 translate zh_Hans stepsis_jenna_storyline_46_32d2e713:
@@ -8834,7 +8834,7 @@ translate zh_Hans stepsis_jenna_storyline_47_9bf503d3:
 translate zh_Hans stepsis_jenna_storyline_47_3e93db4e:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_video_32_ns}"
-    nvlstepsis "{a=show:show_chat_media}{image=sis_video_32_ns}"
+    nvlstepsis ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:4626
 translate zh_Hans stepsis_jenna_storyline_47_18c6c4c3:
@@ -9114,7 +9114,7 @@ translate zh_Hans stepsis_jenna_storyline_49_c4e5fd65:
     # nvl clear
     # nvlstepsis "👀"
     nvl clear
-    nvlstepsis "👀"
+    nvlstepsis ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:4783
 translate zh_Hans stepsis_jenna_storyline_49_c3f3249e:
@@ -9180,7 +9180,7 @@ translate zh_Hans stepsis_jenna_storyline_49_f687eec7:
 translate zh_Hans stepsis_jenna_storyline_49_ef56b406:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_634}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_634}"
+    nvlwife ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:4809
 translate zh_Hans stepsis_jenna_storyline_49_ff0b3917:
@@ -9198,7 +9198,7 @@ translate zh_Hans stepsis_jenna_storyline_49_bc8ea14b:
 translate zh_Hans stepsis_jenna_storyline_49_992a1fb7:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_146}"
-    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_146}"
+    nvlstepsis ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:4819
 translate zh_Hans stepsis_jenna_storyline_49_b6880a25:
@@ -9890,7 +9890,7 @@ translate zh_Hans stepsis_jenna_storyline_53_b9f3ca6a:
 translate zh_Hans stepsis_jenna_storyline_53_f5a27c7a:
 
     # nvlmateo "{a=show:show_chat_media}{image=sis_video_33_ns}"
-    nvlmateo "{a=show:show_chat_media}{image=sis_video_33_ns}"
+    nvlmateo ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:5175
 translate zh_Hans stepsis_jenna_storyline_53_6ce40d93:
@@ -10060,7 +10060,7 @@ translate zh_Hans stepsis_jenna_storyline_54_b8c2613c:
 translate zh_Hans stepsis_jenna_storyline_54_487a8d76:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_video_33_ns}"
-    nvlstepsis "{a=show:show_chat_media}{image=sis_video_33_ns}"
+    nvlstepsis ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:5264
 translate zh_Hans stepsis_jenna_storyline_54_2608cda5:
@@ -10694,7 +10694,7 @@ translate zh_Hans stepsis_jenna_storyline_59_219da7b4:
 translate zh_Hans stepsis_jenna_storyline_59_7e05b38d:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_102}"
-    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_102}"
+    nvlstepsis ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:5631
 translate zh_Hans stepsis_jenna_storyline_59_9dca214b:
@@ -10820,7 +10820,7 @@ translate zh_Hans stepsis_jenna_storyline_60_12760ff6:
 translate zh_Hans stepsis_jenna_storyline_60_e17d5c89:
 
     # nvljenna "{a=show:show_chat_media}{image=sis_video_34_ns}"
-    nvljenna "{a=show:show_chat_media}{image=sis_video_34_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:5710
 translate zh_Hans stepsis_jenna_storyline_60_94d6b2a4:
@@ -10906,7 +10906,7 @@ translate zh_Hans stepsis_jenna_storyline_61_f2d8e570:
 translate zh_Hans stepsis_jenna_storyline_61_32fa375e:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_video_34_ns}"
-    nvlstepsis "{a=show:show_chat_media}{image=sis_video_34_ns}"
+    nvlstepsis ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:5773
 translate zh_Hans stepsis_jenna_storyline_61_ccac90e2:
@@ -10960,7 +10960,7 @@ translate zh_Hans stepsis_jenna_storyline_61_7c2bd0cd:
 translate zh_Hans stepsis_jenna_storyline_61_dc35335c:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_78}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_78}"
+    nvlwife ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:5795
 translate zh_Hans stepsis_jenna_storyline_61_6b7e21d2:
@@ -11218,7 +11218,7 @@ translate zh_Hans stepsis_jenna_storyline_64_ff677bff:
 translate zh_Hans stepsis_jenna_storyline_64_a35704c7:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_262}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_262}"
+    nvlwife ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:5984
 translate zh_Hans stepsis_jenna_storyline_64_df5f1077:
@@ -11358,7 +11358,7 @@ translate zh_Hans stepsis_jenna_storyline_65_cc3aef8d:
 translate zh_Hans stepsis_jenna_storyline_65_c19eb44f:
 
     # nvlwife "{a=show:show_chat_media}{image=sis_video_35_ns}"
-    nvlwife "{a=show:show_chat_media}{image=sis_video_35_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:6065
 translate zh_Hans stepsis_jenna_storyline_65_70d84204:
@@ -12014,7 +12014,7 @@ translate zh_Hans stepsis_jenna_storyline_69_c1b35702:
 translate zh_Hans stepsis_jenna_storyline_69_e5762b3f:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_307_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_307_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:6411
 translate zh_Hans stepsis_jenna_storyline_69_d727ec79:
@@ -12068,7 +12068,7 @@ translate zh_Hans stepsis_jenna_storyline_69_0986d05e:
 translate zh_Hans stepsis_jenna_storyline_69_77700f05:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_video_36_ns}"
-    nvlstepsis "{a=show:show_chat_media}{image=sis_video_36_ns}"
+    nvlstepsis ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:6433
 translate zh_Hans stepsis_jenna_storyline_69_d514e2be:
@@ -12244,7 +12244,7 @@ translate zh_Hans stepsis_jenna_storyline_70_9dabd56e:
 translate zh_Hans stepsis_jenna_storyline_70_14d0ad85:
 
     # nvlstepsis "🙄"
-    nvlstepsis "🙄"
+    nvlstepsis ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:6542
 translate zh_Hans stepsis_jenna_storyline_70_53c71d7c:
@@ -12380,7 +12380,7 @@ translate zh_Hans stepsis_jenna_storyline_72_4d71e651:
 translate zh_Hans stepsis_jenna_storyline_72_988833f8:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_147}"
-    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_147}"
+    nvlstepsis ""
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:6640
 translate zh_Hans stepsis_jenna_storyline_72_55a02050:

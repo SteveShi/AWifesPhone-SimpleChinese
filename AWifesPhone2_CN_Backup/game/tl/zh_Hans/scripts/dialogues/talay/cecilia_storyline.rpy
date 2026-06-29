@@ -126,7 +126,7 @@ translate zh_Hans cecilia_storyline_21_c38d3f62:
 translate zh_Hans cecilia_storyline_21_b5ebfb8e:
 
     # nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_27}"
-    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_27}|{a=show:show_chat_media}{image=cecilia_pic_27}"
+    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_27}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:118
 translate zh_Hans cecilia_storyline_21_cbc800ff:
@@ -204,7 +204,7 @@ translate zh_Hans cecilia_storyline_21_1fa2ccee:
 translate zh_Hans cecilia_storyline_21_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:144
 translate zh_Hans cecilia_storyline_21_7cfdfd9c:
@@ -332,7 +332,7 @@ translate zh_Hans cecilia_storyline_22_43104f3b:
 translate zh_Hans cecilia_storyline_22_4350cdc3:
 
     # nvlcecilia "❤️"
-    nvlcecilia "❤️|❤️"
+    nvlcecilia "❤️|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:219
 translate zh_Hans cecilia_storyline_22_114cc490:
@@ -404,7 +404,7 @@ translate zh_Hans cecilia_storyline_23_76b2fe88:
 translate zh_Hans cecilia_storyline_23_2679216d:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_pic_28}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_28}|{a=show:show_chat_media}{image=cecilia_pic_28}"
+    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_28}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:278
 translate zh_Hans cecilia_storyline_23_ee51a085:
@@ -458,7 +458,7 @@ translate zh_Hans cecilia_storyline_23_4c00fa78:
 translate zh_Hans cecilia_storyline_23_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:296
 translate zh_Hans cecilia_storyline_23_814b8495:
@@ -662,7 +662,7 @@ translate zh_Hans cecilia_storyline_23_7028def7:
 translate zh_Hans cecilia_storyline_23_4350cdc3:
 
     # nvlcecilia "❤️"
-    nvlcecilia "❤️|❤️"
+    nvlcecilia "❤️|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:378
 translate zh_Hans cecilia_storyline_23_53c71d7c:
@@ -928,7 +928,7 @@ translate zh_Hans cecilia_storyline_24_97e6faaf:
 translate zh_Hans cecilia_storyline_24_4350cdc3:
 
     # nvlcecilia "❤️"
-    nvlcecilia "❤️|❤️"
+    nvlcecilia "❤️|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:485
 translate zh_Hans cecilia_storyline_24_8f3f808c:
@@ -1218,7 +1218,7 @@ translate zh_Hans cecilia_storyline_25_9197521a:
 translate zh_Hans cecilia_storyline_25_4e8266bb:
 
     # nvltalay "😊"
-    nvltalay "😊|😊"
+    nvltalay "😊|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:627
 translate zh_Hans cecilia_storyline_25_53c71d7c:
@@ -1370,7 +1370,7 @@ translate zh_Hans cecilia_storyline_26_e34ba43c:
 translate zh_Hans cecilia_storyline_26_8c7afd52:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_pic_29}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_29}|{a=show:show_chat_media}{image=cecilia_pic_29}"
+    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_29}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:700
 translate zh_Hans cecilia_storyline_26_4f438a71:
@@ -1388,7 +1388,7 @@ translate zh_Hans cecilia_storyline_26_d133e4c1:
 translate zh_Hans cecilia_storyline_26_735e4578:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_pic_30}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_30}|{a=show:show_chat_media}{image=cecilia_pic_30}"
+    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_30}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:710
 translate zh_Hans cecilia_storyline_26_419f02d4:
@@ -1406,7 +1406,7 @@ translate zh_Hans cecilia_storyline_26_dc645139:
 translate zh_Hans cecilia_storyline_26_be664e96:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_pic_31}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_31}|{a=show:show_chat_media}{image=cecilia_pic_31}"
+    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_31}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:720
 translate zh_Hans cecilia_storyline_26_8991cde7:
@@ -1424,7 +1424,7 @@ translate zh_Hans cecilia_storyline_26_ea6b04a8:
 translate zh_Hans cecilia_storyline_26_4a08a984:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_pic_32}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_32}|{a=show:show_chat_media}{image=cecilia_pic_32}"
+    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_32}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:730
 translate zh_Hans cecilia_storyline_26_a3622a77:
@@ -1550,7 +1550,7 @@ translate zh_Hans cecilia_storyline_26_39c39b5f:
 translate zh_Hans cecilia_storyline_26_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:772
 translate zh_Hans cecilia_storyline_26_ec182878:
@@ -1772,7 +1772,7 @@ translate zh_Hans cecilia_storyline_26_fd2cc37f:
 translate zh_Hans cecilia_storyline_26_7633828e_1:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:846
 translate zh_Hans cecilia_storyline_26_9f24bf41:
@@ -1796,7 +1796,7 @@ translate zh_Hans cecilia_storyline_26_85e8cc23:
 translate zh_Hans cecilia_storyline_26_4350cdc3:
 
     # nvlcecilia "❤️"
-    nvlcecilia "❤️|❤️"
+    nvlcecilia "❤️|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:854
 translate zh_Hans cecilia_storyline_26_570a6c3c:
@@ -1960,7 +1960,7 @@ translate zh_Hans cecilia_storyline_27_9a613a07:
 translate zh_Hans cecilia_storyline_27_a1061e0c:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_pic_33}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_33}|{a=show:show_chat_media}{image=cecilia_pic_33}"
+    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_33}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:945
 translate zh_Hans cecilia_storyline_27_bbc8f85a:
@@ -2068,7 +2068,7 @@ translate zh_Hans cecilia_storyline_27_f20e37ea:
 translate zh_Hans cecilia_storyline_27_4350cdc3:
 
     # nvlcecilia "❤️"
-    nvlcecilia "❤️|❤️"
+    nvlcecilia "❤️|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:981
 translate zh_Hans cecilia_storyline_27_e53e4c09:
@@ -2086,7 +2086,7 @@ translate zh_Hans cecilia_storyline_27_b1f3915a:
 translate zh_Hans cecilia_storyline_27_08e9b58b:
 
     # nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_34}"
-    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_34}|{a=show:show_chat_media}{image=cecilia_pic_34}"
+    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_34}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:991
 translate zh_Hans cecilia_storyline_27_b8aa5260:
@@ -2214,7 +2214,7 @@ translate zh_Hans cecilia_storyline_28_2fa3599e:
 translate zh_Hans cecilia_storyline_28_918706c0:
 
     # nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_35}"
-    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_35}|{a=show:show_chat_media}{image=cecilia_pic_35}"
+    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_35}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:1068
 translate zh_Hans cecilia_storyline_28_d7da36e9:
@@ -2232,7 +2232,7 @@ translate zh_Hans cecilia_storyline_28_f7a1aa94:
 translate zh_Hans cecilia_storyline_28_6c6fd95d:
 
     # nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_36}"
-    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_36}|{a=show:show_chat_media}{image=cecilia_pic_36}"
+    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_36}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:1078
 translate zh_Hans cecilia_storyline_28_46caf7b2:
@@ -2674,7 +2674,7 @@ translate zh_Hans cecilia_storyline_30_4670f1c5:
 translate zh_Hans cecilia_storyline_30_b219014e:
 
     # nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_37}"
-    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_37}|{a=show:show_chat_media}{image=cecilia_pic_37}"
+    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_37}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:1290
 translate zh_Hans cecilia_storyline_30_cefd3799:
@@ -2704,7 +2704,7 @@ translate zh_Hans cecilia_storyline_30_d78825ca:
 translate zh_Hans cecilia_storyline_30_35bcdc5b:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_pic_38}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_38}|{a=show:show_chat_media}{image=cecilia_pic_38}"
+    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_38}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:1304
 translate zh_Hans cecilia_storyline_30_56f0f9d4:
@@ -3406,7 +3406,7 @@ translate zh_Hans cecilia_storyline_33_37b00b93:
 translate zh_Hans cecilia_storyline_33_d63f6129:
 
     # nvlcecilia "😊"
-    nvlcecilia "😊|😊"
+    nvlcecilia "😊|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:1635
 translate zh_Hans cecilia_storyline_33_daa6df89:
@@ -3448,7 +3448,7 @@ translate zh_Hans cecilia_storyline_33_4cdc7732:
 translate zh_Hans cecilia_storyline_33_4350cdc3:
 
     # nvlcecilia "❤️"
-    nvlcecilia "❤️|❤️"
+    nvlcecilia "❤️|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:1649
 translate zh_Hans cecilia_storyline_33_4b12dae1:
@@ -3540,7 +3540,7 @@ translate zh_Hans cecilia_storyline_34_fc272008:
 translate zh_Hans cecilia_storyline_34_579ed51c:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_pic_39}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_39}|{a=show:show_chat_media}{image=cecilia_pic_39}"
+    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_39}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:1716
 translate zh_Hans cecilia_storyline_34_c275e1fc:
@@ -3564,7 +3564,7 @@ translate zh_Hans cecilia_storyline_34_3f3fb57f:
 translate zh_Hans cecilia_storyline_34_bf8480c8:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_pic_40}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_40}|{a=show:show_chat_media}{image=cecilia_pic_40}"
+    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_40}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:1728
 translate zh_Hans cecilia_storyline_34_a948895a:
@@ -3806,13 +3806,13 @@ translate zh_Hans cecilia_storyline_35_2693638f:
 translate zh_Hans cecilia_storyline_35_d63f6129:
 
     # nvlcecilia "😊"
-    nvlcecilia "😊|😊"
+    nvlcecilia "😊|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:1843
 translate zh_Hans cecilia_storyline_35_ad5e1fee:
 
     # nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_41}"
-    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_41}|{a=show:show_chat_media}{image=cecilia_pic_41}"
+    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_41}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:1847
 translate zh_Hans cecilia_storyline_35_0ab73bc1:
@@ -3986,7 +3986,7 @@ translate zh_Hans cecilia_storyline_35_0bd49c36:
 translate zh_Hans cecilia_storyline_35_4350cdc3:
 
     # nvlcecilia "❤️"
-    nvlcecilia "❤️|❤️"
+    nvlcecilia "❤️|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:1905
 translate zh_Hans cecilia_storyline_35_d5f9c53a:
@@ -4222,7 +4222,7 @@ translate zh_Hans cecilia_storyline_36_dc645139:
 translate zh_Hans cecilia_storyline_36_77c1ce97:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_video_10_ns}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_video_10_ns}|{a=show:show_chat_media}{image=cecilia_video_10_ns}"
+    nvljohn "{a=show:show_chat_media}{image=cecilia_video_10_ns}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:2018
 translate zh_Hans cecilia_storyline_36_3d7b0b0d:
@@ -4240,7 +4240,7 @@ translate zh_Hans cecilia_storyline_36_4e229b30:
 translate zh_Hans cecilia_storyline_36_6ede8a63:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_video_11_ns}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_video_11_ns}|{a=show:show_chat_media}{image=cecilia_video_11_ns}"
+    nvljohn "{a=show:show_chat_media}{image=cecilia_video_11_ns}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:2028
 translate zh_Hans cecilia_storyline_36_1f0a7b39:
@@ -4288,7 +4288,7 @@ translate zh_Hans cecilia_storyline_36_40e27a1b:
 translate zh_Hans cecilia_storyline_36_d9315553:
 
     # nvljohn "{a=show:show_chat_media}{image=dick_pic_8}"
-    nvljohn "{a=show:show_chat_media}{image=dick_pic_8}|{a=show:show_chat_media}{image=dick_pic_8}"
+    nvljohn "{a=show:show_chat_media}{image=dick_pic_8}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:2048
 translate zh_Hans cecilia_storyline_36_9e1a6712:
@@ -4300,7 +4300,7 @@ translate zh_Hans cecilia_storyline_36_9e1a6712:
 translate zh_Hans cecilia_storyline_36_55d74413:
 
     # nvlcecilia "❤️❤️❤️"
-    nvlcecilia "❤️❤️❤️"
+    nvlcecilia ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:2052
 translate zh_Hans cecilia_storyline_36_ed45fe81:
@@ -4918,7 +4918,7 @@ translate zh_Hans cecilia_storyline_39_0b69aea9:
 translate zh_Hans cecilia_storyline_39_cab061d2:
 
     # nvlcecilia "Alright ❤️"
-    nvlcecilia "Alright ❤️"
+    nvlcecilia ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:2355
 translate zh_Hans cecilia_storyline_39_66a9e826:
@@ -4930,7 +4930,7 @@ translate zh_Hans cecilia_storyline_39_66a9e826:
 translate zh_Hans cecilia_storyline_39_83b6a3a3:
 
     # nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_42}"
-    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_42}|{a=show:show_chat_media}{image=cecilia_pic_42}"
+    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_42}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:2363
 translate zh_Hans cecilia_storyline_39_d7da36e9:
@@ -5020,7 +5020,7 @@ translate zh_Hans cecilia_storyline_39_ea2b97cf:
 translate zh_Hans cecilia_storyline_39_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:2393
 translate zh_Hans cecilia_storyline_39_ec371b83:
@@ -5142,7 +5142,7 @@ translate zh_Hans cecilia_storyline_40_d5205f68:
 translate zh_Hans cecilia_storyline_40_f6a201ff:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_pic_44}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_44}|{a=show:show_chat_media}{image=cecilia_pic_44}"
+    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_44}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:2470
 translate zh_Hans cecilia_storyline_40_a2f71fc0:
@@ -5166,7 +5166,7 @@ translate zh_Hans cecilia_storyline_40_40e27a1b:
 translate zh_Hans cecilia_storyline_40_c27690a6:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_pic_43}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_43}|{a=show:show_chat_media}{image=cecilia_pic_43}"
+    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_43}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:2482
 translate zh_Hans cecilia_storyline_40_cb0955d9:
@@ -5436,7 +5436,7 @@ translate zh_Hans cecilia_storyline_40_750a3698:
 translate zh_Hans cecilia_storyline_40_4350cdc3:
 
     # nvlcecilia "❤️"
-    nvlcecilia "❤️|❤️"
+    nvlcecilia "❤️|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:2572
 translate zh_Hans cecilia_storyline_40_74df02f8:
@@ -5496,7 +5496,7 @@ translate zh_Hans cecilia_storyline_40_ca3a0b88:
 translate zh_Hans cecilia_storyline_40_4350cdc3_1:
 
     # nvlcecilia "❤️"
-    nvlcecilia "❤️|❤️"
+    nvlcecilia "❤️|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:2592
 translate zh_Hans cecilia_storyline_40_f20a4e7d:
@@ -5716,7 +5716,7 @@ translate zh_Hans cecilia_storyline_42_a03d5a7d:
 translate zh_Hans cecilia_storyline_42_7bb5ebc1:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_pic_45}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_45}|{a=show:show_chat_media}{image=cecilia_pic_45}"
+    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_45}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:2732
 translate zh_Hans cecilia_storyline_42_b9d2412e:
@@ -5842,7 +5842,7 @@ translate zh_Hans cecilia_storyline_42_89798bde:
 translate zh_Hans cecilia_storyline_42_4350cdc3:
 
     # nvlcecilia "❤️"
-    nvlcecilia "❤️|❤️"
+    nvlcecilia "❤️|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:2788
 translate zh_Hans cecilia_storyline_42_53c71d7c:
@@ -6588,7 +6588,7 @@ translate zh_Hans cecilia_storyline_46_e8aaa70b:
 translate zh_Hans cecilia_storyline_46_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3152
 translate zh_Hans cecilia_storyline_46_b2c0eb5e:
@@ -6666,7 +6666,7 @@ translate zh_Hans cecilia_storyline_46_46c59772:
 translate zh_Hans cecilia_storyline_46_6f671b40:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_pic_47}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_47}|{a=show:show_chat_media}{image=cecilia_pic_47}"
+    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_47}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3182
 translate zh_Hans cecilia_storyline_46_56f0f9d4:
@@ -6684,7 +6684,7 @@ translate zh_Hans cecilia_storyline_46_047136eb:
 translate zh_Hans cecilia_storyline_46_1c131048:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_pic_48}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_48}|{a=show:show_chat_media}{image=cecilia_pic_48}"
+    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_48}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3192
 translate zh_Hans cecilia_storyline_46_439e9a6b:
@@ -6816,7 +6816,7 @@ translate zh_Hans cecilia_storyline_46_846b3eb7:
 translate zh_Hans cecilia_storyline_46_4350cdc3:
 
     # nvlcecilia "❤️"
-    nvlcecilia "❤️|❤️"
+    nvlcecilia "❤️|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3236
 translate zh_Hans cecilia_storyline_46_60b65623:
@@ -7270,7 +7270,7 @@ translate zh_Hans cecilia_storyline_48_521c7406:
 translate zh_Hans cecilia_storyline_48_da5d4594:
 
     # nvljohn "Where do you want to meet?"
-    nvljohn "您想在哪里见面？"
+    nvljohn "你想在哪里见面？"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3452
 translate zh_Hans cecilia_storyline_48_4f360c62:
@@ -7386,7 +7386,7 @@ translate zh_Hans cecilia_storyline_49_6ae10201:
 translate zh_Hans cecilia_storyline_49_4350cdc3:
 
     # nvlcecilia "❤️"
-    nvlcecilia "❤️|❤️"
+    nvlcecilia "❤️|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3521
 translate zh_Hans cecilia_storyline_49_ce8501eb:
@@ -7470,7 +7470,7 @@ translate zh_Hans cecilia_storyline_49_ccd7c6ae:
 translate zh_Hans cecilia_storyline_49_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3549
 translate zh_Hans cecilia_storyline_49_b0e20bd2:
@@ -7560,7 +7560,7 @@ translate zh_Hans cecilia_storyline_49_2ac4a108:
 translate zh_Hans cecilia_storyline_49_69ff8bf4:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_pic_49}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_49}|{a=show:show_chat_media}{image=cecilia_pic_49}"
+    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_49}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3583
 translate zh_Hans cecilia_storyline_49_8b97f136:
@@ -7596,7 +7596,7 @@ translate zh_Hans cecilia_storyline_49_41a164e4:
 translate zh_Hans cecilia_storyline_49_2442ce01:
 
     # nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_50}"
-    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_50}|{a=show:show_chat_media}{image=cecilia_pic_50}"
+    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_50}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3599
 translate zh_Hans cecilia_storyline_49_a6edaf2b:
@@ -7650,7 +7650,7 @@ translate zh_Hans cecilia_storyline_49_3e45b802:
 translate zh_Hans cecilia_storyline_49_d63f6129:
 
     # nvlcecilia "😊"
-    nvlcecilia "😊|😊"
+    nvlcecilia "😊|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3617
 translate zh_Hans cecilia_storyline_49_b53a5f55:
@@ -7766,7 +7766,7 @@ translate zh_Hans cecilia_storyline_50_3a80b2f3:
 translate zh_Hans cecilia_storyline_50_7f0b4633:
 
     # nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_46}"
-    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_46}|{a=show:show_chat_media}{image=cecilia_pic_46}"
+    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_46}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3690
 translate zh_Hans cecilia_storyline_50_a6edaf2b:
@@ -7808,7 +7808,7 @@ translate zh_Hans cecilia_storyline_50_a5d48d88:
 translate zh_Hans cecilia_storyline_50_4350cdc3:
 
     # nvlcecilia "❤️"
-    nvlcecilia "❤️|❤️"
+    nvlcecilia "❤️|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3704
 translate zh_Hans cecilia_storyline_50_0b579514:
@@ -8086,7 +8086,7 @@ translate zh_Hans cecilia_storyline_51_b25827bf:
 translate zh_Hans cecilia_storyline_51_9ef137e4:
 
     # nvljohn "❤️"
-    nvljohn "❤️|❤️"
+    nvljohn "❤️|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3829
 translate zh_Hans cecilia_storyline_51_64f92328:
@@ -8134,7 +8134,7 @@ translate zh_Hans cecilia_storyline_51_931edafb:
 translate zh_Hans cecilia_storyline_51_d49cdf59:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_pic_51}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_51}|{a=show:show_chat_media}{image=cecilia_pic_51}"
+    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_51}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3849
 translate zh_Hans cecilia_storyline_51_bbab18fc:
@@ -8750,7 +8750,7 @@ translate zh_Hans cecilia_storyline_53_3e356809:
 translate zh_Hans cecilia_storyline_53_4350cdc3:
 
     # nvlcecilia "❤️"
-    nvlcecilia "❤️|❤️"
+    nvlcecilia "❤️|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:4131
 translate zh_Hans cecilia_storyline_53_8f3f808c:
@@ -8884,7 +8884,7 @@ translate zh_Hans cecilia_storyline_54_c46c8a5a:
 translate zh_Hans cecilia_storyline_54_4350cdc3:
 
     # nvlcecilia "❤️"
-    nvlcecilia "❤️|❤️"
+    nvlcecilia "❤️|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:4220
 translate zh_Hans cecilia_storyline_54_53c71d7c:
@@ -8928,7 +8928,7 @@ translate zh_Hans cecilia_storyline_55_9589e65a:
 translate zh_Hans cecilia_storyline_55_44490b13:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_pic_52}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_52}|{a=show:show_chat_media}{image=cecilia_pic_52}"
+    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_52}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:4257
 translate zh_Hans cecilia_storyline_55_01ebd0d2:
@@ -8946,7 +8946,7 @@ translate zh_Hans cecilia_storyline_55_4233fa40:
 translate zh_Hans cecilia_storyline_55_614a2653:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_pic_53}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_53}|{a=show:show_chat_media}{image=cecilia_pic_53}"
+    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_53}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:4267
 translate zh_Hans cecilia_storyline_55_796f28c9:
@@ -8958,7 +8958,7 @@ translate zh_Hans cecilia_storyline_55_796f28c9:
 translate zh_Hans cecilia_storyline_55_9ef137e4:
 
     # nvljohn "❤️"
-    nvljohn "❤️|❤️"
+    nvljohn "❤️|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:4271
 translate zh_Hans cecilia_storyline_55_24fc5b6a:
@@ -9060,7 +9060,7 @@ translate zh_Hans cecilia_storyline_55_4b2187fc:
 translate zh_Hans cecilia_storyline_55_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:4305
 translate zh_Hans cecilia_storyline_55_b5154e96:
@@ -10370,7 +10370,7 @@ translate zh_Hans cecilia_storyline_59_d85b92b7:
 translate zh_Hans cecilia_storyline_59_58741ddf:
 
     # nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_54}"
-    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_54}|{a=show:show_chat_media}{image=cecilia_pic_54}"
+    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_54}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:4885
 translate zh_Hans cecilia_storyline_59_e140103a:
@@ -10568,7 +10568,7 @@ translate zh_Hans cecilia_storyline_59_a9c06861:
 translate zh_Hans cecilia_storyline_59_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:4951
 translate zh_Hans cecilia_storyline_59_863e0c40:
@@ -10724,7 +10724,7 @@ translate zh_Hans cecilia_storyline_60_76b2fe88:
 translate zh_Hans cecilia_storyline_60_9fb97b00:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_pic_55}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_55}|{a=show:show_chat_media}{image=cecilia_pic_55}"
+    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_55}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:5038
 translate zh_Hans cecilia_storyline_60_63e48c43:
@@ -10742,7 +10742,7 @@ translate zh_Hans cecilia_storyline_60_58d93598:
 translate zh_Hans cecilia_storyline_60_107b171f:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_pic_56}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_56}|{a=show:show_chat_media}{image=cecilia_pic_56}"
+    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_56}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:5048
 translate zh_Hans cecilia_storyline_60_9b85a91f:
@@ -10784,7 +10784,7 @@ translate zh_Hans cecilia_storyline_60_439c093b:
 translate zh_Hans cecilia_storyline_60_457bb186:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_pic_57}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_57}|{a=show:show_chat_media}{image=cecilia_pic_57}"
+    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_57}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:5066
 translate zh_Hans cecilia_storyline_60_61c7a562:
@@ -10802,13 +10802,13 @@ translate zh_Hans cecilia_storyline_60_044ac83a:
 translate zh_Hans cecilia_storyline_60_07fcca6b:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_pic_58}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_58}|{a=show:show_chat_media}{image=cecilia_pic_58}"
+    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_58}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:5076
 translate zh_Hans cecilia_storyline_60_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:5078
 translate zh_Hans cecilia_storyline_60_3da5816a:
@@ -10946,7 +10946,7 @@ translate zh_Hans cecilia_storyline_60_cfe608ef:
 translate zh_Hans cecilia_storyline_60_4350cdc3:
 
     # nvlcecilia "❤️"
-    nvlcecilia "❤️|❤️"
+    nvlcecilia "❤️|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:5124
 translate zh_Hans cecilia_storyline_60_df82d528:
@@ -11036,7 +11036,7 @@ translate zh_Hans cecilia_storyline_60_3b1a058e:
 translate zh_Hans cecilia_storyline_60_9ef137e4:
 
     # nvljohn "❤️"
-    nvljohn "❤️|❤️"
+    nvljohn "❤️|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:5154
 translate zh_Hans cecilia_storyline_60_f0bb2cd4:
@@ -11688,7 +11688,7 @@ translate zh_Hans cecilia_storyline_62_baadd4e8:
 translate zh_Hans cecilia_storyline_62_82d3cb81:
 
     # nvlcecilia "😔"
-    nvlcecilia "😔"
+    nvlcecilia ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:5434
 translate zh_Hans cecilia_storyline_62_2a0f67c7:
@@ -12694,7 +12694,7 @@ translate zh_Hans cecilia_storyline_64_bc8116df:
 translate zh_Hans cecilia_storyline_64_07f5b450:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_pic_26}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_26}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:5850
 translate zh_Hans cecilia_storyline_64_56f0f9d4:
@@ -12712,7 +12712,7 @@ translate zh_Hans cecilia_storyline_64_f2138c9f:
 translate zh_Hans cecilia_storyline_64_fe31872e:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_pic_35}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_35}|{a=show:show_chat_media}{image=cecilia_pic_35}"
+    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_35}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:5858
 translate zh_Hans cecilia_storyline_64_f36ec7b8:
@@ -12736,7 +12736,7 @@ translate zh_Hans cecilia_storyline_64_a000b816_1:
 translate zh_Hans cecilia_storyline_64_594ab942:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_pic_37}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_37}|{a=show:show_chat_media}{image=cecilia_pic_37}"
+    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_37}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:5868
 translate zh_Hans cecilia_storyline_64_a8fa4ac7:
@@ -13208,7 +13208,7 @@ translate zh_Hans cecilia_storyline_66_c9b6dba6:
 translate zh_Hans cecilia_storyline_66_1d39f924:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_pic_59}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_59}|{a=show:show_chat_media}{image=cecilia_pic_59}"
+    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_59}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:6094
 translate zh_Hans cecilia_storyline_66_047136eb:
@@ -13226,7 +13226,7 @@ translate zh_Hans cecilia_storyline_66_0830ca95:
 translate zh_Hans cecilia_storyline_66_05ded930:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_pic_60}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_60}|{a=show:show_chat_media}{image=cecilia_pic_60}"
+    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_60}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:6104
 translate zh_Hans cecilia_storyline_66_dbb83791:
@@ -13244,7 +13244,7 @@ translate zh_Hans cecilia_storyline_66_f455408e:
 translate zh_Hans cecilia_storyline_66_d63f6129:
 
     # nvlcecilia "😊"
-    nvlcecilia "😊|😊"
+    nvlcecilia "😊|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:6110
 translate zh_Hans cecilia_storyline_66_f0e5a189:
@@ -13968,7 +13968,7 @@ translate zh_Hans cecilia_storyline_68_4440715e:
 translate zh_Hans cecilia_storyline_68_4350cdc3:
 
     # nvlcecilia "❤️"
-    nvlcecilia "❤️|❤️"
+    nvlcecilia "❤️|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:6414
 translate zh_Hans cecilia_storyline_68_e1b36a33:
@@ -14102,7 +14102,7 @@ translate zh_Hans cecilia_storyline_69_9b71a4dd:
 translate zh_Hans cecilia_storyline_69_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:6491
 translate zh_Hans cecilia_storyline_69_e3ca0d03:
@@ -14538,7 +14538,7 @@ translate zh_Hans cecilia_storyline_71_fba5e3f3:
 translate zh_Hans cecilia_storyline_71_4894822a:
 
     # nvlrick_cecilia "{a=show:show_chat_media}{image=cecilia_pic_61}"
-    nvlrick_cecilia "{a=show:show_chat_media}{image=cecilia_pic_61}"
+    nvlrick_cecilia ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:6725
 translate zh_Hans cecilia_storyline_71_4f419f42:
@@ -14562,7 +14562,7 @@ translate zh_Hans cecilia_storyline_71_a000b816:
 translate zh_Hans cecilia_storyline_71_9bc0af84:
 
     # nvlrick_cecilia "{a=show:show_chat_media}{image=cecilia_pic_62}"
-    nvlrick_cecilia "{a=show:show_chat_media}{image=cecilia_pic_62}"
+    nvlrick_cecilia ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:6737
 translate zh_Hans cecilia_storyline_71_5ddd1f23:
@@ -14580,7 +14580,7 @@ translate zh_Hans cecilia_storyline_71_c5a01a2a:
 translate zh_Hans cecilia_storyline_71_2f828892:
 
     # nvlrick_cecilia "{a=show:show_chat_media}{image=cecilia_pic_63}"
-    nvlrick_cecilia "{a=show:show_chat_media}{image=cecilia_pic_63}"
+    nvlrick_cecilia ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:6747
 translate zh_Hans cecilia_storyline_71_1d76f487:
@@ -14688,7 +14688,7 @@ translate zh_Hans cecilia_storyline_71_a000b816_1:
 translate zh_Hans cecilia_storyline_71_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:6783
 translate zh_Hans cecilia_storyline_71_3af95d10:
@@ -15076,7 +15076,7 @@ translate zh_Hans cecilia_storyline_73_cc1d5be2:
 translate zh_Hans cecilia_storyline_73_578a34e7:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_video_12_ns}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_video_12_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:6993
 translate zh_Hans cecilia_storyline_73_fe2f25da:
@@ -15258,7 +15258,7 @@ translate zh_Hans cecilia_storyline_74_d058084c:
 translate zh_Hans cecilia_storyline_74_3352f9e9:
 
     # nvlrick_cecilia "😂"
-    nvlrick_cecilia "😂"
+    nvlrick_cecilia ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:7086
 translate zh_Hans cecilia_storyline_74_b9ed9438:
@@ -15282,13 +15282,13 @@ translate zh_Hans cecilia_storyline_74_5f5f8f6f:
 translate zh_Hans cecilia_storyline_74_18b62c74:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_pic_64}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_64}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:7097
 translate zh_Hans cecilia_storyline_74_337e25e1:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_pic_65}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_65}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:7100
 translate zh_Hans cecilia_storyline_74_388fc3a8:
@@ -15786,7 +15786,7 @@ translate zh_Hans cecilia_storyline_77_06e69084:
 translate zh_Hans cecilia_storyline_77_520ee715:
 
     # nvljohn "How can I help you? 😘"
-    nvljohn "我能帮您什么吗？😘"
+    nvljohn "我能帮你什么吗？😘"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:7376
 translate zh_Hans cecilia_storyline_77_efac6792:
@@ -15938,7 +15938,7 @@ translate zh_Hans cecilia_storyline_78_74e98d36:
 translate zh_Hans cecilia_storyline_78_c4327646:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_video_13_ns}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_video_13_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:7461
 translate zh_Hans cecilia_storyline_78_2faaaf05:
@@ -16320,7 +16320,7 @@ translate zh_Hans cecilia_storyline_80_34d8a7fd:
 translate zh_Hans cecilia_storyline_80_274eaaf7:
 
     # nvlrick_cecilia "{a=show:show_chat_media}{image=cecilia_video_14_ns}"
-    nvlrick_cecilia "{a=show:show_chat_media}{image=cecilia_video_14_ns}"
+    nvlrick_cecilia ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:7655
 translate zh_Hans cecilia_storyline_80_d3785539:
@@ -16338,7 +16338,7 @@ translate zh_Hans cecilia_storyline_80_7eeb8464:
 translate zh_Hans cecilia_storyline_80_3f940f76:
 
     # nvlrick_cecilia "{a=show:show_chat_media}{image=cecilia_video_15_ns}"
-    nvlrick_cecilia "{a=show:show_chat_media}{image=cecilia_video_15_ns}"
+    nvlrick_cecilia ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:7663
 translate zh_Hans cecilia_storyline_80_66306ac2:
@@ -16826,7 +16826,7 @@ translate zh_Hans cecilia_storyline_82_673be979:
 translate zh_Hans cecilia_storyline_82_afd81cea:
 
     # nvlunknown8 "{a=show:show_chat_media}{image=cecilia_video_15_ns}"
-    nvlunknown8 "{a=show:show_chat_media}{image=cecilia_video_15_ns}"
+    nvlunknown8 ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:7904
 translate zh_Hans cecilia_storyline_82_66b628e8:
@@ -17300,13 +17300,13 @@ translate zh_Hans cecilia_storyline_85_e956a7e4:
 translate zh_Hans cecilia_storyline_85_dbb7d548:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_pic_66}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_66}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:8188
 translate zh_Hans cecilia_storyline_85_1bf87e38:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_pic_67}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_pic_67}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:8191
 translate zh_Hans cecilia_storyline_85_2b6c782a:
@@ -17552,13 +17552,13 @@ translate zh_Hans cecilia_storyline_88_95c06e39:
 translate zh_Hans cecilia_storyline_88_16611ac5:
 
     # nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_68}"
-    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_68}"
+    nvlcecilia ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:8373
 translate zh_Hans cecilia_storyline_88_abefc3be:
 
     # nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_69}"
-    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_69}"
+    nvlcecilia ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:8376
 translate zh_Hans cecilia_storyline_88_60398795:
@@ -17644,7 +17644,7 @@ translate zh_Hans cecilia_storyline_89_d2a8ca55:
 translate zh_Hans cecilia_storyline_89_d4d5a1e4:
 
     # nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_70}"
-    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_70}"
+    nvlcecilia ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:8439
 translate zh_Hans cecilia_storyline_89_91c95c99:
@@ -17722,7 +17722,7 @@ translate zh_Hans cecilia_storyline_89_3d4ac376:
 translate zh_Hans cecilia_storyline_89_35717ce4:
 
     # nvljohn "{a=show:show_chat_media}{image=mc_pic_62}"
-    nvljohn "{a=show:show_chat_media}{image=mc_pic_62}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:8467
 translate zh_Hans cecilia_storyline_89_82a85f2f:
@@ -17840,7 +17840,7 @@ translate zh_Hans cecilia_storyline_91_c5714c84:
 translate zh_Hans cecilia_storyline_91_bbf2628c:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_video_16_ns}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_video_16_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:8573
 translate zh_Hans cecilia_storyline_91_08542c14:
@@ -18372,7 +18372,7 @@ translate zh_Hans cecilia_storyline_93_4dcf07cd:
 translate zh_Hans cecilia_storyline_93_98fb248f:
 
     # nvljohn "Thanks again for handling this"
-    nvljohn "再次感谢您处理此事。"
+    nvljohn "再次感谢你处理此事。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:8815
 translate zh_Hans cecilia_storyline_93_2cc5de9c:
@@ -18664,7 +18664,7 @@ translate zh_Hans cecilia_storyline_95_8f2f5e75:
 translate zh_Hans cecilia_storyline_95_6108f742:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_video_17_ns}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_video_17_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:8991
 translate zh_Hans cecilia_storyline_95_b9f81d8f:
@@ -18694,7 +18694,7 @@ translate zh_Hans cecilia_storyline_95_e52b189d:
 translate zh_Hans cecilia_storyline_95_cc1ba276:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_video_18_ns}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_video_18_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:9003
 translate zh_Hans cecilia_storyline_95_87147966:
@@ -18976,7 +18976,7 @@ translate zh_Hans cecilia_storyline_98_5e34c4e9:
 translate zh_Hans cecilia_storyline_98_34c0107f:
 
     # nvlrick_cecilia "{a=show:show_chat_media}{image=cecilia_video_19_ns}"
-    nvlrick_cecilia "{a=show:show_chat_media}{image=cecilia_video_19_ns}"
+    nvlrick_cecilia ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:9198
 translate zh_Hans cecilia_storyline_98_408485f1:
@@ -19874,13 +19874,13 @@ translate zh_Hans cecilia_storyline_103_3066bae4:
 translate zh_Hans cecilia_storyline_103_fb724aaf:
 
     # nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_71}"
-    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_71}|{a=show:show_chat_media}{image=cecilia_pic_71}"
+    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_71}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:9669
 translate zh_Hans cecilia_storyline_103_62e2c0be:
 
     # nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_72}"
-    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_72}|{a=show:show_chat_media}{image=cecilia_pic_72}"
+    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_72}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:9672
 translate zh_Hans cecilia_storyline_103_7874f3a4:
@@ -19964,7 +19964,7 @@ translate zh_Hans cecilia_storyline_103_02ad446f:
 translate zh_Hans cecilia_storyline_103_cab061d2:
 
     # nvlcecilia "Alright ❤️"
-    nvlcecilia "Alright ❤️"
+    nvlcecilia ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:9700
 translate zh_Hans cecilia_storyline_103_211d970d:
@@ -20136,7 +20136,7 @@ translate zh_Hans cecilia_storyline_105_e8273385:
 translate zh_Hans cecilia_storyline_105_c4765f93:
 
     # nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_73}"
-    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_73}"
+    nvlcecilia ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:9826
 translate zh_Hans cecilia_storyline_105_f08c9b51:
@@ -20234,7 +20234,7 @@ translate zh_Hans cecilia_storyline_106_65443b5a:
 translate zh_Hans cecilia_storyline_106_ca169bdc:
 
     # nvlunknown8 "{a=show:show_chat_media}{image=cecilia_pic_73}"
-    nvlunknown8 "{a=show:show_chat_media}{image=cecilia_pic_73}"
+    nvlunknown8 ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:9892
 translate zh_Hans cecilia_storyline_106_c4e99018:
@@ -20350,7 +20350,7 @@ translate zh_Hans cecilia_storyline_107_04052408:
 translate zh_Hans cecilia_storyline_107_968fe22b:
 
     # nvlcecilia "{a=show:show_chat_media}{image=cecilia_video_20_ns}"
-    nvlcecilia "{a=show:show_chat_media}{image=cecilia_video_20_ns}"
+    nvlcecilia ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:9975
 translate zh_Hans cecilia_storyline_107_fa7c122a:
@@ -20540,7 +20540,7 @@ translate zh_Hans cecilia_storyline_109_c3c545a7:
 translate zh_Hans cecilia_storyline_109_4623d7e5:
 
     # nvlcecilia "{a=show:show_chat_media}{image=cecilia_video_21_ns}"
-    nvlcecilia "{a=show:show_chat_media}{image=cecilia_video_21_ns}"
+    nvlcecilia ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:10105
 translate zh_Hans cecilia_storyline_109_230570c8:
@@ -20618,13 +20618,13 @@ translate zh_Hans cecilia_storyline_109_37897101:
 translate zh_Hans cecilia_storyline_109_b94b45cc:
 
     # nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_74}"
-    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_74}"
+    nvlcecilia ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:10134
 translate zh_Hans cecilia_storyline_109_6d58cbb6:
 
     # nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_75}"
-    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_75}"
+    nvlcecilia ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:10137
 translate zh_Hans cecilia_storyline_109_428c367e:
@@ -21328,7 +21328,7 @@ translate zh_Hans cecilia_storyline_116_97b136fa:
 translate zh_Hans cecilia_storyline_116_81dc0ffb:
 
     # nvlalex "{a=show:show_chat_media}{image=cecilia_video_22_ns}"
-    nvlalex "{a=show:show_chat_media}{image=cecilia_video_22_ns}"
+    nvlalex ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:10607
 translate zh_Hans cecilia_storyline_116_30b6fe46:
@@ -21438,7 +21438,7 @@ translate zh_Hans cecilia_storyline_117_ac7ba6a0:
 translate zh_Hans cecilia_storyline_117_b4d017e9:
 
     # nvlcecilia "{a=show:show_chat_media}{image=cecilia_video_23_ns}"
-    nvlcecilia "{a=show:show_chat_media}{image=cecilia_video_23_ns}"
+    nvlcecilia ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:10678
 translate zh_Hans cecilia_storyline_117_70e8611f:
@@ -21640,13 +21640,13 @@ translate zh_Hans cecilia_storyline_119_952ac246:
 translate zh_Hans cecilia_storyline_119_2a1524a7:
 
     # nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_76}"
-    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_76}"
+    nvlcecilia ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:10813
 translate zh_Hans cecilia_storyline_119_edb95287:
 
     # nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_77}"
-    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_77}"
+    nvlcecilia ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:10816
 translate zh_Hans cecilia_storyline_119_4c2c1001:
@@ -21896,7 +21896,7 @@ translate zh_Hans cecilia_storyline_121_4335f2f7:
 translate zh_Hans cecilia_storyline_121_64ffcec7:
 
     # nvltalay "{a=show:show_chat_media}{image=cecilia_pic_76}"
-    nvltalay "{a=show:show_chat_media}{image=cecilia_pic_76}"
+    nvltalay ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:10975
 translate zh_Hans cecilia_storyline_121_ce3a5446:
@@ -22936,13 +22936,13 @@ translate zh_Hans cecilia_storyline_128_d487a074:
 translate zh_Hans cecilia_storyline_128_fbe716a8:
 
     # nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_80}"
-    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_80}"
+    nvlcecilia ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:11568
 translate zh_Hans cecilia_storyline_128_ae2f1084:
 
     # nvlcecilia "{a=show:show_chat_media}{image=cecilia_video_25_ns}"
-    nvlcecilia "{a=show:show_chat_media}{image=cecilia_video_25_ns}"
+    nvlcecilia ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:11572
 translate zh_Hans cecilia_storyline_128_10b53248:
@@ -24052,7 +24052,7 @@ translate zh_Hans cecilia_storyline_137_f3740648:
 translate zh_Hans cecilia_storyline_137_985934d5:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_video_26_ns}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_video_26_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:12248
 translate zh_Hans cecilia_storyline_137_3ec6c589:
@@ -24126,7 +24126,7 @@ translate zh_Hans cecilia_storyline_138_34630dce:
 translate zh_Hans cecilia_storyline_138_d17eb3c2:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_video_27_ns}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_video_27_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:12311
 translate zh_Hans cecilia_storyline_138_b0ffd11c:
@@ -24890,19 +24890,19 @@ translate zh_Hans cecilia_storyline_145_1d1ce978:
 translate zh_Hans cecilia_storyline_145_3a00b6f3:
 
     # nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_81}"
-    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_81}"
+    nvlcecilia ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:12803
 translate zh_Hans cecilia_storyline_145_a739142f:
 
     # nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_82}"
-    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_82}"
+    nvlcecilia ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:12809
 translate zh_Hans cecilia_storyline_145_bd884a17:
 
     # nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_83}"
-    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_83}"
+    nvlcecilia ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:12813
 translate zh_Hans cecilia_storyline_145_e78d9fc1:
@@ -25656,7 +25656,7 @@ translate zh_Hans cecilia_storyline_152_2ac822b3:
 translate zh_Hans cecilia_storyline_152_0dc60e3e:
 
     # nvlcecilia "{a=show:show_chat_media}{image=cecilia_video_28_ns}"
-    nvlcecilia "{a=show:show_chat_media}{image=cecilia_video_28_ns}|{a=show:show_chat_media}{image=cecilia_video_28_ns}"
+    nvlcecilia "{a=show:show_chat_media}{image=cecilia_video_28_ns}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:13311
 translate zh_Hans cecilia_storyline_152_e767cd93:
@@ -26298,13 +26298,13 @@ translate zh_Hans cecilia_storyline_158_233300b6:
 translate zh_Hans cecilia_storyline_158_7758ab6d:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_video_29_ns}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_video_29_ns}|{a=show:show_chat_media}{image=cecilia_video_29_ns}"
+    nvljohn "{a=show:show_chat_media}{image=cecilia_video_29_ns}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:13725
 translate zh_Hans cecilia_storyline_158_88d6ba63:
 
     # nvljohn "{a=show:show_chat_media}{image=cecilia_video_30_ns}"
-    nvljohn "{a=show:show_chat_media}{image=cecilia_video_30_ns}|{a=show:show_chat_media}{image=cecilia_video_30_ns}"
+    nvljohn "{a=show:show_chat_media}{image=cecilia_video_30_ns}|"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:13729
 translate zh_Hans cecilia_storyline_158_c61b3c25:
@@ -27050,7 +27050,7 @@ translate zh_Hans cecilia_storyline_165_ab1a968d:
 translate zh_Hans cecilia_storyline_165_d8f6e530:
 
     # nvljohn "But your safety and privacy come first"
-    nvljohn "但您的安全和隐私才是最重要的。"
+    nvljohn "但你的安全和隐私才是最重要的。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:14208
 translate zh_Hans cecilia_storyline_165_e33563e5:
@@ -27618,7 +27618,7 @@ translate zh_Hans cecilia_storyline_170_08679c2e:
 translate zh_Hans cecilia_storyline_170_daf26c2f:
 
     # nvlcecilia "😂"
-    nvlcecilia "😂"
+    nvlcecilia ""
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:14560
 translate zh_Hans cecilia_storyline_170_3d5b2d28:

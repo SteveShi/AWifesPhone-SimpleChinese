@@ -72,19 +72,19 @@ translate zh_Hans rick1_cuck_only_storyline_1_79ecd777:
 translate zh_Hans rick1_cuck_only_storyline_1_629fdf58:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_4}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_4}"
+    nvlwife ""
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:96
 translate zh_Hans rick1_cuck_only_storyline_1_cba793bf:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_10}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_10}"
+    nvlwife ""
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:100
 translate zh_Hans rick1_cuck_only_storyline_1_9d7e1440:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_439}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_439}"
+    nvlwife ""
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:103
 translate zh_Hans rick1_cuck_only_storyline_1_deae55a7:
@@ -286,13 +286,13 @@ translate zh_Hans rick1_cuck_only_storyline_3_d477d7ef:
 translate zh_Hans rick1_cuck_only_storyline_3_f825cbb7:
 
     # nvlrick1 "{a=show:show_chat_media}{image=rick1_pic_1}"
-    nvlrick1 "{a=show:show_chat_media}{image=rick1_pic_1}"
+    nvlrick1 ""
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:238
 translate zh_Hans rick1_cuck_only_storyline_3_47fc6641:
 
     # nvlrick1 "{a=show:show_chat_media}{image=rick1_pic_2}"
-    nvlrick1 "{a=show:show_chat_media}{image=rick1_pic_2}"
+    nvlrick1 ""
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:241
 translate zh_Hans rick1_cuck_only_storyline_3_ad575432:
@@ -342,13 +342,13 @@ translate zh_Hans rick1_cuck_only_storyline_4_d027c8ca:
 translate zh_Hans rick1_cuck_only_storyline_4_7e198543:
 
     # nvlwife "{a=show:show_chat_media}{image=rick1_pic_1}"
-    nvlwife "{a=show:show_chat_media}{image=rick1_pic_1}"
+    nvlwife ""
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:292
 translate zh_Hans rick1_cuck_only_storyline_4_56d59756:
 
     # nvlwife "{a=show:show_chat_media}{image=rick1_pic_2}"
-    nvlwife "{a=show:show_chat_media}{image=rick1_pic_2}"
+    nvlwife ""
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:294
 translate zh_Hans rick1_cuck_only_storyline_4_f823a5b5:
@@ -720,7 +720,7 @@ translate zh_Hans rick1_cuck_only_storyline_7_d933ecc8:
 translate zh_Hans rick1_cuck_only_storyline_7_57539d07:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_369}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_369}"
+    nvlwife ""
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:517
 translate zh_Hans rick1_cuck_only_storyline_7_663f832e:
@@ -806,7 +806,7 @@ translate zh_Hans rick1_cuck_only_storyline_8_54dc7d15:
 translate zh_Hans rick1_cuck_only_storyline_8_a45d32ca:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_pic_369}"
-    nvljohn "{a=show:show_chat_media}{image=wife_pic_369}"
+    nvljohn ""
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:579
 translate zh_Hans rick1_cuck_only_storyline_8_d6114ee5:
@@ -910,7 +910,7 @@ translate zh_Hans rick1_cuck_only_storyline_9_0259463b:
 translate zh_Hans rick1_cuck_only_storyline_9_2ee6acde:
 
     # nvljohn "Do you have any preference for day or time?"
-    nvljohn "您对日期或时间有什么偏好吗？"
+    nvljohn "你对日期或时间有什么偏好吗？"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:646
 translate zh_Hans rick1_cuck_only_storyline_9_a75f3fb5:
@@ -1578,7 +1578,7 @@ translate zh_Hans rick1_cuck_only_storyline_16_5265081a:
 translate zh_Hans rick1_cuck_only_storyline_16_4d99a77a:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_257_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_257_ns}"
+    nvljohn ""
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:1097
 translate zh_Hans rick1_cuck_only_storyline_16_1a03e5f8:
@@ -1608,7 +1608,7 @@ translate zh_Hans rick1_cuck_only_storyline_16_e8b577bc:
 translate zh_Hans rick1_cuck_only_storyline_16_d4e97b0a:
 
     # nvljohn "By the way, do you want to schedule the next session already?"
-    nvljohn "对了，您想安排下一次课程吗？"
+    nvljohn "对了，你想安排下一次课程吗？"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:1107
 translate zh_Hans rick1_cuck_only_storyline_16_c047aad7:
@@ -1822,7 +1822,7 @@ translate zh_Hans rick1_cuck_only_storyline_18_7d818afa:
 translate zh_Hans rick1_cuck_only_storyline_18_e3861a3b:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_35_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_35_ns}"
+    nvljohn ""
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:1245
 translate zh_Hans rick1_cuck_only_storyline_18_cf06c3aa:
@@ -1884,7 +1884,7 @@ translate zh_Hans rick1_cuck_only_storyline_19_3ed98e7c:
 translate zh_Hans rick1_cuck_only_storyline_19_e3861a3b:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_35_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_35_ns}"
+    nvljohn ""
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:1299
 translate zh_Hans rick1_cuck_only_storyline_19_b03210df:
@@ -1926,7 +1926,7 @@ translate zh_Hans rick1_cuck_only_storyline_19_e7a3403d:
 translate zh_Hans rick1_cuck_only_storyline_19_06556c18:
 
     # nvlrick1 "{a=show:show_chat_media}{image=rick1_pic_3}"
-    nvlrick1 "{a=show:show_chat_media}{image=rick1_pic_3}"
+    nvlrick1 ""
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:1315
 translate zh_Hans rick1_cuck_only_storyline_19_df608f27:
@@ -1982,7 +1982,7 @@ translate zh_Hans rick1_cuck_only_storyline_20_3743dceb:
 translate zh_Hans rick1_cuck_only_storyline_20_b70e93a2:
 
     # nvljohn "{a=show:show_chat_media}{image=rick1_pic_3}"
-    nvljohn "{a=show:show_chat_media}{image=rick1_pic_3}"
+    nvljohn ""
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:1367
 translate zh_Hans rick1_cuck_only_storyline_20_8960e0b1:
@@ -2262,13 +2262,13 @@ translate zh_Hans rick1_cuck_only_storyline_22_80a69090:
 translate zh_Hans rick1_cuck_only_storyline_22_3f2f3605:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_410_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_410_ns}"
+    nvlwife ""
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:1531
 translate zh_Hans rick1_cuck_only_storyline_22_6c3419e9:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_411_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_411_ns}"
+    nvlwife ""
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:1534
 translate zh_Hans rick1_cuck_only_storyline_22_756c2a45:
@@ -2652,13 +2652,13 @@ translate zh_Hans rick1_cuck_only_storyline_25_7c119d4c:
 translate zh_Hans rick1_cuck_only_storyline_25_e5eae215:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_pic_908}"
-    nvljohn "{a=show:show_chat_media}{image=wife_pic_908}"
+    nvljohn ""
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:1762
 translate zh_Hans rick1_cuck_only_storyline_25_d350c2f8:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_pic_909}"
-    nvljohn "{a=show:show_chat_media}{image=wife_pic_909}"
+    nvljohn ""
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:1765
 translate zh_Hans rick1_cuck_only_storyline_25_c45fc2c8:
@@ -2964,7 +2964,7 @@ translate zh_Hans rick1_cuck_only_storyline_28_11ae7da3:
 translate zh_Hans rick1_cuck_only_storyline_28_5a0beb12:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_910}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_910}"
+    nvlwife ""
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:1966
 translate zh_Hans rick1_cuck_only_storyline_28_7777f94e:
@@ -3074,13 +3074,13 @@ translate zh_Hans rick1_cuck_only_storyline_29_2c917005:
 translate zh_Hans rick1_cuck_only_storyline_29_7be22c53:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_412_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_412_ns}"
+    nvlwife ""
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:2038
 translate zh_Hans rick1_cuck_only_storyline_29_4cc70ada:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_413_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_413_ns}"
+    nvlwife ""
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:2041
 translate zh_Hans rick1_cuck_only_storyline_29_14d1d9e5:
@@ -3390,7 +3390,7 @@ translate zh_Hans rick1_cuck_only_storyline_31_55655f10:
 translate zh_Hans rick1_cuck_only_storyline_31_1df0837f:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_414_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_414_ns}"
+    nvlwife ""
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:2211
 translate zh_Hans rick1_cuck_only_storyline_31_1c92d1a8:
@@ -4132,7 +4132,7 @@ translate zh_Hans rick1_cuck_only_storyline_37_7b7bd0c1:
 translate zh_Hans rick1_cuck_only_storyline_37_7a05f64a:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_415_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_415_ns}"
+    nvlwife ""
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:2622
 translate zh_Hans rick1_cuck_only_storyline_37_2eadb33b:
@@ -4394,7 +4394,7 @@ translate zh_Hans rick1_cuck_only_storyline_39_0dac15cb:
 translate zh_Hans rick1_cuck_only_storyline_39_f8defd85:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_416_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_416_ns}"
+    nvlwife ""
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:2776
 translate zh_Hans rick1_cuck_only_storyline_39_66d071c0:
@@ -4612,7 +4612,7 @@ translate zh_Hans rick1_cuck_only_storyline_40_b0534d6f:
 translate zh_Hans rick1_cuck_only_storyline_40_d0fe4527:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_417_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_417_ns}"
+    nvlwife ""
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:2883
 translate zh_Hans rick1_cuck_only_storyline_40_852f1214:
@@ -5190,7 +5190,7 @@ translate zh_Hans rick1_cuck_only_storyline_44_519a6e62:
 translate zh_Hans rick1_cuck_only_storyline_44_3cc632f5:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_911}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_911}"
+    nvlwife ""
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:3207
 translate zh_Hans rick1_cuck_only_storyline_44_d726dfbe:
@@ -5524,7 +5524,7 @@ translate zh_Hans rick1_cuck_only_storyline_46_b1af2b3d:
 translate zh_Hans rick1_cuck_only_storyline_46_35a3e03e:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_418_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_418_ns}"
+    nvlwife ""
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:3385
 translate zh_Hans rick1_cuck_only_storyline_46_9031869b:

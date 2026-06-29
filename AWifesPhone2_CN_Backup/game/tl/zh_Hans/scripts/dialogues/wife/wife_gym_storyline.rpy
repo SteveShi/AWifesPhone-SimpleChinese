@@ -30,7 +30,7 @@ translate zh_Hans wife_gym_storyline_0_1b6610a0:
 translate zh_Hans wife_gym_storyline_0_c65111d4:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_627}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_627}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:57
 translate zh_Hans wife_gym_storyline_0_b1f1552f:
@@ -158,7 +158,7 @@ translate zh_Hans wife_gym_storyline_1_ec8d1921:
 translate zh_Hans wife_gym_storyline_1_092f732f:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_628}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_628}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:140
 translate zh_Hans wife_gym_storyline_1_eb82f113:
@@ -304,13 +304,13 @@ translate zh_Hans wife_gym_storyline_2_2b361d3c:
 translate zh_Hans wife_gym_storyline_2_3ad2b016:
 
     # nvlunknown "{a=show:show_chat_media}{image=wife_pic_629}"
-    nvlunknown "{a=show:show_chat_media}{image=wife_pic_629}"
+    nvlunknown ""
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:226
 translate zh_Hans wife_gym_storyline_2_08743d85:
 
     # nvlunknown "{a=show:show_chat_media}{image=wife_pic_630}"
-    nvlunknown "{a=show:show_chat_media}{image=wife_pic_630}"
+    nvlunknown ""
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:230
 translate zh_Hans wife_gym_storyline_2_397c334e:
@@ -534,7 +534,7 @@ translate zh_Hans wife_gym_storyline_3_6db117cb:
 translate zh_Hans wife_gym_storyline_3_639ca19d:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_631}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_631}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:355
 translate zh_Hans wife_gym_storyline_3_1c9b60e5:
@@ -600,7 +600,7 @@ translate zh_Hans wife_gym_storyline_3_f48c76fd:
 translate zh_Hans wife_gym_storyline_3_2b991cbc:
 
     # nvlwife "❤️"
-    nvlwife "❤️|❤️"
+    nvlwife "❤️|"
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:377
 translate zh_Hans wife_gym_storyline_3_ae0889b6:
@@ -656,7 +656,7 @@ translate zh_Hans wife_gym_storyline_4_6b1c9adc:
 translate zh_Hans wife_gym_storyline_4_7d3f3cd6:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_632}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_632}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:432
 translate zh_Hans wife_gym_storyline_4_5805f944:
@@ -820,7 +820,7 @@ translate zh_Hans wife_gym_storyline_5_db7f7a12:
 translate zh_Hans wife_gym_storyline_5_279d4a36:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_633}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_633}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:525
 translate zh_Hans wife_gym_storyline_5_5b757916:
@@ -1080,7 +1080,7 @@ translate zh_Hans wife_gym_storyline_7_76b2fe88:
 translate zh_Hans wife_gym_storyline_7_ef56b406:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_634}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_634}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:697
 translate zh_Hans wife_gym_storyline_7_9081457b:
@@ -1328,13 +1328,13 @@ translate zh_Hans wife_gym_storyline_8_ced0c4bd:
 translate zh_Hans wife_gym_storyline_8_ad520970:
 
     # nvlunknown "{a=show:show_chat_media}{image=wife_pic_635}"
-    nvlunknown "{a=show:show_chat_media}{image=wife_pic_635}"
+    nvlunknown ""
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:818
 translate zh_Hans wife_gym_storyline_8_7697bdf1:
 
     # nvlunknown "{a=show:show_chat_media}{image=wife_pic_636}"
-    nvlunknown "{a=show:show_chat_media}{image=wife_pic_636}"
+    nvlunknown ""
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:822
 translate zh_Hans wife_gym_storyline_8_79d32c5b:
@@ -1382,13 +1382,13 @@ translate zh_Hans wife_gym_storyline_8_297f0e96:
 translate zh_Hans wife_gym_storyline_8_59961f01:
 
     # nvlunknown "But we think you understand that he will want more"
-    nvlunknown "但我们认为您明白他会想要更多"
+    nvlunknown "但我们认为你明白他会想要更多"
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:838
 translate zh_Hans wife_gym_storyline_8_51d47bbf:
 
     # nvlunknown "Especially if your wife doesn't stop provoking him with his actions"
-    nvlunknown "特别是如果您的妻子不停止用她的行为来挑逗他"
+    nvlunknown "特别是如果你的妻子不停止用她的行为来挑逗他"
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:840
 translate zh_Hans wife_gym_storyline_8_656dfbc0:
@@ -1528,7 +1528,7 @@ translate zh_Hans wife_gym_storyline_9_0ea9207c:
 translate zh_Hans wife_gym_storyline_9_966ec0ae:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_637}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_637}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:925
 translate zh_Hans wife_gym_storyline_9_a6460667:
@@ -1790,7 +1790,7 @@ translate zh_Hans wife_gym_storyline_11_51e53c64:
 translate zh_Hans wife_gym_storyline_11_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:1079
 translate zh_Hans wife_gym_storyline_11_40ee57bf:
@@ -1838,7 +1838,7 @@ translate zh_Hans wife_gym_storyline_11_afaffe05:
 translate zh_Hans wife_gym_storyline_11_4852d534:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_pic_638}"
-    nvljenna "{a=show:show_chat_media}{image=wife_pic_638}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:1099
 translate zh_Hans wife_gym_storyline_11_f7f2d4f8:
@@ -2128,7 +2128,7 @@ translate zh_Hans wife_gym_storyline_12_c461700f:
 translate zh_Hans wife_gym_storyline_12_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:1243
 translate zh_Hans wife_gym_storyline_12_885d0d91:
@@ -2254,7 +2254,7 @@ translate zh_Hans wife_gym_storyline_12_7522d68f:
 translate zh_Hans wife_gym_storyline_12_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:1301
 translate zh_Hans wife_gym_storyline_12_53c71d7c:
@@ -2418,7 +2418,7 @@ translate zh_Hans wife_gym_storyline_13_cb217d65:
 translate zh_Hans wife_gym_storyline_13_0f9dfc9d:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_pic_639}"
-    nvljenna "{a=show:show_chat_media}{image=wife_pic_639}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:1378
 translate zh_Hans wife_gym_storyline_13_ce166507:
@@ -2526,7 +2526,7 @@ translate zh_Hans wife_gym_storyline_13_277f09eb:
 translate zh_Hans wife_gym_storyline_13_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:1414
 translate zh_Hans wife_gym_storyline_13_9e7e6642:
@@ -2694,7 +2694,7 @@ translate zh_Hans wife_gym_storyline_14_76b2fe88:
 translate zh_Hans wife_gym_storyline_14_83a064a4:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_640}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_640}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:1518
 translate zh_Hans wife_gym_storyline_14_6cdbf84c:
@@ -2928,7 +2928,7 @@ translate zh_Hans wife_gym_storyline_14_f28aec1a:
 translate zh_Hans wife_gym_storyline_14_2b991cbc:
 
     # nvlwife "❤️"
-    nvlwife "❤️|❤️"
+    nvlwife "❤️|"
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:1596
 translate zh_Hans wife_gym_storyline_14_53e3ab9e:
@@ -3020,7 +3020,7 @@ translate zh_Hans wife_gym_storyline_15_e81f7e3a:
 translate zh_Hans wife_gym_storyline_15_3b8ef5e1:
 
     # nvlunknown "{a=show:show_chat_media}{image=bbc_pic_222}"
-    nvlunknown "{a=show:show_chat_media}{image=bbc_pic_222}"
+    nvlunknown ""
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:1665
 translate zh_Hans wife_gym_storyline_15_10f4e36e:
@@ -3176,7 +3176,7 @@ translate zh_Hans wife_gym_storyline_16_76b2fe88:
 translate zh_Hans wife_gym_storyline_16_564618ea:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_641}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_641}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:1752
 translate zh_Hans wife_gym_storyline_16_65cdb0f7:
@@ -3314,7 +3314,7 @@ translate zh_Hans wife_gym_storyline_16_782091fc:
 translate zh_Hans wife_gym_storyline_16_9ef137e4:
 
     # nvljohn "❤️"
-    nvljohn "❤️|❤️"
+    nvljohn "❤️|"
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:1798
 translate zh_Hans wife_gym_storyline_16_90e5cd84:
@@ -3392,7 +3392,7 @@ translate zh_Hans wife_gym_storyline_16_c2b94e9c:
 translate zh_Hans wife_gym_storyline_16_2b991cbc:
 
     # nvlwife "❤️"
-    nvlwife "❤️|❤️"
+    nvlwife "❤️|"
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:1838
 translate zh_Hans wife_gym_storyline_16_53c71d7c:
@@ -3562,7 +3562,7 @@ translate zh_Hans wife_gym_storyline_17_77580b9a:
 translate zh_Hans wife_gym_storyline_17_c21cebe5:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_642}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_642}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:1930
 translate zh_Hans wife_gym_storyline_17_743e682d:
@@ -3640,7 +3640,7 @@ translate zh_Hans wife_gym_storyline_17_1d1428a6:
 translate zh_Hans wife_gym_storyline_17_2b991cbc:
 
     # nvlwife "❤️"
-    nvlwife "❤️|❤️"
+    nvlwife "❤️|"
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:1956
 translate zh_Hans wife_gym_storyline_17_484517a2:
@@ -3810,7 +3810,7 @@ translate zh_Hans wife_gym_storyline_18_5453267e:
 translate zh_Hans wife_gym_storyline_18_438ef0c0:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_pic_643}"
-    nvljenna "{a=show:show_chat_media}{image=wife_pic_643}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:2051
 translate zh_Hans wife_gym_storyline_18_ad1c1319:
@@ -4398,7 +4398,7 @@ translate zh_Hans wife_gym_storyline_21_20327909:
 translate zh_Hans wife_gym_storyline_21_6637eff3:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_pic_644}"
-    nvljenna "{a=show:show_chat_media}{image=wife_pic_644}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:2374
 translate zh_Hans wife_gym_storyline_21_72299474:

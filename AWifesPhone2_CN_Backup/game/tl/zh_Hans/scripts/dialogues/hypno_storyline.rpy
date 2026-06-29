@@ -10,121 +10,121 @@ translate zh_Hans sissy_spam_1_76b2fe88:
 translate zh_Hans sissy_spam_1_49bfcf17:
 
     # nvlunknown "{a=show:show_chat_media}{image=sissy_hypno_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=sissy_hypno_1_ns}|{a=show:show_chat_media}{image=sissy_hypno_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=sissy_hypno_1_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:626
 translate zh_Hans sissy_spam_1_97a96de1:
 
     # nvlunknown "{a=show:show_chat_media}{image=sissy_hypno_2_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=sissy_hypno_2_ns}|{a=show:show_chat_media}{image=sissy_hypno_2_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=sissy_hypno_2_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:630
 translate zh_Hans sissy_spam_1_16b263f0:
 
     # nvlunknown "{a=show:show_chat_media}{image=sissy_hypno_3_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=sissy_hypno_3_ns}|{a=show:show_chat_media}{image=sissy_hypno_3_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=sissy_hypno_3_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:642
 translate zh_Hans sissy_spam_1_c851fad2:
 
     # nvlunknown "{a=show:show_chat_media}{image=sissy_hypno_4_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=sissy_hypno_4_ns}|{a=show:show_chat_media}{image=sissy_hypno_4_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=sissy_hypno_4_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:646
 translate zh_Hans sissy_spam_1_ea97dba2:
 
     # nvlunknown "{a=show:show_chat_media}{image=sissy_hypno_5_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=sissy_hypno_5_ns}|{a=show:show_chat_media}{image=sissy_hypno_5_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=sissy_hypno_5_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:650
 translate zh_Hans sissy_spam_1_433bd2e4:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_sissy_2_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_sissy_2_ns}|{a=show:show_chat_media}{image=h_sissy_2_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_sissy_2_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:662
 translate zh_Hans sissy_spam_1_ddd931a2:
 
     # nvlunknown "{a=show:show_chat_media}{image=sissy_hypno_6_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=sissy_hypno_6_ns}|{a=show:show_chat_media}{image=sissy_hypno_6_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=sissy_hypno_6_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:666
 translate zh_Hans sissy_spam_1_f96335a4:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_sissy_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_sissy_1_ns}|{a=show:show_chat_media}{image=h_sissy_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_sissy_1_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:670
 translate zh_Hans sissy_spam_1_adb74994:
 
     # nvlunknown "{a=show:show_chat_media}{image=sissy_hypno_7_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=sissy_hypno_7_ns}|{a=show:show_chat_media}{image=sissy_hypno_7_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=sissy_hypno_7_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:682
 translate zh_Hans sissy_spam_1_1db76073:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_sissy_3_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_sissy_3_ns}|{a=show:show_chat_media}{image=h_sissy_3_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_sissy_3_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:686
 translate zh_Hans sissy_spam_1_d45139fd:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_sissy_4_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_sissy_4_ns}|{a=show:show_chat_media}{image=h_sissy_4_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_sissy_4_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:690
 translate zh_Hans sissy_spam_1_25599b6b:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_sissy_5_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_sissy_5_ns}|{a=show:show_chat_media}{image=h_sissy_5_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_sissy_5_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:702
 translate zh_Hans sissy_spam_1_cfb3c2ca:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_sissy_6_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_sissy_6_ns}|{a=show:show_chat_media}{image=h_sissy_6_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_sissy_6_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:706
 translate zh_Hans sissy_spam_1_48f7423f:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_sissy_8_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_sissy_8_ns}|{a=show:show_chat_media}{image=h_sissy_8_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_sissy_8_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:716
 translate zh_Hans sissy_spam_1_dc14a524:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_sissy_7_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_sissy_7_ns}|{a=show:show_chat_media}{image=h_sissy_7_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_sissy_7_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:720
 translate zh_Hans sissy_spam_1_f9e300d7:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_sissy_9_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_sissy_9_ns}|{a=show:show_chat_media}{image=h_sissy_9_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_sissy_9_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:730
 translate zh_Hans sissy_spam_1_6f224824:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_sissy_10_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_sissy_10_ns}|{a=show:show_chat_media}{image=h_sissy_10_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_sissy_10_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:734
 translate zh_Hans sissy_spam_1_c47f5c42:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_sissy_11_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_sissy_11_ns}|{a=show:show_chat_media}{image=h_sissy_11_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_sissy_11_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:744
 translate zh_Hans sissy_spam_1_ddd931a2_1:
 
     # nvlunknown "{a=show:show_chat_media}{image=sissy_hypno_6_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=sissy_hypno_6_ns}|{a=show:show_chat_media}{image=sissy_hypno_6_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=sissy_hypno_6_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:748
 translate zh_Hans sissy_spam_1_14bdea39:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_sissy_12_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_sissy_12_ns}|{a=show:show_chat_media}{image=h_sissy_12_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_sissy_12_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:758
 translate zh_Hans sissy_spam_1_cca91ca6:
@@ -352,73 +352,73 @@ translate zh_Hans light_spam_76b2fe88:
 translate zh_Hans light_spam_6c3989f1:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_light_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_light_1_ns}|{a=show:show_chat_media}{image=h_bimbo_light_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_light_1_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:906
 translate zh_Hans light_spam_ddc65630:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_light_2_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_light_2_ns}|{a=show:show_chat_media}{image=h_bimbo_light_2_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_light_2_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:910
 translate zh_Hans light_spam_18dc88d0:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_blowjob_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_blowjob_1_ns}|{a=show:show_chat_media}{image=h_bimbo_blowjob_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_blowjob_1_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:922
 translate zh_Hans light_spam_3cebd344:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_light_3_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_light_3_ns}|{a=show:show_chat_media}{image=h_bimbo_light_3_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_light_3_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:926
 translate zh_Hans light_spam_a0c285bb:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_light_4_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_light_4_ns}|{a=show:show_chat_media}{image=h_bimbo_light_4_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_light_4_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:930
 translate zh_Hans light_spam_eb479909:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_blowjob_2_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_blowjob_2_ns}|{a=show:show_chat_media}{image=h_bimbo_blowjob_2_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_blowjob_2_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:942
 translate zh_Hans light_spam_24df1c49:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_light_5_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_light_5_ns}|{a=show:show_chat_media}{image=h_bimbo_light_5_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_light_5_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:946
 translate zh_Hans light_spam_42ee2b04:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_light_6_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_light_6_ns}|{a=show:show_chat_media}{image=h_bimbo_light_6_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_light_6_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:950
 translate zh_Hans light_spam_f3a7f3f8:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_blowjob_3_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_blowjob_3_ns}|{a=show:show_chat_media}{image=h_bimbo_blowjob_3_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_blowjob_3_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:962
 translate zh_Hans light_spam_3c1b3852:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_light_7_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_light_7_ns}|{a=show:show_chat_media}{image=h_bimbo_light_7_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_light_7_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:966
 translate zh_Hans light_spam_b45c64fd:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_light_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_light_1_ns}|{a=show:show_chat_media}{image=h_light_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_light_1_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:970
 translate zh_Hans light_spam_9cc157cb:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_light_2_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_light_2_ns}|{a=show:show_chat_media}{image=h_light_2_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_light_2_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:983
 translate zh_Hans light_spam_cca91ca6:
@@ -652,13 +652,13 @@ translate zh_Hans cheating_spam_8c1d492d:
 translate zh_Hans cheating_spam_d4cbf049:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_1_ns}|{a=show:show_chat_media}{image=h_ntr_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_1_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1133
 translate zh_Hans cheating_spam_00cb8114:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_12_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_12_ns}|{a=show:show_chat_media}{image=h_ntr_bbc_12_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_12_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1143
 translate zh_Hans cheating_spam_74cfb334:
@@ -670,103 +670,103 @@ translate zh_Hans cheating_spam_74cfb334:
 translate zh_Hans cheating_spam_17a9c622:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_2_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_2_ns}|{a=show:show_chat_media}{image=h_ntr_2_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_2_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1151
 translate zh_Hans cheating_spam_ce3110a7:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_13_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_13_ns}|{a=show:show_chat_media}{image=h_ntr_bbc_13_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_13_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1163
 translate zh_Hans cheating_spam_6c3989f1:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_light_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_light_1_ns}|{a=show:show_chat_media}{image=h_bimbo_light_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_light_1_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1167
 translate zh_Hans cheating_spam_e1b76b4d:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_group_blowjob_3_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_group_blowjob_3_ns}|{a=show:show_chat_media}{image=h_group_blowjob_3_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_group_blowjob_3_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1171
 translate zh_Hans cheating_spam_d12dc118:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_blowjob_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_blowjob_1_ns}|{a=show:show_chat_media}{image=h_ntr_blowjob_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_blowjob_1_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1183
 translate zh_Hans cheating_spam_111da9fd:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_blowjob_5_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_blowjob_5_ns}|{a=show:show_chat_media}{image=h_blowjob_5_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_blowjob_5_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1187
 translate zh_Hans cheating_spam_51d2ff4c:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bwc_blowjob_5_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bwc_blowjob_5_ns}|{a=show:show_chat_media}{image=h_bwc_blowjob_5_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bwc_blowjob_5_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1191
 translate zh_Hans cheating_spam_8ad7cc89:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_group_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_group_1_ns}|{a=show:show_chat_media}{image=h_ntr_group_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_group_1_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1203
 translate zh_Hans cheating_spam_975d4b42:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_bbc_blowjob_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_bbc_blowjob_1_ns}|{a=show:show_chat_media}{image=h_bimbo_bbc_blowjob_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_bbc_blowjob_1_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1207
 translate zh_Hans cheating_spam_bedf037a:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_11_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_11_ns}|{a=show:show_chat_media}{image=h_ntr_bbc_11_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_11_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1211
 translate zh_Hans cheating_spam_5fef0b6f:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_group_2_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_group_2_ns}|{a=show:show_chat_media}{image=h_ntr_group_2_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_group_2_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1223
 translate zh_Hans cheating_spam_5f3f77ee:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_blowjob_8_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_blowjob_8_ns}|{a=show:show_chat_media}{image=h_blowjob_8_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_blowjob_8_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1227
 translate zh_Hans cheating_spam_22d1fcd2:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_group_7_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_group_7_ns}|{a=show:show_chat_media}{image=h_ntr_group_7_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_group_7_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1237
 translate zh_Hans cheating_spam_3cb01a76:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bwc_2_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bwc_2_ns}|{a=show:show_chat_media}{image=h_bwc_2_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bwc_2_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1241
 translate zh_Hans cheating_spam_a463c582:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_blowjob_9_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_blowjob_9_ns}|{a=show:show_chat_media}{image=h_blowjob_9_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_blowjob_9_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1251
 translate zh_Hans cheating_spam_18dc88d0:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_blowjob_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_blowjob_1_ns}|{a=show:show_chat_media}{image=h_bimbo_blowjob_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_blowjob_1_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1255
 translate zh_Hans cheating_spam_ac5269f2:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_8_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_8_ns}|{a=show:show_chat_media}{image=h_bimbo_8_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_8_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1264
 translate zh_Hans cheating_spam_cca91ca6:
@@ -994,163 +994,163 @@ translate zh_Hans hotwife_spam_76b2fe88:
 translate zh_Hans hotwife_spam_d4cbf049:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_1_ns}|{a=show:show_chat_media}{image=h_ntr_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_1_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1415
 translate zh_Hans hotwife_spam_17a9c622:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_2_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_2_ns}|{a=show:show_chat_media}{image=h_ntr_2_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_2_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1419
 translate zh_Hans hotwife_spam_66361dff:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_3_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_3_ns}|{a=show:show_chat_media}{image=h_ntr_bbc_3_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_3_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1431
 translate zh_Hans hotwife_spam_bbe30c54:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_3_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_3_ns}|{a=show:show_chat_media}{image=h_ntr_3_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_3_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1435
 translate zh_Hans hotwife_spam_8100c6ef:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_4_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_4_ns}|{a=show:show_chat_media}{image=h_ntr_4_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_4_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1439
 translate zh_Hans hotwife_spam_7ae29cce:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_4_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_4_ns}|{a=show:show_chat_media}{image=h_ntr_bbc_4_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_4_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1451
 translate zh_Hans hotwife_spam_10b635b3:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_5_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_5_ns}|{a=show:show_chat_media}{image=h_ntr_5_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_5_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1455
 translate zh_Hans hotwife_spam_8f9c7b82:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_6_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_6_ns}|{a=show:show_chat_media}{image=h_ntr_6_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_6_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1459
 translate zh_Hans hotwife_spam_de979b6e:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_5_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_5_ns}|{a=show:show_chat_media}{image=h_ntr_bbc_5_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_5_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1471
 translate zh_Hans hotwife_spam_1f95ca08:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_7_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_7_ns}|{a=show:show_chat_media}{image=h_ntr_7_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_7_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1475
 translate zh_Hans hotwife_spam_27f7634a:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_8_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_8_ns}|{a=show:show_chat_media}{image=h_ntr_8_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_8_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1479
 translate zh_Hans hotwife_spam_491c96a9:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_6_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_6_ns}|{a=show:show_chat_media}{image=h_ntr_bbc_6_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_6_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1491
 translate zh_Hans hotwife_spam_13ac16d1:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_9_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_9_ns}|{a=show:show_chat_media}{image=h_ntr_9_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_9_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1495
 translate zh_Hans hotwife_spam_3ed8dcc5:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_10_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_10_ns}|{a=show:show_chat_media}{image=h_ntr_10_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_10_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1499
 translate zh_Hans hotwife_spam_8bbc78ce:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_7_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_7_ns}|{a=show:show_chat_media}{image=h_ntr_bbc_7_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_7_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1511
 translate zh_Hans hotwife_spam_ae5d48dd:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_11_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_11_ns}|{a=show:show_chat_media}{image=h_ntr_11_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_11_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1515
 translate zh_Hans hotwife_spam_79d76558:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_12_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_12_ns}|{a=show:show_chat_media}{image=h_ntr_12_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_12_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1519
 translate zh_Hans hotwife_spam_1d3aa1cd:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_8_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_8_ns}|{a=show:show_chat_media}{image=h_ntr_bbc_8_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_8_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1531
 translate zh_Hans hotwife_spam_28af2253:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_13_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_13_ns}|{a=show:show_chat_media}{image=h_ntr_13_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_13_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1535
 translate zh_Hans hotwife_spam_4e71722b:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_14_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_14_ns}|{a=show:show_chat_media}{image=h_ntr_14_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_14_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1539
 translate zh_Hans hotwife_spam_4945be61:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_9_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_9_ns}|{a=show:show_chat_media}{image=h_ntr_bbc_9_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_9_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1551
 translate zh_Hans hotwife_spam_92b95cdb:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_15_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_15_ns}|{a=show:show_chat_media}{image=h_ntr_15_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_15_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1555
 translate zh_Hans hotwife_spam_76e5cb54:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_2_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_2_ns}|{a=show:show_chat_media}{image=h_ntr_bbc_2_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_2_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1559
 translate zh_Hans hotwife_spam_b7b4a307:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_10_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_10_ns}|{a=show:show_chat_media}{image=h_ntr_bbc_10_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_10_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1571
 translate zh_Hans hotwife_spam_45487412:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_1_ns}|{a=show:show_chat_media}{image=h_ntr_bbc_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_1_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1575
 translate zh_Hans hotwife_spam_6cafdc43:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_16_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_16_ns}|{a=show:show_chat_media}{image=h_ntr_16_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_16_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1579
 translate zh_Hans hotwife_spam_bedf037a:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_11_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_11_ns}|{a=show:show_chat_media}{image=h_ntr_bbc_11_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_11_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1591
 translate zh_Hans hotwife_spam_cca91ca6:
@@ -1378,127 +1378,127 @@ translate zh_Hans bwc_spam_76b2fe88:
 translate zh_Hans bwc_spam_d4492d62:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_1_ns}|{a=show:show_chat_media}{image=h_bimbo_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_1_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1739
 translate zh_Hans bwc_spam_ca3add54:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bwc_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bwc_1_ns}|{a=show:show_chat_media}{image=h_bwc_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bwc_1_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1743
 translate zh_Hans bwc_spam_3cb01a76:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bwc_2_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bwc_2_ns}|{a=show:show_chat_media}{image=h_bwc_2_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bwc_2_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1755
 translate zh_Hans bwc_spam_17c699a4:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_2_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_2_ns}|{a=show:show_chat_media}{image=h_bimbo_2_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_2_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1759
 translate zh_Hans bwc_spam_d20e892b:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bwc_4_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bwc_4_ns}|{a=show:show_chat_media}{image=h_bwc_4_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bwc_4_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1763
 translate zh_Hans bwc_spam_1b152cf9:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bwc_3_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bwc_3_ns}|{a=show:show_chat_media}{image=h_bwc_3_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bwc_3_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1775
 translate zh_Hans bwc_spam_c4671094:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_3_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_3_ns}|{a=show:show_chat_media}{image=h_bimbo_3_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_3_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1779
 translate zh_Hans bwc_spam_8cbcce3c:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bwc_blowjob_3_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bwc_blowjob_3_ns}|{a=show:show_chat_media}{image=h_bwc_blowjob_3_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bwc_blowjob_3_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1783
 translate zh_Hans bwc_spam_4c8a2666:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bwc_6_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bwc_6_ns}|{a=show:show_chat_media}{image=h_bwc_6_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bwc_6_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1795
 translate zh_Hans bwc_spam_9ccc16cf:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_4_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_4_ns}|{a=show:show_chat_media}{image=h_bimbo_4_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_4_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1799
 translate zh_Hans bwc_spam_50d5dd4c:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bwc_7_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bwc_7_ns}|{a=show:show_chat_media}{image=h_bwc_7_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bwc_7_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1803
 translate zh_Hans bwc_spam_c8ada050:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bwc_8_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bwc_8_ns}|{a=show:show_chat_media}{image=h_bwc_8_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bwc_8_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1815
 translate zh_Hans bwc_spam_a2c16cbb:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_5_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_5_ns}|{a=show:show_chat_media}{image=h_bimbo_5_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_5_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1819
 translate zh_Hans bwc_spam_690b3cd5:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bwc_9_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bwc_9_ns}|{a=show:show_chat_media}{image=h_bwc_9_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bwc_9_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1823
 translate zh_Hans bwc_spam_16d23958:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bwc_blowjob_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bwc_blowjob_1_ns}|{a=show:show_chat_media}{image=h_bwc_blowjob_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bwc_blowjob_1_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1835
 translate zh_Hans bwc_spam_5f5c5954:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_6_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_6_ns}|{a=show:show_chat_media}{image=h_bimbo_6_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_6_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1839
 translate zh_Hans bwc_spam_c532b4d5:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bwc_blowjob_2_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bwc_blowjob_2_ns}|{a=show:show_chat_media}{image=h_bwc_blowjob_2_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bwc_blowjob_2_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1843
 translate zh_Hans bwc_spam_52ccadd2:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bwc_5_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bwc_5_ns}|{a=show:show_chat_media}{image=h_bwc_5_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bwc_5_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1855
 translate zh_Hans bwc_spam_b07c0235:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_7_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_7_ns}|{a=show:show_chat_media}{image=h_bimbo_7_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_7_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1859
 translate zh_Hans bwc_spam_6cafa1d2:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bwc_blowjob_4_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bwc_blowjob_4_ns}|{a=show:show_chat_media}{image=h_bwc_blowjob_4_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bwc_blowjob_4_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1863
 translate zh_Hans bwc_spam_51d2ff4c:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bwc_blowjob_5_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bwc_blowjob_5_ns}|{a=show:show_chat_media}{image=h_bwc_blowjob_5_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bwc_blowjob_5_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1875
 translate zh_Hans bwc_spam_cca91ca6:
@@ -1726,145 +1726,145 @@ translate zh_Hans bbc_spam_76b2fe88:
 translate zh_Hans bbc_spam_d4492d62:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_1_ns}|{a=show:show_chat_media}{image=h_bimbo_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_1_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2025
 translate zh_Hans bbc_spam_77b032a5:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bbc_blowjob_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bbc_blowjob_1_ns}|{a=show:show_chat_media}{image=h_bbc_blowjob_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bbc_blowjob_1_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2029
 translate zh_Hans bbc_spam_a82e2b2f:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bbc_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bbc_1_ns}|{a=show:show_chat_media}{image=h_bbc_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bbc_1_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2041
 translate zh_Hans bbc_spam_17c699a4:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_2_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_2_ns}|{a=show:show_chat_media}{image=h_bimbo_2_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_2_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2045
 translate zh_Hans bbc_spam_09bd5884:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bbc_blowjob_2_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bbc_blowjob_2_ns}|{a=show:show_chat_media}{image=h_bbc_blowjob_2_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bbc_blowjob_2_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2049
 translate zh_Hans bbc_spam_5d6cb46c:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bbc_2_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bbc_2_ns}|{a=show:show_chat_media}{image=h_bbc_2_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bbc_2_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2061
 translate zh_Hans bbc_spam_c4671094:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_3_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_3_ns}|{a=show:show_chat_media}{image=h_bimbo_3_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_3_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2065
 translate zh_Hans bbc_spam_b7b4a307:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_10_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_10_ns}|{a=show:show_chat_media}{image=h_ntr_bbc_10_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_10_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2069
 translate zh_Hans bbc_spam_b9e0d8b2:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bbc_3_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bbc_3_ns}|{a=show:show_chat_media}{image=h_bbc_3_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bbc_3_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2081
 translate zh_Hans bbc_spam_8bbc78ce:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_7_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_7_ns}|{a=show:show_chat_media}{image=h_ntr_bbc_7_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_7_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2085
 translate zh_Hans bbc_spam_91efd7d0:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_bbc_blowjob_2_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_bbc_blowjob_2_ns}|{a=show:show_chat_media}{image=h_bimbo_bbc_blowjob_2_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_bbc_blowjob_2_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2089
 translate zh_Hans bbc_spam_2f6572ce:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bbc_4_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bbc_4_ns}|{a=show:show_chat_media}{image=h_bbc_4_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bbc_4_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2101
 translate zh_Hans bbc_spam_1d3aa1cd:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_8_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_8_ns}|{a=show:show_chat_media}{image=h_ntr_bbc_8_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_8_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2105
 translate zh_Hans bbc_spam_975d4b42:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_bbc_blowjob_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_bbc_blowjob_1_ns}|{a=show:show_chat_media}{image=h_bimbo_bbc_blowjob_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_bbc_blowjob_1_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2109
 translate zh_Hans bbc_spam_9eb16730:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bbc_5_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bbc_5_ns}|{a=show:show_chat_media}{image=h_bbc_5_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bbc_5_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2121
 translate zh_Hans bbc_spam_bedf037a:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_11_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_11_ns}|{a=show:show_chat_media}{image=h_ntr_bbc_11_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_11_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2125
 translate zh_Hans bbc_spam_7ae29cce:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_4_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_4_ns}|{a=show:show_chat_media}{image=h_ntr_bbc_4_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_4_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2129
 translate zh_Hans bbc_spam_88497d7a:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bbc_6_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bbc_6_ns}|{a=show:show_chat_media}{image=h_bbc_6_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bbc_6_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2141
 translate zh_Hans bbc_spam_00cb8114:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_12_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_12_ns}|{a=show:show_chat_media}{image=h_ntr_bbc_12_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_12_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2145
 translate zh_Hans bbc_spam_de979b6e:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_5_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_5_ns}|{a=show:show_chat_media}{image=h_ntr_bbc_5_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_5_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2149
 translate zh_Hans bbc_spam_9b4a48e6:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bbc_7_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bbc_7_ns}|{a=show:show_chat_media}{image=h_bbc_7_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bbc_7_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2161
 translate zh_Hans bbc_spam_ce3110a7:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_13_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_13_ns}|{a=show:show_chat_media}{image=h_ntr_bbc_13_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_bbc_13_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2165
 translate zh_Hans bbc_spam_b7005466:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bbc_8_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bbc_8_ns}|{a=show:show_chat_media}{image=h_bbc_8_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bbc_8_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2169
 translate zh_Hans bbc_spam_7d2a5c18:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bbc_9_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bbc_9_ns}|{a=show:show_chat_media}{image=h_bbc_9_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bbc_9_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2181
 translate zh_Hans bbc_spam_cca91ca6:
@@ -2092,91 +2092,91 @@ translate zh_Hans incest_sis_spam_76b2fe88:
 translate zh_Hans incest_sis_spam_d4492d62:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_1_ns}|{a=show:show_chat_media}{image=h_bimbo_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_1_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2330
 translate zh_Hans incest_sis_spam_4ff489d2:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_incest_sis_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_incest_sis_1_ns}|{a=show:show_chat_media}{image=h_incest_sis_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_incest_sis_1_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2334
 translate zh_Hans incest_sis_spam_698bdb57:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_incest_sis_2_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_incest_sis_2_ns}|{a=show:show_chat_media}{image=h_incest_sis_2_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_incest_sis_2_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2346
 translate zh_Hans incest_sis_spam_17c699a4:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_2_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_2_ns}|{a=show:show_chat_media}{image=h_bimbo_2_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_2_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2350
 translate zh_Hans incest_sis_spam_7a18e93c:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_incest_sis_3_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_incest_sis_3_ns}|{a=show:show_chat_media}{image=h_incest_sis_3_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_incest_sis_3_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2354
 translate zh_Hans incest_sis_spam_11366224:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_incest_sis_4_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_incest_sis_4_ns}|{a=show:show_chat_media}{image=h_incest_sis_4_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_incest_sis_4_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2366
 translate zh_Hans incest_sis_spam_c4671094:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_3_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_3_ns}|{a=show:show_chat_media}{image=h_bimbo_3_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_3_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2370
 translate zh_Hans incest_sis_spam_65656248:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_incest_sis_5_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_incest_sis_5_ns}|{a=show:show_chat_media}{image=h_incest_sis_5_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_incest_sis_5_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2374
 translate zh_Hans incest_sis_spam_4e9e75cb:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_incest_sis_6_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_incest_sis_6_ns}|{a=show:show_chat_media}{image=h_incest_sis_6_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_incest_sis_6_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2386
 translate zh_Hans incest_sis_spam_ac5269f2:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_8_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_8_ns}|{a=show:show_chat_media}{image=h_bimbo_8_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_8_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2390
 translate zh_Hans incest_sis_spam_81fca960:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_incest_sis_7_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_incest_sis_7_ns}|{a=show:show_chat_media}{image=h_incest_sis_7_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_incest_sis_7_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2394
 translate zh_Hans incest_sis_spam_40e5555d:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_incest_sis_8_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_incest_sis_8_ns}|{a=show:show_chat_media}{image=h_incest_sis_8_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_incest_sis_8_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2406
 translate zh_Hans incest_sis_spam_b07c0235:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_7_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_7_ns}|{a=show:show_chat_media}{image=h_bimbo_7_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_7_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2410
 translate zh_Hans incest_sis_spam_83114ea6:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_incest_sis_9_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_incest_sis_9_ns}|{a=show:show_chat_media}{image=h_incest_sis_9_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_incest_sis_9_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2414
 translate zh_Hans incest_sis_spam_65f68228:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_incest_sis_10_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_incest_sis_10_ns}|{a=show:show_chat_media}{image=h_incest_sis_10_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_incest_sis_10_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2426
 translate zh_Hans incest_sis_spam_cca91ca6:
@@ -2404,127 +2404,127 @@ translate zh_Hans incest_mom_spam_76b2fe88:
 translate zh_Hans incest_mom_spam_18dc88d0:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_blowjob_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_blowjob_1_ns}|{a=show:show_chat_media}{image=h_bimbo_blowjob_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_blowjob_1_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2573
 translate zh_Hans incest_mom_spam_bddd452e:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_1_ns}|{a=show:show_chat_media}{image=h_incest_mom_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_1_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2577
 translate zh_Hans incest_mom_spam_86528d09:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_2_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_2_ns}|{a=show:show_chat_media}{image=h_incest_mom_2_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_2_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2589
 translate zh_Hans incest_mom_spam_f3a7f3f8:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_blowjob_3_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_blowjob_3_ns}|{a=show:show_chat_media}{image=h_bimbo_blowjob_3_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_blowjob_3_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2593
 translate zh_Hans incest_mom_spam_9a54834c:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_3_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_3_ns}|{a=show:show_chat_media}{image=h_incest_mom_3_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_3_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2597
 translate zh_Hans incest_mom_spam_4012b31f:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_4_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_4_ns}|{a=show:show_chat_media}{image=h_incest_mom_4_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_4_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2609
 translate zh_Hans incest_mom_spam_9ccc16cf:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_4_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_4_ns}|{a=show:show_chat_media}{image=h_bimbo_4_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_4_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2613
 translate zh_Hans incest_mom_spam_6a17ed9f:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_5_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_5_ns}|{a=show:show_chat_media}{image=h_incest_mom_5_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_5_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2617
 translate zh_Hans incest_mom_spam_5e277122:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_6_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_6_ns}|{a=show:show_chat_media}{image=h_incest_mom_6_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_6_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2629
 translate zh_Hans incest_mom_spam_ac5269f2:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_8_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_8_ns}|{a=show:show_chat_media}{image=h_bimbo_8_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_8_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2633
 translate zh_Hans incest_mom_spam_c067271b:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_7_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_7_ns}|{a=show:show_chat_media}{image=h_incest_mom_7_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_7_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2637
 translate zh_Hans incest_mom_spam_0330f621:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_8_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_8_ns}|{a=show:show_chat_media}{image=h_incest_mom_8_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_8_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2649
 translate zh_Hans incest_mom_spam_b07c0235:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_7_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_7_ns}|{a=show:show_chat_media}{image=h_bimbo_7_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_7_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2653
 translate zh_Hans incest_mom_spam_57bdbf59:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_9_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_9_ns}|{a=show:show_chat_media}{image=h_incest_mom_9_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_9_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2657
 translate zh_Hans incest_mom_spam_500e276c:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_10_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_10_ns}|{a=show:show_chat_media}{image=h_incest_mom_10_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_10_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2669
 translate zh_Hans incest_mom_spam_a2c16cbb:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_5_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_5_ns}|{a=show:show_chat_media}{image=h_bimbo_5_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_5_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2673
 translate zh_Hans incest_mom_spam_2bc177f0:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_11_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_11_ns}|{a=show:show_chat_media}{image=h_incest_mom_11_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_11_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2677
 translate zh_Hans incest_mom_spam_e4d7b9cb:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_12_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_12_ns}|{a=show:show_chat_media}{image=h_incest_mom_12_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_12_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2689
 translate zh_Hans incest_mom_spam_5f5c5954:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_6_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_6_ns}|{a=show:show_chat_media}{image=h_bimbo_6_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_6_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2693
 translate zh_Hans incest_mom_spam_cb3caaf9:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_13_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_13_ns}|{a=show:show_chat_media}{image=h_incest_mom_13_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_13_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2697
 translate zh_Hans incest_mom_spam_ab81a467:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_14_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_14_ns}|{a=show:show_chat_media}{image=h_incest_mom_14_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_incest_mom_14_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2709
 translate zh_Hans incest_mom_spam_cca91ca6:
@@ -2770,157 +2770,157 @@ translate zh_Hans bj_spam_76b2fe88:
 translate zh_Hans bj_spam_975d4b42:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_bbc_blowjob_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_bbc_blowjob_1_ns}|{a=show:show_chat_media}{image=h_bimbo_bbc_blowjob_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_bbc_blowjob_1_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2866
 translate zh_Hans bj_spam_f2ce5964:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_blowjob_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_blowjob_1_ns}|{a=show:show_chat_media}{image=h_blowjob_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_blowjob_1_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2870
 translate zh_Hans bj_spam_cca159f7:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_blowjob_2_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_blowjob_2_ns}|{a=show:show_chat_media}{image=h_blowjob_2_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_blowjob_2_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2882
 translate zh_Hans bj_spam_91efd7d0:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_bbc_blowjob_2_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_bbc_blowjob_2_ns}|{a=show:show_chat_media}{image=h_bimbo_bbc_blowjob_2_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_bbc_blowjob_2_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2886
 translate zh_Hans bj_spam_5fc5684a:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_blowjob_3_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_blowjob_3_ns}|{a=show:show_chat_media}{image=h_blowjob_3_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_blowjob_3_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2890
 translate zh_Hans bj_spam_784b9387:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_blowjob_4_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_blowjob_4_ns}|{a=show:show_chat_media}{image=h_blowjob_4_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_blowjob_4_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2902
 translate zh_Hans bj_spam_18dc88d0:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_blowjob_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_blowjob_1_ns}|{a=show:show_chat_media}{image=h_bimbo_blowjob_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_blowjob_1_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2906
 translate zh_Hans bj_spam_111da9fd:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_blowjob_5_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_blowjob_5_ns}|{a=show:show_chat_media}{image=h_blowjob_5_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_blowjob_5_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2910
 translate zh_Hans bj_spam_3f9f7604:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_blowjob_6_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_blowjob_6_ns}|{a=show:show_chat_media}{image=h_blowjob_6_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_blowjob_6_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2922
 translate zh_Hans bj_spam_5f3f77ee:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_blowjob_8_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_blowjob_8_ns}|{a=show:show_chat_media}{image=h_blowjob_8_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_blowjob_8_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2926
 translate zh_Hans bj_spam_a899474e:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_blowjob_7_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_blowjob_7_ns}|{a=show:show_chat_media}{image=h_blowjob_7_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_blowjob_7_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2936
 translate zh_Hans bj_spam_b07c0235:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_7_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_7_ns}|{a=show:show_chat_media}{image=h_bimbo_7_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_7_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2940
 translate zh_Hans bj_spam_a463c582:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_blowjob_9_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_blowjob_9_ns}|{a=show:show_chat_media}{image=h_blowjob_9_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_blowjob_9_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2944
 translate zh_Hans bj_spam_16d23958:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bwc_blowjob_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bwc_blowjob_1_ns}|{a=show:show_chat_media}{image=h_bwc_blowjob_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bwc_blowjob_1_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2956
 translate zh_Hans bj_spam_a2c16cbb:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_5_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_5_ns}|{a=show:show_chat_media}{image=h_bimbo_5_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_5_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2960
 translate zh_Hans bj_spam_c532b4d5:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bwc_blowjob_2_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bwc_blowjob_2_ns}|{a=show:show_chat_media}{image=h_bwc_blowjob_2_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bwc_blowjob_2_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2964
 translate zh_Hans bj_spam_8cbcce3c:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bwc_blowjob_3_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bwc_blowjob_3_ns}|{a=show:show_chat_media}{image=h_bwc_blowjob_3_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bwc_blowjob_3_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2976
 translate zh_Hans bj_spam_5f5c5954:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_6_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_6_ns}|{a=show:show_chat_media}{image=h_bimbo_6_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_6_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2980
 translate zh_Hans bj_spam_6cafa1d2:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bwc_blowjob_4_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bwc_blowjob_4_ns}|{a=show:show_chat_media}{image=h_bwc_blowjob_4_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bwc_blowjob_4_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2984
 translate zh_Hans bj_spam_51d2ff4c:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bwc_blowjob_5_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bwc_blowjob_5_ns}|{a=show:show_chat_media}{image=h_bwc_blowjob_5_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bwc_blowjob_5_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:2996
 translate zh_Hans bj_spam_ac5269f2:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_8_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_8_ns}|{a=show:show_chat_media}{image=h_bimbo_8_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_8_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3000
 translate zh_Hans bj_spam_d12dc118:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_blowjob_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_blowjob_1_ns}|{a=show:show_chat_media}{image=h_ntr_blowjob_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_blowjob_1_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3004
 translate zh_Hans bj_spam_77b032a5:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bbc_blowjob_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bbc_blowjob_1_ns}|{a=show:show_chat_media}{image=h_bbc_blowjob_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bbc_blowjob_1_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3016
 translate zh_Hans bj_spam_b07c0235_1:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_7_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_7_ns}|{a=show:show_chat_media}{image=h_bimbo_7_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_7_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3020
 translate zh_Hans bj_spam_09bd5884:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bbc_blowjob_2_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bbc_blowjob_2_ns}|{a=show:show_chat_media}{image=h_bbc_blowjob_2_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bbc_blowjob_2_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3024
 translate zh_Hans bj_spam_eb479909:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_blowjob_2_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_blowjob_2_ns}|{a=show:show_chat_media}{image=h_bimbo_blowjob_2_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_blowjob_2_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3036
 translate zh_Hans bj_spam_cca91ca6:
@@ -3148,109 +3148,109 @@ translate zh_Hans anal_spam_76b2fe88:
 translate zh_Hans anal_spam_d4492d62:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_1_ns}|{a=show:show_chat_media}{image=h_bimbo_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_1_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3184
 translate zh_Hans anal_spam_fe5a1148:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_anal_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_anal_1_ns}|{a=show:show_chat_media}{image=h_anal_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_anal_1_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3188
 translate zh_Hans anal_spam_19ba9c66:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_anal_2_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_anal_2_ns}|{a=show:show_chat_media}{image=h_anal_2_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_anal_2_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3200
 translate zh_Hans anal_spam_17c699a4:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_2_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_2_ns}|{a=show:show_chat_media}{image=h_bimbo_2_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_2_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3204
 translate zh_Hans anal_spam_d7679473:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_anal_3_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_anal_3_ns}|{a=show:show_chat_media}{image=h_anal_3_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_anal_3_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3208
 translate zh_Hans anal_spam_f5ba90af:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_anal_4_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_anal_4_ns}|{a=show:show_chat_media}{image=h_anal_4_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_anal_4_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3220
 translate zh_Hans anal_spam_c4671094:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_3_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_3_ns}|{a=show:show_chat_media}{image=h_bimbo_3_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_3_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3224
 translate zh_Hans anal_spam_b2ba7b4e:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_anal_5_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_anal_5_ns}|{a=show:show_chat_media}{image=h_anal_5_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_anal_5_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3228
 translate zh_Hans anal_spam_dc98a367:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_anal_6_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_anal_6_ns}|{a=show:show_chat_media}{image=h_anal_6_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_anal_6_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3240
 translate zh_Hans anal_spam_9ccc16cf:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_4_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_4_ns}|{a=show:show_chat_media}{image=h_bimbo_4_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_4_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3244
 translate zh_Hans anal_spam_9ac505f2:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_anal_7_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_anal_7_ns}|{a=show:show_chat_media}{image=h_anal_7_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_anal_7_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3248
 translate zh_Hans anal_spam_ecd56be1:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_anal_8_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_anal_8_ns}|{a=show:show_chat_media}{image=h_anal_8_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_anal_8_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3260
 translate zh_Hans anal_spam_b07c0235:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_7_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_7_ns}|{a=show:show_chat_media}{image=h_bimbo_7_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_7_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3264
 translate zh_Hans anal_spam_758c0eea:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_anal_9_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_anal_9_ns}|{a=show:show_chat_media}{image=h_anal_9_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_anal_9_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3268
 translate zh_Hans anal_spam_8cf5274a:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_anal_10_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_anal_10_ns}|{a=show:show_chat_media}{image=h_anal_10_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_anal_10_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3280
 translate zh_Hans anal_spam_ac5269f2:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_8_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_8_ns}|{a=show:show_chat_media}{image=h_bimbo_8_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_8_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3284
 translate zh_Hans anal_spam_b9651492:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_anal_11_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_anal_11_ns}|{a=show:show_chat_media}{image=h_anal_11_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_anal_11_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3288
 translate zh_Hans anal_spam_800b042d:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_group_4_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_group_4_ns}|{a=show:show_chat_media}{image=h_group_4_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_group_4_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3300
 translate zh_Hans anal_spam_cca91ca6:
@@ -3478,133 +3478,133 @@ translate zh_Hans group_spam_76b2fe88:
 translate zh_Hans group_spam_d4492d62:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_1_ns}|{a=show:show_chat_media}{image=h_bimbo_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_1_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3453
 translate zh_Hans group_spam_a9d2ae4c:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_group_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_group_1_ns}|{a=show:show_chat_media}{image=h_group_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_group_1_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3457
 translate zh_Hans group_spam_2126dd1d:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_group_2_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_group_2_ns}|{a=show:show_chat_media}{image=h_group_2_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_group_2_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3469
 translate zh_Hans group_spam_17c699a4:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_2_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_2_ns}|{a=show:show_chat_media}{image=h_bimbo_2_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_2_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3473
 translate zh_Hans group_spam_f3d6542a:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_group_3_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_group_3_ns}|{a=show:show_chat_media}{image=h_group_3_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_group_3_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3477
 translate zh_Hans group_spam_800b042d:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_group_4_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_group_4_ns}|{a=show:show_chat_media}{image=h_group_4_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_group_4_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3489
 translate zh_Hans group_spam_c4671094:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_3_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_3_ns}|{a=show:show_chat_media}{image=h_bimbo_3_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_3_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3493
 translate zh_Hans group_spam_037e9028:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_group_5_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_group_5_ns}|{a=show:show_chat_media}{image=h_group_5_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_group_5_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3497
 translate zh_Hans group_spam_9b9d3bfd:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_group_6_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_group_6_ns}|{a=show:show_chat_media}{image=h_group_6_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_group_6_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3509
 translate zh_Hans group_spam_9ccc16cf:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_4_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_4_ns}|{a=show:show_chat_media}{image=h_bimbo_4_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_4_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3513
 translate zh_Hans group_spam_20612321:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_group_blowjob_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_group_blowjob_1_ns}|{a=show:show_chat_media}{image=h_group_blowjob_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_group_blowjob_1_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3517
 translate zh_Hans group_spam_10edfc87:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_group_blowjob_2_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_group_blowjob_2_ns}|{a=show:show_chat_media}{image=h_group_blowjob_2_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_group_blowjob_2_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3529
 translate zh_Hans group_spam_b07c0235:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_7_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_7_ns}|{a=show:show_chat_media}{image=h_bimbo_7_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_7_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3533
 translate zh_Hans group_spam_e1b76b4d:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_group_blowjob_3_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_group_blowjob_3_ns}|{a=show:show_chat_media}{image=h_group_blowjob_3_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_group_blowjob_3_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3537
 translate zh_Hans group_spam_fff67639:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_group_6_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_group_6_ns}|{a=show:show_chat_media}{image=h_ntr_group_6_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_group_6_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3549
 translate zh_Hans group_spam_ac5269f2:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_8_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_8_ns}|{a=show:show_chat_media}{image=h_bimbo_8_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_8_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3553
 translate zh_Hans group_spam_e9132c2c:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_group_5_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_group_5_ns}|{a=show:show_chat_media}{image=h_ntr_group_5_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_group_5_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3559
 translate zh_Hans group_spam_59acd8c9:
 
     # nvlunknown "{a=show:show_chat_media}{image=show_chat_media_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=show_chat_media_ns}|{a=show:show_chat_media}{image=show_chat_media_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=show_chat_media_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3563
 translate zh_Hans group_spam_527b6713:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_group_4_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_group_4_ns}|{a=show:show_chat_media}{image=h_ntr_group_4_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_group_4_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3575
 translate zh_Hans group_spam_5f5c5954:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_bimbo_6_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_6_ns}|{a=show:show_chat_media}{image=h_bimbo_6_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_bimbo_6_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3579
 translate zh_Hans group_spam_8ce0cd33:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_group_3_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_group_3_ns}|{a=show:show_chat_media}{image=h_ntr_group_3_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_group_3_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3583
 translate zh_Hans group_spam_5fef0b6f:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_ntr_group_2_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=h_ntr_group_2_ns}|{a=show:show_chat_media}{image=h_ntr_group_2_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=h_ntr_group_2_ns}|"
 
 # game/scripts/dialogues/hypno_storyline.rpy:3595
 translate zh_Hans group_spam_cca91ca6:

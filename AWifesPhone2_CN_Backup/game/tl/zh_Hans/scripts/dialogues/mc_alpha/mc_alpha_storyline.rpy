@@ -138,7 +138,7 @@ translate zh_Hans mc_alpha_storyline_122_1c89154d:
 translate zh_Hans mc_alpha_storyline_122_cca35e9f:
 
     # nvljohn "So, can you help?"
-    nvljohn "那，您能帮忙吗？"
+    nvljohn "那，你能帮忙吗？"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:447
 translate zh_Hans mc_alpha_storyline_122_b22aed23:
@@ -616,7 +616,7 @@ translate zh_Hans mc_alpha_storyline_124_4d2def94:
 translate zh_Hans mc_alpha_storyline_124_411fdc1b:
 
     # nvljohn "{a=show:show_chat_media}{image=kioko_video_3_ns}"
-    nvljohn "{a=show:show_chat_media}{image=kioko_video_3_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:683
 translate zh_Hans mc_alpha_storyline_124_3f22b10b:
@@ -852,7 +852,7 @@ translate zh_Hans mc_alpha_storyline_125_e803bf65:
 translate zh_Hans mc_alpha_storyline_125_b9a76a74:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_110_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_110_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:796
 translate zh_Hans mc_alpha_storyline_125_e546adf6:
@@ -864,7 +864,7 @@ translate zh_Hans mc_alpha_storyline_125_e546adf6:
 translate zh_Hans mc_alpha_storyline_125_c5731dc7:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_111_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_111_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:804
 translate zh_Hans mc_alpha_storyline_125_bbedda3c:
@@ -876,7 +876,7 @@ translate zh_Hans mc_alpha_storyline_125_bbedda3c:
 translate zh_Hans mc_alpha_storyline_125_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:808
 translate zh_Hans mc_alpha_storyline_125_f2251a07:
@@ -888,7 +888,7 @@ translate zh_Hans mc_alpha_storyline_125_f2251a07:
 translate zh_Hans mc_alpha_storyline_125_1ec414bc:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_127_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_127_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:816
 translate zh_Hans mc_alpha_storyline_125_320a8524:
@@ -978,7 +978,7 @@ translate zh_Hans mc_alpha_storyline_125_after_e6ef9fde:
 translate zh_Hans mc_alpha_storyline_125_after_313e883b:
 
     # mc "{i}[wife_name_is]..."
-    mc "{i}[wife_name_is]..."
+    mc ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:874
 translate zh_Hans mc_alpha_storyline_125_after_8461874f:
@@ -1130,7 +1130,7 @@ translate zh_Hans mc_alpha_storyline_126_1c708215:
 translate zh_Hans mc_alpha_storyline_126_1389cc2c:
 
     # nvlmike "{a=show:show_chat_media}{image=mike_pic_4}"
-    nvlmike "{a=show:show_chat_media}{image=mike_pic_4}"
+    nvlmike ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:947
 translate zh_Hans mc_alpha_storyline_126_78642d6c:
@@ -1900,7 +1900,7 @@ translate zh_Hans mc_alpha_storyline_130_68ac1703:
 translate zh_Hans mc_alpha_storyline_130_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:1364
 translate zh_Hans mc_alpha_storyline_130_6d9de941:
@@ -1942,13 +1942,13 @@ translate zh_Hans mc_alpha_storyline_130_ad0522e0:
 translate zh_Hans mc_alpha_storyline_130_ae253e62:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_831}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_831}"
+    nvlwife ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:1382
 translate zh_Hans mc_alpha_storyline_130_10befb9c_1:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:1384
 translate zh_Hans mc_alpha_storyline_130_b87a2b57:
@@ -2702,7 +2702,7 @@ translate zh_Hans mc_alpha_storyline_135_089a3b11:
 translate zh_Hans mc_alpha_storyline_135_07c52c98:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_pic_115}"
-    nvljenna "{a=show:show_chat_media}{image=jenna_pic_115}|{a=show:show_chat_media}{image=jenna_pic_115}"
+    nvljenna "{a=show:show_chat_media}{image=jenna_pic_115}|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:1807
 translate zh_Hans mc_alpha_storyline_135_2c955429:
@@ -3312,7 +3312,7 @@ translate zh_Hans mc_alpha_storyline_137_13ef0d17:
 translate zh_Hans mc_alpha_storyline_137_5913b485:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_832}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_832}"
+    nvlwife ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:2091
 translate zh_Hans mc_alpha_storyline_137_60bd041a:
@@ -4848,13 +4848,13 @@ translate zh_Hans mc_alpha_storyline_143_224ac7d2:
 translate zh_Hans mc_alpha_storyline_143_402dee3f:
 
     # nvljohn "Can you help me with that?"
-    nvljohn "那您能在这方面帮我吗？"
+    nvljohn "那你能在这方面帮我吗？"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:2854
 translate zh_Hans mc_alpha_storyline_143_641fb2dd:
 
     # nvlamelia "😊"
-    nvlamelia "😊|😊"
+    nvlamelia "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:2856
 translate zh_Hans mc_alpha_storyline_143_6cde5339:
@@ -4872,7 +4872,7 @@ translate zh_Hans mc_alpha_storyline_143_dc645139:
 translate zh_Hans mc_alpha_storyline_143_716206fe:
 
     # nvlamelia "geo.com/3463834"
-    nvlamelia "geo.com/3463834"
+    nvlamelia ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:2862
 translate zh_Hans mc_alpha_storyline_143_098424d1:
@@ -5150,7 +5150,7 @@ translate zh_Hans mc_alpha_storyline_144_ed4c9416:
 translate zh_Hans mc_alpha_storyline_144_3e028140:
 
     # nvljohn "{a=show:show_chat_media}{image=mike_pic_2}"
-    nvljohn "{a=show:show_chat_media}{image=mike_pic_2}|{a=show:show_chat_media}{image=mike_pic_2}"
+    nvljohn "{a=show:show_chat_media}{image=mike_pic_2}|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:3003
 translate zh_Hans mc_alpha_storyline_144_3df62fc6:
@@ -5694,13 +5694,13 @@ translate zh_Hans mc_alpha_storyline_146_4c5b6132:
 translate zh_Hans mc_alpha_storyline_146_402dee3f:
 
     # nvljohn "Can you help me with that?"
-    nvljohn "那您能在这方面帮我吗？"
+    nvljohn "那你能在这方面帮我吗？"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:3277
 translate zh_Hans mc_alpha_storyline_146_641fb2dd:
 
     # nvlamelia "😊"
-    nvlamelia "😊|😊"
+    nvlamelia "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:3279
 translate zh_Hans mc_alpha_storyline_146_6cde5339:
@@ -5718,7 +5718,7 @@ translate zh_Hans mc_alpha_storyline_146_dc645139:
 translate zh_Hans mc_alpha_storyline_146_716206fe:
 
     # nvlamelia "geo.com/3463834"
-    nvlamelia "geo.com/3463834"
+    nvlamelia ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:3285
 translate zh_Hans mc_alpha_storyline_146_afa257a8:
@@ -6264,7 +6264,7 @@ translate zh_Hans mc_alpha_storyline_149_4e9a7842:
 translate zh_Hans mc_alpha_storyline_149_a224f3b5:
 
     # nvlunknown "{a=show:show_chat_media}{image=mike_video_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=mike_video_1_ns}|{a=show:show_chat_media}{image=mike_video_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=mike_video_1_ns}|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:3580
 translate zh_Hans mc_alpha_storyline_149_4cc10bb7:
@@ -6634,7 +6634,7 @@ translate zh_Hans mc_alpha_storyline_151_5505342c:
 translate zh_Hans mc_alpha_storyline_151_fe4e82e0:
 
     # nvlkioko "{a=show:show_chat_media}{image=kioko_pic_25}"
-    nvlkioko "{a=show:show_chat_media}{image=kioko_pic_25}|{a=show:show_chat_media}{image=kioko_pic_25}"
+    nvlkioko "{a=show:show_chat_media}{image=kioko_pic_25}|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:3788
 translate zh_Hans mc_alpha_storyline_151_e5fa7ab3:
@@ -6854,13 +6854,13 @@ translate zh_Hans mc_alpha_storyline_153_a24135cf:
 translate zh_Hans mc_alpha_storyline_153_1870d004:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_277_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_277_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:3930
 translate zh_Hans mc_alpha_storyline_153_a046fe8a:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_278_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_278_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:3934
 translate zh_Hans mc_alpha_storyline_153_96b51277:
@@ -6896,7 +6896,7 @@ translate zh_Hans mc_alpha_storyline_153_796ee653:
 translate zh_Hans mc_alpha_storyline_153_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:3946
 translate zh_Hans mc_alpha_storyline_153_73a483a3:
@@ -6980,7 +6980,7 @@ translate zh_Hans mc_alpha_storyline_153_f479358f:
 translate zh_Hans mc_alpha_storyline_153_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:3974
 translate zh_Hans mc_alpha_storyline_153_f3ed3cb5:
@@ -7410,7 +7410,7 @@ translate zh_Hans mc_alpha_storyline_155_434aee6b:
 translate zh_Hans mc_alpha_storyline_155_76c640c8:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_pic_72}"
-    nvltalay "{a=show:show_chat_media}{image=talay_pic_72}|{a=show:show_chat_media}{image=talay_pic_72}"
+    nvltalay "{a=show:show_chat_media}{image=talay_pic_72}|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:4182
 translate zh_Hans mc_alpha_storyline_155_611b4796:
@@ -7768,7 +7768,7 @@ translate zh_Hans mc_alpha_storyline_157_3ce23710:
 translate zh_Hans mc_alpha_storyline_157_dd9d6145:
 
     # nvljenna "{a=show:show_chat_media}{image=mike_pic_5}"
-    nvljenna "{a=show:show_chat_media}{image=mike_pic_5}|{a=show:show_chat_media}{image=mike_pic_5}"
+    nvljenna "{a=show:show_chat_media}{image=mike_pic_5}|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:4388
 translate zh_Hans mc_alpha_storyline_157_c293f6b6:
@@ -7992,7 +7992,7 @@ translate zh_Hans mc_alpha_storyline_158_3580372e:
 translate zh_Hans mc_alpha_storyline_158_4f2ede3e:
 
     # nvljohn "{a=show:show_chat_media}{image=kioko_video_4_ns}"
-    nvljohn "{a=show:show_chat_media}{image=kioko_video_4_ns}|{a=show:show_chat_media}{image=kioko_video_4_ns}"
+    nvljohn "{a=show:show_chat_media}{image=kioko_video_4_ns}|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:4527
 translate zh_Hans mc_alpha_storyline_158_46309685:
@@ -8094,7 +8094,7 @@ translate zh_Hans mc_alpha_storyline_158_a777949a:
 translate zh_Hans mc_alpha_storyline_158_9ef137e4:
 
     # nvljohn "❤️"
-    nvljohn "❤️|❤️"
+    nvljohn "❤️|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:4561
 translate zh_Hans mc_alpha_storyline_158_4a0ddb1c:
@@ -8414,7 +8414,7 @@ translate zh_Hans mc_alpha_storyline_159_c860fbc5:
 translate zh_Hans mc_alpha_storyline_159_bb9faff6:
 
     # nvlmike "Still, thank you"
-    nvlmike "但不管怎样，还是谢谢您"
+    nvlmike "但不管怎样，还是谢谢你"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:4698
 translate zh_Hans mc_alpha_storyline_159_621bf592:
@@ -8482,7 +8482,7 @@ translate zh_Hans mc_alpha_storyline_160_fbd296ce:
 translate zh_Hans mc_alpha_storyline_160_e7e6f69d:
 
     # nvlunknown "{a=show:show_chat_media}{image=mike_pic_6}"
-    nvlunknown "{a=show:show_chat_media}{image=mike_pic_6}|{a=show:show_chat_media}{image=mike_pic_6}"
+    nvlunknown "{a=show:show_chat_media}{image=mike_pic_6}|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:4755
 translate zh_Hans mc_alpha_storyline_160_8b9e9b1c:
@@ -8752,7 +8752,7 @@ translate zh_Hans mc_alpha_storyline_160_556c5df8:
 translate zh_Hans mc_alpha_storyline_160_98126212:
 
     # nvlunknown "Have a good day, Mr [mc_name_is]"
-    nvlunknown "祝您有愉快的一天，[mc_name_is]先生。"
+    nvlunknown "祝你有愉快的一天，[mc_name_is]先生。"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:4845
 translate zh_Hans mc_alpha_storyline_160_83752d07:
@@ -9810,7 +9810,7 @@ translate zh_Hans mc_alpha_storyline_164_bebcb91e:
 translate zh_Hans mc_alpha_storyline_164_641fb2dd:
 
     # nvlamelia "😊"
-    nvlamelia "😊|😊"
+    nvlamelia "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:5394
 translate zh_Hans mc_alpha_storyline_164_8eddec83:
@@ -9902,7 +9902,7 @@ translate zh_Hans mc_alpha_storyline_165_28dee0a8:
 translate zh_Hans mc_alpha_storyline_165_7bd77c2d:
 
     # nvlhenrique "Haven't received messages from you in a while"
-    nvlhenrique "有段时间没收到您的消息了。"
+    nvlhenrique "有段时间没收到你的消息了。"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:5469
 translate zh_Hans mc_alpha_storyline_165_cb68e231:
@@ -9926,7 +9926,7 @@ translate zh_Hans mc_alpha_storyline_165_7c420cf4:
 translate zh_Hans mc_alpha_storyline_165_97723557:
 
     # nvlhenrique "😊"
-    nvlhenrique "😊|😊"
+    nvlhenrique "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:5477
 translate zh_Hans mc_alpha_storyline_165_dd37b3b2:
@@ -10556,7 +10556,7 @@ translate zh_Hans mc_alpha_storyline_168_cdd61291:
 translate zh_Hans mc_alpha_storyline_168_9630054e:
 
     # nvlunknown "😊"
-    nvlunknown "😊|😊"
+    nvlunknown "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:5794
 translate zh_Hans mc_alpha_storyline_168_f59b2ea7:
@@ -10598,7 +10598,7 @@ translate zh_Hans mc_alpha_storyline_168_4803a1c6:
 translate zh_Hans mc_alpha_storyline_168_9630054e_1:
 
     # nvlunknown "😊"
-    nvlunknown "😊|😊"
+    nvlunknown "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:5808
 translate zh_Hans mc_alpha_storyline_168_f66f86d7:
@@ -11126,7 +11126,7 @@ translate zh_Hans mc_alpha_storyline_171_8f3f7757:
 translate zh_Hans mc_alpha_storyline_171_0101d979:
 
     # nvlunknown "{a=show:show_chat_media}{image=mike_pic_7}"
-    nvlunknown "{a=show:show_chat_media}{image=mike_pic_7}"
+    nvlunknown ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:6079
 translate zh_Hans mc_alpha_storyline_171_0b4e630a:
@@ -11240,7 +11240,7 @@ translate zh_Hans mc_alpha_storyline_171_b8e25c4e:
 translate zh_Hans mc_alpha_storyline_171_bca19511:
 
     # nvlunknown "{a=show:show_chat_media}{image=mike_pic_8}"
-    nvlunknown "{a=show:show_chat_media}{image=mike_pic_8}"
+    nvlunknown ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:6121
 translate zh_Hans mc_alpha_storyline_171_df4f5d09:
@@ -11300,7 +11300,7 @@ translate zh_Hans mc_alpha_storyline_171_556c5df8:
 translate zh_Hans mc_alpha_storyline_171_8d3941db:
 
     # nvlunknown "Always happy to help you"
-    nvlunknown "很高兴能为您服务。"
+    nvlunknown "很高兴能为你服务。"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:6153
 translate zh_Hans mc_alpha_storyline_171_53c71d7c:
@@ -12208,7 +12208,7 @@ translate zh_Hans mc_alpha_storyline_175_e0ee4be6:
 translate zh_Hans mc_alpha_storyline_175_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:6597
 translate zh_Hans mc_alpha_storyline_175_9f92e68d:
@@ -12238,7 +12238,7 @@ translate zh_Hans mc_alpha_storyline_175_00519895:
 translate zh_Hans mc_alpha_storyline_175_afeba64f:
 
     # nvljenna "{a=show:show_chat_media}{image=mike_pic_9}"
-    nvljenna "{a=show:show_chat_media}{image=mike_pic_9}"
+    nvljenna ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:6611
 translate zh_Hans mc_alpha_storyline_175_f0dde83f:
@@ -13096,7 +13096,7 @@ translate zh_Hans mc_alpha_storyline_178_f0bcf7d8:
 translate zh_Hans mc_alpha_storyline_178_d68f9c2b:
 
     # nvljohn "{a=show:show_chat_media}{image=mike_video_2_ns}"
-    nvljohn "{a=show:show_chat_media}{image=mike_video_2_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:7024
 translate zh_Hans mc_alpha_storyline_178_5510ff30:
@@ -13750,7 +13750,7 @@ translate zh_Hans mc_alpha_storyline_179_8888a1ca:
 translate zh_Hans mc_alpha_storyline_179_88a70c03:
 
     # nvlunknown "{a=show:show_chat_media}{image=mike_video_2_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=mike_video_2_ns}"
+    nvlunknown ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:7279
 translate zh_Hans mc_alpha_storyline_179_79f3f162:
@@ -13984,7 +13984,7 @@ translate zh_Hans mc_alpha_storyline_179_e038b1ca:
 translate zh_Hans mc_alpha_storyline_179_9630054e:
 
     # nvlunknown "😊"
-    nvlunknown "😊|😊"
+    nvlunknown "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:7357
 translate zh_Hans mc_alpha_storyline_179_cfa37fd7:
@@ -14200,7 +14200,7 @@ translate zh_Hans mc_alpha_storyline_179_e038b1ca_1:
 translate zh_Hans mc_alpha_storyline_179_9630054e_1:
 
     # nvlunknown "😊"
-    nvlunknown "😊|😊"
+    nvlunknown "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:7431
 translate zh_Hans mc_alpha_storyline_179_78fe7c2c:
@@ -14674,7 +14674,7 @@ translate zh_Hans mc_alpha_storyline_182_bebcb91e:
 translate zh_Hans mc_alpha_storyline_182_641fb2dd:
 
     # nvlamelia "😊"
-    nvlamelia "😊|😊"
+    nvlamelia "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:7699
 translate zh_Hans mc_alpha_storyline_182_6a09654a:
@@ -14898,7 +14898,7 @@ translate zh_Hans mc_alpha_storyline_183_7c420cf4:
 translate zh_Hans mc_alpha_storyline_183_97723557:
 
     # nvlhenrique "😊"
-    nvlhenrique "😊|😊"
+    nvlhenrique "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:7830
 translate zh_Hans mc_alpha_storyline_183_dd37b3b2:
@@ -15878,7 +15878,7 @@ translate zh_Hans mc_alpha_storyline_187_09c58814:
 translate zh_Hans mc_alpha_storyline_187_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:8312
 translate zh_Hans mc_alpha_storyline_187_ffe939e7:
@@ -15950,7 +15950,7 @@ translate zh_Hans mc_alpha_storyline_187_83752d07:
 translate zh_Hans mc_alpha_storyline_187_1d5b0ca9:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_833}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_833}|{a=show:show_chat_media}{image=wife_pic_833}"
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_833}|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:8340
 translate zh_Hans mc_alpha_storyline_187_098424d1:
@@ -16618,7 +16618,7 @@ translate zh_Hans mc_alpha_storyline_191_dde34bc1:
 translate zh_Hans mc_alpha_storyline_191_e515dc03:
 
     # nvltimon "{a=show:show_chat_media}{image=mike_video_3_ns}"
-    nvltimon "{a=show:show_chat_media}{image=mike_video_3_ns}|{a=show:show_chat_media}{image=mike_video_3_ns}"
+    nvltimon "{a=show:show_chat_media}{image=mike_video_3_ns}|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:8732
 translate zh_Hans mc_alpha_storyline_191_09b22fb6:
@@ -16998,7 +16998,7 @@ translate zh_Hans mc_alpha_storyline_192_adfc6a99:
 translate zh_Hans mc_alpha_storyline_192_9630054e:
 
     # nvlunknown "😊"
-    nvlunknown "😊|😊"
+    nvlunknown "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:8889
 translate zh_Hans mc_alpha_storyline_192_ee2d7219:
@@ -17132,19 +17132,19 @@ translate zh_Hans mc_alpha_storyline_193_5f5145f9:
     # nvl clear
     # nvljenna "How are you doing, Mr [mc_name_is]?"
     nvl clear
-    nvljenna "您好，[mc_name_is]先生？"
+    nvljenna "你好，[mc_name_is]先生？"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:8984
 translate zh_Hans mc_alpha_storyline_193_80eb9fde:
 
     # nvljenna "It's been a while since I've seen or heard from you"
-    nvljenna "好久没见到您或听到您的消息了"
+    nvljenna "好久没见到你或听到你的消息了"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:8986
 translate zh_Hans mc_alpha_storyline_193_40a16d49:
 
     # nvljenna "I hope everything is going well for you"
-    nvljenna "希望您一切顺利"
+    nvljenna "希望你一切顺利"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:8988
 translate zh_Hans mc_alpha_storyline_193_0b3e59fa:
@@ -17162,7 +17162,7 @@ translate zh_Hans mc_alpha_storyline_193_89f8a826:
 translate zh_Hans mc_alpha_storyline_193_0da314c0:
 
     # nvljenna "Glad to hear that you're doing well"
-    nvljenna "很高兴听到您一切都好"
+    nvljenna "很高兴听到你一切都好"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:8994
 translate zh_Hans mc_alpha_storyline_193_de311897:
@@ -17186,7 +17186,7 @@ translate zh_Hans mc_alpha_storyline_193_5a543029:
 translate zh_Hans mc_alpha_storyline_193_3ce33210:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_273_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_273_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:9006
 translate zh_Hans mc_alpha_storyline_193_24f72432:
@@ -17210,7 +17210,7 @@ translate zh_Hans mc_alpha_storyline_193_73a30150:
 translate zh_Hans mc_alpha_storyline_193_533c4291:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_274_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_274_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:9018
 translate zh_Hans mc_alpha_storyline_193_97388315:
@@ -17222,7 +17222,7 @@ translate zh_Hans mc_alpha_storyline_193_97388315:
 translate zh_Hans mc_alpha_storyline_193_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:9022
 translate zh_Hans mc_alpha_storyline_193_9c21e05a:
@@ -17904,7 +17904,7 @@ translate zh_Hans mc_alpha_storyline_195_7a54d151:
 translate zh_Hans mc_alpha_storyline_195_7389e3c7:
 
     # nvlmike "{a=show:show_chat_media}{image=mike_pic_10}"
-    nvlmike "{a=show:show_chat_media}{image=mike_pic_10}|{a=show:show_chat_media}{image=mike_pic_10}"
+    nvlmike "{a=show:show_chat_media}{image=mike_pic_10}|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:9334
 translate zh_Hans mc_alpha_storyline_195_69897616:
@@ -17976,7 +17976,7 @@ translate zh_Hans mc_alpha_storyline_195_78fb2d81:
 translate zh_Hans mc_alpha_storyline_195_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:9358
 translate zh_Hans mc_alpha_storyline_195_79c4091e:
@@ -18072,7 +18072,7 @@ translate zh_Hans mc_alpha_storyline_195_338df687:
 translate zh_Hans mc_alpha_storyline_195_36946e85:
 
     # nvlmike "{a=show:show_chat_media}{image=mike_pic_11}"
-    nvlmike "{a=show:show_chat_media}{image=mike_pic_11}|{a=show:show_chat_media}{image=mike_pic_11}"
+    nvlmike "{a=show:show_chat_media}{image=mike_pic_11}|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:9394
 translate zh_Hans mc_alpha_storyline_195_acacc449:
@@ -18272,7 +18272,7 @@ translate zh_Hans mc_alpha_storyline_196_eabacf56:
 translate zh_Hans mc_alpha_storyline_196_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:9493
 translate zh_Hans mc_alpha_storyline_196_3400a7c1:
@@ -18350,7 +18350,7 @@ translate zh_Hans mc_alpha_storyline_196_aa4d4ecf:
 translate zh_Hans mc_alpha_storyline_196_81e17ffd:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_pic_116}"
-    nvljenna "{a=show:show_chat_media}{image=jenna_pic_116}|{a=show:show_chat_media}{image=jenna_pic_116}"
+    nvljenna "{a=show:show_chat_media}{image=jenna_pic_116}|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:9523
 translate zh_Hans mc_alpha_storyline_196_abb82fa8:
@@ -19044,7 +19044,7 @@ translate zh_Hans mc_alpha_storyline_198_1dc45238:
 translate zh_Hans mc_alpha_storyline_198_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:9841
 translate zh_Hans mc_alpha_storyline_198_6b5a3f8e:
@@ -19152,7 +19152,7 @@ translate zh_Hans mc_alpha_storyline_198_52892467:
 translate zh_Hans mc_alpha_storyline_198_cc71cba4:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_pic_117}"
-    nvljenna "{a=show:show_chat_media}{image=jenna_pic_117}"
+    nvljenna ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:9881
 translate zh_Hans mc_alpha_storyline_198_c231e09e:
@@ -19256,7 +19256,7 @@ translate zh_Hans mc_alpha_storyline_199_e44cb0a0:
 translate zh_Hans mc_alpha_storyline_199_c6a9780e:
 
     # nvljohn "{a=show:show_chat_media}{image=kioko_video_5_ns}"
-    nvljohn "{a=show:show_chat_media}{image=kioko_video_5_ns}|{a=show:show_chat_media}{image=kioko_video_5_ns}"
+    nvljohn "{a=show:show_chat_media}{image=kioko_video_5_ns}|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:9960
 translate zh_Hans mc_alpha_storyline_199_88300553:
@@ -19292,7 +19292,7 @@ translate zh_Hans mc_alpha_storyline_199_1f4ced8b:
 translate zh_Hans mc_alpha_storyline_199_46fe7fe7:
 
     # nvlkioko "{a=show:show_chat_media}{image=kioko_pic_26}"
-    nvlkioko "{a=show:show_chat_media}{image=kioko_pic_26}|{a=show:show_chat_media}{image=kioko_pic_26}"
+    nvlkioko "{a=show:show_chat_media}{image=kioko_pic_26}|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:9976
 translate zh_Hans mc_alpha_storyline_199_a0c9de7f:
@@ -19838,7 +19838,7 @@ translate zh_Hans mc_alpha_storyline_202_56f950c3:
 translate zh_Hans mc_alpha_storyline_202_1510db50:
 
     # nvlmike "{a=show:show_chat_media}{image=mike_pic_12}"
-    nvlmike "{a=show:show_chat_media}{image=mike_pic_12}|{a=show:show_chat_media}{image=mike_pic_12}"
+    nvlmike "{a=show:show_chat_media}{image=mike_pic_12}|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:10269
 translate zh_Hans mc_alpha_storyline_202_a0c9de7f:
@@ -20062,7 +20062,7 @@ translate zh_Hans mc_alpha_storyline_203_9309c5fa:
 translate zh_Hans mc_alpha_storyline_203_9630054e:
 
     # nvlunknown "😊"
-    nvlunknown "😊|😊"
+    nvlunknown "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:10374
 translate zh_Hans mc_alpha_storyline_203_66b1bc37:
@@ -20122,7 +20122,7 @@ translate zh_Hans mc_alpha_storyline_203_after_c98db0e7:
 translate zh_Hans mc_alpha_storyline_203_after_42587773:
 
     # mc "{i}For now, I'll just keep using the app to break Jenna"
-    mc "{i}For now, I'll just keep using the app to break Jenna"
+    mc ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:10441
 translate zh_Hans mc_alpha_storyline_204_73c783f9:
@@ -20220,7 +20220,7 @@ translate zh_Hans mc_alpha_storyline_204_48b4e0d7:
 translate zh_Hans mc_alpha_storyline_204_258b0dd2:
 
     # nvlsalim "{a=show:show_chat_media}{image=wife_video_262_ns}"
-    nvlsalim "{a=show:show_chat_media}{image=wife_video_262_ns}"
+    nvlsalim ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:10479
 translate zh_Hans mc_alpha_storyline_204_33b6e806:
@@ -20238,7 +20238,7 @@ translate zh_Hans mc_alpha_storyline_204_e44ba623:
 translate zh_Hans mc_alpha_storyline_204_37fb4c4d:
 
     # nvlsalim "Yes, that's your wife"
-    nvlsalim "是的，那是您妻子。"
+    nvlsalim "是的，那是你妻子。"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:10485
 translate zh_Hans mc_alpha_storyline_204_2831c987:
@@ -20474,7 +20474,7 @@ translate zh_Hans mc_alpha_storyline_205_5724dee7:
 translate zh_Hans mc_alpha_storyline_205_d9315553:
 
     # nvljohn "{a=show:show_chat_media}{image=dick_pic_8}"
-    nvljohn "{a=show:show_chat_media}{image=dick_pic_8}|{a=show:show_chat_media}{image=dick_pic_8}"
+    nvljohn "{a=show:show_chat_media}{image=dick_pic_8}|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:10602
 translate zh_Hans mc_alpha_storyline_205_fc5aa307:
@@ -20540,7 +20540,7 @@ translate zh_Hans mc_alpha_storyline_205_a954c56f:
 translate zh_Hans mc_alpha_storyline_205_45e7e8bb:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_pic_118}"
-    nvljenna "{a=show:show_chat_media}{image=jenna_pic_118}"
+    nvljenna ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:10628
 translate zh_Hans mc_alpha_storyline_205_92574c65:
@@ -20740,7 +20740,7 @@ translate zh_Hans mc_alpha_storyline_206_9c15cb3e:
 translate zh_Hans mc_alpha_storyline_206_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:10749
 translate zh_Hans mc_alpha_storyline_206_9c4a5a1d:
@@ -21120,7 +21120,7 @@ translate zh_Hans mc_alpha_storyline_207_e3628c54:
 translate zh_Hans mc_alpha_storyline_207_7669d07b:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_262_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_262_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:10928
 translate zh_Hans mc_alpha_storyline_207_f6d59e8c:
@@ -21902,7 +21902,7 @@ translate zh_Hans mc_alpha_storyline_211_8bfb13a8:
 translate zh_Hans mc_alpha_storyline_211_ee60e0ff:
 
     # nvlkioko "❤️"
-    nvlkioko "❤️|❤️"
+    nvlkioko "❤️|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:11338
 translate zh_Hans mc_alpha_storyline_211_122459f3:
@@ -21962,7 +21962,7 @@ translate zh_Hans mc_alpha_storyline_211_c87430d6:
 translate zh_Hans mc_alpha_storyline_211_84c14ef8:
 
     # nvlkioko "{a=show:show_chat_media}{image=kioko_pic_27}"
-    nvlkioko "{a=show:show_chat_media}{image=kioko_pic_27}"
+    nvlkioko ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:11362
 translate zh_Hans mc_alpha_storyline_211_dbed82ef:
@@ -21986,7 +21986,7 @@ translate zh_Hans mc_alpha_storyline_211_87bf4f18:
 translate zh_Hans mc_alpha_storyline_211_ee60e0ff_1:
 
     # nvlkioko "❤️"
-    nvlkioko "❤️|❤️"
+    nvlkioko "❤️|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:11370
 translate zh_Hans mc_alpha_storyline_211_506139c9:
@@ -22090,7 +22090,7 @@ translate zh_Hans mc_alpha_storyline_212_af210888:
 translate zh_Hans mc_alpha_storyline_212_ab764a33:
 
     # nvljohn "{a=show:show_chat_media}{image=kioko_video_6_ns}"
-    nvljohn "{a=show:show_chat_media}{image=kioko_video_6_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:11441
 translate zh_Hans mc_alpha_storyline_212_979df420:
@@ -22162,7 +22162,7 @@ translate zh_Hans mc_alpha_storyline_212_b553591a:
 translate zh_Hans mc_alpha_storyline_212_9ef137e4:
 
     # nvljohn "❤️"
-    nvljohn "❤️|❤️"
+    nvljohn "❤️|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:11465
 translate zh_Hans mc_alpha_storyline_212_7a9413f4:
@@ -22604,7 +22604,7 @@ translate zh_Hans mc_alpha_storyline_214_00f42a1d:
 translate zh_Hans mc_alpha_storyline_214_a8a3a37b:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_841}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_841}"
+    nvlwife ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:11681
 translate zh_Hans mc_alpha_storyline_214_09859104:
@@ -23378,7 +23378,7 @@ translate zh_Hans mc_alpha_storyline_217_40b9afdf:
 translate zh_Hans mc_alpha_storyline_217_e2eeed96:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_842}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_842}"
+    nvlwife ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:12040
 translate zh_Hans mc_alpha_storyline_217_3402bca9:
@@ -23560,7 +23560,7 @@ translate zh_Hans mc_alpha_storyline_218_27e763a3:
 translate zh_Hans mc_alpha_storyline_218_fbaa6a2a:
 
     # nvljenna "What's on your mind?"
-    nvljenna "您有什么事？"
+    nvljenna "你有什么事？"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:12147
 translate zh_Hans mc_alpha_storyline_218_8ef180f3:
@@ -23968,7 +23968,7 @@ translate zh_Hans mc_alpha_storyline_218_ff1eb98c:
 translate zh_Hans mc_alpha_storyline_218_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:12283
 translate zh_Hans mc_alpha_storyline_218_f07e54aa:
@@ -24100,7 +24100,7 @@ translate zh_Hans mc_alpha_storyline_218_f820d921:
 translate zh_Hans mc_alpha_storyline_218_1e86d72b:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_pic_119}"
-    nvljenna "{a=show:show_chat_media}{image=jenna_pic_119}|{a=show:show_chat_media}{image=jenna_pic_119}"
+    nvljenna "{a=show:show_chat_media}{image=jenna_pic_119}|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:12331
 translate zh_Hans mc_alpha_storyline_218_d7e866c3:
@@ -24112,13 +24112,13 @@ translate zh_Hans mc_alpha_storyline_218_d7e866c3:
 translate zh_Hans mc_alpha_storyline_218_d81677c1:
 
     # nvljenna "😉"
-    nvljenna "😉|😉"
+    nvljenna "😉|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:12337
 translate zh_Hans mc_alpha_storyline_218_d13f600a:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_pic_120}"
-    nvljenna "{a=show:show_chat_media}{image=jenna_pic_120}|{a=show:show_chat_media}{image=jenna_pic_120}"
+    nvljenna "{a=show:show_chat_media}{image=jenna_pic_120}|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:12341
 translate zh_Hans mc_alpha_storyline_218_e342e333_1:
@@ -24652,7 +24652,7 @@ translate zh_Hans mc_alpha_storyline_221_5fbd3925:
 translate zh_Hans mc_alpha_storyline_221_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:12616
 translate zh_Hans mc_alpha_storyline_221_3a83631d:
@@ -24882,7 +24882,7 @@ translate zh_Hans mc_alpha_storyline_222_912d7185:
 translate zh_Hans mc_alpha_storyline_222_9630054e:
 
     # nvlunknown "😊"
-    nvlunknown "😊|😊"
+    nvlunknown "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:12725
 translate zh_Hans mc_alpha_storyline_222_730653c1:
@@ -24932,7 +24932,7 @@ translate zh_Hans mc_alpha_storyline_223_5911e8c1:
 translate zh_Hans mc_alpha_storyline_223_55535137:
 
     # nvljohn "Not bothering you, am I?"
-    nvljohn "我没打扰到您吧？"
+    nvljohn "我没打扰到你吧？"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:12774
 translate zh_Hans mc_alpha_storyline_223_d1752efc:
@@ -25040,7 +25040,7 @@ translate zh_Hans mc_alpha_storyline_223_8ba563e5:
 translate zh_Hans mc_alpha_storyline_223_95159341:
 
     # nvljenna "That hasn't been your office for a while, boss."
-    nvljenna "老板，那已经不是您的办公室很久了。"
+    nvljenna "老板，那已经不是你的办公室很久了。"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:12810
 translate zh_Hans mc_alpha_storyline_223_f9721262:
@@ -25222,13 +25222,13 @@ translate zh_Hans mc_alpha_storyline_224_e99e2d4d:
 translate zh_Hans mc_alpha_storyline_224_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:12905
 translate zh_Hans mc_alpha_storyline_224_45a242b2:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_pic_121}"
-    nvljenna "{a=show:show_chat_media}{image=jenna_pic_121}"
+    nvljenna ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:12909
 translate zh_Hans mc_alpha_storyline_224_fafa8b86:
@@ -25762,7 +25762,7 @@ translate zh_Hans mc_alpha_storyline_227_3c61758d:
 translate zh_Hans mc_alpha_storyline_227_ee60e0ff:
 
     # nvlkioko "❤️"
-    nvlkioko "❤️|❤️"
+    nvlkioko "❤️|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:13201
 translate zh_Hans mc_alpha_storyline_227_57489c4c:
@@ -25878,7 +25878,7 @@ translate zh_Hans mc_alpha_storyline_228_a47dfa49:
 translate zh_Hans mc_alpha_storyline_228_ddefbc6d:
 
     # nvlkioko "{a=show:show_chat_media}{image=kioko_video_7_ns}"
-    nvlkioko "{a=show:show_chat_media}{image=kioko_video_7_ns}"
+    nvlkioko ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:13276
 translate zh_Hans mc_alpha_storyline_228_1c9dd46d:
@@ -25968,7 +25968,7 @@ translate zh_Hans mc_alpha_storyline_228_ac035ba8:
 translate zh_Hans mc_alpha_storyline_228_0e075868:
 
     # nvlkioko "{a=show:show_chat_media}{image=bbc_video_90_ns}"
-    nvlkioko "{a=show:show_chat_media}{image=bbc_video_90_ns}"
+    nvlkioko ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:13310
 translate zh_Hans mc_alpha_storyline_228_2fd83661:
@@ -25986,7 +25986,7 @@ translate zh_Hans mc_alpha_storyline_228_83236add:
 translate zh_Hans mc_alpha_storyline_228_03ba5034:
 
     # nvlkioko "{a=show:show_chat_media}{image=bbc_video_91_ns}"
-    nvlkioko "{a=show:show_chat_media}{image=bbc_video_91_ns}"
+    nvlkioko ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:13320
 translate zh_Hans mc_alpha_storyline_228_46ba7e29:
@@ -26100,7 +26100,7 @@ translate zh_Hans mc_alpha_storyline_228_7782075b:
 translate zh_Hans mc_alpha_storyline_228_ef5617e2:
 
     # nvlkioko "😊"
-    nvlkioko "😊|😊"
+    nvlkioko "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:13362
 translate zh_Hans mc_alpha_storyline_228_9f218daf:
@@ -26154,7 +26154,7 @@ translate zh_Hans mc_alpha_storyline_228_f3312c77:
 translate zh_Hans mc_alpha_storyline_228_ee60e0ff:
 
     # nvlkioko "❤️"
-    nvlkioko "❤️|❤️"
+    nvlkioko "❤️|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:13382
 translate zh_Hans mc_alpha_storyline_228_80316ff9:
@@ -26438,7 +26438,7 @@ translate zh_Hans mc_alpha_storyline_229_05037d4f:
 translate zh_Hans mc_alpha_storyline_229_ffb52f06:
 
     # nvlsalim "{a=show:show_chat_media}{image=jenna_video_22_ns}"
-    nvlsalim "{a=show:show_chat_media}{image=jenna_video_22_ns}"
+    nvlsalim ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:13512
 translate zh_Hans mc_alpha_storyline_229_ce2fcef7:
@@ -26918,7 +26918,7 @@ translate zh_Hans mc_alpha_storyline_232_2ebbaef2:
 translate zh_Hans mc_alpha_storyline_232_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:13769
 translate zh_Hans mc_alpha_storyline_232_70c9acaa:
@@ -27014,7 +27014,7 @@ translate zh_Hans mc_alpha_storyline_232_cb1e7769:
 translate zh_Hans mc_alpha_storyline_232_50f05fa2:
 
     # nvljenna "{a=show:show_chat_media}{image=bbc_video_92_ns}"
-    nvljenna "{a=show:show_chat_media}{image=bbc_video_92_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:13805
 translate zh_Hans mc_alpha_storyline_232_92574c65:
@@ -27056,7 +27056,7 @@ translate zh_Hans mc_alpha_storyline_232_b0d11c4e:
 translate zh_Hans mc_alpha_storyline_232_7a73eed7:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_pic_122}"
-    nvljenna "{a=show:show_chat_media}{image=jenna_pic_122}"
+    nvljenna ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:13823
 translate zh_Hans mc_alpha_storyline_232_e91034c5:
@@ -27536,7 +27536,7 @@ translate zh_Hans mc_alpha_storyline_235_2dbed1d7:
 translate zh_Hans mc_alpha_storyline_235_bb4c4ba5:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_pic_123}"
-    nvljenna "{a=show:show_chat_media}{image=jenna_pic_123}"
+    nvljenna ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:14084
 translate zh_Hans mc_alpha_storyline_235_d1c1078d:
@@ -27772,7 +27772,7 @@ translate zh_Hans mc_alpha_storyline_236_e3708e31:
 translate zh_Hans mc_alpha_storyline_236_9630054e:
 
     # nvlunknown "😊"
-    nvlunknown "😊|😊"
+    nvlunknown "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:14195
 translate zh_Hans mc_alpha_storyline_236_4cbd7e7e:
@@ -27840,7 +27840,7 @@ translate zh_Hans mc_alpha_storyline_237_a4217833:
 translate zh_Hans mc_alpha_storyline_237_5d56c007:
 
     # nvlmike "😊"
-    nvlmike "😊|😊"
+    nvlmike "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:14250
 translate zh_Hans mc_alpha_storyline_237_db718748:
@@ -28476,7 +28476,7 @@ translate zh_Hans mc_alpha_storyline_240_4c2fa8e3:
 translate zh_Hans mc_alpha_storyline_240_4368cd7e:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_pic_124}"
-    nvljenna "{a=show:show_chat_media}{image=jenna_pic_124}"
+    nvljenna ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:14577
 translate zh_Hans mc_alpha_storyline_240_24f72432:
@@ -28820,13 +28820,13 @@ translate zh_Hans mc_alpha_storyline_241_2ce86153:
 translate zh_Hans mc_alpha_storyline_241_4e8266bb:
 
     # nvltalay "😊"
-    nvltalay "😊|😊"
+    nvltalay "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:14740
 translate zh_Hans mc_alpha_storyline_241_54d84c35:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_pic_73}"
-    nvltalay "{a=show:show_chat_media}{image=talay_pic_73}"
+    nvltalay ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:14744
 translate zh_Hans mc_alpha_storyline_241_a38a5bed:
@@ -28850,7 +28850,7 @@ translate zh_Hans mc_alpha_storyline_241_8bbe0104:
 translate zh_Hans mc_alpha_storyline_241_4e8266bb_1:
 
     # nvltalay "😊"
-    nvltalay "😊|😊"
+    nvltalay "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:14752
 translate zh_Hans mc_alpha_storyline_241_4f2f490c:
@@ -28862,7 +28862,7 @@ translate zh_Hans mc_alpha_storyline_241_4f2f490c:
 translate zh_Hans mc_alpha_storyline_241_15d6dd42:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_pic_74}"
-    nvltalay "{a=show:show_chat_media}{image=talay_pic_74}"
+    nvltalay ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:14760
 translate zh_Hans mc_alpha_storyline_241_11703cda:
@@ -29014,7 +29014,7 @@ translate zh_Hans mc_alpha_storyline_242_cd1f2255:
 translate zh_Hans mc_alpha_storyline_242_d266f632:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_video_4_ns}"
-    nvljohn "{a=show:show_chat_media}{image=talay_video_4_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:14847
 translate zh_Hans mc_alpha_storyline_242_ea9367fd:
@@ -29104,7 +29104,7 @@ translate zh_Hans mc_alpha_storyline_242_5ef03258:
 translate zh_Hans mc_alpha_storyline_242_399beee9:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_pic_75}"
-    nvltalay "{a=show:show_chat_media}{image=talay_pic_75}"
+    nvltalay ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:14881
 translate zh_Hans mc_alpha_storyline_242_56629903:
@@ -29122,7 +29122,7 @@ translate zh_Hans mc_alpha_storyline_242_77f9c046:
 translate zh_Hans mc_alpha_storyline_242_9ef137e4:
 
     # nvljohn "❤️"
-    nvljohn "❤️|❤️"
+    nvljohn "❤️|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:14909
 translate zh_Hans mc_alpha_storyline_242_53c71d7c:
@@ -29316,7 +29316,7 @@ translate zh_Hans mc_alpha_storyline_243_6d6703c9:
 translate zh_Hans mc_alpha_storyline_243_ee60e0ff:
 
     # nvlkioko "❤️"
-    nvlkioko "❤️|❤️"
+    nvlkioko "❤️|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:14992
 translate zh_Hans mc_alpha_storyline_243_5effd0a1:
@@ -29710,7 +29710,7 @@ translate zh_Hans mc_alpha_storyline_245_6dc68562:
 translate zh_Hans mc_alpha_storyline_245_9630054e:
 
     # nvlunknown "😊"
-    nvlunknown "😊|😊"
+    nvlunknown "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:15188
 translate zh_Hans mc_alpha_storyline_245_64a583b6:
@@ -29808,7 +29808,7 @@ translate zh_Hans mc_alpha_storyline_246_47493223:
 translate zh_Hans mc_alpha_storyline_246_ef5617e2:
 
     # nvlkioko "😊"
-    nvlkioko "😊|😊"
+    nvlkioko "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:15261
 translate zh_Hans mc_alpha_storyline_246_61c58504:
@@ -29832,7 +29832,7 @@ translate zh_Hans mc_alpha_storyline_246_a7524fc1:
 translate zh_Hans mc_alpha_storyline_246_744252c2:
 
     # nvljohn "{a=show:show_chat_media}{image=kioko_video_8_ns}"
-    nvljohn "{a=show:show_chat_media}{image=kioko_video_8_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:15273
 translate zh_Hans mc_alpha_storyline_246_be9e5b72:
@@ -29874,7 +29874,7 @@ translate zh_Hans mc_alpha_storyline_246_de7ea8c3:
 translate zh_Hans mc_alpha_storyline_246_ee60e0ff:
 
     # nvlkioko "❤️"
-    nvlkioko "❤️|❤️"
+    nvlkioko "❤️|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:15287
 translate zh_Hans mc_alpha_storyline_246_4101c7b1:
@@ -29934,7 +29934,7 @@ translate zh_Hans mc_alpha_storyline_246_30d47cb7:
 translate zh_Hans mc_alpha_storyline_246_619519c0:
 
     # nvlkioko "{a=show:show_chat_media}{image=kioko_pic_28}"
-    nvlkioko "{a=show:show_chat_media}{image=kioko_pic_28}"
+    nvlkioko ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:15311
 translate zh_Hans mc_alpha_storyline_246_de7ea8c3_1:
@@ -29964,7 +29964,7 @@ translate zh_Hans mc_alpha_storyline_246_3e63d510:
 translate zh_Hans mc_alpha_storyline_246_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:15321
 translate zh_Hans mc_alpha_storyline_246_73210afa:
@@ -30278,7 +30278,7 @@ translate zh_Hans mc_alpha_storyline_247_9270ab4e:
 translate zh_Hans mc_alpha_storyline_247_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:15458
 translate zh_Hans mc_alpha_storyline_247_49596a9d:
@@ -30308,13 +30308,13 @@ translate zh_Hans mc_alpha_storyline_247_0d277dc8:
 translate zh_Hans mc_alpha_storyline_247_e421efdc:
 
     # nvlmike "{a=show:show_chat_media}{image=mike_pic_13}"
-    nvlmike "{a=show:show_chat_media}{image=mike_pic_13}"
+    nvlmike ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:15478
 translate zh_Hans mc_alpha_storyline_247_37399c3d:
 
     # nvlmike "{a=show:show_chat_media}{image=mike_pic_13_1}"
-    nvlmike "{a=show:show_chat_media}{image=mike_pic_13_1}"
+    nvlmike ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:15482
 translate zh_Hans mc_alpha_storyline_247_046a383a:
@@ -30828,7 +30828,7 @@ translate zh_Hans mc_alpha_storyline_249_991787cd:
 translate zh_Hans mc_alpha_storyline_249_5d56c007:
 
     # nvlmike "😊"
-    nvlmike "😊|😊"
+    nvlmike "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:15718
 translate zh_Hans mc_alpha_storyline_249_af109d22:
@@ -31106,7 +31106,7 @@ translate zh_Hans mc_alpha_storyline_250_9b9b96bb:
 translate zh_Hans mc_alpha_storyline_250_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:15857
 translate zh_Hans mc_alpha_storyline_250_53c71d7c:
@@ -31506,7 +31506,7 @@ translate zh_Hans mc_alpha_storyline_252_cccb09f7:
 translate zh_Hans mc_alpha_storyline_252_eaf815ca:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_pic_125}"
-    nvljenna "{a=show:show_chat_media}{image=jenna_pic_125}"
+    nvljenna ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:16060
 translate zh_Hans mc_alpha_storyline_252_611b4796:
@@ -31592,7 +31592,7 @@ translate zh_Hans mc_alpha_storyline_253_df7ba757:
 translate zh_Hans mc_alpha_storyline_253_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:16121
 translate zh_Hans mc_alpha_storyline_253_3d88dea3:
@@ -31628,7 +31628,7 @@ translate zh_Hans mc_alpha_storyline_253_63b49f93:
 translate zh_Hans mc_alpha_storyline_253_d81677c1:
 
     # nvljenna "😉"
-    nvljenna "😉|😉"
+    nvljenna "😉|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:16133
 translate zh_Hans mc_alpha_storyline_253_0f7a501e:
@@ -31742,7 +31742,7 @@ translate zh_Hans mc_alpha_storyline_253_08977d75:
 translate zh_Hans mc_alpha_storyline_253_34e5200a:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_23_ns}"
-    nvljenna "{a=show:show_chat_media}{image=jenna_video_23_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:16175
 translate zh_Hans mc_alpha_storyline_253_0456b1a2:
@@ -31778,7 +31778,7 @@ translate zh_Hans mc_alpha_storyline_253_9eb3f8ae:
 translate zh_Hans mc_alpha_storyline_253_4f49d505:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_24_ns}"
-    nvljenna "{a=show:show_chat_media}{image=jenna_video_24_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:16191
 translate zh_Hans mc_alpha_storyline_253_868a688d:
@@ -32086,7 +32086,7 @@ translate zh_Hans mc_alpha_storyline_254_e1e36ac8:
 translate zh_Hans mc_alpha_storyline_254_34e5200a:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_23_ns}"
-    nvljenna "{a=show:show_chat_media}{image=jenna_video_23_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:16341
 translate zh_Hans mc_alpha_storyline_254_88846fab:
@@ -32292,7 +32292,7 @@ translate zh_Hans mc_alpha_storyline_255_cad88b37:
 translate zh_Hans mc_alpha_storyline_255_c52b72a0:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_pic_76}"
-    nvltalay "{a=show:show_chat_media}{image=talay_pic_76}"
+    nvltalay ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:16446
 translate zh_Hans mc_alpha_storyline_255_cafa3833:
@@ -32754,7 +32754,7 @@ translate zh_Hans mc_alpha_storyline_258_79ddf881:
 translate zh_Hans mc_alpha_storyline_258_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:16697
 translate zh_Hans mc_alpha_storyline_258_f7c80c36:
@@ -32868,13 +32868,13 @@ translate zh_Hans mc_alpha_storyline_258_e9fcd595:
 translate zh_Hans mc_alpha_storyline_258_98632161:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_pic_126}"
-    nvljenna "{a=show:show_chat_media}{image=jenna_pic_126}"
+    nvljenna ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:16739
 translate zh_Hans mc_alpha_storyline_258_d81677c1:
 
     # nvljenna "😉"
-    nvljenna "😉|😉"
+    nvljenna "😉|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:16741
 translate zh_Hans mc_alpha_storyline_258_9892332b:
@@ -33086,13 +33086,13 @@ translate zh_Hans mc_alpha_storyline_259_174e4ca1:
 translate zh_Hans mc_alpha_storyline_259_1f678d5f:
 
     # nvlmike "{a=show:show_chat_media}{image=mike_pic_14}"
-    nvlmike "{a=show:show_chat_media}{image=mike_pic_14}"
+    nvlmike ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:16873
 translate zh_Hans mc_alpha_storyline_259_f0446284:
 
     # nvlmike "{a=show:show_chat_media}{image=mike_pic_14_1}"
-    nvlmike "{a=show:show_chat_media}{image=mike_pic_14_1}"
+    nvlmike ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:16877
 translate zh_Hans mc_alpha_storyline_259_5ddd1f23:
@@ -33104,7 +33104,7 @@ translate zh_Hans mc_alpha_storyline_259_5ddd1f23:
 translate zh_Hans mc_alpha_storyline_259_5d56c007:
 
     # nvlmike "😊"
-    nvlmike "😊|😊"
+    nvlmike "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:16881
 translate zh_Hans mc_alpha_storyline_259_b69de9cc:
@@ -33202,13 +33202,13 @@ translate zh_Hans mc_alpha_storyline_260_58bc0ec8:
 translate zh_Hans mc_alpha_storyline_260_7a8fab50:
 
     # nvljohn "{a=show:show_chat_media}{image=mike_video_4_ns}"
-    nvljohn "{a=show:show_chat_media}{image=mike_video_4_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:16956
 translate zh_Hans mc_alpha_storyline_260_335fa542:
 
     # nvljohn "{a=show:show_chat_media}{image=mike_video_4_1_ns}"
-    nvljohn "{a=show:show_chat_media}{image=mike_video_4_1_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:16960
 translate zh_Hans mc_alpha_storyline_260_391370f1:
@@ -33358,7 +33358,7 @@ translate zh_Hans mc_alpha_storyline_260_9bb1d9e2:
 translate zh_Hans mc_alpha_storyline_260_5d56c007:
 
     # nvlmike "😊"
-    nvlmike "😊|😊"
+    nvlmike "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17010
 translate zh_Hans mc_alpha_storyline_260_c85f0f85:
@@ -33412,7 +33412,7 @@ translate zh_Hans mc_alpha_storyline_260_6bde80f1:
 translate zh_Hans mc_alpha_storyline_260_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17028
 translate zh_Hans mc_alpha_storyline_260_c9614735:
@@ -33994,7 +33994,7 @@ translate zh_Hans mc_alpha_storyline_263_e5d7fdec:
 translate zh_Hans mc_alpha_storyline_263_641fb2dd:
 
     # nvlamelia "😊"
-    nvlamelia "😊|😊"
+    nvlamelia "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17333
 translate zh_Hans mc_alpha_storyline_263_2cd205f9:
@@ -35166,7 +35166,7 @@ translate zh_Hans mc_alpha_storyline_270_81dc1679:
 translate zh_Hans mc_alpha_storyline_270_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17964
 translate zh_Hans mc_alpha_storyline_270_b79a92cd:
@@ -35744,7 +35744,7 @@ translate zh_Hans mc_alpha_storyline_274_3f697775:
 translate zh_Hans mc_alpha_storyline_274_ba32cf36:
 
     # nvlmike "{a=show:show_chat_media}{image=mike_pic_15}"
-    nvlmike "{a=show:show_chat_media}{image=mike_pic_15}|{a=show:show_chat_media}{image=mike_pic_15}"
+    nvlmike "{a=show:show_chat_media}{image=mike_pic_15}|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:18422
 translate zh_Hans mc_alpha_storyline_274_12e73403:
@@ -35780,13 +35780,13 @@ translate zh_Hans mc_alpha_storyline_274_e2394fb7:
 translate zh_Hans mc_alpha_storyline_274_3942c2b6:
 
     # nvljohn "{a=show:show_chat_media}{image=mike_video_5_ns}"
-    nvljohn "{a=show:show_chat_media}{image=mike_video_5_ns}|{a=show:show_chat_media}{image=mike_video_5_ns}"
+    nvljohn "{a=show:show_chat_media}{image=mike_video_5_ns}|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:18444
 translate zh_Hans mc_alpha_storyline_274_d196dd6e:
 
     # nvljohn "{a=show:show_chat_media}{image=mike_video_5_1_ns}"
-    nvljohn "{a=show:show_chat_media}{image=mike_video_5_1_ns}|{a=show:show_chat_media}{image=mike_video_5_1_ns}"
+    nvljohn "{a=show:show_chat_media}{image=mike_video_5_1_ns}|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:18448
 translate zh_Hans mc_alpha_storyline_274_aba08e39:
@@ -36922,7 +36922,7 @@ translate zh_Hans mc_alpha_storyline_281_f604da4c:
 translate zh_Hans mc_alpha_storyline_281_641fb2dd:
 
     # nvlamelia "😊"
-    nvlamelia "😊|😊"
+    nvlamelia "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:19068
 translate zh_Hans mc_alpha_storyline_281_c4d27a4b:
@@ -37448,7 +37448,7 @@ translate zh_Hans mc_alpha_storyline_284_3d445839:
 translate zh_Hans mc_alpha_storyline_284_2b991cbc:
 
     # nvlwife "❤️"
-    nvlwife "❤️|❤️"
+    nvlwife "❤️|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:19383
 translate zh_Hans mc_alpha_storyline_284_6e088fbd:
@@ -37528,7 +37528,7 @@ translate zh_Hans mc_alpha_storyline_285_eb216fcb:
 translate zh_Hans mc_alpha_storyline_285_6f029cd4:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_8_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_8_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:19446
 translate zh_Hans mc_alpha_storyline_285_ac38f219:
@@ -37760,7 +37760,7 @@ translate zh_Hans mc_alpha_storyline_287_de46e203:
 translate zh_Hans mc_alpha_storyline_287_7a1f91c5:
 
     # nvljenna "Hi, boss."
-    nvljenna "老板，您好。"
+    nvljenna "老板，你好。"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:19603
 translate zh_Hans mc_alpha_storyline_287_e83e24a1:
@@ -37906,7 +37906,7 @@ translate zh_Hans mc_alpha_storyline_288_6e82a490:
 translate zh_Hans mc_alpha_storyline_288_dffd27cb:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_pic_862}"
-    nvljenna "{a=show:show_chat_media}{image=jenna_pic_862}"
+    nvljenna ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:19690
 translate zh_Hans mc_alpha_storyline_288_d38eb2cc:
@@ -37954,7 +37954,7 @@ translate zh_Hans mc_alpha_storyline_288_84d3da39:
 translate zh_Hans mc_alpha_storyline_288_bb3e2812:
 
     # nvljenna "Have a nice day, boss."
-    nvljenna "祝您今天愉快，老板。"
+    nvljenna "祝你今天愉快，老板。"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:19706
 translate zh_Hans mc_alpha_storyline_288_0d2f4322:
@@ -38304,7 +38304,7 @@ translate zh_Hans mc_alpha_storyline_289_451ee978:
 translate zh_Hans mc_alpha_storyline_289_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:19867
 translate zh_Hans mc_alpha_storyline_289_7e0a6212:
@@ -38502,7 +38502,7 @@ translate zh_Hans mc_alpha_storyline_290_203b224a:
 translate zh_Hans mc_alpha_storyline_290_03ea8bd6:
 
     # nvlgianna "😘"
-    nvlgianna "😘"
+    nvlgianna ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:19970
 translate zh_Hans mc_alpha_storyline_290_b9c41041:
@@ -39156,13 +39156,13 @@ translate zh_Hans mc_alpha_storyline_294_76b2fe88:
 translate zh_Hans mc_alpha_storyline_294_ad7cd15b:
 
     # nvljohn "{a=show:show_chat_media}{image=kioko_video_9_ns}"
-    nvljohn "{a=show:show_chat_media}{image=kioko_video_9_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:20337
 translate zh_Hans mc_alpha_storyline_294_35758f1c:
 
     # nvljohn "{a=show:show_chat_media}{image=kioko_video_10_ns}"
-    nvljohn "{a=show:show_chat_media}{image=kioko_video_10_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:20341
 translate zh_Hans mc_alpha_storyline_294_e4222c2a:
@@ -39348,7 +39348,7 @@ translate zh_Hans mc_alpha_storyline_294_12db710d:
 translate zh_Hans mc_alpha_storyline_294_2faa7d76:
 
     # nvlkioko "😘"
-    nvlkioko "😘"
+    nvlkioko ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:20403
 translate zh_Hans mc_alpha_storyline_294_749ea7b6:
@@ -39596,7 +39596,7 @@ translate zh_Hans mc_alpha_storyline_295_dcd6aff4:
 translate zh_Hans mc_alpha_storyline_295_a9e6e01a:
 
     # nvljenna "😘"
-    nvljenna "😘"
+    nvljenna ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:20532
 translate zh_Hans mc_alpha_storyline_295_53c71d7c:
@@ -39868,13 +39868,13 @@ translate zh_Hans mc_alpha_storyline_296_c4743b2b:
 translate zh_Hans mc_alpha_storyline_296_26b238e1:
 
     # nvlmike "{a=show:show_chat_media}{image=mike_pic_16}"
-    nvlmike "{a=show:show_chat_media}{image=mike_pic_16}"
+    nvlmike ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:20673
 translate zh_Hans mc_alpha_storyline_296_9fd5ba66:
 
     # nvlmike "{a=show:show_chat_media}{image=mike_pic_16_1}"
-    nvlmike "{a=show:show_chat_media}{image=mike_pic_16_1}"
+    nvlmike ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:20680
 translate zh_Hans mc_alpha_storyline_296_5972f65c:
@@ -40176,7 +40176,7 @@ translate zh_Hans mc_alpha_storyline_297_f3dccfde:
 translate zh_Hans mc_alpha_storyline_297_47949e66:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_49}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_49}"
+    nvlgianna ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:20819
 translate zh_Hans mc_alpha_storyline_297_e60beb90:
@@ -40188,7 +40188,7 @@ translate zh_Hans mc_alpha_storyline_297_e60beb90:
 translate zh_Hans mc_alpha_storyline_297_8db51a6e:
 
     # nvljohn "😘"
-    nvljohn "😘"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:20837
 translate zh_Hans mc_alpha_storyline_297_53c71d7c:
@@ -40262,7 +40262,7 @@ translate zh_Hans mc_alpha_storyline_298_2cd6c8ef:
 translate zh_Hans mc_alpha_storyline_298_58171cd5:
 
     # nvljohn "{a=show:show_chat_media}{image=gianna_video_56_ns}"
-    nvljohn "{a=show:show_chat_media}{image=gianna_video_56_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:20886
 translate zh_Hans mc_alpha_storyline_298_d68db2f4:
@@ -40286,13 +40286,13 @@ translate zh_Hans mc_alpha_storyline_298_fadc1e6b:
 translate zh_Hans mc_alpha_storyline_298_721b42e3:
 
     # nvljohn "😉"
-    nvljohn "😉|😉"
+    nvljohn "😉|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:20898
 translate zh_Hans mc_alpha_storyline_298_a6d40d14:
 
     # nvljohn "{a=show:show_chat_media}{image=gianna_video_57_ns}"
-    nvljohn "{a=show:show_chat_media}{image=gianna_video_57_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:20902
 translate zh_Hans mc_alpha_storyline_298_3ad8db33:
@@ -40564,7 +40564,7 @@ translate zh_Hans mc_alpha_storyline_299_3b335f7e:
 translate zh_Hans mc_alpha_storyline_299_d40af7c3:
 
     # nvlkioko "{a=show:show_chat_media}{image=kioko_pic_29}"
-    nvlkioko "{a=show:show_chat_media}{image=kioko_pic_29}"
+    nvlkioko ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:21044
 translate zh_Hans mc_alpha_storyline_299_acacc449:
@@ -40576,7 +40576,7 @@ translate zh_Hans mc_alpha_storyline_299_acacc449:
 translate zh_Hans mc_alpha_storyline_299_ef5617e2:
 
     # nvlkioko "😊"
-    nvlkioko "😊|😊"
+    nvlkioko "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:21048
 translate zh_Hans mc_alpha_storyline_299_eaa6ca3f:
@@ -40612,7 +40612,7 @@ translate zh_Hans mc_alpha_storyline_299_b0737b75:
 translate zh_Hans mc_alpha_storyline_299_2faa7d76:
 
     # nvlkioko "😘"
-    nvlkioko "😘"
+    nvlkioko ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:21060
 translate zh_Hans mc_alpha_storyline_299_27199f5d:
@@ -40624,13 +40624,13 @@ translate zh_Hans mc_alpha_storyline_299_27199f5d:
 translate zh_Hans mc_alpha_storyline_299_2f13736e:
 
     # nvlkioko "{a=show:show_chat_media}{image=kioko_pic_30}"
-    nvlkioko "{a=show:show_chat_media}{image=kioko_pic_30}"
+    nvlkioko ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:21074
 translate zh_Hans mc_alpha_storyline_299_89443079:
 
     # nvlkioko "{a=show:show_chat_media}{image=kioko_pic_31}"
-    nvlkioko "{a=show:show_chat_media}{image=kioko_pic_31}"
+    nvlkioko ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:21078
 translate zh_Hans mc_alpha_storyline_299_a447b104:
@@ -40690,7 +40690,7 @@ translate zh_Hans mc_alpha_storyline_299_a2a85502:
 translate zh_Hans mc_alpha_storyline_299_c8225789:
 
     # nvljohn "{a=show:show_chat_media}{image=mc_pic_107}"
-    nvljohn "{a=show:show_chat_media}{image=mc_pic_107}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:21104
 translate zh_Hans mc_alpha_storyline_299_09021411:
@@ -40956,7 +40956,7 @@ translate zh_Hans mc_alpha_storyline_300_57c06bd2:
 translate zh_Hans mc_alpha_storyline_300_a686776f:
 
     # nvlsalim "😊"
-    nvlsalim "😊|😊"
+    nvlsalim "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:21229
 translate zh_Hans mc_alpha_storyline_300_9b61c5dd:
@@ -41150,7 +41150,7 @@ translate zh_Hans mc_alpha_storyline_301_de031aff:
 translate zh_Hans mc_alpha_storyline_301_2faa7d76:
 
     # nvlkioko "😘"
-    nvlkioko "😘"
+    nvlkioko ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:21331
 translate zh_Hans mc_alpha_storyline_301_80699fa3:
@@ -41198,7 +41198,7 @@ translate zh_Hans mc_alpha_storyline_301_2d928793:
 translate zh_Hans mc_alpha_storyline_301_8db51a6e:
 
     # nvljohn "😘"
-    nvljohn "😘"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:21347
 translate zh_Hans mc_alpha_storyline_301_b3794958:
@@ -41584,7 +41584,7 @@ translate zh_Hans mc_alpha_storyline_303_73c6cc05:
 translate zh_Hans mc_alpha_storyline_303_56991e3b:
 
     # nvlsola "{a=show:show_chat_media}{image=sola_pic_113}"
-    nvlsola "{a=show:show_chat_media}{image=sola_pic_113}"
+    nvlsola ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:21551
 translate zh_Hans mc_alpha_storyline_303_c02475bf:
@@ -41602,7 +41602,7 @@ translate zh_Hans mc_alpha_storyline_303_0e179dd9:
 translate zh_Hans mc_alpha_storyline_303_9d589ea3:
 
     # nvlsola "{a=show:show_chat_media}{image=sola_pic_114}"
-    nvlsola "{a=show:show_chat_media}{image=sola_pic_114}"
+    nvlsola ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:21567
 translate zh_Hans mc_alpha_storyline_303_451b2906:
@@ -42016,13 +42016,13 @@ translate zh_Hans mc_alpha_storyline_306_276cea22:
 translate zh_Hans mc_alpha_storyline_306_0328a538:
 
     # nvljohn "{a=show:show_chat_media}{image=mike_video_6_ns}"
-    nvljohn "{a=show:show_chat_media}{image=mike_video_6_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:21830
 translate zh_Hans mc_alpha_storyline_306_b8b41262:
 
     # nvljohn "{a=show:show_chat_media}{image=mike_video_6_1_ns}"
-    nvljohn "{a=show:show_chat_media}{image=mike_video_6_1_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:21836
 translate zh_Hans mc_alpha_storyline_306_6016ae18:
@@ -42256,13 +42256,13 @@ translate zh_Hans mc_alpha_storyline_306_79046ca6:
 translate zh_Hans mc_alpha_storyline_306_38c25878:
 
     # nvlmike "{a=show:show_chat_media}{image=mike_pic_17}"
-    nvlmike "{a=show:show_chat_media}{image=mike_pic_17}"
+    nvlmike ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:21931
 translate zh_Hans mc_alpha_storyline_306_adf387a5:
 
     # nvlmike "{a=show:show_chat_media}{image=mike_pic_17_1}"
-    nvlmike "{a=show:show_chat_media}{image=mike_pic_17_1}"
+    nvlmike ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:21938
 translate zh_Hans mc_alpha_storyline_306_250329f4:
@@ -42274,7 +42274,7 @@ translate zh_Hans mc_alpha_storyline_306_250329f4:
 translate zh_Hans mc_alpha_storyline_306_2ea575aa:
 
     # nvlmike "😘"
-    nvlmike "😘"
+    nvlmike ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:21942
 translate zh_Hans mc_alpha_storyline_306_fb9b8a42:
@@ -42650,7 +42650,7 @@ translate zh_Hans mc_alpha_storyline_308_563aeec0:
 translate zh_Hans mc_alpha_storyline_308_88ddf7d0:
 
     # nvlsola "😘"
-    nvlsola "😘"
+    nvlsola ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:22144
 translate zh_Hans mc_alpha_storyline_308_d0485aa6:
@@ -42668,7 +42668,7 @@ translate zh_Hans mc_alpha_storyline_308_00bab147:
 translate zh_Hans mc_alpha_storyline_308_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:22150
 translate zh_Hans mc_alpha_storyline_308_e5f86969:
@@ -42724,7 +42724,7 @@ translate zh_Hans mc_alpha_storyline_309_0a95352e:
 translate zh_Hans mc_alpha_storyline_309_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:22201
 translate zh_Hans mc_alpha_storyline_309_5da542d8:
@@ -42954,7 +42954,7 @@ translate zh_Hans mc_alpha_storyline_310_8c12daf1:
 translate zh_Hans mc_alpha_storyline_310_5f32af7a:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_430_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_430_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:22328
 translate zh_Hans mc_alpha_storyline_310_e7db7bc5:
@@ -42978,7 +42978,7 @@ translate zh_Hans mc_alpha_storyline_310_716eaf2e:
 translate zh_Hans mc_alpha_storyline_310_677aa192:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_431_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_431_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:22342
 translate zh_Hans mc_alpha_storyline_310_4feb41d8:
@@ -42996,7 +42996,7 @@ translate zh_Hans mc_alpha_storyline_310_467d419f:
 translate zh_Hans mc_alpha_storyline_310_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:22348
 translate zh_Hans mc_alpha_storyline_310_fd96d51f:
@@ -43158,7 +43158,7 @@ translate zh_Hans mc_alpha_storyline_310_d9d81cef:
 translate zh_Hans mc_alpha_storyline_310_34b208d5:
 
     # nvlwife "😘"
-    nvlwife "😘"
+    nvlwife ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:22416
 translate zh_Hans mc_alpha_storyline_310_53c71d7c:
@@ -43264,7 +43264,7 @@ translate zh_Hans mc_alpha_storyline_312_08792d0b:
 translate zh_Hans mc_alpha_storyline_312_d854e3a7:
 
     # nvljohn "{a=show:show_chat_media}{image=sola_video_26_ns}"
-    nvljohn "{a=show:show_chat_media}{image=sola_video_26_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:22508
 translate zh_Hans mc_alpha_storyline_312_8a9df1e8:
@@ -43324,19 +43324,19 @@ translate zh_Hans mc_alpha_storyline_312_d305e671:
 translate zh_Hans mc_alpha_storyline_312_c72e9c4d:
 
     # nvlsola "{a=show:show_chat_media}{image=sola_pic_115}"
-    nvlsola "{a=show:show_chat_media}{image=sola_pic_115}"
+    nvlsola ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:22538
 translate zh_Hans mc_alpha_storyline_312_c05735e0:
 
     # nvlsola "{a=show:show_chat_media}{image=sola_pic_116}"
-    nvlsola "{a=show:show_chat_media}{image=sola_pic_116}"
+    nvlsola ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:22546
 translate zh_Hans mc_alpha_storyline_312_7be74153:
 
     # nvlsola "{a=show:show_chat_media}{image=sola_pic_117}"
-    nvlsola "{a=show:show_chat_media}{image=sola_pic_117}"
+    nvlsola ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:22556
 translate zh_Hans mc_alpha_storyline_312_37f68724:
@@ -43748,7 +43748,7 @@ translate zh_Hans mc_alpha_storyline_314_c3098d08:
 translate zh_Hans mc_alpha_storyline_314_a686776f:
 
     # nvlsalim "😊"
-    nvlsalim "😊|😊"
+    nvlsalim "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:22758
 translate zh_Hans mc_alpha_storyline_314_37e29a1e:
@@ -44068,7 +44068,7 @@ translate zh_Hans mc_alpha_storyline_315_5aec017e:
 translate zh_Hans mc_alpha_storyline_315_a9e6e01a:
 
     # nvljenna "😘"
-    nvljenna "😘"
+    nvljenna ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:22911
 translate zh_Hans mc_alpha_storyline_315_2895ccb5:
@@ -44196,7 +44196,7 @@ translate zh_Hans mc_alpha_storyline_316_f556c27b:
 translate zh_Hans mc_alpha_storyline_316_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:23000
 translate zh_Hans mc_alpha_storyline_316_3121a274:
@@ -44226,7 +44226,7 @@ translate zh_Hans mc_alpha_storyline_316_664f6732:
 translate zh_Hans mc_alpha_storyline_316_1fd1e9e9:
 
     # nvljohn "{a=show:show_chat_media}{image=jenna_pic_863}"
-    nvljohn "{a=show:show_chat_media}{image=jenna_pic_863}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:23016
 translate zh_Hans mc_alpha_storyline_316_3001884d:
@@ -44316,13 +44316,13 @@ translate zh_Hans mc_alpha_storyline_316_6d4b477b:
 translate zh_Hans mc_alpha_storyline_316_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:23046
 translate zh_Hans mc_alpha_storyline_316_fbc8fe60_1:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:23048
 translate zh_Hans mc_alpha_storyline_316_70d6cfc7:
@@ -44382,7 +44382,7 @@ translate zh_Hans mc_alpha_storyline_316_b38f6ebe:
 translate zh_Hans mc_alpha_storyline_316_a9e6e01a:
 
     # nvljenna "😘"
-    nvljenna "😘"
+    nvljenna ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:23082
 translate zh_Hans mc_alpha_storyline_316_53c71d7c:
@@ -44438,7 +44438,7 @@ translate zh_Hans mc_alpha_storyline_317_6ca31ba9:
 translate zh_Hans mc_alpha_storyline_317_1b9218c3:
 
     # nvlgianna "😊"
-    nvlgianna "😊|😊"
+    nvlgianna "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:23119
 translate zh_Hans mc_alpha_storyline_317_cd4924ea:
@@ -44704,7 +44704,7 @@ translate zh_Hans mc_alpha_storyline_318_08792d0b:
 translate zh_Hans mc_alpha_storyline_318_99ce2472:
 
     # nvljohn "{a=show:show_chat_media}{image=gianna_video_58_ns}"
-    nvljohn "{a=show:show_chat_media}{image=gianna_video_58_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:23260
 translate zh_Hans mc_alpha_storyline_318_2973c1c2:
@@ -44788,7 +44788,7 @@ translate zh_Hans mc_alpha_storyline_318_8872eb2b:
 translate zh_Hans mc_alpha_storyline_318_03ea8bd6:
 
     # nvlgianna "😘"
-    nvlgianna "😘"
+    nvlgianna ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:23288
 translate zh_Hans mc_alpha_storyline_318_652509d9:
@@ -45024,7 +45024,7 @@ translate zh_Hans mc_alpha_storyline_319_cd6c77c3:
 translate zh_Hans mc_alpha_storyline_319_fd2739b0:
 
     # nvlsola "{a=show:show_chat_media}{image=sola_pic_118}"
-    nvlsola "{a=show:show_chat_media}{image=sola_pic_118}"
+    nvlsola ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:23405
 translate zh_Hans mc_alpha_storyline_319_33b73e83:
@@ -45286,7 +45286,7 @@ translate zh_Hans mc_alpha_storyline_321_785ee2f4:
 translate zh_Hans mc_alpha_storyline_321_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:23575
 translate zh_Hans mc_alpha_storyline_321_d997239d:
@@ -45322,7 +45322,7 @@ translate zh_Hans mc_alpha_storyline_321_2939a2c8:
 translate zh_Hans mc_alpha_storyline_321_1a96a175:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_429_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_429_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:23593
 translate zh_Hans mc_alpha_storyline_321_bd81634f:
@@ -45406,7 +45406,7 @@ translate zh_Hans mc_alpha_storyline_321_545d5708:
 translate zh_Hans mc_alpha_storyline_321_10befb9c_1:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:23626
 translate zh_Hans mc_alpha_storyline_321_465a6840:
@@ -46206,7 +46206,7 @@ translate zh_Hans mc_alpha_storyline_325_b4ca099c:
 translate zh_Hans mc_alpha_storyline_325_6febc164:
 
     # nvlsola "{a=show:show_chat_media}{image=sola_pic_119}"
-    nvlsola "{a=show:show_chat_media}{image=sola_pic_119}"
+    nvlsola ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:24042
 translate zh_Hans mc_alpha_storyline_325_cc1b4ee7:
@@ -46368,7 +46368,7 @@ translate zh_Hans mc_alpha_storyline_326_a5ab9f79:
 translate zh_Hans mc_alpha_storyline_326_4b930546:
 
     # nvlsola "😊"
-    nvlsola "😊|😊"
+    nvlsola "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:24153
 translate zh_Hans mc_alpha_storyline_326_53a54136:
@@ -46464,7 +46464,7 @@ translate zh_Hans mc_alpha_storyline_326_c74129d6:
 translate zh_Hans mc_alpha_storyline_326_8db51a6e:
 
     # nvljohn "😘"
-    nvljohn "😘"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:24185
 translate zh_Hans mc_alpha_storyline_326_338f477f:
@@ -46482,7 +46482,7 @@ translate zh_Hans mc_alpha_storyline_326_994a7578:
 translate zh_Hans mc_alpha_storyline_326_396ac8e0:
 
     # nvljohn "{a=show:show_chat_media}{image=sola_video_27_ns}"
-    nvljohn "{a=show:show_chat_media}{image=sola_video_27_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:24197
 translate zh_Hans mc_alpha_storyline_326_6283cc4b:
@@ -46548,7 +46548,7 @@ translate zh_Hans mc_alpha_storyline_326_6ce8c38b:
 translate zh_Hans mc_alpha_storyline_326_4b930546_1:
 
     # nvlsola "😊"
-    nvlsola "😊|😊"
+    nvlsola "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:24219
 translate zh_Hans mc_alpha_storyline_326_db094c8c:
@@ -46584,7 +46584,7 @@ translate zh_Hans mc_alpha_storyline_326_bbce1672:
 translate zh_Hans mc_alpha_storyline_326_065cf065:
 
     # nvlsola "{a=show:show_chat_media}{image=sola_pic_120}"
-    nvlsola "{a=show:show_chat_media}{image=sola_pic_120}"
+    nvlsola ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:24237
 translate zh_Hans mc_alpha_storyline_326_052192dc:
@@ -46614,7 +46614,7 @@ translate zh_Hans mc_alpha_storyline_326_12cabb25:
 translate zh_Hans mc_alpha_storyline_326_8968bbca:
 
     # nvljohn "😘 😘"
-    nvljohn "😘 😘"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:24250
 translate zh_Hans mc_alpha_storyline_326_b8a7b6a0_1:
@@ -46680,7 +46680,7 @@ translate zh_Hans mc_alpha_storyline_326_bc355a22:
 translate zh_Hans mc_alpha_storyline_326_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:24272
 translate zh_Hans mc_alpha_storyline_326_5ea420cc:
@@ -46814,13 +46814,13 @@ translate zh_Hans mc_alpha_storyline_327_8f5c9d47:
 translate zh_Hans mc_alpha_storyline_327_58e2a96a:
 
     # nvljenna "I’d like to be your secretary again."
-    nvljenna "我想再次成为您的秘书。"
+    nvljenna "我想再次成为你的秘书。"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:24350
 translate zh_Hans mc_alpha_storyline_327_87e890ba:
 
     # nvljenna "I promise I’ll do everything you tell me to, boss."
-    nvljenna "老板，我保证会听从您的任何吩咐，赴汤蹈火在所不辞。"
+    nvljenna "老板，我保证会听从你的任何吩咐，赴汤蹈火在所不辞。"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:24352
 translate zh_Hans mc_alpha_storyline_327_fe530ecb:
@@ -46874,7 +46874,7 @@ translate zh_Hans mc_alpha_storyline_327_3cb8375e:
 translate zh_Hans mc_alpha_storyline_327_6b886932:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_pic_864}"
-    nvljenna "{a=show:show_chat_media}{image=jenna_pic_864}"
+    nvljenna ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:24376
 translate zh_Hans mc_alpha_storyline_327_70ac237f:
@@ -47086,7 +47086,7 @@ translate zh_Hans mc_alpha_storyline_328_a7dd610c:
 translate zh_Hans mc_alpha_storyline_328_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:24479
 translate zh_Hans mc_alpha_storyline_328_19f04ddd:
@@ -47334,7 +47334,7 @@ translate zh_Hans mc_alpha_storyline_329_22dca663:
 translate zh_Hans mc_alpha_storyline_329_c92c94b4:
 
     # nvlkioko "😘😘😘"
-    nvlkioko "😘😘😘"
+    nvlkioko ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:24624
 translate zh_Hans mc_alpha_storyline_329_4d402ba9:
@@ -47352,7 +47352,7 @@ translate zh_Hans mc_alpha_storyline_329_11938da6:
 translate zh_Hans mc_alpha_storyline_329_8db51a6e:
 
     # nvljohn "😘"
-    nvljohn "😘"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:24630
 translate zh_Hans mc_alpha_storyline_329_1d7f9418:
@@ -47394,7 +47394,7 @@ translate zh_Hans mc_alpha_storyline_329_187f5c0a:
 translate zh_Hans mc_alpha_storyline_329_2bf6bc3f:
 
     # nvlkioko "{a=show:show_chat_media}{image=kioko_pic_32}"
-    nvlkioko "{a=show:show_chat_media}{image=kioko_pic_32}|{a=show:show_chat_media}{image=kioko_pic_32}"
+    nvlkioko "{a=show:show_chat_media}{image=kioko_pic_32}|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:24650
 translate zh_Hans mc_alpha_storyline_329_331ba9b7:
@@ -47460,7 +47460,7 @@ translate zh_Hans mc_alpha_storyline_329_f7786de0:
 translate zh_Hans mc_alpha_storyline_329_2faa7d76:
 
     # nvlkioko "😘"
-    nvlkioko "😘"
+    nvlkioko ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:24694
 translate zh_Hans mc_alpha_storyline_329_53c71d7c:
@@ -47778,7 +47778,7 @@ translate zh_Hans mc_alpha_storyline_332_459bb963:
 translate zh_Hans mc_alpha_storyline_332_4b930546:
 
     # nvlsola "😊"
-    nvlsola "😊|😊"
+    nvlsola "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:24893
 translate zh_Hans mc_alpha_storyline_332_d0dcd8ec:
@@ -47796,7 +47796,7 @@ translate zh_Hans mc_alpha_storyline_332_714203d5:
 translate zh_Hans mc_alpha_storyline_332_b043ad01:
 
     # nvljohn "{a=show:show_chat_media}{image=sola_video_28_ns}"
-    nvljohn "{a=show:show_chat_media}{image=sola_video_28_ns}|{a=show:show_chat_media}{image=sola_video_28_ns}"
+    nvljohn "{a=show:show_chat_media}{image=sola_video_28_ns}|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:24905
 translate zh_Hans mc_alpha_storyline_332_2973c1c2:
@@ -47832,7 +47832,7 @@ translate zh_Hans mc_alpha_storyline_332_b7a84955:
 translate zh_Hans mc_alpha_storyline_332_88ddf7d0:
 
     # nvlsola "😘"
-    nvlsola "😘"
+    nvlsola ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:24917
 translate zh_Hans mc_alpha_storyline_332_5e4ccd9c:
@@ -48206,7 +48206,7 @@ translate zh_Hans mc_alpha_storyline_333_33d1910e:
 translate zh_Hans mc_alpha_storyline_333_5d56c007:
 
     # nvlmike "😊"
-    nvlmike "😊|😊"
+    nvlmike "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:25074
 translate zh_Hans mc_alpha_storyline_333_7a468561:
@@ -48286,7 +48286,7 @@ translate zh_Hans mc_alpha_storyline_334_c30fbd5c:
 translate zh_Hans mc_alpha_storyline_334_2faa7d76:
 
     # nvlkioko "😘"
-    nvlkioko "😘"
+    nvlkioko ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:25157
 translate zh_Hans mc_alpha_storyline_334_53c71d7c:
@@ -48304,7 +48304,7 @@ translate zh_Hans mc_alpha_storyline_335_76b2fe88:
 translate zh_Hans mc_alpha_storyline_335_e5bb80ed:
 
     # nvlkioko "{a=show:show_chat_media}{image=kioko_video_11_ns}"
-    nvlkioko "{a=show:show_chat_media}{image=kioko_video_11_ns}|{a=show:show_chat_media}{image=kioko_video_11_ns}"
+    nvlkioko "{a=show:show_chat_media}{image=kioko_video_11_ns}|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:25186
 translate zh_Hans mc_alpha_storyline_335_662daa92:
@@ -48358,7 +48358,7 @@ translate zh_Hans mc_alpha_storyline_335_9f34eeab:
 translate zh_Hans mc_alpha_storyline_335_7e70f3e0:
 
     # nvljohn "{a=show:show_chat_media}{image=kioko_pic_33}"
-    nvljohn "{a=show:show_chat_media}{image=kioko_pic_33}|{a=show:show_chat_media}{image=kioko_pic_33}"
+    nvljohn "{a=show:show_chat_media}{image=kioko_pic_33}|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:25210
 translate zh_Hans mc_alpha_storyline_335_1f07f1b5:
@@ -48424,7 +48424,7 @@ translate zh_Hans mc_alpha_storyline_335_62fcb38a:
 translate zh_Hans mc_alpha_storyline_335_ef5617e2:
 
     # nvlkioko "😊"
-    nvlkioko "😊|😊"
+    nvlkioko "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:25232
 translate zh_Hans mc_alpha_storyline_335_c0ff757c:
@@ -48478,7 +48478,7 @@ translate zh_Hans mc_alpha_storyline_335_9b46e095:
 translate zh_Hans mc_alpha_storyline_335_2faa7d76:
 
     # nvlkioko "😘"
-    nvlkioko "😘"
+    nvlkioko ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:25250
 translate zh_Hans mc_alpha_storyline_335_3f074f6a:
@@ -48582,7 +48582,7 @@ translate zh_Hans mc_alpha_storyline_336_155d2314:
 translate zh_Hans mc_alpha_storyline_336_ef5617e2:
 
     # nvlkioko "😊"
-    nvlkioko "😊|😊"
+    nvlkioko "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:25327
 translate zh_Hans mc_alpha_storyline_336_8ac4a9f2:
@@ -48696,7 +48696,7 @@ translate zh_Hans mc_alpha_storyline_336_9fdae802:
 translate zh_Hans mc_alpha_storyline_336_2faa7d76:
 
     # nvlkioko "😘"
-    nvlkioko "😘"
+    nvlkioko ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:25365
 translate zh_Hans mc_alpha_storyline_336_157af4d0:
@@ -48714,7 +48714,7 @@ translate zh_Hans mc_alpha_storyline_336_69f37f61:
 translate zh_Hans mc_alpha_storyline_336_ace06d1f:
 
     # nvljohn "{a=show:show_chat_media}{image=kioko_video_12_ns}"
-    nvljohn "{a=show:show_chat_media}{image=kioko_video_12_ns}|{a=show:show_chat_media}{image=kioko_video_12_ns}"
+    nvljohn "{a=show:show_chat_media}{image=kioko_video_12_ns}|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:25377
 translate zh_Hans mc_alpha_storyline_336_03682468:
@@ -48780,7 +48780,7 @@ translate zh_Hans mc_alpha_storyline_336_f7786de0:
 translate zh_Hans mc_alpha_storyline_336_429c6328:
 
     # nvlkioko "{a=show:show_chat_media}{image=kioko_pic_34}"
-    nvlkioko "{a=show:show_chat_media}{image=kioko_pic_34}|{a=show:show_chat_media}{image=kioko_pic_34}"
+    nvlkioko "{a=show:show_chat_media}{image=kioko_pic_34}|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:25405
 translate zh_Hans mc_alpha_storyline_336_40498e50:
@@ -49012,7 +49012,7 @@ translate zh_Hans mc_alpha_storyline_338_a10ea2dd:
 translate zh_Hans mc_alpha_storyline_338_565398bf:
 
     # nvljohn "{a=show:show_chat_media}{image=rei_video_1_ns}"
-    nvljohn "{a=show:show_chat_media}{image=rei_video_1_ns}|{a=show:show_chat_media}{image=rei_video_1_ns}"
+    nvljohn "{a=show:show_chat_media}{image=rei_video_1_ns}|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:25604
 translate zh_Hans mc_alpha_storyline_338_d9b0e5bd:
@@ -49152,7 +49152,7 @@ translate zh_Hans mc_alpha_storyline_339_962e2735:
 translate zh_Hans mc_alpha_storyline_339_2faa7d76:
 
     # nvlkioko "😘"
-    nvlkioko "😘"
+    nvlkioko ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:25693
 translate zh_Hans mc_alpha_storyline_339_b3794958:
@@ -49200,19 +49200,19 @@ translate zh_Hans mc_alpha_storyline_339_251ed5bc:
 translate zh_Hans mc_alpha_storyline_339_949d60f7:
 
     # nvljohn "{a=show:show_chat_media}{image=kioko_video_13_ns}"
-    nvljohn "{a=show:show_chat_media}{image=kioko_video_13_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:25719
 translate zh_Hans mc_alpha_storyline_339_f85702f2:
 
     # nvljohn "{a=show:show_chat_media}{image=kioko_video_14_ns}"
-    nvljohn "{a=show:show_chat_media}{image=kioko_video_14_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:25727
 translate zh_Hans mc_alpha_storyline_339_c0fa610f:
 
     # nvljohn "{a=show:show_chat_media}{image=kioko_video_15_ns}"
-    nvljohn "{a=show:show_chat_media}{image=kioko_video_15_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:25731
 translate zh_Hans mc_alpha_storyline_339_2973c1c2:
@@ -49424,7 +49424,7 @@ translate zh_Hans mc_alpha_storyline_340_459bb963:
 translate zh_Hans mc_alpha_storyline_340_641fb2dd:
 
     # nvlamelia "😊"
-    nvlamelia "😊|😊"
+    nvlamelia "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:25834
 translate zh_Hans mc_alpha_storyline_340_d4a68777:
@@ -49486,19 +49486,19 @@ translate zh_Hans mc_alpha_storyline_341_7e6fe8cc:
 translate zh_Hans mc_alpha_storyline_341_05b6e251:
 
     # nvlmike "{a=show:show_chat_media}{image=mike_pic_18}"
-    nvlmike "{a=show:show_chat_media}{image=mike_pic_18}"
+    nvlmike ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:25902
 translate zh_Hans mc_alpha_storyline_341_9d694a77:
 
     # nvlmike "{a=show:show_chat_media}{image=mike_pic_18_1}"
-    nvlmike "{a=show:show_chat_media}{image=mike_pic_18_1}"
+    nvlmike ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:25907
 translate zh_Hans mc_alpha_storyline_341_13aa8e10:
 
     # nvlmike "😉"
-    nvlmike "😉|😉"
+    nvlmike "😉|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:25912
 translate zh_Hans mc_alpha_storyline_341_1aac5b64:
@@ -49576,7 +49576,7 @@ translate zh_Hans mc_alpha_storyline_341_0a3feeec:
 translate zh_Hans mc_alpha_storyline_341_2ea575aa:
 
     # nvlmike "😘"
-    nvlmike "😘"
+    nvlmike ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:25944
 translate zh_Hans mc_alpha_storyline_341_6b105567:
@@ -49812,7 +49812,7 @@ translate zh_Hans mc_alpha_storyline_342_3bf4cd8c:
 translate zh_Hans mc_alpha_storyline_342_363f43ef:
 
     # nvlkioko "{a=show:show_chat_media}{image=kioko_pic_35}"
-    nvlkioko "{a=show:show_chat_media}{image=kioko_pic_35}"
+    nvlkioko ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:26072
 translate zh_Hans mc_alpha_storyline_342_1890489f:
@@ -49824,7 +49824,7 @@ translate zh_Hans mc_alpha_storyline_342_1890489f:
 translate zh_Hans mc_alpha_storyline_342_2faa7d76:
 
     # nvlkioko "😘"
-    nvlkioko "😘"
+    nvlkioko ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:26076
 translate zh_Hans mc_alpha_storyline_342_aa145363:
@@ -49836,7 +49836,7 @@ translate zh_Hans mc_alpha_storyline_342_aa145363:
 translate zh_Hans mc_alpha_storyline_342_5f93254d:
 
     # nvlkioko "{a=show:show_chat_media}{image=kioko_pic_36}"
-    nvlkioko "{a=show:show_chat_media}{image=kioko_pic_36}"
+    nvlkioko ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:26086
 translate zh_Hans mc_alpha_storyline_342_7ec3e2e3:
@@ -49890,7 +49890,7 @@ translate zh_Hans mc_alpha_storyline_342_09455951:
 translate zh_Hans mc_alpha_storyline_342_2faa7d76_1:
 
     # nvlkioko "😘"
-    nvlkioko "😘"
+    nvlkioko ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:26118
 translate zh_Hans mc_alpha_storyline_342_53c71d7c:
@@ -50140,13 +50140,13 @@ translate zh_Hans mc_alpha_storyline_344_84c0491a:
 translate zh_Hans mc_alpha_storyline_344_582f2a60:
 
     # nvlmike "{a=show:show_chat_media}{image=mike_video_7_ns}"
-    nvlmike "{a=show:show_chat_media}{image=mike_video_7_ns}"
+    nvlmike ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:26295
 translate zh_Hans mc_alpha_storyline_344_051ab666:
 
     # nvlmike "{a=show:show_chat_media}{image=mike_video_7_1_ns}"
-    nvlmike "{a=show:show_chat_media}{image=mike_video_7_1_ns}"
+    nvlmike ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:26300
 translate zh_Hans mc_alpha_storyline_344_e4e29592:
@@ -50348,7 +50348,7 @@ translate zh_Hans mc_alpha_storyline_346_22d99f73:
 translate zh_Hans mc_alpha_storyline_346_ef5617e2:
 
     # nvlkioko "😊"
-    nvlkioko "😊|😊"
+    nvlkioko "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:26444
 translate zh_Hans mc_alpha_storyline_346_292753dc:
@@ -50366,7 +50366,7 @@ translate zh_Hans mc_alpha_storyline_346_57020112:
 translate zh_Hans mc_alpha_storyline_346_7d6024ad:
 
     # nvljohn "{a=show:show_chat_media}{image=kioko_video_16_ns}"
-    nvljohn "{a=show:show_chat_media}{image=kioko_video_16_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:26456
 translate zh_Hans mc_alpha_storyline_346_2973c1c2:
@@ -50522,7 +50522,7 @@ translate zh_Hans mc_alpha_storyline_346_84554ba5:
 translate zh_Hans mc_alpha_storyline_346_2faa7d76:
 
     # nvlkioko "😘"
-    nvlkioko "😘"
+    nvlkioko ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:26508
 translate zh_Hans mc_alpha_storyline_346_334ab370:
@@ -50772,7 +50772,7 @@ translate zh_Hans mc_alpha_storyline_348_886f3922:
 translate zh_Hans mc_alpha_storyline_348_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:26656
 translate zh_Hans mc_alpha_storyline_348_0769c1b2:
@@ -50912,7 +50912,7 @@ translate zh_Hans mc_alpha_storyline_349_bc33c7d7:
 translate zh_Hans mc_alpha_storyline_349_114a558b:
 
     # nvljohn "{a=show:show_chat_media}{image=gianna_pic_50}"
-    nvljohn "{a=show:show_chat_media}{image=gianna_pic_50}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:26741
 translate zh_Hans mc_alpha_storyline_349_f62b2259:
@@ -50960,7 +50960,7 @@ translate zh_Hans mc_alpha_storyline_349_f047d720:
 translate zh_Hans mc_alpha_storyline_349_2d5116c8:
 
     # nvljohn "{a=show:show_chat_media}{image=gianna_pic_51}"
-    nvljohn "{a=show:show_chat_media}{image=gianna_pic_51}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:26763
 translate zh_Hans mc_alpha_storyline_349_e712d107:
@@ -51008,7 +51008,7 @@ translate zh_Hans mc_alpha_storyline_349_f15052d6:
 translate zh_Hans mc_alpha_storyline_349_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:26779
 translate zh_Hans mc_alpha_storyline_349_c2983c4e:
@@ -51100,7 +51100,7 @@ translate zh_Hans mc_alpha_storyline_350_efd50095:
 translate zh_Hans mc_alpha_storyline_350_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:26842
 translate zh_Hans mc_alpha_storyline_350_c4025ecd:
@@ -51220,7 +51220,7 @@ translate zh_Hans mc_alpha_storyline_350_bbd61b8a:
 translate zh_Hans mc_alpha_storyline_350_c25fec34:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_914}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_914}"
+    nvlwife ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:26888
 translate zh_Hans mc_alpha_storyline_350_f61d9d56:
@@ -51268,7 +51268,7 @@ translate zh_Hans mc_alpha_storyline_350_aa190b78:
 translate zh_Hans mc_alpha_storyline_350_80afcf62:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_915}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_915}"
+    nvlwife ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:26910
 translate zh_Hans mc_alpha_storyline_350_ff29da69:
@@ -51378,25 +51378,25 @@ translate zh_Hans mc_alpha_storyline_351_53c71d7c:
 translate zh_Hans mc_alpha_storyline_351_after_79da612a:
 
     # mc "{i}I wonder what they want to discuss"
-    mc "{i}I wonder what they want to discuss"
+    mc ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:27009
 translate zh_Hans mc_alpha_storyline_351_after_2007ab49:
 
     # mc "{i}They’re probably working on a plan."
-    mc "{i}They’re probably working on a plan."
+    mc ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:27011
 translate zh_Hans mc_alpha_storyline_351_after_1e60cf59:
 
     # mc "{i}A plan for what to do with me."
-    mc "{i}A plan for what to do with me."
+    mc ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:27013
 translate zh_Hans mc_alpha_storyline_351_after_ccd25674:
 
     # mc "{i}Well, good luck with that."
-    mc "{i}Well, good luck with that."
+    mc ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:27032
 translate zh_Hans mc_alpha_storyline_352_6beab929:
@@ -51464,7 +51464,7 @@ translate zh_Hans mc_alpha_storyline_352_c3e207c1:
 translate zh_Hans mc_alpha_storyline_352_1b9218c3:
 
     # nvlgianna "😊"
-    nvlgianna "😊|😊"
+    nvlgianna "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:27056
 translate zh_Hans mc_alpha_storyline_352_2d4f94cc:
@@ -51664,7 +51664,7 @@ translate zh_Hans mc_alpha_storyline_353_bc943af7:
 translate zh_Hans mc_alpha_storyline_353_8c03acee:
 
     # nvlsola "Thank you for giving me a chance to show myself."
-    nvlsola "谢谢您给我这个展示自己的机会。"
+    nvlsola "谢谢你给我这个展示自己的机会。"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:27155
 translate zh_Hans mc_alpha_storyline_353_117e700b:
@@ -51772,7 +51772,7 @@ translate zh_Hans mc_alpha_storyline_353_bfecadf0:
 translate zh_Hans mc_alpha_storyline_353_88ddf7d0:
 
     # nvlsola "😘"
-    nvlsola "😘"
+    nvlsola ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:27191
 translate zh_Hans mc_alpha_storyline_353_f008b5a7:
@@ -51844,7 +51844,7 @@ translate zh_Hans mc_alpha_storyline_353_65b4bbe8:
 translate zh_Hans mc_alpha_storyline_353_d1fa88b2:
 
     # nvlsola "{a=show:show_chat_media}{image=sola_pic_121}"
-    nvlsola "{a=show:show_chat_media}{image=sola_pic_121}"
+    nvlsola ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:27225
 translate zh_Hans mc_alpha_storyline_353_0897ede7:
@@ -51948,13 +51948,13 @@ translate zh_Hans mc_alpha_storyline_354_08409318:
 translate zh_Hans mc_alpha_storyline_354_894461d7:
 
     # nvlsola "{a=show:show_chat_media}{image=sola_video_29_ns}"
-    nvlsola "{a=show:show_chat_media}{image=sola_video_29_ns}"
+    nvlsola ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:27316
 translate zh_Hans mc_alpha_storyline_354_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:27318
 translate zh_Hans mc_alpha_storyline_354_2860929b:
@@ -52032,13 +52032,13 @@ translate zh_Hans mc_alpha_storyline_354_6059c3a8:
 translate zh_Hans mc_alpha_storyline_354_4b930546:
 
     # nvlsola "😊"
-    nvlsola "😊|😊"
+    nvlsola "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:27344
 translate zh_Hans mc_alpha_storyline_354_88ddf7d0:
 
     # nvlsola "😘"
-    nvlsola "😘"
+    nvlsola ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:27346
 translate zh_Hans mc_alpha_storyline_354_052192dc:
@@ -52086,13 +52086,13 @@ translate zh_Hans mc_alpha_storyline_354_1a0fbc4b:
 translate zh_Hans mc_alpha_storyline_354_d7be5f00:
 
     # nvlsola "{a=show:show_chat_media}{image=sola_pic_122}"
-    nvlsola "{a=show:show_chat_media}{image=sola_pic_122}"
+    nvlsola ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:27372
 translate zh_Hans mc_alpha_storyline_354_e6a5d050:
 
     # nvlsola "{a=show:show_chat_media}{image=sola_pic_123}"
-    nvlsola "{a=show:show_chat_media}{image=sola_pic_123}"
+    nvlsola ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:27380
 translate zh_Hans mc_alpha_storyline_354_b420b13c:
@@ -52136,7 +52136,7 @@ translate zh_Hans mc_alpha_storyline_355_5e2b778b:
 translate zh_Hans mc_alpha_storyline_355_e3b00fa3:
 
     # nvljenna "{a=show:show_chat_media}{image=gianna_video_61_ns}"
-    nvljenna "{a=show:show_chat_media}{image=gianna_video_61_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:27433
 translate zh_Hans mc_alpha_storyline_355_d4873cfb:
@@ -52304,7 +52304,7 @@ translate zh_Hans mc_alpha_storyline_355_e31511a5:
 translate zh_Hans mc_alpha_storyline_355_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:27511
 translate zh_Hans mc_alpha_storyline_355_53c71d7c:
@@ -52330,7 +52330,7 @@ translate zh_Hans mc_alpha_storyline_356_82d4be1d:
 translate zh_Hans mc_alpha_storyline_356_c0899c8f:
 
     # nvlkioko "{a=show:show_chat_media}{image=kioko_pic_37}"
-    nvlkioko "{a=show:show_chat_media}{image=kioko_pic_37}"
+    nvlkioko ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:27544
 translate zh_Hans mc_alpha_storyline_356_11413c22:
@@ -52552,7 +52552,7 @@ translate zh_Hans mc_alpha_storyline_356_6a9b1e6b:
 translate zh_Hans mc_alpha_storyline_356_2faa7d76:
 
     # nvlkioko "😘"
-    nvlkioko "😘"
+    nvlkioko ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:27626
 translate zh_Hans mc_alpha_storyline_356_603ef9b6:
@@ -52728,7 +52728,7 @@ translate zh_Hans mc_alpha_storyline_357_99ed34df:
 translate zh_Hans mc_alpha_storyline_357_44f43da1:
 
     # nvlsalim "{a=show:show_chat_media}{image=kioko_video_17_ns}"
-    nvlsalim "{a=show:show_chat_media}{image=kioko_video_17_ns}"
+    nvlsalim ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:27723
 translate zh_Hans mc_alpha_storyline_357_ea16aaf1:
@@ -52986,7 +52986,7 @@ translate zh_Hans mc_alpha_storyline_357_96090308:
 translate zh_Hans mc_alpha_storyline_357_a686776f:
 
     # nvlsalim "😊"
-    nvlsalim "😊|😊"
+    nvlsalim "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:27814
 translate zh_Hans mc_alpha_storyline_357_936edf78:
@@ -53016,7 +53016,7 @@ translate zh_Hans mc_alpha_storyline_358_76b2fe88:
 translate zh_Hans mc_alpha_storyline_358_171a7401:
 
     # nvlkioko "{a=show:show_chat_media}{image=kioko_video_18_ns}"
-    nvlkioko "{a=show:show_chat_media}{image=kioko_video_18_ns}"
+    nvlkioko ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:27861
 translate zh_Hans mc_alpha_storyline_358_bdc531bd:
@@ -53028,7 +53028,7 @@ translate zh_Hans mc_alpha_storyline_358_bdc531bd:
 translate zh_Hans mc_alpha_storyline_358_2faa7d76:
 
     # nvlkioko "😘"
-    nvlkioko "😘"
+    nvlkioko ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:27865
 translate zh_Hans mc_alpha_storyline_358_2765c80f:
@@ -53160,7 +53160,7 @@ translate zh_Hans mc_alpha_storyline_358_b74ef1c2:
 translate zh_Hans mc_alpha_storyline_358_2faa7d76_1:
 
     # nvlkioko "😘"
-    nvlkioko "😘"
+    nvlkioko ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:27909
 translate zh_Hans mc_alpha_storyline_358_b3794958:
@@ -53312,7 +53312,7 @@ translate zh_Hans mc_alpha_storyline_359_29a781f2:
 translate zh_Hans mc_alpha_storyline_359_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:28006
 translate zh_Hans mc_alpha_storyline_359_acacc449:
@@ -53348,13 +53348,13 @@ translate zh_Hans mc_alpha_storyline_359_a462e3ac:
 translate zh_Hans mc_alpha_storyline_359_2d51bae2:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_pic_865}"
-    nvljenna "{a=show:show_chat_media}{image=jenna_pic_865}"
+    nvljenna ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:28024
 translate zh_Hans mc_alpha_storyline_359_d81677c1:
 
     # nvljenna "😉"
-    nvljenna "😉|😉"
+    nvljenna "😉|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:28040
 translate zh_Hans mc_alpha_storyline_359_53c71d7c:
@@ -53404,7 +53404,7 @@ translate zh_Hans mc_alpha_storyline_360_0e27a5d2:
 translate zh_Hans mc_alpha_storyline_360_641fb2dd:
 
     # nvlamelia "😊"
-    nvlamelia "😊|😊"
+    nvlamelia "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:28075
 translate zh_Hans mc_alpha_storyline_360_4221b563:
@@ -53482,7 +53482,7 @@ translate zh_Hans mc_alpha_storyline_360_fdb9628f:
 translate zh_Hans mc_alpha_storyline_360_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:28101
 translate zh_Hans mc_alpha_storyline_360_1eea3826:
@@ -53560,7 +53560,7 @@ translate zh_Hans mc_alpha_storyline_361_76b2fe88:
 translate zh_Hans mc_alpha_storyline_361_d0bce514:
 
     # nvljohn "{a=show:show_chat_media}{image=jenna_video_48_ns}"
-    nvljohn "{a=show:show_chat_media}{image=jenna_video_48_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:28164
 translate zh_Hans mc_alpha_storyline_361_fc22a1b9:
@@ -53710,7 +53710,7 @@ translate zh_Hans mc_alpha_storyline_361_0f9e6765:
 translate zh_Hans mc_alpha_storyline_361_a9e6e01a:
 
     # nvljenna "😘"
-    nvljenna "😘"
+    nvljenna ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:28228
 translate zh_Hans mc_alpha_storyline_361_53c71d7c:
@@ -53930,7 +53930,7 @@ translate zh_Hans mc_alpha_storyline_363_609f0f81:
 translate zh_Hans mc_alpha_storyline_363_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:28352
 translate zh_Hans mc_alpha_storyline_363_ad94c12d:
@@ -54004,7 +54004,7 @@ translate zh_Hans mc_alpha_storyline_364_d0db38e6:
 translate zh_Hans mc_alpha_storyline_364_dcf79f59:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_916}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_916}"
+    nvlwife ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:28415
 translate zh_Hans mc_alpha_storyline_364_9d7626c3:
@@ -54046,7 +54046,7 @@ translate zh_Hans mc_alpha_storyline_364_be064abf:
 translate zh_Hans mc_alpha_storyline_364_9d224fe7:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_917}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_917}"
+    nvlwife ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:28435
 translate zh_Hans mc_alpha_storyline_364_5196170c:
@@ -54058,7 +54058,7 @@ translate zh_Hans mc_alpha_storyline_364_5196170c:
 translate zh_Hans mc_alpha_storyline_364_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:28439
 translate zh_Hans mc_alpha_storyline_364_6d1808ed:
@@ -54082,7 +54082,7 @@ translate zh_Hans mc_alpha_storyline_364_b1f27087:
 translate zh_Hans mc_alpha_storyline_364_34b208d5:
 
     # nvlwife "😘"
-    nvlwife "😘"
+    nvlwife ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:28447
 translate zh_Hans mc_alpha_storyline_364_12c6fcfa:
@@ -54288,7 +54288,7 @@ translate zh_Hans mc_alpha_storyline_365_d9d81cef:
 translate zh_Hans mc_alpha_storyline_365_03ea8bd6:
 
     # nvlgianna "😘"
-    nvlgianna "😘"
+    nvlgianna ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:28552
 translate zh_Hans mc_alpha_storyline_365_b29f9605:
@@ -54318,7 +54318,7 @@ translate zh_Hans mc_alpha_storyline_365_d7a72c32:
 translate zh_Hans mc_alpha_storyline_365_438ea995:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_52}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_52}"
+    nvlgianna ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:28568
 translate zh_Hans mc_alpha_storyline_365_1d7671a3:
@@ -54342,7 +54342,7 @@ translate zh_Hans mc_alpha_storyline_365_dced021b:
 translate zh_Hans mc_alpha_storyline_365_438ea995_1:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_52}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_52}"
+    nvlgianna ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:28587
 translate zh_Hans mc_alpha_storyline_365_9e75cd6b:
@@ -54456,7 +54456,7 @@ translate zh_Hans mc_alpha_storyline_366_fe922a33:
 translate zh_Hans mc_alpha_storyline_366_a2ad07dc:
 
     # nvljenna "{a=show:show_chat_media}{image=gianna_video_59_ns}"
-    nvljenna "{a=show:show_chat_media}{image=gianna_video_59_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:28666
 translate zh_Hans mc_alpha_storyline_366_e3c594d7:
@@ -54492,7 +54492,7 @@ translate zh_Hans mc_alpha_storyline_366_9e801b09:
 translate zh_Hans mc_alpha_storyline_366_e749590c:
 
     # nvljenna "{a=show:show_chat_media}{image=gianna_video_60_ns}"
-    nvljenna "{a=show:show_chat_media}{image=gianna_video_60_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:28687
 translate zh_Hans mc_alpha_storyline_366_cfec8691:
@@ -54582,7 +54582,7 @@ translate zh_Hans mc_alpha_storyline_366_f450793f:
 translate zh_Hans mc_alpha_storyline_366_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:28717
 translate zh_Hans mc_alpha_storyline_366_3172e35b:
@@ -54770,7 +54770,7 @@ translate zh_Hans mc_alpha_storyline_367_782ccb4d:
 translate zh_Hans mc_alpha_storyline_367_26cbbd9c:
 
     # nvljohn "{a=show:show_chat_media}{image=jenna_video_49_ns}"
-    nvljohn "{a=show:show_chat_media}{image=jenna_video_49_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:28819
 translate zh_Hans mc_alpha_storyline_367_b5321cf5:
@@ -54880,7 +54880,7 @@ translate zh_Hans mc_alpha_storyline_368_f14b8065:
 translate zh_Hans mc_alpha_storyline_368_96d675a6:
 
     # nvljenna "I don’t understand what you mean, Mr Salim."
-    nvljenna "萨利姆先生，我不明白您的意思。"
+    nvljenna "萨利姆先生，我不明白你的意思。"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:28888
 translate zh_Hans mc_alpha_storyline_368_c1589b5e:
@@ -55032,7 +55032,7 @@ translate zh_Hans mc_alpha_storyline_369_7b32c207:
 translate zh_Hans mc_alpha_storyline_369_88ddf7d0:
 
     # nvlsola "😘"
-    nvlsola "😘"
+    nvlsola ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:28993
 translate zh_Hans mc_alpha_storyline_369_f38a82f0:
@@ -55068,13 +55068,13 @@ translate zh_Hans mc_alpha_storyline_369_c360dcc8:
 translate zh_Hans mc_alpha_storyline_369_c28e3a2b:
 
     # nvlsola "{a=show:show_chat_media}{image=sola_pic_124}"
-    nvlsola "{a=show:show_chat_media}{image=sola_pic_124}"
+    nvlsola ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:29011
 translate zh_Hans mc_alpha_storyline_369_88ddf7d0_1:
 
     # nvlsola "😘"
-    nvlsola "😘"
+    nvlsola ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:29013
 translate zh_Hans mc_alpha_storyline_369_17d3e95d:
@@ -55196,7 +55196,7 @@ translate zh_Hans mc_alpha_storyline_370_4edc7695:
 translate zh_Hans mc_alpha_storyline_370_4b930546:
 
     # nvlsola "😊"
-    nvlsola "😊|😊"
+    nvlsola "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:29101
 translate zh_Hans mc_alpha_storyline_370_f5ecc362:
@@ -55208,7 +55208,7 @@ translate zh_Hans mc_alpha_storyline_370_f5ecc362:
 translate zh_Hans mc_alpha_storyline_370_c8202fe1:
 
     # nvljohn "{a=show:show_chat_media}{image=sola_video_30_ns}"
-    nvljohn "{a=show:show_chat_media}{image=sola_video_30_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:29113
 translate zh_Hans mc_alpha_storyline_370_8002111b:
@@ -55352,7 +55352,7 @@ translate zh_Hans mc_alpha_storyline_370_9cf09946:
 translate zh_Hans mc_alpha_storyline_370_88ddf7d0:
 
     # nvlsola "😘"
-    nvlsola "😘"
+    nvlsola ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:29177
 translate zh_Hans mc_alpha_storyline_370_53c71d7c:
@@ -55442,7 +55442,7 @@ translate zh_Hans mc_alpha_storyline_371_6348f02b:
 translate zh_Hans mc_alpha_storyline_371_d3c43889:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_pic_100}"
-    nvltalay "{a=show:show_chat_media}{image=talay_pic_100}"
+    nvltalay ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:29238
 translate zh_Hans mc_alpha_storyline_371_f0247082:
@@ -55562,7 +55562,7 @@ translate zh_Hans mc_alpha_storyline_371_2f035dd7:
 translate zh_Hans mc_alpha_storyline_371_22b7aa7d:
 
     # nvltalay "😘"
-    nvltalay "😘"
+    nvltalay ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:29278
 translate zh_Hans mc_alpha_storyline_371_893fb6b3:
@@ -56020,7 +56020,7 @@ translate zh_Hans mc_alpha_storyline_376_55e9f834:
 translate zh_Hans mc_alpha_storyline_376_2faa7d76:
 
     # nvlkioko "😘"
-    nvlkioko "😘"
+    nvlkioko ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:29620
 translate zh_Hans mc_alpha_storyline_376_53c71d7c:
@@ -56038,7 +56038,7 @@ translate zh_Hans mc_alpha_storyline_377_76b2fe88:
 translate zh_Hans mc_alpha_storyline_377_a8213c3a:
 
     # nvlkioko "{a=show:show_chat_media}{image=kioko_pic_38}"
-    nvlkioko "{a=show:show_chat_media}{image=kioko_pic_38}"
+    nvlkioko ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:29649
 translate zh_Hans mc_alpha_storyline_377_0bc59498:
@@ -56080,7 +56080,7 @@ translate zh_Hans mc_alpha_storyline_377_467d419f:
 translate zh_Hans mc_alpha_storyline_377_ef5617e2:
 
     # nvlkioko "😊"
-    nvlkioko "😊|😊"
+    nvlkioko "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:29663
 translate zh_Hans mc_alpha_storyline_377_e0f85faf:
@@ -56158,7 +56158,7 @@ translate zh_Hans mc_alpha_storyline_377_7f723ce4:
 translate zh_Hans mc_alpha_storyline_377_2faa7d76:
 
     # nvlkioko "😘"
-    nvlkioko "😘"
+    nvlkioko ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:29689
 translate zh_Hans mc_alpha_storyline_377_157af4d0:
@@ -56184,7 +56184,7 @@ translate zh_Hans mc_alpha_storyline_378_0153b19d:
     # nvl clear
     # nvlsalim "I have a video for you, Mr [mc_name_is]."
     nvl clear
-    nvlsalim "先生，我这里有一段视频要给您看。[mc_name_is]。"
+    nvlsalim "先生，我这里有一段视频要给你看。[mc_name_is]。"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:29730
 translate zh_Hans mc_alpha_storyline_378_50a2d050:
@@ -56250,7 +56250,7 @@ translate zh_Hans mc_alpha_storyline_378_fc5dcfa1:
 translate zh_Hans mc_alpha_storyline_378_a61bc85b:
 
     # nvlsalim "{a=show:show_chat_media}{image=kioko_video_19_ns}"
-    nvlsalim "{a=show:show_chat_media}{image=kioko_video_19_ns}"
+    nvlsalim ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:29758
 translate zh_Hans mc_alpha_storyline_378_1b90ce4c:
@@ -56298,7 +56298,7 @@ translate zh_Hans mc_alpha_storyline_378_0fc91767:
 translate zh_Hans mc_alpha_storyline_378_a686776f:
 
     # nvlsalim "😊"
-    nvlsalim "😊|😊"
+    nvlsalim "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:29774
 translate zh_Hans mc_alpha_storyline_378_93020174:
@@ -56578,7 +56578,7 @@ translate zh_Hans mc_alpha_storyline_380_57e00a3d:
 translate zh_Hans mc_alpha_storyline_380_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:29946
 translate zh_Hans mc_alpha_storyline_380_8db5b35c:
@@ -56718,7 +56718,7 @@ translate zh_Hans mc_alpha_storyline_381_5417232b:
 translate zh_Hans mc_alpha_storyline_381_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:30025
 translate zh_Hans mc_alpha_storyline_381_1aacf53b:
@@ -57066,7 +57066,7 @@ translate zh_Hans mc_alpha_storyline_384_d682a3f8:
 translate zh_Hans mc_alpha_storyline_384_fc2c47f6:
 
     # nvljohn "Hi, Mr Henrique."
-    nvljohn "您好，亨里克先生。"
+    nvljohn "你好，亨里克先生。"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:30252
 translate zh_Hans mc_alpha_storyline_384_a76631c4:
@@ -57618,7 +57618,7 @@ translate zh_Hans mc_alpha_storyline_387_c0d0affa:
 translate zh_Hans mc_alpha_storyline_387_768d3e82:
 
     # nvljohn "geo.com/344351347"
-    nvljohn "geo.com/344351347"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:30550
 translate zh_Hans mc_alpha_storyline_387_7bacd77f:
@@ -57708,7 +57708,7 @@ translate zh_Hans mc_alpha_storyline_387_c6908b33:
 translate zh_Hans mc_alpha_storyline_387_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:30580
 translate zh_Hans mc_alpha_storyline_387_9f4bb9f9:
@@ -57878,7 +57878,7 @@ translate zh_Hans mc_alpha_storyline_388_fab63c6b:
 translate zh_Hans mc_alpha_storyline_388_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:30669
 translate zh_Hans mc_alpha_storyline_388_08cd06ec:
@@ -57952,7 +57952,7 @@ translate zh_Hans mc_alpha_storyline_389_f9404a8d:
 translate zh_Hans mc_alpha_storyline_389_97693617:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_video_56_ns}"
-    nvljohn "{a=show:show_chat_media}{image=talay_video_56_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:30732
 translate zh_Hans mc_alpha_storyline_389_7cc6a228:
@@ -58158,7 +58158,7 @@ translate zh_Hans mc_alpha_storyline_390_8d88d100:
 translate zh_Hans mc_alpha_storyline_390_b0341776:
 
     # nvlfpaul "{a=show:show_chat_media}{image=paula_pic_5}"
-    nvlfpaul "{a=show:show_chat_media}{image=paula_pic_5}"
+    nvlfpaul ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:30839
 translate zh_Hans mc_alpha_storyline_390_5d1a156d:
@@ -58406,7 +58406,7 @@ translate zh_Hans mc_alpha_storyline_391_0f5789d0:
 translate zh_Hans mc_alpha_storyline_391_8fe50035:
 
     # nvlsalim "{a=show:show_chat_media}{image=paula_video_24_ns}"
-    nvlsalim "{a=show:show_chat_media}{image=paula_video_24_ns}"
+    nvlsalim ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:30960
 translate zh_Hans mc_alpha_storyline_391_8f7f3c3c:
@@ -58430,7 +58430,7 @@ translate zh_Hans mc_alpha_storyline_391_8de0e0a8:
 translate zh_Hans mc_alpha_storyline_391_4b931c16:
 
     # nvlsalim "{a=show:show_chat_media}{image=paula_pic_6}"
-    nvlsalim "{a=show:show_chat_media}{image=paula_pic_6}"
+    nvlsalim ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:30974
 translate zh_Hans mc_alpha_storyline_391_bd6712b1:
@@ -58562,7 +58562,7 @@ translate zh_Hans mc_alpha_storyline_391_5222cd65:
 translate zh_Hans mc_alpha_storyline_391_a686776f:
 
     # nvlsalim "😊"
-    nvlsalim "😊|😊"
+    nvlsalim "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:31018
 translate zh_Hans mc_alpha_storyline_391_2de92238:
@@ -58920,7 +58920,7 @@ translate zh_Hans mc_alpha_storyline_393_9a7a131a:
 translate zh_Hans mc_alpha_storyline_393_10df7fcf:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_pic_101}"
-    nvltalay "{a=show:show_chat_media}{image=talay_pic_101}"
+    nvltalay ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:31222
 translate zh_Hans mc_alpha_storyline_393_339035ec:
@@ -58952,7 +58952,7 @@ translate zh_Hans mc_alpha_storyline_394_a94f64c5:
 translate zh_Hans mc_alpha_storyline_394_ec7796c4:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_video_57_ns}"
-    nvljohn "{a=show:show_chat_media}{image=talay_video_57_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:31271
 translate zh_Hans mc_alpha_storyline_394_69fc5b05:
@@ -59060,7 +59060,7 @@ translate zh_Hans mc_alpha_storyline_394_d737900c:
 translate zh_Hans mc_alpha_storyline_394_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:31307
 translate zh_Hans mc_alpha_storyline_394_fa61f25c:
@@ -59114,7 +59114,7 @@ translate zh_Hans mc_alpha_storyline_394_46043f2e:
 translate zh_Hans mc_alpha_storyline_394_4e8266bb:
 
     # nvltalay "😊"
-    nvltalay "😊|😊"
+    nvltalay "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:31325
 translate zh_Hans mc_alpha_storyline_394_69502adf:
@@ -59204,7 +59204,7 @@ translate zh_Hans mc_alpha_storyline_394_84579163:
 translate zh_Hans mc_alpha_storyline_394_f9c768d6:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_pic_102}"
-    nvltalay "{a=show:show_chat_media}{image=talay_pic_102}"
+    nvltalay ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:31361
 translate zh_Hans mc_alpha_storyline_394_4b2bfd71:
@@ -59216,7 +59216,7 @@ translate zh_Hans mc_alpha_storyline_394_4b2bfd71:
 translate zh_Hans mc_alpha_storyline_394_22b7aa7d:
 
     # nvltalay "😘"
-    nvltalay "😘"
+    nvltalay ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:31365
 translate zh_Hans mc_alpha_storyline_394_15b26fac:
@@ -59412,7 +59412,7 @@ translate zh_Hans mc_alpha_storyline_396_1d672452:
 translate zh_Hans mc_alpha_storyline_396_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:31495
 translate zh_Hans mc_alpha_storyline_396_0fc54696:
@@ -59424,7 +59424,7 @@ translate zh_Hans mc_alpha_storyline_396_0fc54696:
 translate zh_Hans mc_alpha_storyline_396_d98b4b9b:
 
     # nvlsalim "{a=show:show_chat_media}{image=paula_video_25_ns}"
-    nvlsalim "{a=show:show_chat_media}{image=paula_video_25_ns}"
+    nvlsalim ""
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:31505
 translate zh_Hans mc_alpha_storyline_396_33614508:

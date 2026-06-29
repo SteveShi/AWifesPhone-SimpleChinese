@@ -270,7 +270,7 @@ translate zh_Hans talay_mc_storyline_5_6112bc38:
 translate zh_Hans talay_mc_storyline_5_4e8266bb:
 
     # nvltalay "😊"
-    nvltalay "😊|😊"
+    nvltalay "😊|"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:149
 translate zh_Hans talay_mc_storyline_5_a60a13ce:
@@ -360,7 +360,7 @@ translate zh_Hans talay_mc_storyline_5_a57edb21:
 translate zh_Hans talay_mc_storyline_5_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:179
 translate zh_Hans talay_mc_storyline_5_25c20754:
@@ -584,7 +584,7 @@ translate zh_Hans talay_mc_storyline_6_c58912fe:
 translate zh_Hans talay_mc_storyline_6_4e8266bb:
 
     # nvltalay "😊"
-    nvltalay "😊|😊"
+    nvltalay "😊|"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:286
 translate zh_Hans talay_mc_storyline_6_21d7b72c:
@@ -772,7 +772,7 @@ translate zh_Hans talay_mc_storyline_7_3f3fb57f:
 translate zh_Hans talay_mc_storyline_7_200421e5:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_pic_63}"
-    nvltalay "{a=show:show_chat_media}{image=talay_pic_63}"
+    nvltalay ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:385
 translate zh_Hans talay_mc_storyline_7_017c54ac:
@@ -2072,7 +2072,7 @@ translate zh_Hans talay_mc_storyline_12_469e7045:
 translate zh_Hans talay_mc_storyline_12_882c26cb:
 
     # nvlunknown "We have a gift for you"
-    nvlunknown "我们为您准备了一份礼物。"
+    nvlunknown "我们为你准备了一份礼物。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:995
 translate zh_Hans talay_mc_storyline_12_3bfd1d35:
@@ -2090,43 +2090,43 @@ translate zh_Hans talay_mc_storyline_12_a2194b40:
 translate zh_Hans talay_mc_storyline_12_429ccbd5:
 
     # nvlunknown "{a=show:show_chat_media}{image=bbc_pic_248}"
-    nvlunknown "{a=show:show_chat_media}{image=bbc_pic_248}"
+    nvlunknown ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:1007
 translate zh_Hans talay_mc_storyline_12_0661edcd:
 
     # nvlunknown "{a=show:show_chat_media}{image=bbc_pic_249}"
-    nvlunknown "{a=show:show_chat_media}{image=bbc_pic_249}"
+    nvlunknown ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:1013
 translate zh_Hans talay_mc_storyline_12_9c64cd9a:
 
     # nvlunknown "{a=show:show_chat_media}{image=bbc_pic_250}"
-    nvlunknown "{a=show:show_chat_media}{image=bbc_pic_250}"
+    nvlunknown ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:1019
 translate zh_Hans talay_mc_storyline_12_e4c634be:
 
     # nvlunknown "{a=show:show_chat_media}{image=bbc_pic_251}"
-    nvlunknown "{a=show:show_chat_media}{image=bbc_pic_251}"
+    nvlunknown ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:1025
 translate zh_Hans talay_mc_storyline_12_29c315b8:
 
     # nvlunknown "{a=show:show_chat_media}{image=bbc_pic_252}"
-    nvlunknown "{a=show:show_chat_media}{image=bbc_pic_252}"
+    nvlunknown ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:1031
 translate zh_Hans talay_mc_storyline_12_905444db:
 
     # nvlunknown "{a=show:show_chat_media}{image=bbc_pic_253}"
-    nvlunknown "{a=show:show_chat_media}{image=bbc_pic_253}"
+    nvlunknown ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:1035
 translate zh_Hans talay_mc_storyline_12_adb80e40:
 
     # nvlunknown "We think you know how to use these"
-    nvlunknown "我们相信您知道如何使用这些。"
+    nvlunknown "我们相信你知道如何使用这些。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:1037
 translate zh_Hans talay_mc_storyline_12_acacc449:
@@ -2254,7 +2254,7 @@ translate zh_Hans talay_mc_storyline_13_6b424c4a:
 translate zh_Hans talay_mc_storyline_13_a2a2361d:
 
     # nvljohn "{a=show:show_chat_media}{image=bbc_pic_248}"
-    nvljohn "{a=show:show_chat_media}{image=bbc_pic_248}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:1114
 translate zh_Hans talay_mc_storyline_13_1ef6f06d:
@@ -2272,7 +2272,7 @@ translate zh_Hans talay_mc_storyline_13_1cf12a2d:
 translate zh_Hans talay_mc_storyline_13_1920e21b:
 
     # nvljohn "{a=show:show_chat_media}{image=bbc_pic_249}"
-    nvljohn "{a=show:show_chat_media}{image=bbc_pic_249}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:1122
 translate zh_Hans talay_mc_storyline_13_337eb4c4:
@@ -2290,7 +2290,7 @@ translate zh_Hans talay_mc_storyline_13_b16b723e:
 translate zh_Hans talay_mc_storyline_13_82d039ed:
 
     # nvljohn "{a=show:show_chat_media}{image=bbc_pic_250}"
-    nvljohn "{a=show:show_chat_media}{image=bbc_pic_250}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:1130
 translate zh_Hans talay_mc_storyline_13_962c1229:
@@ -2314,19 +2314,19 @@ translate zh_Hans talay_mc_storyline_13_ea095bd3:
 translate zh_Hans talay_mc_storyline_13_f6181abf:
 
     # nvljohn "{a=show:show_chat_media}{image=bbc_pic_251}"
-    nvljohn "{a=show:show_chat_media}{image=bbc_pic_251}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:1142
 translate zh_Hans talay_mc_storyline_13_c3ccbda8:
 
     # nvljohn "{a=show:show_chat_media}{image=bbc_pic_252}"
-    nvljohn "{a=show:show_chat_media}{image=bbc_pic_252}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:1146
 translate zh_Hans talay_mc_storyline_13_7dd33aa8:
 
     # nvljohn "{a=show:show_chat_media}{image=bbc_pic_253}"
-    nvljohn "{a=show:show_chat_media}{image=bbc_pic_253}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:1148
 translate zh_Hans talay_mc_storyline_13_646c37fc:
@@ -2460,7 +2460,7 @@ translate zh_Hans talay_mc_storyline_14_e5d01cfa:
 translate zh_Hans talay_mc_storyline_14_192ab174:
 
     # nvltalay "\"The Drunken Mare\""
-    nvltalay "\"醉酒的母马\""
+    nvltalay "醉酒的母马"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:1226
 translate zh_Hans talay_mc_storyline_14_fc716e96:
@@ -2830,7 +2830,7 @@ translate zh_Hans talay_mc_storyline_16_d3d90251:
 translate zh_Hans talay_mc_storyline_16_9630054e:
 
     # nvlunknown "😊"
-    nvlunknown "😊|😊"
+    nvlunknown "😊|"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:1412
 translate zh_Hans talay_mc_storyline_16_bffb97bf:
@@ -2902,7 +2902,7 @@ translate zh_Hans talay_mc_storyline_16_c068535f:
 translate zh_Hans talay_mc_storyline_16_fa5be6ed:
 
     # nvlunknown "{a=show:show_chat_media}{image=talay_video_16_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=talay_video_16_ns}"
+    nvlunknown ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:1440
 translate zh_Hans talay_mc_storyline_16_8b9e9b1c:
@@ -2920,7 +2920,7 @@ translate zh_Hans talay_mc_storyline_16_6f236c83:
 translate zh_Hans talay_mc_storyline_16_9630054e_1:
 
     # nvlunknown "😊"
-    nvlunknown "😊|😊"
+    nvlunknown "😊|"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:1446
 translate zh_Hans talay_mc_storyline_16_777d15b9:
@@ -3580,7 +3580,7 @@ translate zh_Hans talay_mc_storyline_19_61ed598e:
 translate zh_Hans talay_mc_storyline_19_37651b89:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_pic_35}"
-    nvljohn "{a=show:show_chat_media}{image=talay_pic_35}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:1761
 translate zh_Hans talay_mc_storyline_19_1cf12a2d:
@@ -3592,13 +3592,13 @@ translate zh_Hans talay_mc_storyline_19_1cf12a2d:
 translate zh_Hans talay_mc_storyline_19_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:1767
 translate zh_Hans talay_mc_storyline_19_d9871ad6:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_pic_36}"
-    nvljohn "{a=show:show_chat_media}{image=talay_pic_36}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:1771
 translate zh_Hans talay_mc_storyline_19_6316afab:
@@ -3610,7 +3610,7 @@ translate zh_Hans talay_mc_storyline_19_6316afab:
 translate zh_Hans talay_mc_storyline_19_17481a38:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_pic_37}"
-    nvljohn "{a=show:show_chat_media}{image=talay_pic_37}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:1779
 translate zh_Hans talay_mc_storyline_19_e07b6c0d:
@@ -3706,7 +3706,7 @@ translate zh_Hans talay_mc_storyline_19_12dd404b:
 translate zh_Hans talay_mc_storyline_19_7633828e_1:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:1811
 translate zh_Hans talay_mc_storyline_19_90e1faea:
@@ -3784,7 +3784,7 @@ translate zh_Hans talay_mc_storyline_19_7e508f76:
 translate zh_Hans talay_mc_storyline_19_4e8266bb:
 
     # nvltalay "😊"
-    nvltalay "😊|😊"
+    nvltalay "😊|"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:1837
 translate zh_Hans talay_mc_storyline_19_bee0e7fb:
@@ -4070,7 +4070,7 @@ translate zh_Hans talay_mc_storyline_21_ec4d1259:
 translate zh_Hans talay_mc_storyline_21_2b8b870b:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_pic_45}"
-    nvltalay "{a=show:show_chat_media}{image=talay_pic_45}"
+    nvltalay ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:2001
 translate zh_Hans talay_mc_storyline_21_acacc449:
@@ -4088,7 +4088,7 @@ translate zh_Hans talay_mc_storyline_21_18719957:
 translate zh_Hans talay_mc_storyline_21_3ebfb2c2:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_pic_46}"
-    nvltalay "{a=show:show_chat_media}{image=talay_pic_46}"
+    nvltalay ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:2011
 translate zh_Hans talay_mc_storyline_21_dbf786db:
@@ -4142,7 +4142,7 @@ translate zh_Hans talay_mc_storyline_21_8fc03778:
 translate zh_Hans talay_mc_storyline_21_9ef137e4:
 
     # nvljohn "❤️"
-    nvljohn "❤️|❤️"
+    nvljohn "❤️|"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:2029
 translate zh_Hans talay_mc_storyline_21_d5234ccc:
@@ -4316,7 +4316,7 @@ translate zh_Hans talay_mc_storyline_21_46efa0ca:
 translate zh_Hans talay_mc_storyline_21_1db1a1e7:
 
     # nvltalay "❤️"
-    nvltalay "❤️|❤️"
+    nvltalay "❤️|"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:2087
 translate zh_Hans talay_mc_storyline_21_69d61b61:
@@ -4364,7 +4364,7 @@ translate zh_Hans talay_mc_storyline_22_76b2fe88:
 translate zh_Hans talay_mc_storyline_22_2ca8acad:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_pic_43}"
-    nvljohn "{a=show:show_chat_media}{image=talay_pic_43}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:2138
 translate zh_Hans talay_mc_storyline_22_469e7045:
@@ -4376,7 +4376,7 @@ translate zh_Hans talay_mc_storyline_22_469e7045:
 translate zh_Hans talay_mc_storyline_22_06ca9917:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_pic_44}"
-    nvljohn "{a=show:show_chat_media}{image=talay_pic_44}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:2146
 translate zh_Hans talay_mc_storyline_22_5f1a4bea:
@@ -4388,7 +4388,7 @@ translate zh_Hans talay_mc_storyline_22_5f1a4bea:
 translate zh_Hans talay_mc_storyline_22_8d949998:
 
     # nvljohn "How did you sleep?"
-    nvljohn "您睡得好吗？"
+    nvljohn "你睡得好吗？"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:2150
 translate zh_Hans talay_mc_storyline_22_d9c7bba5:
@@ -4634,7 +4634,7 @@ translate zh_Hans talay_mc_storyline_22_84bcfbf9:
 translate zh_Hans talay_mc_storyline_22_1db1a1e7:
 
     # nvltalay "❤️"
-    nvltalay "❤️|❤️"
+    nvltalay "❤️|"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:2232
 translate zh_Hans talay_mc_storyline_22_475745f0:
@@ -4664,7 +4664,7 @@ translate zh_Hans talay_mc_storyline_22_b0075107:
 translate zh_Hans talay_mc_storyline_22_1db1a1e7_1:
 
     # nvltalay "❤️"
-    nvltalay "❤️|❤️"
+    nvltalay "❤️|"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:2242
 translate zh_Hans talay_mc_storyline_22_e53de8f6:
@@ -5276,7 +5276,7 @@ translate zh_Hans talay_mc_storyline_25_07747ca0:
 translate zh_Hans talay_mc_storyline_25_4293e5bc:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_pic_54}"
-    nvljohn "{a=show:show_chat_media}{image=talay_pic_54}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:2545
 translate zh_Hans talay_mc_storyline_25_56f0f9d4:
@@ -5294,13 +5294,13 @@ translate zh_Hans talay_mc_storyline_25_8e1ceac8:
 translate zh_Hans talay_mc_storyline_25_8052f6d6:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_pic_60}"
-    nvljohn "{a=show:show_chat_media}{image=talay_pic_60}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:2557
 translate zh_Hans talay_mc_storyline_25_965b08f3:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_pic_61}"
-    nvljohn "{a=show:show_chat_media}{image=talay_pic_61}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:2561
 translate zh_Hans talay_mc_storyline_25_ba8c927d_1:
@@ -5318,7 +5318,7 @@ translate zh_Hans talay_mc_storyline_25_37b75e4e:
 translate zh_Hans talay_mc_storyline_25_778e6579:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_pic_55}"
-    nvljohn "{a=show:show_chat_media}{image=talay_pic_55}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:2571
 translate zh_Hans talay_mc_storyline_25_17fb659d:
@@ -5402,7 +5402,7 @@ translate zh_Hans talay_mc_storyline_25_5432ccc6:
 translate zh_Hans talay_mc_storyline_25_4e8266bb:
 
     # nvltalay "😊"
-    nvltalay "😊|😊"
+    nvltalay "😊|"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:2599
 translate zh_Hans talay_mc_storyline_25_6696ed2d:
@@ -5572,7 +5572,7 @@ translate zh_Hans talay_mc_storyline_26_d0bfe1fc:
 translate zh_Hans talay_mc_storyline_26_0642a975:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_pic_50}"
-    nvltalay "{a=show:show_chat_media}{image=talay_pic_50}"
+    nvltalay ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:2692
 translate zh_Hans talay_mc_storyline_26_c54391cc:
@@ -5620,7 +5620,7 @@ translate zh_Hans talay_mc_storyline_26_6fe2f738:
 translate zh_Hans talay_mc_storyline_26_4e8266bb:
 
     # nvltalay "😊"
-    nvltalay "😊|😊"
+    nvltalay "😊|"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:2708
 translate zh_Hans talay_mc_storyline_26_4144f4a9:
@@ -5710,7 +5710,7 @@ translate zh_Hans talay_mc_storyline_27_76b2fe88:
 translate zh_Hans talay_mc_storyline_27_247fa212:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_pic_38}"
-    nvljohn "{a=show:show_chat_media}{image=talay_pic_38}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:2773
 translate zh_Hans talay_mc_storyline_27_10fa7845:
@@ -5728,13 +5728,13 @@ translate zh_Hans talay_mc_storyline_27_775a7086:
 translate zh_Hans talay_mc_storyline_27_8b1564f1:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_pic_39}"
-    nvljohn "{a=show:show_chat_media}{image=talay_pic_39}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:2785
 translate zh_Hans talay_mc_storyline_27_65132d5b:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_pic_40}"
-    nvljohn "{a=show:show_chat_media}{image=talay_pic_40}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:2789
 translate zh_Hans talay_mc_storyline_27_f08893d5:
@@ -5752,13 +5752,13 @@ translate zh_Hans talay_mc_storyline_27_f317ebf2:
 translate zh_Hans talay_mc_storyline_27_3f8bd588:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_pic_41}"
-    nvljohn "{a=show:show_chat_media}{image=talay_pic_41}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:2801
 translate zh_Hans talay_mc_storyline_27_0d5d5ccf:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_pic_42}"
-    nvljohn "{a=show:show_chat_media}{image=talay_pic_42}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:2805
 translate zh_Hans talay_mc_storyline_27_513d9013:
@@ -6574,7 +6574,7 @@ translate zh_Hans talay_mc_storyline_30_78d15b0e:
 translate zh_Hans talay_mc_storyline_30_1db1a1e7:
 
     # nvltalay "❤️"
-    nvltalay "❤️|❤️"
+    nvltalay "❤️|"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:3183
 translate zh_Hans talay_mc_storyline_30_87ddc999:
@@ -6586,7 +6586,7 @@ translate zh_Hans talay_mc_storyline_30_87ddc999:
 translate zh_Hans talay_mc_storyline_30_86750e02:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_video_17_ns}"
-    nvljohn "{a=show:show_chat_media}{image=talay_video_17_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:3191
 translate zh_Hans talay_mc_storyline_30_ba200779:
@@ -6622,7 +6622,7 @@ translate zh_Hans talay_mc_storyline_30_b4dba8bd:
 translate zh_Hans talay_mc_storyline_30_59f9fc42:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_video_16_ns}"
-    nvljohn "{a=show:show_chat_media}{image=talay_video_16_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:3205
 translate zh_Hans talay_mc_storyline_30_26e9e0fd:
@@ -6706,7 +6706,7 @@ translate zh_Hans talay_mc_storyline_30_cfcf5379:
 translate zh_Hans talay_mc_storyline_30_1db1a1e7_1:
 
     # nvltalay "❤️"
-    nvltalay "❤️|❤️"
+    nvltalay "❤️|"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:3233
 translate zh_Hans talay_mc_storyline_30_53b9c9fb:
@@ -6836,7 +6836,7 @@ translate zh_Hans talay_mc_storyline_32_2b773e16:
 translate zh_Hans talay_mc_storyline_32_9ef137e4:
 
     # nvljohn "❤️"
-    nvljohn "❤️|❤️"
+    nvljohn "❤️|"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:3351
 translate zh_Hans talay_mc_storyline_32_62a2275d:
@@ -6866,7 +6866,7 @@ translate zh_Hans talay_mc_storyline_32_313d2eb3:
 translate zh_Hans talay_mc_storyline_32_b13f8134:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_pic_64}"
-    nvljohn "{a=show:show_chat_media}{image=talay_pic_64}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:3365
 translate zh_Hans talay_mc_storyline_32_eab70c59:
@@ -7344,7 +7344,7 @@ translate zh_Hans talay_mc_storyline_34_84469275:
 translate zh_Hans talay_mc_storyline_34_4174eb3c:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_pic_65}"
-    nvljohn "{a=show:show_chat_media}{image=talay_pic_65}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:3591
 translate zh_Hans talay_mc_storyline_34_a2f15ba2:
@@ -7368,7 +7368,7 @@ translate zh_Hans talay_mc_storyline_34_ab558848:
 translate zh_Hans talay_mc_storyline_34_7ad72d1b:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_pic_66}"
-    nvljohn "{a=show:show_chat_media}{image=talay_pic_66}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:3603
 translate zh_Hans talay_mc_storyline_34_50568530:
@@ -7404,7 +7404,7 @@ translate zh_Hans talay_mc_storyline_34_6c299c78:
 translate zh_Hans talay_mc_storyline_34_f0b854a7:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_pic_67}"
-    nvljohn "{a=show:show_chat_media}{image=talay_pic_67}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:3619
 translate zh_Hans talay_mc_storyline_34_1cf12a2d:
@@ -7988,7 +7988,7 @@ translate zh_Hans talay_mc_storyline_35_ac86e45d:
 translate zh_Hans talay_mc_storyline_35_9630054e:
 
     # nvlunknown "😊"
-    nvlunknown "😊|😊"
+    nvlunknown "😊|"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:3858
 translate zh_Hans talay_mc_storyline_35_69de6ce6:
@@ -8078,19 +8078,19 @@ translate zh_Hans talay_mc_storyline_35_f1b58366:
 translate zh_Hans talay_mc_storyline_35_ce6cab20:
 
     # nvlunknown "We believe you'll succeed, Mr [mc_name_is]"
-    nvlunknown "我们相信您会成功的，[mc_name_is]先生"
+    nvlunknown "我们相信你会成功的，[mc_name_is]先生"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:3888
 translate zh_Hans talay_mc_storyline_35_d257369e:
 
     # nvlunknown "You can handle it"
-    nvlunknown "您能搞定"
+    nvlunknown "你能搞定"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:3890
 translate zh_Hans talay_mc_storyline_35_f0dcafed:
 
     # nvlunknown "And we'll do our best to help you"
-    nvlunknown "我们也会尽力帮助您"
+    nvlunknown "我们也会尽力帮助你"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:3892
 translate zh_Hans talay_mc_storyline_35_4cdc7732:
@@ -8108,7 +8108,7 @@ translate zh_Hans talay_mc_storyline_35_5bee6d41:
 translate zh_Hans talay_mc_storyline_35_9089856e:
 
     # nvlunknown "You'll need it"
-    nvlunknown "您会需要的"
+    nvlunknown "你会需要的"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:3898
 translate zh_Hans talay_mc_storyline_35_4cdc7732_1:
@@ -8530,7 +8530,7 @@ translate zh_Hans talay_mc_storyline_36_3f3fb57f:
 translate zh_Hans talay_mc_storyline_36_4e8266bb:
 
     # nvltalay "😊"
-    nvltalay "😊|😊"
+    nvltalay "😊|"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:4085
 translate zh_Hans talay_mc_storyline_36_4d26fa86:
@@ -8608,7 +8608,7 @@ translate zh_Hans talay_mc_storyline_37_76b2fe88:
 translate zh_Hans talay_mc_storyline_37_d61fc84a:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_pic_68}"
-    nvljohn "{a=show:show_chat_media}{image=talay_pic_68}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:4146
 translate zh_Hans talay_mc_storyline_37_0e0a4f8a:
@@ -8626,7 +8626,7 @@ translate zh_Hans talay_mc_storyline_37_8649a7c6:
 translate zh_Hans talay_mc_storyline_37_8d4926b8:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_pic_69}"
-    nvljohn "{a=show:show_chat_media}{image=talay_pic_69}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:4156
 translate zh_Hans talay_mc_storyline_37_59c18611:
@@ -9084,7 +9084,7 @@ translate zh_Hans talay_mc_storyline_38_204eb6a7:
 translate zh_Hans talay_mc_storyline_38_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:4346
 translate zh_Hans talay_mc_storyline_38_f06e3df8:
@@ -9610,7 +9610,7 @@ translate zh_Hans talay_mc_storyline_40_9fb33bf8:
 translate zh_Hans talay_mc_storyline_40_deae776d:
 
     # nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_26}"
-    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_26}"
+    nvlcecilia ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:4594
 translate zh_Hans talay_mc_storyline_40_d7da36e9:
@@ -9646,7 +9646,7 @@ translate zh_Hans talay_mc_storyline_40_4b366ff3:
 translate zh_Hans talay_mc_storyline_40_d63f6129:
 
     # nvlcecilia "😊"
-    nvlcecilia "😊|😊"
+    nvlcecilia "😊|"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:4606
 translate zh_Hans talay_mc_storyline_40_00bb5a77:
@@ -9894,7 +9894,7 @@ translate zh_Hans talay_mc_storyline_41_dc645139:
 translate zh_Hans talay_mc_storyline_41_1db1a1e7:
 
     # nvltalay "❤️"
-    nvltalay "❤️|❤️"
+    nvltalay "❤️|"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:4731
 translate zh_Hans talay_mc_storyline_41_b4398267:
@@ -10220,7 +10220,7 @@ translate zh_Hans talay_mc_storyline_42_ff333534:
 translate zh_Hans talay_mc_storyline_42_952933b1:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_pic_70}"
-    nvljohn "{a=show:show_chat_media}{image=talay_pic_70}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:4876
 translate zh_Hans talay_mc_storyline_42_75280397:
@@ -10238,7 +10238,7 @@ translate zh_Hans talay_mc_storyline_42_26e9e0fd:
 translate zh_Hans talay_mc_storyline_42_73974394:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_pic_71}"
-    nvljohn "{a=show:show_chat_media}{image=talay_pic_71}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:4886
 translate zh_Hans talay_mc_storyline_42_a68f1cf4:
@@ -10540,7 +10540,7 @@ translate zh_Hans talay_mc_storyline_43_dfce5b62:
 translate zh_Hans talay_mc_storyline_43_5410aa78:
 
     # nvljohn "{a=show:show_chat_media}{image=mc_pic_75}"
-    nvljohn "{a=show:show_chat_media}{image=mc_pic_75}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:5021
 translate zh_Hans talay_mc_storyline_43_456f0956:
@@ -11046,7 +11046,7 @@ translate zh_Hans talay_mc_storyline_47_11d6b84d:
 translate zh_Hans talay_mc_storyline_47_66ac121a:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_video_18_ns}"
-    nvljohn "{a=show:show_chat_media}{image=talay_video_18_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:5321
 translate zh_Hans talay_mc_storyline_47_af63baa8:
@@ -11328,19 +11328,19 @@ translate zh_Hans talay_mc_storyline_50_5bf9856f:
 translate zh_Hans talay_mc_storyline_50_a3442bc9:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_pic_77}"
-    nvltalay "{a=show:show_chat_media}{image=talay_pic_77}"
+    nvltalay ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:5515
 translate zh_Hans talay_mc_storyline_50_b8c9401a:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_pic_78}"
-    nvltalay "{a=show:show_chat_media}{image=talay_pic_78}"
+    nvltalay ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:5518
 translate zh_Hans talay_mc_storyline_50_55150fbd:
 
     # nvljohn "😍😍"
-    nvljohn "😍😍"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:5520
 translate zh_Hans talay_mc_storyline_50_1005948d:
@@ -11488,19 +11488,19 @@ translate zh_Hans talay_mc_storyline_52_8b61ea25:
 translate zh_Hans talay_mc_storyline_52_3904ec7c:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_pic_79}"
-    nvltalay "{a=show:show_chat_media}{image=talay_pic_79}"
+    nvltalay ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:5637
 translate zh_Hans talay_mc_storyline_52_7dc47887:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_pic_80}"
-    nvltalay "{a=show:show_chat_media}{image=talay_pic_80}"
+    nvltalay ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:5641
 translate zh_Hans talay_mc_storyline_52_4c5d75bc:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_pic_81}"
-    nvltalay "{a=show:show_chat_media}{image=talay_pic_81}"
+    nvltalay ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:5644
 translate zh_Hans talay_mc_storyline_52_10b53248:
@@ -11542,19 +11542,19 @@ translate zh_Hans talay_mc_storyline_52_f1762605:
 translate zh_Hans talay_mc_storyline_52_7aa9fa1d:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_pic_79}"
-    nvljohn "{a=show:show_chat_media}{image=talay_pic_79}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:5666
 translate zh_Hans talay_mc_storyline_52_d4275ef2:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_pic_80}"
-    nvljohn "{a=show:show_chat_media}{image=talay_pic_80}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:5671
 translate zh_Hans talay_mc_storyline_52_d4f2788b:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_pic_81}"
-    nvljohn "{a=show:show_chat_media}{image=talay_pic_81}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:5673
 translate zh_Hans talay_mc_storyline_52_d5c45708:
@@ -11622,13 +11622,13 @@ translate zh_Hans talay_mc_storyline_53_e73d7b15:
 translate zh_Hans talay_mc_storyline_53_992e7bc4:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_pic_82}"
-    nvltalay "{a=show:show_chat_media}{image=talay_pic_82}"
+    nvltalay ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:5731
 translate zh_Hans talay_mc_storyline_53_8ab8f4ee:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_pic_83}"
-    nvltalay "{a=show:show_chat_media}{image=talay_pic_83}"
+    nvltalay ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:5734
 translate zh_Hans talay_mc_storyline_53_31b7a17b:
@@ -11682,7 +11682,7 @@ translate zh_Hans talay_mc_storyline_53_7c10f238:
 translate zh_Hans talay_mc_storyline_53_649efa3a:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_pic_84}"
-    nvltalay "{a=show:show_chat_media}{image=talay_pic_84}"
+    nvltalay ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:5754
 translate zh_Hans talay_mc_storyline_53_91bb4dd7:
@@ -11978,7 +11978,7 @@ translate zh_Hans talay_mc_storyline_55_d158624a:
 translate zh_Hans talay_mc_storyline_55_76d63fee:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_video_19_ns}"
-    nvltalay "{a=show:show_chat_media}{image=talay_video_19_ns}"
+    nvltalay ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:5920
 translate zh_Hans talay_mc_storyline_55_10b53248:
@@ -12038,7 +12038,7 @@ translate zh_Hans talay_mc_storyline_55_176531dd:
 translate zh_Hans talay_mc_storyline_55_927e1b80:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_video_20_ns}"
-    nvltalay "{a=show:show_chat_media}{image=talay_video_20_ns}"
+    nvltalay ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:5942
 translate zh_Hans talay_mc_storyline_55_ef5119e6:
@@ -12332,7 +12332,7 @@ translate zh_Hans talay_mc_storyline_58_221f0fe4:
     # nvl clear
     # nvlcecilia "Hey mum, a package just arrived for you here at home."
     nvl clear
-    nvlcecilia "妈，家里刚到了您的包裹。"
+    nvlcecilia "妈，家里刚到了你的包裹。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:6137
 translate zh_Hans talay_mc_storyline_58_90a37bb0:
@@ -12448,7 +12448,7 @@ translate zh_Hans talay_mc_storyline_59_c81697f0:
 translate zh_Hans talay_mc_storyline_59_b4693ce6:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_pic_85}"
-    nvltalay "{a=show:show_chat_media}{image=talay_pic_85}"
+    nvltalay ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:6210
 translate zh_Hans talay_mc_storyline_59_408485f1:
@@ -12862,7 +12862,7 @@ translate zh_Hans talay_mc_storyline_62_8c9d4859:
 translate zh_Hans talay_mc_storyline_62_591caeb1:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_video_21_ns}"
-    nvljohn "{a=show:show_chat_media}{image=talay_video_21_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:6447
 translate zh_Hans talay_mc_storyline_62_21442512:
@@ -13032,7 +13032,7 @@ translate zh_Hans talay_mc_storyline_63_ecbf8670:
 translate zh_Hans talay_mc_storyline_63_53493ba5:
 
     # nvlsalim "Thanks for understanding."
-    nvlsalim "谢谢您的理解。"
+    nvlsalim "谢谢你的理解。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:6546
 translate zh_Hans talay_mc_storyline_63_c57d1838:
@@ -13332,7 +13332,7 @@ translate zh_Hans talay_mc_storyline_66_bb8bf1b4:
 translate zh_Hans talay_mc_storyline_66_a0e4fc41:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_pic_86}"
-    nvltalay "{a=show:show_chat_media}{image=talay_pic_86}"
+    nvltalay ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:6755
 translate zh_Hans talay_mc_storyline_66_e9ed13b6:
@@ -13650,7 +13650,7 @@ translate zh_Hans talay_mc_storyline_69_9fb59306:
 translate zh_Hans talay_mc_storyline_69_b734184b:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_pic_87}"
-    nvltalay "{a=show:show_chat_media}{image=talay_pic_87}"
+    nvltalay ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:6960
 translate zh_Hans talay_mc_storyline_69_408485f1:
@@ -13686,13 +13686,13 @@ translate zh_Hans talay_mc_storyline_69_6e100e4e:
 translate zh_Hans talay_mc_storyline_69_70ba8697:
 
     # nvljohn "{a=show:show_chat_media}{image=mc_pic_76}"
-    nvljohn "{a=show:show_chat_media}{image=mc_pic_76}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:6975
 translate zh_Hans talay_mc_storyline_69_9dee7480:
 
     # nvljohn "{a=show:show_chat_media}{image=mc_pic_77}"
-    nvljohn "{a=show:show_chat_media}{image=mc_pic_77}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:6978
 translate zh_Hans talay_mc_storyline_69_a92cb9e1:
@@ -13716,7 +13716,7 @@ translate zh_Hans talay_mc_storyline_69_6ef422ad:
 translate zh_Hans talay_mc_storyline_69_86134a7a:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_video_22_ns}"
-    nvltalay "{a=show:show_chat_media}{image=talay_video_22_ns}"
+    nvltalay ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:6988
 translate zh_Hans talay_mc_storyline_69_34a142e4:
@@ -13734,7 +13734,7 @@ translate zh_Hans talay_mc_storyline_69_cec942f4:
 translate zh_Hans talay_mc_storyline_69_c5d64817:
 
     # nvljohn "{a=show:show_chat_media}{image=mc_video_40_ns}"
-    nvljohn "{a=show:show_chat_media}{image=mc_video_40_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:6996
 translate zh_Hans talay_mc_storyline_69_656c3764:
@@ -13764,7 +13764,7 @@ translate zh_Hans talay_mc_storyline_69_52e3f35b:
 translate zh_Hans talay_mc_storyline_69_89a7cbe8:
 
     # nvljohn "{a=show:show_chat_media}{image=mc_pic_78}"
-    nvljohn "{a=show:show_chat_media}{image=mc_pic_78}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:7008
 translate zh_Hans talay_mc_storyline_69_2b09a0cd:
@@ -13782,7 +13782,7 @@ translate zh_Hans talay_mc_storyline_69_0883b69c:
 translate zh_Hans talay_mc_storyline_69_73e516cc:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_pic_88}"
-    nvltalay "{a=show:show_chat_media}{image=talay_pic_88}"
+    nvltalay ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:7016
 translate zh_Hans talay_mc_storyline_69_62f56e6e:
@@ -14046,7 +14046,7 @@ translate zh_Hans talay_mc_storyline_72_b8a4b03e:
 translate zh_Hans talay_mc_storyline_72_7042f860:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_video_23_ns}"
-    nvljohn "{a=show:show_chat_media}{image=talay_video_23_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:7203
 translate zh_Hans talay_mc_storyline_72_c8bbdede:
@@ -14922,7 +14922,7 @@ translate zh_Hans talay_mc_storyline_78_181e15c5:
 translate zh_Hans talay_mc_storyline_78_5c5d2064:
 
     # nvlunknown "{a=show:show_chat_media}{image=talay_video_24_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=talay_video_24_ns}"
+    nvlunknown ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:7691
 translate zh_Hans talay_mc_storyline_78_29611012:
@@ -15014,7 +15014,7 @@ translate zh_Hans talay_mc_storyline_79_b9beb531:
 translate zh_Hans talay_mc_storyline_79_bc0dadeb:
 
     # nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_78}"
-    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_78}"
+    nvlcecilia ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:7756
 translate zh_Hans talay_mc_storyline_79_e5fb9c29:
@@ -15594,7 +15594,7 @@ translate zh_Hans talay_mc_storyline_84_f026c315:
 translate zh_Hans talay_mc_storyline_84_ad1792e6:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_video_25_ns}"
-    nvljohn "{a=show:show_chat_media}{image=talay_video_25_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:8115
 translate zh_Hans talay_mc_storyline_84_a85f49e2:
@@ -15968,7 +15968,7 @@ translate zh_Hans talay_mc_storyline_88_5ee1d19b:
 translate zh_Hans talay_mc_storyline_88_870138da:
 
     # nvlcecilia "{a=show:show_chat_media}{image=bbc_video_82_ns}"
-    nvlcecilia "{a=show:show_chat_media}{image=bbc_video_82_ns}"
+    nvlcecilia ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:8371
 translate zh_Hans talay_mc_storyline_88_be4a8c34:
@@ -16102,7 +16102,7 @@ translate zh_Hans talay_mc_storyline_89_7f41cc2e:
 translate zh_Hans talay_mc_storyline_89_165b464e:
 
     # nvlcecilia "Thank you so much for the mall tour and for coming into the store with me."
-    nvlcecilia "非常感谢您陪我参观商场，也感谢您陪我进店。"
+    nvlcecilia "非常感谢你陪我参观商场，也感谢你陪我进店。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:8448
 translate zh_Hans talay_mc_storyline_89_da09c00b:
@@ -16120,7 +16120,7 @@ translate zh_Hans talay_mc_storyline_89_0218ace7:
 translate zh_Hans talay_mc_storyline_89_4350cdc3:
 
     # nvlcecilia "❤️"
-    nvlcecilia "❤️|❤️"
+    nvlcecilia "❤️|"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:8468
 translate zh_Hans talay_mc_storyline_89_53c71d7c:
@@ -16220,7 +16220,7 @@ translate zh_Hans talay_mc_storyline_91_b1c6c346:
 translate zh_Hans talay_mc_storyline_91_074b08a8:
 
     # nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_79}"
-    nvlcecilia "{a=show:show_chat_media}{image=cecilia_pic_79}"
+    nvlcecilia ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:8554
 translate zh_Hans talay_mc_storyline_91_a8fb8862:
@@ -16492,7 +16492,7 @@ translate zh_Hans talay_mc_storyline_93_7a269681:
 translate zh_Hans talay_mc_storyline_93_73d7087a:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_video_45_ns}"
-    nvljohn "{a=show:show_chat_media}{image=talay_video_45_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:8717
 translate zh_Hans talay_mc_storyline_93_3e1f7b37:
@@ -16644,7 +16644,7 @@ translate zh_Hans talay_mc_storyline_94_c847ff59:
 translate zh_Hans talay_mc_storyline_94_959662ee:
 
     # nvlcecilia "{a=show:show_chat_media}{image=talay_video_46_ns}"
-    nvlcecilia "{a=show:show_chat_media}{image=talay_video_46_ns}"
+    nvlcecilia ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:8804
 translate zh_Hans talay_mc_storyline_94_eb544116:
@@ -16820,7 +16820,7 @@ translate zh_Hans talay_mc_storyline_95_b318b8ff:
 translate zh_Hans talay_mc_storyline_95_c47c576e:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_video_47_ns}"
-    nvljohn "{a=show:show_chat_media}{image=talay_video_47_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:8899
 translate zh_Hans talay_mc_storyline_95_79a6e366:
@@ -17096,7 +17096,7 @@ translate zh_Hans talay_mc_storyline_98_32841a96:
 translate zh_Hans talay_mc_storyline_98_b0a9ddbc:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_video_48_ns}"
-    nvltalay "{a=show:show_chat_media}{image=talay_video_48_ns}"
+    nvltalay ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:9094
 translate zh_Hans talay_mc_storyline_98_ef181a43:
@@ -17280,7 +17280,7 @@ translate zh_Hans talay_mc_storyline_100_ce567489:
 translate zh_Hans talay_mc_storyline_100_25839eec:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_video_49_ns}"
-    nvltalay "{a=show:show_chat_media}{image=talay_video_49_ns}"
+    nvltalay ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:9227
 translate zh_Hans talay_mc_storyline_100_a91cb8b3:
@@ -17378,7 +17378,7 @@ translate zh_Hans talay_mc_storyline_101_280c5ec2:
 translate zh_Hans talay_mc_storyline_101_275df1c8:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_video_50_ns}"
-    nvltalay "{a=show:show_chat_media}{image=talay_video_50_ns}"
+    nvltalay ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:9296
 translate zh_Hans talay_mc_storyline_101_d3786bd9:
@@ -17636,7 +17636,7 @@ translate zh_Hans talay_mc_storyline_104_f2242984:
 translate zh_Hans talay_mc_storyline_104_835e5bab:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_video_51_ns}"
-    nvljohn "{a=show:show_chat_media}{image=talay_video_51_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:9486
 translate zh_Hans talay_mc_storyline_104_506eb7b2:
@@ -17820,7 +17820,7 @@ translate zh_Hans talay_mc_storyline_106_038d2345:
 translate zh_Hans talay_mc_storyline_106_498000fe:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_pic_96}"
-    nvltalay "{a=show:show_chat_media}{image=talay_pic_96}"
+    nvltalay ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:9617
 translate zh_Hans talay_mc_storyline_106_822edbd5:
@@ -18428,7 +18428,7 @@ translate zh_Hans talay_mc_storyline_113_019c4d30:
 translate zh_Hans talay_mc_storyline_113_514f05d5:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_video_52_ns}"
-    nvljohn "{a=show:show_chat_media}{image=talay_video_52_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10056
 translate zh_Hans talay_mc_storyline_113_f146c832:
@@ -18514,7 +18514,7 @@ translate zh_Hans talay_mc_storyline_114_fef88729:
 translate zh_Hans talay_mc_storyline_114_0e4b6e81:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_video_53_ns}"
-    nvltalay "{a=show:show_chat_media}{image=talay_video_53_ns}"
+    nvltalay ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10122
 translate zh_Hans talay_mc_storyline_114_b58359c6:
@@ -19874,7 +19874,7 @@ translate zh_Hans talay_mc_storyline_125_50d1b8e7:
 translate zh_Hans talay_mc_storyline_125_f84bf235:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_pic_97}"
-    nvltalay "{a=show:show_chat_media}{image=talay_pic_97}|{a=show:show_chat_media}{image=talay_pic_97}"
+    nvltalay "{a=show:show_chat_media}{image=talay_pic_97}|"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10945
 translate zh_Hans talay_mc_storyline_125_74af4ff2:
@@ -20656,7 +20656,7 @@ translate zh_Hans talay_mc_storyline_132_ce18a2d8:
 translate zh_Hans talay_mc_storyline_132_75c0e275:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_pic_98}"
-    nvltalay "{a=show:show_chat_media}{image=talay_pic_98}"
+    nvltalay ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:11442
 translate zh_Hans talay_mc_storyline_132_c2388a52:
@@ -20790,7 +20790,7 @@ translate zh_Hans talay_mc_storyline_133_813da1e1:
 translate zh_Hans talay_mc_storyline_133_75c0e275:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_pic_98}"
-    nvltalay "{a=show:show_chat_media}{image=talay_pic_98}"
+    nvltalay ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:11524
 translate zh_Hans talay_mc_storyline_133_ce769e66:
@@ -20960,7 +20960,7 @@ translate zh_Hans talay_mc_storyline_134_43397092:
 translate zh_Hans talay_mc_storyline_134_e60586a2:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_pic_99}"
-    nvltalay "{a=show:show_chat_media}{image=talay_pic_99}"
+    nvltalay ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:11618
 translate zh_Hans talay_mc_storyline_134_e78d9fc1:
@@ -21548,7 +21548,7 @@ translate zh_Hans talay_mc_storyline_140_5671ec02:
 translate zh_Hans talay_mc_storyline_140_7f28977d:
 
     # nvltalay "{a=show:show_chat_media}{image=talay_video_54_ns}"
-    nvltalay "{a=show:show_chat_media}{image=talay_video_54_ns}"
+    nvltalay ""
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:12017
 translate zh_Hans talay_mc_storyline_140_6089bf8a:
@@ -21664,7 +21664,7 @@ translate zh_Hans talay_mc_storyline_141_0bb23cd3:
 translate zh_Hans talay_mc_storyline_141_add7f164:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_video_55_ns}"
-    nvljohn "{a=show:show_chat_media}{image=talay_video_55_ns}|{a=show:show_chat_media}{image=talay_video_55_ns}"
+    nvljohn "{a=show:show_chat_media}{image=talay_video_55_ns}|"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:12092
 translate zh_Hans talay_mc_storyline_141_45041593:
@@ -21768,7 +21768,7 @@ translate zh_Hans talay_mc_storyline_142_c43fcb02:
 translate zh_Hans talay_mc_storyline_142_57195c75:
 
     # nvlcecilia "{a=show:show_chat_media}{image=cecilia_video_24_ns}"
-    nvlcecilia "{a=show:show_chat_media}{image=cecilia_video_24_ns}|{a=show:show_chat_media}{image=cecilia_video_24_ns}"
+    nvlcecilia "{a=show:show_chat_media}{image=cecilia_video_24_ns}|"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:12165
 translate zh_Hans talay_mc_storyline_142_7ef1e4bd:

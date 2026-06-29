@@ -78,7 +78,7 @@ translate zh_Hans paula_storyline_10_efe319e2:
 translate zh_Hans paula_storyline_10_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:175
 translate zh_Hans paula_storyline_10_faf3dea3:
@@ -366,7 +366,7 @@ translate zh_Hans paula_storyline_10_338df687:
 translate zh_Hans paula_storyline_10_9396953e:
 
     # nvlpaul "{a=show:show_chat_media}{image=paul_pic_3}"
-    nvlpaul "{a=show:show_chat_media}{image=paul_pic_3}"
+    nvlpaul ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:275
 translate zh_Hans paula_storyline_10_d5731e3e:
@@ -762,7 +762,7 @@ translate zh_Hans paula_storyline_11_76b2fe88:
 translate zh_Hans paula_storyline_11_9eec5fa2:
 
     # nvlpaul "{a=show:show_chat_media}{image=paul_pic_4}"
-    nvlpaul "{a=show:show_chat_media}{image=paul_pic_4}"
+    nvlpaul ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:453
 translate zh_Hans paula_storyline_11_01c1eee9:
@@ -780,7 +780,7 @@ translate zh_Hans paula_storyline_11_55605d5a:
 translate zh_Hans paula_storyline_11_fc5ab141:
 
     # nvlpaul "{a=show:show_chat_media}{image=paul_pic_5}"
-    nvlpaul "{a=show:show_chat_media}{image=paul_pic_5}"
+    nvlpaul ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:463
 translate zh_Hans paula_storyline_11_72096ea6:
@@ -1196,7 +1196,7 @@ translate zh_Hans paula_storyline_12_c8ede41c:
 translate zh_Hans paula_storyline_12_f52493ec:
 
     # nvljulia "😊"
-    nvljulia "😊|😊"
+    nvljulia "😊|"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:629
 translate zh_Hans paula_storyline_12_d95b454b:
@@ -1400,7 +1400,7 @@ translate zh_Hans paula_storyline_12_fc7d57fa:
 translate zh_Hans paula_storyline_12_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:697
 translate zh_Hans paula_storyline_12_7e891aaf:
@@ -1418,7 +1418,7 @@ translate zh_Hans paula_storyline_12_d1872738:
 translate zh_Hans paula_storyline_12_df6ebd10:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_37}"
-    nvljulia "{a=show:show_chat_media}{image=julia_pic_37}"
+    nvljulia ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:707
 translate zh_Hans paula_storyline_12_87be12ce:
@@ -1460,7 +1460,7 @@ translate zh_Hans paula_storyline_12_a29d172e:
 translate zh_Hans paula_storyline_12_7da7a117:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_38}"
-    nvljulia "{a=show:show_chat_media}{image=julia_pic_38}"
+    nvljulia ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:725
 translate zh_Hans paula_storyline_12_4fe2e00d:
@@ -1816,7 +1816,7 @@ translate zh_Hans paula_storyline_13_bd956dcc:
 translate zh_Hans paula_storyline_13_7b7c38ff:
 
     # nvlpaul "list.cvc"
-    nvlpaul "list.cvc"
+    nvlpaul ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:872
 translate zh_Hans paula_storyline_13_5ddd1f23:
@@ -2512,7 +2512,7 @@ translate zh_Hans paula_storyline_16_338df687:
 translate zh_Hans paula_storyline_16_9efdd3ee:
 
     # nvlpaul "{a=show:show_chat_media}{image=paul_pic_6}"
-    nvlpaul "{a=show:show_chat_media}{image=paul_pic_6}"
+    nvlpaul ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:1208
 translate zh_Hans paula_storyline_16_d5731e3e:
@@ -2964,7 +2964,7 @@ translate zh_Hans paula_storyline_17_ab0c655c:
 translate zh_Hans paula_storyline_17_da238ac7:
 
     # nvljohn "{a=show:show_chat_media}{image=paul_pic_7}"
-    nvljohn "{a=show:show_chat_media}{image=paul_pic_7}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:1391
 translate zh_Hans paula_storyline_17_e2cb30ff:
@@ -2982,7 +2982,7 @@ translate zh_Hans paula_storyline_17_9aec8376:
 translate zh_Hans paula_storyline_17_6c911ce5:
 
     # nvljohn "{a=show:show_chat_media}{image=paul_pic_8}"
-    nvljohn "{a=show:show_chat_media}{image=paul_pic_8}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:1401
 translate zh_Hans paula_storyline_17_63f7aaea:
@@ -3144,7 +3144,7 @@ translate zh_Hans paula_storyline_17_2cb9b92a:
 translate zh_Hans paula_storyline_17_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:1455
 translate zh_Hans paula_storyline_17_ab601b02:
@@ -3336,7 +3336,7 @@ translate zh_Hans paula_storyline_17_c92a2d0a:
 translate zh_Hans paula_storyline_17_fae9b579:
 
     # nvlpaul "{a=show:show_chat_media}{image=paul_pic_9}"
-    nvlpaul "{a=show:show_chat_media}{image=paul_pic_9}"
+    nvlpaul ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:1523
 translate zh_Hans paula_storyline_17_611b4796:
@@ -3486,7 +3486,7 @@ translate zh_Hans paula_storyline_17_cfdd836f:
 translate zh_Hans paula_storyline_17_8b42cdbe:
 
     # nvlpaul "{a=show:show_chat_media}{image=paul_pic_10}"
-    nvlpaul "{a=show:show_chat_media}{image=paul_pic_10}"
+    nvlpaul ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:1577
 translate zh_Hans paula_storyline_17_250329f4:
@@ -3812,7 +3812,7 @@ translate zh_Hans paula_storyline_18_31d92dc7:
 translate zh_Hans paula_storyline_18_82363dba:
 
     # nvlpaul "deals_10.cvc"
-    nvlpaul "deals_10.cvc"
+    nvlpaul ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:1714
 translate zh_Hans paula_storyline_18_948271ca:
@@ -4304,7 +4304,7 @@ translate zh_Hans paula_storyline_21_5a840b46:
 translate zh_Hans paula_storyline_21_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:1978
 translate zh_Hans paula_storyline_21_b570663f:
@@ -4424,7 +4424,7 @@ translate zh_Hans paula_storyline_21_37a6d274:
 translate zh_Hans paula_storyline_21_af053694:
 
     # nvlpaul "{a=show:show_chat_media}{image=paul_pic_11}"
-    nvlpaul "{a=show:show_chat_media}{image=paul_pic_11}"
+    nvlpaul ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:2022
 translate zh_Hans paula_storyline_21_ca7674dd:
@@ -4624,7 +4624,7 @@ translate zh_Hans paula_storyline_22_a72246a2:
 translate zh_Hans paula_storyline_22_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:2117
 translate zh_Hans paula_storyline_22_30b7cf0c:
@@ -5480,7 +5480,7 @@ translate zh_Hans paula_storyline_24_b0525804:
 translate zh_Hans paula_storyline_24_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:2460
 translate zh_Hans paula_storyline_24_461d94f2:
@@ -5648,7 +5648,7 @@ translate zh_Hans paula_storyline_24_1617caf3:
 translate zh_Hans paula_storyline_24_5deb35b3:
 
     # nvlpaul "{a=show:show_chat_media}{image=paul_pic_13}"
-    nvlpaul "{a=show:show_chat_media}{image=paul_pic_13}"
+    nvlpaul ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:2520
 translate zh_Hans paula_storyline_24_d5731e3e:
@@ -5726,7 +5726,7 @@ translate zh_Hans paula_storyline_24_2206de04:
 translate zh_Hans paula_storyline_24_e86e7586:
 
     # nvlpaul "{a=show:show_chat_media}{image=paul_pic_14}"
-    nvlpaul "{a=show:show_chat_media}{image=paul_pic_14}"
+    nvlpaul ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:2550
 translate zh_Hans paula_storyline_24_01a8aa4c:
@@ -6130,7 +6130,7 @@ translate zh_Hans paula_storyline_25_8e25964b:
 translate zh_Hans paula_storyline_25_af475192:
 
     # nvlpaul "{a=show:show_chat_media}{image=paul_pic_15}"
-    nvlpaul "{a=show:show_chat_media}{image=paul_pic_15}"
+    nvlpaul ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:2717
 translate zh_Hans paula_storyline_25_2eaca473:
@@ -6692,7 +6692,7 @@ translate zh_Hans paula_storyline_27_35260a13:
 translate zh_Hans paula_storyline_27_59251a0b:
 
     # nvlpaul "new_document.docx"
-    nvlpaul "new_document.docx"
+    nvlpaul ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:2961
 translate zh_Hans paula_storyline_27_9d151b8f:
@@ -6842,7 +6842,7 @@ translate zh_Hans paula_storyline_28_76b2fe88:
 translate zh_Hans paula_storyline_28_d149fe60:
 
     # nvlpaul "{a=show:show_chat_media}{image=paul_pic_17}"
-    nvlpaul "{a=show:show_chat_media}{image=paul_pic_17}"
+    nvlpaul ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:3043
 translate zh_Hans paula_storyline_28_44b198cf:
@@ -6860,7 +6860,7 @@ translate zh_Hans paula_storyline_28_2640bb49:
 translate zh_Hans paula_storyline_28_79f323ad:
 
     # nvlpaul "{a=show:show_chat_media}{image=paul_pic_18}"
-    nvlpaul "{a=show:show_chat_media}{image=paul_pic_18}"
+    nvlpaul ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:3053
 translate zh_Hans paula_storyline_28_88166076:
@@ -7354,7 +7354,7 @@ translate zh_Hans paula_storyline_29_d1b140ba:
 translate zh_Hans paula_storyline_29_5d0a62d2:
 
     # nvlpaul "{a=show:show_chat_media}{image=paul_pic_16}"
-    nvlpaul "{a=show:show_chat_media}{image=paul_pic_16}"
+    nvlpaul ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:3265
 translate zh_Hans paula_storyline_29_57fb53df:
@@ -7372,7 +7372,7 @@ translate zh_Hans paula_storyline_29_427f4531:
 translate zh_Hans paula_storyline_29_6468c908:
 
     # nvlpaul "{a=show:show_chat_media}{image=paul_pic_19}"
-    nvlpaul "{a=show:show_chat_media}{image=paul_pic_19}"
+    nvlpaul ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:3275
 translate zh_Hans paula_storyline_29_05a61564:
@@ -7396,7 +7396,7 @@ translate zh_Hans paula_storyline_29_880886bc:
 translate zh_Hans paula_storyline_29_773ba0f8:
 
     # nvlpaul "{a=show:show_chat_media}{image=paul_pic_20}"
-    nvlpaul "{a=show:show_chat_media}{image=paul_pic_20}"
+    nvlpaul ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:3287
 translate zh_Hans paula_storyline_29_6794bf7c:
@@ -7528,7 +7528,7 @@ translate zh_Hans paula_storyline_29_35001e0c:
 translate zh_Hans paula_storyline_29_c20c0826:
 
     # nvlpaul "😊"
-    nvlpaul "😊|😊"
+    nvlpaul "😊|"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:3331
 translate zh_Hans paula_storyline_29_e096200b:
@@ -7654,7 +7654,7 @@ translate zh_Hans paula_storyline_29_90046cff:
 translate zh_Hans paula_storyline_29_912bc997:
 
     # nvlpaul "{a=show:show_chat_media}{image=paul_pic_21}"
-    nvlpaul "{a=show:show_chat_media}{image=paul_pic_21}"
+    nvlpaul ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:3377
 translate zh_Hans paula_storyline_29_778b71fd:
@@ -7672,7 +7672,7 @@ translate zh_Hans paula_storyline_29_d97a79ab:
 translate zh_Hans paula_storyline_29_a22c1bee:
 
     # nvlpaul "{a=show:show_chat_media}{image=paul_pic_22}"
-    nvlpaul "{a=show:show_chat_media}{image=paul_pic_22}"
+    nvlpaul ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:3387
 translate zh_Hans paula_storyline_29_b3cc6569:
@@ -8378,7 +8378,7 @@ translate zh_Hans paula_storyline_31_d167b6fc:
 translate zh_Hans paula_storyline_31_0255da19:
 
     # nvlpaul "{a=show:show_chat_media}{image=paul_pic_23}"
-    nvlpaul "{a=show:show_chat_media}{image=paul_pic_23}"
+    nvlpaul ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:3682
 translate zh_Hans paula_storyline_31_acacc449:
@@ -9048,7 +9048,7 @@ translate zh_Hans paula_storyline_33_e8552411:
 translate zh_Hans paula_storyline_33_0fb977a1:
 
     # nvljohn "Well, it's your choice"
-    nvljohn "嗯，这是您的选择"
+    nvljohn "嗯，这是你的选择"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:3982
 translate zh_Hans paula_storyline_33_3024adfd:
@@ -9120,7 +9120,7 @@ translate zh_Hans paula_storyline_34_76b2fe88:
 translate zh_Hans paula_storyline_34_8f7e0fba:
 
     # nvlfpaul "{a=show:show_chat_media}{image=paul_pic_24}"
-    nvlfpaul "{a=show:show_chat_media}{image=paul_pic_24}"
+    nvlfpaul ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:4040
 translate zh_Hans paula_storyline_34_7ec3e2e3:
@@ -9508,7 +9508,7 @@ translate zh_Hans paula_storyline_36_f1bd9d92:
 translate zh_Hans paula_storyline_36_0de32022:
 
     # nvljohn "{a=show:show_chat_media}{image=paul_pic_25}"
-    nvljohn "{a=show:show_chat_media}{image=paul_pic_25}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:4235
 translate zh_Hans paula_storyline_36_b029f5e7:
@@ -10874,7 +10874,7 @@ translate zh_Hans paula_storyline_39_9fd7fc65:
 translate zh_Hans paula_storyline_39_c6215361:
 
     # nvlunknown "{a=show:show_chat_media}{image=paula_video_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=paula_video_1_ns}|{a=show:show_chat_media}{image=paula_video_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=paula_video_1_ns}|"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:4844
 translate zh_Hans paula_storyline_39_a378835c:
@@ -10892,7 +10892,7 @@ translate zh_Hans paula_storyline_39_4cdc7732:
 translate zh_Hans paula_storyline_39_8d1a9304:
 
     # nvlunknown "{a=show:show_chat_media}{image=paula_video_2_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=paula_video_2_ns}|{a=show:show_chat_media}{image=paula_video_2_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=paula_video_2_ns}|"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:4854
 translate zh_Hans paula_storyline_39_aae59693:
@@ -10916,7 +10916,7 @@ translate zh_Hans paula_storyline_39_5918d2ed:
 translate zh_Hans paula_storyline_39_4545bbca:
 
     # nvlunknown "{a=show:show_chat_media}{image=paula_video_3_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=paula_video_3_ns}|{a=show:show_chat_media}{image=paula_video_3_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=paula_video_3_ns}|"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:4866
 translate zh_Hans paula_storyline_39_e221f260:
@@ -11980,7 +11980,7 @@ translate zh_Hans paula_storyline_43_0882d786:
 translate zh_Hans paula_storyline_43_23f4084d:
 
     # nvlfpaul "{a=show:show_chat_media}{image=paul_pic_26}"
-    nvlfpaul "{a=show:show_chat_media}{image=paul_pic_26}|{a=show:show_chat_media}{image=paul_pic_26}"
+    nvlfpaul "{a=show:show_chat_media}{image=paul_pic_26}|"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5379
 translate zh_Hans paula_storyline_43_acacc449:
@@ -12148,7 +12148,7 @@ translate zh_Hans paula_storyline_44_76b2fe88:
 translate zh_Hans paula_storyline_44_c8117fe6:
 
     # nvlfpaul "{a=show:show_chat_media}{image=paul_pic_27}"
-    nvlfpaul "{a=show:show_chat_media}{image=paul_pic_27}|{a=show:show_chat_media}{image=paul_pic_27}"
+    nvlfpaul "{a=show:show_chat_media}{image=paul_pic_27}|"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5468
 translate zh_Hans paula_storyline_44_7ec3e2e3:
@@ -12244,7 +12244,7 @@ translate zh_Hans paula_storyline_44_d018e5e6:
 translate zh_Hans paula_storyline_44_7b92a371:
 
     # nvlfpaul "{a=show:show_chat_media}{image=paul_pic_28}"
-    nvlfpaul "{a=show:show_chat_media}{image=paul_pic_28}|{a=show:show_chat_media}{image=paul_pic_28}"
+    nvlfpaul "{a=show:show_chat_media}{image=paul_pic_28}|"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5504
 translate zh_Hans paula_storyline_44_13cccf9c:
@@ -12262,7 +12262,7 @@ translate zh_Hans paula_storyline_44_241a8845:
 translate zh_Hans paula_storyline_44_12a265fd:
 
     # nvlfpaul "{a=show:show_chat_media}{image=paul_pic_29}"
-    nvlfpaul "{a=show:show_chat_media}{image=paul_pic_29}|{a=show:show_chat_media}{image=paul_pic_29}"
+    nvlfpaul "{a=show:show_chat_media}{image=paul_pic_29}|"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5514
 translate zh_Hans paula_storyline_44_6748fb50:
@@ -12752,7 +12752,7 @@ translate zh_Hans paula_storyline_46_2b5a0271:
 translate zh_Hans paula_storyline_46_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5738
 translate zh_Hans paula_storyline_46_d0d32b9c:
@@ -12908,7 +12908,7 @@ translate zh_Hans paula_storyline_46_87fd99e8:
 translate zh_Hans paula_storyline_46_d9c5402b:
 
     # nvlfpaul "😉"
-    nvlfpaul "😉|😉"
+    nvlfpaul "😉|"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5790
 translate zh_Hans paula_storyline_46_50c555cf:
@@ -13548,7 +13548,7 @@ translate zh_Hans paula_storyline_48_5a543029:
 translate zh_Hans paula_storyline_48_48557239:
 
     # nvlfpaul "{a=show:show_chat_media}{image=paul_pic_30}"
-    nvlfpaul "{a=show:show_chat_media}{image=paul_pic_30}|{a=show:show_chat_media}{image=paul_pic_30}"
+    nvlfpaul "{a=show:show_chat_media}{image=paul_pic_30}|"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6068
 translate zh_Hans paula_storyline_48_11413c22:
@@ -13584,7 +13584,7 @@ translate zh_Hans paula_storyline_48_087241c2_1:
 translate zh_Hans paula_storyline_48_f9ba55cb:
 
     # nvlfpaul "{a=show:show_chat_media}{image=paul_pic_31}"
-    nvlfpaul "{a=show:show_chat_media}{image=paul_pic_31}|{a=show:show_chat_media}{image=paul_pic_31}"
+    nvlfpaul "{a=show:show_chat_media}{image=paul_pic_31}|"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6084
 translate zh_Hans paula_storyline_48_cb9baffe:
@@ -13728,7 +13728,7 @@ translate zh_Hans paula_storyline_48_89b3c5ca:
 translate zh_Hans paula_storyline_48_721b42e3:
 
     # nvljohn "😉"
-    nvljohn "😉|😉"
+    nvljohn "😉|"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6144
 translate zh_Hans paula_storyline_48_53c71d7c:
@@ -13904,7 +13904,7 @@ translate zh_Hans paula_storyline_49_fb179ead:
 translate zh_Hans paula_storyline_49_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6221
 translate zh_Hans paula_storyline_49_bb378ebb:
@@ -16568,7 +16568,7 @@ translate zh_Hans paula_storyline_51_67b0ba67:
 translate zh_Hans paula_storyline_51_a3f62dc1:
 
     # nvlunknown "We can show it to you if you want 😊"
-    nvlunknown "如果您想看的话，我们可以给您看😊"
+    nvlunknown "如果你想看的话，我们可以给你看😊"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:7412
 translate zh_Hans paula_storyline_51_ee634f87:
@@ -16592,7 +16592,7 @@ translate zh_Hans paula_storyline_51_338df687:
 translate zh_Hans paula_storyline_51_c181ffe8:
 
     # nvlunknown "{a=show:show_chat_media}{image=paula_video_4_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=paula_video_4_ns}|{a=show:show_chat_media}{image=paula_video_4_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=paula_video_4_ns}|"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:7424
 translate zh_Hans paula_storyline_51_4c0bac22:
@@ -16652,7 +16652,7 @@ translate zh_Hans paula_storyline_51_60bb5741:
 translate zh_Hans paula_storyline_51_0c212bfe:
 
     # nvlunknown "Have a nice evening, Mr [mc_name_is]"
-    nvlunknown "祝您有个愉快的夜晚，[mc_name_is] 先生"
+    nvlunknown "祝你有个愉快的夜晚，[mc_name_is] 先生"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:7444
 translate zh_Hans paula_storyline_51_ecdb3e0d:
@@ -17148,7 +17148,7 @@ translate zh_Hans paula_storyline_51_b2808d42:
 translate zh_Hans paula_storyline_51_f8b3ef02:
 
     # nvlunknown "{a=show:show_chat_media}{image=paula_video_8_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=paula_video_8_ns}|{a=show:show_chat_media}{image=paula_video_8_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=paula_video_8_ns}|"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:7670
 translate zh_Hans paula_storyline_51_c8af5b12:
@@ -17166,13 +17166,13 @@ translate zh_Hans paula_storyline_51_bc544011:
 translate zh_Hans paula_storyline_51_f19aab5c:
 
     # nvlunknown "{a=show:show_chat_media}{image=paula_video_9_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=paula_video_9_ns}|{a=show:show_chat_media}{image=paula_video_9_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=paula_video_9_ns}|"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:7680
 translate zh_Hans paula_storyline_51_fee85715:
 
     # nvlunknown "We hope you enjoy the videos 😉"
-    nvlunknown "希望您喜欢这些视频 😉"
+    nvlunknown "希望你喜欢这些视频 😉"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:7682
 translate zh_Hans paula_storyline_51_c0d86542:
@@ -18262,7 +18262,7 @@ translate zh_Hans paula_storyline_53_f60b0505:
 translate zh_Hans paula_storyline_53_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:8124
 translate zh_Hans paula_storyline_53_ac562c56:
@@ -18462,7 +18462,7 @@ translate zh_Hans paula_storyline_54_2227f116:
 translate zh_Hans paula_storyline_54_0dfec622:
 
     # nvlfpaul "😊"
-    nvlfpaul "😊|😊"
+    nvlfpaul "😊|"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:8221
 translate zh_Hans paula_storyline_54_b2232d91:
@@ -18642,7 +18642,7 @@ translate zh_Hans paula_storyline_54_79af53a9:
 translate zh_Hans paula_storyline_54_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:8281
 translate zh_Hans paula_storyline_54_1d7feb47:
@@ -19144,7 +19144,7 @@ translate zh_Hans paula_storyline_56_7b3d814e:
 translate zh_Hans paula_storyline_56_8ad7959d:
 
     # nvlfpaul "{a=show:show_chat_media}{image=paul_pic_32}"
-    nvlfpaul "{a=show:show_chat_media}{image=paul_pic_32}"
+    nvlfpaul ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:8513
 translate zh_Hans paula_storyline_56_acacc449:
@@ -19234,7 +19234,7 @@ translate zh_Hans paula_storyline_57_76b2fe88:
 translate zh_Hans paula_storyline_57_06bab4e1:
 
     # nvlfpaul "{a=show:show_chat_media}{image=paul_pic_33}"
-    nvlfpaul "{a=show:show_chat_media}{image=paul_pic_33}"
+    nvlfpaul ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:8576
 translate zh_Hans paula_storyline_57_1958c6b8:
@@ -19674,7 +19674,7 @@ translate zh_Hans paula_storyline_58_cf6ca0d2:
 translate zh_Hans paula_storyline_58_d09b3002:
 
     # nvlfpaul "Great. What about you?"
-    nvlfpaul "很好。您呢？"
+    nvlfpaul "很好。你呢？"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:8769
 translate zh_Hans paula_storyline_58_564d9626:
@@ -19914,7 +19914,7 @@ translate zh_Hans paula_storyline_58_f1c4ba21:
 translate zh_Hans paula_storyline_58_352a7406:
 
     # nvlfpaul "{a=show:show_chat_media}{image=paul_pic_34}"
-    nvlfpaul "{a=show:show_chat_media}{image=paul_pic_34}"
+    nvlfpaul ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:8853
 translate zh_Hans paula_storyline_58_bb481468:
@@ -19956,7 +19956,7 @@ translate zh_Hans paula_storyline_58_7a09791c:
 translate zh_Hans paula_storyline_58_868fb7a6:
 
     # nvlfpaul "{a=show:show_chat_media}{image=paul_pic_35}"
-    nvlfpaul "{a=show:show_chat_media}{image=paul_pic_35}"
+    nvlfpaul ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:8871
 translate zh_Hans paula_storyline_58_10a94d40:
@@ -20016,7 +20016,7 @@ translate zh_Hans paula_storyline_58_7028def7:
 translate zh_Hans paula_storyline_58_d9c5402b:
 
     # nvlfpaul "😉"
-    nvlfpaul "😉|😉"
+    nvlfpaul "😉|"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:8891
 translate zh_Hans paula_storyline_58_fc8fdaf1:
@@ -20108,7 +20108,7 @@ translate zh_Hans paula_storyline_59_acb7e493:
 translate zh_Hans paula_storyline_59_2d4b8d6e:
 
     # nvlfpaul "{a=show:show_chat_media}{image=paul_pic_36}"
-    nvlfpaul "{a=show:show_chat_media}{image=paul_pic_36}"
+    nvlfpaul ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:8956
 translate zh_Hans paula_storyline_59_0e7884d2:
@@ -20350,7 +20350,7 @@ translate zh_Hans paula_storyline_60_a31677ad:
 translate zh_Hans paula_storyline_60_19b44531:
 
     # nvlfpaul "{a=show:show_chat_media}{image=paula_video_10_ns}"
-    nvlfpaul "{a=show:show_chat_media}{image=paula_video_10_ns}"
+    nvlfpaul ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:9071
 translate zh_Hans paula_storyline_60_4cdc7732:
@@ -20368,7 +20368,7 @@ translate zh_Hans paula_storyline_60_c139fb08:
 translate zh_Hans paula_storyline_60_53411f83:
 
     # nvlfpaul "{a=show:show_chat_media}{image=paula_video_11_ns}"
-    nvlfpaul "{a=show:show_chat_media}{image=paula_video_11_ns}"
+    nvlfpaul ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:9081
 translate zh_Hans paula_storyline_60_5ddd1f23:
@@ -20994,7 +20994,7 @@ translate zh_Hans paula_storyline_61_a53de4c2:
 translate zh_Hans paula_storyline_61_0dfec622:
 
     # nvlfpaul "😊"
-    nvlfpaul "😊|😊"
+    nvlfpaul "😊|"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:9320
 translate zh_Hans paula_storyline_61_7ffb3afd:
@@ -21024,7 +21024,7 @@ translate zh_Hans paula_storyline_61_13311e77:
 translate zh_Hans paula_storyline_61_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:9330
 translate zh_Hans paula_storyline_61_796ac752:
@@ -21436,7 +21436,7 @@ translate zh_Hans paula_storyline_64_7c7bba36:
 translate zh_Hans paula_storyline_64_fcf4060d:
 
     # nvljohn "{a=show:show_chat_media}{image=paula_video_12_ns}"
-    nvljohn "{a=show:show_chat_media}{image=paula_video_12_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:9568
 translate zh_Hans paula_storyline_64_0a2f823f:
@@ -21956,7 +21956,7 @@ translate zh_Hans paula_storyline_66_c0709201:
 translate zh_Hans paula_storyline_66_2ba6e566:
 
     # nvlunknown "{a=show:show_chat_media}{image=paula_video_13_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=paula_video_13_ns}"
+    nvlunknown ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:9812
 translate zh_Hans paula_storyline_66_5ebd1f73:
@@ -23186,7 +23186,7 @@ translate zh_Hans paula_storyline_72_9daa96d3:
 translate zh_Hans paula_storyline_72_cdb7728e:
 
     # nvljenna "{a=show:show_chat_media}{image=bbc_video_102_ns}"
-    nvljenna "{a=show:show_chat_media}{image=bbc_video_102_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:10437
 translate zh_Hans paula_storyline_72_378ab1aa:
@@ -23380,7 +23380,7 @@ translate zh_Hans paula_storyline_73_45cc89d3:
 translate zh_Hans paula_storyline_73_0ff588a4:
 
     # nvljohn "{a=show:show_chat_media}{image=paula_video_14_ns}"
-    nvljohn "{a=show:show_chat_media}{image=paula_video_14_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:10551
 translate zh_Hans paula_storyline_73_0a2f823f:
@@ -23410,7 +23410,7 @@ translate zh_Hans paula_storyline_73_758b750f:
 translate zh_Hans paula_storyline_73_35717ce4:
 
     # nvljohn "{a=show:show_chat_media}{image=mc_pic_62}"
-    nvljohn "{a=show:show_chat_media}{image=mc_pic_62}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:10565
 translate zh_Hans paula_storyline_73_c6b0c5b4:
@@ -23548,7 +23548,7 @@ translate zh_Hans paula_storyline_73_da9c2f5e:
 translate zh_Hans paula_storyline_73_ca1f2833:
 
     # nvljohn "😏"
-    nvljohn "😏"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:10611
 translate zh_Hans paula_storyline_73_c148c03e:
@@ -23936,7 +23936,7 @@ translate zh_Hans paula_storyline_75_410db9bd:
 translate zh_Hans paula_storyline_75_67bbf644:
 
     # nvljohn "{a=show:show_chat_media}{image=paula_video_15_ns}"
-    nvljohn "{a=show:show_chat_media}{image=paula_video_15_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:10805
 translate zh_Hans paula_storyline_75_835ff55a:
@@ -24378,7 +24378,7 @@ translate zh_Hans paula_storyline_77_a223e6b7:
 translate zh_Hans paula_storyline_77_658f1309:
 
     # nvljenna "{a=show:show_chat_media}{image=paula_video_16_ns}"
-    nvljenna "{a=show:show_chat_media}{image=paula_video_16_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:11028
 translate zh_Hans paula_storyline_77_ea316945:
@@ -24670,7 +24670,7 @@ translate zh_Hans paula_storyline_79_18f37144:
     # nvl clear
     # nvlunknown "Hello, Mr [mc_name_is]."
     nvl clear
-    nvlunknown "您好，[mc_name_is]先生。"
+    nvlunknown "你好，[mc_name_is]先生。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:11186
 translate zh_Hans paula_storyline_79_9e7b5c5a:
@@ -24876,7 +24876,7 @@ translate zh_Hans paula_storyline_80_9a421aa0:
 translate zh_Hans paula_storyline_80_1d223eb4:
 
     # nvljenna "{a=show:show_chat_media}{image=paula_pic_1}"
-    nvljenna "{a=show:show_chat_media}{image=paula_pic_1}"
+    nvljenna ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:11289
 translate zh_Hans paula_storyline_80_340d716b:
@@ -25960,7 +25960,7 @@ translate zh_Hans paula_storyline_85_3acf2f8e:
 translate zh_Hans paula_storyline_85_29450a91:
 
     # nvlsalim "{a=show:show_chat_media}{image=paula_pic_2}"
-    nvlsalim "{a=show:show_chat_media}{image=paula_pic_2}"
+    nvlsalim ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:11822
 translate zh_Hans paula_storyline_85_7f0f915a:
@@ -26020,7 +26020,7 @@ translate zh_Hans paula_storyline_85_8739b87f:
 translate zh_Hans paula_storyline_85_7cb3100d:
 
     # nvljohn "Vai se foder, Salim."
-    nvljohn "Vai se foder, Salim."
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:11854
 translate zh_Hans paula_storyline_85_53c71d7c:
@@ -26470,7 +26470,7 @@ translate zh_Hans paula_storyline_88_bb076290:
 translate zh_Hans paula_storyline_88_dc415694:
 
     # nvljohn "{a=show:show_chat_media}{image=paula_pic_3}"
-    nvljohn "{a=show:show_chat_media}{image=paula_pic_3}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:12101
 translate zh_Hans paula_storyline_88_5f8a85c3:
@@ -26784,7 +26784,7 @@ translate zh_Hans paula_storyline_89_f94342dc:
 translate zh_Hans paula_storyline_89_d2f7a30f:
 
     # nvljenna "{a=show:show_chat_media}{image=paula_pic_4}"
-    nvljenna "{a=show:show_chat_media}{image=paula_pic_4}"
+    nvljenna ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:12254
 translate zh_Hans paula_storyline_89_1c2e3fc3:
@@ -27124,7 +27124,7 @@ translate zh_Hans paula_storyline_91_08807643:
 translate zh_Hans paula_storyline_91_e1fd385f:
 
     # nvljohn "{a=show:show_chat_media}{image=paula_video_17_ns}"
-    nvljohn "{a=show:show_chat_media}{image=paula_video_17_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:12434
 translate zh_Hans paula_storyline_91_3e72b70e:
@@ -27354,7 +27354,7 @@ translate zh_Hans paula_storyline_92_2eb05d8d:
 translate zh_Hans paula_storyline_92_5a7526ab:
 
     # nvlsalim "{a=show:show_chat_media}{image=paula_video_18_ns}"
-    nvlsalim "{a=show:show_chat_media}{image=paula_video_18_ns}"
+    nvlsalim ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:12545
 translate zh_Hans paula_storyline_92_653c13f9:
@@ -28080,7 +28080,7 @@ translate zh_Hans paula_storyline_95_5da4c63c:
 translate zh_Hans paula_storyline_95_b5617d51:
 
     # nvlpaula_colleague "{a=show:show_chat_media}{image=paula_video_19_ns}"
-    nvlpaula_colleague "{a=show:show_chat_media}{image=paula_video_19_ns}"
+    nvlpaula_colleague ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:12906
 translate zh_Hans paula_storyline_95_2811666b:
@@ -28184,7 +28184,7 @@ translate zh_Hans paula_storyline_96_5b579531:
 translate zh_Hans paula_storyline_96_2b9bc3e5:
 
     # nvlsalim "{a=show:show_chat_media}{image=paula_video_20_ns}"
-    nvlsalim "{a=show:show_chat_media}{image=paula_video_20_ns}"
+    nvlsalim ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:12975
 translate zh_Hans paula_storyline_96_b3136ff8:
@@ -28970,7 +28970,7 @@ translate zh_Hans paula_storyline_99_800eac00:
 translate zh_Hans paula_storyline_99_ca2605d8:
 
     # nvlsalim "{a=show:show_chat_media}{image=paula_video_21_ns}"
-    nvlsalim "{a=show:show_chat_media}{image=paula_video_21_ns}"
+    nvlsalim ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:13346
 translate zh_Hans paula_storyline_99_653c13f9:
@@ -29758,7 +29758,7 @@ translate zh_Hans paula_storyline_103_3529acd7:
 translate zh_Hans paula_storyline_103_bc80d34a:
 
     # nvljohn "{a=show:show_chat_media}{image=paula_video_22_ns}"
-    nvljohn "{a=show:show_chat_media}{image=paula_video_22_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:13754
 translate zh_Hans paula_storyline_103_2246501d:
@@ -30152,7 +30152,7 @@ translate zh_Hans paula_storyline_500_d48d395f:
 translate zh_Hans paula_storyline_500_3fc6cbc1:
 
     # nvlfpaul "{a=show:show_chat_media}{image=paula_video_23_ns}"
-    nvlfpaul "{a=show:show_chat_media}{image=paula_video_23_ns}"
+    nvlfpaul ""
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:13948
 translate zh_Hans paula_storyline_500_977491fc:

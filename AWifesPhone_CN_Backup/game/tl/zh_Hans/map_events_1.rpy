@@ -58,7 +58,7 @@ translate zh_Hans Kirely_Event_1_6c299cf4:
 translate zh_Hans Kirely_Event_1_4e1d8206:
 
     # "{color=#000}[mc_name_is]"
-    "{color=#000}[mc_name_is]"
+    ""
 
 # map_events_1.rpy:37
 translate zh_Hans Kirely_Event_1_d87ce83c:
@@ -124,7 +124,7 @@ translate zh_Hans Kirely_Event_1_5e2310f6:
 translate zh_Hans Kirely_Event_1_8a434098:
 
     # "{color=#000}{i}Kirely: {color=#e21978}You can turn on your phone's camera, Mr [mc_name_is]."
-    "{color=#000}{i}绮芮: {color=#e21978}您可以打开手机摄像头了，[mc_name_is] 先生。"
+    "{color=#000}{i}绮芮: {color=#e21978}你可以打开手机摄像头了，[mc_name_is] 先生。"
 
 # map_events_1.rpy:71
 translate zh_Hans Kirely_Event_1_72a328f5:
@@ -550,7 +550,7 @@ translate zh_Hans Kirely_Event_1_1b5860e8:
 translate zh_Hans Kirely_Event_1_440cfa2c:
 
     # "{color=#000}Uhhh... Is that a yes? Mmmmm..."
-    "{color=#000}嗯……这代表 \\\"是 \\\"是吗？嗯..."
+    "{color=#000}嗯……这代表 \"是\" 是吗？嗯..."
 
 # map_events_1.rpy:290
 translate zh_Hans Kirely_Event_1_d3b2ac37:
@@ -742,7 +742,7 @@ translate zh_Hans W_Sis_Event_1_a1d8109f:
 translate zh_Hans W_Sis_Event_1_28aa912d:
 
     # "{color=#000}{i}Assistant: {color=#1919cc}Can I help you?"
-    "{color=#000}{i}Assistant: {color=#1919cc}您好，有什么需要吗？"
+    "{color=#000}{i}Assistant: {color=#1919cc}你好，有什么需要吗？"
 
 # map_events_1.rpy:398
 translate zh_Hans W_Sis_Event_1_7f315621:
@@ -826,7 +826,7 @@ translate zh_Hans W_Sis_Event_1_c3f628bb:
 translate zh_Hans W_Sis_Event_1_37183a58:
 
     # "{color=#000}{i}Assistant: {color=#1919cc}If you change your mind, I'd be happy to assist you."
-    "{color=#000}{i}Assistant: {color=#1919cc}如果您改变主意，我很乐意随时为您提供帮助。"
+    "{color=#000}{i}Assistant: {color=#1919cc}如果你改变主意，我很乐意随时为你提供帮助。"
 
 # map_events_1.rpy:448
 translate zh_Hans W_Sis_Event_1_e9b6cc0d:
@@ -1966,7 +1966,7 @@ translate zh_Hans where_to_go_mall_event1_a5ee289a:
 translate zh_Hans where_to_go_mall_event1_e14d59e3:
 
     # "{color=#000}{i}Assistant: {color=#e21978}Can I assist you?"
-    "{color=#000}{i}Assistant: {color=#e21978}请问您有什么需要吗？"
+    "{color=#000}{i}Assistant: {color=#e21978}请问你有什么需要吗？"
 
 # map_events_1.rpy:1036
 translate zh_Hans where_to_go_mall_event1_3131bb55:
@@ -2020,7 +2020,7 @@ translate zh_Hans where_to_go_mall_event1_76ab743d:
 translate zh_Hans where_to_go_mall_event1_514602c3:
 
     # "{color=#000}{i}Assistant: {color=#e21978}Sure. I'll take your multicooker to the checkout counter. You can pay for it now."
-    "{color=#000}{i}Assistant: {color=#e21978}好的，我把您的多功能料理机拿到收银台，您现在就可以去付钱了。"
+    "{color=#000}{i}Assistant: {color=#e21978}好的，我把你的多功能料理机拿到收银台，你现在就可以去付钱了。"
 
 # map_events_1.rpy:1054
 translate zh_Hans where_to_go_mall_event1_26faf0af:
@@ -2032,7 +2032,7 @@ translate zh_Hans where_to_go_mall_event1_26faf0af:
 translate zh_Hans where_to_go_mall_event1_d98cb818:
 
     # "{color=#000}{i}Cashier: {color=#e21978}Thank you for your purchase. Come again."
-    "{color=#000}{i}Cashier: {color=#e21978}感谢您的购买。欢迎下次光临。"
+    "{color=#000}{i}Cashier: {color=#e21978}感谢你的购买。欢迎下次光临。"
 
 # map_events_1.rpy:1069
 translate zh_Hans where_to_go_mall_event1_60bee069:
@@ -2044,7 +2044,7 @@ translate zh_Hans where_to_go_mall_event1_60bee069:
 translate zh_Hans where_to_go_mall_event1_002de06d:
 
     # "{color=#000}{i}Cashier: {color=#e21978}Have a nice evening!"
-    "{color=#000}{i}Cashier: {color=#e21978}祝您今晚愉快！"
+    "{color=#000}{i}Cashier: {color=#e21978}祝你今晚愉快！"
 
 # map_events_1.rpy:1073
 translate zh_Hans where_to_go_mall_event1_b398e48d:
@@ -2296,7 +2296,7 @@ translate zh_Hans where_to_go_mall_event1_c5e9b218:
 translate zh_Hans where_to_go_mall_event1_e14d59e3_1:
 
     # "{color=#000}{i}Assistant: {color=#e21978}Can I assist you?"
-    "{color=#000}{i}Assistant: {color=#e21978}请问您有什么需要吗？"
+    "{color=#000}{i}Assistant: {color=#e21978}请问你有什么需要吗？"
 
 # map_events_1.rpy:1205
 translate zh_Hans where_to_go_mall_event1_3aac66b0:
@@ -2308,13 +2308,13 @@ translate zh_Hans where_to_go_mall_event1_3aac66b0:
 translate zh_Hans where_to_go_mall_event1_4dc73541:
 
     # "{color=#000}{i}Assistant: {color=#e21978}My name's Hearth. I'm your assistant today, he-he."
-    "{color=#000}{i}Assistant: {color=#e21978}我叫赫斯，由我来为您服务，呵呵。"
+    "{color=#000}{i}Assistant: {color=#e21978}我叫赫斯，由我来为你服务，呵呵。"
 
 # map_events_1.rpy:1213
 translate zh_Hans where_to_go_mall_event1_c189de95:
 
     # "{color=#000}{i}Assistant: {color=#e21978}Do you need any help?"
-    "{color=#000}{i}Assistant: {color=#e21978}您需要帮助吗？"
+    "{color=#000}{i}Assistant: {color=#e21978}你需要帮助吗？"
 
 # map_events_1.rpy:1215
 translate zh_Hans where_to_go_mall_event1_862432d7:
@@ -2326,7 +2326,7 @@ translate zh_Hans where_to_go_mall_event1_862432d7:
 translate zh_Hans where_to_go_mall_event1_bcaee699:
 
     # "{color=#000}{i}Assistant: {color=#e21978}If you need help, you can ask me."
-    "{color=#000}{i}Assistant: {color=#e21978}如果您需要帮助，可以问我。"
+    "{color=#000}{i}Assistant: {color=#e21978}如果你需要帮助，可以问我。"
 
 # map_events_1.rpy:1219
 translate zh_Hans where_to_go_mall_event1_26faf0af_1:
@@ -2452,7 +2452,7 @@ translate zh_Hans where_to_go_mall_event1_c5e9b218_1:
 translate zh_Hans where_to_go_mall_event1_e14d59e3_2:
 
     # "{color=#000}{i}Assistant: {color=#e21978}Can I assist you?"
-    "{color=#000}{i}Assistant: {color=#e21978}请问您有什么需要吗？"
+    "{color=#000}{i}Assistant: {color=#e21978}请问你有什么需要吗？"
 
 # map_events_1.rpy:1297
 translate zh_Hans where_to_go_mall_event1_3aac66b0_1:
@@ -2464,13 +2464,13 @@ translate zh_Hans where_to_go_mall_event1_3aac66b0_1:
 translate zh_Hans where_to_go_mall_event1_4dc73541_1:
 
     # "{color=#000}{i}Assistant: {color=#e21978}My name's Hearth. I'm your assistant today, he-he."
-    "{color=#000}{i}Assistant: {color=#e21978}我叫赫斯，由我来为您服务，呵呵。"
+    "{color=#000}{i}Assistant: {color=#e21978}我叫赫斯，由我来为你服务，呵呵。"
 
 # map_events_1.rpy:1305
 translate zh_Hans where_to_go_mall_event1_c189de95_1:
 
     # "{color=#000}{i}Assistant: {color=#e21978}Do you need any help?"
-    "{color=#000}{i}Assistant: {color=#e21978}您需要帮助吗？"
+    "{color=#000}{i}Assistant: {color=#e21978}你需要帮助吗？"
 
 # map_events_1.rpy:1307
 translate zh_Hans where_to_go_mall_event1_862432d7_1:
@@ -2482,7 +2482,7 @@ translate zh_Hans where_to_go_mall_event1_862432d7_1:
 translate zh_Hans where_to_go_mall_event1_bcaee699_1:
 
     # "{color=#000}{i}Assistant: {color=#e21978}If you need help, you can ask me."
-    "{color=#000}{i}Assistant: {color=#e21978}如果您需要帮助，可以问我。"
+    "{color=#000}{i}Assistant: {color=#e21978}如果你需要帮助，可以问我。"
 
 # map_events_1.rpy:1311
 translate zh_Hans where_to_go_mall_event1_26faf0af_2:
@@ -2584,7 +2584,7 @@ translate zh_Hans where_to_go_mall_event1_0c5c5e90_1:
 translate zh_Hans where_to_go_mall_event1_52bd6b6a:
 
     # "{color=#000}{i}Cashier: {color=#e21978}Have you found what you were looking for?"
-    "{color=#000}{i}Cashier: {color=#e21978}您找到您要找的东西了吗？"
+    "{color=#000}{i}Cashier: {color=#e21978}你找到你要找的东西了吗？"
 
 # map_events_1.rpy:1365
 translate zh_Hans where_to_go_mall_event1_85bb8caa:
@@ -2596,7 +2596,7 @@ translate zh_Hans where_to_go_mall_event1_85bb8caa:
 translate zh_Hans where_to_go_mall_event1_4616d6e0:
 
     # "{color=#000}{i}Cashier: {color=#e21978}Would you like to pay by card or in cash?"
-    "{color=#000}{i}Cashier: {color=#e21978}您想用信用卡还是现金支付？"
+    "{color=#000}{i}Cashier: {color=#e21978}你想用信用卡还是现金支付？"
 
 # map_events_1.rpy:1369
 translate zh_Hans where_to_go_mall_event1_269684e4:
@@ -2608,7 +2608,7 @@ translate zh_Hans where_to_go_mall_event1_269684e4:
 translate zh_Hans where_to_go_mall_event1_014a3867:
 
     # "{color=#000}{i}Cashier: {color=#e21978}That's it. You may pick up your purchases. Have a nice day."
-    "{color=#000}{i}Cashier: {color=#e21978}好了。您可以取走您购买的商品。祝您今天愉快。"
+    "{color=#000}{i}Cashier: {color=#e21978}好了。你可以取走你购买的商品。祝你今天愉快。"
 
 # map_events_1.rpy:1376
 translate zh_Hans where_to_go_mall_event1_d06bf855:
@@ -2716,7 +2716,7 @@ translate zh_Hans where_to_go_mall_event1_9d02b5f0:
 translate zh_Hans where_to_go_mall_event1_4ada937b:
 
     # "{color=#000}{i}Cashier: {color=#e21978}Have you found anything to your liking?"
-    "{color=#000}{i}Cashier: {color=#e21978}您找到了需要的东西吗？"
+    "{color=#000}{i}Cashier: {color=#e21978}你找到了需要的东西吗？"
 
 # map_events_1.rpy:1442
 translate zh_Hans where_to_go_mall_event1_213dce33:
@@ -2728,7 +2728,7 @@ translate zh_Hans where_to_go_mall_event1_213dce33:
 translate zh_Hans where_to_go_mall_event1_2733b4bb:
 
     # "{color=#000}{i}Cashier: {color=#e21978}Good choice. Would you like to pay by card or in cash?"
-    "{color=#000}{i}Cashier: {color=#e21978}好选择。您是用信用卡还是现金？"
+    "{color=#000}{i}Cashier: {color=#e21978}好选择。你是用信用卡还是现金？"
 
 # map_events_1.rpy:1446
 translate zh_Hans where_to_go_mall_event1_009b38b9:
@@ -2746,19 +2746,19 @@ translate zh_Hans where_to_go_mall_event1_e276374d:
 translate zh_Hans where_to_go_mall_event1_949609c2:
 
     # "{color=#000}{i}Cashier: {color=#e21978}That's it. Thank you for your purchase. Have a good one."
-    "{color=#000}{i}Cashier: {color=#e21978}好了。感谢您的购买。祝您生活愉快。"
+    "{color=#000}{i}Cashier: {color=#e21978}好了。感谢你的购买。祝你生活愉快。"
 
 # map_events_1.rpy:1456
 translate zh_Hans where_to_go_mall_event1_fa93c943:
 
     # "{color=#000}Have a nice evening."
-    "{color=#000}祝您今晚愉快。"
+    "{color=#000}祝你今晚愉快。"
 
 # map_events_1.rpy:1458
 translate zh_Hans where_to_go_mall_event1_0d53b7f3:
 
     # "{color=#000}{i}Cashier: {color=#e21978}You too, Mister."
-    "{color=#000}{i}Cashier: {color=#e21978}您也是，先生。"
+    "{color=#000}{i}Cashier: {color=#e21978}你也是，先生。"
 
 # map_events_1.rpy:1472
 translate zh_Hans where_to_go_mall_event1_27cb1d29_1:
@@ -2788,7 +2788,7 @@ translate zh_Hans where_to_go_mall_event1_a5ee289a_1:
 translate zh_Hans where_to_go_mall_event1_e14d59e3_3:
 
     # "{color=#000}{i}Assistant: {color=#e21978}Can I assist you?"
-    "{color=#000}{i}Assistant: {color=#e21978}请问您有什么需要吗？"
+    "{color=#000}{i}Assistant: {color=#e21978}请问你有什么需要吗？"
 
 # map_events_1.rpy:1482
 translate zh_Hans where_to_go_mall_event1_3131bb55_1:
@@ -2842,7 +2842,7 @@ translate zh_Hans where_to_go_mall_event1_76ab743d_1:
 translate zh_Hans where_to_go_mall_event1_514602c3_1:
 
     # "{color=#000}{i}Assistant: {color=#e21978}Sure. I'll take your multicooker to the checkout counter. You can pay for it now."
-    "{color=#000}{i}Assistant: {color=#e21978}好的，我把您的多功能料理机拿到收银台，您现在就可以去付钱了。"
+    "{color=#000}{i}Assistant: {color=#e21978}好的，我把你的多功能料理机拿到收银台，你现在就可以去付钱了。"
 
 # map_events_1.rpy:1500
 translate zh_Hans where_to_go_mall_event1_26faf0af_3:
@@ -2854,7 +2854,7 @@ translate zh_Hans where_to_go_mall_event1_26faf0af_3:
 translate zh_Hans where_to_go_mall_event1_d98cb818_1:
 
     # "{color=#000}{i}Cashier: {color=#e21978}Thank you for your purchase. Come again."
-    "{color=#000}{i}Cashier: {color=#e21978}感谢您的购买。欢迎下次光临。"
+    "{color=#000}{i}Cashier: {color=#e21978}感谢你的购买。欢迎下次光临。"
 
 # map_events_1.rpy:1515
 translate zh_Hans where_to_go_mall_event1_60bee069_1:
@@ -2866,7 +2866,7 @@ translate zh_Hans where_to_go_mall_event1_60bee069_1:
 translate zh_Hans where_to_go_mall_event1_002de06d_1:
 
     # "{color=#000}{i}Cashier: {color=#e21978}Have a nice evening!"
-    "{color=#000}{i}Cashier: {color=#e21978}祝您今晚愉快！"
+    "{color=#000}{i}Cashier: {color=#e21978}祝你今晚愉快！"
 
 # map_events_1.rpy:1519
 translate zh_Hans where_to_go_mall_event1_b398e48d_1:
@@ -3118,7 +3118,7 @@ translate zh_Hans where_to_go_mall_event1_c5e9b218_2:
 translate zh_Hans where_to_go_mall_event1_e14d59e3_4:
 
     # "{color=#000}{i}Assistant: {color=#e21978}Can I assist you?"
-    "{color=#000}{i}Assistant: {color=#e21978}请问您有什么需要吗？"
+    "{color=#000}{i}Assistant: {color=#e21978}请问你有什么需要吗？"
 
 # map_events_1.rpy:1650
 translate zh_Hans where_to_go_mall_event1_3aac66b0_2:
@@ -3130,13 +3130,13 @@ translate zh_Hans where_to_go_mall_event1_3aac66b0_2:
 translate zh_Hans where_to_go_mall_event1_4dc73541_2:
 
     # "{color=#000}{i}Assistant: {color=#e21978}My name's Hearth. I'm your assistant today, he-he."
-    "{color=#000}{i}Assistant: {color=#e21978}我叫赫斯，由我来为您服务，呵呵。"
+    "{color=#000}{i}Assistant: {color=#e21978}我叫赫斯，由我来为你服务，呵呵。"
 
 # map_events_1.rpy:1658
 translate zh_Hans where_to_go_mall_event1_c189de95_2:
 
     # "{color=#000}{i}Assistant: {color=#e21978}Do you need any help?"
-    "{color=#000}{i}Assistant: {color=#e21978}您需要帮助吗？"
+    "{color=#000}{i}Assistant: {color=#e21978}你需要帮助吗？"
 
 # map_events_1.rpy:1660
 translate zh_Hans where_to_go_mall_event1_862432d7_2:
@@ -3148,7 +3148,7 @@ translate zh_Hans where_to_go_mall_event1_862432d7_2:
 translate zh_Hans where_to_go_mall_event1_bcaee699_2:
 
     # "{color=#000}{i}Assistant: {color=#e21978}If you need help, you can ask me."
-    "{color=#000}{i}Assistant: {color=#e21978}如果您需要帮助，可以问我。"
+    "{color=#000}{i}Assistant: {color=#e21978}如果你需要帮助，可以问我。"
 
 # map_events_1.rpy:1664
 translate zh_Hans where_to_go_mall_event1_26faf0af_4:
@@ -3274,7 +3274,7 @@ translate zh_Hans where_to_go_mall_event1_c5e9b218_3:
 translate zh_Hans where_to_go_mall_event1_e14d59e3_5:
 
     # "{color=#000}{i}Assistant: {color=#e21978}Can I assist you?"
-    "{color=#000}{i}Assistant: {color=#e21978}请问您有什么需要吗？"
+    "{color=#000}{i}Assistant: {color=#e21978}请问你有什么需要吗？"
 
 # map_events_1.rpy:1742
 translate zh_Hans where_to_go_mall_event1_3aac66b0_3:
@@ -3286,13 +3286,13 @@ translate zh_Hans where_to_go_mall_event1_3aac66b0_3:
 translate zh_Hans where_to_go_mall_event1_4dc73541_3:
 
     # "{color=#000}{i}Assistant: {color=#e21978}My name's Hearth. I'm your assistant today, he-he."
-    "{color=#000}{i}Assistant: {color=#e21978}我叫赫斯，由我来为您服务，呵呵。"
+    "{color=#000}{i}Assistant: {color=#e21978}我叫赫斯，由我来为你服务，呵呵。"
 
 # map_events_1.rpy:1750
 translate zh_Hans where_to_go_mall_event1_c189de95_3:
 
     # "{color=#000}{i}Assistant: {color=#e21978}Do you need any help?"
-    "{color=#000}{i}Assistant: {color=#e21978}您需要帮助吗？"
+    "{color=#000}{i}Assistant: {color=#e21978}你需要帮助吗？"
 
 # map_events_1.rpy:1752
 translate zh_Hans where_to_go_mall_event1_862432d7_3:
@@ -3304,7 +3304,7 @@ translate zh_Hans where_to_go_mall_event1_862432d7_3:
 translate zh_Hans where_to_go_mall_event1_bcaee699_3:
 
     # "{color=#000}{i}Assistant: {color=#e21978}If you need help, you can ask me."
-    "{color=#000}{i}Assistant: {color=#e21978}如果您需要帮助，可以问我。"
+    "{color=#000}{i}Assistant: {color=#e21978}如果你需要帮助，可以问我。"
 
 # map_events_1.rpy:1756
 translate zh_Hans where_to_go_mall_event1_26faf0af_5:
@@ -3406,7 +3406,7 @@ translate zh_Hans where_to_go_mall_event1_0c5c5e90_3:
 translate zh_Hans where_to_go_mall_event1_52bd6b6a_1:
 
     # "{color=#000}{i}Cashier: {color=#e21978}Have you found what you were looking for?"
-    "{color=#000}{i}Cashier: {color=#e21978}您找到您要找的东西了吗？"
+    "{color=#000}{i}Cashier: {color=#e21978}你找到你要找的东西了吗？"
 
 # map_events_1.rpy:1810
 translate zh_Hans where_to_go_mall_event1_85bb8caa_1:
@@ -3418,7 +3418,7 @@ translate zh_Hans where_to_go_mall_event1_85bb8caa_1:
 translate zh_Hans where_to_go_mall_event1_4616d6e0_1:
 
     # "{color=#000}{i}Cashier: {color=#e21978}Would you like to pay by card or in cash?"
-    "{color=#000}{i}Cashier: {color=#e21978}您想用信用卡还是现金支付？"
+    "{color=#000}{i}Cashier: {color=#e21978}你想用信用卡还是现金支付？"
 
 # map_events_1.rpy:1814
 translate zh_Hans where_to_go_mall_event1_269684e4_1:
@@ -3430,7 +3430,7 @@ translate zh_Hans where_to_go_mall_event1_269684e4_1:
 translate zh_Hans where_to_go_mall_event1_014a3867_1:
 
     # "{color=#000}{i}Cashier: {color=#e21978}That's it. You may pick up your purchases. Have a nice day."
-    "{color=#000}{i}Cashier: {color=#e21978}好了。您可以取走您购买的商品。祝您今天愉快。"
+    "{color=#000}{i}Cashier: {color=#e21978}好了。你可以取走你购买的商品。祝你今天愉快。"
 
 # map_events_1.rpy:1821
 translate zh_Hans where_to_go_mall_event1_d06bf855_1:
@@ -3466,7 +3466,7 @@ translate zh_Hans where_to_go_mall_event1_a5ee289a_2:
 translate zh_Hans where_to_go_mall_event1_e14d59e3_6:
 
     # "{color=#000}{i}Assistant: {color=#e21978}Can I assist you?"
-    "{color=#000}{i}Assistant: {color=#e21978}请问您有什么需要吗？"
+    "{color=#000}{i}Assistant: {color=#e21978}请问你有什么需要吗？"
 
 # map_events_1.rpy:1848
 translate zh_Hans where_to_go_mall_event1_3131bb55_2:
@@ -3520,7 +3520,7 @@ translate zh_Hans where_to_go_mall_event1_76ab743d_2:
 translate zh_Hans where_to_go_mall_event1_514602c3_2:
 
     # "{color=#000}{i}Assistant: {color=#e21978}Sure. I'll take your multicooker to the checkout counter. You can pay for it now."
-    "{color=#000}{i}Assistant: {color=#e21978}好的，我把您的多功能料理机拿到收银台，您现在就可以去付钱了。"
+    "{color=#000}{i}Assistant: {color=#e21978}好的，我把你的多功能料理机拿到收银台，你现在就可以去付钱了。"
 
 # map_events_1.rpy:1866
 translate zh_Hans where_to_go_mall_event1_26faf0af_6:
@@ -3532,7 +3532,7 @@ translate zh_Hans where_to_go_mall_event1_26faf0af_6:
 translate zh_Hans where_to_go_mall_event1_d98cb818_2:
 
     # "{color=#000}{i}Cashier: {color=#e21978}Thank you for your purchase. Come again."
-    "{color=#000}{i}Cashier: {color=#e21978}感谢您的购买。欢迎下次光临。"
+    "{color=#000}{i}Cashier: {color=#e21978}感谢你的购买。欢迎下次光临。"
 
 # map_events_1.rpy:1881
 translate zh_Hans where_to_go_mall_event1_60bee069_2:
@@ -3544,7 +3544,7 @@ translate zh_Hans where_to_go_mall_event1_60bee069_2:
 translate zh_Hans where_to_go_mall_event1_002de06d_2:
 
     # "{color=#000}{i}Cashier: {color=#e21978}Have a nice evening!"
-    "{color=#000}{i}Cashier: {color=#e21978}祝您今晚愉快！"
+    "{color=#000}{i}Cashier: {color=#e21978}祝你今晚愉快！"
 
 # map_events_1.rpy:1885
 translate zh_Hans where_to_go_mall_event1_b398e48d_2:
@@ -3652,7 +3652,7 @@ translate zh_Hans where_to_go_mall_event1_9d02b5f0_1:
 translate zh_Hans where_to_go_mall_event1_4ada937b_1:
 
     # "{color=#000}{i}Cashier: {color=#e21978}Have you found anything to your liking?"
-    "{color=#000}{i}Cashier: {color=#e21978}您找到了需要的东西吗？"
+    "{color=#000}{i}Cashier: {color=#e21978}你找到了需要的东西吗？"
 
 # map_events_1.rpy:1948
 translate zh_Hans where_to_go_mall_event1_213dce33_1:
@@ -3664,7 +3664,7 @@ translate zh_Hans where_to_go_mall_event1_213dce33_1:
 translate zh_Hans where_to_go_mall_event1_2733b4bb_1:
 
     # "{color=#000}{i}Cashier: {color=#e21978}Good choice. Would you like to pay by card or in cash?"
-    "{color=#000}{i}Cashier: {color=#e21978}好选择。您是用信用卡还是现金？"
+    "{color=#000}{i}Cashier: {color=#e21978}好选择。你是用信用卡还是现金？"
 
 # map_events_1.rpy:1952
 translate zh_Hans where_to_go_mall_event1_009b38b9_1:
@@ -3682,19 +3682,19 @@ translate zh_Hans where_to_go_mall_event1_e276374d_1:
 translate zh_Hans where_to_go_mall_event1_949609c2_1:
 
     # "{color=#000}{i}Cashier: {color=#e21978}That's it. Thank you for your purchase. Have a good one."
-    "{color=#000}{i}Cashier: {color=#e21978}好了。感谢您的购买。祝您生活愉快。"
+    "{color=#000}{i}Cashier: {color=#e21978}好了。感谢你的购买。祝你生活愉快。"
 
 # map_events_1.rpy:1962
 translate zh_Hans where_to_go_mall_event1_fa93c943_1:
 
     # "{color=#000}Have a nice evening."
-    "{color=#000}祝您今晚愉快。"
+    "{color=#000}祝你今晚愉快。"
 
 # map_events_1.rpy:1964
 translate zh_Hans where_to_go_mall_event1_0d53b7f3_1:
 
     # "{color=#000}{i}Cashier: {color=#e21978}You too, Mister."
-    "{color=#000}{i}Cashier: {color=#e21978}您也是，先生。"
+    "{color=#000}{i}Cashier: {color=#e21978}你也是，先生。"
 
 # map_events_1.rpy:1977
 translate zh_Hans where_to_go_mall_event1_4e73e355_2:
@@ -3940,7 +3940,7 @@ translate zh_Hans where_to_go_mall_event1_c5e9b218_4:
 translate zh_Hans where_to_go_mall_event1_e14d59e3_7:
 
     # "{color=#000}{i}Assistant: {color=#e21978}Can I assist you?"
-    "{color=#000}{i}Assistant: {color=#e21978}请问您有什么需要吗？"
+    "{color=#000}{i}Assistant: {color=#e21978}请问你有什么需要吗？"
 
 # map_events_1.rpy:2101
 translate zh_Hans where_to_go_mall_event1_3aac66b0_4:
@@ -3952,13 +3952,13 @@ translate zh_Hans where_to_go_mall_event1_3aac66b0_4:
 translate zh_Hans where_to_go_mall_event1_4dc73541_4:
 
     # "{color=#000}{i}Assistant: {color=#e21978}My name's Hearth. I'm your assistant today, he-he."
-    "{color=#000}{i}Assistant: {color=#e21978}我叫赫斯，由我来为您服务，呵呵。"
+    "{color=#000}{i}Assistant: {color=#e21978}我叫赫斯，由我来为你服务，呵呵。"
 
 # map_events_1.rpy:2109
 translate zh_Hans where_to_go_mall_event1_c189de95_4:
 
     # "{color=#000}{i}Assistant: {color=#e21978}Do you need any help?"
-    "{color=#000}{i}Assistant: {color=#e21978}您需要帮助吗？"
+    "{color=#000}{i}Assistant: {color=#e21978}你需要帮助吗？"
 
 # map_events_1.rpy:2111
 translate zh_Hans where_to_go_mall_event1_862432d7_4:
@@ -3970,7 +3970,7 @@ translate zh_Hans where_to_go_mall_event1_862432d7_4:
 translate zh_Hans where_to_go_mall_event1_bcaee699_4:
 
     # "{color=#000}{i}Assistant: {color=#e21978}If you need help, you can ask me."
-    "{color=#000}{i}Assistant: {color=#e21978}如果您需要帮助，可以问我。"
+    "{color=#000}{i}Assistant: {color=#e21978}如果你需要帮助，可以问我。"
 
 # map_events_1.rpy:2115
 translate zh_Hans where_to_go_mall_event1_26faf0af_7:
@@ -4096,7 +4096,7 @@ translate zh_Hans where_to_go_mall_event1_c5e9b218_5:
 translate zh_Hans where_to_go_mall_event1_e14d59e3_8:
 
     # "{color=#000}{i}Assistant: {color=#e21978}Can I assist you?"
-    "{color=#000}{i}Assistant: {color=#e21978}请问您有什么需要吗？"
+    "{color=#000}{i}Assistant: {color=#e21978}请问你有什么需要吗？"
 
 # map_events_1.rpy:2193
 translate zh_Hans where_to_go_mall_event1_3aac66b0_5:
@@ -4108,13 +4108,13 @@ translate zh_Hans where_to_go_mall_event1_3aac66b0_5:
 translate zh_Hans where_to_go_mall_event1_4dc73541_5:
 
     # "{color=#000}{i}Assistant: {color=#e21978}My name's Hearth. I'm your assistant today, he-he."
-    "{color=#000}{i}Assistant: {color=#e21978}我叫赫斯，由我来为您服务，呵呵。"
+    "{color=#000}{i}Assistant: {color=#e21978}我叫赫斯，由我来为你服务，呵呵。"
 
 # map_events_1.rpy:2201
 translate zh_Hans where_to_go_mall_event1_c189de95_5:
 
     # "{color=#000}{i}Assistant: {color=#e21978}Do you need any help?"
-    "{color=#000}{i}Assistant: {color=#e21978}您需要帮助吗？"
+    "{color=#000}{i}Assistant: {color=#e21978}你需要帮助吗？"
 
 # map_events_1.rpy:2203
 translate zh_Hans where_to_go_mall_event1_862432d7_5:
@@ -4126,7 +4126,7 @@ translate zh_Hans where_to_go_mall_event1_862432d7_5:
 translate zh_Hans where_to_go_mall_event1_bcaee699_5:
 
     # "{color=#000}{i}Assistant: {color=#e21978}If you need help, you can ask me."
-    "{color=#000}{i}Assistant: {color=#e21978}如果您需要帮助，可以问我。"
+    "{color=#000}{i}Assistant: {color=#e21978}如果你需要帮助，可以问我。"
 
 # map_events_1.rpy:2207
 translate zh_Hans where_to_go_mall_event1_26faf0af_8:
@@ -4228,7 +4228,7 @@ translate zh_Hans where_to_go_mall_event1_0c5c5e90_5:
 translate zh_Hans where_to_go_mall_event1_52bd6b6a_2:
 
     # "{color=#000}{i}Cashier: {color=#e21978}Have you found what you were looking for?"
-    "{color=#000}{i}Cashier: {color=#e21978}您找到您要找的东西了吗？"
+    "{color=#000}{i}Cashier: {color=#e21978}你找到你要找的东西了吗？"
 
 # map_events_1.rpy:2261
 translate zh_Hans where_to_go_mall_event1_85bb8caa_2:
@@ -4240,7 +4240,7 @@ translate zh_Hans where_to_go_mall_event1_85bb8caa_2:
 translate zh_Hans where_to_go_mall_event1_4616d6e0_2:
 
     # "{color=#000}{i}Cashier: {color=#e21978}Would you like to pay by card or in cash?"
-    "{color=#000}{i}Cashier: {color=#e21978}您想用信用卡还是现金支付？"
+    "{color=#000}{i}Cashier: {color=#e21978}你想用信用卡还是现金支付？"
 
 # map_events_1.rpy:2265
 translate zh_Hans where_to_go_mall_event1_269684e4_2:
@@ -4252,7 +4252,7 @@ translate zh_Hans where_to_go_mall_event1_269684e4_2:
 translate zh_Hans where_to_go_mall_event1_014a3867_2:
 
     # "{color=#000}{i}Cashier: {color=#e21978}That's it. You may pick up your purchases. Have a nice day."
-    "{color=#000}{i}Cashier: {color=#e21978}好了。您可以取走您购买的商品。祝您今天愉快。"
+    "{color=#000}{i}Cashier: {color=#e21978}好了。你可以取走你购买的商品。祝你今天愉快。"
 
 # map_events_1.rpy:2272
 translate zh_Hans where_to_go_mall_event1_d06bf855_2:
@@ -4360,7 +4360,7 @@ translate zh_Hans where_to_go_mall_event1_9d02b5f0_2:
 translate zh_Hans where_to_go_mall_event1_4ada937b_2:
 
     # "{color=#000}{i}Cashier: {color=#e21978}Have you found anything to your liking?"
-    "{color=#000}{i}Cashier: {color=#e21978}您找到了需要的东西吗？"
+    "{color=#000}{i}Cashier: {color=#e21978}你找到了需要的东西吗？"
 
 # map_events_1.rpy:2338
 translate zh_Hans where_to_go_mall_event1_213dce33_2:
@@ -4372,7 +4372,7 @@ translate zh_Hans where_to_go_mall_event1_213dce33_2:
 translate zh_Hans where_to_go_mall_event1_2733b4bb_2:
 
     # "{color=#000}{i}Cashier: {color=#e21978}Good choice. Would you like to pay by card or in cash?"
-    "{color=#000}{i}Cashier: {color=#e21978}好选择。您是用信用卡还是现金？"
+    "{color=#000}{i}Cashier: {color=#e21978}好选择。你是用信用卡还是现金？"
 
 # map_events_1.rpy:2342
 translate zh_Hans where_to_go_mall_event1_009b38b9_2:
@@ -4390,19 +4390,19 @@ translate zh_Hans where_to_go_mall_event1_e276374d_2:
 translate zh_Hans where_to_go_mall_event1_949609c2_2:
 
     # "{color=#000}{i}Cashier: {color=#e21978}That's it. Thank you for your purchase. Have a good one."
-    "{color=#000}{i}Cashier: {color=#e21978}好了。感谢您的购买。祝您生活愉快。"
+    "{color=#000}{i}Cashier: {color=#e21978}好了。感谢你的购买。祝你生活愉快。"
 
 # map_events_1.rpy:2352
 translate zh_Hans where_to_go_mall_event1_fa93c943_2:
 
     # "{color=#000}Have a nice evening."
-    "{color=#000}祝您今晚愉快。"
+    "{color=#000}祝你今晚愉快。"
 
 # map_events_1.rpy:2354
 translate zh_Hans where_to_go_mall_event1_0d53b7f3_2:
 
     # "{color=#000}{i}Cashier: {color=#e21978}You too, Mister."
-    "{color=#000}{i}Cashier: {color=#e21978}您也是，先生。"
+    "{color=#000}{i}Cashier: {color=#e21978}你也是，先生。"
 
 # map_events_1.rpy:2370
 translate zh_Hans where_to_go_mall_event1_27cb1d29_3:
@@ -4432,7 +4432,7 @@ translate zh_Hans where_to_go_mall_event1_a5ee289a_3:
 translate zh_Hans where_to_go_mall_event1_e14d59e3_9:
 
     # "{color=#000}{i}Assistant: {color=#e21978}Can I assist you?"
-    "{color=#000}{i}Assistant: {color=#e21978}请问您有什么需要吗？"
+    "{color=#000}{i}Assistant: {color=#e21978}请问你有什么需要吗？"
 
 # map_events_1.rpy:2380
 translate zh_Hans where_to_go_mall_event1_3131bb55_3:
@@ -4486,7 +4486,7 @@ translate zh_Hans where_to_go_mall_event1_76ab743d_3:
 translate zh_Hans where_to_go_mall_event1_514602c3_3:
 
     # "{color=#000}{i}Assistant: {color=#e21978}Sure. I'll take your multicooker to the checkout counter. You can pay for it now."
-    "{color=#000}{i}Assistant: {color=#e21978}好的，我把您的多功能料理机拿到收银台，您现在就可以去付钱了。"
+    "{color=#000}{i}Assistant: {color=#e21978}好的，我把你的多功能料理机拿到收银台，你现在就可以去付钱了。"
 
 # map_events_1.rpy:2398
 translate zh_Hans where_to_go_mall_event1_26faf0af_9:
@@ -4498,7 +4498,7 @@ translate zh_Hans where_to_go_mall_event1_26faf0af_9:
 translate zh_Hans where_to_go_mall_event1_d98cb818_3:
 
     # "{color=#000}{i}Cashier: {color=#e21978}Thank you for your purchase. Come again."
-    "{color=#000}{i}Cashier: {color=#e21978}感谢您的购买。欢迎下次光临。"
+    "{color=#000}{i}Cashier: {color=#e21978}感谢你的购买。欢迎下次光临。"
 
 # map_events_1.rpy:2413
 translate zh_Hans where_to_go_mall_event1_60bee069_3:
@@ -4510,7 +4510,7 @@ translate zh_Hans where_to_go_mall_event1_60bee069_3:
 translate zh_Hans where_to_go_mall_event1_002de06d_3:
 
     # "{color=#000}{i}Cashier: {color=#e21978}Have a nice evening!"
-    "{color=#000}{i}Cashier: {color=#e21978}祝您今晚愉快！"
+    "{color=#000}{i}Cashier: {color=#e21978}祝你今晚愉快！"
 
 # map_events_1.rpy:2417
 translate zh_Hans where_to_go_mall_event1_b398e48d_3:
@@ -4762,7 +4762,7 @@ translate zh_Hans where_to_go_mall_event1_c5e9b218_6:
 translate zh_Hans where_to_go_mall_event1_e14d59e3_10:
 
     # "{color=#000}{i}Assistant: {color=#e21978}Can I assist you?"
-    "{color=#000}{i}Assistant: {color=#e21978}请问您有什么需要吗？"
+    "{color=#000}{i}Assistant: {color=#e21978}请问你有什么需要吗？"
 
 # map_events_1.rpy:2551
 translate zh_Hans where_to_go_mall_event1_3aac66b0_6:
@@ -4774,13 +4774,13 @@ translate zh_Hans where_to_go_mall_event1_3aac66b0_6:
 translate zh_Hans where_to_go_mall_event1_4dc73541_6:
 
     # "{color=#000}{i}Assistant: {color=#e21978}My name's Hearth. I'm your assistant today, he-he."
-    "{color=#000}{i}Assistant: {color=#e21978}我叫赫斯，由我来为您服务，呵呵。"
+    "{color=#000}{i}Assistant: {color=#e21978}我叫赫斯，由我来为你服务，呵呵。"
 
 # map_events_1.rpy:2559
 translate zh_Hans where_to_go_mall_event1_c189de95_6:
 
     # "{color=#000}{i}Assistant: {color=#e21978}Do you need any help?"
-    "{color=#000}{i}Assistant: {color=#e21978}您需要帮助吗？"
+    "{color=#000}{i}Assistant: {color=#e21978}你需要帮助吗？"
 
 # map_events_1.rpy:2561
 translate zh_Hans where_to_go_mall_event1_862432d7_6:
@@ -4792,7 +4792,7 @@ translate zh_Hans where_to_go_mall_event1_862432d7_6:
 translate zh_Hans where_to_go_mall_event1_bcaee699_6:
 
     # "{color=#000}{i}Assistant: {color=#e21978}If you need help, you can ask me."
-    "{color=#000}{i}Assistant: {color=#e21978}如果您需要帮助，可以问我。"
+    "{color=#000}{i}Assistant: {color=#e21978}如果你需要帮助，可以问我。"
 
 # map_events_1.rpy:2565
 translate zh_Hans where_to_go_mall_event1_26faf0af_10:
@@ -4918,7 +4918,7 @@ translate zh_Hans where_to_go_mall_event1_c5e9b218_7:
 translate zh_Hans where_to_go_mall_event1_e14d59e3_11:
 
     # "{color=#000}{i}Assistant: {color=#e21978}Can I assist you?"
-    "{color=#000}{i}Assistant: {color=#e21978}请问您有什么需要吗？"
+    "{color=#000}{i}Assistant: {color=#e21978}请问你有什么需要吗？"
 
 # map_events_1.rpy:2643
 translate zh_Hans where_to_go_mall_event1_3aac66b0_7:
@@ -4930,13 +4930,13 @@ translate zh_Hans where_to_go_mall_event1_3aac66b0_7:
 translate zh_Hans where_to_go_mall_event1_4dc73541_7:
 
     # "{color=#000}{i}Assistant: {color=#e21978}My name's Hearth. I'm your assistant today, he-he."
-    "{color=#000}{i}Assistant: {color=#e21978}我叫赫斯，由我来为您服务，呵呵。"
+    "{color=#000}{i}Assistant: {color=#e21978}我叫赫斯，由我来为你服务，呵呵。"
 
 # map_events_1.rpy:2651
 translate zh_Hans where_to_go_mall_event1_c189de95_7:
 
     # "{color=#000}{i}Assistant: {color=#e21978}Do you need any help?"
-    "{color=#000}{i}Assistant: {color=#e21978}您需要帮助吗？"
+    "{color=#000}{i}Assistant: {color=#e21978}你需要帮助吗？"
 
 # map_events_1.rpy:2653
 translate zh_Hans where_to_go_mall_event1_862432d7_7:
@@ -4948,7 +4948,7 @@ translate zh_Hans where_to_go_mall_event1_862432d7_7:
 translate zh_Hans where_to_go_mall_event1_bcaee699_7:
 
     # "{color=#000}{i}Assistant: {color=#e21978}If you need help, you can ask me."
-    "{color=#000}{i}Assistant: {color=#e21978}如果您需要帮助，可以问我。"
+    "{color=#000}{i}Assistant: {color=#e21978}如果你需要帮助，可以问我。"
 
 # map_events_1.rpy:2657
 translate zh_Hans where_to_go_mall_event1_26faf0af_11:
@@ -5050,7 +5050,7 @@ translate zh_Hans where_to_go_mall_event1_0c5c5e90_7:
 translate zh_Hans where_to_go_mall_event1_52bd6b6a_3:
 
     # "{color=#000}{i}Cashier: {color=#e21978}Have you found what you were looking for?"
-    "{color=#000}{i}Cashier: {color=#e21978}您找到您要找的东西了吗？"
+    "{color=#000}{i}Cashier: {color=#e21978}你找到你要找的东西了吗？"
 
 # map_events_1.rpy:2711
 translate zh_Hans where_to_go_mall_event1_85bb8caa_3:
@@ -5062,7 +5062,7 @@ translate zh_Hans where_to_go_mall_event1_85bb8caa_3:
 translate zh_Hans where_to_go_mall_event1_4616d6e0_3:
 
     # "{color=#000}{i}Cashier: {color=#e21978}Would you like to pay by card or in cash?"
-    "{color=#000}{i}Cashier: {color=#e21978}您想用信用卡还是现金支付？"
+    "{color=#000}{i}Cashier: {color=#e21978}你想用信用卡还是现金支付？"
 
 # map_events_1.rpy:2715
 translate zh_Hans where_to_go_mall_event1_269684e4_3:
@@ -5074,7 +5074,7 @@ translate zh_Hans where_to_go_mall_event1_269684e4_3:
 translate zh_Hans where_to_go_mall_event1_014a3867_3:
 
     # "{color=#000}{i}Cashier: {color=#e21978}That's it. You may pick up your purchases. Have a nice day."
-    "{color=#000}{i}Cashier: {color=#e21978}好了。您可以取走您购买的商品。祝您今天愉快。"
+    "{color=#000}{i}Cashier: {color=#e21978}好了。你可以取走你购买的商品。祝你今天愉快。"
 
 # map_events_1.rpy:2722
 translate zh_Hans where_to_go_mall_event1_d06bf855_3:
@@ -5182,7 +5182,7 @@ translate zh_Hans where_to_go_mall_event1_9d02b5f0_3:
 translate zh_Hans where_to_go_mall_event1_4ada937b_3:
 
     # "{color=#000}{i}Cashier: {color=#e21978}Have you found anything to your liking?"
-    "{color=#000}{i}Cashier: {color=#e21978}您找到了需要的东西吗？"
+    "{color=#000}{i}Cashier: {color=#e21978}你找到了需要的东西吗？"
 
 # map_events_1.rpy:2792
 translate zh_Hans where_to_go_mall_event1_213dce33_3:
@@ -5194,7 +5194,7 @@ translate zh_Hans where_to_go_mall_event1_213dce33_3:
 translate zh_Hans where_to_go_mall_event1_2733b4bb_3:
 
     # "{color=#000}{i}Cashier: {color=#e21978}Good choice. Would you like to pay by card or in cash?"
-    "{color=#000}{i}Cashier: {color=#e21978}好选择。您是用信用卡还是现金？"
+    "{color=#000}{i}Cashier: {color=#e21978}好选择。你是用信用卡还是现金？"
 
 # map_events_1.rpy:2796
 translate zh_Hans where_to_go_mall_event1_009b38b9_3:
@@ -5212,19 +5212,19 @@ translate zh_Hans where_to_go_mall_event1_e276374d_3:
 translate zh_Hans where_to_go_mall_event1_949609c2_3:
 
     # "{color=#000}{i}Cashier: {color=#e21978}That's it. Thank you for your purchase. Have a good one."
-    "{color=#000}{i}Cashier: {color=#e21978}好了。感谢您的购买。祝您生活愉快。"
+    "{color=#000}{i}Cashier: {color=#e21978}好了。感谢你的购买。祝你生活愉快。"
 
 # map_events_1.rpy:2806
 translate zh_Hans where_to_go_mall_event1_fa93c943_3:
 
     # "{color=#000}Have a nice evening."
-    "{color=#000}祝您今晚愉快。"
+    "{color=#000}祝你今晚愉快。"
 
 # map_events_1.rpy:2808
 translate zh_Hans where_to_go_mall_event1_0d53b7f3_3:
 
     # "{color=#000}{i}Cashier: {color=#e21978}You too, Mister."
-    "{color=#000}{i}Cashier: {color=#e21978}您也是，先生。"
+    "{color=#000}{i}Cashier: {color=#e21978}你也是，先生。"
 
 # map_events_1.rpy:2819
 translate zh_Hans where_to_go_mall_event1_2f8af3f9:

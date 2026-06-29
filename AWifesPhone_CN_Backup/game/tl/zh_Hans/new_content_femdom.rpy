@@ -298,7 +298,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_2_4702aaff:
 translate zh_Hans femdom_jenna_wife_messager02_1_2_ec0934aa:
 
     # nvljenna "And about the app you should remove her from"
-    nvljenna "关于您应该将她从应用程序中移除"
+    nvljenna "关于你应该将她从应用程序中移除"
 
 # new_content_femdom.rpy:232
 translate zh_Hans femdom_jenna_wife_messager02_1_2_bfc7dd41:
@@ -838,7 +838,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_4_50c0847b:
 translate zh_Hans femdom_jenna_wife_messager02_1_4_8bc0b40b:
 
     # nvlwife "{a=show:wife_pic_801}photo_29901.png"
-    nvlwife "{a=show:wife_pic_801}photo_29901.png"
+    nvlwife ""
 
 # new_content_femdom.rpy:476
 translate zh_Hans femdom_jenna_wife_messager02_1_4_f7dc840a:
@@ -856,7 +856,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_4_c79daa19:
 translate zh_Hans femdom_jenna_wife_messager02_1_4_6d987f88:
 
     # nvlwife "{image=love_emoji.png}"
-    nvlwife "{image=love_emoji.png}"
+    nvlwife ""
 
 # new_content_femdom.rpy:494
 translate zh_Hans femdom_jenna_wife_messager02_1_4_f49e8f44:
@@ -874,7 +874,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_5_76b2fe88:
 translate zh_Hans femdom_jenna_wife_messager02_1_5_4f094c64:
 
     # nvlwife "{a=show:wife_pic_802}photo_29913.png"
-    nvlwife "{a=show:wife_pic_802}photo_29913.png"
+    nvlwife ""
 
 # new_content_femdom.rpy:518
 translate zh_Hans femdom_jenna_wife_messager02_1_5_88825694:
@@ -1114,7 +1114,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_6_1f80acd1:
 translate zh_Hans femdom_jenna_wife_messager02_1_6_94c9cc25:
 
     # nvlwife "{a=show:wife_video_254}video_3159.mov"
-    nvlwife "{a=show:wife_video_254}video_3159.mov"
+    nvlwife ""
 
 # new_content_femdom.rpy:630
 translate zh_Hans femdom_jenna_wife_messager02_1_6_79168fac:
@@ -1210,7 +1210,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_6_141e9af3:
 translate zh_Hans femdom_jenna_wife_messager02_1_6_9049b071:
 
     # nvlwife "{a=show:wife_pic_803}photo_29921.png"
-    nvlwife "{a=show:wife_pic_803}photo_29921.png"
+    nvlwife ""
 
 # new_content_femdom.rpy:664
 translate zh_Hans femdom_jenna_wife_messager02_1_6_e335204f:
@@ -1312,7 +1312,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_6_2059e300:
 translate zh_Hans femdom_jenna_wife_messager02_1_6_6d987f88:
 
     # nvlwife "{image=love_emoji.png}"
-    nvlwife "{image=love_emoji.png}"
+    nvlwife ""
 
 # new_content_femdom.rpy:710
 translate zh_Hans femdom_jenna_wife_messager02_1_6_f49e8f44:
@@ -1684,7 +1684,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_8_743df9bc:
 translate zh_Hans femdom_jenna_wife_messager02_1_8_2d566fda:
 
     # nvlwife "{image=smile_emoji.png}"
-    nvlwife "{image=smile_emoji.png}"
+    nvlwife ""
 
 # new_content_femdom.rpy:878
 translate zh_Hans femdom_jenna_wife_messager02_1_8_ad0522e0:
@@ -1714,7 +1714,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_8_9f308623:
 translate zh_Hans femdom_jenna_wife_messager02_1_8_2789d823:
 
     # nvlwsis "{a=show:w_sister_pic_154}photo_2198.png"
-    nvlwsis "{a=show:w_sister_pic_154}photo_2198.png"
+    nvlwsis ""
 
 # new_content_femdom.rpy:890
 translate zh_Hans femdom_jenna_wife_messager02_1_8_4f165482:
@@ -1768,7 +1768,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_8_a31f18e9:
 translate zh_Hans femdom_jenna_wife_messager02_1_8_9fbf4335:
 
     # nvlwsis "{image=smile_emoji.png}"
-    nvlwsis "{image=smile_emoji.png}"
+    nvlwsis ""
 
 # new_content_femdom.rpy:908
 translate zh_Hans femdom_jenna_wife_messager02_1_8_b7bb8a64:
@@ -2014,7 +2014,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_9_fcb87fe2:
 translate zh_Hans femdom_jenna_wife_messager02_1_9_9c081489:
 
     # nvlwsis "{a=show:w_sister_pic_155}photo_2207.png"
-    nvlwsis "{a=show:w_sister_pic_155}photo_2207.png"
+    nvlwsis ""
 
 # new_content_femdom.rpy:1020
 translate zh_Hans femdom_jenna_wife_messager02_1_9_86972a86:
@@ -2074,7 +2074,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_9_f0a5ef8d:
 translate zh_Hans femdom_jenna_wife_messager02_1_9_912679f8:
 
     # nvlwsis "{a=show:w_sister_pic_156}photo_2204.png"
-    nvlwsis "{a=show:w_sister_pic_156}photo_2204.png"
+    nvlwsis ""
 
 # new_content_femdom.rpy:1042
 translate zh_Hans femdom_jenna_wife_messager02_1_9_844559cd:
@@ -2422,7 +2422,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_11_c6995946:
 translate zh_Hans femdom_jenna_wife_messager02_1_11_6d987f88:
 
     # nvlwife "{image=love_emoji.png}"
-    nvlwife "{image=love_emoji.png}"
+    nvlwife ""
 
 # new_content_femdom.rpy:1214
 translate zh_Hans femdom_jenna_wife_messager02_1_11_e48be351:
@@ -3034,7 +3034,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_13_70556275:
 translate zh_Hans femdom_jenna_wife_messager02_1_13_6d987f88:
 
     # nvlwife "{image=love_emoji.png}"
-    nvlwife "{image=love_emoji.png}"
+    nvlwife ""
 
 # new_content_femdom.rpy:1492
 translate zh_Hans femdom_jenna_wife_messager02_1_13_36e75bf5:
@@ -3100,7 +3100,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_13_3bb5f3b9:
 translate zh_Hans femdom_jenna_wife_messager02_1_13_1456b168:
 
     # nvlwife "{a=show:wife_pic_804}photo_29926.png"
-    nvlwife "{a=show:wife_pic_804}photo_29926.png"
+    nvlwife ""
 
 # new_content_femdom.rpy:1516
 translate zh_Hans femdom_jenna_wife_messager02_1_13_d7251419:
@@ -3358,7 +3358,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_14_57fd32c1:
 translate zh_Hans femdom_jenna_wife_messager02_1_14_ea17654d:
 
     # nvljenna "{image=smile_emoji.png}"
-    nvljenna "{image=smile_emoji.png}"
+    nvljenna ""
 
 # new_content_femdom.rpy:1630
 translate zh_Hans femdom_jenna_wife_messager02_1_14_c1780ad7:
@@ -3400,7 +3400,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_14_95642a3c:
 translate zh_Hans femdom_jenna_wife_messager02_1_14_a1d1c54c:
 
     # nvljenna "You can prepare for it in the meantime"
-    nvljenna "您可以在此期间做好准备"
+    nvljenna "你可以在此期间做好准备"
 
 # new_content_femdom.rpy:1644
 translate zh_Hans femdom_jenna_wife_messager02_1_14_300354ec:
@@ -3628,7 +3628,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_15_5e0803bf:
 translate zh_Hans femdom_jenna_wife_messager02_1_15_8a0d3b16:
 
     # nvlwife "{a=show:wife_pic_805}photo_29938.png"
-    nvlwife "{a=show:wife_pic_805}photo_29938.png"
+    nvlwife ""
 
 # new_content_femdom.rpy:1750
 translate zh_Hans femdom_jenna_wife_messager02_1_15_07abfadf:
@@ -3652,7 +3652,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_15_5ad9d8b7:
 translate zh_Hans femdom_jenna_wife_messager02_1_15_6d987f88:
 
     # nvlwife "{image=love_emoji.png}"
-    nvlwife "{image=love_emoji.png}"
+    nvlwife ""
 
 # new_content_femdom.rpy:1758
 translate zh_Hans femdom_jenna_wife_messager02_1_15_af3c5004:
@@ -3910,7 +3910,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_17_c1c04fdd:
 translate zh_Hans femdom_jenna_wife_messager02_1_17_2d566fda:
 
     # nvlwife "{image=smile_emoji.png}"
-    nvlwife "{image=smile_emoji.png}"
+    nvlwife ""
 
 # new_content_femdom.rpy:1898
 translate zh_Hans femdom_jenna_wife_messager02_1_17_f20e37ea_1:
@@ -4072,7 +4072,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_18_68b350f1:
 translate zh_Hans femdom_jenna_wife_messager02_1_18_31abace0:
 
     # nvlwife "{a=show:wife_video_255}video_3176.mov"
-    nvlwife "{a=show:wife_video_255}video_3176.mov"
+    nvlwife ""
 
 # new_content_femdom.rpy:1984
 translate zh_Hans femdom_jenna_wife_messager02_1_18_f79db2fa:
@@ -4150,7 +4150,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_18_bc1c571a:
 translate zh_Hans femdom_jenna_wife_messager02_1_18_2d566fda:
 
     # nvlwife "{image=smile_emoji.png}"
-    nvlwife "{image=smile_emoji.png}"
+    nvlwife ""
 
 # new_content_femdom.rpy:2010
 translate zh_Hans femdom_jenna_wife_messager02_1_18_ab01cec9:
@@ -4672,7 +4672,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_21_87fa7140:
 translate zh_Hans femdom_jenna_wife_messager02_1_21_6d987f88:
 
     # nvlwife "{image=love_emoji.png}"
-    nvlwife "{image=love_emoji.png}"
+    nvlwife ""
 
 # new_content_femdom.rpy:2277
 translate zh_Hans femdom_jenna_wife_messager02_1_21_ba4501d9:
@@ -5116,7 +5116,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_22_fd2b90e7:
 translate zh_Hans femdom_jenna_wife_messager02_1_22_78203c08:
 
     # nvljohn "{a=show:mc_pic_49}photo_637.png"
-    nvljohn "{a=show:mc_pic_49}photo_637.png"
+    nvljohn ""
 
 # new_content_femdom.rpy:2463
 translate zh_Hans femdom_jenna_wife_messager02_1_22_ca75582b:
@@ -6124,7 +6124,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_26_76b2fe88:
 translate zh_Hans femdom_jenna_wife_messager02_1_26_4c9f8334:
 
     # nvljulia "geo.com/9958134"
-    nvljulia "geo.com/9958134"
+    nvljulia ""
 
 # new_content_femdom.rpy:2918
 translate zh_Hans femdom_jenna_wife_messager02_1_26_1474a8c4:
@@ -6574,7 +6574,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_27_892a3ff5:
 translate zh_Hans femdom_jenna_wife_messager02_1_27_d6b1ff2f:
 
     # nvlwife "{a=show:wife_video_256}video_3183.mov"
-    nvlwife "{a=show:wife_video_256}video_3183.mov"
+    nvlwife ""
 
 # new_content_femdom.rpy:3100
 translate zh_Hans femdom_jenna_wife_messager02_1_27_d45a8e12:
@@ -6898,7 +6898,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_27_7e2408d6_1:
 translate zh_Hans femdom_jenna_wife_messager02_1_27_66d874ae:
 
     # nvljohn "{image=smile_emoji.png}"
-    nvljohn "{image=smile_emoji.png}"
+    nvljohn ""
 
 # new_content_femdom.rpy:3208
 translate zh_Hans femdom_jenna_wife_messager02_1_27_ae0889b6:
@@ -7042,13 +7042,13 @@ translate zh_Hans femdom_jenna_wife_messager02_1_28_1aa6674f:
 translate zh_Hans femdom_jenna_wife_messager02_1_28_3cba4696:
 
     # nvljohn "{a=show:julia_video_31}video_4669.png"
-    nvljohn "{a=show:julia_video_31}video_4669.png"
+    nvljohn ""
 
 # new_content_femdom.rpy:3288
 translate zh_Hans femdom_jenna_wife_messager02_1_28_ed94b3c3:
 
     # nvljohn "{a=show:julia_video_32}video_4671.png"
-    nvljohn "{a=show:julia_video_32}video_4671.png"
+    nvljohn ""
 
 # new_content_femdom.rpy:3294
 translate zh_Hans femdom_jenna_wife_messager02_1_28_213e7227:
@@ -7600,7 +7600,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_29_df8352d2:
 translate zh_Hans femdom_jenna_wife_messager02_1_29_6d987f88:
 
     # nvlwife "{image=love_emoji.png}"
-    nvlwife "{image=love_emoji.png}"
+    nvlwife ""
 
 # new_content_femdom.rpy:3506
 translate zh_Hans femdom_jenna_wife_messager02_1_29_36e75bf5:
@@ -7654,7 +7654,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_29_9ea34ac2:
 translate zh_Hans femdom_jenna_wife_messager02_1_29_0197c35c:
 
     # nvlwife "{a=show:wife_pic_806}photo_30019.png"
-    nvlwife "{a=show:wife_pic_806}photo_30019.png"
+    nvlwife ""
 
 # new_content_femdom.rpy:3526
 translate zh_Hans femdom_jenna_wife_messager02_1_29_f720151c:
@@ -7978,7 +7978,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_31_b5b0f2ac:
 translate zh_Hans femdom_jenna_wife_messager02_1_31_d97933ec:
 
     # nvlwsis "{a=show:w_sister_pic_157}photo_2211.png"
-    nvlwsis "{a=show:w_sister_pic_157}photo_2211.png"
+    nvlwsis ""
 
 # new_content_femdom.rpy:3690
 translate zh_Hans femdom_jenna_wife_messager02_1_31_99215df3:
@@ -8170,7 +8170,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_31_5d5437ca:
 translate zh_Hans femdom_jenna_wife_messager02_1_31_2d566fda:
 
     # nvlwife "{image=smile_emoji.png}"
-    nvlwife "{image=smile_emoji.png}"
+    nvlwife ""
 
 # new_content_femdom.rpy:3754
 translate zh_Hans femdom_jenna_wife_messager02_1_31_2bb2353b:
@@ -8320,7 +8320,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_32_ac5d0747:
 translate zh_Hans femdom_jenna_wife_messager02_1_32_d97933ec:
 
     # nvlwsis "{a=show:w_sister_pic_157}photo_2211.png"
-    nvlwsis "{a=show:w_sister_pic_157}photo_2211.png"
+    nvlwsis ""
 
 # new_content_femdom.rpy:3832
 translate zh_Hans femdom_jenna_wife_messager02_1_32_5cd5ef0d:
@@ -8656,7 +8656,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_33_daa3fd93:
 translate zh_Hans femdom_jenna_wife_messager02_1_33_1faa4be9:
 
     # nvlwsis "{image=love_emoji.png}"
-    nvlwsis "{image=love_emoji.png}"
+    nvlwsis ""
 
 # new_content_femdom.rpy:3972
 translate zh_Hans femdom_jenna_wife_messager02_1_33_f6802910:
@@ -8956,7 +8956,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_33_046a5441:
 translate zh_Hans femdom_jenna_wife_messager02_1_33_2d566fda:
 
     # nvlwife "{image=smile_emoji.png}"
-    nvlwife "{image=smile_emoji.png}"
+    nvlwife ""
 
 # new_content_femdom.rpy:4072
 translate zh_Hans femdom_jenna_wife_messager02_1_33_65d7def4:
@@ -9178,7 +9178,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_34_5f56facd:
 translate zh_Hans femdom_jenna_wife_messager02_1_34_2d566fda:
 
     # nvlwife "{image=smile_emoji.png}"
-    nvlwife "{image=smile_emoji.png}"
+    nvlwife ""
 
 # new_content_femdom.rpy:4174
 translate zh_Hans femdom_jenna_wife_messager02_1_34_faf1d9d0:
@@ -9196,7 +9196,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_34_c0d86542:
 translate zh_Hans femdom_jenna_wife_messager02_1_34_6d987f88:
 
     # nvlwife "{image=love_emoji.png}"
-    nvlwife "{image=love_emoji.png}"
+    nvlwife ""
 
 # new_content_femdom.rpy:4180
 translate zh_Hans femdom_jenna_wife_messager02_1_34_88cd5eb6:
@@ -9580,7 +9580,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_35_c2e7a868:
 translate zh_Hans femdom_jenna_wife_messager02_1_35_d4a123a3:
 
     # nvljenna "{a=show:jenna_pic_110}photo_2216.png"
-    nvljenna "{a=show:jenna_pic_110}photo_2216.png"
+    nvljenna ""
 
 # new_content_femdom.rpy:4338
 translate zh_Hans femdom_jenna_wife_messager02_1_35_ce3566e4:
@@ -9910,7 +9910,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_36_423034ea:
 translate zh_Hans femdom_jenna_wife_messager02_1_36_784cd22a:
 
     # nvlwife "{a=show:wife_video_257}video_3188.mov"
-    nvlwife "{a=show:wife_video_257}video_3188.mov"
+    nvlwife ""
 
 # new_content_femdom.rpy:4478
 translate zh_Hans femdom_jenna_wife_messager02_1_36_83f77292:
@@ -9994,7 +9994,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_36_1cb80a4e:
 translate zh_Hans femdom_jenna_wife_messager02_1_36_6d987f88:
 
     # nvlwife "{image=love_emoji.png}"
-    nvlwife "{image=love_emoji.png}"
+    nvlwife ""
 
 # new_content_femdom.rpy:4506
 translate zh_Hans femdom_jenna_wife_messager02_1_36_8a150ae3:
@@ -10030,7 +10030,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_37_76b2fe88:
 translate zh_Hans femdom_jenna_wife_messager02_1_37_8febf831:
 
     # nvlwife "{a=show:wife_pic_807}photo_30024.png"
-    nvlwife "{a=show:wife_pic_807}photo_30024.png"
+    nvlwife ""
 
 # new_content_femdom.rpy:4546
 translate zh_Hans femdom_jenna_wife_messager02_1_37_24f84dbd:
@@ -10186,7 +10186,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_37_99cee68a:
 translate zh_Hans femdom_jenna_wife_messager02_1_37_f13a4883:
 
     # nvljohn "{image=love_emoji.png}"
-    nvljohn "{image=love_emoji.png}"
+    nvljohn ""
 
 # new_content_femdom.rpy:4598
 translate zh_Hans femdom_jenna_wife_messager02_1_37_68fc19c1:
@@ -10234,7 +10234,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_37_e65c7593:
 translate zh_Hans femdom_jenna_wife_messager02_1_37_6d987f88:
 
     # nvlwife "{image=love_emoji.png}"
-    nvlwife "{image=love_emoji.png}"
+    nvlwife ""
 
 # new_content_femdom.rpy:4614
 translate zh_Hans femdom_jenna_wife_messager02_1_37_2b86e84a:
@@ -10306,7 +10306,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_38_76b2fe88:
 translate zh_Hans femdom_jenna_wife_messager02_1_38_afeb898f:
 
     # nvlwife "{a=show:wife_pic_808}photo_30028.png"
-    nvlwife "{a=show:wife_pic_808}photo_30028.png"
+    nvlwife ""
 
 # new_content_femdom.rpy:4668
 translate zh_Hans femdom_jenna_wife_messager02_1_38_3ba39878:
@@ -10360,7 +10360,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_38_b6d06ce2:
 translate zh_Hans femdom_jenna_wife_messager02_1_38_e71969f7:
 
     # nvlwife "{a=show:wife_video_258}video_3192.mov"
-    nvlwife "{a=show:wife_video_258}video_3192.mov"
+    nvlwife ""
 
 # new_content_femdom.rpy:4690
 translate zh_Hans femdom_jenna_wife_messager02_1_38_f6d76c7a:
@@ -10732,7 +10732,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_baf71f8c:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_56411965:
 
     # nvljenna "{a=show:mc_pic_50}photo_644.png"
-    nvljenna "{a=show:mc_pic_50}photo_644.png"
+    nvljenna ""
 
 # new_content_femdom.rpy:4870
 translate zh_Hans femdom_jenna_wife_messager02_1_40_0452c074:
@@ -10876,7 +10876,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_f20e37ea:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_ea17654d:
 
     # nvljenna "{image=smile_emoji.png}"
-    nvljenna "{image=smile_emoji.png}"
+    nvljenna ""
 
 # new_content_femdom.rpy:4918
 translate zh_Hans femdom_jenna_wife_messager02_1_40_f49e8f44:
@@ -11728,13 +11728,13 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_6a084804:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_549dc616:
 
     # nvljohn "{a=show:w_sister_pic_158}photo_2216.png"
-    nvljohn "{a=show:w_sister_pic_158}photo_2216.png"
+    nvljohn ""
 
 # new_content_femdom.rpy:5291
 translate zh_Hans femdom_jenna_wife_messager02_1_40_db462b66:
 
     # nvljohn "{a=show:w_sister_pic_159}photo_2219.png"
-    nvljohn "{a=show:w_sister_pic_159}photo_2219.png"
+    nvljohn ""
 
 # new_content_femdom.rpy:5299
 translate zh_Hans femdom_jenna_wife_messager02_1_40_fcb87fe2:
@@ -11764,7 +11764,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_3533fa83:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_9fbf4335:
 
     # nvlwsis "{image=smile_emoji.png}"
-    nvlwsis "{image=smile_emoji.png}"
+    nvlwsis ""
 
 # new_content_femdom.rpy:5309
 translate zh_Hans femdom_jenna_wife_messager02_1_40_252f07de:
@@ -12154,7 +12154,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_212d0760:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_7012155f:
 
     # nvlwife "{a=show:cuckold_pic_50}pic_33.png"
-    nvlwife "{a=show:cuckold_pic_50}pic_33.png"
+    nvlwife ""
 
 # new_content_femdom.rpy:5455
 translate zh_Hans femdom_jenna_wife_messager02_1_40_88825694:
@@ -12190,7 +12190,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_071f0d6a:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_7e644b48:
 
     # nvlwife "{color=#000}{a=show:bbc_pic_277}7531.png"
-    nvlwife "{color=#000}{a=show:bbc_pic_277}7531.png"
+    nvlwife ""
 
 # new_content_femdom.rpy:5469
 translate zh_Hans femdom_jenna_wife_messager02_1_40_4ba997e3:
@@ -12298,7 +12298,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_8d13c7d3:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_29697648:
 
     # nvljohn "{a=show:mc_pic_51}photo_648.png"
-    nvljohn "{a=show:mc_pic_51}photo_648.png"
+    nvljohn ""
 
 # new_content_femdom.rpy:5507
 translate zh_Hans femdom_jenna_wife_messager02_1_40_78a962ba:
@@ -12346,7 +12346,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_5e0b08f4:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_6d987f88:
 
     # nvlwife "{image=love_emoji.png}"
-    nvlwife "{image=love_emoji.png}"
+    nvlwife ""
 
 # new_content_femdom.rpy:5523
 translate zh_Hans femdom_jenna_wife_messager02_1_40_f49e8f44_5:
@@ -12880,7 +12880,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_9ca9454a:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_d8c9aac3:
 
     # nvljulia "{a=show:julia_pic_70}photo_3413.png"
-    nvljulia "{a=show:julia_pic_70}photo_3413.png"
+    nvljulia ""
 
 # new_content_femdom.rpy:5770
 translate zh_Hans femdom_jenna_wife_messager02_1_40_0adbf6fd:
@@ -13264,7 +13264,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_565b16de:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_99700f52:
 
     # nvljulia "{image=smile_emoji.png}"
-    nvljulia "{image=smile_emoji.png}"
+    nvljulia ""
 
 # new_content_femdom.rpy:5931
 translate zh_Hans femdom_jenna_wife_messager02_1_40_2fd6e157:
@@ -13474,7 +13474,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_91e1f96c:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_ef0cd846:
 
     # nvlwife "{a=show:cuckold_pic_51}pic_38.png"
-    nvlwife "{a=show:cuckold_pic_51}pic_38.png"
+    nvlwife ""
 
 # new_content_femdom.rpy:6009
 translate zh_Hans femdom_jenna_wife_messager02_1_40_578c5586:
@@ -13798,7 +13798,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_8d13c7d3_1:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_5f586a1a:
 
     # nvljohn "{a=show:mc_pic_52}photo_653.png"
-    nvljohn "{a=show:mc_pic_52}photo_653.png"
+    nvljohn ""
 
 # new_content_femdom.rpy:6119
 translate zh_Hans femdom_jenna_wife_messager02_1_40_46dc79a9:
@@ -14884,7 +14884,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_3cf2a456:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_9ed833ba:
 
     # nvlwife "How did you sleep?"
-    nvlwife "您睡得好吗？"
+    nvlwife "你睡得好吗？"
 
 # new_content_femdom.rpy:6554
 translate zh_Hans femdom_jenna_wife_messager02_1_40_dd0f1032:
@@ -15028,7 +15028,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_f9c656d4:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_604c7911:
 
     # nvlwife "{a=show:cuckold_pic_52_1}pic_113.png"
-    nvlwife "{a=show:cuckold_pic_52_1}pic_113.png"
+    nvlwife ""
 
 # new_content_femdom.rpy:6604
 translate zh_Hans femdom_jenna_wife_messager02_1_40_95110ee8:
@@ -15448,13 +15448,13 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_4a26bd94_1:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_95d6b9d0:
 
     # nvljohn "Always happy to help you"
-    nvljohn "很高兴能为您服务。"
+    nvljohn "很高兴能为你服务。"
 
 # new_content_femdom.rpy:6800
 translate zh_Hans femdom_jenna_wife_messager02_1_40_1faa4be9:
 
     # nvlwsis "{image=love_emoji.png}"
-    nvlwsis "{image=love_emoji.png}"
+    nvlwsis ""
 
 # new_content_femdom.rpy:6802
 translate zh_Hans femdom_jenna_wife_messager02_1_40_d62fc2af:
@@ -16462,7 +16462,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_ddf4180a:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_1ca82e89:
 
     # nvlwife "{a=show:wife_pic_811}photo_30047.png"
-    nvlwife "{a=show:wife_pic_811}photo_30047.png"
+    nvlwife ""
 
 # new_content_femdom.rpy:7200
 translate zh_Hans femdom_jenna_wife_messager02_1_40_c17099c2:
@@ -16486,7 +16486,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_ce87d255:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_6d987f88_1:
 
     # nvlwife "{image=love_emoji.png}"
-    nvlwife "{image=love_emoji.png}"
+    nvlwife ""
 
 # new_content_femdom.rpy:7208
 translate zh_Hans femdom_jenna_wife_messager02_1_40_4bf44e05:
@@ -16516,7 +16516,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_fcf4c021:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_4907593f:
 
     # nvlwife "{a=show:wife_pic_809}photo_30031.png"
-    nvlwife "{a=show:wife_pic_809}photo_30031.png"
+    nvlwife ""
 
 # new_content_femdom.rpy:7220
 translate zh_Hans femdom_jenna_wife_messager02_1_40_ddae381b:
@@ -16540,7 +16540,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_ee2c92f3:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_e3d6f1fb:
 
     # nvlwife "{a=show:wife_pic_810}photo_30036.png"
-    nvlwife "{a=show:wife_pic_810}photo_30036.png"
+    nvlwife ""
 
 # new_content_femdom.rpy:7230
 translate zh_Hans femdom_jenna_wife_messager02_1_40_cfa8f6a7:
@@ -17794,7 +17794,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_2ba1792d:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_2d566fda:
 
     # nvlwife "{image=smile_emoji.png}"
-    nvlwife "{image=smile_emoji.png}"
+    nvlwife ""
 
 # new_content_femdom.rpy:7760
 translate zh_Hans femdom_jenna_wife_messager02_1_40_452aa930:
@@ -17806,7 +17806,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_452aa930:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_51ac8277:
 
     # nvlwife "{a=show:mc_pic_53}photo_5813.png"
-    nvlwife "{a=show:mc_pic_53}photo_5813.png"
+    nvlwife ""
 
 # new_content_femdom.rpy:7766
 translate zh_Hans femdom_jenna_wife_messager02_1_40_bbf7031d:
@@ -18040,7 +18040,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_a5bedfac_1:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_4b50f1cb:
 
     # nvlwife "{a=show:wife_video_259}video_3199.mov"
-    nvlwife "{a=show:wife_video_259}video_3199.mov"
+    nvlwife ""
 
 # new_content_femdom.rpy:7846
 translate zh_Hans femdom_jenna_wife_messager02_1_40_07f4c457:
@@ -18064,7 +18064,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_1378d0cb:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_fb68f6e7:
 
     # nvlwife "{a=show:cuckold_pic_53}pic_4153.png"
-    nvlwife "{a=show:cuckold_pic_53}pic_4153.png"
+    nvlwife ""
 
 # new_content_femdom.rpy:7856
 translate zh_Hans femdom_jenna_wife_messager02_1_40_748b89e9:
@@ -18076,7 +18076,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_748b89e9:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_2e0cfcd1:
 
     # nvlwife "{a=show:wife_pic_812}photo_30102.png"
-    nvlwife "{a=show:wife_pic_812}photo_30102.png"
+    nvlwife ""
 
 # new_content_femdom.rpy:7862
 translate zh_Hans femdom_jenna_wife_messager02_1_40_d45a8e12:
@@ -18502,7 +18502,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_16553c79:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_97878daf:
 
     # nvljenna "{a=show:cuckold_pic_54}pic_4158.png"
-    nvljenna "{a=show:cuckold_pic_54}pic_4158.png"
+    nvljenna ""
 
 # new_content_femdom.rpy:8049
 translate zh_Hans femdom_jenna_wife_messager02_1_40_9c8a9e02:
@@ -18658,7 +18658,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_e446ea82_1:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_4ff247e9:
 
     # nvljenna "{a=show:jenna_pic_111}photo_4194.png"
-    nvljenna "{a=show:jenna_pic_111}photo_4194.png"
+    nvljenna ""
 
 # new_content_femdom.rpy:8103
 translate zh_Hans femdom_jenna_wife_messager02_1_40_9b6868f8:
@@ -18922,7 +18922,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_b09a076c:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_d85573f0:
 
     # nvlwsis "{a=show:w_sister_pic_160}photo_3848.png"
-    nvlwsis "{a=show:w_sister_pic_160}photo_3848.png"
+    nvlwsis ""
 
 # new_content_femdom.rpy:8221
 translate zh_Hans femdom_jenna_wife_messager02_1_40_11157a44:
@@ -19444,7 +19444,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_1db89372:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_5399a7bc:
 
     # nvlwife "{a=show:wife_pic_813}photo_30115.png"
-    nvlwife "{a=show:wife_pic_813}photo_30115.png"
+    nvlwife ""
 
 # new_content_femdom.rpy:8412
 translate zh_Hans femdom_jenna_wife_messager02_1_40_acacc449_1:
@@ -19606,7 +19606,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_88ea4f82:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_6d987f88_2:
 
     # nvlwife "{image=love_emoji.png}"
-    nvlwife "{image=love_emoji.png}"
+    nvlwife ""
 
 # new_content_femdom.rpy:8466
 translate zh_Hans femdom_jenna_wife_messager02_1_40_c1b6b7d9:
@@ -19666,7 +19666,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_8789e89b:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_a1307b9a:
 
     # nvlwife "{a=show:cuckold_pic_55}pic_4162.png"
-    nvlwife "{a=show:cuckold_pic_55}pic_4162.png|{a=show:cuckold_pic_55}pic_4162.png"
+    nvlwife "{a=show:cuckold_pic_55}pic_4162.png|"
 
 # new_content_femdom.rpy:8488
 translate zh_Hans femdom_jenna_wife_messager02_1_40_86155299:
@@ -20050,7 +20050,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_63c59f81:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_f13a4883:
 
     # nvljohn "{image=love_emoji.png}"
-    nvljohn "{image=love_emoji.png}"
+    nvljohn ""
 
 # new_content_femdom.rpy:8616
 translate zh_Hans femdom_jenna_wife_messager02_1_40_72567ba1:
@@ -20476,7 +20476,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_860b4474_3:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_ba347278:
 
     # nvlwife "{a=show:mc_pic_54}photo_5827.png"
-    nvlwife "{a=show:mc_pic_54}photo_5827.png"
+    nvlwife ""
 
 # new_content_femdom.rpy:8816
 translate zh_Hans femdom_jenna_wife_messager02_1_40_427c18a2:
@@ -20494,7 +20494,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_b52c832b:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_66d874ae:
 
     # nvljohn "{image=smile_emoji.png}"
-    nvljohn "{image=smile_emoji.png}"
+    nvljohn ""
 
 # new_content_femdom.rpy:8822
 translate zh_Hans femdom_jenna_wife_messager02_1_40_1bc18843:
@@ -20590,7 +20590,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_14751a42:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_f13a4883_1:
 
     # nvljohn "{image=love_emoji.png}"
-    nvljohn "{image=love_emoji.png}"
+    nvljohn ""
 
 # new_content_femdom.rpy:8854
 translate zh_Hans femdom_jenna_wife_messager02_1_40_ea7f5dfe:
@@ -20704,7 +20704,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_dc8a3a2e:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_c8d46cc2:
 
     # nvlwife "{a=show:cuckold_pic_56}pic_184.png"
-    nvlwife "{a=show:cuckold_pic_56}pic_184.png|{a=show:cuckold_pic_56}pic_184.png"
+    nvlwife "{a=show:cuckold_pic_56}pic_184.png|"
 
 # new_content_femdom.rpy:8894
 translate zh_Hans femdom_jenna_wife_messager02_1_40_52ca955d:
@@ -20746,7 +20746,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_4092f9a2:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_726fa51e:
 
     # nvlwife "{image=wink_emoji.png}"
-    nvlwife "{image=wink_emoji.png}"
+    nvlwife ""
 
 # new_content_femdom.rpy:8908
 translate zh_Hans femdom_jenna_wife_messager02_1_40_60bb5741_9:
@@ -21118,7 +21118,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_eda7a85a_1:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_f13a4883_2:
 
     # nvljohn "{image=love_emoji.png}"
-    nvljohn "{image=love_emoji.png}"
+    nvljohn ""
 
 # new_content_femdom.rpy:9051
 translate zh_Hans femdom_jenna_wife_messager02_1_40_b684f4bf:
@@ -21238,7 +21238,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_55e0a2aa:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_29f918c6:
 
     # nvljenna "How did you sleep?"
-    nvljenna "您睡得好吗？"
+    nvljenna "你睡得好吗？"
 
 # new_content_femdom.rpy:9106
 translate zh_Hans femdom_jenna_wife_messager02_1_40_469e7045_1:
@@ -21346,7 +21346,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_d5412d16:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_0291cf0d:
 
     # nvljenna "{a=show:cuckold_pic_57}pic_184.png"
-    nvljenna "{a=show:cuckold_pic_57}pic_184.png|{a=show:cuckold_pic_57}pic_184.png"
+    nvljenna "{a=show:cuckold_pic_57}pic_184.png|"
 
 # new_content_femdom.rpy:9144
 translate zh_Hans femdom_jenna_wife_messager02_1_40_5ba835cb:
@@ -21646,7 +21646,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_76b2fe88_32:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_da8ec48f:
 
     # nvlwife "{a=show:cuckold_pic_58}pic_188.png"
-    nvlwife "{a=show:cuckold_pic_58}pic_188.png|{a=show:cuckold_pic_58}pic_188.png"
+    nvlwife "{a=show:cuckold_pic_58}pic_188.png|"
 
 # new_content_femdom.rpy:9273
 translate zh_Hans femdom_jenna_wife_messager02_1_40_2af5b71b:
@@ -22252,7 +22252,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_2450cddb:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_ea5a02b0:
 
     # nvlwife "{a=show:wife_pic_815}photo_30123.png"
-    nvlwife "{a=show:wife_pic_815}photo_30123.png"
+    nvlwife ""
 
 # new_content_femdom.rpy:9483
 translate zh_Hans femdom_jenna_wife_messager02_1_40_b2d517e4:
@@ -22558,7 +22558,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_bcc969fd_1:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_74678210:
 
     # nvlwsis "{a=show:w_sister_pic_161}photo_3852.png"
-    nvlwsis "{a=show:w_sister_pic_161}photo_3852.png"
+    nvlwsis ""
 
 # new_content_femdom.rpy:9602
 translate zh_Hans femdom_jenna_wife_messager02_1_40_ba890b16:
@@ -22972,7 +22972,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_a193eca2:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_66d874ae_1:
 
     # nvljohn "{image=smile_emoji.png}"
-    nvljohn "{image=smile_emoji.png}"
+    nvljohn ""
 
 # new_content_femdom.rpy:9771
 translate zh_Hans femdom_jenna_wife_messager02_1_40_17ffc6b7:
@@ -22996,7 +22996,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_24f84dbd:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_50504a3c:
 
     # nvlwife "{a=show:mc_pic_55}photo_5831.png"
-    nvlwife "{a=show:mc_pic_55}photo_5831.png"
+    nvlwife ""
 
 # new_content_femdom.rpy:9781
 translate zh_Hans femdom_jenna_wife_messager02_1_40_860b4474_4:
@@ -23062,7 +23062,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_a822a219:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_98e59c8b:
 
     # nvlwife "{a=show:wife_pic_814}photo_30116.png"
-    nvlwife "{a=show:wife_pic_814}photo_30116.png"
+    nvlwife ""
 
 # new_content_femdom.rpy:9805
 translate zh_Hans femdom_jenna_wife_messager02_1_40_c6b33b4a:
@@ -23242,7 +23242,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_2b781809:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_6d987f88_3:
 
     # nvlwife "{image=love_emoji.png}"
-    nvlwife "{image=love_emoji.png}"
+    nvlwife ""
 
 # new_content_femdom.rpy:9865
 translate zh_Hans femdom_jenna_wife_messager02_1_40_f49e8f44_35:
@@ -23632,7 +23632,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_f7a06176:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_0d3fe4a7:
 
     # nvljulia "{a=show:julia_pic_71}photo_3419.png"
-    nvljulia "{a=show:julia_pic_71}photo_3419.png"
+    nvljulia ""
 
 # new_content_femdom.rpy:10041
 translate zh_Hans femdom_jenna_wife_messager02_1_40_aa59bd78:
@@ -23686,7 +23686,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_e4ae1718:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_66d874ae_2:
 
     # nvljohn "{image=smile_emoji.png}"
-    nvljohn "{image=smile_emoji.png}"
+    nvljohn ""
 
 # new_content_femdom.rpy:10059
 translate zh_Hans femdom_jenna_wife_messager02_1_40_b0014519:
@@ -24340,7 +24340,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_c5c79b1a:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_6d987f88_4:
 
     # nvlwife "{image=love_emoji.png}"
-    nvlwife "{image=love_emoji.png}"
+    nvlwife ""
 
 # new_content_femdom.rpy:10335
 translate zh_Hans femdom_jenna_wife_messager02_1_40_b4e1d7c7:
@@ -24748,7 +24748,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_11c6e713:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_b05b8117:
 
     # nvljenna "{a=show:mc_pic_56}photo_5834.png"
-    nvljenna "{a=show:mc_pic_56}photo_5834.png"
+    nvljenna ""
 
 # new_content_femdom.rpy:10479
 translate zh_Hans femdom_jenna_wife_messager02_1_40_aab315de:
@@ -25258,7 +25258,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_83a3dcfa_3:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_9fbf4335_1:
 
     # nvlwsis "{image=smile_emoji.png}"
-    nvlwsis "{image=smile_emoji.png}"
+    nvlwsis ""
 
 # new_content_femdom.rpy:10670
 translate zh_Hans femdom_jenna_wife_messager02_1_40_db841a82:
@@ -25408,7 +25408,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_f370290c:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_1faa4be9_1:
 
     # nvlwsis "{image=love_emoji.png}"
-    nvlwsis "{image=love_emoji.png}"
+    nvlwsis ""
 
 # new_content_femdom.rpy:10720
 translate zh_Hans femdom_jenna_wife_messager02_1_40_4b9d7c6f:
@@ -25510,7 +25510,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_551bf43d:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_6a7459ee:
 
     # nvljulia "geo.com/554313"
-    nvljulia "geo.com/554313"
+    nvljulia ""
 
 # new_content_femdom.rpy:10769
 translate zh_Hans femdom_jenna_wife_messager02_1_40_e3eb7b34:
@@ -25750,7 +25750,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_08b4d204_1:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_616bc312:
 
     # nvljohn "{a=show:julia_video_33}video_4673.png"
-    nvljohn "{a=show:julia_video_33}video_4673.png"
+    nvljohn ""
 
 # new_content_femdom.rpy:10881
 translate zh_Hans femdom_jenna_wife_messager02_1_40_1148b963:
@@ -25888,7 +25888,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_542bcbfa:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_99700f52_1:
 
     # nvljulia "{image=smile_emoji.png}"
-    nvljulia "{image=smile_emoji.png}"
+    nvljulia ""
 
 # new_content_femdom.rpy:10927
 translate zh_Hans femdom_jenna_wife_messager02_1_40_403a4b9a:
@@ -26284,7 +26284,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_1f13983e_1:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_cfb67439:
 
     # nvlwife "{a=show:wife_pic_816}photo_30131.png"
-    nvlwife "{a=show:wife_pic_816}photo_30131.png"
+    nvlwife ""
 
 # new_content_femdom.rpy:11095
 translate zh_Hans femdom_jenna_wife_messager02_1_40_fdcee7be:
@@ -26572,7 +26572,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_6e4ba259_1:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_40544004:
 
     # nvlwsis "{a=show:w_sis_sex_video_50}video_3172.mp4"
-    nvlwsis "{a=show:w_sis_sex_video_50}video_3172.mp4"
+    nvlwsis ""
 
 # new_content_femdom.rpy:11222
 translate zh_Hans femdom_jenna_wife_messager02_1_40_2d9228dd:
@@ -26632,7 +26632,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_40_d53cd149:
 translate zh_Hans femdom_jenna_wife_messager02_1_40_54f64b35:
 
     # nvlwsis "{a=show:w_sister_pic_162}photo_3867.png"
-    nvlwsis "{a=show:w_sister_pic_162}photo_3867.png"
+    nvlwsis ""
 
 # new_content_femdom.rpy:11244
 translate zh_Hans femdom_jenna_wife_messager02_1_40_7315e053:
@@ -27598,7 +27598,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_41_7d2d170f:
 translate zh_Hans femdom_jenna_wife_messager02_1_41_f13a4883:
 
     # nvljohn "{image=love_emoji.png}"
-    nvljohn "{image=love_emoji.png}"
+    nvljohn ""
 
 # new_content_femdom.rpy:11660
 translate zh_Hans femdom_jenna_wife_messager02_1_41_a10455f5:
@@ -27634,7 +27634,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_41_a8863aca:
 translate zh_Hans femdom_jenna_wife_messager02_1_41_89a6431c:
 
     # nvlwife "{a=show:wife_pic_817}photo_30239.png"
-    nvlwife "{a=show:wife_pic_817}photo_30239.png"
+    nvlwife ""
 
 # new_content_femdom.rpy:11674
 translate zh_Hans femdom_jenna_wife_messager02_1_41_6dad8baf:
@@ -27844,7 +27844,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_42_86e653d9:
 translate zh_Hans femdom_jenna_wife_messager02_1_42_ea17654d:
 
     # nvljenna "{image=smile_emoji.png}"
-    nvljenna "{image=smile_emoji.png}"
+    nvljenna ""
 
 # new_content_femdom.rpy:11772
 translate zh_Hans femdom_jenna_wife_messager02_1_42_b5e9e686:
@@ -28012,7 +28012,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_42_655436d0:
 translate zh_Hans femdom_jenna_wife_messager02_1_42_16cc1ee8:
 
     # nvljenna "{a=show:cuckold_pic_59}pic_2101.png"
-    nvljenna "{a=show:cuckold_pic_59}pic_2101.png"
+    nvljenna ""
 
 # new_content_femdom.rpy:11830
 translate zh_Hans femdom_jenna_wife_messager02_1_42_973e8a4d:
@@ -28846,7 +28846,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_46_14d83419:
 translate zh_Hans femdom_jenna_wife_messager02_1_46_6bd1d970:
 
     # nvljulia "{a=show:julia_pic_72}photo_3431.png"
-    nvljulia "{a=show:julia_pic_72}photo_3431.png"
+    nvljulia ""
 
 # new_content_femdom.rpy:12242
 translate zh_Hans femdom_jenna_wife_messager02_1_46_a4d8be05:
@@ -29074,7 +29074,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_47_6a87cbd9:
 translate zh_Hans femdom_jenna_wife_messager02_1_47_4a34a4f5:
 
     # nvlwsis "{a=show:w_sister_pic_163}photo_3872.png"
-    nvlwsis "{a=show:w_sister_pic_163}photo_3872.png"
+    nvlwsis ""
 
 # new_content_femdom.rpy:12348
 translate zh_Hans femdom_jenna_wife_messager02_1_47_4dbd9e29:
@@ -29338,7 +29338,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_48_75fbc4d3:
 translate zh_Hans femdom_jenna_wife_messager02_1_48_bafdc792:
 
     # nvljulia "{a=show:julia_video_34}video_4678.png"
-    nvljulia "{a=show:julia_video_34}video_4678.png"
+    nvljulia ""
 
 # new_content_femdom.rpy:12468
 translate zh_Hans femdom_jenna_wife_messager02_1_48_5e8643a6:
@@ -29482,7 +29482,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_49_bf42c09d:
 translate zh_Hans femdom_jenna_wife_messager02_1_49_e33cb89c:
 
     # nvlwsis "{a=show:w_sister_pic_164}photo_3879.png"
-    nvlwsis "{a=show:w_sister_pic_164}photo_3879.png"
+    nvlwsis ""
 
 # new_content_femdom.rpy:12546
 translate zh_Hans femdom_jenna_wife_messager02_1_49_a290984c:
@@ -29542,7 +29542,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_49_687fb465:
 translate zh_Hans femdom_jenna_wife_messager02_1_49_9fbf4335:
 
     # nvlwsis "{image=smile_emoji.png}"
-    nvlwsis "{image=smile_emoji.png}"
+    nvlwsis ""
 
 # new_content_femdom.rpy:12566
 translate zh_Hans femdom_jenna_wife_messager02_1_49_97fde15c:
@@ -29644,7 +29644,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_50_b1325517:
 translate zh_Hans femdom_jenna_wife_messager02_1_50_15955318:
 
     # nvlwife "{a=show:wife_pic_818}photo_30245.png"
-    nvlwife "{a=show:wife_pic_818}photo_30245.png"
+    nvlwife ""
 
 # new_content_femdom.rpy:12630
 translate zh_Hans femdom_jenna_wife_messager02_1_50_42789ff5:
@@ -29734,7 +29734,7 @@ translate zh_Hans femdom_jenna_wife_messager02_1_50_cdae1557:
 translate zh_Hans femdom_jenna_wife_messager02_1_50_6d987f88:
 
     # nvlwife "{image=love_emoji.png}"
-    nvlwife "{image=love_emoji.png}"
+    nvlwife ""
 
 # new_content_femdom.rpy:12660
 translate zh_Hans femdom_jenna_wife_messager02_1_50_0c5292aa:

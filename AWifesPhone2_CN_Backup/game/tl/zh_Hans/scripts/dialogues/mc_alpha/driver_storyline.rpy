@@ -1178,7 +1178,7 @@ translate zh_Hans driver_storyline_10_f683b8f3:
 translate zh_Hans driver_storyline_10_aa220566:
 
     # nvljohn "Would you like to book a car right now?"
-    nvljohn "您现在想预订一辆车吗？"
+    nvljohn "你现在想预订一辆车吗？"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:760
 translate zh_Hans driver_storyline_10_d62b926d:
@@ -1208,7 +1208,7 @@ translate zh_Hans driver_storyline_10_a1931681:
 translate zh_Hans driver_storyline_10_81e30ed6:
 
     # nvlkaia "{a=show:show_chat_media}{image=driver_pic_1}"
-    nvlkaia "{a=show:show_chat_media}{image=driver_pic_1}"
+    nvlkaia ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:774
 translate zh_Hans driver_storyline_10_288dd768:
@@ -1262,7 +1262,7 @@ translate zh_Hans driver_storyline_10_930eef1c:
 translate zh_Hans driver_storyline_10_ae71dcdf:
 
     # nvlkaia "❤️"
-    nvlkaia "❤️|❤️"
+    nvlkaia "❤️|"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:806
 translate zh_Hans driver_storyline_10_53c71d7c:
@@ -1390,7 +1390,7 @@ translate zh_Hans driver_storyline_11_8c470fe8:
 translate zh_Hans driver_storyline_11_d887213d:
 
     # nvlkaia "{a=show:show_chat_media}{image=driver_pic_2}"
-    nvlkaia "{a=show:show_chat_media}{image=driver_pic_2}"
+    nvlkaia ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:913
 translate zh_Hans driver_storyline_11_ae5c1282:
@@ -1444,7 +1444,7 @@ translate zh_Hans driver_storyline_11_e6f85838:
 translate zh_Hans driver_storyline_11_80648784:
 
     # nvlkaia "❤️❤️❤️"
-    nvlkaia "❤️❤️❤️"
+    nvlkaia ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:945
 translate zh_Hans driver_storyline_11_53c71d7c:
@@ -1772,7 +1772,7 @@ translate zh_Hans driver_storyline_13_9b6a9ddd:
 translate zh_Hans driver_storyline_13_4e4d6295:
 
     # nvlunknown "{a=show:show_chat_media}{image=driver_video_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=driver_video_1_ns}"
+    nvlunknown ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1111
 translate zh_Hans driver_storyline_13_f612f736:
@@ -1796,7 +1796,7 @@ translate zh_Hans driver_storyline_13_c779b304:
 translate zh_Hans driver_storyline_13_142bbe2d:
 
     # nvlunknown "{a=show:show_chat_media}{image=driver_video_2_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=driver_video_2_ns}"
+    nvlunknown ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1123
 translate zh_Hans driver_storyline_13_1751e569:
@@ -1862,13 +1862,13 @@ translate zh_Hans driver_storyline_13_4840daf7_1:
 translate zh_Hans driver_storyline_13_66c2e585:
 
     # nvlunknown "We have a video for you"
-    nvlunknown "我们为您准备了一段视频"
+    nvlunknown "我们为你准备了一段视频"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1150
 translate zh_Hans driver_storyline_13_4e4d6295_1:
 
     # nvlunknown "{a=show:show_chat_media}{image=driver_video_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=driver_video_1_ns}"
+    nvlunknown ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1154
 translate zh_Hans driver_storyline_13_dc6a261a:
@@ -1892,7 +1892,7 @@ translate zh_Hans driver_storyline_13_c779b304_1:
 translate zh_Hans driver_storyline_13_142bbe2d_1:
 
     # nvlunknown "{a=show:show_chat_media}{image=driver_video_2_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=driver_video_2_ns}"
+    nvlunknown ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1166
 translate zh_Hans driver_storyline_13_ae8b3320:
@@ -2044,13 +2044,13 @@ translate zh_Hans driver_storyline_14_681bfca4:
 translate zh_Hans driver_storyline_14_fefdb6be:
 
     # nvlmisoki "We’ll send you all the information by email"
-    nvlmisoki "我们会通过电子邮件将所有信息发送给您。"
+    nvlmisoki "我们会通过电子邮件将所有信息发送给你。"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1251
 translate zh_Hans driver_storyline_14_ee5d6d5a:
 
     # nvlmisoki "We just wanted to express our satisfaction with working with you, and to pass on Miss Kaia’s high praise"
-    nvlmisoki "我们只想表达我们对与您合作的满意之情，并转达凯娅小姐对您的高度赞扬。"
+    nvlmisoki "我们只想表达我们对与你合作的满意之情，并转达凯娅小姐对你的高度赞扬。"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1253
 translate zh_Hans driver_storyline_14_4cdc7732:
@@ -2172,7 +2172,7 @@ translate zh_Hans driver_storyline_15_397df877:
 translate zh_Hans driver_storyline_15_fb555d08:
 
     # nvlkaia "{a=show:show_chat_media}{image=driver_video_3_ns}"
-    nvlkaia "{a=show:show_chat_media}{image=driver_video_3_ns}|{a=show:show_chat_media}{image=driver_video_3_ns}"
+    nvlkaia "{a=show:show_chat_media}{image=driver_video_3_ns}|"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1363
 translate zh_Hans driver_storyline_15_615cf660:
@@ -2262,7 +2262,7 @@ translate zh_Hans driver_storyline_15_b476c730:
 translate zh_Hans driver_storyline_15_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1393
 translate zh_Hans driver_storyline_15_7bc8d05e:
@@ -2322,7 +2322,7 @@ translate zh_Hans driver_storyline_15_03e1ff50:
 translate zh_Hans driver_storyline_15_d67286ce:
 
     # nvlkaia "{a=show:show_chat_media}{image=driver_pic_3}"
-    nvlkaia "{a=show:show_chat_media}{image=driver_pic_3}|{a=show:show_chat_media}{image=driver_pic_3}"
+    nvlkaia "{a=show:show_chat_media}{image=driver_pic_3}|"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1417
 translate zh_Hans driver_storyline_15_e92824ba:
@@ -2340,7 +2340,7 @@ translate zh_Hans driver_storyline_15_77e9fefd:
 translate zh_Hans driver_storyline_15_c1a47705:
 
     # nvlkaia "{a=show:show_chat_media}{image=driver_pic_4}"
-    nvlkaia "{a=show:show_chat_media}{image=driver_pic_4}|{a=show:show_chat_media}{image=driver_pic_4}"
+    nvlkaia "{a=show:show_chat_media}{image=driver_pic_4}|"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1427
 translate zh_Hans driver_storyline_15_2de1e9fa:
@@ -2412,7 +2412,7 @@ translate zh_Hans driver_storyline_15_f932cf0d:
 translate zh_Hans driver_storyline_15_3e99142d:
 
     # nvljohn "{a=show:show_chat_media}{image=mc_pic_72}"
-    nvljohn "{a=show:show_chat_media}{image=mc_pic_72}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1455
 translate zh_Hans driver_storyline_15_85eac29b:
@@ -2538,7 +2538,7 @@ translate zh_Hans driver_storyline_15_81f361c1:
 translate zh_Hans driver_storyline_15_ae71dcdf:
 
     # nvlkaia "❤️"
-    nvlkaia "❤️|❤️"
+    nvlkaia "❤️|"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1513
 translate zh_Hans driver_storyline_15_53c71d7c:
@@ -2660,7 +2660,7 @@ translate zh_Hans driver_storyline_16_c2ce44c7_1:
 translate zh_Hans driver_storyline_16_5551159a:
 
     # nvljohn "We’ll be waiting for your information"
-    nvljohn "我们将等待您的信息。"
+    nvljohn "我们将等待你的信息。"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1586
 translate zh_Hans driver_storyline_16_53c71d7c:
@@ -2680,13 +2680,13 @@ translate zh_Hans driver_storyline_17_925832d9:
 translate zh_Hans driver_storyline_17_e0de437a:
 
     # nvlroman2 "Just wanted to remind you about the booking of 5 cars for next week"
-    nvlroman2 "只是想提醒您一下，下周预订了5辆车。"
+    nvlroman2 "只是想提醒你一下，下周预订了5辆车。"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1611
 translate zh_Hans driver_storyline_17_9b34ec1a:
 
     # nvljohn "Good afternoon. Yes, I remember your booking"
-    nvljohn "下午好。是的，我记得您的预订。"
+    nvljohn "下午好。是的，我记得你的预订。"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1613
 translate zh_Hans driver_storyline_17_04e79de6:
@@ -2772,7 +2772,7 @@ translate zh_Hans driver_storyline_18_e76864b1:
 translate zh_Hans driver_storyline_18_f143667f:
 
     # nvljohn "Don’t worry, I’ll do everything to make sure you’re satisfied"
-    nvljohn "别担心，我会尽一切努力确保您满意。"
+    nvljohn "别担心，我会尽一切努力确保你满意。"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1674
 translate zh_Hans driver_storyline_18_0c2b388f:
@@ -2796,13 +2796,13 @@ translate zh_Hans driver_storyline_18_7768e086:
 translate zh_Hans driver_storyline_18_4d3b301b:
 
     # nvlroman2 "Just reminding you, to be safe"
-    nvlroman2 "再次提醒您，注意安全。"
+    nvlroman2 "再次提醒你，注意安全。"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1682
 translate zh_Hans driver_storyline_18_e2e0b1f4:
 
     # nvlroman2 "At times I’ll message you at different hours when we need your services"
-    nvlroman2 "有时我们需要您的服务时，我会在不同的时间段给您发信息。"
+    nvlroman2 "有时我们需要你的服务时，我会在不同的时间段给你发信息。"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1684
 translate zh_Hans driver_storyline_18_07e0a583:
@@ -2838,13 +2838,13 @@ translate zh_Hans driver_storyline_18_f49f128d:
 translate zh_Hans driver_storyline_18_b0f93d32:
 
     # nvljohn "I promise we’ll change your opinion of premium car services"
-    nvljohn "我保证我们会改变您对高端汽车服务的看法。"
+    nvljohn "我保证我们会改变你对高端汽车服务的看法。"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1696
 translate zh_Hans driver_storyline_18_72419c2c:
 
     # nvljohn "And our company StarTaxi will become the one you rely on"
-    nvljohn "我们的公司 StarTaxi 将成为您信赖的出租车公司。"
+    nvljohn "我们的公司 StarTaxi 将成为你信赖的出租车公司。"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1698
 translate zh_Hans driver_storyline_18_ad136d93:
@@ -2894,7 +2894,7 @@ translate zh_Hans driver_storyline_19_8fc35c10:
 translate zh_Hans driver_storyline_19_237cc25a:
 
     # nvljohn "Can we help you with something?"
-    nvljohn "有什么可以帮到您的吗？"
+    nvljohn "有什么可以帮到你的吗？"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1749
 translate zh_Hans driver_storyline_19_b4871d52:
@@ -3210,7 +3210,7 @@ translate zh_Hans driver_storyline_21_b61f195c:
 translate zh_Hans driver_storyline_21_7acc8cc6:
 
     # nvljohn "Of course. We’ll notify you right away if Miss Alisha contacts us"
-    nvljohn "当然。如果艾丽莎小姐联系我们，我们会立即通知您。"
+    nvljohn "当然。如果艾丽莎小姐联系我们，我们会立即通知你。"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1949
 translate zh_Hans driver_storyline_21_19b933f0:
@@ -3284,7 +3284,7 @@ translate zh_Hans driver_storyline_22_ec041f73:
 translate zh_Hans driver_storyline_22_ea82ba59:
 
     # nvlalisha "{a=show:show_chat_media}{image=driver_pic_5}"
-    nvlalisha "{a=show:show_chat_media}{image=driver_pic_5}"
+    nvlalisha ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:2024
 translate zh_Hans driver_storyline_22_a7b5d958:
@@ -3344,7 +3344,7 @@ translate zh_Hans driver_storyline_22_b40f431a:
 translate zh_Hans driver_storyline_22_f0ac52d5:
 
     # nvljohn "{a=show:show_chat_media}{image=driver_pic_6}"
-    nvljohn "{a=show:show_chat_media}{image=driver_pic_6}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:2048
 translate zh_Hans driver_storyline_22_9af28ca9:
@@ -3368,7 +3368,7 @@ translate zh_Hans driver_storyline_22_7874d76c:
 translate zh_Hans driver_storyline_22_a559f525:
 
     # nvljohn "{a=show:show_chat_media}{image=driver_pic_7}"
-    nvljohn "{a=show:show_chat_media}{image=driver_pic_7}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:2060
 translate zh_Hans driver_storyline_22_c73af44a:
@@ -3568,7 +3568,7 @@ translate zh_Hans driver_storyline_23_26b063f9:
 translate zh_Hans driver_storyline_23_c1ea4a2b:
 
     # nvlalisha "I hope I’ll visit your city again in the future"
-    nvlalisha "我希望将来有机会再次访问您的城市。"
+    nvlalisha "我希望将来有机会再次访问你的城市。"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:2171
 translate zh_Hans driver_storyline_23_2716cb54:
@@ -3854,7 +3854,7 @@ translate zh_Hans driver_storyline_25_6bc9ac4e:
 translate zh_Hans driver_storyline_25_32365eeb:
 
     # nvlunknown "{a=show:show_chat_media}{image=driver_video_4_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=driver_video_4_ns}"
+    nvlunknown ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:2337
 translate zh_Hans driver_storyline_25_7cb61296:
@@ -3902,7 +3902,7 @@ translate zh_Hans driver_storyline_25_5ffa81c3:
 translate zh_Hans driver_storyline_25_32365eeb_1:
 
     # nvlunknown "{a=show:show_chat_media}{image=driver_video_4_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=driver_video_4_ns}"
+    nvlunknown ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:2359
 translate zh_Hans driver_storyline_25_35d1abfc:
@@ -3976,7 +3976,7 @@ translate zh_Hans driver_storyline_26_c6b98705:
 translate zh_Hans driver_storyline_26_f5a82f6f:
 
     # nvlhenrique "How is your business?"
-    nvlhenrique "您的生意怎么样？"
+    nvlhenrique "你的生意怎么样？"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:2419
 translate zh_Hans driver_storyline_26_3e421bdb:
@@ -4672,7 +4672,7 @@ translate zh_Hans driver_storyline_29_ec94fa78:
 translate zh_Hans driver_storyline_29_c86a68df:
 
     # nvlgeorge "😊"
-    nvlgeorge "😊|😊"
+    nvlgeorge "😊|"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:2767
 translate zh_Hans driver_storyline_29_6b5575a3:
@@ -4838,7 +4838,7 @@ translate zh_Hans driver_storyline_31_e739a931:
 translate zh_Hans driver_storyline_31_5dec34eb:
 
     # nvljohn "Alright, we’ll do our best to deliver your lemon soda as quickly as possible"
-    nvljohn "好的，我们会尽最大努力尽快把您的柠檬汽水送到。"
+    nvljohn "好的，我们会尽最大努力尽快把你的柠檬汽水送到。"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:2905
 translate zh_Hans driver_storyline_31_53c71d7c:
@@ -4954,7 +4954,7 @@ translate zh_Hans driver_storyline_32_8fe9df92:
 translate zh_Hans driver_storyline_32_0c5d604e:
 
     # nvlblackpink "You must be at the hotel by 4 PM"
-    nvlblackpink "您必须在下午 4 点前到达酒店。"
+    nvlblackpink "你必须在下午 4 点前到达酒店。"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:2982
 translate zh_Hans driver_storyline_32_9cc3a555:
@@ -5040,7 +5040,7 @@ translate zh_Hans driver_storyline_33_dd074d71:
 translate zh_Hans driver_storyline_33_07dae570:
 
     # nvljohn "How can we help you?"
-    nvljohn "我们能帮您什么忙？"
+    nvljohn "我们能帮你什么忙？"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3045
 translate zh_Hans driver_storyline_33_c96bc36c:
@@ -5162,7 +5162,7 @@ translate zh_Hans driver_storyline_34_c4ba21d5:
 translate zh_Hans driver_storyline_34_27a6ddc0:
 
     # nvlkaia "{a=show:show_chat_media}{image=driver_video_5_ns}"
-    nvlkaia "{a=show:show_chat_media}{image=driver_video_5_ns}"
+    nvlkaia ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3130
 translate zh_Hans driver_storyline_34_7f36deae:
@@ -5222,7 +5222,7 @@ translate zh_Hans driver_storyline_34_ddcbfb82:
 translate zh_Hans driver_storyline_34_f6ad9d9b:
 
     # nvlkaia "{a=show:show_chat_media}{image=driver_video_6_ns}"
-    nvlkaia "{a=show:show_chat_media}{image=driver_video_6_ns}"
+    nvlkaia ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3154
 translate zh_Hans driver_storyline_34_1646da90:
@@ -5270,7 +5270,7 @@ translate zh_Hans driver_storyline_34_b6d194fe:
 translate zh_Hans driver_storyline_34_35717ce4:
 
     # nvljohn "{a=show:show_chat_media}{image=mc_pic_62}"
-    nvljohn "{a=show:show_chat_media}{image=mc_pic_62}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3174
 translate zh_Hans driver_storyline_34_3c25133e:
@@ -5360,7 +5360,7 @@ translate zh_Hans driver_storyline_34_3659e659:
 translate zh_Hans driver_storyline_34_ae71dcdf:
 
     # nvlkaia "❤️"
-    nvlkaia "❤️|❤️"
+    nvlkaia "❤️|"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3204
 translate zh_Hans driver_storyline_34_2ed79394:
@@ -5408,7 +5408,7 @@ translate zh_Hans driver_storyline_35_76b2fe88:
 translate zh_Hans driver_storyline_35_52faae3a:
 
     # nvllalisa "{a=show:show_chat_media}{image=driver_pic_8}"
-    nvllalisa "{a=show:show_chat_media}{image=driver_pic_8}"
+    nvllalisa ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3255
 translate zh_Hans driver_storyline_35_6b7cc83a:
@@ -5426,7 +5426,7 @@ translate zh_Hans driver_storyline_35_8dcca737:
 translate zh_Hans driver_storyline_35_418f58d6:
 
     # nvljohn "Is there anything we can help you with?"
-    nvljohn "有什么我们可以帮到您的吗？"
+    nvljohn "有什么我们可以帮到你的吗？"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3261
 translate zh_Hans driver_storyline_35_27e6855d:
@@ -5486,7 +5486,7 @@ translate zh_Hans driver_storyline_35_a831f9f2:
 translate zh_Hans driver_storyline_35_06107b6e:
 
     # nvljohn "Then perhaps we could suggest using our taxi service and going for a drive around the city"
-    nvljohn "那么或许我们可以建议您使用我们的出租车服务，开车环城游览。"
+    nvljohn "那么或许我们可以建议你使用我们的出租车服务，开车环城游览。"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3281
 translate zh_Hans driver_storyline_35_0f51cd6c:
@@ -5552,7 +5552,7 @@ translate zh_Hans driver_storyline_36_76b2fe88:
 translate zh_Hans driver_storyline_36_458d3254:
 
     # nvllalisa "{a=show:show_chat_media}{image=driver_pic_9}"
-    nvllalisa "{a=show:show_chat_media}{image=driver_pic_9}"
+    nvllalisa ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3338
 translate zh_Hans driver_storyline_36_ce1017f6:
@@ -5570,7 +5570,7 @@ translate zh_Hans driver_storyline_36_075d673c:
 translate zh_Hans driver_storyline_36_98855192:
 
     # nvljohn "Yes, of course. How can I be of service?"
-    nvljohn "当然可以。我能为您做些什么？"
+    nvljohn "当然可以。我能为你做些什么？"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3344
 translate zh_Hans driver_storyline_36_1cb92b91:
@@ -5588,13 +5588,13 @@ translate zh_Hans driver_storyline_36_b7ebd518:
 translate zh_Hans driver_storyline_36_dd6a9be0:
 
     # nvllalisa "{a=show:show_chat_media}{image=driver_pic_10}"
-    nvllalisa "{a=show:show_chat_media}{image=driver_pic_10}"
+    nvllalisa ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3356
 translate zh_Hans driver_storyline_36_a7ba611d:
 
     # nvllalisa "{a=show:show_chat_media}{image=driver_pic_11}"
-    nvllalisa "{a=show:show_chat_media}{image=driver_pic_11}"
+    nvllalisa ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3360
 translate zh_Hans driver_storyline_36_1419cc17:
@@ -5618,19 +5618,19 @@ translate zh_Hans driver_storyline_36_59757f4f:
 translate zh_Hans driver_storyline_36_2b16fbe0:
 
     # nvllalisa "{a=show:show_chat_media}{image=driver_pic_12}"
-    nvllalisa "{a=show:show_chat_media}{image=driver_pic_12}"
+    nvllalisa ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3374
 translate zh_Hans driver_storyline_36_b94c8b2c:
 
     # nvllalisa "{a=show:show_chat_media}{image=driver_pic_13}"
-    nvllalisa "{a=show:show_chat_media}{image=driver_pic_13}"
+    nvllalisa ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3380
 translate zh_Hans driver_storyline_36_751ddb56:
 
     # nvllalisa "{a=show:show_chat_media}{image=driver_pic_14}"
-    nvllalisa "{a=show:show_chat_media}{image=driver_pic_14}"
+    nvllalisa ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3384
 translate zh_Hans driver_storyline_36_9d27219b:
@@ -5860,7 +5860,7 @@ translate zh_Hans driver_storyline_38_76b2fe88:
 translate zh_Hans driver_storyline_38_bf0903f1:
 
     # nvllalisa "{a=show:show_chat_media}{image=driver_pic_15}"
-    nvllalisa "{a=show:show_chat_media}{image=driver_pic_15}"
+    nvllalisa ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3542
 translate zh_Hans driver_storyline_38_40d5e3a5:
@@ -6726,7 +6726,7 @@ translate zh_Hans driver_storyline_45_3161c99c:
 translate zh_Hans driver_storyline_45_a8e8b501:
 
     # nvlkaia "{a=show:show_chat_media}{image=driver_video_7_ns}"
-    nvlkaia "{a=show:show_chat_media}{image=driver_video_7_ns}"
+    nvlkaia ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4080
 translate zh_Hans driver_storyline_45_611b4796:
@@ -6792,7 +6792,7 @@ translate zh_Hans driver_storyline_45_70245562:
 translate zh_Hans driver_storyline_45_9dee7480:
 
     # nvljohn "{a=show:show_chat_media}{image=mc_pic_77}"
-    nvljohn "{a=show:show_chat_media}{image=mc_pic_77}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4106
 translate zh_Hans driver_storyline_45_23921a9d:
@@ -6956,19 +6956,19 @@ translate zh_Hans driver_storyline_46_63d10d2a:
 translate zh_Hans driver_storyline_46_73a06543:
 
     # nvlgold "And we would like to offer you a job"
-    nvlgold "我们想为您提供一份工作。"
+    nvlgold "我们想为你提供一份工作。"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4197
 translate zh_Hans driver_storyline_46_b012a616:
 
     # nvlgold "Of course, if you can provide us with the necessary cars next week"
-    nvlgold "当然，如果您下周能为我们提供所需的车辆的话。"
+    nvlgold "当然，如果你下周能为我们提供所需的车辆的话。"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4199
 translate zh_Hans driver_storyline_46_64ab1cb6:
 
     # nvljohn "We will provide you with everything you ask for"
-    nvljohn "我们将满足您的所有要求。"
+    nvljohn "我们将满足你的所有要求。"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4201
 translate zh_Hans driver_storyline_46_b6f3687f:
@@ -6992,13 +6992,13 @@ translate zh_Hans driver_storyline_46_46924e2c:
 translate zh_Hans driver_storyline_46_9dc2fd84:
 
     # nvlgold "We will send you the documents, and later get back in touch to discuss the details"
-    nvlgold "我们会把文件发给您，稍后会再联系您讨论细节。"
+    nvlgold "我们会把文件发给你，稍后会再联系你讨论细节。"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4209
 translate zh_Hans driver_storyline_46_c13b3140:
 
     # nvlgold "Thank you for your cooperation"
-    nvlgold "感谢您的合作。"
+    nvlgold "感谢你的合作。"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4211
 translate zh_Hans driver_storyline_46_bd1003d5:
@@ -7138,7 +7138,7 @@ translate zh_Hans driver_storyline_47_bad59c74:
 translate zh_Hans driver_storyline_47_ae1b54c8:
 
     # nvlgold "We will stay in touch and guide you in your work"
-    nvlgold "我们会保持联系，并在工作中为您提供指导。"
+    nvlgold "我们会保持联系，并在工作中为你提供指导。"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4305
 translate zh_Hans driver_storyline_47_9bf27d58:
@@ -7244,13 +7244,13 @@ translate zh_Hans driver_storyline_49_cea3fe66:
 translate zh_Hans driver_storyline_49_9e81b203:
 
     # nvlemilia "This is Emilia, your client"
-    nvlemilia "这是您的客户艾米莉亚。"
+    nvlemilia "这是你的客户艾米莉亚。"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4409
 translate zh_Hans driver_storyline_49_27a71011:
 
     # nvlemilia "{a=show:show_chat_media}{image=driver_pic_16}"
-    nvlemilia "{a=show:show_chat_media}{image=driver_pic_16}"
+    nvlemilia ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4413
 translate zh_Hans driver_storyline_49_d6da1c8f:
@@ -7268,7 +7268,7 @@ translate zh_Hans driver_storyline_49_8dcca737:
 translate zh_Hans driver_storyline_49_4c5b5fd2:
 
     # nvljohn "Has something happened? Do you need help with anything, Miss Emilia?"
-    nvljohn "出什么事了吗？艾米莉亚小姐，您需要帮忙吗？"
+    nvljohn "出什么事了吗？艾米莉亚小姐，你需要帮忙吗？"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4419
 translate zh_Hans driver_storyline_49_5658059a:
@@ -7324,7 +7324,7 @@ translate zh_Hans driver_storyline_50_12ed0aee:
     # nvl clear
     # nvlemilia "This is Emilia, your client"
     nvl clear
-    nvlemilia "这是您的客户艾米莉亚。"
+    nvlemilia "这是你的客户艾米莉亚。"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4470
 translate zh_Hans driver_storyline_50_8fdc60de:
@@ -7396,7 +7396,7 @@ translate zh_Hans driver_storyline_50_946aaa6a:
 translate zh_Hans driver_storyline_50_5ee744dd:
 
     # nvljohn "Excellent, as you wish"
-    nvljohn "很好，如您所愿。"
+    nvljohn "很好，如你所愿。"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4494
 translate zh_Hans driver_storyline_50_045bcf7a:
@@ -7420,25 +7420,25 @@ translate zh_Hans driver_storyline_50_2906b5ba:
 translate zh_Hans driver_storyline_50_32cb790f:
 
     # nvlemilia "What would you recommend?"
-    nvlemilia "您有什么建议？"
+    nvlemilia "你有什么建议？"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4504
 translate zh_Hans driver_storyline_50_ecf777bc:
 
     # nvlemilia "{a=show:show_chat_media}{image=driver_pic_17}"
-    nvlemilia "{a=show:show_chat_media}{image=driver_pic_17}"
+    nvlemilia ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4510
 translate zh_Hans driver_storyline_50_23aec70e:
 
     # nvlemilia "{a=show:show_chat_media}{image=driver_pic_18}"
-    nvlemilia "{a=show:show_chat_media}{image=driver_pic_18}"
+    nvlemilia ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4516
 translate zh_Hans driver_storyline_50_5777bd9c:
 
     # nvlemilia "{a=show:show_chat_media}{image=driver_pic_19}"
-    nvlemilia "{a=show:show_chat_media}{image=driver_pic_19}"
+    nvlemilia ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4520
 translate zh_Hans driver_storyline_50_76b574db:
@@ -7480,7 +7480,7 @@ translate zh_Hans driver_storyline_50_7d35fe6d:
 translate zh_Hans driver_storyline_50_ecf777bc_1:
 
     # nvlemilia "{a=show:show_chat_media}{image=driver_pic_17}"
-    nvlemilia "{a=show:show_chat_media}{image=driver_pic_17}"
+    nvlemilia ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4540
 translate zh_Hans driver_storyline_50_067cf603:
@@ -7528,13 +7528,13 @@ translate zh_Hans driver_storyline_50_775399b5:
 translate zh_Hans driver_storyline_50_23aec70e_1:
 
     # nvlemilia "{a=show:show_chat_media}{image=driver_pic_18}"
-    nvlemilia "{a=show:show_chat_media}{image=driver_pic_18}"
+    nvlemilia ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4566
 translate zh_Hans driver_storyline_50_5777bd9c_1:
 
     # nvlemilia "{a=show:show_chat_media}{image=driver_pic_19}"
-    nvlemilia "{a=show:show_chat_media}{image=driver_pic_19}"
+    nvlemilia ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4571
 translate zh_Hans driver_storyline_50_873ae5ba:
@@ -7552,7 +7552,7 @@ translate zh_Hans driver_storyline_50_790402c3:
 translate zh_Hans driver_storyline_50_23aec70e_2:
 
     # nvlemilia "{a=show:show_chat_media}{image=driver_pic_18}"
-    nvlemilia "{a=show:show_chat_media}{image=driver_pic_18}"
+    nvlemilia ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4583
 translate zh_Hans driver_storyline_50_3a3cd148:
@@ -7564,7 +7564,7 @@ translate zh_Hans driver_storyline_50_3a3cd148:
 translate zh_Hans driver_storyline_50_5777bd9c_2:
 
     # nvlemilia "{a=show:show_chat_media}{image=driver_pic_19}"
-    nvlemilia "{a=show:show_chat_media}{image=driver_pic_19}"
+    nvlemilia ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4591
 translate zh_Hans driver_storyline_50_93594785:
@@ -7680,7 +7680,7 @@ translate zh_Hans driver_storyline_51_41803e81:
 translate zh_Hans driver_storyline_51_09cb3bec:
 
     # nvlunknown "{a=show:show_chat_media}{image=driver_video_8_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=driver_video_8_ns}"
+    nvlunknown ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4685
 translate zh_Hans driver_storyline_51_2fab4786:
@@ -7764,7 +7764,7 @@ translate zh_Hans driver_storyline_51_80a5d8f2:
 translate zh_Hans driver_storyline_51_9630054e:
 
     # nvlunknown "😊"
-    nvlunknown "😊|😊"
+    nvlunknown "😊|"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4713
 translate zh_Hans driver_storyline_51_593b8bf8:
@@ -7788,13 +7788,13 @@ translate zh_Hans driver_storyline_51_ead0d62e:
 translate zh_Hans driver_storyline_51_f5a37f80:
 
     # nvlunknown "We mean your business. StarTaxi"
-    nvlunknown "我们重视您的业务。星出租车"
+    nvlunknown "我们重视你的业务。星出租车"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4721
 translate zh_Hans driver_storyline_51_c277c809:
 
     # nvlunknown "We wish you even greater success"
-    nvlunknown "祝您取得更大的成功"
+    nvlunknown "祝你取得更大的成功"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4723
 translate zh_Hans driver_storyline_51_1591aa79:
@@ -7948,7 +7948,7 @@ translate zh_Hans driver_storyline_53_14ec669c:
 translate zh_Hans driver_storyline_53_9630054e:
 
     # nvlunknown "😊"
-    nvlunknown "😊|😊"
+    nvlunknown "😊|"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4851
 translate zh_Hans driver_storyline_53_a8e242c5:
@@ -7966,7 +7966,7 @@ translate zh_Hans driver_storyline_53_c4e46330:
 translate zh_Hans driver_storyline_53_5b89db9f:
 
     # nvlunknown "{a=show:show_chat_media}{image=driver_video_9_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=driver_video_9_ns}"
+    nvlunknown ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4861
 translate zh_Hans driver_storyline_53_1287f56a:
@@ -8540,7 +8540,7 @@ translate zh_Hans driver_storyline_58_567f13ba:
 translate zh_Hans driver_storyline_58_837ad8fb:
 
     # nvljohn "{a=show:show_chat_media}{image=driver_video_10_ns}"
-    nvljohn "{a=show:show_chat_media}{image=driver_video_10_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:5241
 translate zh_Hans driver_storyline_58_94b1328a:
@@ -8570,7 +8570,7 @@ translate zh_Hans driver_storyline_58_df090101:
 translate zh_Hans driver_storyline_58_ed277fc8:
 
     # nvljohn "{a=show:show_chat_media}{image=driver_video_11_ns}"
-    nvljohn "{a=show:show_chat_media}{image=driver_video_11_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:5255
 translate zh_Hans driver_storyline_58_32ee1022:
@@ -8702,7 +8702,7 @@ translate zh_Hans driver_storyline_58_6eb3472b:
 translate zh_Hans driver_storyline_58_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:5299
 translate zh_Hans driver_storyline_58_c3209c8d:
@@ -8792,7 +8792,7 @@ translate zh_Hans driver_storyline_58_a10ddcd7:
 translate zh_Hans driver_storyline_58_c86a68df:
 
     # nvlgeorge "😊"
-    nvlgeorge "😊|😊"
+    nvlgeorge "😊|"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:5329
 translate zh_Hans driver_storyline_58_041e1fe1:
@@ -8938,7 +8938,7 @@ translate zh_Hans driver_storyline_59_7f4cf717:
 translate zh_Hans driver_storyline_59_079647b7:
 
     # nvljohn "If you need our services, we’re always ready to help"
-    nvljohn "如果您需要我们的服务，我们随时准备为您提供帮助。"
+    nvljohn "如果你需要我们的服务，我们随时准备为你提供帮助。"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:5410
 translate zh_Hans driver_storyline_59_ca5609f7:
@@ -9006,13 +9006,13 @@ translate zh_Hans driver_storyline_60_7dcef046:
 translate zh_Hans driver_storyline_60_9f69be91:
 
     # nvlemilia "😊"
-    nvlemilia "😊|😊"
+    nvlemilia "😊|"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:5475
 translate zh_Hans driver_storyline_60_1573d027:
 
     # nvlemilia "{a=show:show_chat_media}{image=driver_pic_20}"
-    nvlemilia "{a=show:show_chat_media}{image=driver_pic_20}"
+    nvlemilia ""
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:5479
 translate zh_Hans driver_storyline_60_097e2ceb:

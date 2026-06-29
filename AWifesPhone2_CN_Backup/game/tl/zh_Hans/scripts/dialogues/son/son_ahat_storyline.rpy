@@ -760,7 +760,7 @@ translate zh_Hans son_ahat_storyline_13_2b16c870:
 translate zh_Hans son_ahat_storyline_13_8c48867a:
 
     # nvljenna "{a=show:show_chat_media}{image=blowjob_pic_5}"
-    nvljenna "{a=show:show_chat_media}{image=blowjob_pic_5}"
+    nvljenna ""
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:351
 translate zh_Hans son_ahat_storyline_13_09174af9:
@@ -784,7 +784,7 @@ translate zh_Hans son_ahat_storyline_13_0cc598e4:
 translate zh_Hans son_ahat_storyline_13_14ba7a53:
 
     # nvljenna "{a=show:show_chat_media}{image=blowjob_pic_6}"
-    nvljenna "{a=show:show_chat_media}{image=blowjob_pic_6}"
+    nvljenna ""
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:363
 translate zh_Hans son_ahat_storyline_13_5f3a95a6:
@@ -934,7 +934,7 @@ translate zh_Hans son_ahat_storyline_13_405553c2:
 translate zh_Hans son_ahat_storyline_13_010e100c:
 
     # nvlsson "I promise to do anything you want me to do"
-    nvlsson "我保证听从您的任何吩咐"
+    nvlsson "我保证听从你的任何吩咐"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:413
 translate zh_Hans son_ahat_storyline_13_14f7dda5:
@@ -1328,7 +1328,7 @@ translate zh_Hans son_ahat_storyline_15_7bd4dac0:
 translate zh_Hans son_ahat_storyline_15_0c098347:
 
     # nvlahat "😊"
-    nvlahat "😊|😊"
+    nvlahat "😊|"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:603
 translate zh_Hans son_ahat_storyline_15_b113ceac:
@@ -1656,25 +1656,25 @@ translate zh_Hans son_ahat_storyline_17_60bb5741:
 translate zh_Hans son_ahat_storyline_17_ddecda15:
 
     # nvlunknown "We're not accusing you of anything"
-    nvlunknown "我们并不是在指责您什么"
+    nvlunknown "我们并不是在指责你什么"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:768
 translate zh_Hans son_ahat_storyline_17_a48b4eda:
 
     # nvlunknown "But we believe that you need to admit that it's what YOU want, not what your son wants"
-    nvlunknown "但我们认为您需要承认，这其实是您的想法，而不是您儿子的愿望"
+    nvlunknown "但我们认为你需要承认，这其实是你的想法，而不是你儿子的愿望"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:770
 translate zh_Hans son_ahat_storyline_17_bbbd1497:
 
     # nvlunknown "You're the one who wants him to transform"
-    nvlunknown "想要让他转化的其实是您"
+    nvlunknown "想要让他转化的其实是你"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:772
 translate zh_Hans son_ahat_storyline_17_d205c4f5:
 
     # nvlunknown "It all happened because of you"
-    nvlunknown "这一切都是因为您才发生的"
+    nvlunknown "这一切都是因为你才发生的"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:774
 translate zh_Hans son_ahat_storyline_17_318529b0:
@@ -1686,7 +1686,7 @@ translate zh_Hans son_ahat_storyline_17_318529b0:
 translate zh_Hans son_ahat_storyline_17_a934a55c:
 
     # nvlunknown "Don't you think things would've been different if you hadn't done that to him?"
-    nvlunknown "您不觉得如果您没有对他做那些事，结果会有所不同吗？"
+    nvlunknown "你不觉得如果你没有对他做那些事，结果会有所不同吗？"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:778
 translate zh_Hans son_ahat_storyline_17_ce13745f:
@@ -1698,7 +1698,7 @@ translate zh_Hans son_ahat_storyline_17_ce13745f:
 translate zh_Hans son_ahat_storyline_17_2f55e220:
 
     # nvlunknown "{a=show:show_chat_media}{image=mikky_video_17_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=mikky_video_17_ns}"
+    nvlunknown ""
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:786
 translate zh_Hans son_ahat_storyline_17_60bb5741_1:
@@ -1710,7 +1710,7 @@ translate zh_Hans son_ahat_storyline_17_60bb5741_1:
 translate zh_Hans son_ahat_storyline_17_89b3e832:
 
     # nvlunknown "Are you trying to say it's not your doing?"
-    nvlunknown "您是在极力辩解这不是您所为吗？"
+    nvlunknown "你是在极力辩解这不是你所为吗？"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:790
 translate zh_Hans son_ahat_storyline_17_68979ca0:
@@ -1740,19 +1740,19 @@ translate zh_Hans son_ahat_storyline_17_cc543eb2:
 translate zh_Hans son_ahat_storyline_17_d125cee7:
 
     # nvlunknown "And now you agree with us"
-    nvlunknown "现在您和我们的观点一致了"
+    nvlunknown "现在你和我们的观点一致了"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:800
 translate zh_Hans son_ahat_storyline_17_90aa734e:
 
     # nvlunknown "And you probably understand why we're curious what you think of your son's transformation"
-    nvlunknown "所以您大概也能理解，为什么我们会好奇您对自己儿子转化的看法"
+    nvlunknown "所以你大概也能理解，为什么我们会好奇你对自己儿子转化的看法"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:802
 translate zh_Hans son_ahat_storyline_17_70b713df:
 
     # nvlunknown "Since you're doing this, you probably want your son to become a girl"
-    nvlunknown "既然是您逼他做的，那么您肯定也希望您的儿子能变成一个女孩"
+    nvlunknown "既然是你逼他做的，那么你肯定也希望你的儿子能变成一个女孩"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:804
 translate zh_Hans son_ahat_storyline_17_4ddc2d8b:
@@ -1764,7 +1764,7 @@ translate zh_Hans son_ahat_storyline_17_4ddc2d8b:
 translate zh_Hans son_ahat_storyline_17_5aa00ef2:
 
     # nvlunknown "However, you've stopped working on it"
-    nvlunknown "然而，您现在却停止了推进"
+    nvlunknown "然而，你现在却停止了推进"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:808
 translate zh_Hans son_ahat_storyline_17_60e2cdeb:
@@ -1776,13 +1776,13 @@ translate zh_Hans son_ahat_storyline_17_60e2cdeb:
 translate zh_Hans son_ahat_storyline_17_c08fb300:
 
     # nvlunknown "You can turn him into a full-fledged girl, yet you're doing nothing"
-    nvlunknown "您本可以让他彻底变成一个女孩子，但您现在却什么都不做"
+    nvlunknown "你本可以让他彻底变成一个女孩子，但你现在却什么都不做"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:812
 translate zh_Hans son_ahat_storyline_17_4108cffb:
 
     # nvlunknown "Do you have anything else planned for your son?"
-    nvlunknown "您对您的儿子还有什么其他的计划吗？"
+    nvlunknown "你对你的儿子还有什么其他的计划吗？"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:814
 translate zh_Hans son_ahat_storyline_17_4057b9da:
@@ -1812,7 +1812,7 @@ translate zh_Hans son_ahat_storyline_17_8878ba42:
 translate zh_Hans son_ahat_storyline_17_c4d10f07:
 
     # nvlunknown "But perhaps his transformation will be smoother because you decided to take things slow"
-    nvlunknown "不过，也许因为您决定慢条斯理地来，他的转化也会更加顺畅吧"
+    nvlunknown "不过，也许因为你决定慢条斯理地来，他的转化也会更加顺畅吧"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:824
 translate zh_Hans son_ahat_storyline_17_eb7e4f5a:
@@ -1836,7 +1836,7 @@ translate zh_Hans son_ahat_storyline_17_e5344231:
 translate zh_Hans son_ahat_storyline_17_8158bef4:
 
     # nvlunknown "We're not rushing you. It's just scientific curiosity"
-    nvlunknown "我们没有在催促您。这仅仅是出于科学的好奇心"
+    nvlunknown "我们没有在催促你。这仅仅是出于科学的好奇心"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:832
 translate zh_Hans son_ahat_storyline_17_fc0ef2e3:
@@ -1878,7 +1878,7 @@ translate zh_Hans son_ahat_storyline_17_eb7e4f5a_1:
 translate zh_Hans son_ahat_storyline_17_60adb69e:
 
     # nvlunknown "We'll leave you to your work now"
-    nvlunknown "我们现在不打扰您工作了"
+    nvlunknown "我们现在不打扰你工作了"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:846
 translate zh_Hans son_ahat_storyline_17_33243886:
@@ -1964,7 +1964,7 @@ translate zh_Hans son_ahat_storyline_18_6c7db550:
 translate zh_Hans son_ahat_storyline_18_0217a68b:
 
     # nvlsson "😔"
-    nvlsson "😔"
+    nvlsson ""
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:903
 translate zh_Hans son_ahat_storyline_18_5b498e90:
@@ -3020,7 +3020,7 @@ translate zh_Hans son_ahat_storyline_21_e642e31b:
 translate zh_Hans son_ahat_storyline_21_1969b31a:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_12_ns}"
-    nvljenna "{a=show:show_chat_media}{image=jenna_video_12_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:1347
 translate zh_Hans son_ahat_storyline_21_aca1a864:
@@ -3262,7 +3262,7 @@ translate zh_Hans son_ahat_storyline_22_acce7b4c:
 translate zh_Hans son_ahat_storyline_22_0c098347:
 
     # nvlahat "😊"
-    nvlahat "😊|😊"
+    nvlahat "😊|"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:1457
 translate zh_Hans son_ahat_storyline_22_ff451a1f:
@@ -3352,7 +3352,7 @@ translate zh_Hans son_ahat_storyline_22_2e614c66:
 translate zh_Hans son_ahat_storyline_22_697f6ba1:
 
     # nvlahat "{a=show:show_chat_media}{image=bbc_pic_117}"
-    nvlahat "{a=show:show_chat_media}{image=bbc_pic_117}"
+    nvlahat ""
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:1491
 translate zh_Hans son_ahat_storyline_22_7c67ff6f:
@@ -3564,7 +3564,7 @@ translate zh_Hans son_ahat_storyline_23_9c7d8ffd:
 translate zh_Hans son_ahat_storyline_23_0c098347:
 
     # nvlahat "😊"
-    nvlahat "😊|😊"
+    nvlahat "😊|"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:1591
 translate zh_Hans son_ahat_storyline_23_d1385e9b:
@@ -3594,7 +3594,7 @@ translate zh_Hans son_ahat_storyline_23_2b6b45e5:
 translate zh_Hans son_ahat_storyline_23_ed369806:
 
     # nvlahat "{a=show:show_chat_media}{image=bbc_pic_118}"
-    nvlahat "{a=show:show_chat_media}{image=bbc_pic_118}"
+    nvlahat ""
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:1605
 translate zh_Hans son_ahat_storyline_23_98667e48:
@@ -3722,7 +3722,7 @@ translate zh_Hans son_ahat_storyline_24_14698399:
 translate zh_Hans son_ahat_storyline_24_fe694bde:
 
     # nvlahat "{a=show:show_chat_media}{image=mikky_video_18_ns}"
-    nvlahat "{a=show:show_chat_media}{image=mikky_video_18_ns}"
+    nvlahat ""
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:1681
 translate zh_Hans son_ahat_storyline_24_3615a7c9:
@@ -3920,7 +3920,7 @@ translate zh_Hans son_ahat_storyline_24_6ce07428:
 translate zh_Hans son_ahat_storyline_24_0c098347:
 
     # nvlahat "😊"
-    nvlahat "😊|😊"
+    nvlahat "😊|"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:1747
 translate zh_Hans son_ahat_storyline_24_1f35bd67:
@@ -4246,7 +4246,7 @@ translate zh_Hans son_ahat_storyline_25_81c42c3e:
 translate zh_Hans son_ahat_storyline_25_4b0df9f7:
 
     # nvlahat "{a=show:show_chat_media}{image=bbc_pic_119}"
-    nvlahat "{a=show:show_chat_media}{image=bbc_pic_119}"
+    nvlahat ""
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:1888
 translate zh_Hans son_ahat_storyline_25_c3171c49:
@@ -4282,7 +4282,7 @@ translate zh_Hans son_ahat_storyline_25_04811184:
 translate zh_Hans son_ahat_storyline_25_0c098347:
 
     # nvlahat "😊"
-    nvlahat "😊|😊"
+    nvlahat "😊|"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:1900
 translate zh_Hans son_ahat_storyline_25_bdb197ab:

@@ -532,7 +532,7 @@ translate zh_Hans wifespy_swap_ea5f5094:
 translate zh_Hans wifespy_swap_c46964af:
 
     # "{color=#000}I think the \"Return\" button will get me back to my phone."
-    "{color=#000}I think the \"Return\" button will get me back to my phone."
+    ""
 
 # wifespy.rpy:361
 translate zh_Hans wifespy_stage2_27475b0f:
@@ -1108,7 +1108,7 @@ translate zh_Hans choose_the_target_0_15_902c42b3:
 translate zh_Hans choose_the_target_0_15_75acb49e:
 
     # nvlunknown "{u}important.mov"
-    nvlunknown "{u}important.mov"
+    nvlunknown ""
 
 # wifespy.rpy:752
 translate zh_Hans choose_the_target_0_15_7c55838b:
@@ -1462,7 +1462,7 @@ translate zh_Hans choose_the_target_0_15_e998382a:
 translate zh_Hans choose_the_target_0_15_75acb49e_1:
 
     # nvlunknown "{u}important.mov"
-    nvlunknown "{u}important.mov"
+    nvlunknown ""
 
 # wifespy.rpy:1001
 translate zh_Hans choose_the_target_0_15_b0848ae3:
@@ -1474,7 +1474,7 @@ translate zh_Hans choose_the_target_0_15_b0848ae3:
 translate zh_Hans choose_the_target_0_15_75acb49e_2:
 
     # nvlunknown "{u}important.mov"
-    nvlunknown "{u}important.mov"
+    nvlunknown ""
 
 # wifespy.rpy:1005
 translate zh_Hans choose_the_target_0_15_c2fe8be1:
@@ -1660,7 +1660,7 @@ translate zh_Hans choose_the_target_0_15_fee8457e:
 translate zh_Hans choose_the_target_0_15_844bfc8d:
 
     # nvlgreg "{a=show:photo_762}photo_762.png"
-    nvlgreg "{a=show:photo_762}photo_762.png"
+    nvlgreg ""
 
 # wifespy.rpy:1141
 translate zh_Hans choose_the_target_0_15_98fe7fc9:
@@ -1678,7 +1678,7 @@ translate zh_Hans choose_the_target_0_15_1dd2509d:
 translate zh_Hans choose_the_target_0_15_51eaf45a:
 
     # nvlgreg "{a=show:photo_737}photo_737.png"
-    nvlgreg "{a=show:photo_737}photo_737.png"
+    nvlgreg ""
 
 # wifespy.rpy:1155
 translate zh_Hans choose_the_target_0_15_7b654cdc:
@@ -1804,19 +1804,19 @@ translate zh_Hans choose_the_target_0_15_8e422f84:
 translate zh_Hans choose_the_target_0_15_daa19d98:
 
     # nvlkirely "{a=show:cosplay_photo_105}cosplay_photo_105.png"
-    nvlkirely "{a=show:cosplay_photo_105}cosplay_photo_105.png"
+    nvlkirely ""
 
 # wifespy.rpy:1213
 translate zh_Hans choose_the_target_0_15_2c6a0bbb:
 
     # nvlkirely "{a=show:cosplay_photo_106}cosplay_photo_106.png"
-    nvlkirely "{a=show:cosplay_photo_106}cosplay_photo_106.png"
+    nvlkirely ""
 
 # wifespy.rpy:1215
 translate zh_Hans choose_the_target_0_15_270dedda:
 
     # nvlkirely "{a=show:cosplay_photo_107}cosplay_photo_107.png"
-    nvlkirely "{a=show:cosplay_photo_107}cosplay_photo_107.png"
+    nvlkirely ""
 
 # wifespy.rpy:1237
 translate zh_Hans choose_the_target_0_15_40252075:
@@ -1852,7 +1852,7 @@ translate zh_Hans choose_the_target_0_15_a32c29e1:
 translate zh_Hans choose_the_target_0_15_83d460e0:
 
     # nvlkirely "{a=show:cosplay_photo_114}cosplay_photo_114.png"
-    nvlkirely "{a=show:cosplay_photo_114}cosplay_photo_114.png"
+    nvlkirely ""
 
 # wifespy.rpy:1269
 translate zh_Hans choose_the_target_0_15_4bdcd175:
@@ -2194,7 +2194,7 @@ translate zh_Hans choose_the_target_0_15_76b2fe88_2:
 translate zh_Hans choose_the_target_0_15_75acb49e_3:
 
     # nvlunknown "{u}important.mov"
-    nvlunknown "{u}important.mov"
+    nvlunknown ""
 
 # wifespy.rpy:1447
 translate zh_Hans choose_the_target_0_15_90c87e70:
@@ -2446,7 +2446,7 @@ translate zh_Hans choose_the_target_0_15_90e220fe:
 translate zh_Hans choose_the_target_0_15_ace6cc02:
 
     # nvlwsis "{a=show:photo_337}photo_337.png"
-    nvlwsis "{a=show:photo_337}photo_337.png"
+    nvlwsis ""
 
 # wifespy.rpy:1613
 translate zh_Hans choose_the_target_0_15_bf4ed245:
@@ -2500,7 +2500,7 @@ translate zh_Hans choose_the_target_0_15_f443678e:
 translate zh_Hans choose_the_target_0_15_dfde59ce:
 
     # nvlsteph "{a=show:photo_102}photo_102.png"
-    nvlsteph "{a=show:photo_102}photo_102.png"
+    nvlsteph ""
 
 # wifespy.rpy:1641
 translate zh_Hans choose_the_target_0_15_65dea567:
@@ -2878,7 +2878,7 @@ translate zh_Hans wifespy_stage6_a4f1ddc8:
 translate zh_Hans wifespy_stage6_6b3e0ddf:
 
     # "{color=#000}\"He left her alone with his strong black...\""
-    "{color=#000}\"He left her alone with his strong black...\""
+    ""
 
 # wifespy.rpy:1886
 translate zh_Hans wifespy_stage6_8c4ed7b5:
@@ -2890,7 +2890,7 @@ translate zh_Hans wifespy_stage6_8c4ed7b5:
 translate zh_Hans wifespy_stage6_47512f6b:
 
     # "{color=#000}\"Wife lies to husband to hook up with...\""
-    "{color=#000}\"Wife lies to husband to hook up with...\""
+    ""
 
 # wifespy.rpy:1893
 translate zh_Hans wifespy_stage6_7ad2b325:
@@ -2914,7 +2914,7 @@ translate zh_Hans wifespy_stage6_2792dc83:
 translate zh_Hans wifespy_stage6_8e964cc9:
 
     # "{color=#000}\"They took turns... in my girlfriend's ass...\""
-    "{color=#000}\"They took turns... in my girlfriend's ass...\""
+    ""
 
 # wifespy.rpy:1904
 translate zh_Hans wifespy_stage6_2b7990fb:

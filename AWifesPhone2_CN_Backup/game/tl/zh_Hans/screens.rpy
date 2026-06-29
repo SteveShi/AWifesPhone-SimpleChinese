@@ -80,7 +80,7 @@ translate zh_Hans strings:
 
     # screens.rpy:795
     old "{size=28}{#file_time}%B %d, %H:%M"
-    new "{size=28}{#file_time}%B %d, %H:%M|{size=28}{#file_time}%B  %d， %H ：%M"
+    new "{size=28}{#file_time}%B %d, %H:%M"
 
     # screens.rpy:795
     old "empty slot"
@@ -92,11 +92,11 @@ translate zh_Hans strings:
 
     # screens.rpy:820
     old "{#auto_page}A"
-    new "{#auto_page}自动|{#auto_page}自动"
+    new "{#auto_page}自动"
 
     # screens.rpy:823
     old "{#quick_page}Q"
-    new "{#quick_page}快速|{#quick_page}快速"
+    new "{#quick_page}快速"
 
     # screens.rpy:829
     old ">"

@@ -676,7 +676,7 @@ translate zh_Hans mom_storyline_2_c26a221d:
 translate zh_Hans mom_storyline_2_caa31f77:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_pic_1}"
-    nvljenna "{a=show:show_chat_media}{image=mom_pic_1}"
+    nvljenna ""
 
 # game/scripts/dialogues/mom_storyline.rpy:502
 translate zh_Hans mom_storyline_2_8d4d3e5c:
@@ -694,7 +694,7 @@ translate zh_Hans mom_storyline_2_734ce254:
 translate zh_Hans mom_storyline_2_33c768b9:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_pic_2}"
-    nvljenna "{a=show:show_chat_media}{image=mom_pic_2}"
+    nvljenna ""
 
 # game/scripts/dialogues/mom_storyline.rpy:512
 translate zh_Hans mom_storyline_2_c4029c2f:
@@ -1462,7 +1462,7 @@ translate zh_Hans mom_storyline_5_4a1f66ae:
 translate zh_Hans mom_storyline_5_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mom_storyline.rpy:859
 translate zh_Hans mom_storyline_5_2e31c891:
@@ -2174,7 +2174,7 @@ translate zh_Hans mom_storyline_7_98428a10:
 translate zh_Hans mom_storyline_7_2a900be7:
 
     # nvlunknown "You want to protect your mother from harm, right?"
-    nvlunknown "您想保护您的母亲免受伤害，对吗？"
+    nvlunknown "你想保护你的母亲免受伤害，对吗？"
 
 # game/scripts/dialogues/mom_storyline.rpy:1170
 translate zh_Hans mom_storyline_7_c9942ffb:
@@ -2500,7 +2500,7 @@ translate zh_Hans mom_storyline_8_53b7bedf:
 translate zh_Hans mom_storyline_8_ee73a2c8:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_pic_3}"
-    nvljenna "{a=show:show_chat_media}{image=mom_pic_3}"
+    nvljenna ""
 
 # game/scripts/dialogues/mom_storyline.rpy:1315
 translate zh_Hans mom_storyline_8_03973e08:
@@ -2854,7 +2854,7 @@ translate zh_Hans mom_storyline_8_32b7c380:
 translate zh_Hans mom_storyline_8_ee73a2c8_1:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_pic_3}"
-    nvljenna "{a=show:show_chat_media}{image=mom_pic_3}"
+    nvljenna ""
 
 # game/scripts/dialogues/mom_storyline.rpy:1439
 translate zh_Hans mom_storyline_8_03973e08_1:
@@ -3408,7 +3408,7 @@ translate zh_Hans mom_storyline_9_2cb6ffd1:
 translate zh_Hans mom_storyline_9_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mom_storyline.rpy:1674
 translate zh_Hans mom_storyline_9_1f6f737f:
@@ -3964,7 +3964,7 @@ translate zh_Hans mom_storyline_11_3071d1d9:
 translate zh_Hans mom_storyline_11_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/mom_storyline.rpy:1939
 translate zh_Hans mom_storyline_11_b9f182bc:
@@ -4448,7 +4448,7 @@ translate zh_Hans mom_storyline_13_53615b7b:
 translate zh_Hans mom_storyline_13_9098c3df:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_4}"
-    nvlmom "{a=show:show_chat_media}{image=mom_pic_4}"
+    nvlmom ""
 
 # game/scripts/dialogues/mom_storyline.rpy:2167
 translate zh_Hans mom_storyline_13_18ce17d7:
@@ -4718,7 +4718,7 @@ translate zh_Hans mom_storyline_13_7cd5e2e3:
 translate zh_Hans mom_storyline_13_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mom_storyline.rpy:2257
 translate zh_Hans mom_storyline_13_9e0bceca:
@@ -4798,7 +4798,7 @@ translate zh_Hans mom_storyline_14_8dcca737:
 translate zh_Hans mom_storyline_14_f41dc890:
 
     # nvlunknown "How are you doing? We hope you're okay"
-    nvlunknown "您好吗？我们希望您一切都好"
+    nvlunknown "你好吗？我们希望你一切都好"
 
 # game/scripts/dialogues/mom_storyline.rpy:2314
 translate zh_Hans mom_storyline_14_1aebb174:
@@ -4816,7 +4816,7 @@ translate zh_Hans mom_storyline_14_8d226f59:
 translate zh_Hans mom_storyline_14_13427e50:
 
     # nvlunknown "But we're afraid we have to spoil your mood"
-    nvlunknown "但恐怕我们不得不破坏您的好心情了"
+    nvlunknown "但恐怕我们不得不破坏你的好心情了"
 
 # game/scripts/dialogues/mom_storyline.rpy:2320
 translate zh_Hans mom_storyline_14_bd0440ac:
@@ -4840,7 +4840,7 @@ translate zh_Hans mom_storyline_14_57bdba94:
 translate zh_Hans mom_storyline_14_a81d18eb:
 
     # nvlunknown "It's about your mother"
-    nvlunknown "是关于您母亲的"
+    nvlunknown "是关于你母亲的"
 
 # game/scripts/dialogues/mom_storyline.rpy:2328
 translate zh_Hans mom_storyline_14_6a87cbd9:
@@ -4894,7 +4894,7 @@ translate zh_Hans mom_storyline_14_93dc367b:
 translate zh_Hans mom_storyline_14_14205765:
 
     # nvlunknown "But we can tell you something else"
-    nvlunknown "但我们可以告诉您一些别的事情"
+    nvlunknown "但我们可以告诉你一些别的事情"
 
 # game/scripts/dialogues/mom_storyline.rpy:2346
 translate zh_Hans mom_storyline_14_ba8c927d:
@@ -4906,13 +4906,13 @@ translate zh_Hans mom_storyline_14_ba8c927d:
 translate zh_Hans mom_storyline_14_8a46f363:
 
     # nvlunknown "The command will take some time to affect your mother because her resistance level is high"
-    nvlunknown "如果想看到任何结果，您需要等待"
+    nvlunknown "如果想看到任何结果，你需要等待"
 
 # game/scripts/dialogues/mom_storyline.rpy:2350
 translate zh_Hans mom_storyline_14_b535b42d:
 
     # nvlunknown "This person will need to wait if they want to see any results"
-    nvlunknown "如果想看到任何结果，您需要等待"
+    nvlunknown "如果想看到任何结果，你需要等待"
 
 # game/scripts/dialogues/mom_storyline.rpy:2352
 translate zh_Hans mom_storyline_14_56e2b295:
@@ -5020,7 +5020,7 @@ translate zh_Hans mom_storyline_14_89a029cd:
 translate zh_Hans mom_storyline_14_bb5fb48e:
 
     # nvlunknown "{a=show:show_chat_media}{image=mom_pic_5}"
-    nvlunknown "{a=show:show_chat_media}{image=mom_pic_5}"
+    nvlunknown ""
 
 # game/scripts/dialogues/mom_storyline.rpy:2392
 translate zh_Hans mom_storyline_14_43bf73b7:
@@ -5038,7 +5038,7 @@ translate zh_Hans mom_storyline_14_b783ac00:
 translate zh_Hans mom_storyline_14_dee9b337:
 
     # nvlunknown "{a=show:show_chat_media}{image=mom_pic_6}"
-    nvlunknown "{a=show:show_chat_media}{image=mom_pic_6}"
+    nvlunknown ""
 
 # game/scripts/dialogues/mom_storyline.rpy:2402
 translate zh_Hans mom_storyline_14_9a45956c:
@@ -5848,7 +5848,7 @@ translate zh_Hans mom_storyline_17_15c6efc7:
 translate zh_Hans mom_storyline_17_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mom_storyline.rpy:2792
 translate zh_Hans mom_storyline_17_516fb368:
@@ -5956,7 +5956,7 @@ translate zh_Hans mom_storyline_17_d0f053ef:
 translate zh_Hans mom_storyline_17_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/mom_storyline.rpy:2828
 translate zh_Hans mom_storyline_17_3bf2792a:
@@ -6088,7 +6088,7 @@ translate zh_Hans mom_storyline_17_bc75efa9:
 translate zh_Hans mom_storyline_17_2b991cbc:
 
     # nvlwife "❤️"
-    nvlwife "❤️|❤️"
+    nvlwife "❤️|"
 
 # game/scripts/dialogues/mom_storyline.rpy:2872
 translate zh_Hans mom_storyline_17_d8ed4014:
@@ -6656,7 +6656,7 @@ translate zh_Hans mom_storyline_19_a8835dbb:
 translate zh_Hans mom_storyline_19_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mom_storyline.rpy:3130
 translate zh_Hans mom_storyline_19_9e09a5b2:
@@ -7020,7 +7020,7 @@ translate zh_Hans mom_storyline_21_c2b5718b:
 translate zh_Hans mom_storyline_21_80dfe35e:
 
     # nvljenna "Have a nice day, boss 😊"
-    nvljenna "祝您今天愉快，老板😊"
+    nvljenna "祝你今天愉快，老板😊"
 
 # game/scripts/dialogues/mom_storyline.rpy:3329
 translate zh_Hans mom_storyline_21_036ae852:
@@ -7558,7 +7558,7 @@ translate zh_Hans mom_storyline_23_62915f62:
 translate zh_Hans mom_storyline_23_203d96a2:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_7}"
-    nvlmom "{a=show:show_chat_media}{image=mom_pic_7}"
+    nvlmom ""
 
 # game/scripts/dialogues/mom_storyline.rpy:3573
 translate zh_Hans mom_storyline_23_575f3c24:
@@ -7600,7 +7600,7 @@ translate zh_Hans mom_storyline_23_0f5ea05c:
 translate zh_Hans mom_storyline_23_354bac14:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_8}"
-    nvlmom "{a=show:show_chat_media}{image=mom_pic_8}"
+    nvlmom ""
 
 # game/scripts/dialogues/mom_storyline.rpy:3591
 translate zh_Hans mom_storyline_23_25033661:
@@ -7702,7 +7702,7 @@ translate zh_Hans mom_storyline_23_80536d72:
 translate zh_Hans mom_storyline_23_d2edc332:
 
     # nvlaaron "{a=show:show_chat_media}{image=mom_pic_7}"
-    nvlaaron "{a=show:show_chat_media}{image=mom_pic_7}"
+    nvlaaron ""
 
 # game/scripts/dialogues/mom_storyline.rpy:3627
 translate zh_Hans mom_storyline_23_76a6f3fb:
@@ -7944,7 +7944,7 @@ translate zh_Hans mom_storyline_24_bf861e06:
 translate zh_Hans mom_storyline_24_15e5c570:
 
     # nvlmom "😊"
-    nvlmom "😊|😊"
+    nvlmom "😊|"
 
 # game/scripts/dialogues/mom_storyline.rpy:3753
 translate zh_Hans mom_storyline_24_9d9fbf40:
@@ -8196,7 +8196,7 @@ translate zh_Hans mom_storyline_24_12edec94:
 translate zh_Hans mom_storyline_24_696590ed:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_9}"
-    nvlmom "{a=show:show_chat_media}{image=mom_pic_9}"
+    nvlmom ""
 
 # game/scripts/dialogues/mom_storyline.rpy:3841
 translate zh_Hans mom_storyline_24_ae2a90d7:
@@ -8214,7 +8214,7 @@ translate zh_Hans mom_storyline_24_4344f09b:
 translate zh_Hans mom_storyline_24_15e5c570_1:
 
     # nvlmom "😊"
-    nvlmom "😊|😊"
+    nvlmom "😊|"
 
 # game/scripts/dialogues/mom_storyline.rpy:3847
 translate zh_Hans mom_storyline_24_9fc93e5b:
@@ -8270,7 +8270,7 @@ translate zh_Hans mom_storyline_25_12edec94:
 translate zh_Hans mom_storyline_25_c5f11c42:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_10}"
-    nvlmom "{a=show:show_chat_media}{image=mom_pic_10}"
+    nvlmom ""
 
 # game/scripts/dialogues/mom_storyline.rpy:3900
 translate zh_Hans mom_storyline_25_ac9a8fb0:
@@ -8414,7 +8414,7 @@ translate zh_Hans mom_storyline_25_7d749bc7:
 translate zh_Hans mom_storyline_25_d7f5b0ec:
 
     # nvlgerard "{a=show:show_chat_media}{image=white_pic_5}"
-    nvlgerard "{a=show:show_chat_media}{image=white_pic_5}"
+    nvlgerard ""
 
 # game/scripts/dialogues/mom_storyline.rpy:3952
 translate zh_Hans mom_storyline_25_d2956fd4:
@@ -8884,13 +8884,13 @@ translate zh_Hans mom_storyline_26_59a9d6af:
 translate zh_Hans mom_storyline_26_6f8f5e83:
 
     # nvlunknown "Good luck with your search, Mr [mc_name_is]"
-    nvlunknown "祝您搜寻顺利，[mc_name_is]先生。"
+    nvlunknown "祝你搜寻顺利，[mc_name_is]先生。"
 
 # game/scripts/dialogues/mom_storyline.rpy:4150
 translate zh_Hans mom_storyline_26_cf09aa17:
 
     # nvlunknown "We hope you succeed in what you want to do"
-    nvlunknown "我们希望您能成功达成所愿。"
+    nvlunknown "我们希望你能成功达成所愿。"
 
 # game/scripts/dialogues/mom_storyline.rpy:4152
 translate zh_Hans mom_storyline_26_4cdc7732:
@@ -9210,7 +9210,7 @@ translate zh_Hans mom_storyline_27_899b94fd:
 translate zh_Hans mom_storyline_27_15e5c570:
 
     # nvlmom "😊"
-    nvlmom "😊|😊"
+    nvlmom "😊|"
 
 # game/scripts/dialogues/mom_storyline.rpy:4289
 translate zh_Hans mom_storyline_27_85ef0593:
@@ -9362,7 +9362,7 @@ translate zh_Hans mom_storyline_28_75125a60:
 translate zh_Hans mom_storyline_28_59f1b9b9:
 
     # nvlgerard "{a=show:show_chat_media}{image=white_pic_6}"
-    nvlgerard "{a=show:show_chat_media}{image=white_pic_6}"
+    nvlgerard ""
 
 # game/scripts/dialogues/mom_storyline.rpy:4374
 translate zh_Hans mom_storyline_28_dd493bbb:
@@ -9530,7 +9530,7 @@ translate zh_Hans mom_storyline_28_12edec94:
 translate zh_Hans mom_storyline_28_a677d15d:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_11}"
-    nvlmom "{a=show:show_chat_media}{image=mom_pic_11}"
+    nvlmom ""
 
 # game/scripts/dialogues/mom_storyline.rpy:4434
 translate zh_Hans mom_storyline_28_9ad00ad3:
@@ -10358,7 +10358,7 @@ translate zh_Hans mom_storyline_31_57864940:
 translate zh_Hans mom_storyline_31_15e5c570:
 
     # nvlmom "😊"
-    nvlmom "😊|😊"
+    nvlmom "😊|"
 
 # game/scripts/dialogues/mom_storyline.rpy:4816
 translate zh_Hans mom_storyline_31_85ef0593:
@@ -10570,7 +10570,7 @@ translate zh_Hans mom_storyline_32_672c2bae:
 translate zh_Hans mom_storyline_32_314a681c:
 
     # nvlgerard "{a=show:show_chat_media}{image=mom_pic_12}"
-    nvlgerard "{a=show:show_chat_media}{image=mom_pic_12}"
+    nvlgerard ""
 
 # game/scripts/dialogues/mom_storyline.rpy:4919
 translate zh_Hans mom_storyline_32_b9710d12:
@@ -10588,7 +10588,7 @@ translate zh_Hans mom_storyline_32_93720131:
 translate zh_Hans mom_storyline_32_0c0ec04f:
 
     # nvlgerard "{a=show:show_chat_media}{image=mom_pic_13}"
-    nvlgerard "{a=show:show_chat_media}{image=mom_pic_13}"
+    nvlgerard ""
 
 # game/scripts/dialogues/mom_storyline.rpy:4929
 translate zh_Hans mom_storyline_32_b2853ab4:
@@ -10702,7 +10702,7 @@ translate zh_Hans mom_storyline_32_bb9ed9f6:
 translate zh_Hans mom_storyline_32_0d83a01d:
 
     # nvlgerard "{a=show:show_chat_media}{image=h_incest_mom_1_ns}"
-    nvlgerard "{a=show:show_chat_media}{image=h_incest_mom_1_ns}|{a=show:show_chat_media}{image=h_incest_mom_1_ns}"
+    nvlgerard "{a=show:show_chat_media}{image=h_incest_mom_1_ns}|"
 
 # game/scripts/dialogues/mom_storyline.rpy:4971
 translate zh_Hans mom_storyline_32_3f114c7f:
@@ -10720,13 +10720,13 @@ translate zh_Hans mom_storyline_32_13cda051:
 translate zh_Hans mom_storyline_32_d2dafb9f:
 
     # nvlgerard "{a=show:show_chat_media}{image=h_incest_mom_2_ns}"
-    nvlgerard "{a=show:show_chat_media}{image=h_incest_mom_2_ns}|{a=show:show_chat_media}{image=h_incest_mom_2_ns}"
+    nvlgerard "{a=show:show_chat_media}{image=h_incest_mom_2_ns}|"
 
 # game/scripts/dialogues/mom_storyline.rpy:4981
 translate zh_Hans mom_storyline_32_fc92c712:
 
     # nvlgerard "😊"
-    nvlgerard "😊|😊"
+    nvlgerard "😊|"
 
 # game/scripts/dialogues/mom_storyline.rpy:4983
 translate zh_Hans mom_storyline_32_503fb06d:
@@ -11788,13 +11788,13 @@ translate zh_Hans mom_storyline_34_c0d472d0:
 translate zh_Hans mom_storyline_34_f07cfc65:
 
     # nvlunknown "Well, it depends on what exactly you need help with"
-    nvlunknown "嗯，这取决于您具体需要什么帮助。"
+    nvlunknown "嗯，这取决于你具体需要什么帮助。"
 
 # game/scripts/dialogues/mom_storyline.rpy:5512
 translate zh_Hans mom_storyline_34_da0dc624:
 
     # nvlunknown "But you can ask us to help you with anything, of course"
-    nvlunknown "不过您当然可以要求我们帮您任何事。"
+    nvlunknown "不过你当然可以要求我们帮你任何事。"
 
 # game/scripts/dialogues/mom_storyline.rpy:5514
 translate zh_Hans mom_storyline_34_dfd0becf:
@@ -11812,7 +11812,7 @@ translate zh_Hans mom_storyline_34_2695735c:
 translate zh_Hans mom_storyline_34_44d5ace5:
 
     # nvlunknown "Are you talking about your brother?"
-    nvlunknown "您说的是您弟弟吗？"
+    nvlunknown "你说的是你弟弟吗？"
 
 # game/scripts/dialogues/mom_storyline.rpy:5520
 translate zh_Hans mom_storyline_34_9feaf1a9:
@@ -12360,7 +12360,7 @@ translate zh_Hans mom_storyline_35_600caf70:
 translate zh_Hans mom_storyline_35_b8c8cbed:
 
     # nvljohn "I'll help you"
-    nvljohn "我会帮您的"
+    nvljohn "我会帮你的"
 
 # game/scripts/dialogues/mom_storyline.rpy:5747
 translate zh_Hans mom_storyline_35_3778a0b3:
@@ -12458,7 +12458,7 @@ translate zh_Hans mom_storyline_36_77d30b81:
 translate zh_Hans mom_storyline_36_68e04ee8:
 
     # nvlmom "You're exaggerating, hehe"
-    nvlmom "您夸张了，呵呵。"
+    nvlmom "你夸张了，呵呵。"
 
 # game/scripts/dialogues/mom_storyline.rpy:5810
 translate zh_Hans mom_storyline_36_d4fd0fe6:
@@ -12542,7 +12542,7 @@ translate zh_Hans mom_storyline_36_98b55294:
 translate zh_Hans mom_storyline_36_fd3bd64a:
 
     # nvlaaron "{a=show:show_chat_media}{image=mom_pic_14}"
-    nvlaaron "{a=show:show_chat_media}{image=mom_pic_14}"
+    nvlaaron ""
 
 # game/scripts/dialogues/mom_storyline.rpy:5842
 translate zh_Hans mom_storyline_36_b06cccfa:
@@ -12572,7 +12572,7 @@ translate zh_Hans mom_storyline_36_6e09a9d7:
 translate zh_Hans mom_storyline_36_fcf2e321:
 
     # nvlaaron "{a=show:show_chat_media}{image=mom_pic_15}"
-    nvlaaron "{a=show:show_chat_media}{image=mom_pic_15}"
+    nvlaaron ""
 
 # game/scripts/dialogues/mom_storyline.rpy:5856
 translate zh_Hans mom_storyline_36_a526ab22:
@@ -12826,7 +12826,7 @@ translate zh_Hans mom_storyline_37_d780ce03:
 translate zh_Hans mom_storyline_37_a3f665cf:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_16}"
-    nvlmom "{a=show:show_chat_media}{image=mom_pic_16}"
+    nvlmom ""
 
 # game/scripts/dialogues/mom_storyline.rpy:5975
 translate zh_Hans mom_storyline_37_a8909e71:
@@ -12862,7 +12862,7 @@ translate zh_Hans mom_storyline_37_d2430a5c:
 translate zh_Hans mom_storyline_37_582f4a64:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_17}"
-    nvlmom "{a=show:show_chat_media}{image=mom_pic_17}"
+    nvlmom ""
 
 # game/scripts/dialogues/mom_storyline.rpy:5991
 translate zh_Hans mom_storyline_37_9502a236:
@@ -12898,7 +12898,7 @@ translate zh_Hans mom_storyline_37_d76d887a:
 translate zh_Hans mom_storyline_37_1b16e672:
 
     # nvlgerard "{a=show:show_chat_media}{image=white_pic_7}"
-    nvlgerard "{a=show:show_chat_media}{image=white_pic_7}"
+    nvlgerard ""
 
 # game/scripts/dialogues/mom_storyline.rpy:6007
 translate zh_Hans mom_storyline_37_11fc5a99:
@@ -12952,7 +12952,7 @@ translate zh_Hans mom_storyline_37_6bfd0f04:
 translate zh_Hans mom_storyline_37_d144695c:
 
     # nvlgerard "{a=show:show_chat_media}{image=mom_pic_18}"
-    nvlgerard "{a=show:show_chat_media}{image=mom_pic_18}"
+    nvlgerard ""
 
 # game/scripts/dialogues/mom_storyline.rpy:6029
 translate zh_Hans mom_storyline_37_3c20e8ac:
@@ -13006,7 +13006,7 @@ translate zh_Hans mom_storyline_37_1a0cf832:
 translate zh_Hans mom_storyline_37_33f6d87d:
 
     # nvlgerard "{a=show:show_chat_media}{image=white_pic_8}"
-    nvlgerard "{a=show:show_chat_media}{image=white_pic_8}"
+    nvlgerard ""
 
 # game/scripts/dialogues/mom_storyline.rpy:6051
 translate zh_Hans mom_storyline_37_ff0c5f71:
@@ -13236,7 +13236,7 @@ translate zh_Hans mom_storyline_38_521c7406:
 translate zh_Hans mom_storyline_38_547ebfb4:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_19}"
-    nvlmom "{a=show:show_chat_media}{image=mom_pic_19}"
+    nvlmom ""
 
 # game/scripts/dialogues/mom_storyline.rpy:6167
 translate zh_Hans mom_storyline_38_3a063a4e:
@@ -13322,7 +13322,7 @@ translate zh_Hans mom_storyline_39_8dcca737:
 translate zh_Hans mom_storyline_39_e859655b:
 
     # nvlunknown "How are you doing? We hope you're feeling well?"
-    nvlunknown "您好吗？我们希望您一切都好？"
+    nvlunknown "你好吗？我们希望你一切都好？"
 
 # game/scripts/dialogues/mom_storyline.rpy:6226
 translate zh_Hans mom_storyline_39_2ff15081:
@@ -13334,13 +13334,13 @@ translate zh_Hans mom_storyline_39_2ff15081:
 translate zh_Hans mom_storyline_39_40832bb4:
 
     # nvlunknown "We kind of understand why you feel that way"
-    nvlunknown "我们大概能理解您为什么会有这种感觉。"
+    nvlunknown "我们大概能理解你为什么会有这种感觉。"
 
 # game/scripts/dialogues/mom_storyline.rpy:6230
 translate zh_Hans mom_storyline_39_f0acfc99:
 
     # nvlunknown "Unfortunately, we have bad news for you"
-    nvlunknown "很不幸，我们有一个坏消息要告诉您。"
+    nvlunknown "很不幸，我们有一个坏消息要告诉你。"
 
 # game/scripts/dialogues/mom_storyline.rpy:6232
 translate zh_Hans mom_storyline_39_4eca390b:
@@ -13376,7 +13376,7 @@ translate zh_Hans mom_storyline_39_cd37c784:
 translate zh_Hans mom_storyline_39_41df139c:
 
     # nvlunknown "{a=show:show_chat_media}{image=mom_pic_20}"
-    nvlunknown "{a=show:show_chat_media}{image=mom_pic_20}"
+    nvlunknown ""
 
 # game/scripts/dialogues/mom_storyline.rpy:6248
 translate zh_Hans mom_storyline_39_f1e4d7f3:
@@ -13400,7 +13400,7 @@ translate zh_Hans mom_storyline_39_0507751c:
 translate zh_Hans mom_storyline_39_10b211ce:
 
     # nvlunknown "{a=show:show_chat_media}{image=mom_pic_21}"
-    nvlunknown "{a=show:show_chat_media}{image=mom_pic_21}"
+    nvlunknown ""
 
 # game/scripts/dialogues/mom_storyline.rpy:6260
 translate zh_Hans mom_storyline_39_8e2d9b54:
@@ -13424,7 +13424,7 @@ translate zh_Hans mom_storyline_39_480f475c:
 translate zh_Hans mom_storyline_39_9b675cb9:
 
     # nvlunknown "{a=show:show_chat_media}{image=mom_pic_22}"
-    nvlunknown "{a=show:show_chat_media}{image=mom_pic_22}"
+    nvlunknown ""
 
 # game/scripts/dialogues/mom_storyline.rpy:6272
 translate zh_Hans mom_storyline_39_a24ca968:
@@ -13610,7 +13610,7 @@ translate zh_Hans mom_storyline_40_76b2fe88:
 translate zh_Hans mom_storyline_40_9f12256a:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_23}"
-    nvlmom "{a=show:show_chat_media}{image=mom_pic_23}"
+    nvlmom ""
 
 # game/scripts/dialogues/mom_storyline.rpy:6381
 translate zh_Hans mom_storyline_40_3ba57baf:
@@ -13960,7 +13960,7 @@ translate zh_Hans mom_storyline_41_2715b274:
 translate zh_Hans mom_storyline_41_fb216a0f:
 
     # nvlgerard "{a=show:show_chat_media}{image=mom_pic_24}"
-    nvlgerard "{a=show:show_chat_media}{image=mom_pic_24}"
+    nvlgerard ""
 
 # game/scripts/dialogues/mom_storyline.rpy:6532
 translate zh_Hans mom_storyline_41_0fc9006d:
@@ -14032,7 +14032,7 @@ translate zh_Hans mom_storyline_42_76b2fe88:
 translate zh_Hans mom_storyline_42_ceb496d8:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_25}"
-    nvlmom "{a=show:show_chat_media}{image=mom_pic_25}"
+    nvlmom ""
 
 # game/scripts/dialogues/mom_storyline.rpy:6589
 translate zh_Hans mom_storyline_42_4b95386a:
@@ -14230,7 +14230,7 @@ translate zh_Hans mom_storyline_42_edc4658b:
 translate zh_Hans mom_storyline_42_20aa8280:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_26}"
-    nvlmom "{a=show:show_chat_media}{image=mom_pic_26}"
+    nvlmom ""
 
 # game/scripts/dialogues/mom_storyline.rpy:6659
 translate zh_Hans mom_storyline_42_9616e15c:
@@ -14388,7 +14388,7 @@ translate zh_Hans mom_storyline_43_91d6de6a:
 translate zh_Hans mom_storyline_43_43ec7d92:
 
     # nvlgerard "{a=show:show_chat_media}{image=mom_pic_27}"
-    nvlgerard "{a=show:show_chat_media}{image=mom_pic_27}"
+    nvlgerard ""
 
 # game/scripts/dialogues/mom_storyline.rpy:6746
 translate zh_Hans mom_storyline_43_1ca631f1:
@@ -15432,7 +15432,7 @@ translate zh_Hans mom_storyline_46_f66bb802:
 translate zh_Hans mom_storyline_46_69c25d8a:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_28}"
-    nvlmom "{a=show:show_chat_media}{image=mom_pic_28}"
+    nvlmom ""
 
 # game/scripts/dialogues/mom_storyline.rpy:7194
 translate zh_Hans mom_storyline_46_b24084e4:
@@ -15492,7 +15492,7 @@ translate zh_Hans mom_storyline_46_62e3bc52:
 translate zh_Hans mom_storyline_46_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mom_storyline.rpy:7214
 translate zh_Hans mom_storyline_46_c1065b85:
@@ -16456,7 +16456,7 @@ translate zh_Hans mom_storyline_51_bc32ba64:
 translate zh_Hans mom_storyline_51_15e5c570:
 
     # nvlmom "😊"
-    nvlmom "😊|😊"
+    nvlmom "😊|"
 
 # game/scripts/dialogues/mom_storyline.rpy:7694
 translate zh_Hans mom_storyline_51_a453e45b:
@@ -16530,7 +16530,7 @@ translate zh_Hans mom_storyline_52_0b6fe622:
 translate zh_Hans mom_storyline_52_5f48fffe:
 
     # nvlgerard "Okay, as you wish, Ms Stanford"
-    nvlgerard "好的，如您所愿，斯坦福女士"
+    nvlgerard "好的，如你所愿，斯坦福女士"
 
 # game/scripts/dialogues/mom_storyline.rpy:7755
 translate zh_Hans mom_storyline_52_55edf078:
@@ -16542,7 +16542,7 @@ translate zh_Hans mom_storyline_52_55edf078:
 translate zh_Hans mom_storyline_52_39bd03ee:
 
     # nvlgerard "How should I address you?"
-    nvlgerard "那我该怎么称呼您呢？"
+    nvlgerard "那我该怎么称呼你呢？"
 
 # game/scripts/dialogues/mom_storyline.rpy:7759
 translate zh_Hans mom_storyline_52_4851a229:
@@ -16554,7 +16554,7 @@ translate zh_Hans mom_storyline_52_4851a229:
 translate zh_Hans mom_storyline_52_d62e3766:
 
     # nvlgerard "Maybe I should address you like I always have"
-    nvlgerard "也许我应该像以前那样称呼您"
+    nvlgerard "也许我应该像以前那样称呼你"
 
 # game/scripts/dialogues/mom_storyline.rpy:7763
 translate zh_Hans mom_storyline_52_81c7c8b6:
@@ -16752,7 +16752,7 @@ translate zh_Hans mom_storyline_52_973943b2:
 translate zh_Hans mom_storyline_52_fc92c712:
 
     # nvlgerard "😊"
-    nvlgerard "😊|😊"
+    nvlgerard "😊|"
 
 # game/scripts/dialogues/mom_storyline.rpy:7829
 translate zh_Hans mom_storyline_52_e31e199f:
@@ -17090,7 +17090,7 @@ translate zh_Hans mom_storyline_53_ef49b299:
 translate zh_Hans mom_storyline_53_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mom_storyline.rpy:7987
 translate zh_Hans mom_storyline_53_08892843:
@@ -17174,7 +17174,7 @@ translate zh_Hans mom_storyline_53_ae6fc474:
 translate zh_Hans mom_storyline_53_ad3ba79c:
 
     # nvldad "I look forward to seeing you this weekend 😊"
-    nvldad "I look forward to seeing you this weekend 😊"
+    nvldad ""
 
 # game/scripts/dialogues/mom_storyline.rpy:8015
 translate zh_Hans mom_storyline_53_eb7e4f5a:
@@ -17236,7 +17236,7 @@ translate zh_Hans mom_storyline_54_81252729:
 translate zh_Hans mom_storyline_54_683c0a75:
 
     # nvlunknown "{a=show:show_chat_media}{image=mom_video_1_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=mom_video_1_ns}|{a=show:show_chat_media}{image=mom_video_1_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=mom_video_1_ns}|"
 
 # game/scripts/dialogues/mom_storyline.rpy:8070
 translate zh_Hans mom_storyline_54_f1a97038:
@@ -17266,7 +17266,7 @@ translate zh_Hans mom_storyline_54_696652db:
 translate zh_Hans mom_storyline_54_eed4ba71:
 
     # nvlunknown "{a=show:show_chat_media}{image=mom_video_2_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=mom_video_2_ns}|{a=show:show_chat_media}{image=mom_video_2_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=mom_video_2_ns}|"
 
 # game/scripts/dialogues/mom_storyline.rpy:8084
 translate zh_Hans mom_storyline_54_26144fa0:
@@ -17860,7 +17860,7 @@ translate zh_Hans mom_storyline_57_5fda7a0f:
 translate zh_Hans mom_storyline_57_531ddc8c:
 
     # nvlgerard "I hope I'm the one who made you feel good 😉"
-    nvlgerard "I hope I'm the one who made you feel good 😉"
+    nvlgerard ""
 
 # game/scripts/dialogues/mom_storyline.rpy:8410
 translate zh_Hans mom_storyline_57_28305b89:
@@ -18076,7 +18076,7 @@ translate zh_Hans mom_storyline_57_71cb97d7:
 translate zh_Hans mom_storyline_57_cfaad82f:
 
     # nvlgerard "{a=show:show_chat_media}{image=mom_video_4_ns}"
-    nvlgerard "{a=show:show_chat_media}{image=mom_video_4_ns}"
+    nvlgerard ""
 
 # game/scripts/dialogues/mom_storyline.rpy:8490
 translate zh_Hans mom_storyline_57_e0275d68:
@@ -18400,7 +18400,7 @@ translate zh_Hans mom_storyline_57_27dce71c:
 translate zh_Hans mom_storyline_57_fc92c712:
 
     # nvlgerard "😊"
-    nvlgerard "😊|😊"
+    nvlgerard "😊|"
 
 # game/scripts/dialogues/mom_storyline.rpy:8598
 translate zh_Hans mom_storyline_57_c0f39eac:
@@ -19540,7 +19540,7 @@ translate zh_Hans mom_storyline_63_db7f7a12:
 translate zh_Hans mom_storyline_63_a199482d:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_pic_29}"
-    nvljenna "{a=show:show_chat_media}{image=mom_pic_29}"
+    nvljenna ""
 
 # game/scripts/dialogues/mom_storyline.rpy:9204
 translate zh_Hans mom_storyline_63_1000507b:
@@ -19636,7 +19636,7 @@ translate zh_Hans mom_storyline_63_ceb462f4:
 translate zh_Hans mom_storyline_63_9528b3a7:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_pic_30}"
-    nvljenna "{a=show:show_chat_media}{image=mom_pic_30}"
+    nvljenna ""
 
 # game/scripts/dialogues/mom_storyline.rpy:9240
 translate zh_Hans mom_storyline_63_205bf150:
@@ -20114,7 +20114,7 @@ translate zh_Hans mom_storyline_65_60bb5741_1:
 translate zh_Hans mom_storyline_65_6e7220c7:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_pic_31}"
-    nvljenna "{a=show:show_chat_media}{image=mom_pic_31}"
+    nvljenna ""
 
 # game/scripts/dialogues/mom_storyline.rpy:9464
 translate zh_Hans mom_storyline_65_0ebdc02c:
@@ -20246,7 +20246,7 @@ translate zh_Hans mom_storyline_65_8dea85fa:
 translate zh_Hans mom_storyline_65_d4bd9875:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_pic_32}"
-    nvljenna "{a=show:show_chat_media}{image=mom_pic_32}"
+    nvljenna ""
 
 # game/scripts/dialogues/mom_storyline.rpy:9512
 translate zh_Hans mom_storyline_65_375ced0b:
@@ -20584,7 +20584,7 @@ translate zh_Hans mom_storyline_66_6485e9a8:
 translate zh_Hans mom_storyline_66_039a426a:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_33}"
-    nvlmom "{a=show:show_chat_media}{image=mom_pic_33}"
+    nvlmom ""
 
 # game/scripts/dialogues/mom_storyline.rpy:9659
 translate zh_Hans mom_storyline_66_8a11afd4:
@@ -20602,7 +20602,7 @@ translate zh_Hans mom_storyline_66_c81ff403_1:
 translate zh_Hans mom_storyline_66_ecb658ae:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_34}"
-    nvlmom "{a=show:show_chat_media}{image=mom_pic_34}"
+    nvlmom ""
 
 # game/scripts/dialogues/mom_storyline.rpy:9669
 translate zh_Hans mom_storyline_66_6494aa13:
@@ -20668,7 +20668,7 @@ translate zh_Hans mom_storyline_66_fdadbdef:
 translate zh_Hans mom_storyline_66_d39a35f7:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_35}"
-    nvlmom "{a=show:show_chat_media}{image=mom_pic_35}"
+    nvlmom ""
 
 # game/scripts/dialogues/mom_storyline.rpy:9695
 translate zh_Hans mom_storyline_66_ce8d1183:
@@ -21020,7 +21020,7 @@ translate zh_Hans mom_storyline_68_c7601f37:
 translate zh_Hans mom_storyline_68_d833a232:
 
     # nvlgerard "{a=show:show_chat_media}{image=mom_pic_36}"
-    nvlgerard "{a=show:show_chat_media}{image=mom_pic_36}"
+    nvlgerard ""
 
 # game/scripts/dialogues/mom_storyline.rpy:9891
 translate zh_Hans mom_storyline_68_29f11356:
@@ -21160,7 +21160,7 @@ translate zh_Hans mom_storyline_69_389c9a86:
 translate zh_Hans mom_storyline_69_b196839f:
 
     # nvlgerard "{a=show:show_chat_media}{image=mom_pic_37}"
-    nvlgerard "{a=show:show_chat_media}{image=mom_pic_37}"
+    nvlgerard ""
 
 # game/scripts/dialogues/mom_storyline.rpy:9972
 translate zh_Hans mom_storyline_69_5a65d1b7:
@@ -21202,7 +21202,7 @@ translate zh_Hans mom_storyline_69_31c42bab:
 translate zh_Hans mom_storyline_69_fc92c712:
 
     # nvlgerard "😊"
-    nvlgerard "😊|😊"
+    nvlgerard "😊|"
 
 # game/scripts/dialogues/mom_storyline.rpy:9986
 translate zh_Hans mom_storyline_69_dfcc6165:
@@ -21684,7 +21684,7 @@ translate zh_Hans mom_storyline_70_359086a5:
 translate zh_Hans mom_storyline_70_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/mom_storyline.rpy:10191
 translate zh_Hans mom_storyline_70_62405638:
@@ -22020,7 +22020,7 @@ translate zh_Hans mom_storyline_73_efc26d00:
 translate zh_Hans mom_storyline_73_bf0b2407:
 
     # nvlunknown "{a=show:show_chat_media}{image=mom_video_5_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=mom_video_5_ns}"
+    nvlunknown ""
 
 # game/scripts/dialogues/mom_storyline.rpy:10398
 translate zh_Hans mom_storyline_73_a900fa90:
@@ -22188,7 +22188,7 @@ translate zh_Hans mom_storyline_74_76b2fe88:
 translate zh_Hans mom_storyline_74_2b65d850:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_38}"
-    nvlmom "{a=show:show_chat_media}{image=mom_pic_38}"
+    nvlmom ""
 
 # game/scripts/dialogues/mom_storyline.rpy:10501
 translate zh_Hans mom_storyline_74_9c7bcb60:
@@ -22556,7 +22556,7 @@ translate zh_Hans mom_storyline_75_9341c523:
 translate zh_Hans mom_storyline_75_b58b705c:
 
     # nvlmark "{a=show:show_chat_media}{image=mom_pic_39}"
-    nvlmark "{a=show:show_chat_media}{image=mom_pic_39}"
+    nvlmark ""
 
 # game/scripts/dialogues/mom_storyline.rpy:10656
 translate zh_Hans mom_storyline_75_cecdea06:
@@ -22658,7 +22658,7 @@ translate zh_Hans mom_storyline_76_76b2fe88:
 translate zh_Hans mom_storyline_76_d70b7fbf:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_40}"
-    nvlmom "{a=show:show_chat_media}{image=mom_pic_40}"
+    nvlmom ""
 
 # game/scripts/dialogues/mom_storyline.rpy:10728
 translate zh_Hans mom_storyline_76_c32a151e:
@@ -22682,13 +22682,13 @@ translate zh_Hans mom_storyline_76_184e8406:
 translate zh_Hans mom_storyline_76_588941aa:
 
     # nvlmom "Sorry, boss. I didn't mean to send it to you"
-    nvlmom "抱歉，老板。我不是故意发给您的"
+    nvlmom "抱歉，老板。我不是故意发给你的"
 
 # game/scripts/dialogues/mom_storyline.rpy:10736
 translate zh_Hans mom_storyline_76_96066e05:
 
     # nvlmomboss "It's all right. Don't worry"
-    nvlmomboss "没关系。您别担心"
+    nvlmomboss "没关系。你别担心"
 
 # game/scripts/dialogues/mom_storyline.rpy:10738
 translate zh_Hans mom_storyline_76_b28d677d:
@@ -22718,7 +22718,7 @@ translate zh_Hans mom_storyline_76_a84e25f6:
 translate zh_Hans mom_storyline_76_24185653:
 
     # nvlmom "I thought you were serious, haha"
-    nvlmom "我还以为您是认真的呢，哈哈"
+    nvlmom "我还以为你是认真的呢，哈哈"
 
 # game/scripts/dialogues/mom_storyline.rpy:10748
 translate zh_Hans mom_storyline_76_4fc4fe19:
@@ -22748,13 +22748,13 @@ translate zh_Hans mom_storyline_76_52394ab0:
 translate zh_Hans mom_storyline_76_354c5f5b:
 
     # nvlmomboss "But you really do look amazing, Ms Stanford"
-    nvlmomboss "不过您看起来确实非常迷人，斯坦福小姐"
+    nvlmomboss "不过你看起来确实非常迷人，斯坦福小姐"
 
 # game/scripts/dialogues/mom_storyline.rpy:10758
 translate zh_Hans mom_storyline_76_28be7c2c:
 
     # nvlmomboss "And your body is very beautiful"
-    nvlmomboss "您的身材也非常美丽"
+    nvlmomboss "你的身材也非常美丽"
 
 # game/scripts/dialogues/mom_storyline.rpy:10760
 translate zh_Hans mom_storyline_76_ca2c23ba:
@@ -22772,19 +22772,19 @@ translate zh_Hans mom_storyline_76_c07200a3:
 translate zh_Hans mom_storyline_76_4ebc753e:
 
     # nvlmomboss "I wish you were single"
-    nvlmomboss "我真希望您是单身"
+    nvlmomboss "我真希望你是单身"
 
 # game/scripts/dialogues/mom_storyline.rpy:10766
 translate zh_Hans mom_storyline_76_3cf381eb:
 
     # nvlmomboss "If it weren't for the ring on your finger, I'd try and get to know you better"
-    nvlmomboss "我真希望您是单身"
+    nvlmomboss "我真希望你是单身"
 
 # game/scripts/dialogues/mom_storyline.rpy:10768
 translate zh_Hans mom_storyline_76_15e5c570:
 
     # nvlmom "😊"
-    nvlmom "😊|😊"
+    nvlmom "😊|"
 
 # game/scripts/dialogues/mom_storyline.rpy:10770
 translate zh_Hans mom_storyline_76_4905646b:
@@ -22942,7 +22942,7 @@ translate zh_Hans mom_storyline_77_e2a165ce:
 translate zh_Hans mom_storyline_77_d70b7fbf:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_40}"
-    nvlmom "{a=show:show_chat_media}{image=mom_pic_40}"
+    nvlmom ""
 
 # game/scripts/dialogues/mom_storyline.rpy:10855
 translate zh_Hans mom_storyline_77_dd504b1c:
@@ -23184,7 +23184,7 @@ translate zh_Hans mom_storyline_78_f1e46ba6:
 translate zh_Hans mom_storyline_78_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/mom_storyline.rpy:10966
 translate zh_Hans mom_storyline_78_f718fb71:
@@ -23226,7 +23226,7 @@ translate zh_Hans mom_storyline_78_83558d4d:
 translate zh_Hans mom_storyline_78_bdd2309c:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_pic_42}"
-    nvljenna "{a=show:show_chat_media}{image=mom_pic_42}"
+    nvljenna ""
 
 # game/scripts/dialogues/mom_storyline.rpy:10984
 translate zh_Hans mom_storyline_78_7e781e5d:
@@ -23244,7 +23244,7 @@ translate zh_Hans mom_storyline_78_2e9d73dc:
 translate zh_Hans mom_storyline_78_3361e169:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_pic_41}"
-    nvljenna "{a=show:show_chat_media}{image=mom_pic_41}"
+    nvljenna ""
 
 # game/scripts/dialogues/mom_storyline.rpy:10994
 translate zh_Hans mom_storyline_78_a87ebd51:
@@ -23560,7 +23560,7 @@ translate zh_Hans mom_storyline_80_5679c260:
 translate zh_Hans mom_storyline_80_35d8ad64:
 
     # nvlgerard "{a=show:show_chat_media}{image=mom_pic_43}"
-    nvlgerard "{a=show:show_chat_media}{image=mom_pic_43}"
+    nvlgerard ""
 
 # game/scripts/dialogues/mom_storyline.rpy:11164
 translate zh_Hans mom_storyline_80_cd75b5a4:
@@ -23578,7 +23578,7 @@ translate zh_Hans mom_storyline_80_801bbeeb:
 translate zh_Hans mom_storyline_80_d51dde38:
 
     # nvlgerard "{a=show:show_chat_media}{image=mom_pic_44}"
-    nvlgerard "{a=show:show_chat_media}{image=mom_pic_44}"
+    nvlgerard ""
 
 # game/scripts/dialogues/mom_storyline.rpy:11174
 translate zh_Hans mom_storyline_80_60bb5741:
@@ -23850,7 +23850,7 @@ translate zh_Hans mom_storyline_81_5cb6d8b7:
 translate zh_Hans mom_storyline_81_b28be05d:
 
     # nvlmomboss "{a=show:show_chat_media}{image=mom_pic_45}"
-    nvlmomboss "{a=show:show_chat_media}{image=mom_pic_45}"
+    nvlmomboss ""
 
 # game/scripts/dialogues/mom_storyline.rpy:11299
 translate zh_Hans mom_storyline_81_5345c601:
@@ -23886,7 +23886,7 @@ translate zh_Hans mom_storyline_81_05cfb588:
 translate zh_Hans mom_storyline_81_15e5c570:
 
     # nvlmom "😊"
-    nvlmom "😊|😊"
+    nvlmom "😊|"
 
 # game/scripts/dialogues/mom_storyline.rpy:11311
 translate zh_Hans mom_storyline_81_f7e9207f:
@@ -23934,7 +23934,7 @@ translate zh_Hans mom_storyline_81_26ad7bf1:
 translate zh_Hans mom_storyline_81_cef0132e:
 
     # nvlmomboss "😊"
-    nvlmomboss "😊|😊"
+    nvlmomboss "😊|"
 
 # game/scripts/dialogues/mom_storyline.rpy:11327
 translate zh_Hans mom_storyline_81_fc330b28:
@@ -24160,7 +24160,7 @@ translate zh_Hans mom_storyline_83_8dcca737:
 translate zh_Hans mom_storyline_83_d7174a7b:
 
     # nvlunknown "We hope we're not disturbing you"
-    nvlunknown "我们希望没有打扰到您。"
+    nvlunknown "我们希望没有打扰到你。"
 
 # game/scripts/dialogues/mom_storyline.rpy:11463
 translate zh_Hans mom_storyline_83_9d8b6207:
@@ -24178,19 +24178,19 @@ translate zh_Hans mom_storyline_83_7f7d7268:
 translate zh_Hans mom_storyline_83_400a3db7:
 
     # nvlunknown "We'd like to show you a couple of new photos"
-    nvlunknown "我们想给您看几张新照片。"
+    nvlunknown "我们想给你看几张新照片。"
 
 # game/scripts/dialogues/mom_storyline.rpy:11471
 translate zh_Hans mom_storyline_83_6f7cdc6f:
 
     # nvlunknown "{a=show:show_chat_media}{image=mom_pic_46}"
-    nvlunknown "{a=show:show_chat_media}{image=mom_pic_46}"
+    nvlunknown ""
 
 # game/scripts/dialogues/mom_storyline.rpy:11477
 translate zh_Hans mom_storyline_83_fc2b0251:
 
     # nvlunknown "{a=show:show_chat_media}{image=mom_pic_47}"
-    nvlunknown "{a=show:show_chat_media}{image=mom_pic_47}"
+    nvlunknown ""
 
 # game/scripts/dialogues/mom_storyline.rpy:11481
 translate zh_Hans mom_storyline_83_a17c96e9:
@@ -24214,7 +24214,7 @@ translate zh_Hans mom_storyline_83_dec48f71:
 translate zh_Hans mom_storyline_83_079b0b80:
 
     # nvlunknown "{a=show:show_chat_media}{image=mom_pic_48}"
-    nvlunknown "{a=show:show_chat_media}{image=mom_pic_48}"
+    nvlunknown ""
 
 # game/scripts/dialogues/mom_storyline.rpy:11493
 translate zh_Hans mom_storyline_83_1591aa79:
@@ -24226,7 +24226,7 @@ translate zh_Hans mom_storyline_83_1591aa79:
 translate zh_Hans mom_storyline_83_8a80dcbc:
 
     # nvlunknown "{a=show:show_chat_media}{image=mom_pic_49}"
-    nvlunknown "{a=show:show_chat_media}{image=mom_pic_49}"
+    nvlunknown ""
 
 # game/scripts/dialogues/mom_storyline.rpy:11501
 translate zh_Hans mom_storyline_83_556c5df8:
@@ -24238,7 +24238,7 @@ translate zh_Hans mom_storyline_83_556c5df8:
 translate zh_Hans mom_storyline_83_202b939c:
 
     # nvlunknown "As you can see, your mum had quite a fun time yesterday"
-    nvlunknown "如您所见，您妈妈昨天玩得很开心。"
+    nvlunknown "如你所见，你妈妈昨天玩得很开心。"
 
 # game/scripts/dialogues/mom_storyline.rpy:11505
 translate zh_Hans mom_storyline_83_60bb5741:
@@ -24654,7 +24654,7 @@ translate zh_Hans mom_storyline_85_76b2fe88:
 translate zh_Hans mom_storyline_85_ef4890a2:
 
     # nvlgerard "{a=show:show_chat_media}{image=mom_pic_50}"
-    nvlgerard "{a=show:show_chat_media}{image=mom_pic_50}"
+    nvlgerard ""
 
 # game/scripts/dialogues/mom_storyline.rpy:11716
 translate zh_Hans mom_storyline_85_f4f8cc23:
@@ -24672,7 +24672,7 @@ translate zh_Hans mom_storyline_85_c7601f37:
 translate zh_Hans mom_storyline_85_7ecccea3:
 
     # nvlgerard "{a=show:show_chat_media}{image=mom_pic_51}"
-    nvlgerard "{a=show:show_chat_media}{image=mom_pic_51}"
+    nvlgerard ""
 
 # game/scripts/dialogues/mom_storyline.rpy:11726
 translate zh_Hans mom_storyline_85_60bb5741:
@@ -24786,7 +24786,7 @@ translate zh_Hans mom_storyline_85_e2fb7e9b:
 translate zh_Hans mom_storyline_85_901f79cb:
 
     # nvlgerard "{a=show:show_chat_media}{image=mom_pic_52}"
-    nvlgerard "{a=show:show_chat_media}{image=mom_pic_52}"
+    nvlgerard ""
 
 # game/scripts/dialogues/mom_storyline.rpy:11768
 translate zh_Hans mom_storyline_85_505d5f58:
@@ -25236,7 +25236,7 @@ translate zh_Hans mom_storyline_88_30e961d6:
 translate zh_Hans mom_storyline_88_81b2eb8f:
 
     # nvlmom "❤️"
-    nvlmom "❤️|❤️"
+    nvlmom "❤️|"
 
 # game/scripts/dialogues/mom_storyline.rpy:12037
 translate zh_Hans mom_storyline_88_83dc6172:
@@ -25400,7 +25400,7 @@ translate zh_Hans mom_storyline_89_27e1a511:
 translate zh_Hans mom_storyline_89_ca0a59f3:
 
     # nvljenna "{a=show:show_chat_media}{image=bbc_pic_9}"
-    nvljenna "{a=show:show_chat_media}{image=bbc_pic_9}"
+    nvljenna ""
 
 # game/scripts/dialogues/mom_storyline.rpy:12140
 translate zh_Hans mom_storyline_89_214ce2c4:
@@ -25528,7 +25528,7 @@ translate zh_Hans mom_storyline_90_3746b617:
 translate zh_Hans mom_storyline_90_15e5c570:
 
     # nvlmom "😊"
-    nvlmom "😊|😊"
+    nvlmom "😊|"
 
 # game/scripts/dialogues/mom_storyline.rpy:12228
 translate zh_Hans mom_storyline_90_d8d34438:
@@ -25898,7 +25898,7 @@ translate zh_Hans mom_storyline_92_b3bd1436:
 translate zh_Hans mom_storyline_92_697a6233:
 
     # nvljenna "{a=show:show_chat_media}{image=bbc_pic_10}"
-    nvljenna "{a=show:show_chat_media}{image=bbc_pic_10}"
+    nvljenna ""
 
 # game/scripts/dialogues/mom_storyline.rpy:12416
 translate zh_Hans mom_storyline_92_a5f46349:
@@ -26678,7 +26678,7 @@ translate zh_Hans mom_storyline_95_b99ae658:
 translate zh_Hans mom_storyline_95_4ab5846a:
 
     # nvlgerard "{a=show:show_chat_media}{image=mom_pic_53}"
-    nvlgerard "{a=show:show_chat_media}{image=mom_pic_53}"
+    nvlgerard ""
 
 # game/scripts/dialogues/mom_storyline.rpy:12798
 translate zh_Hans mom_storyline_95_db4192a3:
@@ -26866,7 +26866,7 @@ translate zh_Hans mom_storyline_96_cb42eb98:
 translate zh_Hans mom_storyline_96_70a94a3f:
 
     # nvldad "{a=show:show_chat_media}{image=mom_pic_54}"
-    nvldad "{a=show:show_chat_media}{image=mom_pic_54}"
+    nvldad ""
 
 # game/scripts/dialogues/mom_storyline.rpy:12910
 translate zh_Hans mom_storyline_96_c5e0881a:
@@ -27758,7 +27758,7 @@ translate zh_Hans mom_storyline_101_423dd700:
 translate zh_Hans mom_storyline_101_f5e4abd7:
 
     # nvlgerard "{a=show:show_chat_media}{image=mom_pic_55}"
-    nvlgerard "{a=show:show_chat_media}{image=mom_pic_55}"
+    nvlgerard ""
 
 # game/scripts/dialogues/mom_storyline.rpy:13396
 translate zh_Hans mom_storyline_101_a9e2f7c8:
@@ -28604,7 +28604,7 @@ translate zh_Hans mom_storyline_104_e9d0521e:
 translate zh_Hans mom_storyline_104_55cc1587:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_video_6_ns}"
-    nvljenna "{a=show:show_chat_media}{image=mom_video_6_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/mom_storyline.rpy:13787
 translate zh_Hans mom_storyline_104_0a693179:
@@ -28834,13 +28834,13 @@ translate zh_Hans mom_storyline_105_c28c3467_1:
 translate zh_Hans mom_storyline_105_15e5c570:
 
     # nvlmom "😊"
-    nvlmom "😊|😊"
+    nvlmom "😊|"
 
 # game/scripts/dialogues/mom_storyline.rpy:13909
 translate zh_Hans mom_storyline_105_3dbab3f0:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_56}"
-    nvlmom "{a=show:show_chat_media}{image=mom_pic_56}"
+    nvlmom ""
 
 # game/scripts/dialogues/mom_storyline.rpy:13913
 translate zh_Hans mom_storyline_105_99545d08:
@@ -29436,7 +29436,7 @@ translate zh_Hans mom_storyline_107_3e0e7df9:
 translate zh_Hans mom_storyline_107_60206b10:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_9_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_9_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/mom_storyline.rpy:14181
 translate zh_Hans mom_storyline_107_88825694:
@@ -29696,7 +29696,7 @@ translate zh_Hans mom_storyline_108_9d2f39fa:
 translate zh_Hans mom_storyline_108_6dc14147:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_57}"
-    nvlmom "{a=show:show_chat_media}{image=mom_pic_57}"
+    nvlmom ""
 
 # game/scripts/dialogues/mom_storyline.rpy:14317
 translate zh_Hans mom_storyline_108_9bc04ff3:
@@ -29726,7 +29726,7 @@ translate zh_Hans mom_storyline_108_abace6c1:
 translate zh_Hans mom_storyline_108_6d658d7b:
 
     # nvlmom "😉"
-    nvlmom "😉|😉"
+    nvlmom "😉|"
 
 # game/scripts/dialogues/mom_storyline.rpy:14341
 translate zh_Hans mom_storyline_108_53c71d7c:
@@ -30680,7 +30680,7 @@ translate zh_Hans mom_storyline_111_d30e2c11:
 translate zh_Hans mom_storyline_111_dffe622c:
 
     # nvlsalim "{a=show:show_chat_media}{image=mom_video_7_ns}"
-    nvlsalim "{a=show:show_chat_media}{image=mom_video_7_ns}"
+    nvlsalim ""
 
 # game/scripts/dialogues/mom_storyline.rpy:14768
 translate zh_Hans mom_storyline_111_8e1ad021:
@@ -31648,7 +31648,7 @@ translate zh_Hans mom_storyline_115_734cc876:
 translate zh_Hans mom_storyline_115_2ef90d30:
 
     # nvlwife "{a=show:show_chat_media}{image=mom_pic_58}"
-    nvlwife "{a=show:show_chat_media}{image=mom_pic_58}"
+    nvlwife ""
 
 # game/scripts/dialogues/mom_storyline.rpy:15228
 translate zh_Hans mom_storyline_115_a67645c0:
@@ -31666,7 +31666,7 @@ translate zh_Hans mom_storyline_115_1603dc43:
 translate zh_Hans mom_storyline_115_7c08efa6:
 
     # nvlwife "{a=show:show_chat_media}{image=mom_pic_59}"
-    nvlwife "{a=show:show_chat_media}{image=mom_pic_59}"
+    nvlwife ""
 
 # game/scripts/dialogues/mom_storyline.rpy:15238
 translate zh_Hans mom_storyline_115_8db012fc:
@@ -31744,7 +31744,7 @@ translate zh_Hans mom_storyline_115_b9d22dcd:
 translate zh_Hans mom_storyline_115_3a5433bb:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_10_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_10_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/mom_storyline.rpy:15268
 translate zh_Hans mom_storyline_115_755f52f4:
@@ -32040,7 +32040,7 @@ translate zh_Hans mom_storyline_116_b067be6b:
 translate zh_Hans mom_storyline_116_15e5c570:
 
     # nvlmom "😊"
-    nvlmom "😊|😊"
+    nvlmom "😊|"
 
 # game/scripts/dialogues/mom_storyline.rpy:15412
 translate zh_Hans mom_storyline_116_3d383436:
@@ -32604,7 +32604,7 @@ translate zh_Hans mom_storyline_119_54dd49dd:
 translate zh_Hans mom_storyline_119_15e5c570:
 
     # nvlmom "😊"
-    nvlmom "😊|😊"
+    nvlmom "😊|"
 
 # game/scripts/dialogues/mom_storyline.rpy:15697
 translate zh_Hans mom_storyline_119_745c54f1:
@@ -33316,7 +33316,7 @@ translate zh_Hans mom_storyline_124_a0fc3454:
 translate zh_Hans mom_storyline_124_15e5c570:
 
     # nvlmom "😊"
-    nvlmom "😊|😊"
+    nvlmom "😊|"
 
 # game/scripts/dialogues/mom_storyline.rpy:16103
 translate zh_Hans mom_storyline_124_2967c542:
@@ -33406,7 +33406,7 @@ translate zh_Hans mom_storyline_124_044f96f3:
 translate zh_Hans mom_storyline_124_9a1c7cc2:
 
     # nvlaaron "{a=show:show_chat_media}{image=wife_video_11_ns}"
-    nvlaaron "{a=show:show_chat_media}{image=wife_video_11_ns}"
+    nvlaaron ""
 
 # game/scripts/dialogues/mom_storyline.rpy:16137
 translate zh_Hans mom_storyline_124_360d5e37:
@@ -33540,7 +33540,7 @@ translate zh_Hans mom_storyline_125_84ef89ef:
 translate zh_Hans mom_storyline_125_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/mom_storyline.rpy:16212
 translate zh_Hans mom_storyline_125_8f43bce0:
@@ -33552,7 +33552,7 @@ translate zh_Hans mom_storyline_125_8f43bce0:
 translate zh_Hans mom_storyline_125_e2eeed96:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_842}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_842}"
+    nvlwife ""
 
 # game/scripts/dialogues/mom_storyline.rpy:16220
 translate zh_Hans mom_storyline_125_88825694:
@@ -33600,7 +33600,7 @@ translate zh_Hans mom_storyline_125_588353d0:
 translate zh_Hans mom_storyline_125_ea3d9387:
 
     # nvlwife "{a=show:show_chat_media}{image=mom_pic_60}"
-    nvlwife "{a=show:show_chat_media}{image=mom_pic_60}"
+    nvlwife ""
 
 # game/scripts/dialogues/mom_storyline.rpy:16240
 translate zh_Hans mom_storyline_125_b630702c:
@@ -33872,7 +33872,7 @@ translate zh_Hans mom_storyline_126_34c01289:
 translate zh_Hans mom_storyline_126_4fb876bf:
 
     # nvltyrone "{a=show:show_chat_media}{image=mom_pic_61}"
-    nvltyrone "{a=show:show_chat_media}{image=mom_pic_61}"
+    nvltyrone ""
 
 # game/scripts/dialogues/mom_storyline.rpy:16367
 translate zh_Hans mom_storyline_126_3c4078e0:
@@ -34398,7 +34398,7 @@ translate zh_Hans mom_storyline_129_f03e6550:
 translate zh_Hans mom_storyline_129_d649cb14:
 
     # nvlmom "Hi, boss."
-    nvlmom "老板，您好。"
+    nvlmom "老板，你好。"
 
 # game/scripts/dialogues/mom_storyline.rpy:16665
 translate zh_Hans mom_storyline_129_c83d0851:
@@ -34628,7 +34628,7 @@ translate zh_Hans mom_storyline_130_c270f57e:
 translate zh_Hans mom_storyline_130_c43458cc:
 
     # nvlwife "{a=show:show_chat_media}{image=mom_pic_62}"
-    nvlwife "{a=show:show_chat_media}{image=mom_pic_62}"
+    nvlwife ""
 
 # game/scripts/dialogues/mom_storyline.rpy:16778
 translate zh_Hans mom_storyline_130_af112411:
@@ -34904,7 +34904,7 @@ translate zh_Hans mom_storyline_130_d9d81cef:
 translate zh_Hans mom_storyline_130_2b991cbc:
 
     # nvlwife "❤️"
-    nvlwife "❤️|❤️"
+    nvlwife "❤️|"
 
 # game/scripts/dialogues/mom_storyline.rpy:16870
 translate zh_Hans mom_storyline_130_244026ad:
@@ -35050,7 +35050,7 @@ translate zh_Hans mom_storyline_131_1ea94fad:
 translate zh_Hans mom_storyline_131_8e4f7f0a:
 
     # nvltyrone "{a=show:show_chat_media}{image=mom_video_8_ns}"
-    nvltyrone "{a=show:show_chat_media}{image=mom_video_8_ns}"
+    nvltyrone ""
 
 # game/scripts/dialogues/mom_storyline.rpy:16953
 translate zh_Hans mom_storyline_131_7502bb4f:
@@ -35728,7 +35728,7 @@ translate zh_Hans mom_storyline_134_07013abc:
 translate zh_Hans mom_storyline_134_3fa95060:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_pic_63}"
-    nvljenna "{a=show:show_chat_media}{image=mom_pic_63}"
+    nvljenna ""
 
 # game/scripts/dialogues/mom_storyline.rpy:17287
 translate zh_Hans mom_storyline_134_fb069b7b:
@@ -35848,7 +35848,7 @@ translate zh_Hans mom_storyline_134_58b2e1dd:
 translate zh_Hans mom_storyline_134_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/mom_storyline.rpy:17327
 translate zh_Hans mom_storyline_134_461461c7:
@@ -35860,7 +35860,7 @@ translate zh_Hans mom_storyline_134_461461c7:
 translate zh_Hans mom_storyline_134_bb3e2812:
 
     # nvljenna "Have a nice day, boss."
-    nvljenna "祝您今天愉快，老板。"
+    nvljenna "祝你今天愉快，老板。"
 
 # game/scripts/dialogues/mom_storyline.rpy:17343
 translate zh_Hans mom_storyline_134_53c71d7c:
@@ -35952,7 +35952,7 @@ translate zh_Hans mom_storyline_135_3cd21b55:
 translate zh_Hans mom_storyline_135_b27dbbfe:
 
     # nvltyrone "{a=show:show_chat_media}{image=mom_pic_64}"
-    nvltyrone "{a=show:show_chat_media}{image=mom_pic_64}"
+    nvltyrone ""
 
 # game/scripts/dialogues/mom_storyline.rpy:17396
 translate zh_Hans mom_storyline_135_0d8c266b:
@@ -35970,7 +35970,7 @@ translate zh_Hans mom_storyline_135_abaec794:
 translate zh_Hans mom_storyline_135_cea28cc4:
 
     # nvltyrone "{a=show:show_chat_media}{image=mom_pic_65}"
-    nvltyrone "{a=show:show_chat_media}{image=mom_pic_65}"
+    nvltyrone ""
 
 # game/scripts/dialogues/mom_storyline.rpy:17406
 translate zh_Hans mom_storyline_135_2f30a95a:
@@ -35988,7 +35988,7 @@ translate zh_Hans mom_storyline_135_c41aa6e9:
 translate zh_Hans mom_storyline_135_19d7523d:
 
     # nvltyrone "{a=show:show_chat_media}{image=mom_pic_66}"
-    nvltyrone "{a=show:show_chat_media}{image=mom_pic_66}"
+    nvltyrone ""
 
 # game/scripts/dialogues/mom_storyline.rpy:17416
 translate zh_Hans mom_storyline_135_79fe4b4d:
@@ -36320,7 +36320,7 @@ translate zh_Hans mom_storyline_136_c068535f:
 translate zh_Hans mom_storyline_136_0970cacc:
 
     # nvlsalim "{a=show:show_chat_media}{image=mom_video_9_ns}"
-    nvlsalim "{a=show:show_chat_media}{image=mom_video_9_ns}"
+    nvlsalim ""
 
 # game/scripts/dialogues/mom_storyline.rpy:17561
 translate zh_Hans mom_storyline_136_f0886110:
@@ -36580,7 +36580,7 @@ translate zh_Hans mom_storyline_137_11b22f57:
 translate zh_Hans mom_storyline_137_6e02b8a5:
 
     # nvlaaron "{a=show:show_chat_media}{image=mom_pic_67}"
-    nvlaaron "{a=show:show_chat_media}{image=mom_pic_67}"
+    nvlaaron ""
 
 # game/scripts/dialogues/mom_storyline.rpy:17695
 translate zh_Hans mom_storyline_137_e6ab8f35:
@@ -36676,7 +36676,7 @@ translate zh_Hans mom_storyline_137_21369ce7:
 translate zh_Hans mom_storyline_137_15e5c570:
 
     # nvlmom "😊"
-    nvlmom "😊|😊"
+    nvlmom "😊|"
 
 # game/scripts/dialogues/mom_storyline.rpy:17739
 translate zh_Hans mom_storyline_137_53c71d7c:
@@ -36720,7 +36720,7 @@ translate zh_Hans mom_storyline_138_740e085b:
 translate zh_Hans mom_storyline_138_bd8bb7be:
 
     # nvlwife "{a=show:show_chat_media}{image=mom_video_10_ns}"
-    nvlwife "{a=show:show_chat_media}{image=mom_video_10_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/mom_storyline.rpy:17776
 translate zh_Hans mom_storyline_138_04dc10c1:
@@ -37106,7 +37106,7 @@ translate zh_Hans mom_storyline_139_a0f7cfc4:
 translate zh_Hans mom_storyline_139_d649cb14:
 
     # nvlmom "Hi, boss."
-    nvlmom "老板，您好。"
+    nvlmom "老板，你好。"
 
 # game/scripts/dialogues/mom_storyline.rpy:17950
 translate zh_Hans mom_storyline_139_b07ea966:
@@ -37214,7 +37214,7 @@ translate zh_Hans mom_storyline_139_bdda7fa4:
 translate zh_Hans mom_storyline_139_3103dfec:
 
     # nvlmomboss "{a=show:show_chat_media}{image=dick_pic_1}"
-    nvlmomboss "{a=show:show_chat_media}{image=dick_pic_1}|{a=show:show_chat_media}{image=dick_pic_1}"
+    nvlmomboss "{a=show:show_chat_media}{image=dick_pic_1}|"
 
 # game/scripts/dialogues/mom_storyline.rpy:17990
 translate zh_Hans mom_storyline_139_b6a09f0b:
@@ -37674,7 +37674,7 @@ translate zh_Hans mom_storyline_141_d1196680:
 translate zh_Hans mom_storyline_141_0e8c2c35:
 
     # nvltyrone "{a=show:show_chat_media}{image=mom_video_11_ns}"
-    nvltyrone "{a=show:show_chat_media}{image=mom_video_11_ns}|{a=show:show_chat_media}{image=mom_video_11_ns}"
+    nvltyrone "{a=show:show_chat_media}{image=mom_video_11_ns}|"
 
 # game/scripts/dialogues/mom_storyline.rpy:18223
 translate zh_Hans mom_storyline_141_3e559ce0:
@@ -37782,7 +37782,7 @@ translate zh_Hans mom_storyline_141_b7022005:
 translate zh_Hans mom_storyline_141_1c3ff0a7:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_68}"
-    nvlmom "{a=show:show_chat_media}{image=mom_pic_68}|{a=show:show_chat_media}{image=mom_pic_68}"
+    nvlmom "{a=show:show_chat_media}{image=mom_pic_68}|"
 
 # game/scripts/dialogues/mom_storyline.rpy:18263
 translate zh_Hans mom_storyline_141_01d413e8:
@@ -37910,7 +37910,7 @@ translate zh_Hans mom_storyline_142_7d5553eb:
 translate zh_Hans mom_storyline_142_5e5cba0e:
 
     # nvlgerard "{a=show:show_chat_media}{image=mom_pic_69}"
-    nvlgerard "{a=show:show_chat_media}{image=mom_pic_69}|{a=show:show_chat_media}{image=mom_pic_69}"
+    nvlgerard "{a=show:show_chat_media}{image=mom_pic_69}|"
 
 # game/scripts/dialogues/mom_storyline.rpy:18340
 translate zh_Hans mom_storyline_142_06fe258e:
@@ -38222,7 +38222,7 @@ translate zh_Hans mom_storyline_142_60d3ece5:
 translate zh_Hans mom_storyline_142_fc92c712:
 
     # nvlgerard "😊"
-    nvlgerard "😊|😊"
+    nvlgerard "😊|"
 
 # game/scripts/dialogues/mom_storyline.rpy:18444
 translate zh_Hans mom_storyline_142_ed01526a:
@@ -38416,7 +38416,7 @@ translate zh_Hans mom_storyline_143_eb38d760:
 translate zh_Hans mom_storyline_143_3414c49c:
 
     # nvlaaron "{a=show:show_chat_media}{image=mom_video_12_ns}"
-    nvlaaron "{a=show:show_chat_media}{image=mom_video_12_ns}"
+    nvlaaron ""
 
 # game/scripts/dialogues/mom_storyline.rpy:18556
 translate zh_Hans mom_storyline_143_6889f958:
@@ -38658,7 +38658,7 @@ translate zh_Hans mom_storyline_144_0e565f41:
 translate zh_Hans mom_storyline_144_27455e38:
 
     # nvlwife "{a=show:show_chat_media}{image=mom_pic_70}"
-    nvlwife "{a=show:show_chat_media}{image=mom_pic_70}"
+    nvlwife ""
 
 # game/scripts/dialogues/mom_storyline.rpy:18671
 translate zh_Hans mom_storyline_144_19e8b970:
@@ -39040,7 +39040,7 @@ translate zh_Hans mom_storyline_146_65328798:
 translate zh_Hans mom_storyline_146_d649cb14:
 
     # nvlmom "Hi, boss."
-    nvlmom "老板，您好。"
+    nvlmom "老板，你好。"
 
 # game/scripts/dialogues/mom_storyline.rpy:18863
 translate zh_Hans mom_storyline_146_73705913:
@@ -39094,7 +39094,7 @@ translate zh_Hans mom_storyline_146_8634cf15:
 translate zh_Hans mom_storyline_146_1937af2e:
 
     # nvlmomboss "{a=show:show_chat_media}{image=mom_video_13_ns}"
-    nvlmomboss "{a=show:show_chat_media}{image=mom_video_13_ns}"
+    nvlmomboss ""
 
 # game/scripts/dialogues/mom_storyline.rpy:18885
 translate zh_Hans mom_storyline_146_3e78bb3f:
@@ -39166,7 +39166,7 @@ translate zh_Hans mom_storyline_146_8dd6e345:
 translate zh_Hans mom_storyline_146_6fafeb05:
 
     # nvlmom "Alright, whatever you say, boss."
-    nvlmom "行，老板，您说了算。"
+    nvlmom "行，老板，你说了算。"
 
 # game/scripts/dialogues/mom_storyline.rpy:18909
 translate zh_Hans mom_storyline_146_7322fdb8:
@@ -39964,7 +39964,7 @@ translate zh_Hans mom_storyline_149_d1378fb4:
 translate zh_Hans mom_storyline_149_52a882e1:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_12_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_12_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/mom_storyline.rpy:19274
 translate zh_Hans mom_storyline_149_3e358b0f:
@@ -39994,7 +39994,7 @@ translate zh_Hans mom_storyline_149_a70796c3:
 translate zh_Hans mom_storyline_149_f521d4c3:
 
     # nvlwife "{a=show:show_chat_media}{image=mom_video_14_ns}"
-    nvlwife "{a=show:show_chat_media}{image=mom_video_14_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/mom_storyline.rpy:19288
 translate zh_Hans mom_storyline_149_026f9e5a:
@@ -40314,7 +40314,7 @@ translate zh_Hans mom_storyline_150_100cb3c9:
 translate zh_Hans mom_storyline_150_15e5c570:
 
     # nvlmom "😊"
-    nvlmom "😊|😊"
+    nvlmom "😊|"
 
 # game/scripts/dialogues/mom_storyline.rpy:19438
 translate zh_Hans mom_storyline_150_7d1d6f3c:
@@ -40326,7 +40326,7 @@ translate zh_Hans mom_storyline_150_7d1d6f3c:
 translate zh_Hans mom_storyline_150_334cf2d3:
 
     # nvltyrone "{a=show:show_chat_media}{image=mom_video_15_ns}"
-    nvltyrone "{a=show:show_chat_media}{image=mom_video_15_ns}"
+    nvltyrone ""
 
 # game/scripts/dialogues/mom_storyline.rpy:19446
 translate zh_Hans mom_storyline_150_00cc76db:
@@ -41472,7 +41472,7 @@ translate zh_Hans mom_storyline_154_5bcd1b63:
 translate zh_Hans mom_storyline_154_f682da96:
 
     # nvltyrone "{a=show:show_chat_media}{image=mom_video_16_ns}"
-    nvltyrone "{a=show:show_chat_media}{image=mom_video_16_ns}"
+    nvltyrone ""
 
 # game/scripts/dialogues/mom_storyline.rpy:19972
 translate zh_Hans mom_storyline_154_e4eb16b9:
@@ -41556,7 +41556,7 @@ translate zh_Hans mom_storyline_154_fcb7484e:
 translate zh_Hans mom_storyline_154_81b2eb8f:
 
     # nvlmom "❤️"
-    nvlmom "❤️|❤️"
+    nvlmom "❤️|"
 
 # game/scripts/dialogues/mom_storyline.rpy:20012
 translate zh_Hans mom_storyline_154_53c71d7c:
@@ -41582,7 +41582,7 @@ translate zh_Hans mom_storyline_155_7d12090a:
 translate zh_Hans mom_storyline_155_d649cb14:
 
     # nvlmom "Hi, boss."
-    nvlmom "老板，您好。"
+    nvlmom "老板，你好。"
 
 # game/scripts/dialogues/mom_storyline.rpy:20039
 translate zh_Hans mom_storyline_155_9746c7bb:
@@ -41902,7 +41902,7 @@ translate zh_Hans mom_storyline_156_412230d6:
 translate zh_Hans mom_storyline_156_48ff7025:
 
     # nvlwife "{a=show:show_chat_media}{image=mom_video_17_ns}"
-    nvlwife "{a=show:show_chat_media}{image=mom_video_17_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/mom_storyline.rpy:20182
 translate zh_Hans mom_storyline_156_2b441ec7:
@@ -42434,7 +42434,7 @@ translate zh_Hans mom_storyline_158_4c82a18e:
 translate zh_Hans mom_storyline_158_96819c8c:
 
     # nvljenna "WatchCum"
-    nvljenna "WatchCum"
+    nvljenna ""
 
 # game/scripts/dialogues/mom_storyline.rpy:20422
 translate zh_Hans mom_storyline_158_58e86cdb:
@@ -42652,7 +42652,7 @@ translate zh_Hans mom_storyline_159_60bb5741:
 translate zh_Hans mom_storyline_159_6b36e246:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_video_18_ns}"
-    nvljenna "{a=show:show_chat_media}{image=mom_video_18_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/mom_storyline.rpy:20548
 translate zh_Hans mom_storyline_159_399afdd8:
@@ -42736,7 +42736,7 @@ translate zh_Hans mom_storyline_159_528c0ab7:
 translate zh_Hans mom_storyline_159_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/mom_storyline.rpy:20576
 translate zh_Hans mom_storyline_159_22fc6a1f:
@@ -42894,7 +42894,7 @@ translate zh_Hans mom_storyline_160_1110de8a:
 translate zh_Hans mom_storyline_160_15e5c570:
 
     # nvlmom "😊"
-    nvlmom "😊|😊"
+    nvlmom "😊|"
 
 # game/scripts/dialogues/mom_storyline.rpy:20661
 translate zh_Hans mom_storyline_160_4ef99979:
@@ -43088,7 +43088,7 @@ translate zh_Hans mom_storyline_161_a9a9ff69:
 translate zh_Hans mom_storyline_161_2b991cbc:
 
     # nvlwife "❤️"
-    nvlwife "❤️|❤️"
+    nvlwife "❤️|"
 
 # game/scripts/dialogues/mom_storyline.rpy:20760
 translate zh_Hans mom_storyline_161_508960a4:
@@ -43100,7 +43100,7 @@ translate zh_Hans mom_storyline_161_508960a4:
 translate zh_Hans mom_storyline_161_3775eda4:
 
     # nvlwife "{a=show:show_chat_media}{image=mom_video_19_ns}"
-    nvlwife "{a=show:show_chat_media}{image=mom_video_19_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/mom_storyline.rpy:20768
 translate zh_Hans mom_storyline_161_1ac5b9c5:
@@ -43130,7 +43130,7 @@ translate zh_Hans mom_storyline_161_ba9f3ce2:
 translate zh_Hans mom_storyline_161_9ef137e4:
 
     # nvljohn "❤️"
-    nvljohn "❤️|❤️"
+    nvljohn "❤️|"
 
 # game/scripts/dialogues/mom_storyline.rpy:20778
 translate zh_Hans mom_storyline_161_1250bfdd:
@@ -44404,7 +44404,7 @@ translate zh_Hans mom_storyline_165_86aafd21:
 translate zh_Hans mom_storyline_165_2faeb115:
 
     # nvlwife "{a=show:show_chat_media}{image=mom_video_20_ns}"
-    nvlwife "{a=show:show_chat_media}{image=mom_video_20_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/mom_storyline.rpy:21360
 translate zh_Hans mom_storyline_165_7ec3e2e3:
@@ -44988,7 +44988,7 @@ translate zh_Hans mom_storyline_166_0b50a21e:
 translate zh_Hans mom_storyline_166_7701e2ef:
 
     # nvldad "So your visit wouldn't be ideal."
-    nvldad "所以您现在来可能不太方便。"
+    nvldad "所以你现在来可能不太方便。"
 
 # game/scripts/dialogues/mom_storyline.rpy:21585
 translate zh_Hans mom_storyline_166_beb44393:
@@ -45508,7 +45508,7 @@ translate zh_Hans mom_storyline_168_307edc0f:
 translate zh_Hans mom_storyline_168_409fce75:
 
     # nvltyrone "😊"
-    nvltyrone "😊|😊"
+    nvltyrone "😊|"
 
 # game/scripts/dialogues/mom_storyline.rpy:21836
 translate zh_Hans mom_storyline_168_7c1352f6:
@@ -45854,7 +45854,7 @@ translate zh_Hans mom_storyline_170_cac67000:
     # nvl clear
     # nvlmom "Hi, boss."
     nvl clear
-    nvlmom "老板，您好。"
+    nvlmom "老板，你好。"
 
 # game/scripts/dialogues/mom_storyline.rpy:22028
 translate zh_Hans mom_storyline_170_cab0aac0:
@@ -46058,13 +46058,13 @@ translate zh_Hans mom_storyline_170_c8cb96e7:
 translate zh_Hans mom_storyline_170_f0bdbfd7:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_video_21_ns}"
-    nvlmom "{a=show:show_chat_media}{image=mom_video_21_ns}"
+    nvlmom ""
 
 # game/scripts/dialogues/mom_storyline.rpy:22100
 translate zh_Hans mom_storyline_170_c9e648b4:
 
     # nvlmom "This is for you."
-    nvlmom "这是给您的。"
+    nvlmom "这是给你的。"
 
 # game/scripts/dialogues/mom_storyline.rpy:22102
 translate zh_Hans mom_storyline_170_c8502398:
@@ -46082,13 +46082,13 @@ translate zh_Hans mom_storyline_170_0ea278a3:
 translate zh_Hans mom_storyline_170_6d658d7b:
 
     # nvlmom "😉"
-    nvlmom "😉|😉"
+    nvlmom "😉|"
 
 # game/scripts/dialogues/mom_storyline.rpy:22108
 translate zh_Hans mom_storyline_170_e669bf85:
 
     # nvlmom "Alright, I'll stop bothering you now."
-    nvlmom "好了，我不打扰您了。"
+    nvlmom "好了，我不打扰你了。"
 
 # game/scripts/dialogues/mom_storyline.rpy:22110
 translate zh_Hans mom_storyline_170_1888c6ac:
@@ -46100,7 +46100,7 @@ translate zh_Hans mom_storyline_170_1888c6ac:
 translate zh_Hans mom_storyline_170_e0f04233:
 
     # nvlmomboss "You too, Mr Stanford."
-    nvlmomboss "您也是，斯坦福先生。"
+    nvlmomboss "你也是，斯坦福先生。"
 
 # game/scripts/dialogues/mom_storyline.rpy:22128
 translate zh_Hans mom_storyline_170_53c71d7c:
@@ -46174,13 +46174,13 @@ translate zh_Hans mom_storyline_171_a6f6e2db:
 translate zh_Hans mom_storyline_171_6b6ee51f:
 
     # nvlmom "I won’t come after you because of this child, boss."
-    nvlmom "老板，我不会因为这个孩子来缠着您。"
+    nvlmom "老板，我不会因为这个孩子来缠着你。"
 
 # game/scripts/dialogues/mom_storyline.rpy:22171
 translate zh_Hans mom_storyline_171_5a7e9aea:
 
     # nvlmom "You’re safe."
-    nvlmom "您很安全。"
+    nvlmom "你很安全。"
 
 # game/scripts/dialogues/mom_storyline.rpy:22173
 translate zh_Hans mom_storyline_171_8851e839:
@@ -46300,7 +46300,7 @@ translate zh_Hans mom_storyline_171_cbcc7387:
 translate zh_Hans mom_storyline_171_5057f007:
 
     # nvlmom "I’ll be waiting for your message then."
-    nvlmom "那我到时候就等您的消息了。"
+    nvlmom "那我到时候就等你的消息了。"
 
 # game/scripts/dialogues/mom_storyline.rpy:22213
 translate zh_Hans mom_storyline_171_7dfe3ac2:
@@ -46330,7 +46330,7 @@ translate zh_Hans mom_storyline_171_3414580c:
 translate zh_Hans mom_storyline_171_cd9256e8:
 
     # nvlmom "I’ll be there to please you."
-    nvlmom "我一定会让您爽到极致的。"
+    nvlmom "我一定会让你爽到极致的。"
 
 # game/scripts/dialogues/mom_storyline.rpy:22223
 translate zh_Hans mom_storyline_171_360104fb:
@@ -46702,7 +46702,7 @@ translate zh_Hans mom_storyline_174_3fdf8be6:
 translate zh_Hans mom_storyline_174_78cbd9d5:
 
     # nvlmomboss "{a=show:show_chat_media}{image=mom_video_22_ns}"
-    nvlmomboss "{a=show:show_chat_media}{image=mom_video_22_ns}"
+    nvlmomboss ""
 
 # game/scripts/dialogues/mom_storyline.rpy:22448
 translate zh_Hans mom_storyline_174_01ee8a98:
@@ -47092,7 +47092,7 @@ translate zh_Hans mom_storyline_177_c94e6704:
 translate zh_Hans mom_storyline_177_b3142821:
 
     # nvltyrone "{a=show:show_chat_media}{image=mom_video_23_ns}"
-    nvltyrone "{a=show:show_chat_media}{image=mom_video_23_ns}"
+    nvltyrone ""
 
 # game/scripts/dialogues/mom_storyline.rpy:22679
 translate zh_Hans mom_storyline_177_04702f51:
@@ -48068,7 +48068,7 @@ translate zh_Hans mom_storyline_182_8fbe606d:
 translate zh_Hans mom_storyline_182_6347c5aa:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_pic_18}"
-    nvljenna "{a=show:show_chat_media}{image=mom_pic_18}"
+    nvljenna ""
 
 # game/scripts/dialogues/mom_storyline.rpy:23180
 translate zh_Hans mom_storyline_182_29f38a44:
@@ -48240,7 +48240,7 @@ translate zh_Hans mom_storyline_184_e4671e66:
 translate zh_Hans mom_storyline_184_4950a3f3:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_71}"
-    nvlmom "{a=show:show_chat_media}{image=mom_pic_71}"
+    nvlmom ""
 
 # game/scripts/dialogues/mom_storyline.rpy:23307
 translate zh_Hans mom_storyline_184_cafe8a4e:
@@ -48502,13 +48502,13 @@ translate zh_Hans mom_storyline_186_aa3daaf9:
 translate zh_Hans mom_storyline_186_23841e61:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_308_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_308_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/mom_storyline.rpy:23469
 translate zh_Hans mom_storyline_186_6799d822:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_323_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_323_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/mom_storyline.rpy:23473
 translate zh_Hans mom_storyline_186_1c9ace4d:
@@ -48710,7 +48710,7 @@ translate zh_Hans mom_storyline_188_74ef6ca4:
 translate zh_Hans mom_storyline_188_179356f5:
 
     # nvlmom "You’re right, boss... it does make sense."
-    nvlmom "老板，您说得对……确实有道理。"
+    nvlmom "老板，你说得对……确实有道理。"
 
 # game/scripts/dialogues/mom_storyline.rpy:23603
 translate zh_Hans mom_storyline_188_b1a30b5c:
@@ -49092,7 +49092,7 @@ translate zh_Hans mom_storyline_190_7a9a67aa:
 translate zh_Hans mom_storyline_190_945ebcd8:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_870}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_870}"
+    nvlwife ""
 
 # game/scripts/dialogues/mom_storyline.rpy:23799
 translate zh_Hans mom_storyline_190_7a4c43af:
@@ -49360,7 +49360,7 @@ translate zh_Hans mom_storyline_192_63503772:
 translate zh_Hans mom_storyline_192_2c3e0282:
 
     # nvlmomboss "{a=show:show_chat_media}{image=mom_video_24_ns}"
-    nvlmomboss "{a=show:show_chat_media}{image=mom_video_24_ns}"
+    nvlmomboss ""
 
 # game/scripts/dialogues/mom_storyline.rpy:23957
 translate zh_Hans mom_storyline_192_18017214:
@@ -50102,7 +50102,7 @@ translate zh_Hans mom_storyline_197_aa5757c2:
 translate zh_Hans mom_storyline_197_378dfcd4:
 
     # nvljohn "It's okay, mum. Take all the time you need."
-    nvljohn "没关系，妈妈。您慢慢来，别着急。"
+    nvljohn "没关系，妈妈。你慢慢来，别着急。"
 
 # game/scripts/dialogues/mom_storyline.rpy:24366
 translate zh_Hans mom_storyline_197_4348bdec:
@@ -50146,7 +50146,7 @@ translate zh_Hans mom_storyline_198_348d88d9:
 translate zh_Hans mom_storyline_198_2e4134af:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_324_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_324_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/mom_storyline.rpy:24417
 translate zh_Hans mom_storyline_198_19a05cc5:
@@ -50262,7 +50262,7 @@ translate zh_Hans mom_storyline_199_a77917fc:
 translate zh_Hans mom_storyline_199_4a46450c:
 
     # nvltyrone "{a=show:show_chat_media}{image=mom_video_25_ns}"
-    nvltyrone "{a=show:show_chat_media}{image=mom_video_25_ns}"
+    nvltyrone ""
 
 # game/scripts/dialogues/mom_storyline.rpy:24492
 translate zh_Hans mom_storyline_199_cfb08e16:
@@ -50342,13 +50342,13 @@ translate zh_Hans mom_storyline_200_32bc1510:
     # nvl clear
     # nvlmom "Hi boss, a little gift for you."
     nvl clear
-    nvlmom "老板，这是送给您的小礼物。"
+    nvlmom "老板，这是送给你的小礼物。"
 
 # game/scripts/dialogues/mom_storyline.rpy:24553
 translate zh_Hans mom_storyline_200_a9031e51:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_72}"
-    nvlmom "{a=show:show_chat_media}{image=mom_pic_72}"
+    nvlmom ""
 
 # game/scripts/dialogues/mom_storyline.rpy:24557
 translate zh_Hans mom_storyline_200_a08d959b:
@@ -50402,7 +50402,7 @@ translate zh_Hans mom_storyline_200_b76ee62d:
 translate zh_Hans mom_storyline_200_40aee83d:
 
     # nvlmomboss "My employee will pick you up and drop you off."
-    nvlmomboss "我的雇员会接送您。"
+    nvlmomboss "我的雇员会接送你。"
 
 # game/scripts/dialogues/mom_storyline.rpy:24575
 translate zh_Hans mom_storyline_200_2ca1cae3:
@@ -50458,7 +50458,7 @@ translate zh_Hans mom_storyline_201_056ffa8b:
     # nvl clear
     # nvlmom "Boss, I'm sorry, but I couldn't make it to your office like you asked"
     nvl clear
-    nvlmom "老板，对不起，我没能像您要求的那样去您的办公室。"
+    nvlmom "老板，对不起，我没能像你要求的那样去你的办公室。"
 
 # game/scripts/dialogues/mom_storyline.rpy:24626
 translate zh_Hans mom_storyline_201_f85b4c92:
@@ -50696,7 +50696,7 @@ translate zh_Hans mom_storyline_203_cc7eba86:
 translate zh_Hans mom_storyline_203_4a49cb44:
 
     # nvljohn "Thanks for letting me know, dad."
-    nvljohn "谢谢您告知，爸爸。"
+    nvljohn "谢谢你告知，爸爸。"
 
 # game/scripts/dialogues/mom_storyline.rpy:24784
 translate zh_Hans mom_storyline_203_53c71d7c:
@@ -50710,7 +50710,7 @@ translate zh_Hans mom_storyline_204_f82ad097:
     # nvl clear
     # nvljohn "Mum, are you feeling better?"
     nvl clear
-    nvljohn "妈妈，您感觉好些了吗？"
+    nvljohn "妈妈，你感觉好些了吗？"
 
 # game/scripts/dialogues/mom_storyline.rpy:24807
 translate zh_Hans mom_storyline_204_da81fc23:
@@ -51222,13 +51222,13 @@ translate zh_Hans mom_storyline_208_6a88c112:
 translate zh_Hans mom_storyline_208_232ff153:
 
     # nvlmomboss "{a=show:show_chat_media}{image=mom_video_26_ns}"
-    nvlmomboss "{a=show:show_chat_media}{image=mom_video_26_ns}"
+    nvlmomboss ""
 
 # game/scripts/dialogues/mom_storyline.rpy:25111
 translate zh_Hans mom_storyline_208_1a612593:
 
     # nvlmomboss "{a=show:show_chat_media}{image=mom_video_27_ns}"
-    nvlmomboss "{a=show:show_chat_media}{image=mom_video_27_ns}"
+    nvlmomboss ""
 
 # game/scripts/dialogues/mom_storyline.rpy:25114
 translate zh_Hans mom_storyline_208_b2a52d7c:
@@ -51410,13 +51410,13 @@ translate zh_Hans mom_storyline_209_0a57da77:
 translate zh_Hans mom_storyline_209_9375c0d2:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_video_26_ns}"
-    nvljenna "{a=show:show_chat_media}{image=mom_video_26_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/mom_storyline.rpy:25209
 translate zh_Hans mom_storyline_209_21139732:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_video_27_ns}"
-    nvljenna "{a=show:show_chat_media}{image=mom_video_27_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/mom_storyline.rpy:25211
 translate zh_Hans mom_storyline_209_43374dae:
@@ -51550,13 +51550,13 @@ translate zh_Hans mom_storyline_210_79ecd777:
 translate zh_Hans mom_storyline_210_7622cf72:
 
     # nvljohn "{a=show:show_chat_media}{image=mom_video_26_ns}"
-    nvljohn "{a=show:show_chat_media}{image=mom_video_26_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mom_storyline.rpy:25291
 translate zh_Hans mom_storyline_210_68ff9aeb:
 
     # nvljohn "{a=show:show_chat_media}{image=mom_video_27_ns}"
-    nvljohn "{a=show:show_chat_media}{image=mom_video_27_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mom_storyline.rpy:25293
 translate zh_Hans mom_storyline_210_9050b599:
@@ -52000,7 +52000,7 @@ translate zh_Hans mom_storyline_213_5d52407e:
 translate zh_Hans mom_storyline_213_edc73327:
 
     # nvljohn "…"
-    nvljohn "……"
+    nvljohn ""
 
 # game/scripts/dialogues/mom_storyline.rpy:25539
 translate zh_Hans mom_storyline_213_8d8ee736:
@@ -52128,7 +52128,7 @@ translate zh_Hans mom_storyline_214_5eb5cee5:
 translate zh_Hans mom_storyline_214_edc73327:
 
     # nvljohn "…"
-    nvljohn "……"
+    nvljohn ""
 
 # game/scripts/dialogues/mom_storyline.rpy:25614
 translate zh_Hans mom_storyline_214_1b637c5b:
@@ -52164,7 +52164,7 @@ translate zh_Hans mom_storyline_214_e5a20204:
 translate zh_Hans mom_storyline_214_edc73327_1:
 
     # nvljohn "…"
-    nvljohn "……"
+    nvljohn ""
 
 # game/scripts/dialogues/mom_storyline.rpy:25626
 translate zh_Hans mom_storyline_214_389887a6:
@@ -52600,7 +52600,7 @@ translate zh_Hans mom_storyline_217_673be979:
 translate zh_Hans mom_storyline_217_18d7e162:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_73}"
-    nvlmom "{a=show:show_chat_media}{image=mom_pic_73}"
+    nvlmom ""
 
 # game/scripts/dialogues/mom_storyline.rpy:25871
 translate zh_Hans mom_storyline_217_86568055:
@@ -52744,7 +52744,7 @@ translate zh_Hans mom_storyline_217_93afe36b:
 translate zh_Hans mom_storyline_217_edc73327:
 
     # nvljohn "…"
-    nvljohn "……"
+    nvljohn ""
 
 # game/scripts/dialogues/mom_storyline.rpy:25919
 translate zh_Hans mom_storyline_217_be8fb5f5:
@@ -52872,7 +52872,7 @@ translate zh_Hans mom_storyline_218_a7c333ca:
 translate zh_Hans mom_storyline_218_d343b803:
 
     # nvlwife "{a=show:show_chat_media}{image=mom_video_28_ns}"
-    nvlwife "{a=show:show_chat_media}{image=mom_video_28_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/mom_storyline.rpy:26012
 translate zh_Hans mom_storyline_218_146245fd:
@@ -52902,7 +52902,7 @@ translate zh_Hans mom_storyline_218_cbdbcd26:
 translate zh_Hans mom_storyline_218_c2c70880:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_352_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_352_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/mom_storyline.rpy:26024
 translate zh_Hans mom_storyline_218_32deb5d1:
@@ -52994,7 +52994,7 @@ translate zh_Hans mom_storyline_219_ae11a588:
 translate zh_Hans mom_storyline_219_cb31765b:
 
     # nvlmom "😅"
-    nvlmom "😅"
+    nvlmom ""
 
 # game/scripts/dialogues/mom_storyline.rpy:26089
 translate zh_Hans mom_storyline_219_00309fc8:
@@ -53146,7 +53146,7 @@ translate zh_Hans mom_storyline_220_7b70b971:
 translate zh_Hans mom_storyline_220_aa178d68:
 
     # nvlmomboss "{a=show:show_chat_media}{image=mom_pic_74}"
-    nvlmomboss "{a=show:show_chat_media}{image=mom_pic_74}"
+    nvlmomboss ""
 
 # game/scripts/dialogues/mom_storyline.rpy:26174
 translate zh_Hans mom_storyline_220_05160db7:
@@ -53176,7 +53176,7 @@ translate zh_Hans mom_storyline_220_0c33fa51:
 translate zh_Hans mom_storyline_220_22ed8304:
 
     # nvlmomboss "{a=show:show_chat_media}{image=mom_pic_75}"
-    nvlmomboss "{a=show:show_chat_media}{image=mom_pic_75}"
+    nvlmomboss ""
 
 # game/scripts/dialogues/mom_storyline.rpy:26186
 translate zh_Hans mom_storyline_220_06eac168:
@@ -53224,7 +53224,7 @@ translate zh_Hans mom_storyline_220_e4387af5:
 translate zh_Hans mom_storyline_220_0c471470:
 
     # nvlmom "I’ll never forget, boss... I’m yours."
-    nvlmom "老板，我永远不会忘记……我是您的专属母狗。"
+    nvlmom "老板，我永远不会忘记……我是你的专属母狗。"
 
 # game/scripts/dialogues/mom_storyline.rpy:26216
 translate zh_Hans mom_storyline_220_53c71d7c:
@@ -54708,7 +54708,7 @@ translate zh_Hans mom_storyline_230_7a0af881:
 translate zh_Hans mom_storyline_230_73d9f6ce:
 
     # nvlwife "{a=show:show_chat_media}{image=mom_pic_76}"
-    nvlwife "{a=show:show_chat_media}{image=mom_pic_76}"
+    nvlwife ""
 
 # game/scripts/dialogues/mom_storyline.rpy:27037
 translate zh_Hans mom_storyline_230_512c0616:
@@ -54756,7 +54756,7 @@ translate zh_Hans mom_storyline_230_07156f47:
 translate zh_Hans mom_storyline_230_2a34e5dd:
 
     # nvlwife "{a=show:show_chat_media}{image=mom_pic_77}"
-    nvlwife "{a=show:show_chat_media}{image=mom_pic_77}"
+    nvlwife ""
 
 # game/scripts/dialogues/mom_storyline.rpy:27055
 translate zh_Hans mom_storyline_230_60398795:
@@ -54810,7 +54810,7 @@ translate zh_Hans mom_storyline_230_80cee448:
 translate zh_Hans mom_storyline_230_951c7c90:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_886}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_886}"
+    nvlwife ""
 
 # game/scripts/dialogues/mom_storyline.rpy:27075
 translate zh_Hans mom_storyline_230_494d90e3:
@@ -54852,7 +54852,7 @@ translate zh_Hans mom_storyline_230_3a04a3c1:
 translate zh_Hans mom_storyline_230_a36706b8:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_887}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_887}"
+    nvlwife ""
 
 # game/scripts/dialogues/mom_storyline.rpy:27091
 translate zh_Hans mom_storyline_230_ec59c8c9:
@@ -55126,7 +55126,7 @@ translate zh_Hans mom_storyline_232_bb4d628a:
 translate zh_Hans mom_storyline_232_2ccfa2fd:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_pic_858}"
-    nvljenna "{a=show:show_chat_media}{image=jenna_pic_858}"
+    nvljenna ""
 
 # game/scripts/dialogues/mom_storyline.rpy:27249
 translate zh_Hans mom_storyline_232_8c37abed:
@@ -55418,7 +55418,7 @@ translate zh_Hans mom_storyline_234_829e0457:
 translate zh_Hans mom_storyline_234_bb8fa019:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_video_29_ns}"
-    nvljenna "{a=show:show_chat_media}{image=mom_video_29_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/mom_storyline.rpy:27413
 translate zh_Hans mom_storyline_234_9b69f92a:
@@ -55448,7 +55448,7 @@ translate zh_Hans mom_storyline_234_d10d87df:
 translate zh_Hans mom_storyline_234_238841c7:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_video_30_ns}"
-    nvljenna "{a=show:show_chat_media}{image=mom_video_30_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/mom_storyline.rpy:27425
 translate zh_Hans mom_storyline_234_d633ba11:
@@ -55484,7 +55484,7 @@ translate zh_Hans mom_storyline_234_2fe794c3:
 translate zh_Hans mom_storyline_234_ab96a530:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_video_31_ns}"
-    nvljenna "{a=show:show_chat_media}{image=mom_video_31_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/mom_storyline.rpy:27439
 translate zh_Hans mom_storyline_234_526c6027:
@@ -55648,7 +55648,7 @@ translate zh_Hans mom_storyline_235_08dd5152:
 translate zh_Hans mom_storyline_235_c93b03ad:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_353_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_353_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/mom_storyline.rpy:27528
 translate zh_Hans mom_storyline_235_30912af0:
@@ -58292,13 +58292,13 @@ translate zh_Hans mom_storyline_249_af0035b3:
 translate zh_Hans mom_storyline_249_d75f4d88:
 
     # nvlronald "{a=show:show_chat_media}{image=mom_video_32_ns}"
-    nvlronald "{a=show:show_chat_media}{image=mom_video_32_ns}"
+    nvlronald ""
 
 # game/scripts/dialogues/mom_storyline.rpy:28879
 translate zh_Hans mom_storyline_249_904d3ddf:
 
     # nvlronald "{a=show:show_chat_media}{image=mom_video_33_ns}"
-    nvlronald "{a=show:show_chat_media}{image=mom_video_33_ns}"
+    nvlronald ""
 
 # game/scripts/dialogues/mom_storyline.rpy:28882
 translate zh_Hans mom_storyline_249_9e98ad16:
@@ -58456,7 +58456,7 @@ translate zh_Hans mom_storyline_250_47d2fe04:
 translate zh_Hans mom_storyline_250_e031c16b:
 
     # nvljohn "Of course mum, you can tell me anything."
-    nvljohn "当然可以，妈，您什么都能告诉我。"
+    nvljohn "当然可以，妈，你什么都能告诉我。"
 
 # game/scripts/dialogues/mom_storyline.rpy:28967
 translate zh_Hans mom_storyline_250_1e3116da:
@@ -59420,7 +59420,7 @@ translate zh_Hans mom_storyline_255_8bde8939:
 translate zh_Hans mom_storyline_255_f9ab85fc:
 
     # nvlronald "{a=show:show_chat_media}{image=mom_video_34_ns}"
-    nvlronald "{a=show:show_chat_media}{image=mom_video_34_ns}"
+    nvlronald ""
 
 # game/scripts/dialogues/mom_storyline.rpy:29464
 translate zh_Hans mom_storyline_255_30c136c7:
@@ -59888,7 +59888,7 @@ translate zh_Hans mom_storyline_258_733a6207:
 translate zh_Hans mom_storyline_258_b323064e:
 
     # nvlmom "Are you free to talk for a minute?"
-    nvlmom "您现在有空聊一会儿吗？"
+    nvlmom "你现在有空聊一会儿吗？"
 
 # game/scripts/dialogues/mom_storyline.rpy:29717
 translate zh_Hans mom_storyline_258_c6a39ab7:
@@ -60584,7 +60584,7 @@ translate zh_Hans mom_storyline_261_e22bb52d:
 translate zh_Hans mom_storyline_261_edc73327:
 
     # nvljohn "…"
-    nvljohn "……"
+    nvljohn ""
 
 # game/scripts/dialogues/mom_storyline.rpy:30046
 translate zh_Hans mom_storyline_261_24ca54dc:
@@ -60644,7 +60644,7 @@ translate zh_Hans mom_storyline_261_0269d0ef:
 translate zh_Hans mom_storyline_261_8e789d5b:
 
     # nvljohn "You don’t know how much that means to me, Mum."
-    nvljohn "妈妈，您不知道这对我的意义有多重大。"
+    nvljohn "妈妈，你不知道这对我的意义有多重大。"
 
 # game/scripts/dialogues/mom_storyline.rpy:30066
 translate zh_Hans mom_storyline_261_59a7ba30:

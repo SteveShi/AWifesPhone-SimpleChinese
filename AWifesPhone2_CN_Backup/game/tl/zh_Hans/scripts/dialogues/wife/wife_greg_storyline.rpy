@@ -222,7 +222,7 @@ translate zh_Hans wife_greg_storyline_53_f999268a:
 translate zh_Hans wife_greg_storyline_53_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:181
 translate zh_Hans wife_greg_storyline_53_217a9235:
@@ -416,7 +416,7 @@ translate zh_Hans wife_greg_storyline_54_cfb19132:
 translate zh_Hans wife_greg_storyline_54_53f259da:
 
     # nvlgreg "{a=show:show_chat_media}{image=anal_pic_1}"
-    nvlgreg "{a=show:show_chat_media}{image=anal_pic_1}"
+    nvlgreg ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:280
 translate zh_Hans wife_greg_storyline_54_87c29276:
@@ -826,7 +826,7 @@ translate zh_Hans wife_greg_storyline_55_744b9278:
 translate zh_Hans wife_greg_storyline_55_dd847a4b:
 
     # nvlwife "😉"
-    nvlwife "😉|😉"
+    nvlwife "😉|"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:443
 translate zh_Hans wife_greg_storyline_55_201c7794:
@@ -874,7 +874,7 @@ translate zh_Hans wife_greg_storyline_55_828dd0cd:
 translate zh_Hans wife_greg_storyline_55_d3f22a1d:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_146}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_146}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:463
 translate zh_Hans wife_greg_storyline_55_f9f699d7:
@@ -928,7 +928,7 @@ translate zh_Hans wife_greg_storyline_56_76b2fe88:
 translate zh_Hans wife_greg_storyline_56_8a850a36:
 
     # nvlgreg "{a=show:show_chat_media}{image=wife_video_292_ns}"
-    nvlgreg "{a=show:show_chat_media}{image=wife_video_292_ns}"
+    nvlgreg ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:511
 translate zh_Hans wife_greg_storyline_56_4c241d86:
@@ -1144,7 +1144,7 @@ translate zh_Hans wife_greg_storyline_56_05f42671:
 translate zh_Hans wife_greg_storyline_56_295687c8:
 
     # nvlgreg "😊"
-    nvlgreg "😊|😊"
+    nvlgreg "😊|"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:583
 translate zh_Hans wife_greg_storyline_56_e951c69d:
@@ -1266,7 +1266,7 @@ translate zh_Hans wife_greg_storyline_57_2cf48462:
 translate zh_Hans wife_greg_storyline_57_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:651
 translate zh_Hans wife_greg_storyline_57_258acdc0:
@@ -1338,7 +1338,7 @@ translate zh_Hans wife_greg_storyline_58_76b2fe88:
 translate zh_Hans wife_greg_storyline_58_99f30029:
 
     # nvlgreg "{a=show:show_chat_media}{image=wife_pic_254}"
-    nvlgreg "{a=show:show_chat_media}{image=wife_pic_254}"
+    nvlgreg ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:705
 translate zh_Hans wife_greg_storyline_58_db0f83ef:
@@ -1500,7 +1500,7 @@ translate zh_Hans wife_greg_storyline_58_44249678:
 translate zh_Hans wife_greg_storyline_58_295687c8:
 
     # nvlgreg "😊"
-    nvlgreg "😊|😊"
+    nvlgreg "😊|"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:759
 translate zh_Hans wife_greg_storyline_58_8317f2d8:
@@ -1724,13 +1724,13 @@ translate zh_Hans wife_greg_storyline_59_cf53a22a:
 translate zh_Hans wife_greg_storyline_59_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:863
 translate zh_Hans wife_greg_storyline_59_8ce2acfe:
 
     # nvlgreg "{a=show:show_chat_media}{image=el_pic_29}"
-    nvlgreg "{a=show:show_chat_media}{image=el_pic_29}"
+    nvlgreg ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:867
 translate zh_Hans wife_greg_storyline_59_e8109ca3:
@@ -1810,7 +1810,7 @@ translate zh_Hans wife_greg_storyline_60_d3ff358e:
 translate zh_Hans wife_greg_storyline_60_588279df:
 
     # nvlgreg "{a=show:show_chat_media}{image=wife_video_293_ns}"
-    nvlgreg "{a=show:show_chat_media}{image=wife_video_293_ns}"
+    nvlgreg ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:925
 translate zh_Hans wife_greg_storyline_60_c99e0e59:
@@ -1888,7 +1888,7 @@ translate zh_Hans wife_greg_storyline_60_52a8da24:
 translate zh_Hans wife_greg_storyline_60_821214d5:
 
     # nvlgreg "{a=show:show_chat_media}{image=el_pic_30}"
-    nvlgreg "{a=show:show_chat_media}{image=el_pic_30}"
+    nvlgreg ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:955
 translate zh_Hans wife_greg_storyline_60_23917dd6:
@@ -1918,7 +1918,7 @@ translate zh_Hans wife_greg_storyline_60_ab48f735:
 translate zh_Hans wife_greg_storyline_60_4c354017:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_303}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_303}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:969
 translate zh_Hans wife_greg_storyline_60_a87a91d8:
@@ -1990,7 +1990,7 @@ translate zh_Hans wife_greg_storyline_60_2d67ad30:
 translate zh_Hans wife_greg_storyline_60_1405000d:
 
     # nvlgreg "❤️"
-    nvlgreg "❤️|❤️"
+    nvlgreg "❤️|"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:1005
 translate zh_Hans wife_greg_storyline_60_53c71d7c:
@@ -2154,7 +2154,7 @@ translate zh_Hans wife_greg_storyline_61_c851f4ab:
 translate zh_Hans wife_greg_storyline_61_48d54301:
 
     # nvlgreg "{a=show:show_chat_media}{image=wife_video_294_ns}"
-    nvlgreg "{a=show:show_chat_media}{image=wife_video_294_ns}"
+    nvlgreg ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:1079
 translate zh_Hans wife_greg_storyline_61_0d031fa2:
@@ -2172,13 +2172,13 @@ translate zh_Hans wife_greg_storyline_61_cbaa3b1b:
 translate zh_Hans wife_greg_storyline_61_aa115e59:
 
     # nvlgreg "{a=show:show_chat_media}{image=wife_video_295_ns}"
-    nvlgreg "{a=show:show_chat_media}{image=wife_video_295_ns}"
+    nvlgreg ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:1091
 translate zh_Hans wife_greg_storyline_61_491f2a3b:
 
     # nvlgreg "{a=show:show_chat_media}{image=wife_video_296_ns}"
-    nvlgreg "{a=show:show_chat_media}{image=wife_video_296_ns}"
+    nvlgreg ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:1095
 translate zh_Hans wife_greg_storyline_61_784fcd10:
@@ -2414,7 +2414,7 @@ translate zh_Hans wife_greg_storyline_62_913b3cdc:
 translate zh_Hans wife_greg_storyline_62_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:1201
 translate zh_Hans wife_greg_storyline_62_4ab0794d:
@@ -2450,7 +2450,7 @@ translate zh_Hans wife_greg_storyline_62_e8264cbc:
 translate zh_Hans wife_greg_storyline_62_a8eef099:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_304}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_304}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:1217
 translate zh_Hans wife_greg_storyline_62_9f5be830:
@@ -2602,7 +2602,7 @@ translate zh_Hans wife_greg_storyline_63_b727e421:
 translate zh_Hans wife_greg_storyline_63_4a0dfec2:
 
     # nvlgreg "{a=show:show_chat_media}{image=el_pic_31}"
-    nvlgreg "{a=show:show_chat_media}{image=el_pic_31}"
+    nvlgreg ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:1300
 translate zh_Hans wife_greg_storyline_63_1303d7e3:
@@ -3180,7 +3180,7 @@ translate zh_Hans wife_greg_storyline_67_256de49d:
 translate zh_Hans wife_greg_storyline_67_24cb93ab:
 
     # nvlgreg "{a=show:show_chat_media}{image=canela_pic_5}"
-    nvlgreg "{a=show:show_chat_media}{image=canela_pic_5}"
+    nvlgreg ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:1625
 translate zh_Hans wife_greg_storyline_67_af3b7dc1:
@@ -3198,7 +3198,7 @@ translate zh_Hans wife_greg_storyline_67_78f61c17:
 translate zh_Hans wife_greg_storyline_67_89068ba2:
 
     # nvlgreg "{a=show:show_chat_media}{image=canela_pic_6}"
-    nvlgreg "{a=show:show_chat_media}{image=canela_pic_6}"
+    nvlgreg ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:1635
 translate zh_Hans wife_greg_storyline_67_2236f86c:
@@ -3288,7 +3288,7 @@ translate zh_Hans wife_greg_storyline_67_c07d6f98:
 translate zh_Hans wife_greg_storyline_67_56b0d18a:
 
     # nvlgreg "{a=show:show_chat_media}{image=canela_pic_7}"
-    nvlgreg "{a=show:show_chat_media}{image=canela_pic_7}"
+    nvlgreg ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:1669
 translate zh_Hans wife_greg_storyline_67_e645101b:
@@ -3808,7 +3808,7 @@ translate zh_Hans wife_greg_storyline_69_314c78ae:
 translate zh_Hans wife_greg_storyline_69_56a41bb7:
 
     # nvlgreg "{a=show:show_chat_media}{image=wife_video_297_ns}"
-    nvlgreg "{a=show:show_chat_media}{image=wife_video_297_ns}"
+    nvlgreg ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:1907
 translate zh_Hans wife_greg_storyline_69_54931bcf:
@@ -3838,7 +3838,7 @@ translate zh_Hans wife_greg_storyline_69_3d7c6cb6:
 translate zh_Hans wife_greg_storyline_69_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:1917
 translate zh_Hans wife_greg_storyline_69_f95ca9f7:
@@ -3990,7 +3990,7 @@ translate zh_Hans wife_greg_storyline_70_574a3ea4:
 translate zh_Hans wife_greg_storyline_70_cce8e078:
 
     # nvlgreg "{a=show:show_chat_media}{image=wife_video_298_ns}"
-    nvlgreg "{a=show:show_chat_media}{image=wife_video_298_ns}"
+    nvlgreg ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:2002
 translate zh_Hans wife_greg_storyline_70_78aeb304:
@@ -4008,7 +4008,7 @@ translate zh_Hans wife_greg_storyline_70_9a5d2707:
 translate zh_Hans wife_greg_storyline_70_2724a3cb:
 
     # nvlgreg "{a=show:show_chat_media}{image=wife_video_299_ns}"
-    nvlgreg "{a=show:show_chat_media}{image=wife_video_299_ns}"
+    nvlgreg ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:2012
 translate zh_Hans wife_greg_storyline_70_115c04bd:
@@ -4044,7 +4044,7 @@ translate zh_Hans wife_greg_storyline_70_71919d07:
 translate zh_Hans wife_greg_storyline_70_b081cfce:
 
     # nvlgreg "{a=show:show_chat_media}{image=wife_video_300_ns}"
-    nvlgreg "{a=show:show_chat_media}{image=wife_video_300_ns}"
+    nvlgreg ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:2028
 translate zh_Hans wife_greg_storyline_70_148f63f2:
@@ -4074,7 +4074,7 @@ translate zh_Hans wife_greg_storyline_70_dc97a911:
 translate zh_Hans wife_greg_storyline_70_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:2038
 translate zh_Hans wife_greg_storyline_70_9e04de68:
@@ -4654,7 +4654,7 @@ translate zh_Hans wife_greg_storyline_74_f4560545:
 translate zh_Hans wife_greg_storyline_74_56b0d18a:
 
     # nvlgreg "{a=show:show_chat_media}{image=canela_pic_7}"
-    nvlgreg "{a=show:show_chat_media}{image=canela_pic_7}"
+    nvlgreg ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:2296
 translate zh_Hans wife_greg_storyline_74_07f619d8:
@@ -4678,7 +4678,7 @@ translate zh_Hans wife_greg_storyline_74_ea7bb671:
 translate zh_Hans wife_greg_storyline_74_8137409e:
 
     # nvlgreg "{a=show:show_chat_media}{image=canela_pic_8}"
-    nvlgreg "{a=show:show_chat_media}{image=canela_pic_8}"
+    nvlgreg ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:2308
 translate zh_Hans wife_greg_storyline_74_34f3ffa4:
@@ -4828,7 +4828,7 @@ translate zh_Hans wife_greg_storyline_74_8f988013:
 translate zh_Hans wife_greg_storyline_74_2e99b8af:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_310}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_310}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:2362
 translate zh_Hans wife_greg_storyline_74_a6460667:
@@ -4852,7 +4852,7 @@ translate zh_Hans wife_greg_storyline_74_a9d73b79:
 translate zh_Hans wife_greg_storyline_74_86039862:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_311}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_311}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:2374
 translate zh_Hans wife_greg_storyline_74_976d7bac:
@@ -5244,13 +5244,13 @@ translate zh_Hans wife_greg_storyline_75_3d970dc1:
 translate zh_Hans wife_greg_storyline_75_9ef137e4:
 
     # nvljohn "❤️"
-    nvljohn "❤️|❤️"
+    nvljohn "❤️|"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:2535
 translate zh_Hans wife_greg_storyline_75_2b991cbc:
 
     # nvlwife "❤️"
-    nvlwife "❤️|❤️"
+    nvlwife "❤️|"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:2537
 translate zh_Hans wife_greg_storyline_75_90683152:
@@ -5500,7 +5500,7 @@ translate zh_Hans wife_greg_storyline_77_fb95ecb9:
 translate zh_Hans wife_greg_storyline_77_666580c2:
 
     # nvlunknown "{a=show:show_chat_media}{image=wife_pic_662}"
-    nvlunknown "{a=show:show_chat_media}{image=wife_pic_662}"
+    nvlunknown ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:2687
 translate zh_Hans wife_greg_storyline_77_a900fa90:
@@ -5524,7 +5524,7 @@ translate zh_Hans wife_greg_storyline_77_c2c12686:
 translate zh_Hans wife_greg_storyline_77_e778e51c:
 
     # nvlunknown "{a=show:show_chat_media}{image=wife_pic_663}"
-    nvlunknown "{a=show:show_chat_media}{image=wife_pic_663}"
+    nvlunknown ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:2699
 translate zh_Hans wife_greg_storyline_77_4cdc7732:
@@ -5542,7 +5542,7 @@ translate zh_Hans wife_greg_storyline_77_0bfa702d:
 translate zh_Hans wife_greg_storyline_77_d7548ae2:
 
     # nvlunknown "{a=show:show_chat_media}{image=wife_pic_664}"
-    nvlunknown "{a=show:show_chat_media}{image=wife_pic_664}"
+    nvlunknown ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:2709
 translate zh_Hans wife_greg_storyline_77_bc544011:
@@ -5712,7 +5712,7 @@ translate zh_Hans wife_greg_storyline_78_cf32fe7e:
 translate zh_Hans wife_greg_storyline_78_06d4ddcf:
 
     # nvlwife "Yes, he clearly takes after you, Mr Larry 😊"
-    nvlwife "是的，他显然像您，拉里先生😊"
+    nvlwife "是的，他显然像你，拉里先生😊"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:2798
 translate zh_Hans wife_greg_storyline_78_1c493aaf:
@@ -6202,7 +6202,7 @@ translate zh_Hans wife_greg_storyline_80_f4560545:
 translate zh_Hans wife_greg_storyline_80_c6ff269e:
 
     # nvlgreg "{a=show:show_chat_media}{image=wife_pic_665}"
-    nvlgreg "{a=show:show_chat_media}{image=wife_pic_665}"
+    nvlgreg ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:3033
 translate zh_Hans wife_greg_storyline_80_a22e3ea3:
@@ -6238,7 +6238,7 @@ translate zh_Hans wife_greg_storyline_80_0f0c787d:
 translate zh_Hans wife_greg_storyline_80_4dced6a0:
 
     # nvlgreg "{a=show:show_chat_media}{image=wife_pic_666}"
-    nvlgreg "{a=show:show_chat_media}{image=wife_pic_666}"
+    nvlgreg ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:3049
 translate zh_Hans wife_greg_storyline_80_7deee301:
@@ -6540,7 +6540,7 @@ translate zh_Hans wife_greg_storyline_81_8358ca90:
 translate zh_Hans wife_greg_storyline_81_f7511a75:
 
     # nvlgreg "{a=show:show_chat_media}{image=el_pic_33}"
-    nvlgreg "{a=show:show_chat_media}{image=el_pic_33}"
+    nvlgreg ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:3184
 translate zh_Hans wife_greg_storyline_81_76f71d06:
@@ -6674,7 +6674,7 @@ translate zh_Hans wife_greg_storyline_82_9b060526:
 translate zh_Hans wife_greg_storyline_82_d3c0c568:
 
     # nvlgreg "{a=show:show_chat_media}{image=el_pic_34}"
-    nvlgreg "{a=show:show_chat_media}{image=el_pic_34}"
+    nvlgreg ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:3263
 translate zh_Hans wife_greg_storyline_82_21226345:
@@ -6734,7 +6734,7 @@ translate zh_Hans wife_greg_storyline_82_2a0cfe2e:
 translate zh_Hans wife_greg_storyline_82_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:3283
 translate zh_Hans wife_greg_storyline_82_95642a3c:
@@ -7012,7 +7012,7 @@ translate zh_Hans wife_greg_storyline_83_0909db20:
 translate zh_Hans wife_greg_storyline_83_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:3406
 translate zh_Hans wife_greg_storyline_83_31fd37aa:
@@ -7232,7 +7232,7 @@ translate zh_Hans wife_greg_storyline_85_3071d1d9:
 translate zh_Hans wife_greg_storyline_85_66c2e585:
 
     # nvlunknown "We have a video for you"
-    nvlunknown "我们为您准备了一段视频"
+    nvlunknown "我们为你准备了一段视频"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:3542
 translate zh_Hans wife_greg_storyline_85_4f561309:
@@ -7244,7 +7244,7 @@ translate zh_Hans wife_greg_storyline_85_4f561309:
 translate zh_Hans wife_greg_storyline_85_5494c7bc:
 
     # nvlunknown "Your wife went on a date yesterday, didn't she?"
-    nvlunknown "您的妻子昨天去约会了，不是吗？"
+    nvlunknown "你的妻子昨天去约会了，不是吗？"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:3546
 translate zh_Hans wife_greg_storyline_85_4d45f2dd:
@@ -7262,7 +7262,7 @@ translate zh_Hans wife_greg_storyline_85_e49106f8:
 translate zh_Hans wife_greg_storyline_85_e451424f:
 
     # nvlunknown "We suppose you understand what happened"
-    nvlunknown "我们想您应该明白发生了什么"
+    nvlunknown "我们想你应该明白发生了什么"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:3552
 translate zh_Hans wife_greg_storyline_85_eb7e4f5a:
@@ -7286,13 +7286,13 @@ translate zh_Hans wife_greg_storyline_85_90f5a7e7:
 translate zh_Hans wife_greg_storyline_85_7464d154:
 
     # nvlunknown "{a=show:show_chat_media}{image=wife_video_140_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=wife_video_140_ns}"
+    nvlunknown ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:3564
 translate zh_Hans wife_greg_storyline_85_b6ef8af9:
 
     # nvlunknown "We hope you like the video"
-    nvlunknown "希望您喜欢这段视频"
+    nvlunknown "希望你喜欢这段视频"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:3566
 translate zh_Hans wife_greg_storyline_85_92955cda:
@@ -7310,7 +7310,7 @@ translate zh_Hans wife_greg_storyline_85_bc544011:
 translate zh_Hans wife_greg_storyline_85_94aaa757:
 
     # nvlunknown "Always happy to show you something that makes you happy"
-    nvlunknown "我们总是乐于向您展示能让您开心的东西"
+    nvlunknown "我们总是乐于向你展示能让你开心的东西"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:3586
 translate zh_Hans wife_greg_storyline_85_53c71d7c:
@@ -7836,7 +7836,7 @@ translate zh_Hans wife_greg_storyline_88_76b2fe88:
 translate zh_Hans wife_greg_storyline_88_95b7cb31:
 
     # nvlunknown "{a=show:show_chat_media}{image=wife_pic_667}"
-    nvlunknown "{a=show:show_chat_media}{image=wife_pic_667}"
+    nvlunknown ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:3858
 translate zh_Hans wife_greg_storyline_88_dd979c86:
@@ -7848,13 +7848,13 @@ translate zh_Hans wife_greg_storyline_88_dd979c86:
 translate zh_Hans wife_greg_storyline_88_1596d5b9:
 
     # nvlunknown "We think you'll find this interesting"
-    nvlunknown "我们觉得您会对此感兴趣"
+    nvlunknown "我们觉得你会对此感兴趣"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:3864
 translate zh_Hans wife_greg_storyline_88_9694ac37:
 
     # nvlunknown "{a=show:show_chat_media}{image=wife_pic_668}"
-    nvlunknown "{a=show:show_chat_media}{image=wife_pic_668}"
+    nvlunknown ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:3868
 translate zh_Hans wife_greg_storyline_88_8dcca737:
@@ -7878,7 +7878,7 @@ translate zh_Hans wife_greg_storyline_88_556c5df8:
 translate zh_Hans wife_greg_storyline_88_0fb69952:
 
     # nvlunknown "Now you know better what she does when she goes out with her friends"
-    nvlunknown "现在您更清楚她和朋友出去时都做了些什么"
+    nvlunknown "现在你更清楚她和朋友出去时都做了些什么"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:3876
 translate zh_Hans wife_greg_storyline_88_92242862:
@@ -7890,13 +7890,13 @@ translate zh_Hans wife_greg_storyline_88_92242862:
 translate zh_Hans wife_greg_storyline_88_998dc6d3:
 
     # nvljohn "Thank you for sharing these photos with me"
-    nvljohn "谢谢您与我分享这些照片"
+    nvljohn "谢谢你与我分享这些照片"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:3880
 translate zh_Hans wife_greg_storyline_88_0abb0b36:
 
     # nvlunknown "Glad you liked them"
-    nvlunknown "很高兴您喜欢"
+    nvlunknown "很高兴你喜欢"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:3882
 translate zh_Hans wife_greg_storyline_88_4cc10bb7:
@@ -8438,7 +8438,7 @@ translate zh_Hans wife_greg_storyline_89_4ac7de0a:
 translate zh_Hans wife_greg_storyline_89_2b991cbc:
 
     # nvlwife "❤️"
-    nvlwife "❤️|❤️"
+    nvlwife "❤️|"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:4108
 translate zh_Hans wife_greg_storyline_89_c8fb0382:
@@ -8650,7 +8650,7 @@ translate zh_Hans wife_greg_storyline_90_63c8a776:
 translate zh_Hans wife_greg_storyline_90_5a280327:
 
     # nvlgreg "{a=show:show_chat_media}{image=canela_video_1_ns}"
-    nvlgreg "{a=show:show_chat_media}{image=canela_video_1_ns}|{a=show:show_chat_media}{image=canela_video_1_ns}"
+    nvlgreg "{a=show:show_chat_media}{image=canela_video_1_ns}|"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:4213
 translate zh_Hans wife_greg_storyline_90_1303d7e3:
@@ -8668,7 +8668,7 @@ translate zh_Hans wife_greg_storyline_90_1603286e:
 translate zh_Hans wife_greg_storyline_90_7f24d3ff:
 
     # nvlgreg "{a=show:show_chat_media}{image=canela_video_2_ns}"
-    nvlgreg "{a=show:show_chat_media}{image=canela_video_2_ns}|{a=show:show_chat_media}{image=canela_video_2_ns}"
+    nvlgreg "{a=show:show_chat_media}{image=canela_video_2_ns}|"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:4223
 translate zh_Hans wife_greg_storyline_90_2dae5bad:
@@ -8692,7 +8692,7 @@ translate zh_Hans wife_greg_storyline_90_eafede07:
 translate zh_Hans wife_greg_storyline_90_b4bb688a:
 
     # nvlgreg "{a=show:show_chat_media}{image=canela_video_3_ns}"
-    nvlgreg "{a=show:show_chat_media}{image=canela_video_3_ns}|{a=show:show_chat_media}{image=canela_video_3_ns}"
+    nvlgreg "{a=show:show_chat_media}{image=canela_video_3_ns}|"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:4235
 translate zh_Hans wife_greg_storyline_90_9489dddf:
@@ -8850,7 +8850,7 @@ translate zh_Hans wife_greg_storyline_91_03a6e67d:
 translate zh_Hans wife_greg_storyline_91_4b3aba64:
 
     # nvlgreg_f "😊"
-    nvlgreg_f "😊|😊"
+    nvlgreg_f "😊|"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:4320
 translate zh_Hans wife_greg_storyline_91_e5be79cb:
@@ -9098,7 +9098,7 @@ translate zh_Hans wife_greg_storyline_92_00eb6b25:
 translate zh_Hans wife_greg_storyline_92_4b3aba64:
 
     # nvlgreg_f "😊"
-    nvlgreg_f "😊|😊"
+    nvlgreg_f "😊|"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:4435
 translate zh_Hans wife_greg_storyline_92_4dc3de31:
@@ -9128,7 +9128,7 @@ translate zh_Hans wife_greg_storyline_92_d813ba41:
 translate zh_Hans wife_greg_storyline_92_e77d2b89:
 
     # nvlgreg_f "{a=show:show_chat_media}{image=wife_video_141_ns}"
-    nvlgreg_f "{a=show:show_chat_media}{image=wife_video_141_ns}"
+    nvlgreg_f ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:4449
 translate zh_Hans wife_greg_storyline_92_c04cb7bc:
@@ -9770,7 +9770,7 @@ translate zh_Hans wife_greg_storyline_101_5ebe24f8:
 translate zh_Hans wife_greg_storyline_101_b1fa2076:
 
     # nvlgreg "{a=show:show_chat_media}{image=el_pic_6}"
-    nvlgreg "{a=show:show_chat_media}{image=el_pic_6}|{a=show:show_chat_media}{image=el_pic_6}"
+    nvlgreg "{a=show:show_chat_media}{image=el_pic_6}|"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:4789
 translate zh_Hans wife_greg_storyline_101_d813ba41:
@@ -9934,7 +9934,7 @@ translate zh_Hans wife_greg_storyline_102_f3d052a4:
 translate zh_Hans wife_greg_storyline_102_5ec6ccbc:
 
     # nvlwife "{a=show:show_chat_media}{image=canela_video_1_ns}"
-    nvlwife "{a=show:show_chat_media}{image=canela_video_1_ns}|{a=show:show_chat_media}{image=canela_video_1_ns}"
+    nvlwife "{a=show:show_chat_media}{image=canela_video_1_ns}|"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:4878
 translate zh_Hans wife_greg_storyline_102_065d9be3:
@@ -9958,7 +9958,7 @@ translate zh_Hans wife_greg_storyline_102_6cded4d4:
 translate zh_Hans wife_greg_storyline_102_37e5b5b2:
 
     # nvlwife "{a=show:show_chat_media}{image=canela_video_2_ns}"
-    nvlwife "{a=show:show_chat_media}{image=canela_video_2_ns}|{a=show:show_chat_media}{image=canela_video_2_ns}"
+    nvlwife "{a=show:show_chat_media}{image=canela_video_2_ns}|"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:4888
 translate zh_Hans wife_greg_storyline_102_bb231ad8:
@@ -10304,7 +10304,7 @@ translate zh_Hans wife_greg_storyline_104_791c9273:
 translate zh_Hans wife_greg_storyline_104_f148a2f1:
 
     # nvlwife "{a=show:show_chat_media}{image=canela_video_4_ns}"
-    nvlwife "{a=show:show_chat_media}{image=canela_video_4_ns}|{a=show:show_chat_media}{image=canela_video_4_ns}"
+    nvlwife "{a=show:show_chat_media}{image=canela_video_4_ns}|"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:5072
 translate zh_Hans wife_greg_storyline_104_d4bc1e71:
@@ -10648,13 +10648,13 @@ translate zh_Hans wife_greg_storyline_105_860b4474_1:
 translate zh_Hans wife_greg_storyline_105_dc42f19a:
 
     # nvlwife "{a=show:show_chat_media}{image=canela_pic_5}"
-    nvlwife "{a=show:show_chat_media}{image=canela_pic_5}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:5223
 translate zh_Hans wife_greg_storyline_105_4986c5b3:
 
     # nvlwife "{a=show:show_chat_media}{image=canela_pic_7}"
-    nvlwife "{a=show:show_chat_media}{image=canela_pic_7}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:5225
 translate zh_Hans wife_greg_storyline_105_611b4796:
@@ -10976,7 +10976,7 @@ translate zh_Hans wife_greg_storyline_107_0e281345:
 translate zh_Hans wife_greg_storyline_107_c75eca71:
 
     # nvlgreg "{a=show:show_chat_media}{image=wife_video_29_ns}"
-    nvlgreg "{a=show:show_chat_media}{image=wife_video_29_ns}"
+    nvlgreg ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:5399
 translate zh_Hans wife_greg_storyline_107_d4f04cb6:
@@ -11230,7 +11230,7 @@ translate zh_Hans wife_greg_storyline_108_91235983:
 translate zh_Hans wife_greg_storyline_108_0c387fc3:
 
     # nvlcanela "😊"
-    nvlcanela "😊|😊"
+    nvlcanela "😊|"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:5518
 translate zh_Hans wife_greg_storyline_108_28675225:
@@ -11390,7 +11390,7 @@ translate zh_Hans wife_greg_storyline_110_8938b46f:
 translate zh_Hans wife_greg_storyline_110_7b1a996f:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_2_ns}"
-    nvljenna "{a=show:show_chat_media}{image=jenna_video_2_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:5640
 translate zh_Hans wife_greg_storyline_110_896c688e:
@@ -11676,7 +11676,7 @@ translate zh_Hans wife_greg_storyline_112_e52e959a:
 translate zh_Hans wife_greg_storyline_112_4e54aa7f:
 
     # nvlcanela "{a=show:show_chat_media}{image=canela_pic_1}"
-    nvlcanela "{a=show:show_chat_media}{image=canela_pic_1}"
+    nvlcanela ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:5802
 translate zh_Hans wife_greg_storyline_112_24a50ff2:
@@ -11942,7 +11942,7 @@ translate zh_Hans wife_greg_storyline_113_87361326:
 translate zh_Hans wife_greg_storyline_113_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:5923
 translate zh_Hans wife_greg_storyline_113_473668a8:
@@ -11984,7 +11984,7 @@ translate zh_Hans wife_greg_storyline_113_691b1de3:
 translate zh_Hans wife_greg_storyline_113_dd847a4b:
 
     # nvlwife "😉"
-    nvlwife "😉|😉"
+    nvlwife "😉|"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:5937
 translate zh_Hans wife_greg_storyline_113_443faa8a:
@@ -12008,7 +12008,7 @@ translate zh_Hans wife_greg_storyline_113_25de4147:
 translate zh_Hans wife_greg_storyline_113_bc11701f:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_30_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_30_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:5949
 translate zh_Hans wife_greg_storyline_113_e726a54d:
@@ -12092,7 +12092,7 @@ translate zh_Hans wife_greg_storyline_113_2638b23d:
 translate zh_Hans wife_greg_storyline_113_0c387fc3:
 
     # nvlcanela "😊"
-    nvlcanela "😊|😊"
+    nvlcanela "😊|"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:5977
 translate zh_Hans wife_greg_storyline_113_c061f20c:
@@ -12432,7 +12432,7 @@ translate zh_Hans wife_greg_storyline_115_7bbd68c3:
 translate zh_Hans wife_greg_storyline_115_9ef137e4:
 
     # nvljohn "❤️"
-    nvljohn "❤️|❤️"
+    nvljohn "❤️|"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:6167
 translate zh_Hans wife_greg_storyline_115_53c71d7c:
@@ -12810,7 +12810,7 @@ translate zh_Hans wife_greg_storyline_118_5ef28ad7:
 translate zh_Hans wife_greg_storyline_118_97b4def7:
 
     # nvlcanela "{a=show:show_chat_media}{image=canela_pic_2}"
-    nvlcanela "{a=show:show_chat_media}{image=canela_pic_2}"
+    nvlcanela ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:6380
 translate zh_Hans wife_greg_storyline_118_25c097e2:
@@ -13246,7 +13246,7 @@ translate zh_Hans wife_greg_storyline_120_c89b460e:
 translate zh_Hans wife_greg_storyline_120_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:6592
 translate zh_Hans wife_greg_storyline_120_0616693a:
@@ -13392,7 +13392,7 @@ translate zh_Hans wife_greg_storyline_121_c737b825:
 translate zh_Hans wife_greg_storyline_121_f95fcb61:
 
     # nvlgreg "{a=show:show_chat_media}{image=wife_video_31_ns}"
-    nvlgreg "{a=show:show_chat_media}{image=wife_video_31_ns}"
+    nvlgreg ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:6677
 translate zh_Hans wife_greg_storyline_121_026854a6:
@@ -13460,7 +13460,7 @@ translate zh_Hans wife_greg_storyline_122_b4e24b64:
 translate zh_Hans wife_greg_storyline_122_0c387fc3:
 
     # nvlcanela "😊"
-    nvlcanela "😊|😊"
+    nvlcanela "😊|"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:6746
 translate zh_Hans wife_greg_storyline_122_53c71d7c:
@@ -13784,7 +13784,7 @@ translate zh_Hans wife_greg_storyline_125_5c2880b8:
 translate zh_Hans wife_greg_storyline_125_6fd6dc09:
 
     # nvlsteven2 "{a=show:show_chat_media}{image=canela_video_5_ns}"
-    nvlsteven2 "{a=show:show_chat_media}{image=canela_video_5_ns}"
+    nvlsteven2 ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:6941
 translate zh_Hans wife_greg_storyline_125_15cb8e7e:
@@ -13856,7 +13856,7 @@ translate zh_Hans wife_greg_storyline_126_76b2fe88:
 translate zh_Hans wife_greg_storyline_126_d4db058e:
 
     # nvlwife "{a=show:show_chat_media}{image=canela_video_5_ns}"
-    nvlwife "{a=show:show_chat_media}{image=canela_video_5_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:6998
 translate zh_Hans wife_greg_storyline_126_5e34531c:
@@ -14000,7 +14000,7 @@ translate zh_Hans wife_greg_storyline_126_ecb79498:
 translate zh_Hans wife_greg_storyline_126_dddf6aa7:
 
     # nvljenna "❤️"
-    nvljenna "❤️|❤️"
+    nvljenna "❤️|"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:7046
 translate zh_Hans wife_greg_storyline_126_5bcbf9c6:
@@ -14038,7 +14038,7 @@ translate zh_Hans wife_greg_storyline_127_0e32bbdc:
 translate zh_Hans wife_greg_storyline_127_d4db058e:
 
     # nvlwife "{a=show:show_chat_media}{image=canela_video_5_ns}"
-    nvlwife "{a=show:show_chat_media}{image=canela_video_5_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:7093
 translate zh_Hans wife_greg_storyline_127_a7293057:
@@ -14702,7 +14702,7 @@ translate zh_Hans wife_greg_storyline_132_5af7e783:
 translate zh_Hans wife_greg_storyline_132_80313be2:
 
     # nvlgreg "{a=show:show_chat_media}{image=wife_video_32_ns}"
-    nvlgreg "{a=show:show_chat_media}{image=wife_video_32_ns}"
+    nvlgreg ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:7480
 translate zh_Hans wife_greg_storyline_132_8a37c80e:
@@ -15000,7 +15000,7 @@ translate zh_Hans wife_greg_storyline_134_09d38f13:
 translate zh_Hans wife_greg_storyline_134_2b709a36:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_33_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_33_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:7648
 translate zh_Hans wife_greg_storyline_134_d5473677:
@@ -15292,7 +15292,7 @@ translate zh_Hans wife_greg_storyline_136_c010adb8:
 translate zh_Hans wife_greg_storyline_136_dd847a4b:
 
     # nvlwife "😉"
-    nvlwife "😉|😉"
+    nvlwife "😉|"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:7824
 translate zh_Hans wife_greg_storyline_136_53c71d7c:
@@ -15348,7 +15348,7 @@ translate zh_Hans wife_greg_storyline_137_be5e70ab:
 translate zh_Hans wife_greg_storyline_137_91cd5fa4:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_34_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_34_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:7865
 translate zh_Hans wife_greg_storyline_137_b14b0fef:
@@ -15638,7 +15638,7 @@ translate zh_Hans wife_greg_storyline_138_e3535730:
 translate zh_Hans wife_greg_storyline_138_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:7994
 translate zh_Hans wife_greg_storyline_138_fecaadfd:

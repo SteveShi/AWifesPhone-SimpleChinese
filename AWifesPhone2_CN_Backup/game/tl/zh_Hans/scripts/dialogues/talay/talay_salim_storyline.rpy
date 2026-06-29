@@ -212,7 +212,7 @@ translate zh_Hans talay_salim_storyline_11_97e3e267:
 translate zh_Hans talay_salim_storyline_11_a686776f:
 
     # nvlsalim "😊"
-    nvlsalim "😊|😊"
+    nvlsalim "😊|"
 
 # game/scripts/dialogues/talay/talay_salim_storyline.rpy:118
 translate zh_Hans talay_salim_storyline_11_e1932fd1:

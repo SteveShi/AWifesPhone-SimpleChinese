@@ -96,7 +96,7 @@ translate zh_Hans julia_romance_storyline_0_1ba7d731:
 translate zh_Hans julia_romance_storyline_0_4e542506:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_29}"
-    nvljulia "{a=show:show_chat_media}{image=julia_pic_29}"
+    nvljulia ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:89
 translate zh_Hans julia_romance_storyline_0_9d203bed:
@@ -464,7 +464,7 @@ translate zh_Hans julia_romance_storyline_1_c17291b2:
 translate zh_Hans julia_romance_storyline_1_88ba904d:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_31}"
-    nvljulia "{a=show:show_chat_media}{image=julia_pic_31}"
+    nvljulia ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:256
 translate zh_Hans julia_romance_storyline_1_05499e41:
@@ -596,7 +596,7 @@ translate zh_Hans julia_romance_storyline_1_f39ace6e:
 translate zh_Hans julia_romance_storyline_1_9faffe5f:
 
     # nvljulia "😉"
-    nvljulia "😉|😉"
+    nvljulia "😉|"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:300
 translate zh_Hans julia_romance_storyline_1_32ad45d7:
@@ -626,7 +626,7 @@ translate zh_Hans julia_romance_storyline_1_c8f5df38:
 translate zh_Hans julia_romance_storyline_1_d0760705:
 
     # nvljulia "Have a nice day, Uncle"
-    nvljulia "祝您有个愉快的一天，叔叔。"
+    nvljulia "祝你有个愉快的一天，叔叔。"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:310
 translate zh_Hans julia_romance_storyline_1_8e3012f5:
@@ -784,7 +784,7 @@ translate zh_Hans julia_romance_storyline_2_1de933b4:
 translate zh_Hans julia_romance_storyline_2_f52493ec:
 
     # nvljulia "😊"
-    nvljulia "😊|😊"
+    nvljulia "😊|"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:395
 translate zh_Hans julia_romance_storyline_2_ad542d5a:
@@ -808,13 +808,13 @@ translate zh_Hans julia_romance_storyline_2_a27dc1f9:
 translate zh_Hans julia_romance_storyline_2_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:405
 translate zh_Hans julia_romance_storyline_2_1a6a336c:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_30}"
-    nvljulia "{a=show:show_chat_media}{image=julia_pic_30}"
+    nvljulia ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:409
 translate zh_Hans julia_romance_storyline_2_fc7d57fa:
@@ -862,13 +862,13 @@ translate zh_Hans julia_romance_storyline_2_550f85b5:
 translate zh_Hans julia_romance_storyline_2_40872019:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_32}"
-    nvljulia "{a=show:show_chat_media}{image=julia_pic_32}"
+    nvljulia ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:429
 translate zh_Hans julia_romance_storyline_2_9faffe5f:
 
     # nvljulia "😉"
-    nvljulia "😉|😉"
+    nvljulia "😉|"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:431
 translate zh_Hans julia_romance_storyline_2_db33d438:
@@ -1038,7 +1038,7 @@ translate zh_Hans julia_romance_storyline_3_96e3919c:
 translate zh_Hans julia_romance_storyline_3_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:532
 translate zh_Hans julia_romance_storyline_3_53c71d7c:
@@ -1112,7 +1112,7 @@ translate zh_Hans julia_romance_storyline_4_e8039045:
 translate zh_Hans julia_romance_storyline_4_05d7fc11:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_33}"
-    nvljulia "{a=show:show_chat_media}{image=julia_pic_33}"
+    nvljulia ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:581
 translate zh_Hans julia_romance_storyline_4_e5bd5222:
@@ -1190,7 +1190,7 @@ translate zh_Hans julia_romance_storyline_4_d075ae2a:
 translate zh_Hans julia_romance_storyline_4_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:607
 translate zh_Hans julia_romance_storyline_4_5994cbbc:
@@ -1352,7 +1352,7 @@ translate zh_Hans julia_romance_storyline_4_b3634c72:
 translate zh_Hans julia_romance_storyline_4_7633828e_1:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:661
 translate zh_Hans julia_romance_storyline_4_67d3254d:
@@ -1370,7 +1370,7 @@ translate zh_Hans julia_romance_storyline_4_c73a5c38:
 translate zh_Hans julia_romance_storyline_4_de6208e1:
 
     # nvljulia "It was nice spending time with you, Uncle"
-    nvljulia "和您一起度过的时光真愉快，叔叔。"
+    nvljulia "和你一起度过的时光真愉快，叔叔。"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:667
 translate zh_Hans julia_romance_storyline_4_129f7e08:
@@ -2222,7 +2222,7 @@ translate zh_Hans julia_romance_storyline_7_ca30d678:
 translate zh_Hans julia_romance_storyline_7_eb90d997:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_39}"
-    nvljulia "{a=show:show_chat_media}{image=julia_pic_39}"
+    nvljulia ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:1066
 translate zh_Hans julia_romance_storyline_7_98e54455:
@@ -2386,7 +2386,7 @@ translate zh_Hans julia_romance_storyline_8_028b672d:
 translate zh_Hans julia_romance_storyline_8_340637f1:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_40}"
-    nvljulia "{a=show:show_chat_media}{image=julia_pic_40}"
+    nvljulia ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:1172
 translate zh_Hans julia_romance_storyline_8_b91ef639_1:
@@ -2446,7 +2446,7 @@ translate zh_Hans julia_romance_storyline_8_34147d09:
 translate zh_Hans julia_romance_storyline_8_0a461c1d:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_41}"
-    nvljulia "{a=show:show_chat_media}{image=julia_pic_41}"
+    nvljulia ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:1196
 translate zh_Hans julia_romance_storyline_8_10a94d40:
@@ -2488,7 +2488,7 @@ translate zh_Hans julia_romance_storyline_8_a29d172e_1:
 translate zh_Hans julia_romance_storyline_8_5443794d:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_42}"
-    nvljulia "{a=show:show_chat_media}{image=julia_pic_42}"
+    nvljulia ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:1214
 translate zh_Hans julia_romance_storyline_8_acc21f0d:
@@ -2512,7 +2512,7 @@ translate zh_Hans julia_romance_storyline_8_cb5c155d:
 translate zh_Hans julia_romance_storyline_8_21057ec6:
 
     # nvljulia "Is it turning you on? 😉"
-    nvljulia "是不是把你撩硬了？😉"
+    nvljulia "是不是把你撩兴奋了？😉"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:1222
 translate zh_Hans julia_romance_storyline_8_dc645139:
@@ -3048,7 +3048,7 @@ translate zh_Hans julia_romance_storyline_9_9c616574:
 translate zh_Hans julia_romance_storyline_9_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:1433
 translate zh_Hans julia_romance_storyline_9_12e4c2d1:
@@ -3158,7 +3158,7 @@ translate zh_Hans julia_romance_storyline_10_f8db91e2:
 translate zh_Hans julia_romance_storyline_10_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:1502
 translate zh_Hans julia_romance_storyline_10_81e1957e:
@@ -3176,7 +3176,7 @@ translate zh_Hans julia_romance_storyline_10_83cbea40:
 translate zh_Hans julia_romance_storyline_10_4bc49c5c:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_43}"
-    nvljulia "{a=show:show_chat_media}{image=julia_pic_43}"
+    nvljulia ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:1512
 translate zh_Hans julia_romance_storyline_10_0a8d434d:
@@ -3340,13 +3340,13 @@ translate zh_Hans julia_romance_storyline_11_ddb1cbf7:
 translate zh_Hans julia_romance_storyline_11_0d02f639:
 
     # nvlunknown "So, what did you think of it? Did you like it?"
-    nvlunknown "那么，您觉得怎么样？您喜欢吗？"
+    nvlunknown "那么，你觉得怎么样？你喜欢吗？"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:1599
 translate zh_Hans julia_romance_storyline_11_67b1fd2f:
 
     # nvlunknown "Did you enjoy the feel of your Niece's lips on your cock?"
-    nvlunknown "你喜欢你侄女的骚嘴含着你鸡巴的感觉吗？"
+    nvlunknown "你喜欢你侄女的骚嘴含着你坏家伙的感觉吗？"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:1601
 translate zh_Hans julia_romance_storyline_11_4c3b696b:
@@ -3364,7 +3364,7 @@ translate zh_Hans julia_romance_storyline_11_5622dcef:
 translate zh_Hans julia_romance_storyline_11_171d5c81:
 
     # nvlunknown "Don't you want to watch the video?"
-    nvlunknown "您不想看视频吗？"
+    nvlunknown "你不想看视频吗？"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:1607
 translate zh_Hans julia_romance_storyline_11_c068535f:
@@ -3388,13 +3388,13 @@ translate zh_Hans julia_romance_storyline_11_60bb5741:
 translate zh_Hans julia_romance_storyline_11_f134006a:
 
     # nvlunknown "{a=show:show_chat_media}{image=julia_video_17_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=julia_video_17_ns}"
+    nvlunknown ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:1621
 translate zh_Hans julia_romance_storyline_11_609980d1:
 
     # nvlunknown "{a=show:show_chat_media}{image=julia_video_18_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=julia_video_18_ns}"
+    nvlunknown ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:1625
 translate zh_Hans julia_romance_storyline_11_02d6dce1:
@@ -3436,7 +3436,7 @@ translate zh_Hans julia_romance_storyline_11_53829e13:
 translate zh_Hans julia_romance_storyline_11_e21b2a92:
 
     # nvlunknown "Okay, we'll leave you to your work"
-    nvlunknown "好的，我们不打扰您工作了"
+    nvlunknown "好的，我们不打扰你工作了"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:1639
 translate zh_Hans julia_romance_storyline_11_e081e844:
@@ -3648,7 +3648,7 @@ translate zh_Hans julia_romance_storyline_12_917c8420:
 translate zh_Hans julia_romance_storyline_12_6619f686:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_44}"
-    nvljulia "{a=show:show_chat_media}{image=julia_pic_44}"
+    nvljulia ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:1747
 translate zh_Hans julia_romance_storyline_12_7ba69b26:
@@ -3830,7 +3830,7 @@ translate zh_Hans julia_romance_storyline_13_5c9d48df:
 translate zh_Hans julia_romance_storyline_13_982524e2:
 
     # nvljohn "Heh, you were the star of the night 😉"
-    nvljohn "嘿，你才是那晚最耀眼的骚货😉"
+    nvljohn "嘿，你才是那晚最耀眼的坏丫头😉"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:1840
 translate zh_Hans julia_romance_storyline_13_a6a48f02:
@@ -3884,7 +3884,7 @@ translate zh_Hans julia_romance_storyline_13_56f0f9d4:
 translate zh_Hans julia_romance_storyline_13_dbc140ad:
 
     # nvljohn "{a=show:show_chat_media}{image=julia_video_19_ns}"
-    nvljohn "{a=show:show_chat_media}{image=julia_video_19_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:1864
 translate zh_Hans julia_romance_storyline_13_8cce60e4:
@@ -4278,7 +4278,7 @@ translate zh_Hans julia_romance_storyline_15_99d140de:
 translate zh_Hans julia_romance_storyline_15_df6686d1:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_45}"
-    nvljulia "{a=show:show_chat_media}{image=julia_pic_45}"
+    nvljulia ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:2068
 translate zh_Hans julia_romance_storyline_15_6e5bb1bd:
@@ -4314,7 +4314,7 @@ translate zh_Hans julia_romance_storyline_15_84a0f7f1:
 translate zh_Hans julia_romance_storyline_15_ad042cdd:
 
     # nvljohn "You want a pic, huh? Naughty girl 😏"
-    nvljohn "想看照片啊？小骚货😏"
+    nvljohn "想看照片啊？小坏丫头😏"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:2080
 translate zh_Hans julia_romance_storyline_15_95ed0596:
@@ -4332,7 +4332,7 @@ translate zh_Hans julia_romance_storyline_15_96a2a6a8:
 translate zh_Hans julia_romance_storyline_15_4f8e0bb0:
 
     # nvljohn "{a=show:show_chat_media}{image=mc_pic_63}"
-    nvljohn "{a=show:show_chat_media}{image=mc_pic_63}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:2092
 translate zh_Hans julia_romance_storyline_15_d01615c7:
@@ -4368,7 +4368,7 @@ translate zh_Hans julia_romance_storyline_15_9dd0ea5a:
 translate zh_Hans julia_romance_storyline_15_867cfadc:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_video_20_ns}"
-    nvljulia "{a=show:show_chat_media}{image=julia_video_20_ns}"
+    nvljulia ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:2110
 translate zh_Hans julia_romance_storyline_15_0050eed3:
@@ -5090,7 +5090,7 @@ translate zh_Hans julia_romance_storyline_19_bbff2143:
 translate zh_Hans julia_romance_storyline_19_aa83f181:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_46}"
-    nvljulia "{a=show:show_chat_media}{image=julia_pic_46}"
+    nvljulia ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:2488
 translate zh_Hans julia_romance_storyline_19_c19ff8d0:
@@ -5266,7 +5266,7 @@ translate zh_Hans julia_romance_storyline_20_3c047442:
 translate zh_Hans julia_romance_storyline_20_f4d026de:
 
     # nvljulia "Anytime for you! 😊"
-    nvljulia "随时为您服务！😊"
+    nvljulia "随时为你服务！😊"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:2579
 translate zh_Hans julia_romance_storyline_20_1a48ad7b:
@@ -5918,7 +5918,7 @@ translate zh_Hans julia_romance_storyline_22_378ed255:
 translate zh_Hans julia_romance_storyline_22_d753e556:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_47}"
-    nvljulia "{a=show:show_chat_media}{image=julia_pic_47}"
+    nvljulia ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:2888
 translate zh_Hans julia_romance_storyline_22_9d1d399c:
@@ -6324,7 +6324,7 @@ translate zh_Hans julia_romance_storyline_24_54f21278:
 translate zh_Hans julia_romance_storyline_24_e32da45f:
 
     # nvlunknown "{a=show:show_chat_media}{image=julia_video_21_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=julia_video_21_ns}"
+    nvlunknown ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:3096
 translate zh_Hans julia_romance_storyline_24_70c37359:
@@ -6432,7 +6432,7 @@ translate zh_Hans julia_romance_storyline_24_5bfb7149:
 translate zh_Hans julia_romance_storyline_24_fb2eb4fd:
 
     # nvlunknown "Enjoy your evening, Mr [mc_name_is]"
-    nvlunknown "祝您晚安，[mc_name_is] 先生"
+    nvlunknown "祝你晚安，[mc_name_is] 先生"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:3132
 translate zh_Hans julia_romance_storyline_24_7c399ffb:
@@ -6506,7 +6506,7 @@ translate zh_Hans julia_romance_storyline_25_53c96d45:
 translate zh_Hans julia_romance_storyline_25_e1aec085:
 
     # nvljohn "You’re insatiable, aren’t you? 😏"
-    nvljohn "你真是个小骚货，不是吗？😏"
+    nvljohn "你真是个小坏丫头，不是吗？😏"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:3191
 translate zh_Hans julia_romance_storyline_25_cc11f499:
@@ -6560,7 +6560,7 @@ translate zh_Hans julia_romance_storyline_25_d3436fd4:
 translate zh_Hans julia_romance_storyline_25_7914d603:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_48}"
-    nvljulia "{a=show:show_chat_media}{image=julia_pic_48}"
+    nvljulia ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:3215
 translate zh_Hans julia_romance_storyline_25_af70125c:
@@ -6608,7 +6608,7 @@ translate zh_Hans julia_romance_storyline_25_985832d7:
 translate zh_Hans julia_romance_storyline_25_30f17ad3:
 
     # nvljulia "Your cock 😳 I miss it so much"
-    nvljulia "你的鸡巴😳 我好想念它"
+    nvljulia "你的坏家伙😳 我好想念它"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:3231
 translate zh_Hans julia_romance_storyline_25_a09edc84:
@@ -6754,7 +6754,7 @@ translate zh_Hans julia_romance_storyline_26_b12826f6:
 translate zh_Hans julia_romance_storyline_26_a8a76b77:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_49}"
-    nvljulia "{a=show:show_chat_media}{image=julia_pic_49}"
+    nvljulia ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:3318
 translate zh_Hans julia_romance_storyline_26_a1ca8045:
@@ -6990,7 +6990,7 @@ translate zh_Hans julia_romance_storyline_27_bab497ce:
 translate zh_Hans julia_romance_storyline_27_7e031d98:
 
     # nvljohn "{a=show:show_chat_media}{image=julia_video_22_ns}"
-    nvljohn "{a=show:show_chat_media}{image=julia_video_22_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:3435
 translate zh_Hans julia_romance_storyline_27_54b0718a:
@@ -7766,7 +7766,7 @@ translate zh_Hans julia_romance_storyline_31_b72716c7:
 translate zh_Hans julia_romance_storyline_31_05894c76:
 
     # nvljulia "Just thinking about Saturday 😳"
-    nvljulia "光是想想周六就硬了😳"
+    nvljulia "光是想想周六就兴奋了😳"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:3823
 translate zh_Hans julia_romance_storyline_31_229732c8:
@@ -7790,7 +7790,7 @@ translate zh_Hans julia_romance_storyline_31_de172148:
 translate zh_Hans julia_romance_storyline_31_4391da96:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_50}"
-    nvljulia "{a=show:show_chat_media}{image=julia_pic_50}"
+    nvljulia ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:3837
 translate zh_Hans julia_romance_storyline_31_14635435:
@@ -7838,7 +7838,7 @@ translate zh_Hans julia_romance_storyline_31_e57224af:
 translate zh_Hans julia_romance_storyline_31_73fdf281:
 
     # nvljohn "{a=show:show_chat_media}{image=julia_pic_51}"
-    nvljohn "{a=show:show_chat_media}{image=julia_pic_51}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:3859
 translate zh_Hans julia_romance_storyline_31_7e9eb9b9:
@@ -7910,7 +7910,7 @@ translate zh_Hans julia_romance_storyline_31_4836d71a:
 translate zh_Hans julia_romance_storyline_31_2b001024:
 
     # nvljulia "I want it to be with you"
-    nvljulia "我只想让你来操我。"
+    nvljulia "我只想让你来要我。"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:3883
 translate zh_Hans julia_romance_storyline_31_a2accd01:
@@ -7996,7 +7996,7 @@ translate zh_Hans julia_romance_storyline_32_0b43e13e:
 translate zh_Hans julia_romance_storyline_32_63b24db1:
 
     # nvljulia "Been thinking about you 😳"
-    nvljulia "一直在想你，都想硬了😳"
+    nvljulia "一直在想你，都想兴奋了😳"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:3944
 translate zh_Hans julia_romance_storyline_32_2fffd560:
@@ -8026,7 +8026,7 @@ translate zh_Hans julia_romance_storyline_32_26a86052:
 translate zh_Hans julia_romance_storyline_32_cc1e8823:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_52}"
-    nvljulia "{a=show:show_chat_media}{image=julia_pic_52}"
+    nvljulia ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:3960
 translate zh_Hans julia_romance_storyline_32_c46077be:
@@ -8044,7 +8044,7 @@ translate zh_Hans julia_romance_storyline_32_9e347d35:
 translate zh_Hans julia_romance_storyline_32_256b0738:
 
     # nvljohn "You’re such a little pervert 😏"
-    nvljohn "你真是个小骚货😏"
+    nvljohn "你真是个小坏丫头😏"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:3966
 translate zh_Hans julia_romance_storyline_32_761f4f17:
@@ -8062,7 +8062,7 @@ translate zh_Hans julia_romance_storyline_32_bb6d54cc:
 translate zh_Hans julia_romance_storyline_32_bf17f512:
 
     # nvljohn "Fuck, you’re killing me 😊"
-    nvljohn "操，你快把我撩硬了😊"
+    nvljohn "操，你快把我撩兴奋了😊"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:3972
 translate zh_Hans julia_romance_storyline_32_dfa51614:
@@ -8244,13 +8244,13 @@ translate zh_Hans julia_romance_storyline_33_86b5d10b:
 translate zh_Hans julia_romance_storyline_33_9b852b54:
 
     # nvljulia "Just thinking about you 😍"
-    nvljulia "满脑子都是你，都硬了😍"
+    nvljulia "满脑子都是你，都兴奋了😍"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:4067
 translate zh_Hans julia_romance_storyline_33_bf71d104:
 
     # nvljulia "I want you to fuck me 😳"
-    nvljulia "我想让你狠狠地操我😳"
+    nvljulia "我想让你狠狠地要我😳"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:4069
 translate zh_Hans julia_romance_storyline_33_a03084ab:
@@ -8316,7 +8316,7 @@ translate zh_Hans julia_romance_storyline_33_c56492ab:
 translate zh_Hans julia_romance_storyline_33_20371ea8:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_53}"
-    nvljulia "{a=show:show_chat_media}{image=julia_pic_53}"
+    nvljulia ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:4097
 translate zh_Hans julia_romance_storyline_33_3483ba67:
@@ -8620,7 +8620,7 @@ translate zh_Hans julia_romance_storyline_35_9c275243:
 translate zh_Hans julia_romance_storyline_35_8b101e83:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_video_45_ns}"
-    nvljulia "{a=show:show_chat_media}{image=julia_video_45_ns}"
+    nvljulia ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:4287
 translate zh_Hans julia_romance_storyline_35_408485f1:
@@ -8680,7 +8680,7 @@ translate zh_Hans julia_romance_storyline_35_fa29cedf:
 translate zh_Hans julia_romance_storyline_35_fc88f1ae:
 
     # nvljulia "😔"
-    nvljulia "😔"
+    nvljulia ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:4307
 translate zh_Hans julia_romance_storyline_35_f46c31cd:
@@ -8856,7 +8856,7 @@ translate zh_Hans julia_romance_storyline_36_7604e3b2:
 translate zh_Hans julia_romance_storyline_36_be9824de:
 
     # nvlwsis "…"
-    nvlwsis "……"
+    nvlwsis ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:4398
 translate zh_Hans julia_romance_storyline_36_797fe784:
@@ -9156,7 +9156,7 @@ translate zh_Hans julia_romance_storyline_39_27e654c4:
 translate zh_Hans julia_romance_storyline_39_b482ffdd:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_75}"
-    nvljulia "{a=show:show_chat_media}{image=julia_pic_75}"
+    nvljulia ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:4599
 translate zh_Hans julia_romance_storyline_39_8b4c1c6b:
@@ -9728,7 +9728,7 @@ translate zh_Hans julia_romance_storyline_43_f5e770ea:
 translate zh_Hans julia_romance_storyline_43_90d2f6ce:
 
     # nvljohn "Take your time... but not too much."
-    nvljohn "慢慢来……但别让我等太久，我的鸡巴都硬了。"
+    nvljohn "慢慢来……但别让我等太久，我的坏家伙都兴奋了。"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:4919
 translate zh_Hans julia_romance_storyline_43_869fa376:
@@ -9758,7 +9758,7 @@ translate zh_Hans julia_romance_storyline_44_673be979:
 translate zh_Hans julia_romance_storyline_44_0de474ea:
 
     # nvljohn "{a=show:show_chat_media}{image=julia_video_46_ns}"
-    nvljohn "{a=show:show_chat_media}{image=julia_video_46_ns}|{a=show:show_chat_media}{image=julia_video_46_ns}"
+    nvljohn "{a=show:show_chat_media}{image=julia_video_46_ns}|"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:4964
 translate zh_Hans julia_romance_storyline_44_1e75faa5:
@@ -10826,7 +10826,7 @@ translate zh_Hans julia_romance_storyline_50_1290ead7:
 translate zh_Hans julia_romance_storyline_50_4acb1e3e:
 
     # nvljohn "{a=show:show_chat_media}{image=w_sister_video_46_ns}"
-    nvljohn "{a=show:show_chat_media}{image=w_sister_video_46_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:5530
 translate zh_Hans julia_romance_storyline_50_6c0ce7a1:
@@ -11094,7 +11094,7 @@ translate zh_Hans julia_romance_storyline_52_8b13d281:
 translate zh_Hans julia_romance_storyline_52_cc45ffc3:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_76}"
-    nvljulia "{a=show:show_chat_media}{image=julia_pic_76}"
+    nvljulia ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:5698
 translate zh_Hans julia_romance_storyline_52_91beef61:
@@ -11296,7 +11296,7 @@ translate zh_Hans julia_romance_storyline_54_0d9a901b:
 translate zh_Hans julia_romance_storyline_54_597a5087:
 
     # nvljohn "{a=show:show_chat_media}{image=julia_video_56_ns}"
-    nvljohn "{a=show:show_chat_media}{image=julia_video_56_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:5834
 translate zh_Hans julia_romance_storyline_54_ceef4c9a:
@@ -11308,7 +11308,7 @@ translate zh_Hans julia_romance_storyline_54_ceef4c9a:
 translate zh_Hans julia_romance_storyline_54_524a14e7:
 
     # nvljohn "Control yourself, naughty girl."
-    nvljohn "控制住你自己，小骚货。"
+    nvljohn "控制住你自己，小坏丫头。"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:5838
 translate zh_Hans julia_romance_storyline_54_bcd6dd93:
@@ -11388,7 +11388,7 @@ translate zh_Hans julia_romance_storyline_55_e75b43e4:
 translate zh_Hans julia_romance_storyline_55_dbdb1c73:
 
     # nvljulia "🥺"
-    nvljulia "🥺"
+    nvljulia ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:5897
 translate zh_Hans julia_romance_storyline_55_f94bbb01:
@@ -11528,7 +11528,7 @@ translate zh_Hans julia_romance_storyline_56_02b558fd:
 translate zh_Hans julia_romance_storyline_56_18af21dd:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_video_47_ns}"
-    nvljulia "{a=show:show_chat_media}{image=julia_video_47_ns}"
+    nvljulia ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:5980
 translate zh_Hans julia_romance_storyline_56_aea82778:
@@ -11632,7 +11632,7 @@ translate zh_Hans julia_romance_storyline_57_22d29ec0:
 translate zh_Hans julia_romance_storyline_57_af79c8bf:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_78}"
-    nvljulia "{a=show:show_chat_media}{image=julia_pic_78}"
+    nvljulia ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:6049
 translate zh_Hans julia_romance_storyline_57_9f67279a:
@@ -11778,7 +11778,7 @@ translate zh_Hans julia_romance_storyline_58_3b6cbe0b:
 translate zh_Hans julia_romance_storyline_58_001438ec:
 
     # nvljulia "Then that’s all that matters 🥰"
-    nvljulia "那这就足够了，我的小骚货 🥰"
+    nvljulia "那这就足够了，我的小坏丫头 🥰"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:6130
 translate zh_Hans julia_romance_storyline_58_cc64cc5c:
@@ -11844,13 +11844,13 @@ translate zh_Hans julia_romance_storyline_58_87917da2:
 translate zh_Hans julia_romance_storyline_58_966d8196:
 
     # nvljohn "{a=show:show_chat_media}{image=julia_video_48_ns}"
-    nvljohn "{a=show:show_chat_media}{image=julia_video_48_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:6156
 translate zh_Hans julia_romance_storyline_58_4c72a7dd:
 
     # nvljulia "Mmm… watching it again makes me wet."
-    nvljulia "嗯……再看一遍，我的骚穴又湿透了。"
+    nvljulia "嗯……再看一遍，我的身子又湿透了。"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:6158
 translate zh_Hans julia_romance_storyline_58_a0af9dd0:
@@ -12076,7 +12076,7 @@ translate zh_Hans julia_romance_storyline_60_cc55c33f:
 translate zh_Hans julia_romance_storyline_60_e814a9da:
 
     # nvljulia "My pussy is still throbbing from the way you fucked me."
-    nvljulia "你刚才那样猛操我，我的骚穴现在还在隐隐发烫。"
+    nvljulia "你刚才那样猛要我，我的身子现在还在隐隐发烫。"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:6298
 translate zh_Hans julia_romance_storyline_60_26922dcf:
@@ -12100,7 +12100,7 @@ translate zh_Hans julia_romance_storyline_60_e80f42c8:
 translate zh_Hans julia_romance_storyline_60_9ce17ac6:
 
     # nvljulia "Careful… you’ll turn me into an addict for your cock."
-    nvljulia "小心点……你会让我对你的大鸡巴彻底上瘾的。"
+    nvljulia "小心点……你会让我对你的大坏家伙彻底上瘾的。"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:6306
 translate zh_Hans julia_romance_storyline_60_0e5f6a26:
@@ -12130,13 +12130,13 @@ translate zh_Hans julia_romance_storyline_60_4b72d21d:
 translate zh_Hans julia_romance_storyline_60_62967c3e:
 
     # nvljohn "{a=show:show_chat_media}{image=julia_video_49_ns}"
-    nvljohn "{a=show:show_chat_media}{image=julia_video_49_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:6320
 translate zh_Hans julia_romance_storyline_60_c8a01199:
 
     # nvljulia "Oh my god… seeing me like that makes me even wetter."
-    nvljulia "我的天……看到我那样，我下面更湿了。"
+    nvljulia "我的天……看到我那样，我下面更动情了。"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:6322
 translate zh_Hans julia_romance_storyline_60_092baa04:
@@ -12246,7 +12246,7 @@ translate zh_Hans julia_romance_storyline_61_eded6950:
 translate zh_Hans julia_romance_storyline_61_b1493433:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_79}"
-    nvljulia "{a=show:show_chat_media}{image=julia_pic_79}"
+    nvljulia ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:6405
 translate zh_Hans julia_romance_storyline_61_7555932c:
@@ -12338,7 +12338,7 @@ translate zh_Hans julia_romance_storyline_62_d089d231:
 translate zh_Hans julia_romance_storyline_62_80a1f14d:
 
     # nvljohn "{a=show:show_chat_media}{image=julia_video_50_ns}"
-    nvljohn "{a=show:show_chat_media}{image=julia_video_50_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:6472
 translate zh_Hans julia_romance_storyline_62_8999abbf:
@@ -12886,7 +12886,7 @@ translate zh_Hans julia_romance_storyline_66_89c3696c:
 translate zh_Hans julia_romance_storyline_66_82e2f4f8:
 
     # nvljohn "{a=show:show_chat_media}{image=julia_video_51_ns}"
-    nvljohn "{a=show:show_chat_media}{image=julia_video_51_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:6801
 translate zh_Hans julia_romance_storyline_66_e653b452:
@@ -13300,7 +13300,7 @@ translate zh_Hans julia_romance_storyline_69_71e209db:
 translate zh_Hans julia_romance_storyline_69_c2098105:
 
     # nvljulia "Your body inside mine."
-    nvljulia "你的肉棒，狠狠地插进我的骚穴里。"
+    nvljulia "你的坏家伙，狠狠地插进我的身子里。"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:7036
 translate zh_Hans julia_romance_storyline_69_4ca5b9b5:
@@ -13330,7 +13330,7 @@ translate zh_Hans julia_romance_storyline_69_6a27db6c:
 translate zh_Hans julia_romance_storyline_69_e13164df:
 
     # nvljulia "God, I’m wet just remembering."
-    nvljulia "天啊，光是想想，我的骚穴就湿透了。"
+    nvljulia "天啊，光是想想，我的身子就湿透了。"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:7046
 translate zh_Hans julia_romance_storyline_69_e277d583:
@@ -13366,7 +13366,7 @@ translate zh_Hans julia_romance_storyline_69_29f07ea2:
 translate zh_Hans julia_romance_storyline_69_e5c8623d:
 
     # nvljohn "[niece_name_is]…"
-    nvljohn "[niece_name_is]…"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:7058
 translate zh_Hans julia_romance_storyline_69_35072571:
@@ -13966,7 +13966,7 @@ translate zh_Hans julia_romance_storyline_72_62985d5e:
 translate zh_Hans julia_romance_storyline_72_5139ee93:
 
     # nvljohn "{a=show:show_chat_media}{image=julia_video_52_ns}"
-    nvljohn "{a=show:show_chat_media}{image=julia_video_52_ns}|{a=show:show_chat_media}{image=julia_video_52_ns}"
+    nvljohn "{a=show:show_chat_media}{image=julia_video_52_ns}|"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:7372
 translate zh_Hans julia_romance_storyline_72_8cce60e4:
@@ -13978,7 +13978,7 @@ translate zh_Hans julia_romance_storyline_72_8cce60e4:
 translate zh_Hans julia_romance_storyline_72_d7fc28c1:
 
     # nvljulia "I look so naughty in this video…"
-    nvljulia "我在这段视频里看起来真是个小骚货……"
+    nvljulia "我在这段视频里看起来真是个小坏丫头……"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:7376
 translate zh_Hans julia_romance_storyline_72_4672c163:
@@ -14026,13 +14026,13 @@ translate zh_Hans julia_romance_storyline_72_3a606c96:
 translate zh_Hans julia_romance_storyline_72_c96b745b:
 
     # nvljulia "🔥🔥🔥"
-    nvljulia "🔥🔥🔥"
+    nvljulia ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:7396
 translate zh_Hans julia_romance_storyline_72_c4eb0576:
 
     # nvljulia "Just watching this makes me wet again…"
-    nvljulia "光是看着这个我就又湿了……"
+    nvljulia "光是看着这个我就又动情了……"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:7398
 translate zh_Hans julia_romance_storyline_72_8d8cfb00:
@@ -14154,7 +14154,7 @@ translate zh_Hans julia_romance_storyline_73_0efc250f:
 translate zh_Hans julia_romance_storyline_73_edc73327:
 
     # nvljohn "…"
-    nvljohn "……"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:7471
 translate zh_Hans julia_romance_storyline_73_98fcf081:
@@ -14232,7 +14232,7 @@ translate zh_Hans julia_romance_storyline_73_68be9934:
 translate zh_Hans julia_romance_storyline_73_be9824de:
 
     # nvlwsis "…"
-    nvlwsis "……"
+    nvlwsis ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:7497
 translate zh_Hans julia_romance_storyline_73_b40bcd37:
@@ -14366,7 +14366,7 @@ translate zh_Hans julia_romance_storyline_74_78305d5a:
     # nvl clear
     # nvlwsis "[mc_name_is]…"
     nvl clear
-    nvlwsis "[mc_name_is]……|[mc_name_is]……"
+    nvlwsis "[mc_name_is]……|"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:7586
 translate zh_Hans julia_romance_storyline_74_a7aa258b:
@@ -14534,7 +14534,7 @@ translate zh_Hans julia_romance_storyline_74_5237b982:
 translate zh_Hans julia_romance_storyline_74_be9824de:
 
     # nvlwsis "…"
-    nvlwsis "……"
+    nvlwsis ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:7642
 translate zh_Hans julia_romance_storyline_74_e566dfbc:
@@ -14588,7 +14588,7 @@ translate zh_Hans julia_romance_storyline_74_6221e5c1:
 translate zh_Hans julia_romance_storyline_74_be9824de_1:
 
     # nvlwsis "…"
-    nvlwsis "……"
+    nvlwsis ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:7660
 translate zh_Hans julia_romance_storyline_74_4039dd34:
@@ -14830,7 +14830,7 @@ translate zh_Hans julia_romance_storyline_75_906d86db:
 translate zh_Hans julia_romance_storyline_75_ccadab90:
 
     # nvljohn "I’ll keep you updated"
-    nvljohn "我会随时向您汇报最新情况。"
+    nvljohn "我会随时向你汇报最新情况。"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:7787
 translate zh_Hans julia_romance_storyline_75_53c71d7c:
@@ -14994,7 +14994,7 @@ translate zh_Hans julia_romance_storyline_76_4bf425bf:
 translate zh_Hans julia_romance_storyline_76_860ae400:
 
     # nvljulia "💕"
-    nvljulia "💕"
+    nvljulia ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:7874
 translate zh_Hans julia_romance_storyline_76_53c71d7c:
@@ -15208,19 +15208,19 @@ translate zh_Hans julia_romance_storyline_78_8e78f215:
 translate zh_Hans julia_romance_storyline_78_69876aba:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_video_54_ns}"
-    nvljulia "{a=show:show_chat_media}{image=julia_video_54_ns}"
+    nvljulia ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:8006
 translate zh_Hans julia_romance_storyline_78_2b5a8e1f:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_video_55_ns}"
-    nvljulia "{a=show:show_chat_media}{image=julia_video_55_ns}"
+    nvljulia ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:8010
 translate zh_Hans julia_romance_storyline_78_a7f8e71a:
 
     # nvljohn "Damn... watching this again makes me hard all over."
-    nvljohn "操……再看一遍，我全身都他妈硬了。"
+    nvljohn "操……再看一遍，我全身都他妈兴奋了。"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:8012
 translate zh_Hans julia_romance_storyline_78_01f724e2:
@@ -15840,7 +15840,7 @@ translate zh_Hans julia_romance_storyline_82_76b44dff:
 translate zh_Hans julia_romance_storyline_82_bb9654c6:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_80}"
-    nvljulia "{a=show:show_chat_media}{image=julia_pic_80}"
+    nvljulia ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:8362
 translate zh_Hans julia_romance_storyline_82_8c5cd709:
@@ -15986,7 +15986,7 @@ translate zh_Hans julia_romance_storyline_83_1db8ca10:
 translate zh_Hans julia_romance_storyline_83_fd1522ce:
 
     # nvljohn "{a=show:show_chat_media}{image=julia_video_57_ns}"
-    nvljohn "{a=show:show_chat_media}{image=julia_video_57_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:8447
 translate zh_Hans julia_romance_storyline_83_58cdc458:

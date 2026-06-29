@@ -318,13 +318,13 @@ translate zh_Hans qos_chat_storyline_10_ef3fe0c5:
 translate zh_Hans qos_chat_storyline_10_fa18c77d:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_6}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_6}"
+    nvlgianna ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:167
 translate zh_Hans qos_chat_storyline_10_85c6d853:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_7}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_7}"
+    nvlgianna ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:171
 translate zh_Hans qos_chat_storyline_10_483da945:
@@ -342,7 +342,7 @@ translate zh_Hans qos_chat_storyline_10_85897c5f:
 translate zh_Hans qos_chat_storyline_10_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:177
 translate zh_Hans qos_chat_storyline_10_dcd05673:
@@ -402,7 +402,7 @@ translate zh_Hans qos_chat_storyline_10_1bf0f00b:
 translate zh_Hans qos_chat_storyline_10_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:197
 translate zh_Hans qos_chat_storyline_10_26a2f2dc:
@@ -820,13 +820,13 @@ translate zh_Hans qos_chat_storyline_12_796af3a6:
 translate zh_Hans qos_chat_storyline_12_3169dcf2:
 
     # nvlemily "{a=show:show_chat_media}{image=may_pic_9}"
-    nvlemily "{a=show:show_chat_media}{image=may_pic_9}"
+    nvlemily ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:400
 translate zh_Hans qos_chat_storyline_12_993ee898:
 
     # nvlemily "{a=show:show_chat_media}{image=may_pic_10}"
-    nvlemily "{a=show:show_chat_media}{image=may_pic_10}"
+    nvlemily ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:404
 translate zh_Hans qos_chat_storyline_12_1863682d:
@@ -892,13 +892,13 @@ translate zh_Hans qos_chat_storyline_12_4b5e173e:
 translate zh_Hans qos_chat_storyline_12_ef8b6fa2:
 
     # nvlemily "{a=show:show_chat_media}{image=may_video_1_ns}"
-    nvlemily "{a=show:show_chat_media}{image=may_video_1_ns}"
+    nvlemily ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:432
 translate zh_Hans qos_chat_storyline_12_0e60f788:
 
     # nvlemily "{a=show:show_chat_media}{image=may_video_2_ns}"
-    nvlemily "{a=show:show_chat_media}{image=may_video_2_ns}"
+    nvlemily ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:436
 translate zh_Hans qos_chat_storyline_12_0a12c2f3:
@@ -1078,13 +1078,13 @@ translate zh_Hans qos_chat_storyline_12_28631cbf:
 translate zh_Hans qos_chat_storyline_12_cb01fde0:
 
     # nvlemily "{a=show:show_chat_media}{image=emily_pic_8}"
-    nvlemily "{a=show:show_chat_media}{image=emily_pic_8}"
+    nvlemily ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:502
 translate zh_Hans qos_chat_storyline_12_d1d5695f:
 
     # nvlemily "{a=show:show_chat_media}{image=emily_pic_9}"
-    nvlemily "{a=show:show_chat_media}{image=emily_pic_9}"
+    nvlemily ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:506
 translate zh_Hans qos_chat_storyline_12_b2d9ce37:
@@ -1628,19 +1628,19 @@ translate zh_Hans qos_chat_storyline_14_981951e6:
 translate zh_Hans qos_chat_storyline_14_2386404a:
 
     # nvlelsa "{a=show:show_chat_media}{image=elsa_pic_4}"
-    nvlelsa "{a=show:show_chat_media}{image=elsa_pic_4}"
+    nvlelsa ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:750
 translate zh_Hans qos_chat_storyline_14_a7884050:
 
     # nvlelsa "{a=show:show_chat_media}{image=elsa_pic_5}"
-    nvlelsa "{a=show:show_chat_media}{image=elsa_pic_5}"
+    nvlelsa ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:756
 translate zh_Hans qos_chat_storyline_14_76c3e9dd:
 
     # nvlelsa "{a=show:show_chat_media}{image=elsa_pic_6}"
-    nvlelsa "{a=show:show_chat_media}{image=elsa_pic_6}"
+    nvlelsa ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:760
 translate zh_Hans qos_chat_storyline_14_b9a9a335:
@@ -1910,7 +1910,7 @@ translate zh_Hans qos_chat_storyline_14_21ad9f00:
 translate zh_Hans qos_chat_storyline_14_8e09ae8e:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_44_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_44_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:852
 translate zh_Hans qos_chat_storyline_14_5077d1dc:
@@ -2488,7 +2488,7 @@ translate zh_Hans qos_chat_storyline_15_bf8ec72a:
 translate zh_Hans qos_chat_storyline_15_7a373f59:
 
     # nvlriley "😉"
-    nvlriley "😉|😉"
+    nvlriley "😉|"
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:1085
 translate zh_Hans qos_chat_storyline_15_53c71d7c:
@@ -2562,31 +2562,31 @@ translate zh_Hans qos_chat_storyline_16_60bbe568:
 translate zh_Hans qos_chat_storyline_16_8340f7cc:
 
     # nvlriley "{a=show:show_chat_media}{image=riley_pic_5}"
-    nvlriley "{a=show:show_chat_media}{image=riley_pic_5}"
+    nvlriley ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:1132
 translate zh_Hans qos_chat_storyline_16_8d587b39:
 
     # nvlriley "{a=show:show_chat_media}{image=riley_pic_6}"
-    nvlriley "{a=show:show_chat_media}{image=riley_pic_6}"
+    nvlriley ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:1138
 translate zh_Hans qos_chat_storyline_16_72b3b5f0:
 
     # nvlriley "{a=show:show_chat_media}{image=riley_pic_7}"
-    nvlriley "{a=show:show_chat_media}{image=riley_pic_7}"
+    nvlriley ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:1144
 translate zh_Hans qos_chat_storyline_16_24f84675:
 
     # nvlriley "{a=show:show_chat_media}{image=riley_pic_8}"
-    nvlriley "{a=show:show_chat_media}{image=riley_pic_8}"
+    nvlriley ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:1150
 translate zh_Hans qos_chat_storyline_16_7d6e676d:
 
     # nvlriley "{a=show:show_chat_media}{image=riley_pic_9}"
-    nvlriley "{a=show:show_chat_media}{image=riley_pic_9}"
+    nvlriley ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:1154
 translate zh_Hans qos_chat_storyline_16_d174e2f0:
@@ -3830,7 +3830,7 @@ translate zh_Hans qos_chat_storyline_20_696156db:
 translate zh_Hans qos_chat_storyline_20_b21b8cfd:
 
     # nvlemily "{a=show:show_chat_media}{image=emily_video_1_ns}"
-    nvlemily "{a=show:show_chat_media}{image=emily_video_1_ns}"
+    nvlemily ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:1694
 translate zh_Hans qos_chat_storyline_20_86284f04:
@@ -4006,7 +4006,7 @@ translate zh_Hans qos_chat_storyline_21_92a19da0:
 translate zh_Hans qos_chat_storyline_21_55a551be:
 
     # nvljenna "😂"
-    nvljenna "😂"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:1783
 translate zh_Hans qos_chat_storyline_21_fe32faa3:
@@ -4086,13 +4086,13 @@ translate zh_Hans qos_chat_storyline_22_ee91c46d:
 translate zh_Hans qos_chat_storyline_22_4650e313:
 
     # nvlasa "{a=show:show_chat_media}{image=asa_pic_1}"
-    nvlasa "{a=show:show_chat_media}{image=asa_pic_1}"
+    nvlasa ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:1846
 translate zh_Hans qos_chat_storyline_22_70b99005:
 
     # nvlasa "{a=show:show_chat_media}{image=asa_pic_2}"
-    nvlasa "{a=show:show_chat_media}{image=asa_pic_2}"
+    nvlasa ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:1850
 translate zh_Hans qos_chat_storyline_22_3a350afb:
@@ -4378,7 +4378,7 @@ translate zh_Hans qos_chat_storyline_24_178a231a:
 translate zh_Hans qos_chat_storyline_24_e7f9ed01:
 
     # nvlelsa "{a=show:show_chat_media}{image=elsa_video_1_ns}"
-    nvlelsa "{a=show:show_chat_media}{image=elsa_video_1_ns}"
+    nvlelsa ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:2010
 translate zh_Hans qos_chat_storyline_24_e9ca63a8:
@@ -4724,7 +4724,7 @@ translate zh_Hans qos_chat_storyline_26_75aac0ae:
 translate zh_Hans qos_chat_storyline_26_393ef435:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_28_ns}"
-    nvljenna "{a=show:show_chat_media}{image=jenna_video_28_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:2190
 translate zh_Hans qos_chat_storyline_26_3d4650fc:
@@ -4888,7 +4888,7 @@ translate zh_Hans qos_chat_storyline_27_989a04f1:
 translate zh_Hans qos_chat_storyline_27_329aa7e9:
 
     # nvlwife "{a=show:show_chat_media}{image=emily_video_2_ns}"
-    nvlwife "{a=show:show_chat_media}{image=emily_video_2_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:2279
 translate zh_Hans qos_chat_storyline_27_b864f35a:
@@ -4918,7 +4918,7 @@ translate zh_Hans qos_chat_storyline_27_3909d7d1:
 translate zh_Hans qos_chat_storyline_27_31f1e7a8:
 
     # nvlwife "{a=show:show_chat_media}{image=may_video_3_ns}"
-    nvlwife "{a=show:show_chat_media}{image=may_video_3_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:2293
 translate zh_Hans qos_chat_storyline_27_9738ace2:
@@ -4948,7 +4948,7 @@ translate zh_Hans qos_chat_storyline_27_3ad7ac02:
 translate zh_Hans qos_chat_storyline_27_02373e9d:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_185_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_185_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:2307
 translate zh_Hans qos_chat_storyline_27_ffb038f7:
@@ -5228,13 +5228,13 @@ translate zh_Hans qos_chat_storyline_29_d689f34c:
 translate zh_Hans qos_chat_storyline_29_385fa06e:
 
     # nvlelsa "{a=show:show_chat_media}{image=wife_video_122_ns}"
-    nvlelsa "{a=show:show_chat_media}{image=wife_video_122_ns}"
+    nvlelsa ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:2467
 translate zh_Hans qos_chat_storyline_29_62ad843b:
 
     # nvlelsa "{a=show:show_chat_media}{image=wife_video_121_ns}"
-    nvlelsa "{a=show:show_chat_media}{image=wife_video_121_ns}"
+    nvlelsa ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:2471
 translate zh_Hans qos_chat_storyline_29_49b35ab5:
@@ -5434,7 +5434,7 @@ translate zh_Hans qos_chat_storyline_30_d5181682:
 translate zh_Hans qos_chat_storyline_30_188fbcaa:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_video_9_ns}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_video_9_ns}"
+    nvlgianna ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:2572
 translate zh_Hans qos_chat_storyline_30_56ef46fb:
@@ -5580,7 +5580,7 @@ translate zh_Hans qos_chat_storyline_31_a32f22fe:
 translate zh_Hans qos_chat_storyline_31_77d46993:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_video_10_ns}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_video_10_ns}"
+    nvlgianna ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:2655
 translate zh_Hans qos_chat_storyline_31_0cbd6a2d:
@@ -5714,7 +5714,7 @@ translate zh_Hans qos_chat_storyline_32_af95ff77:
 translate zh_Hans qos_chat_storyline_32_337b2a37:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_10}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_10}"
+    nvlgianna ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:2734
 translate zh_Hans qos_chat_storyline_32_bfb6adc2:
@@ -5738,7 +5738,7 @@ translate zh_Hans qos_chat_storyline_32_c7ce4d64:
 translate zh_Hans qos_chat_storyline_32_4db71792:
 
     # nvlmay "{a=show:show_chat_media}{image=may_pic_1}"
-    nvlmay "{a=show:show_chat_media}{image=may_pic_1}"
+    nvlmay ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:2746
 translate zh_Hans qos_chat_storyline_32_e7f30c57:
@@ -5756,7 +5756,7 @@ translate zh_Hans qos_chat_storyline_32_39862438:
 translate zh_Hans qos_chat_storyline_32_65598ef9:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_867}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_867}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:2756
 translate zh_Hans qos_chat_storyline_32_17ebf72a:
@@ -6000,7 +6000,7 @@ translate zh_Hans qos_chat_storyline_34_91e44114:
 translate zh_Hans qos_chat_storyline_34_041d6a7b:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_317_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_317_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:2902
 translate zh_Hans qos_chat_storyline_34_f0fa8717:
@@ -6128,7 +6128,7 @@ translate zh_Hans qos_chat_storyline_35_8e558e66:
 translate zh_Hans qos_chat_storyline_35_78d39511:
 
     # nvlriley "{a=show:show_chat_media}{image=riley_video_1_ns}"
-    nvlriley "{a=show:show_chat_media}{image=riley_video_1_ns}"
+    nvlriley ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:2979
 translate zh_Hans qos_chat_storyline_35_d91f38a9:
@@ -6152,7 +6152,7 @@ translate zh_Hans qos_chat_storyline_35_f8524409:
 translate zh_Hans qos_chat_storyline_35_29150dfa:
 
     # nvlasa "{a=show:show_chat_media}{image=asa_video_1_ns}"
-    nvlasa "{a=show:show_chat_media}{image=asa_video_1_ns}"
+    nvlasa ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:2991
 translate zh_Hans qos_chat_storyline_35_ee250502:
@@ -6170,7 +6170,7 @@ translate zh_Hans qos_chat_storyline_35_d79999ba:
 translate zh_Hans qos_chat_storyline_35_d32a2727:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_video_11_ns}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_video_11_ns}"
+    nvlgianna ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:3001
 translate zh_Hans qos_chat_storyline_35_7a2cf6d1:
@@ -6188,7 +6188,7 @@ translate zh_Hans qos_chat_storyline_35_a0ed1a1e:
 translate zh_Hans qos_chat_storyline_35_e481bd51:
 
     # nvlelsa "{a=show:show_chat_media}{image=elsa_video_2_ns}"
-    nvlelsa "{a=show:show_chat_media}{image=elsa_video_2_ns}"
+    nvlelsa ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:3011
 translate zh_Hans qos_chat_storyline_35_263e51c3:
@@ -6572,7 +6572,7 @@ translate zh_Hans qos_chat_storyline_38_2e28fbfd:
 translate zh_Hans qos_chat_storyline_38_9485fd37:
 
     # nvlmay "{a=show:show_chat_media}{image=riley_video_2_ns}"
-    nvlmay "{a=show:show_chat_media}{image=riley_video_2_ns}"
+    nvlmay ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:3234
 translate zh_Hans qos_chat_storyline_38_3a36db9c:
@@ -6778,7 +6778,7 @@ translate zh_Hans qos_chat_storyline_39_9d22804b:
 translate zh_Hans qos_chat_storyline_39_b4b48926:
 
     # nvlriley "{a=show:show_chat_media}{image=riley_video_3_ns}"
-    nvlriley "{a=show:show_chat_media}{image=riley_video_3_ns}"
+    nvlriley ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:3337
 translate zh_Hans qos_chat_storyline_39_68001a0d:
@@ -7180,7 +7180,7 @@ translate zh_Hans qos_chat_storyline_42_aabddd26:
 translate zh_Hans qos_chat_storyline_42_08847971:
 
     # nvlelsa "{a=show:show_chat_media}{image=elsa_pic_7}"
-    nvlelsa "{a=show:show_chat_media}{image=elsa_pic_7}"
+    nvlelsa ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:3569
 translate zh_Hans qos_chat_storyline_42_71025233:
@@ -7656,7 +7656,7 @@ translate zh_Hans qos_chat_storyline_46_fc765e45:
 translate zh_Hans qos_chat_storyline_46_e993fb97:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_354_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_354_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:3859
 translate zh_Hans qos_chat_storyline_46_52ef15db:
@@ -8100,13 +8100,13 @@ translate zh_Hans qos_chat_storyline_49_e6315f44:
 translate zh_Hans qos_chat_storyline_49_f8e00064:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_video_13_ns}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_video_13_ns}"
+    nvlgianna ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:4106
 translate zh_Hans qos_chat_storyline_49_e3004fd9:
 
     # nvlwife "🔥🔥🔥"
-    nvlwife "🔥🔥🔥"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:4108
 translate zh_Hans qos_chat_storyline_49_c63f00a8:
@@ -8520,7 +8520,7 @@ translate zh_Hans qos_chat_storyline_52_b74de9fa:
 translate zh_Hans qos_chat_storyline_52_22f29e39:
 
     # nvlemily "{a=show:show_chat_media}{image=emily_video_3_ns}"
-    nvlemily "{a=show:show_chat_media}{image=emily_video_3_ns}"
+    nvlemily ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:4345
 translate zh_Hans qos_chat_storyline_52_b572e97d:
@@ -8618,7 +8618,7 @@ translate zh_Hans qos_chat_storyline_53_cddff6ed:
 translate zh_Hans qos_chat_storyline_53_54bd60e4:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_video_14_ns}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_video_14_ns}"
+    nvlgianna ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:4412
 translate zh_Hans qos_chat_storyline_53_014527ad:
@@ -8752,7 +8752,7 @@ translate zh_Hans qos_chat_storyline_54_dfd09797:
 translate zh_Hans qos_chat_storyline_54_110e5d6e:
 
     # nvlelsa "{a=show:show_chat_media}{image=elsa_video_3_ns}"
-    nvlelsa "{a=show:show_chat_media}{image=elsa_video_3_ns}|{a=show:show_chat_media}{image=elsa_video_3_ns}"
+    nvlelsa "{a=show:show_chat_media}{image=elsa_video_3_ns}|"
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:4491
 translate zh_Hans qos_chat_storyline_54_86e43c79:
@@ -8862,7 +8862,7 @@ translate zh_Hans qos_chat_storyline_55_eeb064fe:
 translate zh_Hans qos_chat_storyline_55_b942f82b:
 
     # nvlasa "{a=show:show_chat_media}{image=asa_video_2_ns}"
-    nvlasa "{a=show:show_chat_media}{image=asa_video_2_ns}|{a=show:show_chat_media}{image=asa_video_2_ns}"
+    nvlasa "{a=show:show_chat_media}{image=asa_video_2_ns}|"
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:4562
 translate zh_Hans qos_chat_storyline_55_fb70d402:
@@ -10066,7 +10066,7 @@ translate zh_Hans qos_chat_storyline_66_30e715a9:
 translate zh_Hans qos_chat_storyline_66_9786f968:
 
     # nvlemily "{a=show:show_chat_media}{image=emily_video_4_ns}"
-    nvlemily "{a=show:show_chat_media}{image=emily_video_4_ns}"
+    nvlemily ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:5321
 translate zh_Hans qos_chat_storyline_66_4a8ced68:
@@ -10194,7 +10194,7 @@ translate zh_Hans qos_chat_storyline_67_a6acd73f:
 translate zh_Hans qos_chat_storyline_67_284d714e:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_355_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_355_ns}|{a=show:show_chat_media}{image=wife_video_355_ns}"
+    nvlwife "{a=show:show_chat_media}{image=wife_video_355_ns}|"
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:5398
 translate zh_Hans qos_chat_storyline_67_2b2e0e72:
@@ -10328,7 +10328,7 @@ translate zh_Hans qos_chat_storyline_68_06a701c4:
 translate zh_Hans qos_chat_storyline_68_675265af:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_video_15_ns}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_video_15_ns}|{a=show:show_chat_media}{image=gianna_video_15_ns}"
+    nvlgianna "{a=show:show_chat_media}{image=gianna_video_15_ns}|"
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:5477
 translate zh_Hans qos_chat_storyline_68_1ce0bdcd:
@@ -10480,7 +10480,7 @@ translate zh_Hans qos_chat_storyline_69_b3b9deab:
 translate zh_Hans qos_chat_storyline_69_7d5a6f0c:
 
     # nvlasa "{a=show:show_chat_media}{image=asa_video_3_ns}"
-    nvlasa "{a=show:show_chat_media}{image=asa_video_3_ns}|{a=show:show_chat_media}{image=asa_video_3_ns}"
+    nvlasa "{a=show:show_chat_media}{image=asa_video_3_ns}|"
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:5562
 translate zh_Hans qos_chat_storyline_69_9c836821:
@@ -10918,7 +10918,7 @@ translate zh_Hans qos_chat_storyline_72_8fa80d3f:
 translate zh_Hans qos_chat_storyline_72_002690bf:
 
     # nvlemily "{a=show:show_chat_media}{image=emily_video_5_ns}"
-    nvlemily "{a=show:show_chat_media}{image=emily_video_5_ns}"
+    nvlemily ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:5807
 translate zh_Hans qos_chat_storyline_72_84e8e5bc:
@@ -12006,13 +12006,13 @@ translate zh_Hans qos_chat_storyline_82_652797e7:
 translate zh_Hans qos_chat_storyline_82_8c0b64ee:
 
     # nvlemily "{a=show:show_chat_media}{image=emily_video_6_ns}"
-    nvlemily "{a=show:show_chat_media}{image=emily_video_6_ns}"
+    nvlemily ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:6496
 translate zh_Hans qos_chat_storyline_82_0043acf7:
 
     # nvlriley "{a=show:show_chat_media}{image=riley_video_4_ns}"
-    nvlriley "{a=show:show_chat_media}{image=riley_video_4_ns}"
+    nvlriley ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:6499
 translate zh_Hans qos_chat_storyline_82_f4f9280b:
@@ -12086,13 +12086,13 @@ translate zh_Hans qos_chat_storyline_83_bb1eb54e:
 translate zh_Hans qos_chat_storyline_83_6fe32ccd:
 
     # nvlasa "{a=show:show_chat_media}{image=asa_video_4_ns}"
-    nvlasa "{a=show:show_chat_media}{image=asa_video_4_ns}"
+    nvlasa ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:6559
 translate zh_Hans qos_chat_storyline_83_70745b64:
 
     # nvlelsa "{a=show:show_chat_media}{image=elsa_video_4_ns}"
-    nvlelsa "{a=show:show_chat_media}{image=elsa_video_4_ns}"
+    nvlelsa ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:6562
 translate zh_Hans qos_chat_storyline_83_3254026a:
@@ -12184,13 +12184,13 @@ translate zh_Hans qos_chat_storyline_84_970d7334:
 translate zh_Hans qos_chat_storyline_84_c05cc3e1:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_356_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_356_ns}|{a=show:show_chat_media}{image=wife_video_356_ns}"
+    nvlwife "{a=show:show_chat_media}{image=wife_video_356_ns}|"
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:6628
 translate zh_Hans qos_chat_storyline_84_91df9d53:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_video_16_ns}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_video_16_ns}|{a=show:show_chat_media}{image=gianna_video_16_ns}"
+    nvlgianna "{a=show:show_chat_media}{image=gianna_video_16_ns}|"
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:6631
 translate zh_Hans qos_chat_storyline_84_4ab9a111:
@@ -13912,19 +13912,19 @@ translate zh_Hans qos_chat_storyline_96_2c1778f6:
 translate zh_Hans qos_chat_storyline_96_48b797f1:
 
     # nvlemily "{a=show:show_chat_media}{image=emily_pic_10}"
-    nvlemily "{a=show:show_chat_media}{image=emily_pic_10}"
+    nvlemily ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:7596
 translate zh_Hans qos_chat_storyline_96_15bf18f5:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_873}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_873}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:7600
 translate zh_Hans qos_chat_storyline_96_ece6f444:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_11}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_11}"
+    nvlgianna ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:7603
 translate zh_Hans qos_chat_storyline_96_cd6ad593:
@@ -14028,7 +14028,7 @@ translate zh_Hans qos_chat_storyline_97_13156ab3:
 translate zh_Hans qos_chat_storyline_97_1f681438:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_29_ns}"
-    nvljenna "{a=show:show_chat_media}{image=jenna_video_29_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:7672
 translate zh_Hans qos_chat_storyline_97_25b657d2:
@@ -14150,7 +14150,7 @@ translate zh_Hans qos_chat_storyline_98_52a304f2:
 translate zh_Hans qos_chat_storyline_98_619fe8e1:
 
     # nvlemily "{a=show:show_chat_media}{image=emily_video_7_ns}"
-    nvlemily "{a=show:show_chat_media}{image=emily_video_7_ns}"
+    nvlemily ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:7747
 translate zh_Hans qos_chat_storyline_98_4c4cdd54:
@@ -14228,7 +14228,7 @@ translate zh_Hans qos_chat_storyline_98_e8405742:
 translate zh_Hans qos_chat_storyline_98_fb7e789b:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_357_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_357_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:7775
 translate zh_Hans qos_chat_storyline_98_364ac20a:
@@ -14300,7 +14300,7 @@ translate zh_Hans qos_chat_storyline_98_0c06ce9f:
 translate zh_Hans qos_chat_storyline_98_37f17a80:
 
     # nvlasa "{a=show:show_chat_media}{image=asa_video_5_ns}"
-    nvlasa "{a=show:show_chat_media}{image=asa_video_5_ns}"
+    nvlasa ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:7801
 translate zh_Hans qos_chat_storyline_98_cb413d4d:
@@ -14324,7 +14324,7 @@ translate zh_Hans qos_chat_storyline_98_ee9c52fa:
 translate zh_Hans qos_chat_storyline_98_d1723cf7:
 
     # nvlriley "{a=show:show_chat_media}{image=riley_video_5_ns}"
-    nvlriley "{a=show:show_chat_media}{image=riley_video_5_ns}"
+    nvlriley ""
 
 # game/scripts/dialogues/wife/qos_chat_storyline.rpy:7811
 translate zh_Hans qos_chat_storyline_98_3d85137a:

@@ -432,7 +432,7 @@ translate zh_Hans dani_alpha_storyline_4_beebfb0b:
 translate zh_Hans dani_alpha_storyline_4_ba3a8e4e:
 
     # nvldani "{a=show:show_chat_media}{image=dani_pic_3}"
-    nvldani "{a=show:show_chat_media}{image=dani_pic_3}"
+    nvldani ""
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:313
 translate zh_Hans dani_alpha_storyline_4_c259cfb6:
@@ -474,7 +474,7 @@ translate zh_Hans dani_alpha_storyline_4_4d58c939:
 translate zh_Hans dani_alpha_storyline_4_4f8e0bb0:
 
     # nvljohn "{a=show:show_chat_media}{image=mc_pic_63}"
-    nvljohn "{a=show:show_chat_media}{image=mc_pic_63}"
+    nvljohn ""
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:329
 translate zh_Hans dani_alpha_storyline_4_245b5ca0:
@@ -528,7 +528,7 @@ translate zh_Hans dani_alpha_storyline_4_5804ed1b:
 translate zh_Hans dani_alpha_storyline_4_ce8a34e1:
 
     # nvldani "{a=show:show_chat_media}{image=dani_video_3_ns}"
-    nvldani "{a=show:show_chat_media}{image=dani_video_3_ns}"
+    nvldani ""
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:349
 translate zh_Hans dani_alpha_storyline_4_fe330c73:
@@ -576,7 +576,7 @@ translate zh_Hans dani_alpha_storyline_4_6f231b13:
 translate zh_Hans dani_alpha_storyline_4_a2865f0a:
 
     # nvljohn "{a=show:show_chat_media}{image=mc_video_39_ns}"
-    nvljohn "{a=show:show_chat_media}{image=mc_video_39_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:367
 translate zh_Hans dani_alpha_storyline_4_6f3cbdba:
@@ -880,13 +880,13 @@ translate zh_Hans dani_alpha_storyline_6_5fe539b8:
 translate zh_Hans dani_alpha_storyline_6_65c4631a:
 
     # nvldani "{a=show:show_chat_media}{image=dani_pic_4}"
-    nvldani "{a=show:show_chat_media}{image=dani_pic_4}"
+    nvldani ""
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:546
 translate zh_Hans dani_alpha_storyline_6_66c68c2d:
 
     # nvldani "{a=show:show_chat_media}{image=dani_pic_5}"
-    nvldani "{a=show:show_chat_media}{image=dani_pic_5}"
+    nvldani ""
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:549
 translate zh_Hans dani_alpha_storyline_6_6f5fc953:
@@ -1222,7 +1222,7 @@ translate zh_Hans dani_alpha_storyline_9_74bad3fb:
 translate zh_Hans dani_alpha_storyline_9_31b29e07:
 
     # nvljohn "{a=show:show_chat_media}{image=dani_video_5_ns}"
-    nvljohn "{a=show:show_chat_media}{image=dani_video_5_ns}|{a=show:show_chat_media}{image=dani_video_5_ns}"
+    nvljohn "{a=show:show_chat_media}{image=dani_video_5_ns}|"
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:760
 translate zh_Hans dani_alpha_storyline_9_a7479cb5:
@@ -1276,7 +1276,7 @@ translate zh_Hans dani_alpha_storyline_9_c4426137:
 translate zh_Hans dani_alpha_storyline_9_59493456:
 
     # nvljohn "{a=show:show_chat_media}{image=dani_video_6_ns}"
-    nvljohn "{a=show:show_chat_media}{image=dani_video_6_ns}|{a=show:show_chat_media}{image=dani_video_6_ns}"
+    nvljohn "{a=show:show_chat_media}{image=dani_video_6_ns}|"
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:780
 translate zh_Hans dani_alpha_storyline_9_6afaec71:
@@ -1374,7 +1374,7 @@ translate zh_Hans dani_alpha_storyline_10_0dd0876e:
 translate zh_Hans dani_alpha_storyline_10_16255031:
 
     # nvldani "{a=show:show_chat_media}{image=dani_pic_6}"
-    nvldani "{a=show:show_chat_media}{image=dani_pic_6}|{a=show:show_chat_media}{image=dani_pic_6}"
+    nvldani "{a=show:show_chat_media}{image=dani_pic_6}|"
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:847
 translate zh_Hans dani_alpha_storyline_10_4e174f9e:
@@ -1458,7 +1458,7 @@ translate zh_Hans dani_alpha_storyline_10_adb06c8c:
 translate zh_Hans dani_alpha_storyline_10_a0f8f7b0:
 
     # nvljohn "{a=show:show_chat_media}{image=mc_pic_74}"
-    nvljohn "{a=show:show_chat_media}{image=mc_pic_74}|{a=show:show_chat_media}{image=mc_pic_74}"
+    nvljohn "{a=show:show_chat_media}{image=mc_pic_74}|"
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:877
 translate zh_Hans dani_alpha_storyline_10_8098812e:
@@ -2032,7 +2032,7 @@ translate zh_Hans dani_alpha_storyline_15_aef70f24:
 translate zh_Hans dani_alpha_storyline_15_6959b95f:
 
     # nvldani "{a=show:show_chat_media}{image=dani_pic_7}"
-    nvldani "{a=show:show_chat_media}{image=dani_pic_7}"
+    nvldani ""
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:1232
 translate zh_Hans dani_alpha_storyline_15_00c69971:
@@ -2130,7 +2130,7 @@ translate zh_Hans dani_alpha_storyline_16_ef4d4ec0:
 translate zh_Hans dani_alpha_storyline_16_94f2ef00:
 
     # nvldani "{a=show:show_chat_media}{image=dani_video_7_ns}"
-    nvldani "{a=show:show_chat_media}{image=dani_video_7_ns}"
+    nvldani ""
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:1299
 translate zh_Hans dani_alpha_storyline_16_433766c1:
@@ -2172,7 +2172,7 @@ translate zh_Hans dani_alpha_storyline_16_824ad889:
 translate zh_Hans dani_alpha_storyline_16_d0a0aced:
 
     # nvldani "{a=show:show_chat_media}{image=dani_video_8_ns}"
-    nvldani "{a=show:show_chat_media}{image=dani_video_8_ns}"
+    nvldani ""
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:1315
 translate zh_Hans dani_alpha_storyline_16_899bdf18:
@@ -2264,7 +2264,7 @@ translate zh_Hans dani_alpha_storyline_17_7713bae2:
 translate zh_Hans dani_alpha_storyline_17_3b1b4ad1:
 
     # nvljohn "{a=show:show_chat_media}{image=dani_video_7_ns}"
-    nvljohn "{a=show:show_chat_media}{image=dani_video_7_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:1379
 translate zh_Hans dani_alpha_storyline_17_14a0e845:
@@ -2282,7 +2282,7 @@ translate zh_Hans dani_alpha_storyline_17_6383ea4b:
 translate zh_Hans dani_alpha_storyline_17_6afef183:
 
     # nvljohn "{a=show:show_chat_media}{image=dani_video_8_ns}"
-    nvljohn "{a=show:show_chat_media}{image=dani_video_8_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:1386
 translate zh_Hans dani_alpha_storyline_17_bed144d4:
@@ -2416,7 +2416,7 @@ translate zh_Hans dani_alpha_storyline_18_d4d435f4:
 translate zh_Hans dani_alpha_storyline_18_4e7b1cd7:
 
     # nvljohn "Didn’t mean to bother you."
-    nvljohn "无意打扰您。"
+    nvljohn "无意打扰你。"
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:1463
 translate zh_Hans dani_alpha_storyline_18_5446a621:
@@ -2476,7 +2476,7 @@ translate zh_Hans dani_alpha_storyline_18_708ea8e8:
 translate zh_Hans dani_alpha_storyline_18_003b0319:
 
     # nvldani "Thanks for understanding."
-    nvldani "谢谢您的理解。"
+    nvldani "谢谢你的理解。"
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:1483
 translate zh_Hans dani_alpha_storyline_18_8ada1863:
@@ -2568,13 +2568,13 @@ translate zh_Hans dani_alpha_storyline_19_7f3293f3:
 translate zh_Hans dani_alpha_storyline_19_681f0718:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_pic_493}"
-    nvljohn "{a=show:show_chat_media}{image=wife_pic_493}"
+    nvljohn ""
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:1551
 translate zh_Hans dani_alpha_storyline_19_01477e47:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_pic_380}"
-    nvljohn "{a=show:show_chat_media}{image=wife_pic_380}"
+    nvljohn ""
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:1554
 translate zh_Hans dani_alpha_storyline_19_200a9cb1:
@@ -2586,13 +2586,13 @@ translate zh_Hans dani_alpha_storyline_19_200a9cb1:
 translate zh_Hans dani_alpha_storyline_19_cab5aada:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_pic_33}"
-    nvljohn "{a=show:show_chat_media}{image=talay_pic_33}"
+    nvljohn ""
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:1561
 translate zh_Hans dani_alpha_storyline_19_247fa212:
 
     # nvljohn "{a=show:show_chat_media}{image=talay_pic_38}"
-    nvljohn "{a=show:show_chat_media}{image=talay_pic_38}"
+    nvljohn ""
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:1564
 translate zh_Hans dani_alpha_storyline_19_a7963297:
@@ -3332,7 +3332,7 @@ translate zh_Hans dani_alpha_storyline_23_439f4fc6:
 translate zh_Hans dani_alpha_storyline_23_c748a1c7:
 
     # nvldani "{a=show:show_chat_media}{image=dani_pic_8}"
-    nvldani "{a=show:show_chat_media}{image=dani_pic_8}"
+    nvldani ""
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:1945
 translate zh_Hans dani_alpha_storyline_23_ad55fe46:
@@ -3356,7 +3356,7 @@ translate zh_Hans dani_alpha_storyline_23_8d6af62b:
 translate zh_Hans dani_alpha_storyline_23_9f26fecc:
 
     # nvldani "{a=show:show_chat_media}{image=dani_video_9_ns}"
-    nvldani "{a=show:show_chat_media}{image=dani_video_9_ns}"
+    nvldani ""
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:1955
 translate zh_Hans dani_alpha_storyline_23_4673d922:
@@ -3592,7 +3592,7 @@ translate zh_Hans dani_alpha_storyline_24_33ed9eba:
 translate zh_Hans dani_alpha_storyline_24_622c3eb4:
 
     # nvldani "{a=show:show_chat_media}{image=dani_pic_9}"
-    nvldani "{a=show:show_chat_media}{image=dani_pic_9}"
+    nvldani ""
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:2068
 translate zh_Hans dani_alpha_storyline_24_f37ac301:
@@ -3738,13 +3738,13 @@ translate zh_Hans dani_alpha_storyline_25_985a145f:
 translate zh_Hans dani_alpha_storyline_25_b5b99f8f:
 
     # nvljohn "{a=show:show_chat_media}{image=dani_pic_10}"
-    nvljohn "{a=show:show_chat_media}{image=dani_pic_10}"
+    nvljohn ""
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:2152
 translate zh_Hans dani_alpha_storyline_25_f30a4e43:
 
     # nvljohn "{a=show:show_chat_media}{image=dani_pic_11}"
-    nvljohn "{a=show:show_chat_media}{image=dani_pic_11}"
+    nvljohn ""
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:2155
 translate zh_Hans dani_alpha_storyline_25_4176a6b5:
@@ -4302,7 +4302,7 @@ translate zh_Hans dani_alpha_storyline_28_bcfa8ad6:
 translate zh_Hans dani_alpha_storyline_28_da01e31f:
 
     # nvldani "{a=show:show_chat_media}{image=dani_pic_12}"
-    nvldani "{a=show:show_chat_media}{image=dani_pic_12}"
+    nvldani ""
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:2440
 translate zh_Hans dani_alpha_storyline_28_e78d9fc1:
@@ -4398,7 +4398,7 @@ translate zh_Hans dani_alpha_storyline_28_60b30570:
 translate zh_Hans dani_alpha_storyline_28_ca1f2833:
 
     # nvljohn "😏"
-    nvljohn "😏"
+    nvljohn ""
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:2486
 translate zh_Hans dani_alpha_storyline_28_53c71d7c:
@@ -4618,7 +4618,7 @@ translate zh_Hans dani_alpha_storyline_30_2e51afef:
 translate zh_Hans dani_alpha_storyline_30_8b9401c0:
 
     # nvldani "{a=show:show_chat_media}{image=dani_video_10_ns}"
-    nvldani "{a=show:show_chat_media}{image=dani_video_10_ns}"
+    nvldani ""
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:2612
 translate zh_Hans dani_alpha_storyline_30_07cf9526:
@@ -4654,7 +4654,7 @@ translate zh_Hans dani_alpha_storyline_30_7c253ce7:
 translate zh_Hans dani_alpha_storyline_30_44444d08:
 
     # nvldani "{a=show:show_chat_media}{image=dani_video_11_ns}"
-    nvldani "{a=show:show_chat_media}{image=dani_video_11_ns}"
+    nvldani ""
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:2626
 translate zh_Hans dani_alpha_storyline_30_2cabb1c7:
@@ -5558,7 +5558,7 @@ translate zh_Hans dani_alpha_storyline_35_de9819cf:
 translate zh_Hans dani_alpha_storyline_35_ad005cde:
 
     # nvldani "{a=show:show_chat_media}{image=dani_video_12_ns}"
-    nvldani "{a=show:show_chat_media}{image=dani_video_12_ns}"
+    nvldani ""
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:3091
 translate zh_Hans dani_alpha_storyline_35_b787a189:
@@ -5746,7 +5746,7 @@ translate zh_Hans dani_alpha_storyline_36_f9b11e39:
 translate zh_Hans dani_alpha_storyline_36_83eec8f2:
 
     # nvldani "{a=show:show_chat_media}{image=dani_pic_13}"
-    nvldani "{a=show:show_chat_media}{image=dani_pic_13}"
+    nvldani ""
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:3188
 translate zh_Hans dani_alpha_storyline_36_3fb99f22:
@@ -6086,7 +6086,7 @@ translate zh_Hans dani_alpha_storyline_38_dc9249e3:
 translate zh_Hans dani_alpha_storyline_38_9fd94eb0:
 
     # nvldani "{a=show:show_chat_media}{image=dani_video_13_ns}"
-    nvldani "{a=show:show_chat_media}{image=dani_video_13_ns}"
+    nvldani ""
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:3368
 translate zh_Hans dani_alpha_storyline_38_90b2a507:
@@ -6996,7 +6996,7 @@ translate zh_Hans dani_alpha_storyline_43_05e9ea46:
 translate zh_Hans dani_alpha_storyline_43_75f3bbe1:
 
     # nvldani "{a=show:show_chat_media}{image=dani_pic_14}"
-    nvldani "{a=show:show_chat_media}{image=dani_pic_14}"
+    nvldani ""
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:3835
 translate zh_Hans dani_alpha_storyline_43_e78d9fc1:
@@ -7348,7 +7348,7 @@ translate zh_Hans dani_alpha_storyline_45_c1c7ca8c:
 translate zh_Hans dani_alpha_storyline_45_4da3373b:
 
     # nvldani "{a=show:show_chat_media}{image=dani_video_14_ns}"
-    nvldani "{a=show:show_chat_media}{image=dani_video_14_ns}"
+    nvldani ""
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:4019
 translate zh_Hans dani_alpha_storyline_45_037f8d8b:
@@ -7378,7 +7378,7 @@ translate zh_Hans dani_alpha_storyline_45_746f4d1a:
 translate zh_Hans dani_alpha_storyline_45_cbcdd2df:
 
     # nvldani "{a=show:show_chat_media}{image=dani_video_15_ns}"
-    nvldani "{a=show:show_chat_media}{image=dani_video_15_ns}"
+    nvldani ""
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:4031
 translate zh_Hans dani_alpha_storyline_45_14f67861:

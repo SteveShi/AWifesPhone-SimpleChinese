@@ -670,7 +670,7 @@ translate zh_Hans wife_mark_storyline_56_e21ab5c9:
 translate zh_Hans wife_mark_storyline_56_4be7f6f8:
 
     # nvlmark "😊"
-    nvlmark "😊|😊"
+    nvlmark "😊|"
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:357
 translate zh_Hans wife_mark_storyline_56_3b19de27:
@@ -974,7 +974,7 @@ translate zh_Hans wife_mark_storyline_58_983d14c2:
 translate zh_Hans wife_mark_storyline_58_efd9fc67:
 
     # nvlunknown "{a=show:show_chat_media}{image=wife_video_139_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=wife_video_139_ns}|{a=show:show_chat_media}{image=wife_video_139_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=wife_video_139_ns}|"
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:525
 translate zh_Hans wife_mark_storyline_58_4cdc7732:
@@ -1048,7 +1048,7 @@ translate zh_Hans wife_mark_storyline_59_e6ec5b74:
 translate zh_Hans wife_mark_storyline_59_4be7f6f8:
 
     # nvlmark "😊"
-    nvlmark "😊|😊"
+    nvlmark "😊|"
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:582
 translate zh_Hans wife_mark_storyline_59_6b530086:
@@ -1300,7 +1300,7 @@ translate zh_Hans wife_mark_storyline_59_ccfcd15e:
 translate zh_Hans wife_mark_storyline_59_9f1fd2bf:
 
     # nvlmark "{a=show:show_chat_media}{image=wife_pic_658}"
-    nvlmark "{a=show:show_chat_media}{image=wife_pic_658}|{a=show:show_chat_media}{image=wife_pic_658}"
+    nvlmark "{a=show:show_chat_media}{image=wife_pic_658}|"
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:670
 translate zh_Hans wife_mark_storyline_59_b53d5458:
@@ -1892,13 +1892,13 @@ translate zh_Hans wife_mark_storyline_61_39856ed2:
 translate zh_Hans wife_mark_storyline_61_333c515e:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_659}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_659}|{a=show:show_chat_media}{image=wife_pic_659}"
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_659}|"
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:934
 translate zh_Hans wife_mark_storyline_61_4cecea0d:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_658}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_658}|{a=show:show_chat_media}{image=wife_pic_658}"
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_658}|"
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:940
 translate zh_Hans wife_mark_storyline_61_e05f4f2d:
@@ -1940,7 +1940,7 @@ translate zh_Hans wife_mark_storyline_61_6cfeb975:
 translate zh_Hans wife_mark_storyline_61_5389c639:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_661}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_661}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:960
 translate zh_Hans wife_mark_storyline_61_9910d1c5:
@@ -2096,7 +2096,7 @@ translate zh_Hans wife_mark_storyline_61_fbcf5691:
 translate zh_Hans wife_mark_storyline_61_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:1012
 translate zh_Hans wife_mark_storyline_61_fc8193a3:
@@ -3044,7 +3044,7 @@ translate zh_Hans wife_mark_storyline_64_150bbd55:
 translate zh_Hans wife_mark_storyline_64_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:1419
 translate zh_Hans wife_mark_storyline_64_6aa4915d:
@@ -3146,7 +3146,7 @@ translate zh_Hans wife_mark_storyline_64_2e54d438:
 translate zh_Hans wife_mark_storyline_64_fbc8fe60_1:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:1453
 translate zh_Hans wife_mark_storyline_64_d701037c:
@@ -3412,25 +3412,25 @@ translate zh_Hans wife_mark_storyline_65_197d0785:
 translate zh_Hans wife_mark_storyline_65_c3d043bc:
 
     # nvlmark "{a=show:show_chat_media}{image=wife_pic_685}"
-    nvlmark "{a=show:show_chat_media}{image=wife_pic_685}"
+    nvlmark ""
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:1578
 translate zh_Hans wife_mark_storyline_65_b67b1a12:
 
     # nvlmark "{a=show:show_chat_media}{image=wife_pic_686}"
-    nvlmark "{a=show:show_chat_media}{image=wife_pic_686}"
+    nvlmark ""
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:1584
 translate zh_Hans wife_mark_storyline_65_38d0e17a:
 
     # nvlmark "{a=show:show_chat_media}{image=wife_pic_687}"
-    nvlmark "{a=show:show_chat_media}{image=wife_pic_687}"
+    nvlmark ""
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:1590
 translate zh_Hans wife_mark_storyline_65_4dad9aba:
 
     # nvlmark "{a=show:show_chat_media}{image=wife_pic_688}"
-    nvlmark "{a=show:show_chat_media}{image=wife_pic_688}"
+    nvlmark ""
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:1594
 translate zh_Hans wife_mark_storyline_65_646aa7f8:
@@ -4018,7 +4018,7 @@ translate zh_Hans wife_mark_storyline_68_f48b7ab4:
 translate zh_Hans wife_mark_storyline_68_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:1890
 translate zh_Hans wife_mark_storyline_68_3932f63b:
@@ -4126,7 +4126,7 @@ translate zh_Hans wife_mark_storyline_68_6b370f94:
 translate zh_Hans wife_mark_storyline_68_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:1926
 translate zh_Hans wife_mark_storyline_68_1a38c1c3:
@@ -4256,7 +4256,7 @@ translate zh_Hans wife_mark_storyline_70_39e8a09d:
 translate zh_Hans wife_mark_storyline_70_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:2041
 translate zh_Hans wife_mark_storyline_70_d33ff597:
@@ -4564,7 +4564,7 @@ translate zh_Hans wife_mark_storyline_71_cf628537:
 translate zh_Hans wife_mark_storyline_71_2b991cbc:
 
     # nvlwife "❤️"
-    nvlwife "❤️|❤️"
+    nvlwife "❤️|"
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:2190
 translate zh_Hans wife_mark_storyline_71_53c71d7c:
@@ -4746,7 +4746,7 @@ translate zh_Hans wife_mark_storyline_72_98f2e80b:
 translate zh_Hans wife_mark_storyline_72_9e54652f:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_203_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_203_ns}|{a=show:show_chat_media}{image=wife_video_203_ns}"
+    nvlwife "{a=show:show_chat_media}{image=wife_video_203_ns}|"
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:2278
 translate zh_Hans wife_mark_storyline_72_46e9b596:
@@ -4984,7 +4984,7 @@ translate zh_Hans wife_mark_storyline_74_8f3ea423:
 translate zh_Hans wife_mark_storyline_74_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:2422
 translate zh_Hans wife_mark_storyline_74_91e0acb3:
@@ -5136,7 +5136,7 @@ translate zh_Hans wife_mark_storyline_75_40c5b866:
 translate zh_Hans wife_mark_storyline_75_b1e6a513:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_789}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_789}|{a=show:show_chat_media}{image=wife_pic_789}"
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_789}|"
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:2509
 translate zh_Hans wife_mark_storyline_75_7ec3e2e3:
@@ -5240,7 +5240,7 @@ translate zh_Hans wife_mark_storyline_76_b0c60127:
 translate zh_Hans wife_mark_storyline_76_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:2576
 translate zh_Hans wife_mark_storyline_76_b0f1bea1:
@@ -5490,7 +5490,7 @@ translate zh_Hans wife_mark_storyline_78_73881b8d:
 translate zh_Hans wife_mark_storyline_78_a8e4dce8:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_803}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_803}|{a=show:show_chat_media}{image=wife_pic_803}"
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_803}|"
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:2728
 translate zh_Hans wife_mark_storyline_78_d0357466:
@@ -5872,7 +5872,7 @@ translate zh_Hans wife_mark_storyline_80_ffefa513:
     # nvl clear
     # nvlunknown "We’ve got something for you, Mr [mc_name_is]"
     nvl clear
-    nvlunknown "我们有东西要送给您，[mc_name_is]先生。"
+    nvlunknown "我们有东西要送给你，[mc_name_is]先生。"
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:2920
 translate zh_Hans wife_mark_storyline_80_ba8c927d:
@@ -5908,7 +5908,7 @@ translate zh_Hans wife_mark_storyline_80_5ce87124:
 translate zh_Hans wife_mark_storyline_80_d348b686:
 
     # nvlunknown "{a=show:show_chat_media}{image=wife_video_141_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=wife_video_141_ns}"
+    nvlunknown ""
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:2936
 translate zh_Hans wife_mark_storyline_80_172020c0:
@@ -6248,13 +6248,13 @@ translate zh_Hans wife_mark_storyline_82_c687273c:
 translate zh_Hans wife_mark_storyline_82_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:3123
 translate zh_Hans wife_mark_storyline_82_c21cebe5:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_642}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_642}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:3127
 translate zh_Hans wife_mark_storyline_82_a87a91d8:
@@ -6638,7 +6638,7 @@ translate zh_Hans wife_mark_storyline_85_791c9273:
 translate zh_Hans wife_mark_storyline_85_7aa3b967:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_80_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_80_ns}|{a=show:show_chat_media}{image=wife_video_80_ns}"
+    nvlwife "{a=show:show_chat_media}{image=wife_video_80_ns}|"
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:3356
 translate zh_Hans wife_mark_storyline_85_77d5c784:
@@ -6826,7 +6826,7 @@ translate zh_Hans wife_mark_storyline_86_9978ecdf:
 translate zh_Hans wife_mark_storyline_86_2b991cbc:
 
     # nvlwife "❤️"
-    nvlwife "❤️|❤️"
+    nvlwife "❤️|"
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:3465
 translate zh_Hans wife_mark_storyline_86_53c71d7c:
@@ -6846,7 +6846,7 @@ translate zh_Hans wife_mark_storyline_87_16abc568:
 translate zh_Hans wife_mark_storyline_87_31738315:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_pic_16}"
-    nvljenna "{a=show:show_chat_media}{image=wife_pic_16}|{a=show:show_chat_media}{image=wife_pic_16}"
+    nvljenna "{a=show:show_chat_media}{image=wife_pic_16}|"
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:3494
 translate zh_Hans wife_mark_storyline_87_eb45c7f7:
@@ -7010,7 +7010,7 @@ translate zh_Hans wife_mark_storyline_88_c65f5d93:
 translate zh_Hans wife_mark_storyline_88_49282c03:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_231_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_231_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:3585
 translate zh_Hans wife_mark_storyline_88_77d5c784:
@@ -7034,13 +7034,13 @@ translate zh_Hans wife_mark_storyline_88_9549c962:
 translate zh_Hans wife_mark_storyline_88_f3ca7433:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_133_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_133_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:3597
 translate zh_Hans wife_mark_storyline_88_2b991cbc:
 
     # nvlwife "❤️"
-    nvlwife "❤️|❤️"
+    nvlwife "❤️|"
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:3599
 translate zh_Hans wife_mark_storyline_88_ed450bdf:
@@ -7076,7 +7076,7 @@ translate zh_Hans wife_mark_storyline_88_ad5e3e5a:
 translate zh_Hans wife_mark_storyline_88_2b991cbc_1:
 
     # nvlwife "❤️"
-    nvlwife "❤️|❤️"
+    nvlwife "❤️|"
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:3611
 translate zh_Hans wife_mark_storyline_88_552da425:
@@ -7130,7 +7130,7 @@ translate zh_Hans wife_mark_storyline_88_552bf07a:
 translate zh_Hans wife_mark_storyline_88_dddf6aa7:
 
     # nvljenna "❤️"
-    nvljenna "❤️|❤️"
+    nvljenna "❤️|"
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:3643
 translate zh_Hans wife_mark_storyline_88_53c71d7c:
@@ -7446,7 +7446,7 @@ translate zh_Hans wife_mark_storyline_90_2fe85655:
 translate zh_Hans wife_mark_storyline_90_1e74b278:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_649}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_649}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:3803
 translate zh_Hans wife_mark_storyline_90_5ce94eac:
@@ -7976,7 +7976,7 @@ translate zh_Hans wife_mark_storyline_94_a73cddd5:
 translate zh_Hans wife_mark_storyline_94_4be7f6f8:
 
     # nvlmark "😊"
-    nvlmark "😊|😊"
+    nvlmark "😊|"
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:4109
 translate zh_Hans wife_mark_storyline_94_3d2096f9:
@@ -8062,7 +8062,7 @@ translate zh_Hans wife_mark_storyline_95_004d463d:
 translate zh_Hans wife_mark_storyline_95_10d58654:
 
     # nvlmark "{a=show:show_chat_media}{image=wife_video_309_ns}"
-    nvlmark "{a=show:show_chat_media}{image=wife_video_309_ns}"
+    nvlmark ""
 
 # game/scripts/dialogues/wife/wife_mark_storyline.rpy:4174
 translate zh_Hans wife_mark_storyline_95_05430e92:

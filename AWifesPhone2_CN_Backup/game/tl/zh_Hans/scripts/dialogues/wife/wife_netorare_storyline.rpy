@@ -398,7 +398,7 @@ translate zh_Hans wife_netorare_storyline_73_76b2fe88:
 translate zh_Hans wife_netorare_storyline_73_ee265a27:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_144_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_144_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:312
 translate zh_Hans wife_netorare_storyline_73_253c7345:
@@ -596,7 +596,7 @@ translate zh_Hans wife_netorare_storyline_73_a9581797:
 translate zh_Hans wife_netorare_storyline_73_d81677c1:
 
     # nvljenna "😉"
-    nvljenna "😉|😉"
+    nvljenna "😉|"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:378
 translate zh_Hans wife_netorare_storyline_73_ca56e89c:
@@ -778,13 +778,13 @@ translate zh_Hans wife_netorare_storyline_74_f79c09f6:
 translate zh_Hans wife_netorare_storyline_74_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:469
 translate zh_Hans wife_netorare_storyline_74_94993827:
 
     # nvljohn "Are you coming today?"
-    nvljohn "您今天会来吗？"
+    nvljohn "你今天会来吗？"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:471
 translate zh_Hans wife_netorare_storyline_74_c5fadc3d:
@@ -1002,7 +1002,7 @@ translate zh_Hans wife_netorare_storyline_75_d78825ca:
 translate zh_Hans wife_netorare_storyline_75_36aef3eb:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_143_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_143_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:578
 translate zh_Hans wife_netorare_storyline_75_21226345:
@@ -1056,13 +1056,13 @@ translate zh_Hans wife_netorare_storyline_75_d4d64ac0:
 translate zh_Hans wife_netorare_storyline_75_9ef137e4:
 
     # nvljohn "❤️"
-    nvljohn "❤️|❤️"
+    nvljohn "❤️|"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:596
 translate zh_Hans wife_netorare_storyline_75_2b991cbc:
 
     # nvlwife "❤️"
-    nvlwife "❤️|❤️"
+    nvlwife "❤️|"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:598
 translate zh_Hans wife_netorare_storyline_75_aec453e6:
@@ -1476,7 +1476,7 @@ translate zh_Hans wife_netorare_storyline_78_6cdeb80a:
 translate zh_Hans wife_netorare_storyline_78_dfe98e6a:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_pic_346}"
-    nvljenna "{a=show:show_chat_media}{image=wife_pic_346}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:842
 translate zh_Hans wife_netorare_storyline_78_949faeec:
@@ -1506,7 +1506,7 @@ translate zh_Hans wife_netorare_storyline_78_45012f8f:
 translate zh_Hans wife_netorare_storyline_78_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:852
 translate zh_Hans wife_netorare_storyline_78_2ce7b90b:
@@ -2080,7 +2080,7 @@ translate zh_Hans wife_netorare_storyline_80_7f0612fc:
 translate zh_Hans wife_netorare_storyline_80_a35704c7:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_262}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_262}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:1108
 translate zh_Hans wife_netorare_storyline_80_7ccd6ed8:
@@ -2232,7 +2232,7 @@ translate zh_Hans wife_netorare_storyline_81_21226345:
 translate zh_Hans wife_netorare_storyline_81_a32e11b4:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_147_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_147_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:1197
 translate zh_Hans wife_netorare_storyline_81_ad0522e0:
@@ -2256,13 +2256,13 @@ translate zh_Hans wife_netorare_storyline_81_f4fd6a7f:
 translate zh_Hans wife_netorare_storyline_81_4a2e4b3d:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_148_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_148_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:1209
 translate zh_Hans wife_netorare_storyline_81_2b991cbc:
 
     # nvlwife "❤️"
-    nvlwife "❤️|❤️"
+    nvlwife "❤️|"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:1211
 translate zh_Hans wife_netorare_storyline_81_76b48cd1:
@@ -2388,7 +2388,7 @@ translate zh_Hans wife_netorare_storyline_81_b50c2e32:
 translate zh_Hans wife_netorare_storyline_81_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:1253
 translate zh_Hans wife_netorare_storyline_81_aec453e6:
@@ -2534,7 +2534,7 @@ translate zh_Hans wife_netorare_storyline_82_af9c3530:
 translate zh_Hans wife_netorare_storyline_82_9e4e684b:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_145_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_145_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:1338
 translate zh_Hans wife_netorare_storyline_82_24f72432:
@@ -3222,7 +3222,7 @@ translate zh_Hans wife_netorare_storyline_84_ada19b9f:
 translate zh_Hans wife_netorare_storyline_84_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:1643
 translate zh_Hans wife_netorare_storyline_84_ab329bb0:
@@ -3342,7 +3342,7 @@ translate zh_Hans wife_netorare_storyline_84_c3662b12:
 translate zh_Hans wife_netorare_storyline_84_3b194b2a:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_493}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_493}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:1687
 translate zh_Hans wife_netorare_storyline_84_25d93428:
@@ -3428,7 +3428,7 @@ translate zh_Hans wife_netorare_storyline_85_1c046838:
 translate zh_Hans wife_netorare_storyline_85_053b51a5:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_149_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_149_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:1750
 translate zh_Hans wife_netorare_storyline_85_214ce2c4:
@@ -3446,7 +3446,7 @@ translate zh_Hans wife_netorare_storyline_85_cc3ecd2f:
 translate zh_Hans wife_netorare_storyline_85_af37082e:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_150_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_150_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:1760
 translate zh_Hans wife_netorare_storyline_85_9299b161:
@@ -3978,7 +3978,7 @@ translate zh_Hans wife_netorare_storyline_87_edd67726:
 translate zh_Hans wife_netorare_storyline_87_a8c0b241:
 
     # nvlmichael3 "😊"
-    nvlmichael3 "😊|😊"
+    nvlmichael3 "😊|"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:2018
 translate zh_Hans wife_netorare_storyline_87_53c71d7c:
@@ -4106,7 +4106,7 @@ translate zh_Hans wife_netorare_storyline_88_918b9128:
 translate zh_Hans wife_netorare_storyline_88_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:2092
 translate zh_Hans wife_netorare_storyline_88_7429cb9e:
@@ -4160,7 +4160,7 @@ translate zh_Hans wife_netorare_storyline_89_76b2fe88:
 translate zh_Hans wife_netorare_storyline_89_3c78098d:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_pic_703}"
-    nvljenna "{a=show:show_chat_media}{image=wife_pic_703}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:2145
 translate zh_Hans wife_netorare_storyline_89_c2f07dbe:
@@ -4310,7 +4310,7 @@ translate zh_Hans wife_netorare_storyline_89_651b30e6:
 translate zh_Hans wife_netorare_storyline_89_d3b91ca8:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_pic_704}"
-    nvljenna "{a=show:show_chat_media}{image=wife_pic_704}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:2199
 translate zh_Hans wife_netorare_storyline_89_72d7cea7:
@@ -4432,7 +4432,7 @@ translate zh_Hans wife_netorare_storyline_90_23f6b055:
 translate zh_Hans wife_netorare_storyline_90_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:2270
 translate zh_Hans wife_netorare_storyline_90_29e3cfcb:
@@ -4528,7 +4528,7 @@ translate zh_Hans wife_netorare_storyline_90_714db45e:
 translate zh_Hans wife_netorare_storyline_90_f75b28c0:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_151_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_151_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:2306
 translate zh_Hans wife_netorare_storyline_90_afa257a8:
@@ -4600,7 +4600,7 @@ translate zh_Hans wife_netorare_storyline_90_d8181d24:
 translate zh_Hans wife_netorare_storyline_90_a1af5f40:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_152_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_152_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:2334
 translate zh_Hans wife_netorare_storyline_90_1237ae91:
@@ -4666,7 +4666,7 @@ translate zh_Hans wife_netorare_storyline_90_9054249f:
 translate zh_Hans wife_netorare_storyline_90_b48d8a39:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_153_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_153_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:2360
 translate zh_Hans wife_netorare_storyline_90_d12b44bf:
@@ -4690,7 +4690,7 @@ translate zh_Hans wife_netorare_storyline_90_9a701547:
 translate zh_Hans wife_netorare_storyline_90_fbc8fe60_1:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:2368
 translate zh_Hans wife_netorare_storyline_90_51cf9815:
@@ -4800,7 +4800,7 @@ translate zh_Hans wife_netorare_storyline_91_1b83f4d6:
 translate zh_Hans wife_netorare_storyline_91_c4247882:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_154_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_154_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:2441
 translate zh_Hans wife_netorare_storyline_91_000a3087:
@@ -4860,7 +4860,7 @@ translate zh_Hans wife_netorare_storyline_91_59a9d6af:
 translate zh_Hans wife_netorare_storyline_91_2b991cbc:
 
     # nvlwife "❤️"
-    nvlwife "❤️|❤️"
+    nvlwife "❤️|"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:2461
 translate zh_Hans wife_netorare_storyline_91_cbf02b6e:
@@ -4970,7 +4970,7 @@ translate zh_Hans wife_netorare_storyline_92_0a82aca2:
 translate zh_Hans wife_netorare_storyline_92_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:2530
 translate zh_Hans wife_netorare_storyline_92_4cb758cf:
@@ -5114,7 +5114,7 @@ translate zh_Hans wife_netorare_storyline_92_53c71d7c:
 translate zh_Hans wife_netorare_storyline_92_after_cbb9e9e7:
 
     # mc "{i}Strange"
-    mc "{i}Strange"
+    mc ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:2603
 translate zh_Hans wife_netorare_storyline_92_after_9a2471c8:
@@ -5508,7 +5508,7 @@ translate zh_Hans wife_netorare_storyline_94_41a8bd30:
 translate zh_Hans wife_netorare_storyline_94_f185f6fd:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_24_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_24_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:2791
 translate zh_Hans wife_netorare_storyline_94_860b4474_1:
@@ -5532,7 +5532,7 @@ translate zh_Hans wife_netorare_storyline_94_ba8c927d:
 translate zh_Hans wife_netorare_storyline_94_11a01d56:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_25_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_25_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:2803
 translate zh_Hans wife_netorare_storyline_94_eb98efba:
@@ -5562,7 +5562,7 @@ translate zh_Hans wife_netorare_storyline_94_5d674d2c:
 translate zh_Hans wife_netorare_storyline_94_f08c5f79:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_25_1_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_25_1_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:2817
 translate zh_Hans wife_netorare_storyline_94_56f0f9d4:
@@ -5586,7 +5586,7 @@ translate zh_Hans wife_netorare_storyline_94_67c68783:
 translate zh_Hans wife_netorare_storyline_94_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:2825
 translate zh_Hans wife_netorare_storyline_94_b791fa36:
@@ -5636,7 +5636,7 @@ translate zh_Hans wife_netorare_storyline_95_5f5145f9:
     # nvl clear
     # nvljenna "How are you doing, Mr [mc_name_is]?"
     nvl clear
-    nvljenna "您好，[mc_name_is]先生？"
+    nvljenna "你好，[mc_name_is]先生？"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:2874
 translate zh_Hans wife_netorare_storyline_95_4a4280df:
@@ -6468,7 +6468,7 @@ translate zh_Hans wife_netorare_storyline_97_3cfc905b:
 translate zh_Hans wife_netorare_storyline_97_500e3c47:
 
     # nvlunknown "We are sure you will succeed"
-    nvlunknown "我们相信您会成功的"
+    nvlunknown "我们相信你会成功的"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:3229
 translate zh_Hans wife_netorare_storyline_97_b5669222:
@@ -6808,7 +6808,7 @@ translate zh_Hans wife_netorare_storyline_99_9fd7fc65:
 translate zh_Hans wife_netorare_storyline_99_1b648011:
 
     # nvlunknown "{a=show:show_chat_media}{image=wife_video_155_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=wife_video_155_ns}|{a=show:show_chat_media}{image=wife_video_155_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=wife_video_155_ns}|"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:3418
 translate zh_Hans wife_netorare_storyline_99_c248507c:
@@ -6826,7 +6826,7 @@ translate zh_Hans wife_netorare_storyline_99_ced0c4bd:
 translate zh_Hans wife_netorare_storyline_99_162e254c:
 
     # nvlunknown "{a=show:show_chat_media}{image=wife_video_156_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=wife_video_156_ns}|{a=show:show_chat_media}{image=wife_video_156_ns}"
+    nvlunknown "{a=show:show_chat_media}{image=wife_video_156_ns}|"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:3428
 translate zh_Hans wife_netorare_storyline_99_a900fa90:
@@ -7106,7 +7106,7 @@ translate zh_Hans wife_netorare_storyline_101_aa420507:
 translate zh_Hans wife_netorare_storyline_101_0831b5d0:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_159_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_159_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:3606
 translate zh_Hans wife_netorare_storyline_101_4b751fbb:
@@ -7438,7 +7438,7 @@ translate zh_Hans wife_netorare_storyline_102_f1e8e647:
 translate zh_Hans wife_netorare_storyline_102_07e81652:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_155_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_155_ns}|{a=show:show_chat_media}{image=wife_video_155_ns}"
+    nvljenna "{a=show:show_chat_media}{image=wife_video_155_ns}|"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:3757
 translate zh_Hans wife_netorare_storyline_102_7e781e5d:
@@ -7456,7 +7456,7 @@ translate zh_Hans wife_netorare_storyline_102_c9240209:
 translate zh_Hans wife_netorare_storyline_102_a75cb6ff:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_156_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_156_ns}|{a=show:show_chat_media}{image=wife_video_156_ns}"
+    nvljenna "{a=show:show_chat_media}{image=wife_video_156_ns}|"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:3765
 translate zh_Hans wife_netorare_storyline_102_bef87c18:
@@ -7522,7 +7522,7 @@ translate zh_Hans wife_netorare_storyline_102_bb69d308:
 translate zh_Hans wife_netorare_storyline_102_6a12772d:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_157_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_157_ns}|{a=show:show_chat_media}{image=wife_video_157_ns}"
+    nvljenna "{a=show:show_chat_media}{image=wife_video_157_ns}|"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:3791
 translate zh_Hans wife_netorare_storyline_102_4ad63fa0:
@@ -7540,7 +7540,7 @@ translate zh_Hans wife_netorare_storyline_102_5791185f:
 translate zh_Hans wife_netorare_storyline_102_e87a983c:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_158_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_158_ns}|{a=show:show_chat_media}{image=wife_video_158_ns}"
+    nvljenna "{a=show:show_chat_media}{image=wife_video_158_ns}|"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:3801
 translate zh_Hans wife_netorare_storyline_102_24f72432_1:
@@ -7696,7 +7696,7 @@ translate zh_Hans wife_netorare_storyline_102_722533ae:
 translate zh_Hans wife_netorare_storyline_102_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:3853
 translate zh_Hans wife_netorare_storyline_102_0bf3e713:
@@ -7938,7 +7938,7 @@ translate zh_Hans wife_netorare_storyline_103_dc645139:
 translate zh_Hans wife_netorare_storyline_103_48cb86a0:
 
     # nvljohn "I'm fine. How about you?"
-    nvljohn "我很好。您呢？"
+    nvljohn "我很好。你呢？"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:3979
 translate zh_Hans wife_netorare_storyline_103_0c78bac0:
@@ -8138,7 +8138,7 @@ translate zh_Hans wife_netorare_storyline_104_1f4ae242:
 translate zh_Hans wife_netorare_storyline_104_266269d6:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_160_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_160_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:4082
 translate zh_Hans wife_netorare_storyline_104_ec25fcd4:
@@ -8596,7 +8596,7 @@ translate zh_Hans wife_netorare_storyline_106_76b2fe88:
 translate zh_Hans wife_netorare_storyline_106_bbd597b3:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_161_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_161_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:4318
 translate zh_Hans wife_netorare_storyline_106_33e96bb0:
@@ -8620,7 +8620,7 @@ translate zh_Hans wife_netorare_storyline_106_77967750:
 translate zh_Hans wife_netorare_storyline_106_7fb622da:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_162_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_162_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:4330
 translate zh_Hans wife_netorare_storyline_106_823acc3b:
@@ -8734,7 +8734,7 @@ translate zh_Hans wife_netorare_storyline_106_cd06ebe2:
 translate zh_Hans wife_netorare_storyline_106_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:4368
 translate zh_Hans wife_netorare_storyline_106_183d942b:
@@ -9386,7 +9386,7 @@ translate zh_Hans wife_netorare_storyline_108_9f8fedac:
 translate zh_Hans wife_netorare_storyline_108_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:4648
 translate zh_Hans wife_netorare_storyline_108_c67e22e2:
@@ -9580,7 +9580,7 @@ translate zh_Hans wife_netorare_storyline_109_86c912a5:
 translate zh_Hans wife_netorare_storyline_109_2b991cbc:
 
     # nvlwife "❤️"
-    nvlwife "❤️|❤️"
+    nvlwife "❤️|"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:4745
 translate zh_Hans wife_netorare_storyline_109_b830be31:
@@ -9676,7 +9676,7 @@ translate zh_Hans wife_netorare_storyline_109_619375fc:
 translate zh_Hans wife_netorare_storyline_109_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:4777
 translate zh_Hans wife_netorare_storyline_109_e5a7d95f:
@@ -9726,7 +9726,7 @@ translate zh_Hans wife_netorare_storyline_110_469e7045:
 translate zh_Hans wife_netorare_storyline_110_30ee1146:
 
     # nvlunknown "How did you sleep?"
-    nvlunknown "您睡得好吗？"
+    nvlunknown "你睡得好吗？"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:4826
 translate zh_Hans wife_netorare_storyline_110_0a68964a:
@@ -9798,7 +9798,7 @@ translate zh_Hans wife_netorare_storyline_110_b2f20007:
 translate zh_Hans wife_netorare_storyline_110_7921993e:
 
     # nvlunknown "{a=show:show_chat_media}{image=wife_pic_705}"
-    nvlunknown "{a=show:show_chat_media}{image=wife_pic_705}"
+    nvlunknown ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:4854
 translate zh_Hans wife_netorare_storyline_110_995ea75d:
@@ -9978,7 +9978,7 @@ translate zh_Hans wife_netorare_storyline_110_2511e648:
 translate zh_Hans wife_netorare_storyline_110_98126212:
 
     # nvlunknown "Have a good day, Mr [mc_name_is]"
-    nvlunknown "祝您有愉快的一天，[mc_name_is]先生。"
+    nvlunknown "祝你有愉快的一天，[mc_name_is]先生。"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:4926
 translate zh_Hans wife_netorare_storyline_110_53c71d7c:
@@ -10280,7 +10280,7 @@ translate zh_Hans wife_netorare_storyline_111_4fe5aa2c:
 translate zh_Hans wife_netorare_storyline_111_ac362dfb:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_163_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_163_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:5063
 translate zh_Hans wife_netorare_storyline_111_7e781e5d:
@@ -10304,7 +10304,7 @@ translate zh_Hans wife_netorare_storyline_111_009330cd:
 translate zh_Hans wife_netorare_storyline_111_366f6c2c:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_164_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_164_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:5075
 translate zh_Hans wife_netorare_storyline_111_68abe614:
@@ -10322,7 +10322,7 @@ translate zh_Hans wife_netorare_storyline_111_8b1298d6:
 translate zh_Hans wife_netorare_storyline_111_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:5081
 translate zh_Hans wife_netorare_storyline_111_7464b1e5:
@@ -10358,7 +10358,7 @@ translate zh_Hans wife_netorare_storyline_111_9dbe3e03:
 translate zh_Hans wife_netorare_storyline_111_c2aae777:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_165_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_165_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:5097
 translate zh_Hans wife_netorare_storyline_111_f8bd9bf5:
@@ -11584,7 +11584,7 @@ translate zh_Hans wife_netorare_storyline_116_76b2fe88:
 translate zh_Hans wife_netorare_storyline_116_8edcb978:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_706}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_706}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:5680
 translate zh_Hans wife_netorare_storyline_116_722ea1d3:
@@ -11868,7 +11868,7 @@ translate zh_Hans wife_netorare_storyline_117_5f5145f9:
     # nvl clear
     # nvljenna "How are you doing, Mr [mc_name_is]?"
     nvl clear
-    nvljenna "您好，[mc_name_is]先生？"
+    nvljenna "你好，[mc_name_is]先生？"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:5807
 translate zh_Hans wife_netorare_storyline_117_0f73b1dc:
@@ -12060,7 +12060,7 @@ translate zh_Hans wife_netorare_storyline_117_c46b3fb2:
 translate zh_Hans wife_netorare_storyline_117_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:5871
 translate zh_Hans wife_netorare_storyline_117_b0b553d5:
@@ -12362,7 +12362,7 @@ translate zh_Hans wife_netorare_storyline_118_4eea8597:
 translate zh_Hans wife_netorare_storyline_118_2b991cbc:
 
     # nvlwife "❤️"
-    nvlwife "❤️|❤️"
+    nvlwife "❤️|"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:6002
 translate zh_Hans wife_netorare_storyline_118_9f9113e8:
@@ -12598,7 +12598,7 @@ translate zh_Hans wife_netorare_storyline_119_26995228:
 translate zh_Hans wife_netorare_storyline_119_95538f57:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_166_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_166_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:6117
 translate zh_Hans wife_netorare_storyline_119_08977d75:
@@ -12688,7 +12688,7 @@ translate zh_Hans wife_netorare_storyline_119_425f88b6:
 translate zh_Hans wife_netorare_storyline_119_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:6147
 translate zh_Hans wife_netorare_storyline_119_289b5e01_1:
@@ -13312,7 +13312,7 @@ translate zh_Hans wife_netorare_storyline_122_335b2a82:
     # nvl clear
     # nvljenna "How's your weekend going, Mr [mc_name_is]? 😊"
     nvl clear
-    nvljenna "先生，您这周末过得可还尽兴？😊"
+    nvljenna "先生，你这周末过得可还尽兴？😊"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:6449
 translate zh_Hans wife_netorare_storyline_122_9863be3b:
@@ -13384,13 +13384,13 @@ translate zh_Hans wife_netorare_storyline_122_f8811b10:
 translate zh_Hans wife_netorare_storyline_122_4bf693c4:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_167_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_167_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:6477
 translate zh_Hans wife_netorare_storyline_122_b82b6c1b:
 
     # nvljenna "Here you, boss 😊"
-    nvljenna "老板，您要的。😊"
+    nvljenna "老板，你要的。😊"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:6479
 translate zh_Hans wife_netorare_storyline_122_da128237:
@@ -15202,7 +15202,7 @@ translate zh_Hans wife_netorare_storyline_135_c4d5f757:
 translate zh_Hans wife_netorare_storyline_135_cba793bf:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_10}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_10}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:7576
 translate zh_Hans wife_netorare_storyline_135_42a5ff49:
@@ -15578,7 +15578,7 @@ translate zh_Hans wife_netorare_storyline_137_7e37799b:
 translate zh_Hans wife_netorare_storyline_137_8c97c95f:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_57}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_57}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:7794
 translate zh_Hans wife_netorare_storyline_137_94ce6bf8:
@@ -16102,7 +16102,7 @@ translate zh_Hans wife_netorare_storyline_141_baad3c33:
 translate zh_Hans wife_netorare_storyline_141_ada2d438:
 
     # nvlson "{a=show:show_chat_media}{image=wife_video_312_ns}"
-    nvlson "{a=show:show_chat_media}{image=wife_video_312_ns}"
+    nvlson ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:8139
 translate zh_Hans wife_netorare_storyline_141_2a64190a:
@@ -16284,7 +16284,7 @@ translate zh_Hans wife_netorare_storyline_142_0148eb69:
 translate zh_Hans wife_netorare_storyline_142_82f5d8b8:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_83}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_83}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:8244
 translate zh_Hans wife_netorare_storyline_142_22446184:
@@ -16388,7 +16388,7 @@ translate zh_Hans wife_netorare_storyline_143_0984805a:
 translate zh_Hans wife_netorare_storyline_143_02a1cdd1:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_295_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_295_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:8325
 translate zh_Hans wife_netorare_storyline_143_4ce87857:
@@ -17036,7 +17036,7 @@ translate zh_Hans wife_netorare_storyline_149_7310aa21:
 translate zh_Hans wife_netorare_storyline_149_627419bb:
 
     # nvlmark "{a=show:show_chat_media}{image=wife_video_313_ns}"
-    nvlmark "{a=show:show_chat_media}{image=wife_video_313_ns}"
+    nvlmark ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:8735
 translate zh_Hans wife_netorare_storyline_149_f2ccd74b:
@@ -17180,7 +17180,7 @@ translate zh_Hans wife_netorare_storyline_150_a34eff63:
 translate zh_Hans wife_netorare_storyline_150_31cfa430:
 
     # nvlwife "Just sent another transfer to your account."
-    nvlwife "我刚刚又向您的账户转账了。"
+    nvlwife "我刚刚又向你的账户转账了。"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:8825
 translate zh_Hans wife_netorare_storyline_150_1901be4d:
@@ -17448,7 +17448,7 @@ translate zh_Hans wife_netorare_storyline_152_b2e2e3dd:
 translate zh_Hans wife_netorare_storyline_152_86a645e6:
 
     # nvlunknown7 "{a=show:show_chat_media}{image=bbc_video_104_ns}"
-    nvlunknown7 "{a=show:show_chat_media}{image=bbc_video_104_ns}"
+    nvlunknown7 ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:8985
 translate zh_Hans wife_netorare_storyline_152_39cd0b1e:
@@ -17630,7 +17630,7 @@ translate zh_Hans wife_netorare_storyline_153_d7923570:
 translate zh_Hans wife_netorare_storyline_153_3b6e47e8:
 
     # nvljohn "{a=show:show_chat_media}{image=bbc_video_104_ns}"
-    nvljohn "{a=show:show_chat_media}{image=bbc_video_104_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:9090
 translate zh_Hans wife_netorare_storyline_153_f32d3b91:
@@ -17740,7 +17740,7 @@ translate zh_Hans wife_netorare_storyline_154_2c917005:
 translate zh_Hans wife_netorare_storyline_154_3b6e47e8:
 
     # nvljohn "{a=show:show_chat_media}{image=bbc_video_104_ns}"
-    nvljohn "{a=show:show_chat_media}{image=bbc_video_104_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:9159
 translate zh_Hans wife_netorare_storyline_154_40955d19:
@@ -18208,7 +18208,7 @@ translate zh_Hans wife_netorare_storyline_157_836c6a40:
 translate zh_Hans wife_netorare_storyline_157_c4ce497f:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_440}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_440}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:9438
 translate zh_Hans wife_netorare_storyline_157_f9c3c1be:
@@ -18538,7 +18538,7 @@ translate zh_Hans wife_netorare_storyline_160_31c31836:
 translate zh_Hans wife_netorare_storyline_160_68834e58:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_25_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_25_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:9669
 translate zh_Hans wife_netorare_storyline_160_dfeecf2e:
@@ -19144,7 +19144,7 @@ translate zh_Hans wife_netorare_storyline_166_b62d5d60:
 translate zh_Hans wife_netorare_storyline_166_d7d68498:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_179_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_179_ns}|{a=show:show_chat_media}{image=wife_video_179_ns}"
+    nvljenna "{a=show:show_chat_media}{image=wife_video_179_ns}|"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:10069
 translate zh_Hans wife_netorare_storyline_166_f1bb8318:
@@ -19394,7 +19394,7 @@ translate zh_Hans wife_netorare_storyline_168_4487323d:
 translate zh_Hans wife_netorare_storyline_168_910feb23:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_179_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_179_ns}|{a=show:show_chat_media}{image=wife_video_179_ns}"
+    nvljohn "{a=show:show_chat_media}{image=wife_video_179_ns}|"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:10229
 translate zh_Hans wife_netorare_storyline_168_8daf1d6d:
@@ -20022,7 +20022,7 @@ translate zh_Hans wife_netorare_storyline_173_c2565aac:
 translate zh_Hans wife_netorare_storyline_173_8990072d:
 
     # nvlunknown7 "{a=show:show_chat_media}{image=wife_video_308_ns}"
-    nvlunknown7 "{a=show:show_chat_media}{image=wife_video_308_ns}"
+    nvlunknown7 ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:10622
 translate zh_Hans wife_netorare_storyline_173_b6617d20:
@@ -20156,7 +20156,7 @@ translate zh_Hans wife_netorare_storyline_174_9ea82a32:
 translate zh_Hans wife_netorare_storyline_174_380d4b40:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_308_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_308_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:10709
 translate zh_Hans wife_netorare_storyline_174_3b69a096:
@@ -20548,7 +20548,7 @@ translate zh_Hans wife_netorare_storyline_178_6dddd2cb:
 translate zh_Hans wife_netorare_storyline_178_e2eeed96:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_842}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_842}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:10989
 translate zh_Hans wife_netorare_storyline_178_424beae4:
@@ -21036,7 +21036,7 @@ translate zh_Hans wife_netorare_storyline_182_7aa5cee8:
 translate zh_Hans wife_netorare_storyline_182_fe54c30c:
 
     # nvlgeorge "{a=show:show_chat_media}{image=wife_video_309_ns}"
-    nvlgeorge "{a=show:show_chat_media}{image=wife_video_309_ns}"
+    nvlgeorge ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:11301
 translate zh_Hans wife_netorare_storyline_182_6c31680b:
@@ -21530,7 +21530,7 @@ translate zh_Hans wife_netorare_storyline_186_1195b465:
 translate zh_Hans wife_netorare_storyline_186_f46e9df0:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_383_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_383_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:11614
 translate zh_Hans wife_netorare_storyline_186_43d45a5c:
@@ -21908,7 +21908,7 @@ translate zh_Hans wife_netorare_storyline_189_478ad23a:
 translate zh_Hans wife_netorare_storyline_189_dae02fd3:
 
     # nvlwife "😐"
-    nvlwife "😐"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:11837
 translate zh_Hans wife_netorare_storyline_189_52d96524:
@@ -22030,7 +22030,7 @@ translate zh_Hans wife_netorare_storyline_190_c603469f:
 translate zh_Hans wife_netorare_storyline_190_caf3c0c3:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_384_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_384_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:11914
 translate zh_Hans wife_netorare_storyline_190_b3ee20b5:
@@ -22110,7 +22110,7 @@ translate zh_Hans wife_netorare_storyline_191_b320f1d2:
 translate zh_Hans wife_netorare_storyline_191_635befa2:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_384_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_384_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:11977
 translate zh_Hans wife_netorare_storyline_191_d6588144:
@@ -22542,7 +22542,7 @@ translate zh_Hans wife_netorare_storyline_194_4d218bb1:
 translate zh_Hans wife_netorare_storyline_194_def09114:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_900}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_900}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:12232
 translate zh_Hans wife_netorare_storyline_194_98f6aff8:
@@ -22700,13 +22700,13 @@ translate zh_Hans wife_netorare_storyline_195_d8f7f68a:
 translate zh_Hans wife_netorare_storyline_195_b869fdd9:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_385_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_385_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:12323
 translate zh_Hans wife_netorare_storyline_195_ec38131f:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_386_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_386_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:12327
 translate zh_Hans wife_netorare_storyline_195_fd93d581:
@@ -23412,7 +23412,7 @@ translate zh_Hans wife_netorare_storyline_201_1b83f9cc:
 translate zh_Hans wife_netorare_storyline_201_bc418839:
 
     # nvlgeorge "{a=show:show_chat_media}{image=wife_video_387_ns}"
-    nvlgeorge "{a=show:show_chat_media}{image=wife_video_387_ns}"
+    nvlgeorge ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:12761
 translate zh_Hans wife_netorare_storyline_201_13ba75c6:
@@ -23522,7 +23522,7 @@ translate zh_Hans wife_netorare_storyline_202_6d32c398:
 translate zh_Hans wife_netorare_storyline_202_74efdc93:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_901}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_901}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:12834
 translate zh_Hans wife_netorare_storyline_202_c48c973f:
@@ -23960,7 +23960,7 @@ translate zh_Hans wife_netorare_storyline_205_f2399d5b:
 translate zh_Hans wife_netorare_storyline_205_49a3e6d5:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_388_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_388_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:13083
 translate zh_Hans wife_netorare_storyline_205_48744030:
@@ -24246,13 +24246,13 @@ translate zh_Hans wife_netorare_storyline_207_96092bbb:
 translate zh_Hans wife_netorare_storyline_207_9d33e67b:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_389_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_389_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:13249
 translate zh_Hans wife_netorare_storyline_207_94da91e4:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_390_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_390_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:13253
 translate zh_Hans wife_netorare_storyline_207_2b32d0cc:
@@ -24634,7 +24634,7 @@ translate zh_Hans wife_netorare_storyline_209_3d983902:
 translate zh_Hans wife_netorare_storyline_209_af07bbe1:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_902}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_902}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:13459
 translate zh_Hans wife_netorare_storyline_209_4750c64c:
@@ -24944,7 +24944,7 @@ translate zh_Hans wife_netorare_storyline_211_b80c8295:
 translate zh_Hans wife_netorare_storyline_211_4a660918:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_391_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_391_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:13633
 translate zh_Hans wife_netorare_storyline_211_5f69810e:
@@ -25488,7 +25488,7 @@ translate zh_Hans wife_netorare_storyline_213_df9efe00:
 translate zh_Hans wife_netorare_storyline_213_3c5232ab:
 
     # nvljohn "I’ll be waiting for your message then."
-    nvljohn "那我到时候就等您的消息了。"
+    nvljohn "那我到时候就等你的消息了。"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:13899
 translate zh_Hans wife_netorare_storyline_213_3453b8a6:
@@ -25604,7 +25604,7 @@ translate zh_Hans wife_netorare_storyline_214_0717ed47:
 translate zh_Hans wife_netorare_storyline_214_46284b1d:
 
     # nvlson "Sure, thanks Dad. I’ll wait for your message."
-    nvlson "好的，谢谢爸爸。我会等您的消息。"
+    nvlson "好的，谢谢爸爸。我会等你的消息。"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:13970
 translate zh_Hans wife_netorare_storyline_214_d989e83b:
@@ -26422,19 +26422,19 @@ translate zh_Hans wife_netorare_storyline_221_46932578:
 translate zh_Hans wife_netorare_storyline_221_06020b4f:
 
     # nvlgeorge "{a=show:show_chat_media}{image=wife_pic_903}"
-    nvlgeorge "{a=show:show_chat_media}{image=wife_pic_903}"
+    nvlgeorge ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:14485
 translate zh_Hans wife_netorare_storyline_221_b1d45f4b:
 
     # nvlgeorge "{a=show:show_chat_media}{image=wife_pic_904}"
-    nvlgeorge "{a=show:show_chat_media}{image=wife_pic_904}"
+    nvlgeorge ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:14491
 translate zh_Hans wife_netorare_storyline_221_4094b878:
 
     # nvlgeorge "{a=show:show_chat_media}{image=wife_pic_905}"
-    nvlgeorge "{a=show:show_chat_media}{image=wife_pic_905}"
+    nvlgeorge ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:14495
 translate zh_Hans wife_netorare_storyline_221_9d29d641:
@@ -26706,7 +26706,7 @@ translate zh_Hans wife_netorare_storyline_223_673be979:
 translate zh_Hans wife_netorare_storyline_223_bf05fc24:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_392_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_392_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:14653
 translate zh_Hans wife_netorare_storyline_223_330c8cdf:
@@ -26754,7 +26754,7 @@ translate zh_Hans wife_netorare_storyline_223_3532b83a:
 translate zh_Hans wife_netorare_storyline_223_b8a3dd22:
 
     # nvljenna "🤫🤐"
-    nvljenna "🤫🤐"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:14669
 translate zh_Hans wife_netorare_storyline_223_d60fe4c6:
@@ -26960,7 +26960,7 @@ translate zh_Hans wife_netorare_storyline_224_83a3dcfa:
 translate zh_Hans wife_netorare_storyline_224_349c0261:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_392_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_392_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:14774
 translate zh_Hans wife_netorare_storyline_224_12e97c8d:
@@ -27206,13 +27206,13 @@ translate zh_Hans wife_netorare_storyline_227_a5456f3a:
 translate zh_Hans wife_netorare_storyline_227_709e3973:
 
     # nvlunknown "We have something that may interest you."
-    nvlunknown "我们这里有些东西，或许能引起您的兴趣。"
+    nvlunknown "我们这里有些东西，或许能引起你的兴趣。"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:14955
 translate zh_Hans wife_netorare_storyline_227_f0f186c3:
 
     # nvlunknown "{a=show:show_chat_media}{image=wife_video_394_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=wife_video_394_ns}"
+    nvlunknown ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:14959
 translate zh_Hans wife_netorare_storyline_227_39cd0b1e:
@@ -27236,7 +27236,7 @@ translate zh_Hans wife_netorare_storyline_227_99b6e9a5:
 translate zh_Hans wife_netorare_storyline_227_26c05873:
 
     # nvlunknown "I understand your confusion, sir."
-    nvlunknown "先生，我明白您的困惑。"
+    nvlunknown "先生，我明白你的困惑。"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:14967
 translate zh_Hans wife_netorare_storyline_227_439afe74:
@@ -27248,13 +27248,13 @@ translate zh_Hans wife_netorare_storyline_227_439afe74:
 translate zh_Hans wife_netorare_storyline_227_ce4cfd01:
 
     # nvlunknown "But if you connect a few dots…"
-    nvlunknown "但如果您能把这些线索串联起来……"
+    nvlunknown "但如果你能把这些线索串联起来……"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:14971
 translate zh_Hans wife_netorare_storyline_227_b695e58b:
 
     # nvlunknown "You may realise why this was sent to you."
-    nvlunknown "您或许就能明白，为何会收到这份“礼物”了。"
+    nvlunknown "你或许就能明白，为何会收到这份“礼物”了。"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:14973
 translate zh_Hans wife_netorare_storyline_227_6759ffdf:
@@ -27302,7 +27302,7 @@ translate zh_Hans wife_netorare_storyline_227_84c97685:
 translate zh_Hans wife_netorare_storyline_227_440e9800:
 
     # nvlunknown "Have a pleasant afternoon, Mr [mc_name_is]."
-    nvlunknown "祝您下午愉快，[mc_name_is]先生。"
+    nvlunknown "祝你下午愉快，[mc_name_is]先生。"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:14989
 translate zh_Hans wife_netorare_storyline_227_60bb5741:
@@ -27340,7 +27340,7 @@ translate zh_Hans wife_netorare_storyline_228_3e97d847:
 translate zh_Hans wife_netorare_storyline_228_2d11c794:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_394_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_394_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:15038
 translate zh_Hans wife_netorare_storyline_228_1408f3e4:
@@ -28126,7 +28126,7 @@ translate zh_Hans wife_netorare_storyline_234_e303e3af:
 translate zh_Hans wife_netorare_storyline_234_011005a8:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_395_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_395_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:15498
 translate zh_Hans wife_netorare_storyline_234_2b0fe218:
@@ -28144,7 +28144,7 @@ translate zh_Hans wife_netorare_storyline_234_d28800e3:
 translate zh_Hans wife_netorare_storyline_234_4cda724b:
 
     # nvlwife "{a=show:show_chat_media}{image=carolina_pic_1}"
-    nvlwife "{a=show:show_chat_media}{image=carolina_pic_1}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:15508
 translate zh_Hans wife_netorare_storyline_234_4c93c163:
@@ -29194,7 +29194,7 @@ translate zh_Hans wife_netorare_storyline_240_393e7bdf:
 translate zh_Hans wife_netorare_storyline_240_b7a468a2:
 
     # nvlcarolina "{a=show:show_chat_media}{image=carolina_pic_2}"
-    nvlcarolina "{a=show:show_chat_media}{image=carolina_pic_2}"
+    nvlcarolina ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:16068
 translate zh_Hans wife_netorare_storyline_240_eb63a5ab:
@@ -29958,7 +29958,7 @@ translate zh_Hans wife_netorare_storyline_245_673be979:
 translate zh_Hans wife_netorare_storyline_245_4cdf74b8:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_pic_906}"
-    nvljenna "{a=show:show_chat_media}{image=wife_pic_906}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:16497
 translate zh_Hans wife_netorare_storyline_245_f9663046:
@@ -29994,7 +29994,7 @@ translate zh_Hans wife_netorare_storyline_245_00e72869:
 translate zh_Hans wife_netorare_storyline_245_a84b9a00:
 
     # nvljenna "🤐"
-    nvljenna "🤐"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:16509
 translate zh_Hans wife_netorare_storyline_245_02e2a51a:
@@ -30382,7 +30382,7 @@ translate zh_Hans wife_netorare_storyline_248_24aaeddd:
 translate zh_Hans wife_netorare_storyline_248_2e5dcc9d:
 
     # nvlgeorge "{a=show:show_chat_media}{image=wife_video_396_ns}"
-    nvlgeorge "{a=show:show_chat_media}{image=wife_video_396_ns}"
+    nvlgeorge ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:16740
 translate zh_Hans wife_netorare_storyline_248_09c1ab4e:
@@ -30794,7 +30794,7 @@ translate zh_Hans wife_netorare_storyline_250_24aaeddd:
 translate zh_Hans wife_netorare_storyline_250_559a9746:
 
     # nvlgeorge "{a=show:show_chat_media}{image=wife_video_397_ns}"
-    nvlgeorge "{a=show:show_chat_media}{image=wife_video_397_ns}"
+    nvlgeorge ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:16946
 translate zh_Hans wife_netorare_storyline_250_137f4731:
@@ -31068,7 +31068,7 @@ translate zh_Hans wife_netorare_storyline_252_5e8be801:
 translate zh_Hans wife_netorare_storyline_252_85b6b6c2:
 
     # nvljohn "Levar ela pra onde?"
-    nvljohn "Levar ela pra onde?"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:17104
 translate zh_Hans wife_netorare_storyline_252_eac0587a:
@@ -31146,7 +31146,7 @@ translate zh_Hans wife_netorare_storyline_252_6908c8bf:
 translate zh_Hans wife_netorare_storyline_252_549e2398:
 
     # nvlcarolina "{a=show:show_chat_media}{image=carolina_pic_3}"
-    nvlcarolina "{a=show:show_chat_media}{image=carolina_pic_3}"
+    nvlcarolina ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:17134
 translate zh_Hans wife_netorare_storyline_252_ebd40fa1:
@@ -31458,7 +31458,7 @@ translate zh_Hans wife_netorare_storyline_255_eca61e5f:
 translate zh_Hans wife_netorare_storyline_255_845b1c41:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_398_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_398_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:17339
 translate zh_Hans wife_netorare_storyline_255_aac29121:
@@ -31476,7 +31476,7 @@ translate zh_Hans wife_netorare_storyline_255_c0cf8c4f:
 translate zh_Hans wife_netorare_storyline_255_bdf0ef5d:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_399_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_399_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:17349
 translate zh_Hans wife_netorare_storyline_255_539e2c31:
@@ -31828,7 +31828,7 @@ translate zh_Hans wife_netorare_storyline_257_b9800dfc:
 translate zh_Hans wife_netorare_storyline_257_a0b22e4c:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_400_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_400_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:17545
 translate zh_Hans wife_netorare_storyline_257_2b21232d:
@@ -32066,7 +32066,7 @@ translate zh_Hans wife_netorare_storyline_259_70eb1a91:
 translate zh_Hans wife_netorare_storyline_259_3786eb76:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_401_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_401_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:17693
 translate zh_Hans wife_netorare_storyline_259_e0ba697d:
@@ -32638,7 +32638,7 @@ translate zh_Hans wife_netorare_storyline_263_047463ee:
 translate zh_Hans wife_netorare_storyline_263_c3ac85e8:
 
     # nvlcarolina "{a=show:show_chat_media}{image=carolina_pic_4}"
-    nvlcarolina "{a=show:show_chat_media}{image=carolina_pic_4}"
+    nvlcarolina ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:18017
 translate zh_Hans wife_netorare_storyline_263_8abaf534:
@@ -33136,7 +33136,7 @@ translate zh_Hans wife_netorare_storyline_266_2da9c7f8:
 translate zh_Hans wife_netorare_storyline_266_213f72d2:
 
     # nvlcarolina "{a=show:show_chat_media}{image=carolina_pic_5}"
-    nvlcarolina "{a=show:show_chat_media}{image=carolina_pic_5}"
+    nvlcarolina ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:18284
 translate zh_Hans wife_netorare_storyline_266_38a4edee:
@@ -33646,7 +33646,7 @@ translate zh_Hans wife_netorare_storyline_269_34b4367e:
 translate zh_Hans wife_netorare_storyline_269_8a3e0f87:
 
     # nvlcarolina "{a=show:show_chat_media}{image=carolina_pic_6}"
-    nvlcarolina "{a=show:show_chat_media}{image=carolina_pic_6}"
+    nvlcarolina ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:18557
 translate zh_Hans wife_netorare_storyline_269_584ef9a2:
@@ -33860,7 +33860,7 @@ translate zh_Hans wife_netorare_storyline_271_71e21ec3:
 translate zh_Hans wife_netorare_storyline_271_692d1822:
 
     # nvlcarolina "{a=show:show_chat_media}{image=carolina_video_1_ns}"
-    nvlcarolina "{a=show:show_chat_media}{image=carolina_video_1_ns}"
+    nvlcarolina ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:18699
 translate zh_Hans wife_netorare_storyline_271_4499c485:
@@ -33920,7 +33920,7 @@ translate zh_Hans wife_netorare_storyline_271_8e78f215:
 translate zh_Hans wife_netorare_storyline_271_00855ff3:
 
     # nvlcarolina "{a=show:show_chat_media}{image=carolina_video_2_ns}"
-    nvlcarolina "{a=show:show_chat_media}{image=carolina_video_2_ns}"
+    nvlcarolina ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:18723
 translate zh_Hans wife_netorare_storyline_271_5b283e73:
@@ -34042,7 +34042,7 @@ translate zh_Hans wife_netorare_storyline_272_928e1379:
 translate zh_Hans wife_netorare_storyline_272_e3e30372:
 
     # nvlgeorge "{a=show:show_chat_media}{image=wife_video_402_ns}"
-    nvlgeorge "{a=show:show_chat_media}{image=wife_video_402_ns}"
+    nvlgeorge ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:18800
 translate zh_Hans wife_netorare_storyline_272_437d7f7c:
@@ -34158,7 +34158,7 @@ translate zh_Hans wife_netorare_storyline_273_9f5f2049:
 translate zh_Hans wife_netorare_storyline_273_1b5dd98a:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_403_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_403_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:18875
 translate zh_Hans wife_netorare_storyline_273_00f9a6ec:
@@ -34268,7 +34268,7 @@ translate zh_Hans wife_netorare_storyline_274_09f6c28a:
 translate zh_Hans wife_netorare_storyline_274_118f69ec:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_404_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_404_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:18948
 translate zh_Hans wife_netorare_storyline_274_bb1fdd0d:
@@ -34340,7 +34340,7 @@ translate zh_Hans wife_netorare_storyline_274_5180583a:
 translate zh_Hans wife_netorare_storyline_274_09d162f1:
 
     # nvljenna "😂😘"
-    nvljenna "😂😘"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:18986
 translate zh_Hans wife_netorare_storyline_274_53c71d7c:
@@ -34456,7 +34456,7 @@ translate zh_Hans wife_netorare_storyline_275_5e9a2e7c:
 translate zh_Hans wife_netorare_storyline_275_ca1f2833:
 
     # nvljohn "😏"
-    nvljohn "😏"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:19067
 translate zh_Hans wife_netorare_storyline_275_53c71d7c:
@@ -35002,7 +35002,7 @@ translate zh_Hans wife_netorare_storyline_279_8e850a6f:
     # nvl clear
     # nvlunknown "Good morning, Mr [mc_name_is]. How are you today?"
     nvl clear
-    nvlunknown "早上好，[mc_name_is]先生。您今天过得如何？"
+    nvlunknown "早上好，[mc_name_is]先生。你今天过得如何？"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:19375
 translate zh_Hans wife_netorare_storyline_279_fe0a1de1:
@@ -35014,7 +35014,7 @@ translate zh_Hans wife_netorare_storyline_279_fe0a1de1:
 translate zh_Hans wife_netorare_storyline_279_34feeaf3:
 
     # nvlunknown "First of all, congratulations on your dinner with Carolina last night."
-    nvlunknown "首先，恭喜您昨晚和卡罗莱娜共进晚餐。"
+    nvlunknown "首先，恭喜你昨晚和卡罗莱娜共进晚餐。"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:19379
 translate zh_Hans wife_netorare_storyline_279_ccd5ba20:
@@ -35032,13 +35032,13 @@ translate zh_Hans wife_netorare_storyline_279_bded6116:
 translate zh_Hans wife_netorare_storyline_279_38f0174a:
 
     # nvlunknown "And we have something you might want to see."
-    nvlunknown "而且我们这里有一些您可能会“很想”看的东西。"
+    nvlunknown "而且我们这里有一些你可能会“很想”看的东西。"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:19387
 translate zh_Hans wife_netorare_storyline_279_831e5e69:
 
     # nvlunknown "{a=show:show_chat_media}{image=carolina_video_3_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=carolina_video_3_ns}"
+    nvlunknown ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:19391
 translate zh_Hans wife_netorare_storyline_279_d9a0ced9:
@@ -35086,7 +35086,7 @@ translate zh_Hans wife_netorare_storyline_279_cd40ee04:
 translate zh_Hans wife_netorare_storyline_279_648a488d:
 
     # nvlunknown "Enjoy your day, Mr [mc_name_is]."
-    nvlunknown "祝您今天愉快，先生[mc_name_is]。"
+    nvlunknown "祝你今天愉快，先生[mc_name_is]。"
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:19407
 translate zh_Hans wife_netorare_storyline_279_f033a36b:
@@ -35244,7 +35244,7 @@ translate zh_Hans wife_netorare_storyline_280_f1be4d56:
 translate zh_Hans wife_netorare_storyline_280_10b1ad39:
 
     # nvlwife "😔"
-    nvlwife "😔"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:19492
 translate zh_Hans wife_netorare_storyline_280_39e38d10:
@@ -35416,7 +35416,7 @@ translate zh_Hans wife_netorare_storyline_282_eeb43aa2:
 translate zh_Hans wife_netorare_storyline_282_f03acf53:
 
     # nvlcarolina "{a=show:show_chat_media}{image=carolina_pic_7}"
-    nvlcarolina "{a=show:show_chat_media}{image=carolina_pic_7}"
+    nvlcarolina ""
 
 # game/scripts/dialogues/wife/wife_netorare_storyline.rpy:19618
 translate zh_Hans wife_netorare_storyline_282_481e722f:

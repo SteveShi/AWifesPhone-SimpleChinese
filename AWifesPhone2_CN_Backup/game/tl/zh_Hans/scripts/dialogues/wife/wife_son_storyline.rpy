@@ -326,7 +326,7 @@ translate zh_Hans wife_son_storyline_51_065dc78a:
 translate zh_Hans wife_son_storyline_51_640c2e2a:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_669}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_669}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_son_storyline.rpy:192
 translate zh_Hans wife_son_storyline_51_e327f253:
@@ -344,7 +344,7 @@ translate zh_Hans wife_son_storyline_51_9d01e3d0:
 translate zh_Hans wife_son_storyline_51_adcc51e9:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_670}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_670}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_son_storyline.rpy:202
 translate zh_Hans wife_son_storyline_51_262a136c:
@@ -386,7 +386,7 @@ translate zh_Hans wife_son_storyline_51_526c7ce9:
 translate zh_Hans wife_son_storyline_51_a2ab843f:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_671}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_671}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_son_storyline.rpy:220
 translate zh_Hans wife_son_storyline_51_bfb3efdf:
@@ -614,7 +614,7 @@ translate zh_Hans wife_son_storyline_51_b41a818b:
 translate zh_Hans wife_son_storyline_51_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/wife/wife_son_storyline.rpy:296
 translate zh_Hans wife_son_storyline_51_80324795:
@@ -1176,7 +1176,7 @@ translate zh_Hans wife_son_storyline_53_9c17d13e:
 translate zh_Hans wife_son_storyline_53_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_son_storyline.rpy:544
 translate zh_Hans wife_son_storyline_53_8a1be447:
@@ -1244,7 +1244,7 @@ translate zh_Hans wife_son_storyline_54_3907db81:
     # nvl clear
     # nvljenna "How are you, Mr [mc_name_is]?"
     nvl clear
-    nvljenna "您好，[mc_name_is]先生？"
+    nvljenna "你好，[mc_name_is]先生？"
 
 # game/scripts/dialogues/wife/wife_son_storyline.rpy:597
 translate zh_Hans wife_son_storyline_54_e73f8cc8:
@@ -1310,7 +1310,7 @@ translate zh_Hans wife_son_storyline_54_714db45e:
 translate zh_Hans wife_son_storyline_54_ffc805ae:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_142_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_142_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_son_storyline.rpy:623
 translate zh_Hans wife_son_storyline_54_e32034dd:
@@ -1418,7 +1418,7 @@ translate zh_Hans wife_son_storyline_54_6985ebad:
 translate zh_Hans wife_son_storyline_54_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/wife/wife_son_storyline.rpy:659
 translate zh_Hans wife_son_storyline_54_f0b182a5:
@@ -1854,13 +1854,13 @@ translate zh_Hans wife_son_storyline_56_9b0d8cdc:
 translate zh_Hans wife_son_storyline_56_d0a415ae:
 
     # nvlson "{a=show:show_chat_media}{image=wife_pic_672}"
-    nvlson "{a=show:show_chat_media}{image=wife_pic_672}"
+    nvlson ""
 
 # game/scripts/dialogues/wife/wife_son_storyline.rpy:886
 translate zh_Hans wife_son_storyline_56_614b3643:
 
     # nvlson "{a=show:show_chat_media}{image=wife_pic_673}"
-    nvlson "{a=show:show_chat_media}{image=wife_pic_673}"
+    nvlson ""
 
 # game/scripts/dialogues/wife/wife_son_storyline.rpy:890
 translate zh_Hans wife_son_storyline_56_227c4ecd:
@@ -1896,7 +1896,7 @@ translate zh_Hans wife_son_storyline_56_9c63e076:
 translate zh_Hans wife_son_storyline_56_67fc49d1:
 
     # nvlson "{a=show:show_chat_media}{image=wife_pic_674}"
-    nvlson "{a=show:show_chat_media}{image=wife_pic_674}"
+    nvlson ""
 
 # game/scripts/dialogues/wife/wife_son_storyline.rpy:906
 translate zh_Hans wife_son_storyline_56_9b680f22:
@@ -2258,7 +2258,7 @@ translate zh_Hans wife_son_storyline_57_bd1407bd:
 translate zh_Hans wife_son_storyline_57_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/wife/wife_son_storyline.rpy:1057
 translate zh_Hans wife_son_storyline_57_0bd3af0f:
@@ -2700,7 +2700,7 @@ translate zh_Hans wife_son_storyline_59_aedeb9ca:
 translate zh_Hans wife_son_storyline_59_bd44eaf9:
 
     # nvlunknown "{a=show:show_chat_media}{image=wife_pic_474}"
-    nvlunknown "{a=show:show_chat_media}{image=wife_pic_474}"
+    nvlunknown ""
 
 # game/scripts/dialogues/wife/wife_son_storyline.rpy:1282
 translate zh_Hans wife_son_storyline_59_e8c87606:
@@ -2924,7 +2924,7 @@ translate zh_Hans wife_son_storyline_60_cc820ceb:
 translate zh_Hans wife_son_storyline_60_0282f596:
 
     # nvlson "{a=show:show_chat_media}{image=wife_pic_675}"
-    nvlson "{a=show:show_chat_media}{image=wife_pic_675}"
+    nvlson ""
 
 # game/scripts/dialogues/wife/wife_son_storyline.rpy:1391
 translate zh_Hans wife_son_storyline_60_f3cad18f:
@@ -3228,13 +3228,13 @@ translate zh_Hans wife_son_storyline_62_ad0522e0:
 translate zh_Hans wife_son_storyline_62_4f41e346:
 
     # nvlson "{a=show:show_chat_media}{image=wife_pic_676}"
-    nvlson "{a=show:show_chat_media}{image=wife_pic_676}"
+    nvlson ""
 
 # game/scripts/dialogues/wife/wife_son_storyline.rpy:1572
 translate zh_Hans wife_son_storyline_62_b8a88fc0:
 
     # nvlson "{a=show:show_chat_media}{image=wife_pic_677}"
-    nvlson "{a=show:show_chat_media}{image=wife_pic_677}"
+    nvlson ""
 
 # game/scripts/dialogues/wife/wife_son_storyline.rpy:1576
 translate zh_Hans wife_son_storyline_62_7094db07:
@@ -3670,7 +3670,7 @@ translate zh_Hans wife_son_storyline_64_1ce69ef5:
 translate zh_Hans wife_son_storyline_64_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_son_storyline.rpy:1794
 translate zh_Hans wife_son_storyline_64_53c71d7c:
@@ -3784,13 +3784,13 @@ translate zh_Hans wife_son_storyline_65_76b2fe88:
 translate zh_Hans wife_son_storyline_65_1865ec90:
 
     # nvlunknown "{a=show:show_chat_media}{image=wife_pic_476}"
-    nvlunknown "{a=show:show_chat_media}{image=wife_pic_476}"
+    nvlunknown ""
 
 # game/scripts/dialogues/wife/wife_son_storyline.rpy:1866
 translate zh_Hans wife_son_storyline_65_0b12f2b7:
 
     # nvlunknown "Another photo for you, Mr [mc_name_is]"
-    nvlunknown "先生[mc_name_is]，这是您的另一张照片。"
+    nvlunknown "先生[mc_name_is]，这是你的另一张照片。"
 
 # game/scripts/dialogues/wife/wife_son_storyline.rpy:1868
 translate zh_Hans wife_son_storyline_65_5a543029:
@@ -3808,13 +3808,13 @@ translate zh_Hans wife_son_storyline_65_03afe20d:
 translate zh_Hans wife_son_storyline_65_12d43ac3:
 
     # nvlunknown "We can't answer your question"
-    nvlunknown "我们无法回答您的问题。"
+    nvlunknown "我们无法回答你的问题。"
 
 # game/scripts/dialogues/wife/wife_son_storyline.rpy:1874
 translate zh_Hans wife_son_storyline_65_2ae6e666:
 
     # nvlunknown "Only you know the answer"
-    nvlunknown "只有您自己知道答案。"
+    nvlunknown "只有你自己知道答案。"
 
 # game/scripts/dialogues/wife/wife_son_storyline.rpy:1876
 translate zh_Hans wife_son_storyline_65_edaa2ab8:
@@ -4564,7 +4564,7 @@ translate zh_Hans wife_son_storyline_68_61de0a5f:
 translate zh_Hans wife_son_storyline_68_37ec19f6:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_678}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_678}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_son_storyline.rpy:2221
 translate zh_Hans wife_son_storyline_68_60781078:
@@ -4582,7 +4582,7 @@ translate zh_Hans wife_son_storyline_68_e47780b8:
 translate zh_Hans wife_son_storyline_68_8b2a5a81:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_679}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_679}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_son_storyline.rpy:2231
 translate zh_Hans wife_son_storyline_68_24f72432:
@@ -4862,7 +4862,7 @@ translate zh_Hans wife_son_storyline_70_e8a367cf:
 translate zh_Hans wife_son_storyline_70_7cd0e519:
 
     # nvlson "{a=show:show_chat_media}{image=wife_video_143_ns}"
-    nvlson "{a=show:show_chat_media}{image=wife_video_143_ns}"
+    nvlson ""
 
 # game/scripts/dialogues/wife/wife_son_storyline.rpy:2393
 translate zh_Hans wife_son_storyline_70_f83084c1:
@@ -5358,7 +5358,7 @@ translate zh_Hans wife_son_storyline_72_3907db81:
     # nvl clear
     # nvljenna "How are you, Mr [mc_name_is]?"
     nvl clear
-    nvljenna "您好，[mc_name_is]先生？"
+    nvljenna "你好，[mc_name_is]先生？"
 
 # game/scripts/dialogues/wife/wife_son_storyline.rpy:2619
 translate zh_Hans wife_son_storyline_72_564d9626:
@@ -5562,13 +5562,13 @@ translate zh_Hans wife_son_storyline_72_9bf50808:
 translate zh_Hans wife_son_storyline_72_475d09e0:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_pic_680}"
-    nvljenna "{a=show:show_chat_media}{image=wife_pic_680}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_son_storyline.rpy:2693
 translate zh_Hans wife_son_storyline_72_1be60254:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_pic_681}"
-    nvljenna "{a=show:show_chat_media}{image=wife_pic_681}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_son_storyline.rpy:2697
 translate zh_Hans wife_son_storyline_72_0870c289:
@@ -5586,7 +5586,7 @@ translate zh_Hans wife_son_storyline_72_6e41c4db:
 translate zh_Hans wife_son_storyline_72_fdee4987:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_pic_682}"
-    nvljenna "{a=show:show_chat_media}{image=wife_pic_682}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_son_storyline.rpy:2707
 translate zh_Hans wife_son_storyline_72_93c97c0a:
@@ -5616,7 +5616,7 @@ translate zh_Hans wife_son_storyline_72_b53084b8:
 translate zh_Hans wife_son_storyline_72_df31e9cf:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_pic_683}"
-    nvljenna "{a=show:show_chat_media}{image=wife_pic_683}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_son_storyline.rpy:2721
 translate zh_Hans wife_son_storyline_72_99051836:
@@ -5880,7 +5880,7 @@ translate zh_Hans wife_son_storyline_72_76ff1683:
 translate zh_Hans wife_son_storyline_72_3a1280a4:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_pic_684}"
-    nvljenna "{a=show:show_chat_media}{image=wife_pic_684}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_son_storyline.rpy:2813
 translate zh_Hans wife_son_storyline_72_190b81cd:

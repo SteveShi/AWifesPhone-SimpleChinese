@@ -18,7 +18,7 @@ translate zh_Hans wife_pupil_storyline_66_c4c84c20:
 translate zh_Hans wife_pupil_storyline_66_bb4ee0cc:
 
     # nvleric_father "I hope you are doing well"
-    nvleric_father "希望您一切都好"
+    nvleric_father "希望你一切都好"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:54
 translate zh_Hans wife_pupil_storyline_66_ba6ac3d6:
@@ -30,25 +30,25 @@ translate zh_Hans wife_pupil_storyline_66_ba6ac3d6:
 translate zh_Hans wife_pupil_storyline_66_f1c94e43:
 
     # nvlwife "I'm fine. How about you?"
-    nvlwife "我很好。您呢？"
+    nvlwife "我很好。你呢？"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:58
 translate zh_Hans wife_pupil_storyline_66_09bca206:
 
     # nvleric_father "I'm doing great, thanks, Ms [wife_name_is]"
-    nvleric_father "我很好，谢谢您，[wife_name_is]女士。"
+    nvleric_father "我很好，谢谢你，[wife_name_is]女士。"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:60
 translate zh_Hans wife_pupil_storyline_66_202b8edc:
 
     # nvleric_father "I decided to text you to talk about my son's further education"
-    nvleric_father "我决定给您发信息，是想和您谈谈我儿子的后续教育问题。"
+    nvleric_father "我决定给你发信息，是想和你谈谈我儿子的后续教育问题。"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:62
 translate zh_Hans wife_pupil_storyline_66_214297a4:
 
     # nvlwife "Is there something bothering you?"
-    nvlwife "有什么事让您烦恼吗？"
+    nvlwife "有什么事让你烦恼吗？"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:64
 translate zh_Hans wife_pupil_storyline_66_7ac51de6:
@@ -60,7 +60,7 @@ translate zh_Hans wife_pupil_storyline_66_7ac51de6:
 translate zh_Hans wife_pupil_storyline_66_b8e74c10:
 
     # nvleric_father "I am concerned that Eric does not want to continue studying with you"
-    nvleric_father "我担心埃里克不想继续跟您学习了。"
+    nvleric_father "我担心埃里克不想继续跟你学习了。"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:68
 translate zh_Hans wife_pupil_storyline_66_1ff4c84d:
@@ -84,7 +84,7 @@ translate zh_Hans wife_pupil_storyline_66_c4ac3b81:
 translate zh_Hans wife_pupil_storyline_66_36b38c0f:
 
     # nvlwife "That he did not want me to come to you anymore"
-    nvlwife "他说他不想让我再来找您了。"
+    nvlwife "他说他不想让我再来找你了。"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:76
 translate zh_Hans wife_pupil_storyline_66_ff7b08e6:
@@ -102,7 +102,7 @@ translate zh_Hans wife_pupil_storyline_66_8659cd20:
 translate zh_Hans wife_pupil_storyline_66_8703eb0b:
 
     # nvlwife "But it is good that you talked to him and persuaded him"
-    nvlwife "不过，您能和他谈谈并说服他，真是太好了。"
+    nvlwife "不过，你能和他谈谈并说服他，真是太好了。"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:82
 translate zh_Hans wife_pupil_storyline_66_1beed45c:
@@ -114,7 +114,7 @@ translate zh_Hans wife_pupil_storyline_66_1beed45c:
 translate zh_Hans wife_pupil_storyline_66_04062d51:
 
     # nvleric_father "Today, he again said that he does not want to continue your lessons"
-    nvleric_father "今天，他又说他不想继续上您的课了。"
+    nvleric_father "今天，他又说他不想继续上你的课了。"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:86
 translate zh_Hans wife_pupil_storyline_66_b817235b:
@@ -126,7 +126,7 @@ translate zh_Hans wife_pupil_storyline_66_b817235b:
 translate zh_Hans wife_pupil_storyline_66_f1d04f0c:
 
     # nvlwife "You could hire another tutor for him"
-    nvlwife "您可以给他另请一位家教。"
+    nvlwife "你可以给他另请一位家教。"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:90
 translate zh_Hans wife_pupil_storyline_66_6c7cdeab:
@@ -144,7 +144,7 @@ translate zh_Hans wife_pupil_storyline_66_3e019175:
 translate zh_Hans wife_pupil_storyline_66_1c958fff:
 
     # nvleric_father "Besides, I would not want your lessons to be interrupted"
-    nvleric_father "而且，我也不希望您的课程中断。"
+    nvleric_father "而且，我也不希望你的课程中断。"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:96
 translate zh_Hans wife_pupil_storyline_66_d6ac134b:
@@ -162,7 +162,7 @@ translate zh_Hans wife_pupil_storyline_66_03586868:
 translate zh_Hans wife_pupil_storyline_66_e3f45c79:
 
     # nvleric_father "Actually, I would like to talk to you in person"
-    nvleric_father "其实，我想和您当面谈谈。"
+    nvleric_father "其实，我想和你当面谈谈。"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:102
 translate zh_Hans wife_pupil_storyline_66_3532e94e:
@@ -216,19 +216,19 @@ translate zh_Hans wife_pupil_storyline_66_fa8c85b8:
 translate zh_Hans wife_pupil_storyline_66_45e61677:
 
     # nvlwife "Where do you want to meet?"
-    nvlwife "您想在哪里见面？"
+    nvlwife "你想在哪里见面？"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:120
 translate zh_Hans wife_pupil_storyline_66_62333335:
 
     # nvleric_father "If you do not mind, you can come to our place"
-    nvleric_father "如果您不介意的话，可以来我们家。"
+    nvleric_father "如果你不介意的话，可以来我们家。"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:122
 translate zh_Hans wife_pupil_storyline_66_4dbedc62:
 
     # nvleric_father "You were supposed to have a lesson with my son today anyway"
-    nvleric_father "反正您今天本来也要给我儿子上课的。"
+    nvleric_father "反正你今天本来也要给我儿子上课的。"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:124
 translate zh_Hans wife_pupil_storyline_66_d657773a:
@@ -240,7 +240,7 @@ translate zh_Hans wife_pupil_storyline_66_d657773a:
 translate zh_Hans wife_pupil_storyline_66_ccfb0abb:
 
     # nvleric_father "Whenever it is convenient for you. I will be home all day"
-    nvleric_father "您什么时候方便都行。我一整天都在家。"
+    nvleric_father "你什么时候方便都行。我一整天都在家。"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:128
 translate zh_Hans wife_pupil_storyline_66_db81be7a:
@@ -258,13 +258,13 @@ translate zh_Hans wife_pupil_storyline_66_d939ab60:
 translate zh_Hans wife_pupil_storyline_66_4ef89dc6:
 
     # nvleric_father "And thank you, Ms [wife_name_is]!"
-    nvleric_father "还有，谢谢您，[wife_name_is]女士！"
+    nvleric_father "还有，谢谢你，[wife_name_is]女士！"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:134
 translate zh_Hans wife_pupil_storyline_66_954a1793:
 
     # nvleric_father "Thank you for teaching my son"
-    nvleric_father "谢谢您教导我的儿子。"
+    nvleric_father "谢谢你教导我的儿子。"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:136
 translate zh_Hans wife_pupil_storyline_66_8523a383:
@@ -276,37 +276,37 @@ translate zh_Hans wife_pupil_storyline_66_8523a383:
 translate zh_Hans wife_pupil_storyline_66_fd977112:
 
     # nvleric_father "I am glad he has a good tutor like you"
-    nvleric_father "我很高兴他能有您这样好的家教。"
+    nvleric_father "我很高兴他能有你这样好的家教。"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:140
 translate zh_Hans wife_pupil_storyline_66_3973d0ed:
 
     # nvleric_father "It is very hard to find someone like you these days"
-    nvleric_father "现在像您这样的人才很难找了。"
+    nvleric_father "现在像你这样的人才很难找了。"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:142
 translate zh_Hans wife_pupil_storyline_66_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:144
 translate zh_Hans wife_pupil_storyline_66_a72876a4:
 
     # nvleric_father "Ok, you are probably busy now"
-    nvleric_father "好的，您现在可能很忙。"
+    nvleric_father "好的，你现在可能很忙。"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:146
 translate zh_Hans wife_pupil_storyline_66_a84a4867:
 
     # nvleric_father "I will not distract you"
-    nvleric_father "我就不打扰您了。"
+    nvleric_father "我就不打扰你了。"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:148
 translate zh_Hans wife_pupil_storyline_66_7012ef4a:
 
     # nvleric_father "If you cannot come today, please let me know in advance"
-    nvleric_father "如果您今天不能来，请提前告诉我一声。"
+    nvleric_father "如果你今天不能来，请提前告诉我一声。"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:150
 translate zh_Hans wife_pupil_storyline_66_dc75fa21:
@@ -620,7 +620,7 @@ translate zh_Hans wife_pupil_storyline_67_1760f479:
 translate zh_Hans wife_pupil_storyline_67_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:285
 translate zh_Hans wife_pupil_storyline_67_7503d460:
@@ -692,7 +692,7 @@ translate zh_Hans wife_pupil_storyline_67_d2a65515:
 translate zh_Hans wife_pupil_storyline_67_4cbc4ce4:
 
     # nvljohn ":3"
-    nvljohn ":3"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:309
 translate zh_Hans wife_pupil_storyline_67_be379275:
@@ -832,7 +832,7 @@ translate zh_Hans wife_pupil_storyline_68_9f0be641:
 translate zh_Hans wife_pupil_storyline_68_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:388
 translate zh_Hans wife_pupil_storyline_68_4933753b:
@@ -1290,7 +1290,7 @@ translate zh_Hans wife_pupil_storyline_69_012966a7:
 translate zh_Hans wife_pupil_storyline_69_f1e67511:
 
     # nvleric_father "😊"
-    nvleric_father "😊|😊"
+    nvleric_father "😊|"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:571
 translate zh_Hans wife_pupil_storyline_69_1487f917:
@@ -1550,7 +1550,7 @@ translate zh_Hans wife_pupil_storyline_70_0441cdf2:
 translate zh_Hans wife_pupil_storyline_70_9ef137e4:
 
     # nvljohn "❤️"
-    nvljohn "❤️|❤️"
+    nvljohn "❤️|"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:686
 translate zh_Hans wife_pupil_storyline_70_36f11997:
@@ -1604,7 +1604,7 @@ translate zh_Hans wife_pupil_storyline_70_b8d4056d:
 translate zh_Hans wife_pupil_storyline_70_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:704
 translate zh_Hans wife_pupil_storyline_70_01a0d15c:
@@ -1708,7 +1708,7 @@ translate zh_Hans wife_pupil_storyline_71_ad01db89:
 translate zh_Hans wife_pupil_storyline_71_a2175a6b:
 
     # nvlunknown "{a=show:show_chat_media}{image=wife_video_132_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=wife_video_132_ns}"
+    nvlunknown ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:777
 translate zh_Hans wife_pupil_storyline_71_9c476430:
@@ -1842,7 +1842,7 @@ translate zh_Hans wife_pupil_storyline_72_8de247f7:
 translate zh_Hans wife_pupil_storyline_72_719fe469:
 
     # nvleric_father "How you doing?"
-    nvleric_father "您怎么样？"
+    nvleric_father "你怎么样？"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:854
 translate zh_Hans wife_pupil_storyline_72_4f6eab5b:
@@ -1854,7 +1854,7 @@ translate zh_Hans wife_pupil_storyline_72_4f6eab5b:
 translate zh_Hans wife_pupil_storyline_72_924d6d00:
 
     # nvlwife "I hope you are good as well?"
-    nvlwife "希望您也一切都好？"
+    nvlwife "希望你也一切都好？"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:858
 translate zh_Hans wife_pupil_storyline_72_5b2e54fe:
@@ -1866,13 +1866,13 @@ translate zh_Hans wife_pupil_storyline_72_5b2e54fe:
 translate zh_Hans wife_pupil_storyline_72_46e6c2de:
 
     # nvleric_father "When can we expect you next?"
-    nvleric_father "您下次什么时候来？"
+    nvleric_father "你下次什么时候来？"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:862
 translate zh_Hans wife_pupil_storyline_72_724fa5ef:
 
     # nvleric_father "Eric was asking if you told me when you would come again"
-    nvleric_father "埃里克问我您有没有说什么时候会再来"
+    nvleric_father "埃里克问我你有没有说什么时候会再来"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:864
 translate zh_Hans wife_pupil_storyline_72_b7696ffd:
@@ -1896,7 +1896,7 @@ translate zh_Hans wife_pupil_storyline_72_01aa7f5d:
 translate zh_Hans wife_pupil_storyline_72_eff2319e:
 
     # nvlwife "Don't worry, I will continue to work with your son"
-    nvlwife "别担心，我会继续辅导您的儿子"
+    nvlwife "别担心，我会继续辅导你的儿子"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:872
 translate zh_Hans wife_pupil_storyline_72_fcc7a47d:
@@ -1920,7 +1920,7 @@ translate zh_Hans wife_pupil_storyline_72_124f0caa:
 translate zh_Hans wife_pupil_storyline_72_b9afce53:
 
     # nvleric_father "That you might want to stop tutoring"
-    nvleric_father "就是您可能会想停止辅导"
+    nvleric_father "就是你可能会想停止辅导"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:880
 translate zh_Hans wife_pupil_storyline_72_1c8b7be9:
@@ -1932,7 +1932,7 @@ translate zh_Hans wife_pupil_storyline_72_1c8b7be9:
 translate zh_Hans wife_pupil_storyline_72_2934d4a2:
 
     # nvlwife "I really enjoy teaching your son"
-    nvlwife "我真的很喜欢教您的儿子"
+    nvlwife "我真的很喜欢教你的儿子"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:884
 translate zh_Hans wife_pupil_storyline_72_1940ba94:
@@ -1962,7 +1962,7 @@ translate zh_Hans wife_pupil_storyline_72_70e32dd1:
 translate zh_Hans wife_pupil_storyline_72_1503ccaf:
 
     # nvleric_father "Well, then I will be expecting you soon"
-    nvleric_father "那好，那我很快就会等您了"
+    nvleric_father "那好，那我很快就会等你了"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:894
 translate zh_Hans wife_pupil_storyline_72_4b751fbb:
@@ -2254,7 +2254,7 @@ translate zh_Hans wife_pupil_storyline_74_4577ec08:
 translate zh_Hans wife_pupil_storyline_74_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:1052
 translate zh_Hans wife_pupil_storyline_74_d9a244b2:
@@ -2440,7 +2440,7 @@ translate zh_Hans wife_pupil_storyline_74_79d04056:
 translate zh_Hans wife_pupil_storyline_74_8cb8d6f1:
 
     # nvleric "{a=show:show_chat_media}{image=wife_pic_645}"
-    nvleric "{a=show:show_chat_media}{image=wife_pic_645}"
+    nvleric ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:1118
 translate zh_Hans wife_pupil_storyline_74_2fc3816e:
@@ -2664,7 +2664,7 @@ translate zh_Hans wife_pupil_storyline_75_111b8a2a:
 translate zh_Hans wife_pupil_storyline_75_2b188139:
 
     # nvlmaxwell "{a=show:show_chat_media}{image=bbc_pic_223}"
-    nvlmaxwell "{a=show:show_chat_media}{image=bbc_pic_223}"
+    nvlmaxwell ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:1227
 translate zh_Hans wife_pupil_storyline_75_3b0eee76:
@@ -2906,13 +2906,13 @@ translate zh_Hans wife_pupil_storyline_76_b047b1cf:
 translate zh_Hans wife_pupil_storyline_76_2bbe6e5f:
 
     # nvlabella "{a=show:show_chat_media}{image=abella_pic_41}"
-    nvlabella "{a=show:show_chat_media}{image=abella_pic_41}"
+    nvlabella ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:1344
 translate zh_Hans wife_pupil_storyline_76_430b17f2:
 
     # nvlabella "{a=show:show_chat_media}{image=abella_pic_42}"
-    nvlabella "{a=show:show_chat_media}{image=abella_pic_42}"
+    nvlabella ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:1348
 translate zh_Hans wife_pupil_storyline_76_bd95847b:
@@ -3014,7 +3014,7 @@ translate zh_Hans wife_pupil_storyline_76_4f8fed08:
 translate zh_Hans wife_pupil_storyline_76_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:1382
 translate zh_Hans wife_pupil_storyline_76_b3446f99:
@@ -3408,7 +3408,7 @@ translate zh_Hans wife_pupil_storyline_78_534d0a4a:
 translate zh_Hans wife_pupil_storyline_78_7f1848a7:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_133_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_133_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:1576
 translate zh_Hans wife_pupil_storyline_78_42c4060d:
@@ -3542,13 +3542,13 @@ translate zh_Hans wife_pupil_storyline_79_41f73948:
     # nvl clear
     # nvlunknown "How are you, Mr [mc_name_is]?"
     nvl clear
-    nvlunknown "您好，[mc_name_is]先生？"
+    nvlunknown "你好，[mc_name_is]先生？"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:1651
 translate zh_Hans wife_pupil_storyline_79_30ee1146:
 
     # nvlunknown "How did you sleep?"
-    nvlunknown "您睡得好吗？"
+    nvlunknown "你睡得好吗？"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:1653
 translate zh_Hans wife_pupil_storyline_79_9d33afed:
@@ -3572,7 +3572,7 @@ translate zh_Hans wife_pupil_storyline_79_eebdd09f:
 translate zh_Hans wife_pupil_storyline_79_99045b51:
 
     # nvlunknown "How is your wife?"
-    nvlunknown "您夫人怎么样？"
+    nvlunknown "你夫人怎么样？"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:1661
 translate zh_Hans wife_pupil_storyline_79_0905a958:
@@ -3590,7 +3590,7 @@ translate zh_Hans wife_pupil_storyline_79_dc645139:
 translate zh_Hans wife_pupil_storyline_79_69adb8f5:
 
     # nvlunknown "Do you want to see what she and her friend were up to yesterday?"
-    nvlunknown "您想看看她和她朋友昨天都做了些什么吗？"
+    nvlunknown "你想看看她和她朋友昨天都做了些什么吗？"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:1667
 translate zh_Hans wife_pupil_storyline_79_c6bf6f24:
@@ -3614,7 +3614,7 @@ translate zh_Hans wife_pupil_storyline_79_ab8e5228:
 translate zh_Hans wife_pupil_storyline_79_fb4f78cd:
 
     # nvlunknown "Videos that you will surely enjoy"
-    nvlunknown "您一定会喜欢的视频"
+    nvlunknown "你一定会喜欢的视频"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:1675
 translate zh_Hans wife_pupil_storyline_79_6fcbfb34:
@@ -3632,19 +3632,19 @@ translate zh_Hans wife_pupil_storyline_79_4840daf7:
 translate zh_Hans wife_pupil_storyline_79_6f064243:
 
     # nvlunknown "We got them just for you"
-    nvlunknown "我们就是为您准备的"
+    nvlunknown "我们就是为你准备的"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:1683
 translate zh_Hans wife_pupil_storyline_79_a85af270:
 
     # nvlunknown "{a=show:show_chat_media}{image=wife_video_134_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=wife_video_134_ns}"
+    nvlunknown ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:1689
 translate zh_Hans wife_pupil_storyline_79_779d2522:
 
     # nvlunknown "{a=show:show_chat_media}{image=abella_video_7_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=abella_video_7_ns}"
+    nvlunknown ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:1693
 translate zh_Hans wife_pupil_storyline_79_4cdc7732:
@@ -3662,7 +3662,7 @@ translate zh_Hans wife_pupil_storyline_79_36c7f284:
 translate zh_Hans wife_pupil_storyline_79_48100221:
 
     # nvlunknown "We hope you'll like it"
-    nvlunknown "希望您会喜欢"
+    nvlunknown "希望你会喜欢"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:1699
 translate zh_Hans wife_pupil_storyline_79_afd330c6:
@@ -3692,7 +3692,7 @@ translate zh_Hans wife_pupil_storyline_79_3071d1d9:
 translate zh_Hans wife_pupil_storyline_79_44441194:
 
     # nvljohn "Thank you again"
-    nvljohn "再次感谢您。"
+    nvljohn "再次感谢你。"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:1709
 translate zh_Hans wife_pupil_storyline_79_b5664cac:
@@ -3704,7 +3704,7 @@ translate zh_Hans wife_pupil_storyline_79_b5664cac:
 translate zh_Hans wife_pupil_storyline_79_a673722e:
 
     # nvlunknown "If we get anything else, we will definitely send it to you"
-    nvlunknown "如果我们有别的，一定会发给您"
+    nvlunknown "如果我们有别的，一定会发给你"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:1713
 translate zh_Hans wife_pupil_storyline_79_4cdc7732_1:
@@ -3796,13 +3796,13 @@ translate zh_Hans wife_pupil_storyline_80_8de247f7:
 translate zh_Hans wife_pupil_storyline_80_bef03f40:
 
     # nvleric_father "Sorry if I'm disturbing you"
-    nvleric_father "抱歉打扰您了"
+    nvleric_father "抱歉打扰你了"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:1791
 translate zh_Hans wife_pupil_storyline_80_d0b3f5d7:
 
     # nvleric_father "I just wanted to ask when you will come to us next time"
-    nvleric_father "我只是想问您下次什么时候过来"
+    nvleric_father "我只是想问你下次什么时候过来"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:1793
 translate zh_Hans wife_pupil_storyline_80_846d6795:
@@ -3832,7 +3832,7 @@ translate zh_Hans wife_pupil_storyline_80_0a154ecc:
 translate zh_Hans wife_pupil_storyline_80_cde8d851:
 
     # nvleric_father "I'm glad you can come tomorrow"
-    nvleric_father "很高兴您明天能来"
+    nvleric_father "很高兴你明天能来"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:1803
 translate zh_Hans wife_pupil_storyline_80_6e4d88ac:
@@ -3844,13 +3844,13 @@ translate zh_Hans wife_pupil_storyline_80_6e4d88ac:
 translate zh_Hans wife_pupil_storyline_80_0e013997:
 
     # nvleric_father "My son and I are looking forward to seeing you"
-    nvleric_father "我儿子和我都期待见到您"
+    nvleric_father "我儿子和我都期待见到你"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:1807
 translate zh_Hans wife_pupil_storyline_80_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:1821
 translate zh_Hans wife_pupil_storyline_80_53c71d7c:
@@ -3868,7 +3868,7 @@ translate zh_Hans wife_pupil_storyline_81_76b2fe88:
 translate zh_Hans wife_pupil_storyline_81_f7380e1f:
 
     # nvleric_father "{a=show:show_chat_media}{image=bbc_pic_224}"
-    nvleric_father "{a=show:show_chat_media}{image=bbc_pic_224}"
+    nvleric_father ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:1848
 translate zh_Hans wife_pupil_storyline_81_b69fb027:
@@ -3904,7 +3904,7 @@ translate zh_Hans wife_pupil_storyline_81_08d8ac63:
 translate zh_Hans wife_pupil_storyline_81_c4e74e4c:
 
     # nvleric_father "I didn't mean to send this photo to you"
-    nvleric_father "我不是故意把这张照片发给您的"
+    nvleric_father "我不是故意把这张照片发给你的"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:1860
 translate zh_Hans wife_pupil_storyline_81_c76d7db3:
@@ -4254,7 +4254,7 @@ translate zh_Hans wife_pupil_storyline_82_f95e93f7:
 translate zh_Hans wife_pupil_storyline_82_d859651a:
 
     # nvlmaxwell "😊"
-    nvlmaxwell "😊|😊"
+    nvlmaxwell "😊|"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:2007
 translate zh_Hans wife_pupil_storyline_82_c5951eb1:
@@ -4338,13 +4338,13 @@ translate zh_Hans wife_pupil_storyline_82_5885e01f:
 translate zh_Hans wife_pupil_storyline_82_3a9e4942:
 
     # nvlmaxwell "{a=show:show_chat_media}{image=khalifa_pic_69}"
-    nvlmaxwell "{a=show:show_chat_media}{image=khalifa_pic_69}"
+    nvlmaxwell ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:2041
 translate zh_Hans wife_pupil_storyline_82_12e413d1:
 
     # nvlmaxwell "{a=show:show_chat_media}{image=khalifa_pic_70}"
-    nvlmaxwell "{a=show:show_chat_media}{image=khalifa_pic_70}"
+    nvlmaxwell ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:2045
 translate zh_Hans wife_pupil_storyline_82_6fa1422d:
@@ -4436,7 +4436,7 @@ translate zh_Hans wife_pupil_storyline_83_911ac2eb:
 translate zh_Hans wife_pupil_storyline_83_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:2106
 translate zh_Hans wife_pupil_storyline_83_27efb913:
@@ -4490,7 +4490,7 @@ translate zh_Hans wife_pupil_storyline_83_b08e3e64:
 translate zh_Hans wife_pupil_storyline_83_10befb9c_1:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:2124
 translate zh_Hans wife_pupil_storyline_83_404cc8e8:
@@ -4556,7 +4556,7 @@ translate zh_Hans wife_pupil_storyline_83_673a0eeb:
 translate zh_Hans wife_pupil_storyline_83_ca377cec:
 
     # nvleric_father "{a=show:show_chat_media}{image=wife_pic_646}"
-    nvleric_father "{a=show:show_chat_media}{image=wife_pic_646}"
+    nvleric_father ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:2150
 translate zh_Hans wife_pupil_storyline_83_98f90da3:
@@ -4810,7 +4810,7 @@ translate zh_Hans wife_pupil_storyline_84_5615da9c:
 translate zh_Hans wife_pupil_storyline_84_f0f445e6:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_646}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_646}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:2267
 translate zh_Hans wife_pupil_storyline_84_a6460667:
@@ -5014,13 +5014,13 @@ translate zh_Hans wife_pupil_storyline_84_92f3c4ad:
 translate zh_Hans wife_pupil_storyline_84_f9fe82b9:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_647}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_647}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:2341
 translate zh_Hans wife_pupil_storyline_84_028f0275:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_648}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_648}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:2345
 translate zh_Hans wife_pupil_storyline_84_c753f215:
@@ -5050,7 +5050,7 @@ translate zh_Hans wife_pupil_storyline_84_a978a407:
 translate zh_Hans wife_pupil_storyline_84_1e74b278:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_649}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_649}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:2359
 translate zh_Hans wife_pupil_storyline_84_e1732773:
@@ -5110,7 +5110,7 @@ translate zh_Hans wife_pupil_storyline_84_8a462583:
 translate zh_Hans wife_pupil_storyline_84_2b991cbc:
 
     # nvlwife "❤️"
-    nvlwife "❤️|❤️"
+    nvlwife "❤️|"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:2379
 translate zh_Hans wife_pupil_storyline_84_169155bc:
@@ -5176,13 +5176,13 @@ translate zh_Hans wife_pupil_storyline_84_ec23cbd2:
 translate zh_Hans wife_pupil_storyline_84_2b991cbc_1:
 
     # nvlwife "❤️"
-    nvlwife "❤️|❤️"
+    nvlwife "❤️|"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:2401
 translate zh_Hans wife_pupil_storyline_84_9ef137e4:
 
     # nvljohn "❤️"
-    nvljohn "❤️|❤️"
+    nvljohn "❤️|"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:2415
 translate zh_Hans wife_pupil_storyline_84_53c71d7c:
@@ -5366,7 +5366,7 @@ translate zh_Hans wife_pupil_storyline_86_ad0522e0:
 translate zh_Hans wife_pupil_storyline_86_cda087ab:
 
     # nvleric "{a=show:show_chat_media}{image=wife_video_135_ns}"
-    nvleric "{a=show:show_chat_media}{image=wife_video_135_ns}"
+    nvleric ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:2529
 translate zh_Hans wife_pupil_storyline_86_2fc3816e:
@@ -5754,7 +5754,7 @@ translate zh_Hans wife_pupil_storyline_88_6b38c6a9:
 translate zh_Hans wife_pupil_storyline_88_8ca75b66:
 
     # nvlmaxwell "{a=show:show_chat_media}{image=wife_pic_650}"
-    nvlmaxwell "{a=show:show_chat_media}{image=wife_pic_650}"
+    nvlmaxwell ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:2727
 translate zh_Hans wife_pupil_storyline_88_4b40c6de:
@@ -6020,7 +6020,7 @@ translate zh_Hans wife_pupil_storyline_89_0db9ab30:
 translate zh_Hans wife_pupil_storyline_89_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:2846
 translate zh_Hans wife_pupil_storyline_89_c0c3fb82:
@@ -6070,7 +6070,7 @@ translate zh_Hans wife_pupil_storyline_90_41f73948:
     # nvl clear
     # nvlunknown "How are you, Mr [mc_name_is]?"
     nvl clear
-    nvlunknown "您好，[mc_name_is]先生？"
+    nvlunknown "你好，[mc_name_is]先生？"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:2895
 translate zh_Hans wife_pupil_storyline_90_8a322a83:
@@ -6118,7 +6118,7 @@ translate zh_Hans wife_pupil_storyline_90_df973169:
 translate zh_Hans wife_pupil_storyline_90_252fe47f:
 
     # nvlunknown "We just decided to show you a bit earlier"
-    nvlunknown "我们只是决定提前一点给您看。"
+    nvlunknown "我们只是决定提前一点给你看。"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:2911
 translate zh_Hans wife_pupil_storyline_90_a0af81d2:
@@ -6130,7 +6130,7 @@ translate zh_Hans wife_pupil_storyline_90_a0af81d2:
 translate zh_Hans wife_pupil_storyline_90_3ca2d603:
 
     # nvlunknown "{a=show:show_chat_media}{image=wife_video_136_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=wife_video_136_ns}"
+    nvlunknown ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:2919
 translate zh_Hans wife_pupil_storyline_90_35fd3f0c:
@@ -6142,7 +6142,7 @@ translate zh_Hans wife_pupil_storyline_90_35fd3f0c:
 translate zh_Hans wife_pupil_storyline_90_8a223a48:
 
     # nvlunknown "A video that might interest you"
-    nvlunknown "一段您可能会感兴趣的视频。"
+    nvlunknown "一段你可能会感兴趣的视频。"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:2923
 translate zh_Hans wife_pupil_storyline_90_a44c1ff3:
@@ -6154,13 +6154,13 @@ translate zh_Hans wife_pupil_storyline_90_a44c1ff3:
 translate zh_Hans wife_pupil_storyline_90_9f6d96f4:
 
     # nvlunknown "Yes, that's your wife"
-    nvlunknown "是的，那是您妻子。"
+    nvlunknown "是的，那是你妻子。"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:2927
 translate zh_Hans wife_pupil_storyline_90_45c83c17:
 
     # nvlunknown "Your wife and her student's father"
-    nvlunknown "您的妻子和她学生的父亲。"
+    nvlunknown "你的妻子和她学生的父亲。"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:2929
 translate zh_Hans wife_pupil_storyline_90_3071d1d9:
@@ -6282,7 +6282,7 @@ translate zh_Hans wife_pupil_storyline_91_3ce2b50e:
 translate zh_Hans wife_pupil_storyline_91_6fd46c17:
 
     # nvlwife "😳😳😳"
-    nvlwife "😳😳😳"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:3000
 translate zh_Hans wife_pupil_storyline_91_ee1166a4:
@@ -6366,7 +6366,7 @@ translate zh_Hans wife_pupil_storyline_91_daca671a:
 translate zh_Hans wife_pupil_storyline_91_718f6d0a:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_868}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_868}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:3032
 translate zh_Hans wife_pupil_storyline_91_dc151f8c:
@@ -6494,7 +6494,7 @@ translate zh_Hans wife_pupil_storyline_92_b4084156:
 translate zh_Hans wife_pupil_storyline_92_2cf91e01:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_869}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_869}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:3111
 translate zh_Hans wife_pupil_storyline_92_50e11c23:
@@ -6574,7 +6574,7 @@ translate zh_Hans wife_pupil_storyline_93_56498bb9:
 translate zh_Hans wife_pupil_storyline_93_d99208db:
 
     # nvlmaxwell "{a=show:show_chat_media}{image=wife_video_318_ns}"
-    nvlmaxwell "{a=show:show_chat_media}{image=wife_video_318_ns}"
+    nvlmaxwell ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:3174
 translate zh_Hans wife_pupil_storyline_93_10f53bb6:
@@ -6690,7 +6690,7 @@ translate zh_Hans wife_pupil_storyline_94_cc325333:
 translate zh_Hans wife_pupil_storyline_94_b6d2f08a:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_318_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_318_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:3247
 translate zh_Hans wife_pupil_storyline_94_1dfd0b3f:
@@ -6940,7 +6940,7 @@ translate zh_Hans wife_pupil_storyline_96_2df9f3a1:
 translate zh_Hans wife_pupil_storyline_96_4d33f3a1:
 
     # nvleric "Hi, miss"
-    nvleric "您好，小姐"
+    nvleric "你好，小姐"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:3395
 translate zh_Hans wife_pupil_storyline_96_d6aa8904:
@@ -7898,7 +7898,7 @@ translate zh_Hans wife_pupil_storyline_101_19f0d2b4:
 translate zh_Hans wife_pupil_storyline_101_a9f1bddf:
 
     # nvleric "I’m ready anytime you want me, miss"
-    nvleric "小姐，只要您想操我，我随时都准备好奉上我的肉体"
+    nvleric "小姐，只要你想操我，我随时都准备好奉上我的肉体"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:3901
 translate zh_Hans wife_pupil_storyline_101_4209f1c8:
@@ -8434,7 +8434,7 @@ translate zh_Hans wife_pupil_storyline_105_cb3f7035:
 translate zh_Hans wife_pupil_storyline_105_b1e02e1d:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_319_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_319_ns}|{a=show:show_chat_media}{image=wife_video_319_ns}"
+    nvlwife "{a=show:show_chat_media}{image=wife_video_319_ns}|"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:4213
 translate zh_Hans wife_pupil_storyline_105_84efdf91:
@@ -8476,7 +8476,7 @@ translate zh_Hans wife_pupil_storyline_105_9646793c:
 translate zh_Hans wife_pupil_storyline_105_07a03f01:
 
     # nvlwife "{a=show:show_chat_media}{image=abella_video_1_ns}"
-    nvlwife "{a=show:show_chat_media}{image=abella_video_1_ns}|{a=show:show_chat_media}{image=abella_video_1_ns}"
+    nvlwife "{a=show:show_chat_media}{image=abella_video_1_ns}|"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:4231
 translate zh_Hans wife_pupil_storyline_105_5267760d:
@@ -8640,7 +8640,7 @@ translate zh_Hans wife_pupil_storyline_106_c000a9b0:
 translate zh_Hans wife_pupil_storyline_106_49723d30:
 
     # nvlunknown "{a=show:show_chat_media}{image=wife_video_118_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=wife_video_118_ns}"
+    nvlunknown ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:4322
 translate zh_Hans wife_pupil_storyline_106_60398795:
@@ -8670,7 +8670,7 @@ translate zh_Hans wife_pupil_storyline_106_da92a31d:
 translate zh_Hans wife_pupil_storyline_106_0b7152c1:
 
     # nvlunknown "We are always at your service if anything else is needed"
-    nvlunknown "如果还有其他需要，我们随时为您效劳"
+    nvlunknown "如果还有其他需要，我们随时为你效劳"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:4332
 translate zh_Hans wife_pupil_storyline_106_e9e8844f:
@@ -8848,7 +8848,7 @@ translate zh_Hans wife_pupil_storyline_108_408485f1:
 translate zh_Hans wife_pupil_storyline_108_fe18f651:
 
     # nvljohn "😩"
-    nvljohn "😩"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:4456
 translate zh_Hans wife_pupil_storyline_108_93ced1c7:
@@ -8970,7 +8970,7 @@ translate zh_Hans wife_pupil_storyline_109_06263e08:
 translate zh_Hans wife_pupil_storyline_109_c7d2742e:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_320_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_320_ns}|{a=show:show_chat_media}{image=wife_video_320_ns}"
+    nvlwife "{a=show:show_chat_media}{image=wife_video_320_ns}|"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:4533
 translate zh_Hans wife_pupil_storyline_109_34a142e4:
@@ -9262,7 +9262,7 @@ translate zh_Hans wife_pupil_storyline_111_25f7c6e7:
 translate zh_Hans wife_pupil_storyline_111_55b76b73:
 
     # nvleric "{a=show:show_chat_media}{image=eric_pic_1}"
-    nvleric "{a=show:show_chat_media}{image=eric_pic_1}"
+    nvleric ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:4699
 translate zh_Hans wife_pupil_storyline_111_c73cb150:
@@ -9292,7 +9292,7 @@ translate zh_Hans wife_pupil_storyline_111_fb882cff:
 translate zh_Hans wife_pupil_storyline_111_37ee1c80:
 
     # nvleric "😳"
-    nvleric "😳"
+    nvleric ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:4723
 translate zh_Hans wife_pupil_storyline_111_53c71d7c:
@@ -9434,13 +9434,13 @@ translate zh_Hans wife_pupil_storyline_113_8133d81d:
 translate zh_Hans wife_pupil_storyline_113_30ce9992:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_237_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_237_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:4825
 translate zh_Hans wife_pupil_storyline_113_a48f4e17:
 
     # nvljohn "😳"
-    nvljohn "😳"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:4827
 translate zh_Hans wife_pupil_storyline_113_93e13dfb:
@@ -9720,7 +9720,7 @@ translate zh_Hans wife_pupil_storyline_115_f633ea16:
 translate zh_Hans wife_pupil_storyline_115_b0aeee22:
 
     # nvlmaxwell "{a=show:show_chat_media}{image=bbc_pic_13}"
-    nvlmaxwell "{a=show:show_chat_media}{image=bbc_pic_13}"
+    nvlmaxwell ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:4989
 translate zh_Hans wife_pupil_storyline_115_463d576a:
@@ -9880,7 +9880,7 @@ translate zh_Hans wife_pupil_storyline_117_0b2bbfaa:
 translate zh_Hans wife_pupil_storyline_117_c2be5237:
 
     # nvlwife "Would you mind taking us to the mall in the morning?"
-    nvlwife "您明天早上能带我们去商场吗？"
+    nvlwife "你明天早上能带我们去商场吗？"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:5107
 translate zh_Hans wife_pupil_storyline_117_f4b9bc3b:
@@ -10154,7 +10154,7 @@ translate zh_Hans wife_pupil_storyline_119_a36455fa:
 translate zh_Hans wife_pupil_storyline_119_f17b8ee0:
 
     # nvlwife "{a=show:show_chat_media}{image=abella_pic_1}"
-    nvlwife "{a=show:show_chat_media}{image=abella_pic_1}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:5267
 translate zh_Hans wife_pupil_storyline_119_bb5b9e5b:
@@ -10490,7 +10490,7 @@ translate zh_Hans wife_pupil_storyline_122_edf97a58:
 translate zh_Hans wife_pupil_storyline_122_0db254e3:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_321_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_321_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:5480
 translate zh_Hans wife_pupil_storyline_122_50753e27:
@@ -10588,7 +10588,7 @@ translate zh_Hans wife_pupil_storyline_123_e7e26102:
 translate zh_Hans wife_pupil_storyline_123_bdbdef31:
 
     # nvlabella "{a=show:show_chat_media}{image=abella_pic_2}"
-    nvlabella "{a=show:show_chat_media}{image=abella_pic_2}"
+    nvlabella ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:5549
 translate zh_Hans wife_pupil_storyline_123_5b1f5bb9:
@@ -10760,7 +10760,7 @@ translate zh_Hans wife_pupil_storyline_125_98abdc18:
 translate zh_Hans wife_pupil_storyline_125_2ea1d927:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_119_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_119_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:5674
 translate zh_Hans wife_pupil_storyline_125_60398795:
@@ -10814,7 +10814,7 @@ translate zh_Hans wife_pupil_storyline_125_d9dd2dbb:
 translate zh_Hans wife_pupil_storyline_125_70d33743:
 
     # nvlwife "{a=show:show_chat_media}{image=abella_video_2_ns}"
-    nvlwife "{a=show:show_chat_media}{image=abella_video_2_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:5696
 translate zh_Hans wife_pupil_storyline_125_03d5b70c:
@@ -11146,7 +11146,7 @@ translate zh_Hans wife_pupil_storyline_129_554ccc9f:
 translate zh_Hans wife_pupil_storyline_129_7d37907b:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_322_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_322_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:5939
 translate zh_Hans wife_pupil_storyline_129_277282f8:
@@ -11298,7 +11298,7 @@ translate zh_Hans wife_pupil_storyline_130_9bac1bb2:
 translate zh_Hans wife_pupil_storyline_130_40bfc8cd:
 
     # nvleric "Don’t worry, we planned many things for you, teacher"
-    nvleric "别担心，老师，我们为您安排了很多事情。"
+    nvleric "别担心，老师，我们为你安排了很多事情。"
 
 # game/scripts/dialogues/wife/wife_pupil_storyline.rpy:6022
 translate zh_Hans wife_pupil_storyline_130_fae73e87:

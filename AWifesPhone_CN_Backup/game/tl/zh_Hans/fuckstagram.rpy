@@ -412,7 +412,7 @@ translate zh_Hans fuckstagram_stage3_d2be68b9:
 translate zh_Hans fuckstagram_stage3_f7ba0394:
 
     # "{color=#000}@real_jenna_qos?"
-    "{color=#000}@real_jenna_qos?"
+    ""
 
 # fuckstagram.rpy:308
 translate zh_Hans fuckstagram_stage3_f7f54150:
@@ -670,7 +670,7 @@ translate zh_Hans fuckstagram_stage4_5956d0df:
 translate zh_Hans fuckstagram_stage4_f90c6a3d:
 
     # "{color=#000}\"My friend @black_cat\" ... That's a link to [wife_name_is]'s profile"
-    "{color=#000}\"My friend @black_cat\" ... That's a link to [wife_name_is]'s profile"
+    ""
 
 # fuckstagram.rpy:483
 translate zh_Hans fuckstagram_stage4_99d67f4b:

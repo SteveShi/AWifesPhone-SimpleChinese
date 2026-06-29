@@ -394,7 +394,7 @@ translate zh_Hans wife_salim_storyline_3_0e17ccf1:
 translate zh_Hans wife_salim_storyline_3_a686776f:
 
     # nvlsalim "😊"
-    nvlsalim "😊|😊"
+    nvlsalim "😊|"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:251
 translate zh_Hans wife_salim_storyline_3_b302fb17:
@@ -442,7 +442,7 @@ translate zh_Hans wife_salim_storyline_3_aefa021b:
 translate zh_Hans wife_salim_storyline_3_3aa16486:
 
     # nvlsalim "You're right, Ms [wife_name_is]"
-    nvlsalim "您说得对，[wife_name_is]女士。"
+    nvlsalim "你说得对，[wife_name_is]女士。"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:267
 translate zh_Hans wife_salim_storyline_3_e5b9b52c:
@@ -870,7 +870,7 @@ translate zh_Hans wife_salim_storyline_4_26fefef0:
 translate zh_Hans wife_salim_storyline_4_2b991cbc:
 
     # nvlwife "❤️"
-    nvlwife "❤️|❤️"
+    nvlwife "❤️|"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:453
 translate zh_Hans wife_salim_storyline_4_845fbc8f:
@@ -1170,7 +1170,7 @@ translate zh_Hans wife_salim_storyline_7_ffe939e7:
 translate zh_Hans wife_salim_storyline_7_936250b5:
 
     # nvlsalim "{a=show:show_chat_media}{image=wife_pic_327}"
-    nvlsalim "{a=show:show_chat_media}{image=wife_pic_327}"
+    nvlsalim ""
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:644
 translate zh_Hans wife_salim_storyline_7_bf42a7e4:
@@ -1182,7 +1182,7 @@ translate zh_Hans wife_salim_storyline_7_bf42a7e4:
 translate zh_Hans wife_salim_storyline_7_95a66dae:
 
     # nvlsalim "{a=show:show_chat_media}{image=wife_pic_328}"
-    nvlsalim "{a=show:show_chat_media}{image=wife_pic_328}"
+    nvlsalim ""
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:652
 translate zh_Hans wife_salim_storyline_7_aa47aa4e:
@@ -1194,7 +1194,7 @@ translate zh_Hans wife_salim_storyline_7_aa47aa4e:
 translate zh_Hans wife_salim_storyline_7_0db73cd1:
 
     # nvlwife "Thank you, Mr Salim 😊"
-    nvlwife "谢谢您，萨利姆先生😊"
+    nvlwife "谢谢你，萨利姆先生😊"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:656
 translate zh_Hans wife_salim_storyline_7_bc55715c:
@@ -1332,7 +1332,7 @@ translate zh_Hans wife_salim_storyline_7_1debd7a2:
 translate zh_Hans wife_salim_storyline_7_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:702
 translate zh_Hans wife_salim_storyline_7_7edaac9b:
@@ -1800,7 +1800,7 @@ translate zh_Hans wife_salim_storyline_10_3aa12075:
 translate zh_Hans wife_salim_storyline_10_9baa3348:
 
     # nvlsalim "{a=show:show_chat_media}{image=wife_pic_361}"
-    nvlsalim "{a=show:show_chat_media}{image=wife_pic_361}"
+    nvlsalim ""
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:953
 translate zh_Hans wife_salim_storyline_10_b7abf433:
@@ -1836,7 +1836,7 @@ translate zh_Hans wife_salim_storyline_10_80a36255:
 translate zh_Hans wife_salim_storyline_10_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:965
 translate zh_Hans wife_salim_storyline_10_c7ec4908:
@@ -2078,7 +2078,7 @@ translate zh_Hans wife_salim_storyline_11_b66fa675:
 translate zh_Hans wife_salim_storyline_11_bdadbada:
 
     # nvlsalim "{a=show:show_chat_media}{image=wife_pic_362}"
-    nvlsalim "{a=show:show_chat_media}{image=wife_pic_362}"
+    nvlsalim ""
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:1080
 translate zh_Hans wife_salim_storyline_11_78a2e845:
@@ -2532,13 +2532,13 @@ translate zh_Hans wife_salim_storyline_13_38bc568c:
 translate zh_Hans wife_salim_storyline_13_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:1292
 translate zh_Hans wife_salim_storyline_13_4f794104:
 
     # nvlwife "Thank you for your kind words, Mr Salim"
-    nvlwife "谢谢您的赞美之词，萨利姆先生。"
+    nvlwife "谢谢你的赞美之词，萨利姆先生。"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:1294
 translate zh_Hans wife_salim_storyline_13_91150934:
@@ -2736,7 +2736,7 @@ translate zh_Hans wife_salim_storyline_13_45adfe4b:
 translate zh_Hans wife_salim_storyline_13_a686776f:
 
     # nvlsalim "😊"
-    nvlsalim "😊|😊"
+    nvlsalim "😊|"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:1360
 translate zh_Hans wife_salim_storyline_13_10592ec8:
@@ -2772,7 +2772,7 @@ translate zh_Hans wife_salim_storyline_14_76b2fe88:
 translate zh_Hans wife_salim_storyline_14_11b1c138:
 
     # nvlsalim "{a=show:show_chat_media}{image=wife_pic_364}"
-    nvlsalim "{a=show:show_chat_media}{image=wife_pic_364}"
+    nvlsalim ""
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:1405
 translate zh_Hans wife_salim_storyline_14_92468451:
@@ -2796,7 +2796,7 @@ translate zh_Hans wife_salim_storyline_14_11f1d36d:
 translate zh_Hans wife_salim_storyline_14_905dcc43:
 
     # nvlsalim "{a=show:show_chat_media}{image=wife_pic_366}"
-    nvlsalim "{a=show:show_chat_media}{image=wife_pic_366}"
+    nvlsalim ""
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:1417
 translate zh_Hans wife_salim_storyline_14_00c9d35e:
@@ -3270,7 +3270,7 @@ translate zh_Hans wife_salim_storyline_17_627adf58:
 translate zh_Hans wife_salim_storyline_17_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:1666
 translate zh_Hans wife_salim_storyline_17_345da384:
@@ -3324,7 +3324,7 @@ translate zh_Hans wife_salim_storyline_17_63e2dc43:
 translate zh_Hans wife_salim_storyline_17_9ef137e4:
 
     # nvljohn "❤️"
-    nvljohn "❤️|❤️"
+    nvljohn "❤️|"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:1684
 translate zh_Hans wife_salim_storyline_17_7b1a32f8:
@@ -3416,7 +3416,7 @@ translate zh_Hans wife_salim_storyline_18_1466bb67:
 translate zh_Hans wife_salim_storyline_18_0db73cd1:
 
     # nvlwife "Thank you, Mr Salim 😊"
-    nvlwife "谢谢您，萨利姆先生😊"
+    nvlwife "谢谢你，萨利姆先生😊"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:1745
 translate zh_Hans wife_salim_storyline_18_a53b131e:
@@ -3434,13 +3434,13 @@ translate zh_Hans wife_salim_storyline_18_2a8212ab:
 translate zh_Hans wife_salim_storyline_18_10598178:
 
     # nvlsalim "{a=show:show_chat_media}{image=wife_pic_365}"
-    nvlsalim "{a=show:show_chat_media}{image=wife_pic_365}"
+    nvlsalim ""
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:1757
 translate zh_Hans wife_salim_storyline_18_b4471ac4:
 
     # nvlsalim "{a=show:show_chat_media}{image=wife_pic_363}"
-    nvlsalim "{a=show:show_chat_media}{image=wife_pic_363}"
+    nvlsalim ""
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:1761
 translate zh_Hans wife_salim_storyline_18_edfe5cc8:
@@ -3476,7 +3476,7 @@ translate zh_Hans wife_salim_storyline_18_175b933b:
 translate zh_Hans wife_salim_storyline_18_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:1773
 translate zh_Hans wife_salim_storyline_18_f8c0e682:
@@ -3488,7 +3488,7 @@ translate zh_Hans wife_salim_storyline_18_f8c0e682:
 translate zh_Hans wife_salim_storyline_18_64b7c28c:
 
     # nvlsalim "{a=show:show_chat_media}{image=wife_pic_367}"
-    nvlsalim "{a=show:show_chat_media}{image=wife_pic_367}"
+    nvlsalim ""
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:1781
 translate zh_Hans wife_salim_storyline_18_2330fd30:
@@ -3614,7 +3614,7 @@ translate zh_Hans wife_salim_storyline_18_bade5c4e:
 translate zh_Hans wife_salim_storyline_18_10befb9c_1:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:1823
 translate zh_Hans wife_salim_storyline_18_87a99c40:
@@ -3796,7 +3796,7 @@ translate zh_Hans wife_salim_storyline_20_4108cc6d:
     # nvl clear
     # nvlsalim "How are you feeling, Ms [wife_name_is]?"
     nvl clear
-    nvlsalim "您感觉如何，[wife_name_is]女士？"
+    nvlsalim "你感觉如何，[wife_name_is]女士？"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:1947
 translate zh_Hans wife_salim_storyline_20_b1eb1685:
@@ -3850,7 +3850,7 @@ translate zh_Hans wife_salim_storyline_20_dc94bde6:
 translate zh_Hans wife_salim_storyline_20_87bb3ac1:
 
     # nvlsalim "{a=show:show_chat_media}{image=wife_video_66_ns}"
-    nvlsalim "{a=show:show_chat_media}{image=wife_video_66_ns}"
+    nvlsalim ""
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:1969
 translate zh_Hans wife_salim_storyline_20_1a9c6dcc:
@@ -4110,7 +4110,7 @@ translate zh_Hans wife_salim_storyline_21_17fa8ee2:
 translate zh_Hans wife_salim_storyline_21_ff525862:
 
     # nvlsalim "{a=show:show_chat_media}{image=wife_video_67_ns}"
-    nvlsalim "{a=show:show_chat_media}{image=wife_video_67_ns}"
+    nvlsalim ""
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:2092
 translate zh_Hans wife_salim_storyline_21_5c77e1c5:
@@ -4698,7 +4698,7 @@ translate zh_Hans wife_salim_storyline_24_ded39021:
 translate zh_Hans wife_salim_storyline_24_0fd5bd7f:
 
     # nvlsalim "{a=show:show_chat_media}{image=wife_video_68_ns}"
-    nvlsalim "{a=show:show_chat_media}{image=wife_video_68_ns}"
+    nvlsalim ""
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:2383
 translate zh_Hans wife_salim_storyline_24_fa8158d3:
@@ -4716,7 +4716,7 @@ translate zh_Hans wife_salim_storyline_24_2fc39651:
 translate zh_Hans wife_salim_storyline_24_621e6da5:
 
     # nvlsalim "{a=show:show_chat_media}{image=wife_video_69_ns}"
-    nvlsalim "{a=show:show_chat_media}{image=wife_video_69_ns}"
+    nvlsalim ""
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:2393
 translate zh_Hans wife_salim_storyline_24_9fd98d93:
@@ -4958,7 +4958,7 @@ translate zh_Hans wife_salim_storyline_25_0e4735ea:
 translate zh_Hans wife_salim_storyline_25_a686776f:
 
     # nvlsalim "😊"
-    nvlsalim "😊|😊"
+    nvlsalim "😊|"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:2504
 translate zh_Hans wife_salim_storyline_25_e2f01cf8:
@@ -5126,7 +5126,7 @@ translate zh_Hans wife_salim_storyline_25_b8243db5:
 translate zh_Hans wife_salim_storyline_25_a686776f_1:
 
     # nvlsalim "😊"
-    nvlsalim "😊|😊"
+    nvlsalim "😊|"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:2560
 translate zh_Hans wife_salim_storyline_25_0ebc847c:

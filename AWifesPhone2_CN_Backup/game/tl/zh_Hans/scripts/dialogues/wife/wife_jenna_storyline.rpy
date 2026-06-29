@@ -294,7 +294,7 @@ translate zh_Hans wife_jenna_storyline_679_306223b0:
 translate zh_Hans wife_jenna_storyline_679_998929f3:
 
     # nvlchristina "{a=show:show_chat_media}{image=christina_video_7_ns}"
-    nvlchristina "{a=show:show_chat_media}{image=christina_video_7_ns}"
+    nvlchristina ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:338
 translate zh_Hans wife_jenna_storyline_679_3a326a53:
@@ -312,13 +312,13 @@ translate zh_Hans wife_jenna_storyline_679_ab028ddc:
 translate zh_Hans wife_jenna_storyline_679_950178af:
 
     # nvlchristina "😊"
-    nvlchristina "😊|😊"
+    nvlchristina "😊|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:346
 translate zh_Hans wife_jenna_storyline_679_0b89d0a1:
 
     # nvlchristina "{a=show:show_chat_media}{image=christina_video_5_ns}"
-    nvlchristina "{a=show:show_chat_media}{image=christina_video_5_ns}"
+    nvlchristina ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:350
 translate zh_Hans wife_jenna_storyline_679_5da37eb9:
@@ -372,7 +372,7 @@ translate zh_Hans wife_jenna_storyline_679_3b700a07:
 translate zh_Hans wife_jenna_storyline_679_2b991cbc:
 
     # nvlwife "❤️"
-    nvlwife "❤️|❤️"
+    nvlwife "❤️|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:380
 translate zh_Hans wife_jenna_storyline_679_53c71d7c:
@@ -822,7 +822,7 @@ translate zh_Hans wife_jenna_storyline_682_f8c36e0f:
 translate zh_Hans wife_jenna_storyline_682_4511b38c:
 
     # nvlsalim "{a=show:show_chat_media}{image=wife_pic_826}"
-    nvlsalim "{a=show:show_chat_media}{image=wife_pic_826}"
+    nvlsalim ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:615
 translate zh_Hans wife_jenna_storyline_682_b211b27c:
@@ -870,7 +870,7 @@ translate zh_Hans wife_jenna_storyline_682_a7cf1762:
 translate zh_Hans wife_jenna_storyline_682_171c4319:
 
     # nvlsalim "{a=show:show_chat_media}{image=wife_pic_827}"
-    nvlsalim "{a=show:show_chat_media}{image=wife_pic_827}"
+    nvlsalim ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:635
 translate zh_Hans wife_jenna_storyline_682_5d785578:
@@ -888,7 +888,7 @@ translate zh_Hans wife_jenna_storyline_682_3768f655:
 translate zh_Hans wife_jenna_storyline_682_6983ae78:
 
     # nvlsalim "{a=show:show_chat_media}{image=wife_pic_817}"
-    nvlsalim "{a=show:show_chat_media}{image=wife_pic_817}"
+    nvlsalim ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:645
 translate zh_Hans wife_jenna_storyline_682_c41587e9:
@@ -1992,7 +1992,7 @@ translate zh_Hans wife_jenna_storyline_688_ed1dd4a1:
 translate zh_Hans wife_jenna_storyline_688_dd847a4b:
 
     # nvlwife "😉"
-    nvlwife "😉|😉"
+    nvlwife "😉|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:1209
 translate zh_Hans wife_jenna_storyline_688_53c71d7c:
@@ -2036,7 +2036,7 @@ translate zh_Hans wife_jenna_storyline_689_65fedf1e:
 translate zh_Hans wife_jenna_storyline_689_f6176a27:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_272_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_272_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:1248
 translate zh_Hans wife_jenna_storyline_689_d631ea46:
@@ -2108,7 +2108,7 @@ translate zh_Hans wife_jenna_storyline_689_56f0f9d4:
 translate zh_Hans wife_jenna_storyline_689_2c222110:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_273_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_273_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:1276
 translate zh_Hans wife_jenna_storyline_689_14a3e05e:
@@ -2126,7 +2126,7 @@ translate zh_Hans wife_jenna_storyline_689_9369cf7f:
 translate zh_Hans wife_jenna_storyline_689_c615f8f0:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_274_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_274_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:1290
 translate zh_Hans wife_jenna_storyline_689_3de74cf1:
@@ -2308,7 +2308,7 @@ translate zh_Hans wife_jenna_storyline_690_e7bac016:
 translate zh_Hans wife_jenna_storyline_690_c46ecf34:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_pic_828}"
-    nvljohn "{a=show:show_chat_media}{image=wife_pic_828}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:1387
 translate zh_Hans wife_jenna_storyline_690_4c319941:
@@ -2326,7 +2326,7 @@ translate zh_Hans wife_jenna_storyline_690_13d54973:
 translate zh_Hans wife_jenna_storyline_690_56c3db52:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_pic_829}"
-    nvljohn "{a=show:show_chat_media}{image=wife_pic_829}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:1397
 translate zh_Hans wife_jenna_storyline_690_33f28b35:
@@ -2344,7 +2344,7 @@ translate zh_Hans wife_jenna_storyline_690_96bac308:
 translate zh_Hans wife_jenna_storyline_690_16924e66:
 
     # nvlrico "{a=show:show_chat_media}{image=bbc_pic_118}"
-    nvlrico "{a=show:show_chat_media}{image=bbc_pic_118}"
+    nvlrico ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:1407
 translate zh_Hans wife_jenna_storyline_690_d11abd5b:
@@ -2576,7 +2576,7 @@ translate zh_Hans wife_jenna_storyline_692_e1fd0ab6:
 translate zh_Hans wife_jenna_storyline_692_44ed92f8:
 
     # nvljohn "{a=show:show_chat_media}{image=bbc_pic_163}"
-    nvljohn "{a=show:show_chat_media}{image=bbc_pic_163}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:1549
 translate zh_Hans wife_jenna_storyline_692_c1a49a82:
@@ -2642,7 +2642,7 @@ translate zh_Hans wife_jenna_storyline_692_2e942351:
 translate zh_Hans wife_jenna_storyline_692_45913752:
 
     # nvlwife ";p"
-    nvlwife ";p"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:1571
 translate zh_Hans wife_jenna_storyline_692_a7aef57f:
@@ -2770,7 +2770,7 @@ translate zh_Hans wife_jenna_storyline_693_543bd06e:
 translate zh_Hans wife_jenna_storyline_693_eb53128f:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_275_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_275_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:1648
 translate zh_Hans wife_jenna_storyline_693_c614f813:
@@ -2782,13 +2782,13 @@ translate zh_Hans wife_jenna_storyline_693_c614f813:
 translate zh_Hans wife_jenna_storyline_693_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:1654
 translate zh_Hans wife_jenna_storyline_693_f00d16b9:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_276_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_276_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:1658
 translate zh_Hans wife_jenna_storyline_693_cc1a9189:
@@ -2812,7 +2812,7 @@ translate zh_Hans wife_jenna_storyline_693_27a7556e:
 translate zh_Hans wife_jenna_storyline_693_59be673a:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_277_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_277_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:1670
 translate zh_Hans wife_jenna_storyline_693_ea2fc11a:
@@ -2836,7 +2836,7 @@ translate zh_Hans wife_jenna_storyline_693_a7bddb0e:
 translate zh_Hans wife_jenna_storyline_693_6b837214:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_278_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_278_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:1690
 translate zh_Hans wife_jenna_storyline_693_46aeefee:
@@ -3208,7 +3208,7 @@ translate zh_Hans wife_jenna_storyline_696_232d7841:
 translate zh_Hans wife_jenna_storyline_696_870c463f:
 
     # nvljohn "{a=show:show_chat_media}{image=julia_video_41_ns}"
-    nvljohn "{a=show:show_chat_media}{image=julia_video_41_ns}|{a=show:show_chat_media}{image=julia_video_41_ns}"
+    nvljohn "{a=show:show_chat_media}{image=julia_video_41_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:1925
 translate zh_Hans wife_jenna_storyline_696_56f0f9d4:
@@ -3232,7 +3232,7 @@ translate zh_Hans wife_jenna_storyline_696_87a80a4c:
 translate zh_Hans wife_jenna_storyline_696_18a49005:
 
     # nvljohn "{a=show:show_chat_media}{image=julia_video_42_ns}"
-    nvljohn "{a=show:show_chat_media}{image=julia_video_42_ns}|{a=show:show_chat_media}{image=julia_video_42_ns}"
+    nvljohn "{a=show:show_chat_media}{image=julia_video_42_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:1941
 translate zh_Hans wife_jenna_storyline_696_da31b65b:
@@ -3250,7 +3250,7 @@ translate zh_Hans wife_jenna_storyline_696_29092893:
 translate zh_Hans wife_jenna_storyline_696_f52493ec:
 
     # nvljulia "😊"
-    nvljulia "😊|😊"
+    nvljulia "😊|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:1947
 translate zh_Hans wife_jenna_storyline_696_b261f1c3:
@@ -3832,7 +3832,7 @@ translate zh_Hans wife_jenna_storyline_699_88b19b90:
 translate zh_Hans wife_jenna_storyline_699_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:2234
 translate zh_Hans wife_jenna_storyline_699_81284c50:
@@ -3966,7 +3966,7 @@ translate zh_Hans wife_jenna_storyline_700_aac425a5:
 translate zh_Hans wife_jenna_storyline_700_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:2323
 translate zh_Hans wife_jenna_storyline_700_53c71d7c:
@@ -4064,7 +4064,7 @@ translate zh_Hans wife_jenna_storyline_701_95b7818d:
 translate zh_Hans wife_jenna_storyline_701_dd847a4b:
 
     # nvlwife "😉"
-    nvlwife "😉|😉"
+    nvlwife "😉|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:2374
 translate zh_Hans wife_jenna_storyline_701_e5b50b03:
@@ -4184,7 +4184,7 @@ translate zh_Hans wife_jenna_storyline_701_0d1d4af5:
 translate zh_Hans wife_jenna_storyline_701_85e3f1a3:
 
     # nvlwife "{a=show:show_chat_media}{image=christina_video_9_ns}"
-    nvlwife "{a=show:show_chat_media}{image=christina_video_9_ns}|{a=show:show_chat_media}{image=christina_video_9_ns}"
+    nvlwife "{a=show:show_chat_media}{image=christina_video_9_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:2418
 translate zh_Hans wife_jenna_storyline_701_224e6adf:
@@ -4208,7 +4208,7 @@ translate zh_Hans wife_jenna_storyline_701_0e7f070c:
 translate zh_Hans wife_jenna_storyline_701_1a016176:
 
     # nvlwife "{a=show:show_chat_media}{image=christina_video_10_ns}"
-    nvlwife "{a=show:show_chat_media}{image=christina_video_10_ns}|{a=show:show_chat_media}{image=christina_video_10_ns}"
+    nvlwife "{a=show:show_chat_media}{image=christina_video_10_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:2430
 translate zh_Hans wife_jenna_storyline_701_4466eece:
@@ -4304,7 +4304,7 @@ translate zh_Hans wife_jenna_storyline_701_39e3307c:
 translate zh_Hans wife_jenna_storyline_701_be39efcb:
 
     # nvlchristina "❤️"
-    nvlchristina "❤️|❤️"
+    nvlchristina "❤️|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:2476
 translate zh_Hans wife_jenna_storyline_701_53c71d7c:
@@ -4426,7 +4426,7 @@ translate zh_Hans wife_jenna_storyline_702_6c8c762e:
 translate zh_Hans wife_jenna_storyline_702_1a016176:
 
     # nvlwife "{a=show:show_chat_media}{image=christina_video_10_ns}"
-    nvlwife "{a=show:show_chat_media}{image=christina_video_10_ns}|{a=show:show_chat_media}{image=christina_video_10_ns}"
+    nvlwife "{a=show:show_chat_media}{image=christina_video_10_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:2537
 translate zh_Hans wife_jenna_storyline_702_7411f769:
@@ -4682,7 +4682,7 @@ translate zh_Hans wife_jenna_storyline_704_23dece6e:
 translate zh_Hans wife_jenna_storyline_704_4319d1b2:
 
     # nvljohn "{a=show:show_chat_media}{image=christina_video_11_ns}"
-    nvljohn "{a=show:show_chat_media}{image=christina_video_11_ns}|{a=show:show_chat_media}{image=christina_video_11_ns}"
+    nvljohn "{a=show:show_chat_media}{image=christina_video_11_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:2689
 translate zh_Hans wife_jenna_storyline_704_2680facf:
@@ -4706,7 +4706,7 @@ translate zh_Hans wife_jenna_storyline_704_e15fca99:
 translate zh_Hans wife_jenna_storyline_704_68877ef9:
 
     # nvljohn "{a=show:show_chat_media}{image=christina_video_12_ns}"
-    nvljohn "{a=show:show_chat_media}{image=christina_video_12_ns}|{a=show:show_chat_media}{image=christina_video_12_ns}"
+    nvljohn "{a=show:show_chat_media}{image=christina_video_12_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:2701
 translate zh_Hans wife_jenna_storyline_704_a35ed4c3:
@@ -4826,7 +4826,7 @@ translate zh_Hans wife_jenna_storyline_704_f9e5c25c:
 translate zh_Hans wife_jenna_storyline_704_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:2741
 translate zh_Hans wife_jenna_storyline_704_6498b76e:
@@ -4894,7 +4894,7 @@ translate zh_Hans wife_jenna_storyline_705_5da31b23:
 translate zh_Hans wife_jenna_storyline_705_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:2794
 translate zh_Hans wife_jenna_storyline_705_f95468bd:
@@ -5052,7 +5052,7 @@ translate zh_Hans wife_jenna_storyline_706_61badc03:
 translate zh_Hans wife_jenna_storyline_706_fe61a7e3:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_830}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_830}|{a=show:show_chat_media}{image=wife_pic_830}"
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_830}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:2881
 translate zh_Hans wife_jenna_storyline_706_5530a3be:
@@ -5160,7 +5160,7 @@ translate zh_Hans wife_jenna_storyline_706_25b944da:
 translate zh_Hans wife_jenna_storyline_706_f6594d1e:
 
     # nvljohn "{a=show:show_chat_media}{image=christina_video_13_ns}"
-    nvljohn "{a=show:show_chat_media}{image=christina_video_13_ns}|{a=show:show_chat_media}{image=christina_video_13_ns}"
+    nvljohn "{a=show:show_chat_media}{image=christina_video_13_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:2921
 translate zh_Hans wife_jenna_storyline_706_0f51cd6c:
@@ -5178,7 +5178,7 @@ translate zh_Hans wife_jenna_storyline_706_e5b19989:
 translate zh_Hans wife_jenna_storyline_706_9cd52bb2:
 
     # nvljohn "{a=show:show_chat_media}{image=christina_video_14_ns}"
-    nvljohn "{a=show:show_chat_media}{image=christina_video_14_ns}|{a=show:show_chat_media}{image=christina_video_14_ns}"
+    nvljohn "{a=show:show_chat_media}{image=christina_video_14_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:2931
 translate zh_Hans wife_jenna_storyline_706_ebbc9313:
@@ -5228,7 +5228,7 @@ translate zh_Hans wife_jenna_storyline_707_113d9587:
 translate zh_Hans wife_jenna_storyline_707_cbde4e50:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_279_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_279_ns}|{a=show:show_chat_media}{image=wife_video_279_ns}"
+    nvlwife "{a=show:show_chat_media}{image=wife_video_279_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:2984
 translate zh_Hans wife_jenna_storyline_707_14fcfbd8:
@@ -5986,7 +5986,7 @@ translate zh_Hans wife_jenna_storyline_711_5e058091:
 translate zh_Hans wife_jenna_storyline_711_8f494a13:
 
     # nvlmike "{a=show:show_chat_media}{image=jenna_pic_114}"
-    nvlmike "{a=show:show_chat_media}{image=jenna_pic_114}|{a=show:show_chat_media}{image=jenna_pic_114}"
+    nvlmike "{a=show:show_chat_media}{image=jenna_pic_114}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:3371
 translate zh_Hans wife_jenna_storyline_711_753b8f89:
@@ -6004,7 +6004,7 @@ translate zh_Hans wife_jenna_storyline_711_90614244:
 translate zh_Hans wife_jenna_storyline_711_267fa26d:
 
     # nvlmike "{a=show:show_chat_media}{image=jenna_pic_115}"
-    nvlmike "{a=show:show_chat_media}{image=jenna_pic_115}|{a=show:show_chat_media}{image=jenna_pic_115}"
+    nvlmike "{a=show:show_chat_media}{image=jenna_pic_115}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:3381
 translate zh_Hans wife_jenna_storyline_711_2c7bd2cf:
@@ -6246,7 +6246,7 @@ translate zh_Hans wife_jenna_storyline_712_35f33198:
 translate zh_Hans wife_jenna_storyline_712_dedf83ba:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_834}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_834}|{a=show:show_chat_media}{image=wife_pic_834}"
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_834}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:3512
 translate zh_Hans wife_jenna_storyline_712_bac78044:
@@ -6414,7 +6414,7 @@ translate zh_Hans wife_jenna_storyline_712_0e6901da:
 translate zh_Hans wife_jenna_storyline_712_2c247b3c:
 
     # nvljohn "{a=show:show_chat_media}{image=comic_pic_1}"
-    nvljohn "{a=show:show_chat_media}{image=comic_pic_1}|{a=show:show_chat_media}{image=comic_pic_1}"
+    nvljohn "{a=show:show_chat_media}{image=comic_pic_1}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:3572
 translate zh_Hans wife_jenna_storyline_712_a1ea6b69:
@@ -6432,7 +6432,7 @@ translate zh_Hans wife_jenna_storyline_712_086d0b08:
 translate zh_Hans wife_jenna_storyline_712_50ec054f:
 
     # nvljohn "{a=show:show_chat_media}{image=comic_pic_2}"
-    nvljohn "{a=show:show_chat_media}{image=comic_pic_2}|{a=show:show_chat_media}{image=comic_pic_2}"
+    nvljohn "{a=show:show_chat_media}{image=comic_pic_2}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:3582
 translate zh_Hans wife_jenna_storyline_712_f8e73cfb:
@@ -6450,7 +6450,7 @@ translate zh_Hans wife_jenna_storyline_712_91112980:
 translate zh_Hans wife_jenna_storyline_712_3a624d0d:
 
     # nvljohn "{a=show:show_chat_media}{image=comic_pic_3}"
-    nvljohn "{a=show:show_chat_media}{image=comic_pic_3}|{a=show:show_chat_media}{image=comic_pic_3}"
+    nvljohn "{a=show:show_chat_media}{image=comic_pic_3}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:3592
 translate zh_Hans wife_jenna_storyline_712_8fc24ed7:
@@ -6612,7 +6612,7 @@ translate zh_Hans wife_jenna_storyline_712_be945e46:
 translate zh_Hans wife_jenna_storyline_712_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:3646
 translate zh_Hans wife_jenna_storyline_712_b2549819:
@@ -6660,7 +6660,7 @@ translate zh_Hans wife_jenna_storyline_712_ac246a33:
 translate zh_Hans wife_jenna_storyline_712_8218c199:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_835}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_835}|{a=show:show_chat_media}{image=wife_pic_835}"
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_835}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:3666
 translate zh_Hans wife_jenna_storyline_712_e18b0272:
@@ -6672,7 +6672,7 @@ translate zh_Hans wife_jenna_storyline_712_e18b0272:
 translate zh_Hans wife_jenna_storyline_712_fe1a8aa8:
 
     # nvlwife "Bye, Cucky"
-    nvlwife "拜拜了您嘞，小绿帽。"
+    nvlwife "拜拜了你嘞，小绿帽。"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:3670
 translate zh_Hans wife_jenna_storyline_712_52892467:
@@ -6898,7 +6898,7 @@ translate zh_Hans wife_jenna_storyline_714_e456d082:
 translate zh_Hans wife_jenna_storyline_714_bf196b6f:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_280_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_280_ns}|{a=show:show_chat_media}{image=wife_video_280_ns}"
+    nvljohn "{a=show:show_chat_media}{image=wife_video_280_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:3814
 translate zh_Hans wife_jenna_storyline_714_e6f6746d:
@@ -6916,7 +6916,7 @@ translate zh_Hans wife_jenna_storyline_714_80d2acd9:
 translate zh_Hans wife_jenna_storyline_714_2b9ea71f:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_281_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_281_ns}|{a=show:show_chat_media}{image=wife_video_281_ns}"
+    nvljohn "{a=show:show_chat_media}{image=wife_video_281_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:3828
 translate zh_Hans wife_jenna_storyline_714_8e784f52:
@@ -7050,7 +7050,7 @@ translate zh_Hans wife_jenna_storyline_715_5c682f3f:
 translate zh_Hans wife_jenna_storyline_715_138fa2a5:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_282_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_282_ns}|{a=show:show_chat_media}{image=wife_video_282_ns}"
+    nvlwife "{a=show:show_chat_media}{image=wife_video_282_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:3909
 translate zh_Hans wife_jenna_storyline_715_97424676:
@@ -7068,7 +7068,7 @@ translate zh_Hans wife_jenna_storyline_715_48bb977e:
 translate zh_Hans wife_jenna_storyline_715_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:3915
 translate zh_Hans wife_jenna_storyline_715_4341536f:
@@ -7130,7 +7130,7 @@ translate zh_Hans wife_jenna_storyline_716_05bcf7f3:
 translate zh_Hans wife_jenna_storyline_716_67b632a5:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_73}"
-    nvljulia "{a=show:show_chat_media}{image=julia_pic_73}|{a=show:show_chat_media}{image=julia_pic_73}"
+    nvljulia "{a=show:show_chat_media}{image=julia_pic_73}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:3970
 translate zh_Hans wife_jenna_storyline_716_5ec44f41:
@@ -7160,7 +7160,7 @@ translate zh_Hans wife_jenna_storyline_716_f3f0f168:
 translate zh_Hans wife_jenna_storyline_716_92bee2ec:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_74}"
-    nvljulia "{a=show:show_chat_media}{image=julia_pic_74}|{a=show:show_chat_media}{image=julia_pic_74}"
+    nvljulia "{a=show:show_chat_media}{image=julia_pic_74}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:3988
 translate zh_Hans wife_jenna_storyline_716_ce4e2b87:
@@ -7330,7 +7330,7 @@ translate zh_Hans wife_jenna_storyline_717_091196df:
 translate zh_Hans wife_jenna_storyline_717_25fc6130:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_836}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_836}|{a=show:show_chat_media}{image=wife_pic_836}"
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_836}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:4081
 translate zh_Hans wife_jenna_storyline_717_88825694:
@@ -7348,7 +7348,7 @@ translate zh_Hans wife_jenna_storyline_717_ac9382a1:
 translate zh_Hans wife_jenna_storyline_717_a40ba13a:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_837}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_837}|{a=show:show_chat_media}{image=wife_pic_837}"
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_837}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:4091
 translate zh_Hans wife_jenna_storyline_717_4d7c0bd1:
@@ -7366,7 +7366,7 @@ translate zh_Hans wife_jenna_storyline_717_860b4474:
 translate zh_Hans wife_jenna_storyline_717_ca6998b4:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_838}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_838}|{a=show:show_chat_media}{image=wife_pic_838}"
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_838}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:4101
 translate zh_Hans wife_jenna_storyline_717_73d98ad2:
@@ -7604,43 +7604,43 @@ translate zh_Hans wife_jenna_storyline_719_0dd8ad64:
 translate zh_Hans wife_jenna_storyline_719_810419af:
 
     # nvlunknown "{a=show:show_chat_media}{image=bbc_pic_281}"
-    nvlunknown "{a=show:show_chat_media}{image=bbc_pic_281}|{a=show:show_chat_media}{image=bbc_pic_281}"
+    nvlunknown "{a=show:show_chat_media}{image=bbc_pic_281}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:4247
 translate zh_Hans wife_jenna_storyline_719_4f5783f9:
 
     # nvlunknown "{a=show:show_chat_media}{image=bbc_pic_282}"
-    nvlunknown "{a=show:show_chat_media}{image=bbc_pic_282}|{a=show:show_chat_media}{image=bbc_pic_282}"
+    nvlunknown "{a=show:show_chat_media}{image=bbc_pic_282}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:4253
 translate zh_Hans wife_jenna_storyline_719_8885f1e1:
 
     # nvlunknown "{a=show:show_chat_media}{image=bbc_pic_283}"
-    nvlunknown "{a=show:show_chat_media}{image=bbc_pic_283}|{a=show:show_chat_media}{image=bbc_pic_283}"
+    nvlunknown "{a=show:show_chat_media}{image=bbc_pic_283}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:4259
 translate zh_Hans wife_jenna_storyline_719_0bc73fbb:
 
     # nvlunknown "{a=show:show_chat_media}{image=bbc_pic_284}"
-    nvlunknown "{a=show:show_chat_media}{image=bbc_pic_284}|{a=show:show_chat_media}{image=bbc_pic_284}"
+    nvlunknown "{a=show:show_chat_media}{image=bbc_pic_284}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:4265
 translate zh_Hans wife_jenna_storyline_719_00bab664:
 
     # nvlunknown "{a=show:show_chat_media}{image=bbc_pic_285}"
-    nvlunknown "{a=show:show_chat_media}{image=bbc_pic_285}|{a=show:show_chat_media}{image=bbc_pic_285}"
+    nvlunknown "{a=show:show_chat_media}{image=bbc_pic_285}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:4271
 translate zh_Hans wife_jenna_storyline_719_1d88386c:
 
     # nvlunknown "{a=show:show_chat_media}{image=bbc_pic_286}"
-    nvlunknown "{a=show:show_chat_media}{image=bbc_pic_286}|{a=show:show_chat_media}{image=bbc_pic_286}"
+    nvlunknown "{a=show:show_chat_media}{image=bbc_pic_286}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:4277
 translate zh_Hans wife_jenna_storyline_719_72cd9051:
 
     # nvlunknown "{a=show:show_chat_media}{image=bbc_pic_287}"
-    nvlunknown "{a=show:show_chat_media}{image=bbc_pic_287}|{a=show:show_chat_media}{image=bbc_pic_287}"
+    nvlunknown "{a=show:show_chat_media}{image=bbc_pic_287}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:4281
 translate zh_Hans wife_jenna_storyline_719_4d39a397:
@@ -7708,7 +7708,7 @@ translate zh_Hans wife_jenna_storyline_720_ec8f38bd:
 translate zh_Hans wife_jenna_storyline_720_93983d1e:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_19_ns}"
-    nvljenna "{a=show:show_chat_media}{image=jenna_video_19_ns}|{a=show:show_chat_media}{image=jenna_video_19_ns}"
+    nvljenna "{a=show:show_chat_media}{image=jenna_video_19_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:4340
 translate zh_Hans wife_jenna_storyline_720_89057ddc:
@@ -8170,7 +8170,7 @@ translate zh_Hans wife_jenna_storyline_723_139625f6:
 translate zh_Hans wife_jenna_storyline_723_0c2ff214:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_283_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_283_ns}|{a=show:show_chat_media}{image=wife_video_283_ns}"
+    nvljohn "{a=show:show_chat_media}{image=wife_video_283_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:4591
 translate zh_Hans wife_jenna_storyline_723_3ea2e547:
@@ -8474,7 +8474,7 @@ translate zh_Hans wife_jenna_storyline_725_673aaa09:
 translate zh_Hans wife_jenna_storyline_725_e9116de2:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_284_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_284_ns}|{a=show:show_chat_media}{image=wife_video_284_ns}"
+    nvlwife "{a=show:show_chat_media}{image=wife_video_284_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:4761
 translate zh_Hans wife_jenna_storyline_725_ad6063eb:
@@ -8582,7 +8582,7 @@ translate zh_Hans wife_jenna_storyline_725_46c59772:
 translate zh_Hans wife_jenna_storyline_725_3094f0a4:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_285_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_285_ns}|{a=show:show_chat_media}{image=wife_video_285_ns}"
+    nvlwife "{a=show:show_chat_media}{image=wife_video_285_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:4801
 translate zh_Hans wife_jenna_storyline_725_84962829:
@@ -8856,7 +8856,7 @@ translate zh_Hans wife_jenna_storyline_727_306223b0:
 translate zh_Hans wife_jenna_storyline_727_89718114:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_286_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_286_ns}|{a=show:show_chat_media}{image=wife_video_286_ns}"
+    nvljohn "{a=show:show_chat_media}{image=wife_video_286_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:4959
 translate zh_Hans wife_jenna_storyline_727_e16a68c4:
@@ -8874,7 +8874,7 @@ translate zh_Hans wife_jenna_storyline_727_cf77fcfd:
 translate zh_Hans wife_jenna_storyline_727_3e94b2cb:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_287_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_287_ns}|{a=show:show_chat_media}{image=wife_video_287_ns}"
+    nvljohn "{a=show:show_chat_media}{image=wife_video_287_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:4973
 translate zh_Hans wife_jenna_storyline_727_01934006:
@@ -9026,7 +9026,7 @@ translate zh_Hans wife_jenna_storyline_728_6818593c:
 translate zh_Hans wife_jenna_storyline_728_3e94b2cb:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_287_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_287_ns}|{a=show:show_chat_media}{image=wife_video_287_ns}"
+    nvljohn "{a=show:show_chat_media}{image=wife_video_287_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:5058
 translate zh_Hans wife_jenna_storyline_728_a6896c5e:
@@ -9128,7 +9128,7 @@ translate zh_Hans wife_jenna_storyline_728_4648b2fe:
 translate zh_Hans wife_jenna_storyline_728_40ba1039:
 
     # nvlwsis "{a=show:show_chat_media}{image=sadie_pic_1}"
-    nvlwsis "{a=show:show_chat_media}{image=sadie_pic_1}|{a=show:show_chat_media}{image=sadie_pic_1}"
+    nvlwsis "{a=show:show_chat_media}{image=sadie_pic_1}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:5096
 translate zh_Hans wife_jenna_storyline_728_eb48042a:
@@ -9304,7 +9304,7 @@ translate zh_Hans wife_jenna_storyline_729_7dab3af9:
 translate zh_Hans wife_jenna_storyline_729_4cccd787:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_839}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_839}|{a=show:show_chat_media}{image=wife_pic_839}"
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_839}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:5191
 translate zh_Hans wife_jenna_storyline_729_bc00bbc5:
@@ -9382,7 +9382,7 @@ translate zh_Hans wife_jenna_storyline_729_d624cb45:
 translate zh_Hans wife_jenna_storyline_729_156451cd:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_840}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_840}|{a=show:show_chat_media}{image=wife_pic_840}"
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_840}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:5221
 translate zh_Hans wife_jenna_storyline_729_a6ad9a70:
@@ -9456,7 +9456,7 @@ translate zh_Hans wife_jenna_storyline_730_f8cdff77:
 translate zh_Hans wife_jenna_storyline_730_7f93a035:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_288_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_288_ns}|{a=show:show_chat_media}{image=wife_video_288_ns}"
+    nvljohn "{a=show:show_chat_media}{image=wife_video_288_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:5282
 translate zh_Hans wife_jenna_storyline_730_71dea4b6:
@@ -9716,7 +9716,7 @@ translate zh_Hans wife_jenna_storyline_731_b7c0ece6:
 translate zh_Hans wife_jenna_storyline_731_f1760fbd:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_2_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_2_ns}|{a=show:show_chat_media}{image=wife_video_2_ns}"
+    nvlwife "{a=show:show_chat_media}{image=wife_video_2_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:5404
 translate zh_Hans wife_jenna_storyline_731_9799a63e:
@@ -9758,7 +9758,7 @@ translate zh_Hans wife_jenna_storyline_731_cd074caf:
 translate zh_Hans wife_jenna_storyline_731_b05a2ba6:
 
     # nvlwife "{a=show:show_chat_media}{image=bbc_video_71_ns}"
-    nvlwife "{a=show:show_chat_media}{image=bbc_video_71_ns}|{a=show:show_chat_media}{image=bbc_video_71_ns}"
+    nvlwife "{a=show:show_chat_media}{image=bbc_video_71_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:5422
 translate zh_Hans wife_jenna_storyline_731_321072da:
@@ -9776,7 +9776,7 @@ translate zh_Hans wife_jenna_storyline_731_d4d1f4eb:
 translate zh_Hans wife_jenna_storyline_731_59a5426b:
 
     # nvlwife "{a=show:show_chat_media}{image=bbc_video_72_ns}"
-    nvlwife "{a=show:show_chat_media}{image=bbc_video_72_ns}|{a=show:show_chat_media}{image=bbc_video_72_ns}"
+    nvlwife "{a=show:show_chat_media}{image=bbc_video_72_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:5432
 translate zh_Hans wife_jenna_storyline_731_8db36a05:
@@ -9800,7 +9800,7 @@ translate zh_Hans wife_jenna_storyline_731_e5e2b081:
 translate zh_Hans wife_jenna_storyline_731_81f14756:
 
     # nvlwife "{a=show:show_chat_media}{image=bbc_video_73_ns}"
-    nvlwife "{a=show:show_chat_media}{image=bbc_video_73_ns}|{a=show:show_chat_media}{image=bbc_video_73_ns}"
+    nvlwife "{a=show:show_chat_media}{image=bbc_video_73_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:5444
 translate zh_Hans wife_jenna_storyline_731_fff4740f:
@@ -9890,7 +9890,7 @@ translate zh_Hans wife_jenna_storyline_731_bf72b3b8:
 translate zh_Hans wife_jenna_storyline_731_eb93269b:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_1}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_1}|{a=show:show_chat_media}{image=wife_pic_1}"
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_1}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:5478
 translate zh_Hans wife_jenna_storyline_731_94a12391:
@@ -10276,7 +10276,7 @@ translate zh_Hans wife_jenna_storyline_732_e0a9d7ac:
 translate zh_Hans wife_jenna_storyline_732_ed79d6b7:
 
     # nvlsadie "{a=show:show_chat_media}{image=sadie_pic_2}"
-    nvlsadie "{a=show:show_chat_media}{image=sadie_pic_2}|{a=show:show_chat_media}{image=sadie_pic_2}"
+    nvlsadie "{a=show:show_chat_media}{image=sadie_pic_2}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:5657
 translate zh_Hans wife_jenna_storyline_732_6ac1bc43:
@@ -10354,7 +10354,7 @@ translate zh_Hans wife_jenna_storyline_732_b44798bc:
 translate zh_Hans wife_jenna_storyline_732_a029df6a:
 
     # nvlsadie "{a=show:show_chat_media}{image=sadie_video_1_ns}"
-    nvlsadie "{a=show:show_chat_media}{image=sadie_video_1_ns}|{a=show:show_chat_media}{image=sadie_video_1_ns}"
+    nvlsadie "{a=show:show_chat_media}{image=sadie_video_1_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:5687
 translate zh_Hans wife_jenna_storyline_732_46d5afea:
@@ -10372,7 +10372,7 @@ translate zh_Hans wife_jenna_storyline_732_205db409:
 translate zh_Hans wife_jenna_storyline_732_5c4f4ae5:
 
     # nvlsadie "{a=show:show_chat_media}{image=sadie_video_2_ns}"
-    nvlsadie "{a=show:show_chat_media}{image=sadie_video_2_ns}|{a=show:show_chat_media}{image=sadie_video_2_ns}"
+    nvlsadie "{a=show:show_chat_media}{image=sadie_video_2_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:5697
 translate zh_Hans wife_jenna_storyline_732_29181fe9:
@@ -10396,7 +10396,7 @@ translate zh_Hans wife_jenna_storyline_732_142f6207:
 translate zh_Hans wife_jenna_storyline_732_cdf9126f:
 
     # nvlsadie "{a=show:show_chat_media}{image=sadie_video_3_ns}"
-    nvlsadie "{a=show:show_chat_media}{image=sadie_video_3_ns}|{a=show:show_chat_media}{image=sadie_video_3_ns}"
+    nvlsadie "{a=show:show_chat_media}{image=sadie_video_3_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:5709
 translate zh_Hans wife_jenna_storyline_732_0efd6d06:
@@ -10680,7 +10680,7 @@ translate zh_Hans wife_jenna_storyline_733_f3106c9a:
 translate zh_Hans wife_jenna_storyline_733_06b40d2d:
 
     # nvlwife "{a=show:show_chat_media}{image=sadie_pic_2}"
-    nvlwife "{a=show:show_chat_media}{image=sadie_pic_2}|{a=show:show_chat_media}{image=sadie_pic_2}"
+    nvlwife "{a=show:show_chat_media}{image=sadie_pic_2}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:5836
 translate zh_Hans wife_jenna_storyline_733_d05d97b9:
@@ -10782,7 +10782,7 @@ translate zh_Hans wife_jenna_storyline_733_ea37feef:
 translate zh_Hans wife_jenna_storyline_733_dd847a4b:
 
     # nvlwife "😉"
-    nvlwife "😉|😉"
+    nvlwife "😉|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:5870
 translate zh_Hans wife_jenna_storyline_733_0b0af88e:
@@ -10922,7 +10922,7 @@ translate zh_Hans wife_jenna_storyline_734_3b97f235:
 translate zh_Hans wife_jenna_storyline_734_fb18dcee:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_1_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_1_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:5955
 translate zh_Hans wife_jenna_storyline_734_0546d49b:
@@ -11038,7 +11038,7 @@ translate zh_Hans wife_jenna_storyline_735_15396f2e:
 translate zh_Hans wife_jenna_storyline_735_f52493ec:
 
     # nvljulia "😊"
-    nvljulia "😊|😊"
+    nvljulia "😊|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:6030
 translate zh_Hans wife_jenna_storyline_735_460882f5:
@@ -11056,7 +11056,7 @@ translate zh_Hans wife_jenna_storyline_735_26218dd7:
 translate zh_Hans wife_jenna_storyline_735_26b63293:
 
     # nvljulia "❤️"
-    nvljulia "❤️|❤️"
+    nvljulia "❤️|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:6048
 translate zh_Hans wife_jenna_storyline_735_53c71d7c:
@@ -11196,7 +11196,7 @@ translate zh_Hans wife_jenna_storyline_736_0f6fa7f1:
 translate zh_Hans wife_jenna_storyline_736_e57b72c8:
 
     # nvlwife "{a=show:show_chat_media}{image=bbc_video_74_ns}"
-    nvlwife "{a=show:show_chat_media}{image=bbc_video_74_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:6117
 translate zh_Hans wife_jenna_storyline_736_55dfb99b:
@@ -11208,7 +11208,7 @@ translate zh_Hans wife_jenna_storyline_736_55dfb99b:
 translate zh_Hans wife_jenna_storyline_736_d9cdeb41:
 
     # nvlwife "{a=show:show_chat_media}{image=bbc_video_76_ns}"
-    nvlwife "{a=show:show_chat_media}{image=bbc_video_76_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:6125
 translate zh_Hans wife_jenna_storyline_736_c89b9298:
@@ -11226,7 +11226,7 @@ translate zh_Hans wife_jenna_storyline_736_bf2de9f0:
 translate zh_Hans wife_jenna_storyline_736_fa8cc04b:
 
     # nvlwife "{a=show:show_chat_media}{image=bbc_video_75_ns}"
-    nvlwife "{a=show:show_chat_media}{image=bbc_video_75_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:6135
 translate zh_Hans wife_jenna_storyline_736_f976ac9d:
@@ -11292,7 +11292,7 @@ translate zh_Hans wife_jenna_storyline_736_aec917df:
 translate zh_Hans wife_jenna_storyline_736_2b991cbc:
 
     # nvlwife "❤️"
-    nvlwife "❤️|❤️"
+    nvlwife "❤️|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:6171
 translate zh_Hans wife_jenna_storyline_736_53c71d7c:
@@ -11360,7 +11360,7 @@ translate zh_Hans wife_jenna_storyline_737_82caec58:
 translate zh_Hans wife_jenna_storyline_737_a010a04e:
 
     # nvljohn "{a=show:show_chat_media}{image=julia_video_1_ns}"
-    nvljohn "{a=show:show_chat_media}{image=julia_video_1_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:6216
 translate zh_Hans wife_jenna_storyline_737_0469ea9e:
@@ -11378,7 +11378,7 @@ translate zh_Hans wife_jenna_storyline_737_9945e14b:
 translate zh_Hans wife_jenna_storyline_737_0e6c05b8:
 
     # nvljohn "{a=show:show_chat_media}{image=julia_video_2_ns}"
-    nvljohn "{a=show:show_chat_media}{image=julia_video_2_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:6230
 translate zh_Hans wife_jenna_storyline_737_68bf925a:
@@ -11506,7 +11506,7 @@ translate zh_Hans wife_jenna_storyline_738_a5c3bf37:
 translate zh_Hans wife_jenna_storyline_738_7a53e5de:
 
     # nvljohn "{a=show:show_chat_media}{image=sadie_video_4_ns}"
-    nvljohn "{a=show:show_chat_media}{image=sadie_video_4_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:6309
 translate zh_Hans wife_jenna_storyline_738_79ac6c8a:
@@ -11580,7 +11580,7 @@ translate zh_Hans wife_jenna_storyline_739_59685a70:
 translate zh_Hans wife_jenna_storyline_739_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:6366
 translate zh_Hans wife_jenna_storyline_739_cc91b4de:
@@ -11622,7 +11622,7 @@ translate zh_Hans wife_jenna_storyline_739_0de95166:
 translate zh_Hans wife_jenna_storyline_739_76e87634:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_3_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_3_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:6384
 translate zh_Hans wife_jenna_storyline_739_99298970:
@@ -11634,7 +11634,7 @@ translate zh_Hans wife_jenna_storyline_739_99298970:
 translate zh_Hans wife_jenna_storyline_739_10befb9c_1:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:6388
 translate zh_Hans wife_jenna_storyline_739_f536a147:
@@ -11652,7 +11652,7 @@ translate zh_Hans wife_jenna_storyline_739_af93d28f:
 translate zh_Hans wife_jenna_storyline_739_0a5f3442:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_4_ns}"
-    nvljohn "{a=show:show_chat_media}{image=wife_video_4_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:6402
 translate zh_Hans wife_jenna_storyline_739_fe0747a8:
@@ -11706,7 +11706,7 @@ translate zh_Hans wife_jenna_storyline_739_5340c935:
 translate zh_Hans wife_jenna_storyline_739_dbd7b32f:
 
     # nvljohn "{a=show:show_chat_media}{image=sadie_video_5_ns}"
-    nvljohn "{a=show:show_chat_media}{image=sadie_video_5_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:6424
 translate zh_Hans wife_jenna_storyline_739_930beae4:
@@ -11742,7 +11742,7 @@ translate zh_Hans wife_jenna_storyline_739_2d604357:
 translate zh_Hans wife_jenna_storyline_739_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:6448
 translate zh_Hans wife_jenna_storyline_739_53c71d7c:
@@ -12262,7 +12262,7 @@ translate zh_Hans wife_jenna_storyline_741_0b475df1:
 translate zh_Hans wife_jenna_storyline_741_31757b04:
 
     # nvlgeorge "{a=show:show_chat_media}{image=christina_pic_1}"
-    nvlgeorge "{a=show:show_chat_media}{image=christina_pic_1}"
+    nvlgeorge ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:6674
 translate zh_Hans wife_jenna_storyline_741_9540ac66:
@@ -12370,7 +12370,7 @@ translate zh_Hans wife_jenna_storyline_741_67a18a84:
 translate zh_Hans wife_jenna_storyline_741_f754308a:
 
     # nvlgeorge "{a=show:show_chat_media}{image=christina_video_22_ns}"
-    nvlgeorge "{a=show:show_chat_media}{image=christina_video_22_ns}"
+    nvlgeorge ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:6714
 translate zh_Hans wife_jenna_storyline_741_41ac9a47:
@@ -12388,7 +12388,7 @@ translate zh_Hans wife_jenna_storyline_741_a08f21c2:
 translate zh_Hans wife_jenna_storyline_741_fa345b4c:
 
     # nvlgeorge "{a=show:show_chat_media}{image=christina_video_23_ns}"
-    nvlgeorge "{a=show:show_chat_media}{image=christina_video_23_ns}"
+    nvlgeorge ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:6724
 translate zh_Hans wife_jenna_storyline_741_05a4fd0d:
@@ -12400,7 +12400,7 @@ translate zh_Hans wife_jenna_storyline_741_05a4fd0d:
 translate zh_Hans wife_jenna_storyline_741_2a9f9e77:
 
     # nvlgeorge "{a=show:show_chat_media}{image=christina_video_24_ns}"
-    nvlgeorge "{a=show:show_chat_media}{image=christina_video_24_ns}"
+    nvlgeorge ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:6732
 translate zh_Hans wife_jenna_storyline_741_69cd295e:
@@ -12848,7 +12848,7 @@ translate zh_Hans wife_jenna_storyline_743_071f44e3:
 translate zh_Hans wife_jenna_storyline_743_dd847a4b:
 
     # nvlwife "😉"
-    nvlwife "😉|😉"
+    nvlwife "😉|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:6946
 translate zh_Hans wife_jenna_storyline_743_676a3790:
@@ -12964,7 +12964,7 @@ translate zh_Hans wife_jenna_storyline_744_8cd9bd91:
 translate zh_Hans wife_jenna_storyline_744_ad551592:
 
     # nvljohn "{a=show:show_chat_media}{image=bbc_video_77_ns}"
-    nvljohn "{a=show:show_chat_media}{image=bbc_video_77_ns}|{a=show:show_chat_media}{image=bbc_video_77_ns}"
+    nvljohn "{a=show:show_chat_media}{image=bbc_video_77_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:7023
 translate zh_Hans wife_jenna_storyline_744_8021430f:
@@ -12982,7 +12982,7 @@ translate zh_Hans wife_jenna_storyline_744_d8aee8f1:
 translate zh_Hans wife_jenna_storyline_744_53d7787b:
 
     # nvljohn "{a=show:show_chat_media}{image=bbc_video_78_ns}"
-    nvljohn "{a=show:show_chat_media}{image=bbc_video_78_ns}|{a=show:show_chat_media}{image=bbc_video_78_ns}"
+    nvljohn "{a=show:show_chat_media}{image=bbc_video_78_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:7033
 translate zh_Hans wife_jenna_storyline_744_44c07e5c:
@@ -13074,7 +13074,7 @@ translate zh_Hans wife_jenna_storyline_745_272feb3b:
 translate zh_Hans wife_jenna_storyline_745_950178af:
 
     # nvlchristina "😊"
-    nvlchristina "😊|😊"
+    nvlchristina "😊|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:7096
 translate zh_Hans wife_jenna_storyline_745_dae3c044:
@@ -13086,7 +13086,7 @@ translate zh_Hans wife_jenna_storyline_745_dae3c044:
 translate zh_Hans wife_jenna_storyline_745_45b163d9:
 
     # nvljohn "{a=show:show_chat_media}{image=christina_video_25_ns}"
-    nvljohn "{a=show:show_chat_media}{image=christina_video_25_ns}|{a=show:show_chat_media}{image=christina_video_25_ns}"
+    nvljohn "{a=show:show_chat_media}{image=christina_video_25_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:7104
 translate zh_Hans wife_jenna_storyline_745_a8856019:
@@ -13104,7 +13104,7 @@ translate zh_Hans wife_jenna_storyline_745_46b2b855:
 translate zh_Hans wife_jenna_storyline_745_dd379603:
 
     # nvljohn "{a=show:show_chat_media}{image=christina_video_26_ns}"
-    nvljohn "{a=show:show_chat_media}{image=christina_video_26_ns}|{a=show:show_chat_media}{image=christina_video_26_ns}"
+    nvljohn "{a=show:show_chat_media}{image=christina_video_26_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:7122
 translate zh_Hans wife_jenna_storyline_745_57397c87:
@@ -13322,7 +13322,7 @@ translate zh_Hans wife_jenna_storyline_746_2caa26a1:
 translate zh_Hans wife_jenna_storyline_746_88ef3a7f:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_20_ns}"
-    nvljenna "{a=show:show_chat_media}{image=jenna_video_20_ns}|{a=show:show_chat_media}{image=jenna_video_20_ns}"
+    nvljenna "{a=show:show_chat_media}{image=jenna_video_20_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:7231
 translate zh_Hans wife_jenna_storyline_746_f129b8c7:
@@ -13340,7 +13340,7 @@ translate zh_Hans wife_jenna_storyline_746_ab53b9f4:
 translate zh_Hans wife_jenna_storyline_746_7a8e6187:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_21_ns}"
-    nvljenna "{a=show:show_chat_media}{image=jenna_video_21_ns}|{a=show:show_chat_media}{image=jenna_video_21_ns}"
+    nvljenna "{a=show:show_chat_media}{image=jenna_video_21_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:7241
 translate zh_Hans wife_jenna_storyline_746_2b41f14c:
@@ -13418,7 +13418,7 @@ translate zh_Hans wife_jenna_storyline_746_40b7875c:
 translate zh_Hans wife_jenna_storyline_746_2b991cbc:
 
     # nvlwife "❤️"
-    nvlwife "❤️|❤️"
+    nvlwife "❤️|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:7281
 translate zh_Hans wife_jenna_storyline_746_53c71d7c:
@@ -13494,7 +13494,7 @@ translate zh_Hans wife_jenna_storyline_748_f0044ab3:
 translate zh_Hans wife_jenna_storyline_748_7c2a1586:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_5_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_5_ns}|{a=show:show_chat_media}{image=wife_video_5_ns}"
+    nvlwife "{a=show:show_chat_media}{image=wife_video_5_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:7361
 translate zh_Hans wife_jenna_storyline_748_b75d195c:
@@ -13518,7 +13518,7 @@ translate zh_Hans wife_jenna_storyline_748_71a5b6ca:
 translate zh_Hans wife_jenna_storyline_748_dd847a4b:
 
     # nvlwife "😉"
-    nvlwife "😉|😉"
+    nvlwife "😉|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:7383
 translate zh_Hans wife_jenna_storyline_748_53c71d7c:
@@ -13556,7 +13556,7 @@ translate zh_Hans wife_jenna_storyline_749_f9cd849d:
 translate zh_Hans wife_jenna_storyline_749_5266c81d:
 
     # nvlwife "{a=show:show_chat_media}{image=hazel_video_1_ns}"
-    nvlwife "{a=show:show_chat_media}{image=hazel_video_1_ns}|{a=show:show_chat_media}{image=hazel_video_1_ns}"
+    nvlwife "{a=show:show_chat_media}{image=hazel_video_1_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:7418
 translate zh_Hans wife_jenna_storyline_749_d0b241a4:
@@ -13574,7 +13574,7 @@ translate zh_Hans wife_jenna_storyline_749_01520065:
 translate zh_Hans wife_jenna_storyline_749_93f2494f:
 
     # nvlwife "{a=show:show_chat_media}{image=hazel_video_2_ns}"
-    nvlwife "{a=show:show_chat_media}{image=hazel_video_2_ns}|{a=show:show_chat_media}{image=hazel_video_2_ns}"
+    nvlwife "{a=show:show_chat_media}{image=hazel_video_2_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:7428
 translate zh_Hans wife_jenna_storyline_749_e2bad65f:
@@ -13630,7 +13630,7 @@ translate zh_Hans wife_jenna_storyline_750_8bc1d1af:
 translate zh_Hans wife_jenna_storyline_750_bac23651:
 
     # nvljohn "{a=show:show_chat_media}{image=christina_video_27_ns}"
-    nvljohn "{a=show:show_chat_media}{image=christina_video_27_ns}|{a=show:show_chat_media}{image=christina_video_27_ns}"
+    nvljohn "{a=show:show_chat_media}{image=christina_video_27_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:7483
 translate zh_Hans wife_jenna_storyline_750_d2e67f62:
@@ -13884,7 +13884,7 @@ translate zh_Hans wife_jenna_storyline_751_6055223e:
 translate zh_Hans wife_jenna_storyline_751_1963b057:
 
     # nvlunknown "{a=show:show_chat_media}{image=bbc_video_79_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=bbc_video_79_ns}"
+    nvlunknown ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:7604
 translate zh_Hans wife_jenna_storyline_751_e7705031:
@@ -13902,7 +13902,7 @@ translate zh_Hans wife_jenna_storyline_751_ec97e3f8:
 translate zh_Hans wife_jenna_storyline_751_f3913c99:
 
     # nvlunknown "{a=show:show_chat_media}{image=bbc_video_80_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=bbc_video_80_ns}"
+    nvlunknown ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:7614
 translate zh_Hans wife_jenna_storyline_751_7ed1c317:
@@ -14158,7 +14158,7 @@ translate zh_Hans wife_jenna_storyline_753_f1608234:
 translate zh_Hans wife_jenna_storyline_753_d1e8d980:
 
     # nvlsadie "{a=show:show_chat_media}{image=sadie_pic_3}"
-    nvlsadie "{a=show:show_chat_media}{image=sadie_pic_3}"
+    nvlsadie ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:7768
 translate zh_Hans wife_jenna_storyline_753_fb7354d5:
@@ -14170,13 +14170,13 @@ translate zh_Hans wife_jenna_storyline_753_fb7354d5:
 translate zh_Hans wife_jenna_storyline_753_7a5f2826:
 
     # nvlsadie "{a=show:show_chat_media}{image=sadie_pic_4}"
-    nvlsadie "{a=show:show_chat_media}{image=sadie_pic_4}"
+    nvlsadie ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:7778
 translate zh_Hans wife_jenna_storyline_753_9ca54650:
 
     # nvlsadie "{a=show:show_chat_media}{image=sadie_pic_5}"
-    nvlsadie "{a=show:show_chat_media}{image=sadie_pic_5}"
+    nvlsadie ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:7788
 translate zh_Hans wife_jenna_storyline_753_9b3e4425:
@@ -14326,7 +14326,7 @@ translate zh_Hans wife_jenna_storyline_753_7c565210:
 translate zh_Hans wife_jenna_storyline_753_2bf5e7bc:
 
     # nvlsadie "😊"
-    nvlsadie "😊|😊"
+    nvlsadie "😊|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:7838
 translate zh_Hans wife_jenna_storyline_753_f2b2f3f0:
@@ -14484,7 +14484,7 @@ translate zh_Hans wife_jenna_storyline_754_c5517877:
 translate zh_Hans wife_jenna_storyline_754_7b6da3fa:
 
     # nvlwife "{a=show:show_chat_media}{image=sadie_pic_3}"
-    nvlwife "{a=show:show_chat_media}{image=sadie_pic_3}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:7927
 translate zh_Hans wife_jenna_storyline_754_3b0b08f7:
@@ -14502,7 +14502,7 @@ translate zh_Hans wife_jenna_storyline_754_f1aef40d:
 translate zh_Hans wife_jenna_storyline_754_f33eb7fc:
 
     # nvlwife "{a=show:show_chat_media}{image=sadie_pic_4}"
-    nvlwife "{a=show:show_chat_media}{image=sadie_pic_4}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:7937
 translate zh_Hans wife_jenna_storyline_754_46fcc43a:
@@ -14520,7 +14520,7 @@ translate zh_Hans wife_jenna_storyline_754_b3a294d9:
 translate zh_Hans wife_jenna_storyline_754_6308fe9f:
 
     # nvlwife "{a=show:show_chat_media}{image=sadie_pic_5}"
-    nvlwife "{a=show:show_chat_media}{image=sadie_pic_5}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:7953
 translate zh_Hans wife_jenna_storyline_754_b5383cb4:
@@ -14588,7 +14588,7 @@ translate zh_Hans wife_jenna_storyline_755_e04d8231:
 translate zh_Hans wife_jenna_storyline_755_64971cbd:
 
     # nvljohn "{a=show:show_chat_media}{image=christina_video_28_ns}"
-    nvljohn "{a=show:show_chat_media}{image=christina_video_28_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:8012
 translate zh_Hans wife_jenna_storyline_755_a4be64a1:
@@ -14606,7 +14606,7 @@ translate zh_Hans wife_jenna_storyline_755_97b8cb5a:
 translate zh_Hans wife_jenna_storyline_755_2cb22988:
 
     # nvljohn "{a=show:show_chat_media}{image=christina_video_29_ns}"
-    nvljohn "{a=show:show_chat_media}{image=christina_video_29_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:8026
 translate zh_Hans wife_jenna_storyline_755_16b096d3:
@@ -14704,7 +14704,7 @@ translate zh_Hans wife_jenna_storyline_756_4ea05845:
 translate zh_Hans wife_jenna_storyline_756_4ddf356c:
 
     # nvljohn "I just wanted to reach out and get your approval on final edits before I post anything"
-    nvljohn "我只是想在发布任何内容之前，先联系您确认最终修改稿。"
+    nvljohn "我只是想在发布任何内容之前，先联系你确认最终修改稿。"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:8093
 translate zh_Hans wife_jenna_storyline_756_92c87c53:
@@ -14740,7 +14740,7 @@ translate zh_Hans wife_jenna_storyline_756_56f0f9d4:
 translate zh_Hans wife_jenna_storyline_756_0d060fa1:
 
     # nvljohn "{a=show:show_chat_media}{image=sadie_video_6_ns}"
-    nvljohn "{a=show:show_chat_media}{image=sadie_video_6_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:8109
 translate zh_Hans wife_jenna_storyline_756_97a24b81:
@@ -14752,7 +14752,7 @@ translate zh_Hans wife_jenna_storyline_756_97a24b81:
 translate zh_Hans wife_jenna_storyline_756_2bb8ad60:
 
     # nvljohn "{a=show:show_chat_media}{image=sadie_video_7_ns}"
-    nvljohn "{a=show:show_chat_media}{image=sadie_video_7_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:8121
 translate zh_Hans wife_jenna_storyline_756_47284dee:
@@ -14836,7 +14836,7 @@ translate zh_Hans wife_jenna_storyline_756_53b4f8d2:
 translate zh_Hans wife_jenna_storyline_756_2bf5e7bc:
 
     # nvlsadie "😊"
-    nvlsadie "😊|😊"
+    nvlsadie "😊|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:8161
 translate zh_Hans wife_jenna_storyline_756_53c71d7c:
@@ -14850,7 +14850,7 @@ translate zh_Hans wife_jenna_storyline_757_a7e48ced:
     # nvl clear
     # nvlunknown "Are you free for a few moments?"
     nvl clear
-    nvlunknown "您现在有空吗？"
+    nvlunknown "你现在有空吗？"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:8184
 translate zh_Hans wife_jenna_storyline_757_46c59772:
@@ -14892,7 +14892,7 @@ translate zh_Hans wife_jenna_storyline_757_5d39d1dc:
 translate zh_Hans wife_jenna_storyline_757_4982b9c8:
 
     # nvlunknown "{a=show:show_chat_media}{image=bbc_video_81_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=bbc_video_81_ns}"
+    nvlunknown ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:8202
 translate zh_Hans wife_jenna_storyline_757_7cf4d1d2:
@@ -14910,7 +14910,7 @@ translate zh_Hans wife_jenna_storyline_757_21c0b898:
 translate zh_Hans wife_jenna_storyline_757_16ca8502:
 
     # nvlunknown "{a=show:show_chat_media}{image=bbc_video_82_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=bbc_video_82_ns}"
+    nvlunknown ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:8212
 translate zh_Hans wife_jenna_storyline_757_34185e75:
@@ -14964,7 +14964,7 @@ translate zh_Hans wife_jenna_storyline_757_0ff5082f:
 translate zh_Hans wife_jenna_storyline_757_b0e66ccc:
 
     # nvlunknown "{a=show:show_chat_media}{image=bbc_video_83_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=bbc_video_83_ns}"
+    nvlunknown ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:8234
 translate zh_Hans wife_jenna_storyline_757_f2035d6c:
@@ -14982,7 +14982,7 @@ translate zh_Hans wife_jenna_storyline_757_d82530fe:
 translate zh_Hans wife_jenna_storyline_757_3f753693:
 
     # nvlunknown "{a=show:show_chat_media}{image=bbc_video_84_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=bbc_video_84_ns}"
+    nvlunknown ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:8244
 translate zh_Hans wife_jenna_storyline_757_1c21464d:
@@ -15510,7 +15510,7 @@ translate zh_Hans wife_jenna_storyline_760_ba8c927d:
 translate zh_Hans wife_jenna_storyline_760_dd847a4b:
 
     # nvlwife "😉"
-    nvlwife "😉|😉"
+    nvlwife "😉|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:8527
 translate zh_Hans wife_jenna_storyline_760_c12e32b9:
@@ -15694,7 +15694,7 @@ translate zh_Hans wife_jenna_storyline_762_dadd2c20:
 translate zh_Hans wife_jenna_storyline_762_c7dc1e4c:
 
     # nvlwife "{a=show:show_chat_media}{image=bbc_video_85_ns}"
-    nvlwife "{a=show:show_chat_media}{image=bbc_video_85_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:8657
 translate zh_Hans wife_jenna_storyline_762_52846b91:
@@ -15706,7 +15706,7 @@ translate zh_Hans wife_jenna_storyline_762_52846b91:
 translate zh_Hans wife_jenna_storyline_762_15666b1b:
 
     # nvlwife "{a=show:show_chat_media}{image=bbc_video_86_ns}"
-    nvlwife "{a=show:show_chat_media}{image=bbc_video_86_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:8665
 translate zh_Hans wife_jenna_storyline_762_52499891:
@@ -15864,7 +15864,7 @@ translate zh_Hans wife_jenna_storyline_763_1530de9f:
 translate zh_Hans wife_jenna_storyline_763_20e30b74:
 
     # nvlwife "{a=show:show_chat_media}{image=bbc_video_87_ns}"
-    nvlwife "{a=show:show_chat_media}{image=bbc_video_87_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:8756
 translate zh_Hans wife_jenna_storyline_763_ecab10b0:
@@ -15882,7 +15882,7 @@ translate zh_Hans wife_jenna_storyline_763_faec6d3a:
 translate zh_Hans wife_jenna_storyline_763_4a934fad:
 
     # nvlwife "{a=show:show_chat_media}{image=bbc_video_88_ns}"
-    nvlwife "{a=show:show_chat_media}{image=bbc_video_88_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:8766
 translate zh_Hans wife_jenna_storyline_763_a256fd22:
@@ -16520,7 +16520,7 @@ translate zh_Hans wife_jenna_storyline_764_941670e1:
 translate zh_Hans wife_jenna_storyline_764_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:9011
 translate zh_Hans wife_jenna_storyline_764_d140994f:
@@ -16658,7 +16658,7 @@ translate zh_Hans wife_jenna_storyline_764_1205f631:
 translate zh_Hans wife_jenna_storyline_764_9f49bf2a:
 
     # nvldawn "{a=show:show_chat_media}{image=dawn_pic_1}"
-    nvldawn "{a=show:show_chat_media}{image=dawn_pic_1}"
+    nvldawn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:9061
 translate zh_Hans wife_jenna_storyline_764_1852fe80:
@@ -16676,7 +16676,7 @@ translate zh_Hans wife_jenna_storyline_764_49f3ab03:
 translate zh_Hans wife_jenna_storyline_764_e5ec9ac7:
 
     # nvldawn "{a=show:show_chat_media}{image=dawn_pic_2}"
-    nvldawn "{a=show:show_chat_media}{image=dawn_pic_2}"
+    nvldawn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:9071
 translate zh_Hans wife_jenna_storyline_764_f603c724:
@@ -16822,7 +16822,7 @@ translate zh_Hans wife_jenna_storyline_765_a34a84c7:
 translate zh_Hans wife_jenna_storyline_765_de2a0fdb:
 
     # nvljohn "Are you able to be here and ready late morning?"
-    nvljohn "您上午晚些时候能到场并做好准备吗？"
+    nvljohn "你上午晚些时候能到场并做好准备吗？"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:9150
 translate zh_Hans wife_jenna_storyline_765_c04d636b:
@@ -16902,7 +16902,7 @@ translate zh_Hans wife_jenna_storyline_766_85300cd7:
 translate zh_Hans wife_jenna_storyline_766_d239ad87:
 
     # nvljohn "{a=show:show_chat_media}{image=w_sister_video_25_ns}"
-    nvljohn "{a=show:show_chat_media}{image=w_sister_video_25_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:9211
 translate zh_Hans wife_jenna_storyline_766_f0662952:
@@ -16920,7 +16920,7 @@ translate zh_Hans wife_jenna_storyline_766_fa9a29be:
 translate zh_Hans wife_jenna_storyline_766_869d8f07:
 
     # nvljohn "{a=show:show_chat_media}{image=w_sister_video_26_ns}"
-    nvljohn "{a=show:show_chat_media}{image=w_sister_video_26_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:9225
 translate zh_Hans wife_jenna_storyline_766_cfdbed29:
@@ -17054,7 +17054,7 @@ translate zh_Hans wife_jenna_storyline_767_754049b4:
 translate zh_Hans wife_jenna_storyline_767_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:9300
 translate zh_Hans wife_jenna_storyline_767_619b1eb8:
@@ -17146,7 +17146,7 @@ translate zh_Hans wife_jenna_storyline_768_f26ca981:
 translate zh_Hans wife_jenna_storyline_768_7633828e:
 
     # nvljohn "😊"
-    nvljohn "😊|😊"
+    nvljohn "😊|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:9363
 translate zh_Hans wife_jenna_storyline_768_b6f1fcbd:
@@ -17164,7 +17164,7 @@ translate zh_Hans wife_jenna_storyline_768_29478378:
 translate zh_Hans wife_jenna_storyline_768_dd847a4b:
 
     # nvlwife "😉"
-    nvlwife "😉|😉"
+    nvlwife "😉|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:9383
 translate zh_Hans wife_jenna_storyline_768_53c71d7c:
@@ -17288,7 +17288,7 @@ translate zh_Hans wife_jenna_storyline_770_1cecaa73:
 translate zh_Hans wife_jenna_storyline_770_518fc87e:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_6_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_6_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:9477
 translate zh_Hans wife_jenna_storyline_770_48acfaae:
@@ -17306,7 +17306,7 @@ translate zh_Hans wife_jenna_storyline_770_25ba4b45:
 translate zh_Hans wife_jenna_storyline_770_c79e34e1:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_2}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_2}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:9487
 translate zh_Hans wife_jenna_storyline_770_e7705031:
@@ -17392,7 +17392,7 @@ translate zh_Hans wife_jenna_storyline_771_ddaef434:
 translate zh_Hans wife_jenna_storyline_771_32d41286:
 
     # nvljohn "{a=show:show_chat_media}{image=w_sister_video_27_ns}"
-    nvljohn "{a=show:show_chat_media}{image=w_sister_video_27_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:9550
 translate zh_Hans wife_jenna_storyline_771_247aedf7:
@@ -17410,7 +17410,7 @@ translate zh_Hans wife_jenna_storyline_771_4e22e7d4:
 translate zh_Hans wife_jenna_storyline_771_f501fbc1:
 
     # nvljohn "{a=show:show_chat_media}{image=w_sister_video_28_ns}"
-    nvljohn "{a=show:show_chat_media}{image=w_sister_video_28_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:9564
 translate zh_Hans wife_jenna_storyline_771_587448c0:
@@ -17472,7 +17472,7 @@ translate zh_Hans wife_jenna_storyline_772_441be1a4:
 translate zh_Hans wife_jenna_storyline_772_62cd6c81:
 
     # nvlgeorge "{a=show:show_chat_media}{image=christina_video_30_ns}"
-    nvlgeorge "{a=show:show_chat_media}{image=christina_video_30_ns}"
+    nvlgeorge ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:9621
 translate zh_Hans wife_jenna_storyline_772_936dc5e9:
@@ -17918,7 +17918,7 @@ translate zh_Hans wife_jenna_storyline_773_3dffbf2f:
 translate zh_Hans wife_jenna_storyline_773_046dd782:
 
     # nvldawn "{a=show:show_chat_media}{image=dawn_pic_4}"
-    nvldawn "{a=show:show_chat_media}{image=dawn_pic_4}"
+    nvldawn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:9806
 translate zh_Hans wife_jenna_storyline_773_1e385605:
@@ -17930,7 +17930,7 @@ translate zh_Hans wife_jenna_storyline_773_1e385605:
 translate zh_Hans wife_jenna_storyline_773_01b48039:
 
     # nvldawn "{a=show:show_chat_media}{image=dawn_pic_3}"
-    nvldawn "{a=show:show_chat_media}{image=dawn_pic_3}"
+    nvldawn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:9814
 translate zh_Hans wife_jenna_storyline_773_30135a6c:
@@ -17960,7 +17960,7 @@ translate zh_Hans wife_jenna_storyline_773_38fb7e3f:
 translate zh_Hans wife_jenna_storyline_773_fa4d3545:
 
     # nvldawn "{a=show:show_chat_media}{image=dawn_pic_5}"
-    nvldawn "{a=show:show_chat_media}{image=dawn_pic_5}"
+    nvldawn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:9828
 translate zh_Hans wife_jenna_storyline_773_2f87accf:
@@ -18038,7 +18038,7 @@ translate zh_Hans wife_jenna_storyline_773_d9e630fd:
 translate zh_Hans wife_jenna_storyline_773_2b991cbc:
 
     # nvlwife "❤️"
-    nvlwife "❤️|❤️"
+    nvlwife "❤️|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:9868
 translate zh_Hans wife_jenna_storyline_773_53c71d7c:
@@ -18166,31 +18166,31 @@ translate zh_Hans wife_jenna_storyline_774_5cf2c9d0:
 translate zh_Hans wife_jenna_storyline_774_78422da8:
 
     # nvlwife "{a=show:show_chat_media}{image=dawn_pic_1}"
-    nvlwife "{a=show:show_chat_media}{image=dawn_pic_1}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:9935
 translate zh_Hans wife_jenna_storyline_774_c0bafa24:
 
     # nvlwife "{a=show:show_chat_media}{image=dawn_pic_2}"
-    nvlwife "{a=show:show_chat_media}{image=dawn_pic_2}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:9941
 translate zh_Hans wife_jenna_storyline_774_0e591f19:
 
     # nvlwife "{a=show:show_chat_media}{image=dawn_pic_3}"
-    nvlwife "{a=show:show_chat_media}{image=dawn_pic_3}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:9947
 translate zh_Hans wife_jenna_storyline_774_d08ff6f7:
 
     # nvlwife "{a=show:show_chat_media}{image=dawn_pic_4}"
-    nvlwife "{a=show:show_chat_media}{image=dawn_pic_4}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:9953
 translate zh_Hans wife_jenna_storyline_774_5826a134:
 
     # nvlwife "{a=show:show_chat_media}{image=dawn_pic_5}"
-    nvlwife "{a=show:show_chat_media}{image=dawn_pic_5}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:9957
 translate zh_Hans wife_jenna_storyline_774_5a81c083:
@@ -18390,7 +18390,7 @@ translate zh_Hans wife_jenna_storyline_775_20979de4:
 translate zh_Hans wife_jenna_storyline_775_2ba7128f:
 
     # nvlwife "{a=show:show_chat_media}{image=dawn_video_1_ns}"
-    nvlwife "{a=show:show_chat_media}{image=dawn_video_1_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:10060
 translate zh_Hans wife_jenna_storyline_775_84215350:
@@ -18402,7 +18402,7 @@ translate zh_Hans wife_jenna_storyline_775_84215350:
 translate zh_Hans wife_jenna_storyline_775_321208b9:
 
     # nvlwife "{a=show:show_chat_media}{image=dawn_video_2_ns}"
-    nvlwife "{a=show:show_chat_media}{image=dawn_video_2_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:10068
 translate zh_Hans wife_jenna_storyline_775_6fbf6fa5:
@@ -18414,7 +18414,7 @@ translate zh_Hans wife_jenna_storyline_775_6fbf6fa5:
 translate zh_Hans wife_jenna_storyline_775_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:10072
 translate zh_Hans wife_jenna_storyline_775_d3ce18a7:
@@ -18482,7 +18482,7 @@ translate zh_Hans wife_jenna_storyline_776_29a36dd2:
 translate zh_Hans wife_jenna_storyline_776_8de6dc63:
 
     # nvldawn "{a=show:show_chat_media}{image=dawn_video_3_ns}"
-    nvldawn "{a=show:show_chat_media}{image=dawn_video_3_ns}"
+    nvldawn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:10131
 translate zh_Hans wife_jenna_storyline_776_38b927f3:
@@ -18536,7 +18536,7 @@ translate zh_Hans wife_jenna_storyline_776_2f65e8f5:
 translate zh_Hans wife_jenna_storyline_776_958279fa:
 
     # nvldawn "{a=show:show_chat_media}{image=wife_video_7_ns}"
-    nvldawn "{a=show:show_chat_media}{image=wife_video_7_ns}"
+    nvldawn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:10153
 translate zh_Hans wife_jenna_storyline_776_3a7d0cd9:
@@ -18608,7 +18608,7 @@ translate zh_Hans wife_jenna_storyline_776_e763489a:
 translate zh_Hans wife_jenna_storyline_776_0170aa3a:
 
     # nvldawn "❤️"
-    nvldawn "❤️|❤️"
+    nvldawn "❤️|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:10189
 translate zh_Hans wife_jenna_storyline_776_53c71d7c:
@@ -19170,13 +19170,13 @@ translate zh_Hans wife_jenna_storyline_782_a45bad65:
 translate zh_Hans wife_jenna_storyline_782_ac6a808e:
 
     # bi "If you'd prefer to explore the other routes first and return to this path later, we recommend putting this branch on hold for now."
-    bi "如果您想先探索其他路线，稍后再回到这里，我们建议您暂时搁置此分支。"
+    bi "如果你想先探索其他路线，稍后再回到这里，我们建议你暂时搁置此分支。"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:10568
 translate zh_Hans wife_jenna_storyline_782_2c10f3b1:
 
     # bi "You’ll be able to return to it later."
-    bi "您稍后可以返回。"
+    bi "你稍后可以返回。"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:10572
 translate zh_Hans wife_jenna_storyline_782_7c9f3dee:
@@ -19582,7 +19582,7 @@ translate zh_Hans wife_jenna_storyline_783_966e4c7b:
 translate zh_Hans wife_jenna_storyline_783_d508db76:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_18_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_18_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:10770
 translate zh_Hans wife_jenna_storyline_783_24f72432:
@@ -19802,7 +19802,7 @@ translate zh_Hans wife_jenna_storyline_785_41d84326:
 translate zh_Hans wife_jenna_storyline_785_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:10908
 translate zh_Hans wife_jenna_storyline_785_a46b9520:
@@ -19814,7 +19814,7 @@ translate zh_Hans wife_jenna_storyline_785_a46b9520:
 translate zh_Hans wife_jenna_storyline_785_812a0a69:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_60_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_60_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:10916
 translate zh_Hans wife_jenna_storyline_785_529caeae:
@@ -20002,7 +20002,7 @@ translate zh_Hans wife_jenna_storyline_786_906d86db:
 translate zh_Hans wife_jenna_storyline_786_174916af:
 
     # nvlwsis "❤️"
-    nvlwsis "❤️|❤️"
+    nvlwsis "❤️|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:11011
 translate zh_Hans wife_jenna_storyline_786_fc38dfb2:
@@ -20100,7 +20100,7 @@ translate zh_Hans wife_jenna_storyline_787_f38f93e7:
 translate zh_Hans wife_jenna_storyline_787_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:11076
 translate zh_Hans wife_jenna_storyline_787_a1edbbc4:
@@ -20184,7 +20184,7 @@ translate zh_Hans wife_jenna_storyline_787_2a371bdc:
 translate zh_Hans wife_jenna_storyline_787_e7b922da:
 
     # nvldawn "{a=show:show_chat_media}{image=wife_video_259_ns}"
-    nvldawn "{a=show:show_chat_media}{image=wife_video_259_ns}"
+    nvldawn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:11108
 translate zh_Hans wife_jenna_storyline_787_5d9742d4:
@@ -20390,7 +20390,7 @@ translate zh_Hans wife_jenna_storyline_788_fbe190aa:
 translate zh_Hans wife_jenna_storyline_788_d81677c1:
 
     # nvljenna "😉"
-    nvljenna "😉|😉"
+    nvljenna "😉|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:11221
 translate zh_Hans wife_jenna_storyline_788_53c71d7c:
@@ -20422,7 +20422,7 @@ translate zh_Hans wife_jenna_storyline_789_e925500e:
 translate zh_Hans wife_jenna_storyline_789_86260029:
 
     # nvljohn "{a=show:show_chat_media}{image=w_sister_video_15_ns}"
-    nvljohn "{a=show:show_chat_media}{image=w_sister_video_15_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:11254
 translate zh_Hans wife_jenna_storyline_789_b1a4243a:
@@ -20440,7 +20440,7 @@ translate zh_Hans wife_jenna_storyline_789_8ec5d881:
 translate zh_Hans wife_jenna_storyline_789_b2282bbd:
 
     # nvljohn "{a=show:show_chat_media}{image=w_sister_video_16_ns}"
-    nvljohn "{a=show:show_chat_media}{image=w_sister_video_16_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:11268
 translate zh_Hans wife_jenna_storyline_789_67671bf1:
@@ -20562,7 +20562,7 @@ translate zh_Hans wife_jenna_storyline_790_026e1bed:
 translate zh_Hans wife_jenna_storyline_790_d952a92c:
 
     # nvlwife "Hello, Mr Salim."
-    nvlwife "您好，萨利姆先生。"
+    nvlwife "你好，萨利姆先生。"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:11341
 translate zh_Hans wife_jenna_storyline_790_261f20d6:
@@ -20890,7 +20890,7 @@ translate zh_Hans wife_jenna_storyline_792_cea29e30:
 translate zh_Hans wife_jenna_storyline_792_76b6d052:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_883}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_883}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:11533
 translate zh_Hans wife_jenna_storyline_792_ead0eb98:
@@ -20958,7 +20958,7 @@ translate zh_Hans wife_jenna_storyline_793_ce233a93:
 translate zh_Hans wife_jenna_storyline_793_984c2bdf:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_348_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_348_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:11592
 translate zh_Hans wife_jenna_storyline_793_97fb8501:
@@ -21402,7 +21402,7 @@ translate zh_Hans wife_jenna_storyline_796_d8b25720:
 translate zh_Hans wife_jenna_storyline_796_85b627e0:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_884}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_884}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:11855
 translate zh_Hans wife_jenna_storyline_796_cac4be9a:
@@ -21850,13 +21850,13 @@ translate zh_Hans wife_jenna_storyline_798_501fa488:
 translate zh_Hans wife_jenna_storyline_798_9506954d:
 
     # nvljohn "{a=show:show_chat_media}{image=julia_video_43_ns}"
-    nvljohn "{a=show:show_chat_media}{image=julia_video_43_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:12073
 translate zh_Hans wife_jenna_storyline_798_149551fd:
 
     # nvljohn "{a=show:show_chat_media}{image=julia_video_44_ns}"
-    nvljohn "{a=show:show_chat_media}{image=julia_video_44_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:12081
 translate zh_Hans wife_jenna_storyline_798_6798728d:
@@ -22414,7 +22414,7 @@ translate zh_Hans wife_jenna_storyline_801_9b69f830:
 translate zh_Hans wife_jenna_storyline_801_7f54034d:
 
     # nvlsalim "{a=show:show_chat_media}{image=wife_pic_885}"
-    nvlsalim "{a=show:show_chat_media}{image=wife_pic_885}"
+    nvlsalim ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:12368
 translate zh_Hans wife_jenna_storyline_801_e88e830e:
@@ -22516,7 +22516,7 @@ translate zh_Hans wife_jenna_storyline_801_ab16f248:
 translate zh_Hans wife_jenna_storyline_801_dd847a4b:
 
     # nvlwife "😉"
-    nvlwife "😉|😉"
+    nvlwife "😉|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:12402
 translate zh_Hans wife_jenna_storyline_801_78db7cd6:
@@ -22912,7 +22912,7 @@ translate zh_Hans wife_jenna_storyline_804_5b8ae7e3:
 translate zh_Hans wife_jenna_storyline_804_a68c6f71:
 
     # nvlwsis "{a=show:show_chat_media}{image=w_sister_pic_169}"
-    nvlwsis "{a=show:show_chat_media}{image=w_sister_pic_169}"
+    nvlwsis ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:12635
 translate zh_Hans wife_jenna_storyline_804_268d7bd2:
@@ -23070,7 +23070,7 @@ translate zh_Hans wife_jenna_storyline_805_f00b2eb7:
 translate zh_Hans wife_jenna_storyline_805_a8fb7e1e:
 
     # nvlunknown "How are you, Mr [mc_name_is]?"
-    nvlunknown "您好，[mc_name_is]先生？"
+    nvlunknown "你好，[mc_name_is]先生？"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:12734
 translate zh_Hans wife_jenna_storyline_805_7087634e:
@@ -23136,7 +23136,7 @@ translate zh_Hans wife_jenna_storyline_805_7edce808:
 translate zh_Hans wife_jenna_storyline_805_da25b826:
 
     # nvlunknown "And to share a video with you"
-    nvlunknown "并与您分享一段视频"
+    nvlunknown "并与你分享一段视频"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:12756
 translate zh_Hans wife_jenna_storyline_805_2d19825d:
@@ -23184,7 +23184,7 @@ translate zh_Hans wife_jenna_storyline_805_357efb57:
 translate zh_Hans wife_jenna_storyline_805_f77a3030:
 
     # nvlunknown "{a=show:show_chat_media}{image=wife_video_349_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=wife_video_349_ns}"
+    nvlunknown ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:12776
 translate zh_Hans wife_jenna_storyline_805_215e2dfb:
@@ -23214,7 +23214,7 @@ translate zh_Hans wife_jenna_storyline_805_983d14c2:
 translate zh_Hans wife_jenna_storyline_805_535b4879:
 
     # nvlunknown "{a=show:show_chat_media}{image=w_sister_video_45_ns}"
-    nvlunknown "{a=show:show_chat_media}{image=w_sister_video_45_ns}"
+    nvlunknown ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:12790
 translate zh_Hans wife_jenna_storyline_805_1511d9cf:
@@ -23748,7 +23748,7 @@ translate zh_Hans wife_jenna_storyline_808_05a8ece4:
     # nvl clear
     # nvlsalim "I have a gift for you, Ms [wife_name_is]"
     nvl clear
-    nvlsalim "女士，我给您准备了一份礼物。 [wife_name_is]"
+    nvlsalim "女士，我给你准备了一份礼物。 [wife_name_is]"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:13079
 translate zh_Hans wife_jenna_storyline_808_a2704dda:
@@ -23810,7 +23810,7 @@ translate zh_Hans wife_jenna_storyline_809_634f039e:
 translate zh_Hans wife_jenna_storyline_809_1163442e:
 
     # nvlsalim "You deserve it, Ms [wife_name_is]"
-    nvlsalim "您值得拥有，女士。 [wife_name_is]"
+    nvlsalim "你值得拥有，女士。 [wife_name_is]"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:13134
 translate zh_Hans wife_jenna_storyline_809_53cb89d3:
@@ -23864,7 +23864,7 @@ translate zh_Hans wife_jenna_storyline_809_205e19f5:
 translate zh_Hans wife_jenna_storyline_809_a686776f:
 
     # nvlsalim "😊"
-    nvlsalim "😊|😊"
+    nvlsalim "😊|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:13152
 translate zh_Hans wife_jenna_storyline_809_a3045773:
@@ -23932,7 +23932,7 @@ translate zh_Hans wife_jenna_storyline_810_f244f4cb:
 translate zh_Hans wife_jenna_storyline_810_6025923f:
 
     # nvljohn "[wife_name_is]..."
-    nvljohn "[wife_name_is]..."
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:13221
 translate zh_Hans wife_jenna_storyline_810_f299ed90:
@@ -23962,7 +23962,7 @@ translate zh_Hans wife_jenna_storyline_810_0f911aa4:
 translate zh_Hans wife_jenna_storyline_810_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna "😊|😊"
+    nvljenna "😊|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:13231
 translate zh_Hans wife_jenna_storyline_810_e8cb354b:
@@ -24118,7 +24118,7 @@ translate zh_Hans wife_jenna_storyline_810_722a19fb:
 translate zh_Hans wife_jenna_storyline_810_2bcc22cc:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_231_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_231_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:13287
 translate zh_Hans wife_jenna_storyline_810_687b8239:
@@ -24416,7 +24416,7 @@ translate zh_Hans wife_jenna_storyline_812_fc0f87b9:
 translate zh_Hans wife_jenna_storyline_812_6f9d85f3:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_16_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_16_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:13457
 translate zh_Hans wife_jenna_storyline_812_024b9580:
@@ -24926,7 +24926,7 @@ translate zh_Hans wife_jenna_storyline_816_88b4c744:
 translate zh_Hans wife_jenna_storyline_816_0683e1ec:
 
     # nvljohn "{a=show:show_chat_media}{image=sadie_video_8_ns}"
-    nvljohn "{a=show:show_chat_media}{image=sadie_video_8_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:13772
 translate zh_Hans wife_jenna_storyline_816_db778f15:
@@ -24950,7 +24950,7 @@ translate zh_Hans wife_jenna_storyline_816_32ee1022:
 translate zh_Hans wife_jenna_storyline_816_73e767db:
 
     # nvljohn "{a=show:show_chat_media}{image=sadie_video_9_ns}"
-    nvljohn "{a=show:show_chat_media}{image=sadie_video_9_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:13788
 translate zh_Hans wife_jenna_storyline_816_5a5bb874:
@@ -25120,7 +25120,7 @@ translate zh_Hans wife_jenna_storyline_817_36ab4e2a:
 translate zh_Hans wife_jenna_storyline_817_c6ae27b3:
 
     # nvlchristina "{a=show:show_chat_media}{image=christina_video_31_ns}"
-    nvlchristina "{a=show:show_chat_media}{image=christina_video_31_ns}"
+    nvlchristina ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:13881
 translate zh_Hans wife_jenna_storyline_817_8db1ba39:
@@ -25246,7 +25246,7 @@ translate zh_Hans wife_jenna_storyline_817_5f6a4fc9:
 translate zh_Hans wife_jenna_storyline_817_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:13923
 translate zh_Hans wife_jenna_storyline_817_d7eda5ce:
@@ -25362,7 +25362,7 @@ translate zh_Hans wife_jenna_storyline_818_338ed993:
 translate zh_Hans wife_jenna_storyline_818_7fc98538:
 
     # nvljenna "{a=show:show_chat_media}{image=christina_video_32_ns}"
-    nvljenna "{a=show:show_chat_media}{image=christina_video_32_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:13998
 translate zh_Hans wife_jenna_storyline_818_b88a1418:
@@ -25374,7 +25374,7 @@ translate zh_Hans wife_jenna_storyline_818_b88a1418:
 translate zh_Hans wife_jenna_storyline_818_2c7ef58a:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_350_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_350_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:14006
 translate zh_Hans wife_jenna_storyline_818_f93e64ef:
@@ -25542,7 +25542,7 @@ translate zh_Hans wife_jenna_storyline_818_6b8b4056_1:
 translate zh_Hans wife_jenna_storyline_818_d81677c1:
 
     # nvljenna "😉"
-    nvljenna "😉|😉"
+    nvljenna "😉|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:14062
 translate zh_Hans wife_jenna_storyline_818_662c0649:
@@ -25580,7 +25580,7 @@ translate zh_Hans wife_jenna_storyline_819_481ded2a:
 translate zh_Hans wife_jenna_storyline_819_4bc3b614:
 
     # nvlwife "I’m always ready for your visit, Mr Salim"
-    nvlwife "萨利姆先生，我随时都准备好迎接您的大驾光临。"
+    nvlwife "萨利姆先生，我随时都准备好迎接你的大驾光临。"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:14107
 translate zh_Hans wife_jenna_storyline_819_a67a897c:
@@ -25610,7 +25610,7 @@ translate zh_Hans wife_jenna_storyline_819_c81456aa:
 translate zh_Hans wife_jenna_storyline_819_e2eeed96:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_842}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_842}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:14121
 translate zh_Hans wife_jenna_storyline_819_88825694:
@@ -25986,7 +25986,7 @@ translate zh_Hans wife_jenna_storyline_821_337ed89f:
 translate zh_Hans wife_jenna_storyline_821_3119792e:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_1}"
-    nvljulia "{a=show:show_chat_media}{image=julia_pic_1}"
+    nvljulia ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:14329
 translate zh_Hans wife_jenna_storyline_821_35b94987:
@@ -26046,7 +26046,7 @@ translate zh_Hans wife_jenna_storyline_821_71e5d7cf:
 translate zh_Hans wife_jenna_storyline_821_ebb50243:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_video_4_ns}"
-    nvljulia "{a=show:show_chat_media}{image=julia_video_4_ns}"
+    nvljulia ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:14353
 translate zh_Hans wife_jenna_storyline_821_9aebbfb2:
@@ -26118,13 +26118,13 @@ translate zh_Hans wife_jenna_storyline_821_0456ea92:
 translate zh_Hans wife_jenna_storyline_821_3903ce12:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_2}"
-    nvljulia "{a=show:show_chat_media}{image=julia_pic_2}"
+    nvljulia ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:14381
 translate zh_Hans wife_jenna_storyline_821_9faffe5f:
 
     # nvljulia "😉"
-    nvljulia "😉|😉"
+    nvljulia "😉|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:14383
 translate zh_Hans wife_jenna_storyline_821_025fd3dd:
@@ -26142,7 +26142,7 @@ translate zh_Hans wife_jenna_storyline_821_a05e1860:
 translate zh_Hans wife_jenna_storyline_821_9ef137e4:
 
     # nvljohn "❤️"
-    nvljohn "❤️|❤️"
+    nvljohn "❤️|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:14403
 translate zh_Hans wife_jenna_storyline_821_53c71d7c:
@@ -26422,7 +26422,7 @@ translate zh_Hans wife_jenna_storyline_824_f5bba5e1:
 translate zh_Hans wife_jenna_storyline_824_0ee22bc6:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_73_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_73_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:14584
 translate zh_Hans wife_jenna_storyline_824_46878fe1:
@@ -26434,7 +26434,7 @@ translate zh_Hans wife_jenna_storyline_824_46878fe1:
 translate zh_Hans wife_jenna_storyline_824_b43c22d4:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_14_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_14_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:14592
 translate zh_Hans wife_jenna_storyline_824_ffe939e7:
@@ -26494,7 +26494,7 @@ translate zh_Hans wife_jenna_storyline_824_72066c88:
 translate zh_Hans wife_jenna_storyline_824_2b991cbc:
 
     # nvlwife "❤️"
-    nvlwife "❤️|❤️"
+    nvlwife "❤️|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:14612
 translate zh_Hans wife_jenna_storyline_824_91266321:
@@ -26664,7 +26664,7 @@ translate zh_Hans wife_jenna_storyline_825_b6ddef1d:
 translate zh_Hans wife_jenna_storyline_825_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:14703
 translate zh_Hans wife_jenna_storyline_825_94fe06a2:
@@ -26826,7 +26826,7 @@ translate zh_Hans wife_jenna_storyline_825_3c3d9eba:
 translate zh_Hans wife_jenna_storyline_825_811c7137:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_video_12_ns}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_video_12_ns}"
+    nvlgianna ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:14761
 translate zh_Hans wife_jenna_storyline_825_883757d3:
@@ -26844,7 +26844,7 @@ translate zh_Hans wife_jenna_storyline_825_bae22efb:
 translate zh_Hans wife_jenna_storyline_825_83d85ff5:
 
     # nvlgianna "{a=show:show_chat_media}{image=wife_video_351_ns}"
-    nvlgianna "{a=show:show_chat_media}{image=wife_video_351_ns}"
+    nvlgianna ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:14771
 translate zh_Hans wife_jenna_storyline_825_585aa181:
@@ -27454,7 +27454,7 @@ translate zh_Hans wife_jenna_storyline_828_3aa03828:
 translate zh_Hans wife_jenna_storyline_828_14033338:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_pic_860}"
-    nvljenna "{a=show:show_chat_media}{image=jenna_pic_860}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:15094
 translate zh_Hans wife_jenna_storyline_828_3c5fce0c:
@@ -27580,7 +27580,7 @@ translate zh_Hans wife_jenna_storyline_828_c7230d45:
 translate zh_Hans wife_jenna_storyline_828_06af10e8:
 
     # nvlwife "💕"
-    nvlwife "💕"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:15150
 translate zh_Hans wife_jenna_storyline_828_53c71d7c:
@@ -27678,7 +27678,7 @@ translate zh_Hans wife_jenna_storyline_829_3aaeb7c2:
 translate zh_Hans wife_jenna_storyline_829_8d2324ca:
 
     # nvlchristina "{a=show:show_chat_media}{image=christina_pic_74}"
-    nvlchristina "{a=show:show_chat_media}{image=christina_pic_74}"
+    nvlchristina ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:15207
 translate zh_Hans wife_jenna_storyline_829_b3e5d5c6:
@@ -27794,7 +27794,7 @@ translate zh_Hans wife_jenna_storyline_830_4ec523c8:
 translate zh_Hans wife_jenna_storyline_830_78a38158:
 
     # nvlchristina "{a=show:show_chat_media}{image=christina_video_34_ns}"
-    nvlchristina "{a=show:show_chat_media}{image=christina_video_34_ns}"
+    nvlchristina ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:15285
 translate zh_Hans wife_jenna_storyline_830_caae8663:
@@ -27926,7 +27926,7 @@ translate zh_Hans wife_jenna_storyline_830_39eb124f:
 translate zh_Hans wife_jenna_storyline_830_b225a272:
 
     # nvlchristina "{a=show:show_chat_media}{image=wife_video_373_ns}"
-    nvlchristina "{a=show:show_chat_media}{image=wife_video_373_ns}"
+    nvlchristina ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:15335
 translate zh_Hans wife_jenna_storyline_830_67886e1d:
@@ -28012,7 +28012,7 @@ translate zh_Hans wife_jenna_storyline_831_ce1998c4:
 translate zh_Hans wife_jenna_storyline_831_f52493ec:
 
     # nvljulia "😊"
-    nvljulia "😊|😊"
+    nvljulia "😊|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:15396
 translate zh_Hans wife_jenna_storyline_831_a297fd1f:
@@ -28044,7 +28044,7 @@ translate zh_Hans wife_jenna_storyline_832_4b6a52e8:
     # nvl clear
     # nvlsalim "Greetings, Mr [mc_name_is]"
     nvl clear
-    nvlsalim "您好，先生 [mc_name_is]"
+    nvlsalim "你好，先生 [mc_name_is]"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:15439
 translate zh_Hans wife_jenna_storyline_832_f12b2a70:
@@ -28236,7 +28236,7 @@ translate zh_Hans wife_jenna_storyline_832_95774e59:
 translate zh_Hans wife_jenna_storyline_832_0e314613:
 
     # nvlsalim "Thank you for accepting my offer"
-    nvlsalim "感谢您接受我的提议"
+    nvlsalim "感谢你接受我的提议"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:15503
 translate zh_Hans wife_jenna_storyline_832_4cdc7732:
@@ -28626,7 +28626,7 @@ translate zh_Hans wife_jenna_storyline_835_ed004c21:
 translate zh_Hans wife_jenna_storyline_835_5d5c464c:
 
     # nvljamal2 "{a=show:show_chat_media}{image=wife_video_374_ns}"
-    nvljamal2 "{a=show:show_chat_media}{image=wife_video_374_ns}"
+    nvljamal2 ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:15738
 translate zh_Hans wife_jenna_storyline_835_a8a23d55:
@@ -28796,13 +28796,13 @@ translate zh_Hans wife_jenna_storyline_836_8c14fb17:
 translate zh_Hans wife_jenna_storyline_836_abb0a2d0:
 
     # nvljohn "{a=show:show_chat_media}{image=julia_video_58_ns}"
-    nvljohn "{a=show:show_chat_media}{image=julia_video_58_ns}|{a=show:show_chat_media}{image=julia_video_58_ns}"
+    nvljohn "{a=show:show_chat_media}{image=julia_video_58_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:15851
 translate zh_Hans wife_jenna_storyline_836_3db75534:
 
     # nvljohn "{a=show:show_chat_media}{image=julia_video_59_ns}"
-    nvljohn "{a=show:show_chat_media}{image=julia_video_59_ns}|{a=show:show_chat_media}{image=julia_video_59_ns}"
+    nvljohn "{a=show:show_chat_media}{image=julia_video_59_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:15859
 translate zh_Hans wife_jenna_storyline_836_be9e5b72:
@@ -29062,7 +29062,7 @@ translate zh_Hans wife_jenna_storyline_837_ffe939e7:
 translate zh_Hans wife_jenna_storyline_837_f1323947:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_374_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_374_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:15986
 translate zh_Hans wife_jenna_storyline_837_8f737976:
@@ -29164,7 +29164,7 @@ translate zh_Hans wife_jenna_storyline_837_4131e766:
 translate zh_Hans wife_jenna_storyline_837_06af10e8:
 
     # nvlwife "💕"
-    nvlwife "💕"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:16034
 translate zh_Hans wife_jenna_storyline_837_53c71d7c:
@@ -29378,7 +29378,7 @@ translate zh_Hans wife_jenna_storyline_839_75a03d65:
 translate zh_Hans wife_jenna_storyline_839_53cdacaf:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_33_ns}"
-    nvljenna "{a=show:show_chat_media}{image=jenna_video_33_ns}|{a=show:show_chat_media}{image=jenna_video_33_ns}"
+    nvljenna "{a=show:show_chat_media}{image=jenna_video_33_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:16162
 translate zh_Hans wife_jenna_storyline_839_a4c66b69:
@@ -29476,7 +29476,7 @@ translate zh_Hans wife_jenna_storyline_840_530f8222:
 translate zh_Hans wife_jenna_storyline_840_76fd9674:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_899}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_899}|{a=show:show_chat_media}{image=wife_pic_899}"
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_899}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:16233
 translate zh_Hans wife_jenna_storyline_840_76f44028:
@@ -29712,7 +29712,7 @@ translate zh_Hans wife_jenna_storyline_841_add60ea1:
 translate zh_Hans wife_jenna_storyline_841_248186fd:
 
     # nvljamal2 "{a=show:show_chat_media}{image=wife_video_375_ns}"
-    nvljamal2 "{a=show:show_chat_media}{image=wife_video_375_ns}"
+    nvljamal2 ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:16364
 translate zh_Hans wife_jenna_storyline_841_54a4ea96:
@@ -29908,7 +29908,7 @@ translate zh_Hans wife_jenna_storyline_843_1325aa87:
 translate zh_Hans wife_jenna_storyline_843_a029df6a:
 
     # nvlsadie "{a=show:show_chat_media}{image=sadie_video_1_ns}"
-    nvlsadie "{a=show:show_chat_media}{image=sadie_video_1_ns}|{a=show:show_chat_media}{image=sadie_video_1_ns}"
+    nvlsadie "{a=show:show_chat_media}{image=sadie_video_1_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:16500
 translate zh_Hans wife_jenna_storyline_843_7f79a9e2:
@@ -29926,7 +29926,7 @@ translate zh_Hans wife_jenna_storyline_843_bdd92e4d:
 translate zh_Hans wife_jenna_storyline_843_a029df6a_1:
 
     # nvlsadie "{a=show:show_chat_media}{image=sadie_video_1_ns}"
-    nvlsadie "{a=show:show_chat_media}{image=sadie_video_1_ns}|{a=show:show_chat_media}{image=sadie_video_1_ns}"
+    nvlsadie "{a=show:show_chat_media}{image=sadie_video_1_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:16512
 translate zh_Hans wife_jenna_storyline_843_a953fee4:
@@ -29956,7 +29956,7 @@ translate zh_Hans wife_jenna_storyline_843_9c95a92c:
 translate zh_Hans wife_jenna_storyline_843_5b00c3fd:
 
     # nvlsadie "{a=show:show_chat_media}{image=mc_video_46_ns}"
-    nvlsadie "{a=show:show_chat_media}{image=mc_video_46_ns}"
+    nvlsadie ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:16528
 translate zh_Hans wife_jenna_storyline_843_5df4761c:
@@ -30102,7 +30102,7 @@ translate zh_Hans wife_jenna_storyline_844_1a4f5084:
 translate zh_Hans wife_jenna_storyline_844_f6654e88:
 
     # nvlchristina "{a=show:show_chat_media}{image=christina_pic_75}"
-    nvlchristina "{a=show:show_chat_media}{image=christina_pic_75}"
+    nvlchristina ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:16615
 translate zh_Hans wife_jenna_storyline_844_210be4ae:
@@ -30342,7 +30342,7 @@ translate zh_Hans wife_jenna_storyline_844_5b34ceeb:
 translate zh_Hans wife_jenna_storyline_844_950178af:
 
     # nvlchristina "😊"
-    nvlchristina "😊|😊"
+    nvlchristina "😊|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:16695
 translate zh_Hans wife_jenna_storyline_844_f604c24c:
@@ -30638,7 +30638,7 @@ translate zh_Hans wife_jenna_storyline_845_59f4801e:
 translate zh_Hans wife_jenna_storyline_845_3ecb4c2f:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_376_ns}"
-    nvljenna "{a=show:show_chat_media}{image=wife_video_376_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:16832
 translate zh_Hans wife_jenna_storyline_845_9c330948:
@@ -31486,7 +31486,7 @@ translate zh_Hans wife_jenna_storyline_849_db3ecf3b:
 translate zh_Hans wife_jenna_storyline_849_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:17258
 translate zh_Hans wife_jenna_storyline_849_06acc1cc:
@@ -31504,7 +31504,7 @@ translate zh_Hans wife_jenna_storyline_849_623f62ba:
 translate zh_Hans wife_jenna_storyline_849_15190973:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_894}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_894}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:17270
 translate zh_Hans wife_jenna_storyline_849_88825694:
@@ -31602,7 +31602,7 @@ translate zh_Hans wife_jenna_storyline_850_71190730:
 translate zh_Hans wife_jenna_storyline_850_9c3f4125:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_895}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_895}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:17341
 translate zh_Hans wife_jenna_storyline_850_a9fedfc8:
@@ -31632,7 +31632,7 @@ translate zh_Hans wife_jenna_storyline_850_28077d7b:
 translate zh_Hans wife_jenna_storyline_850_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:17351
 translate zh_Hans wife_jenna_storyline_850_6d0af32f:
@@ -31838,7 +31838,7 @@ translate zh_Hans wife_jenna_storyline_851_e749b640:
 translate zh_Hans wife_jenna_storyline_851_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:17466
 translate zh_Hans wife_jenna_storyline_851_f3c2e7a7:
@@ -31918,7 +31918,7 @@ translate zh_Hans wife_jenna_storyline_852_3cfc8db9:
 translate zh_Hans wife_jenna_storyline_852_a28552f7:
 
     # nvlsalim "{a=show:show_chat_media}{image=wife_pic_896}"
-    nvlsalim "{a=show:show_chat_media}{image=wife_pic_896}"
+    nvlsalim ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:17531
 translate zh_Hans wife_jenna_storyline_852_03971f1c:
@@ -31942,7 +31942,7 @@ translate zh_Hans wife_jenna_storyline_852_aa3d776c:
 translate zh_Hans wife_jenna_storyline_852_db299be7:
 
     # nvlsalim "{a=show:show_chat_media}{image=wife_pic_897}"
-    nvlsalim "{a=show:show_chat_media}{image=wife_pic_897}"
+    nvlsalim ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:17545
 translate zh_Hans wife_jenna_storyline_852_ffe939e7:
@@ -32318,13 +32318,13 @@ translate zh_Hans wife_jenna_storyline_854_42dab51f:
 translate zh_Hans wife_jenna_storyline_854_f255b698:
 
     # nvlchristina "💕"
-    nvlchristina "💕"
+    nvlchristina ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:17753
 translate zh_Hans wife_jenna_storyline_854_0a3f8a21:
 
     # nvlchristina "{a=show:show_chat_media}{image=christina_pic_76}"
-    nvlchristina "{a=show:show_chat_media}{image=christina_pic_76}"
+    nvlchristina ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:17757
 translate zh_Hans wife_jenna_storyline_854_9af2db97:
@@ -32784,7 +32784,7 @@ translate zh_Hans wife_jenna_storyline_856_48051d40:
 translate zh_Hans wife_jenna_storyline_856_9f85f8d4:
 
     # nvlwife "{a=show:show_chat_media}{image=christina_video_38_ns}"
-    nvlwife "{a=show:show_chat_media}{image=christina_video_38_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:17981
 translate zh_Hans wife_jenna_storyline_856_ca941041:
@@ -32864,7 +32864,7 @@ translate zh_Hans wife_jenna_storyline_858_76b2fe88:
 translate zh_Hans wife_jenna_storyline_858_6f21e9e4:
 
     # nvlchristina "{a=show:show_chat_media}{image=wife_video_377_ns}"
-    nvlchristina "{a=show:show_chat_media}{image=wife_video_377_ns}"
+    nvlchristina ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:18077
 translate zh_Hans wife_jenna_storyline_858_6421ec42:
@@ -32948,7 +32948,7 @@ translate zh_Hans wife_jenna_storyline_858_ccc55c35:
 translate zh_Hans wife_jenna_storyline_858_5a4e3962:
 
     # nvlchristina "{a=show:show_chat_media}{image=christina_video_35_ns}"
-    nvlchristina "{a=show:show_chat_media}{image=christina_video_35_ns}"
+    nvlchristina ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:18111
 translate zh_Hans wife_jenna_storyline_858_0d71c76e:
@@ -33100,7 +33100,7 @@ translate zh_Hans wife_jenna_storyline_859_c1bd69a4:
 translate zh_Hans wife_jenna_storyline_859_06af10e8:
 
     # nvlwife "💕"
-    nvlwife "💕"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:18222
 translate zh_Hans wife_jenna_storyline_859_53c71d7c:
@@ -33246,7 +33246,7 @@ translate zh_Hans wife_jenna_storyline_860_60bb5741:
 translate zh_Hans wife_jenna_storyline_860_e56d9f11:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_34_ns}"
-    nvljenna "{a=show:show_chat_media}{image=jenna_video_34_ns}"
+    nvljenna ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:18295
 translate zh_Hans wife_jenna_storyline_860_2348de7b:
@@ -33356,7 +33356,7 @@ translate zh_Hans wife_jenna_storyline_861_e6c9c641:
 translate zh_Hans wife_jenna_storyline_861_2f303fa0:
 
     # nvlchristina "{a=show:show_chat_media}{image=wife_video_378_ns}"
-    nvlchristina "{a=show:show_chat_media}{image=wife_video_378_ns}"
+    nvlchristina ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:18370
 translate zh_Hans wife_jenna_storyline_861_fb3f837a:
@@ -33616,7 +33616,7 @@ translate zh_Hans wife_jenna_storyline_862_e297b17b:
 translate zh_Hans wife_jenna_storyline_862_7492a67d:
 
     # nvljustin "{a=show:show_chat_media}{image=bbc_pic_292}"
-    nvljustin "{a=show:show_chat_media}{image=bbc_pic_292}"
+    nvljustin ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:18495
 translate zh_Hans wife_jenna_storyline_862_838cb483:
@@ -33768,7 +33768,7 @@ translate zh_Hans wife_jenna_storyline_863_988e0da3:
 translate zh_Hans wife_jenna_storyline_863_3cec3ad3:
 
     # nvlwsis "{a=show:show_chat_media}{image=w_sister_pic_170}"
-    nvlwsis "{a=show:show_chat_media}{image=w_sister_pic_170}"
+    nvlwsis ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:18584
 translate zh_Hans wife_jenna_storyline_863_05aa33af:
@@ -34130,7 +34130,7 @@ translate zh_Hans wife_jenna_storyline_864_29ea9dca:
 translate zh_Hans wife_jenna_storyline_864_06af10e8:
 
     # nvlwife "💕"
-    nvlwife "💕"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:18751
 translate zh_Hans wife_jenna_storyline_864_53c71d7c:
@@ -34168,7 +34168,7 @@ translate zh_Hans wife_jenna_storyline_865_e46321ef:
 translate zh_Hans wife_jenna_storyline_865_cd21bc56:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_379_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_379_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:18788
 translate zh_Hans wife_jenna_storyline_865_e162899d:
@@ -34186,7 +34186,7 @@ translate zh_Hans wife_jenna_storyline_865_ffa3764c:
 translate zh_Hans wife_jenna_storyline_865_c6708aa4:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_380_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_380_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:18806
 translate zh_Hans wife_jenna_storyline_865_2041fe19:
@@ -34234,7 +34234,7 @@ translate zh_Hans wife_jenna_storyline_865_a24481cf:
 translate zh_Hans wife_jenna_storyline_865_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:18822
 translate zh_Hans wife_jenna_storyline_865_5005f047:
@@ -34266,7 +34266,7 @@ translate zh_Hans wife_jenna_storyline_866_4b6a52e8:
     # nvl clear
     # nvlsalim "Greetings, Mr [mc_name_is]"
     nvl clear
-    nvlsalim "您好，先生 [mc_name_is]"
+    nvlsalim "你好，先生 [mc_name_is]"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:18865
 translate zh_Hans wife_jenna_storyline_866_341a3fd0:
@@ -34446,7 +34446,7 @@ translate zh_Hans wife_jenna_storyline_866_6e9a5dd9:
 translate zh_Hans wife_jenna_storyline_866_a56b7694:
 
     # nvlsalim "If you’d like, I can assign you another assistant"
-    nvlsalim "如果您愿意，我可以为您安排另一位助理。"
+    nvlsalim "如果你愿意，我可以为你安排另一位助理。"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:18925
 translate zh_Hans wife_jenna_storyline_866_d53bf6d8:
@@ -34636,7 +34636,7 @@ translate zh_Hans wife_jenna_storyline_868_f28c4437:
 translate zh_Hans wife_jenna_storyline_868_ea2b879c:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_381_ns}"
-    nvlwife "{a=show:show_chat_media}{image=wife_video_381_ns}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:19059
 translate zh_Hans wife_jenna_storyline_868_88825694:
@@ -34762,7 +34762,7 @@ translate zh_Hans wife_jenna_storyline_868_021c7102:
 translate zh_Hans wife_jenna_storyline_868_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:19101
 translate zh_Hans wife_jenna_storyline_868_bf91f6ba:
@@ -34866,7 +34866,7 @@ translate zh_Hans wife_jenna_storyline_869_58091839:
 translate zh_Hans wife_jenna_storyline_869_ddc5d2fc:
 
     # nvljohn "{a=show:show_chat_media}{image=bbc_video_110_ns}"
-    nvljohn "{a=show:show_chat_media}{image=bbc_video_110_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:19174
 translate zh_Hans wife_jenna_storyline_869_1ef6f06d:
@@ -34884,7 +34884,7 @@ translate zh_Hans wife_jenna_storyline_869_033abd64:
 translate zh_Hans wife_jenna_storyline_869_775ce729:
 
     # nvljohn "{a=show:show_chat_media}{image=bbc_video_111_ns}"
-    nvljohn "{a=show:show_chat_media}{image=bbc_video_111_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:19190
 translate zh_Hans wife_jenna_storyline_869_56ee57aa:
@@ -34916,7 +34916,7 @@ translate zh_Hans wife_jenna_storyline_870_35f03b4f:
 translate zh_Hans wife_jenna_storyline_870_6fcfd267:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_video_60_ns}"
-    nvljulia "{a=show:show_chat_media}{image=julia_video_60_ns}"
+    nvljulia ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:19239
 translate zh_Hans wife_jenna_storyline_870_2634becf:
@@ -34958,7 +34958,7 @@ translate zh_Hans wife_jenna_storyline_870_848ea959:
 translate zh_Hans wife_jenna_storyline_870_f24b1c81:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_video_61_ns}"
-    nvljulia "{a=show:show_chat_media}{image=julia_video_61_ns}"
+    nvljulia ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:19263
 translate zh_Hans wife_jenna_storyline_870_bae54466:
@@ -35176,7 +35176,7 @@ translate zh_Hans wife_jenna_storyline_871_4005c184:
 translate zh_Hans wife_jenna_storyline_871_81a53678:
 
     # nvljamal2 "{a=show:show_chat_media}{image=wife_video_382_ns}"
-    nvljamal2 "{a=show:show_chat_media}{image=wife_video_382_ns}"
+    nvljamal2 ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:19374
 translate zh_Hans wife_jenna_storyline_871_f32ceb4b:
@@ -35290,7 +35290,7 @@ translate zh_Hans wife_jenna_storyline_871_2d29df34:
 translate zh_Hans wife_jenna_storyline_871_10befb9c:
 
     # nvlwife "😊"
-    nvlwife "😊|😊"
+    nvlwife "😊|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:19412
 translate zh_Hans wife_jenna_storyline_871_ee4b4e03:
@@ -35332,7 +35332,7 @@ translate zh_Hans wife_jenna_storyline_871_3ab6014a:
 translate zh_Hans wife_jenna_storyline_871_add4d07d:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_898}"
-    nvlwife "{a=show:show_chat_media}{image=wife_pic_898}"
+    nvlwife ""
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:19432
 translate zh_Hans wife_jenna_storyline_871_d82c1413:
@@ -35540,7 +35540,7 @@ translate zh_Hans wife_jenna_storyline_873_3a5792a8:
 translate zh_Hans wife_jenna_storyline_873_0548944d:
 
     # nvlchristina "{a=show:show_chat_media}{image=christina_video_36_ns}"
-    nvlchristina "{a=show:show_chat_media}{image=christina_video_36_ns}|{a=show:show_chat_media}{image=christina_video_36_ns}"
+    nvlchristina "{a=show:show_chat_media}{image=christina_video_36_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:19572
 translate zh_Hans wife_jenna_storyline_873_1e2c6a4d:
@@ -35564,7 +35564,7 @@ translate zh_Hans wife_jenna_storyline_873_7fd50527:
 translate zh_Hans wife_jenna_storyline_873_3abe8465:
 
     # nvlchristina "{a=show:show_chat_media}{image=christina_video_37_ns}"
-    nvlchristina "{a=show:show_chat_media}{image=christina_video_37_ns}|{a=show:show_chat_media}{image=christina_video_37_ns}"
+    nvlchristina "{a=show:show_chat_media}{image=christina_video_37_ns}|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:19586
 translate zh_Hans wife_jenna_storyline_873_4769743b:
@@ -35660,7 +35660,7 @@ translate zh_Hans wife_jenna_storyline_873_786c717c:
 translate zh_Hans wife_jenna_storyline_873_950178af:
 
     # nvlchristina "😊"
-    nvlchristina "😊|😊"
+    nvlchristina "😊|"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:19618
 translate zh_Hans wife_jenna_storyline_873_03f908e9:

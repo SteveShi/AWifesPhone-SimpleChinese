@@ -472,13 +472,13 @@ translate zh_Hans gianna_alpha_storyline_3_dea766ad:
 translate zh_Hans gianna_alpha_storyline_3_778584a7:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_video_1_ns}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_video_1_ns}"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:262
 translate zh_Hans gianna_alpha_storyline_3_6f63ba9b:
 
     # nvlgianna "All the rooms have cameras, and you can choose to record or not."
-    nvlgianna "所有房间都装有摄像头，您可以选择是否录像。"
+    nvlgianna "所有房间都装有摄像头，你可以选择是否录像。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:264
 translate zh_Hans gianna_alpha_storyline_3_42750b8b:
@@ -708,13 +708,13 @@ translate zh_Hans gianna_alpha_storyline_4_3bb44f01:
 translate zh_Hans gianna_alpha_storyline_4_567505ec:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_1}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_1}"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:376
 translate zh_Hans gianna_alpha_storyline_4_8f28669c:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_2}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_2}"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:379
 translate zh_Hans gianna_alpha_storyline_4_408485f1:
@@ -726,7 +726,7 @@ translate zh_Hans gianna_alpha_storyline_4_408485f1:
 translate zh_Hans gianna_alpha_storyline_4_5d54773b:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_3}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_3}"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:385
 translate zh_Hans gianna_alpha_storyline_4_bb05dfc2:
@@ -890,7 +890,7 @@ translate zh_Hans gianna_alpha_storyline_5_7b22093e:
 translate zh_Hans gianna_alpha_storyline_5_721b42e3:
 
     # nvljohn "😉"
-    nvljohn "😉|😉"
+    nvljohn "😉|"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:474
 translate zh_Hans gianna_alpha_storyline_5_0bd3c035:
@@ -908,19 +908,19 @@ translate zh_Hans gianna_alpha_storyline_5_a4082aae:
 translate zh_Hans gianna_alpha_storyline_5_3f09b4c3:
 
     # nvljohn "{a=show:show_chat_media}{image=gianna_pic_1}"
-    nvljohn "{a=show:show_chat_media}{image=gianna_pic_1}"
+    nvljohn ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:482
 translate zh_Hans gianna_alpha_storyline_5_97c52532:
 
     # nvljohn "{a=show:show_chat_media}{image=gianna_pic_2}"
-    nvljohn "{a=show:show_chat_media}{image=gianna_pic_2}"
+    nvljohn ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:485
 translate zh_Hans gianna_alpha_storyline_5_b3b825dc:
 
     # nvljohn "{a=show:show_chat_media}{image=gianna_pic_3}"
-    nvljohn "{a=show:show_chat_media}{image=gianna_pic_3}"
+    nvljohn ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:487
 translate zh_Hans gianna_alpha_storyline_5_cb063598:
@@ -1126,7 +1126,7 @@ translate zh_Hans gianna_alpha_storyline_6_5bb5c25b:
 translate zh_Hans gianna_alpha_storyline_6_35717ce4:
 
     # nvljohn "{a=show:show_chat_media}{image=mc_pic_62}"
-    nvljohn "{a=show:show_chat_media}{image=mc_pic_62}"
+    nvljohn ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:590
 translate zh_Hans gianna_alpha_storyline_6_b1fc5ef9:
@@ -1298,7 +1298,7 @@ translate zh_Hans gianna_alpha_storyline_8_7786e4eb:
 translate zh_Hans gianna_alpha_storyline_8_40c69f44:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_video_2_ns}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_video_2_ns}"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:714
 translate zh_Hans gianna_alpha_storyline_8_00820b52:
@@ -1630,7 +1630,7 @@ translate zh_Hans gianna_alpha_storyline_12_9b37924f:
 translate zh_Hans gianna_alpha_storyline_12_952028cd:
 
     # nvljohn "{a=show:show_chat_media}{image=gianna_video_3_ns}"
-    nvljohn "{a=show:show_chat_media}{image=gianna_video_3_ns}"
+    nvljohn ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:956
 translate zh_Hans gianna_alpha_storyline_12_c0968316:
@@ -1874,7 +1874,7 @@ translate zh_Hans gianna_alpha_storyline_14_6e57a72a:
 translate zh_Hans gianna_alpha_storyline_14_b3dab4e2:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_video_4_ns}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_video_4_ns}"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:1104
 translate zh_Hans gianna_alpha_storyline_14_5e6ea5c3:
@@ -2106,7 +2106,7 @@ translate zh_Hans gianna_alpha_storyline_16_c1149486:
 translate zh_Hans gianna_alpha_storyline_16_f361d5b4:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_video_5_ns}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_video_5_ns}"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:1248
 translate zh_Hans gianna_alpha_storyline_16_ca79c329:
@@ -2198,7 +2198,7 @@ translate zh_Hans gianna_alpha_storyline_17_e57224af:
 translate zh_Hans gianna_alpha_storyline_17_f361d5b4:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_video_5_ns}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_video_5_ns}"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:1312
 translate zh_Hans gianna_alpha_storyline_17_b7677327:
@@ -2532,7 +2532,7 @@ translate zh_Hans gianna_alpha_storyline_19_c794c372:
 translate zh_Hans gianna_alpha_storyline_19_b7a4b8b5:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_4}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_4}"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:1490
 translate zh_Hans gianna_alpha_storyline_19_60398795:
@@ -2642,7 +2642,7 @@ translate zh_Hans gianna_alpha_storyline_20_6c97bbf3:
 translate zh_Hans gianna_alpha_storyline_20_59839839:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_video_6_ns}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_video_6_ns}"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:1561
 translate zh_Hans gianna_alpha_storyline_20_82be4e93:
@@ -2782,7 +2782,7 @@ translate zh_Hans gianna_alpha_storyline_21_82d7db8e:
 translate zh_Hans gianna_alpha_storyline_21_3c876004:
 
     # nvlgianna "…"
-    nvlgianna "……"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:1642
 translate zh_Hans gianna_alpha_storyline_21_a3b2de41:
@@ -2850,7 +2850,7 @@ translate zh_Hans gianna_alpha_storyline_22_1cac56cc:
 translate zh_Hans gianna_alpha_storyline_22_4d54093d:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_12}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_12}"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:1699
 translate zh_Hans gianna_alpha_storyline_22_c3b2ed06:
@@ -2892,7 +2892,7 @@ translate zh_Hans gianna_alpha_storyline_22_d33359d4:
 translate zh_Hans gianna_alpha_storyline_22_09793494:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_13}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_13}"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:1715
 translate zh_Hans gianna_alpha_storyline_22_91e463ac:
@@ -3014,13 +3014,13 @@ translate zh_Hans gianna_alpha_storyline_23_6d5a002b:
     # nvl clear
     # nvlgianna "🔥"
     nvl clear
-    nvlgianna "🔥"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:1789
 translate zh_Hans gianna_alpha_storyline_23_f5ae4528:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_video_17_ns}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_video_17_ns}"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:1792
 translate zh_Hans gianna_alpha_storyline_23_07c35e4d:
@@ -3050,7 +3050,7 @@ translate zh_Hans gianna_alpha_storyline_23_da7651d2:
 translate zh_Hans gianna_alpha_storyline_23_3fc85e90:
 
     # nvlgianna "…❤️❤️❤️"
-    nvlgianna "…❤️❤️❤️"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:1802
 translate zh_Hans gianna_alpha_storyline_23_6b6ee87d:
@@ -3208,7 +3208,7 @@ translate zh_Hans gianna_alpha_storyline_24_f2513b93:
 translate zh_Hans gianna_alpha_storyline_24_3c876004:
 
     # nvlgianna "…"
-    nvlgianna "……"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:1887
 translate zh_Hans gianna_alpha_storyline_24_32eebc9d:
@@ -3262,7 +3262,7 @@ translate zh_Hans gianna_alpha_storyline_24_a68c5f82:
 translate zh_Hans gianna_alpha_storyline_24_3c876004_1:
 
     # nvlgianna "…"
-    nvlgianna "……"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:1905
 translate zh_Hans gianna_alpha_storyline_24_c958e2df:
@@ -3342,7 +3342,7 @@ translate zh_Hans gianna_alpha_storyline_25_e497b4ef:
 translate zh_Hans gianna_alpha_storyline_25_ca0736df:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_14}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_14}"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:1966
 translate zh_Hans gianna_alpha_storyline_25_28f19b83:
@@ -3414,7 +3414,7 @@ translate zh_Hans gianna_alpha_storyline_25_aba2e9d8:
 translate zh_Hans gianna_alpha_storyline_25_3c876004:
 
     # nvlgianna "…"
-    nvlgianna "……"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:1990
 translate zh_Hans gianna_alpha_storyline_25_0a99fbd6:
@@ -3548,7 +3548,7 @@ translate zh_Hans gianna_alpha_storyline_26_294e2954:
 translate zh_Hans gianna_alpha_storyline_26_3c876004:
 
     # nvlgianna "…"
-    nvlgianna "……"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2067
 translate zh_Hans gianna_alpha_storyline_26_a152b0e8:
@@ -3804,13 +3804,13 @@ translate zh_Hans gianna_alpha_storyline_28_a9c343cd:
     # nvl clear
     # nvlgianna "🙈"
     nvl clear
-    nvlgianna "🙈"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2218
 translate zh_Hans gianna_alpha_storyline_28_b32e182c:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_video_18_ns}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_video_18_ns}"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2221
 translate zh_Hans gianna_alpha_storyline_28_75bc1dca:
@@ -3882,7 +3882,7 @@ translate zh_Hans gianna_alpha_storyline_28_ee2fa6f7:
 translate zh_Hans gianna_alpha_storyline_28_fc168d5b:
 
     # nvlgianna "😂😂😂"
-    nvlgianna "😂😂😂"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2245
 translate zh_Hans gianna_alpha_storyline_28_0adaeb57:
@@ -3998,7 +3998,7 @@ translate zh_Hans gianna_alpha_storyline_29_a858f4e4:
 translate zh_Hans gianna_alpha_storyline_29_d1606e91:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_15}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_15}"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2318
 translate zh_Hans gianna_alpha_storyline_29_3345ff3b:
@@ -4066,13 +4066,13 @@ translate zh_Hans gianna_alpha_storyline_30_6d5a002b:
     # nvl clear
     # nvlgianna "🔥"
     nvl clear
-    nvlgianna "🔥"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2374
 translate zh_Hans gianna_alpha_storyline_30_f666ec15:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_video_19_ns}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_video_19_ns}"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2377
 translate zh_Hans gianna_alpha_storyline_30_1722f478:
@@ -4102,7 +4102,7 @@ translate zh_Hans gianna_alpha_storyline_30_14168b0b:
 translate zh_Hans gianna_alpha_storyline_30_5eece94a:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_video_20_ns}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_video_20_ns}"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2389
 translate zh_Hans gianna_alpha_storyline_30_71e875d4:
@@ -4436,7 +4436,7 @@ translate zh_Hans gianna_alpha_storyline_32_6199de07:
 translate zh_Hans gianna_alpha_storyline_32_edc73327:
 
     # nvljohn "…"
-    nvljohn "……"
+    nvljohn ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2565
 translate zh_Hans gianna_alpha_storyline_32_199db53f:
@@ -4668,7 +4668,7 @@ translate zh_Hans gianna_alpha_storyline_34_ce174e2b:
 translate zh_Hans gianna_alpha_storyline_34_3c876004:
 
     # nvlgianna "…"
-    nvlgianna "……"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2707
 translate zh_Hans gianna_alpha_storyline_34_089dea51:
@@ -4784,19 +4784,19 @@ translate zh_Hans gianna_alpha_storyline_35_7f594b46:
 translate zh_Hans gianna_alpha_storyline_35_45dd9536:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_16}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_16}|{a=show:show_chat_media}{image=gianna_pic_16}"
+    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_16}|"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2782
 translate zh_Hans gianna_alpha_storyline_35_139ac3f6:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_17}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_17}|{a=show:show_chat_media}{image=gianna_pic_17}"
+    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_17}|"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2787
 translate zh_Hans gianna_alpha_storyline_35_db1fe274:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_18}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_18}|{a=show:show_chat_media}{image=gianna_pic_18}"
+    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_18}|"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2790
 translate zh_Hans gianna_alpha_storyline_35_590ce279:
@@ -4850,7 +4850,7 @@ translate zh_Hans gianna_alpha_storyline_35_34d67d87:
 translate zh_Hans gianna_alpha_storyline_35_7a89bbb8:
 
     # nvlgianna "😳🔥"
-    nvlgianna "😳🔥|😳🔥"
+    nvlgianna "😳🔥|"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2808
 translate zh_Hans gianna_alpha_storyline_35_fd32ce43:
@@ -4978,7 +4978,7 @@ translate zh_Hans gianna_alpha_storyline_36_c348b438:
 translate zh_Hans gianna_alpha_storyline_36_7d213183:
 
     # nvljohn "{a=show:show_chat_media}{image=gianna_video_21_ns}"
-    nvljohn "{a=show:show_chat_media}{image=gianna_video_21_ns}|{a=show:show_chat_media}{image=gianna_video_21_ns}"
+    nvljohn "{a=show:show_chat_media}{image=gianna_video_21_ns}|"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2885
 translate zh_Hans gianna_alpha_storyline_36_38bc31ab:
@@ -4990,7 +4990,7 @@ translate zh_Hans gianna_alpha_storyline_36_38bc31ab:
 translate zh_Hans gianna_alpha_storyline_36_2e1ceefc:
 
     # nvljohn "{a=show:show_chat_media}{image=gianna_video_22_ns}"
-    nvljohn "{a=show:show_chat_media}{image=gianna_video_22_ns}|{a=show:show_chat_media}{image=gianna_video_22_ns}"
+    nvljohn "{a=show:show_chat_media}{image=gianna_video_22_ns}|"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2891
 translate zh_Hans gianna_alpha_storyline_36_84aa6b4f:
@@ -5032,7 +5032,7 @@ translate zh_Hans gianna_alpha_storyline_36_18e66fa7:
 translate zh_Hans gianna_alpha_storyline_36_3c876004:
 
     # nvlgianna "…"
-    nvlgianna "……"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2905
 translate zh_Hans gianna_alpha_storyline_36_4e7459fe:
@@ -5202,7 +5202,7 @@ translate zh_Hans gianna_alpha_storyline_37_ffb1e948:
 translate zh_Hans gianna_alpha_storyline_37_3c876004:
 
     # nvlgianna "…"
-    nvlgianna "……"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2994
 translate zh_Hans gianna_alpha_storyline_37_c819e42e:
@@ -5432,7 +5432,7 @@ translate zh_Hans gianna_alpha_storyline_38_3ac0558b:
 translate zh_Hans gianna_alpha_storyline_38_3c876004:
 
     # nvlgianna "…"
-    nvlgianna "……"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3115
 translate zh_Hans gianna_alpha_storyline_38_297005e3:
@@ -5500,7 +5500,7 @@ translate zh_Hans gianna_alpha_storyline_39_1bb69a0c:
 translate zh_Hans gianna_alpha_storyline_39_5b84f8bf:
 
     # nvlgianna "😢"
-    nvlgianna "😢"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3170
 translate zh_Hans gianna_alpha_storyline_39_9b0a571f:
@@ -5524,7 +5524,7 @@ translate zh_Hans gianna_alpha_storyline_39_97104669:
 translate zh_Hans gianna_alpha_storyline_39_5615fe41:
 
     # nvlgianna "💔"
-    nvlgianna "💔"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3178
 translate zh_Hans gianna_alpha_storyline_39_b3fb8f08:
@@ -5634,7 +5634,7 @@ translate zh_Hans gianna_alpha_storyline_40_39ad5fe2:
 translate zh_Hans gianna_alpha_storyline_40_5b84f8bf:
 
     # nvlgianna "😢"
-    nvlgianna "😢"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3247
 translate zh_Hans gianna_alpha_storyline_40_985ff9de:
@@ -5938,7 +5938,7 @@ translate zh_Hans gianna_alpha_storyline_42_0f5ea756:
 translate zh_Hans gianna_alpha_storyline_42_4978cefd:
 
     # nvlgianna "😢❤️"
-    nvlgianna "😢❤️"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3413
 translate zh_Hans gianna_alpha_storyline_42_c5a99b63:
@@ -6022,7 +6022,7 @@ translate zh_Hans gianna_alpha_storyline_42_a8c4c764:
 translate zh_Hans gianna_alpha_storyline_42_f500b8ba:
 
     # nvlgianna "😭❤️❤️❤️"
-    nvlgianna "😭❤️❤️❤️"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3441
 translate zh_Hans gianna_alpha_storyline_42_72fdb1c2:
@@ -6168,7 +6168,7 @@ translate zh_Hans gianna_alpha_storyline_43_ca1e80cb:
 translate zh_Hans gianna_alpha_storyline_43_a0bb62e3:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_19}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_19}"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3537
 translate zh_Hans gianna_alpha_storyline_43_a889ee94:
@@ -6376,7 +6376,7 @@ translate zh_Hans gianna_alpha_storyline_45_1c2148d0:
 translate zh_Hans gianna_alpha_storyline_45_8fdae3a9:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_20}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_20}"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3673
 translate zh_Hans gianna_alpha_storyline_45_f2dfacec:
@@ -6572,7 +6572,7 @@ translate zh_Hans gianna_alpha_storyline_47_1fce8c43:
 translate zh_Hans gianna_alpha_storyline_47_469036d5:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_video_23_ns}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_video_23_ns}"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3805
 translate zh_Hans gianna_alpha_storyline_47_49e26d38:
@@ -6596,7 +6596,7 @@ translate zh_Hans gianna_alpha_storyline_47_76ace83e:
 translate zh_Hans gianna_alpha_storyline_47_81d6b69f:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_video_24_ns}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_video_24_ns}"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3815
 translate zh_Hans gianna_alpha_storyline_47_8c13fd15:
@@ -6620,7 +6620,7 @@ translate zh_Hans gianna_alpha_storyline_47_a53bd232:
 translate zh_Hans gianna_alpha_storyline_47_7b175dfc:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_video_25_ns}"
-    nvlgianna "{a=show:show_chat_media}{image=gianna_video_25_ns}"
+    nvlgianna ""
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3825
 translate zh_Hans gianna_alpha_storyline_47_74b8144f:
