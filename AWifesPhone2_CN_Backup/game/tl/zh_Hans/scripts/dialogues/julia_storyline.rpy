@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-29 09:30
+# TODO: Translation updated at 2026-06-29 09:30
 
 # game/scripts/dialogues/julia_storyline.rpy:218
 translate zh_Hans julia_storyline_195_ef2c1c91:
@@ -252,7 +252,7 @@ translate zh_Hans julia_storyline_195_451eb03b:
 translate zh_Hans julia_storyline_195_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:314
 translate zh_Hans julia_storyline_195_53c71d7c:
@@ -698,7 +698,7 @@ translate zh_Hans julia_storyline_196_3fdc4c6a:
 translate zh_Hans julia_storyline_196_9630054e:
 
     # nvlunknown "😊"
-    nvlunknown ""
+    nvlunknown "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:496
 translate zh_Hans julia_storyline_196_5749f14a:
@@ -976,7 +976,7 @@ translate zh_Hans julia_storyline_197_3ecd3775:
 translate zh_Hans julia_storyline_197_4a21ca78:
 
     # nvlwife "{a=show:show_chat_media}{image=w_mc_video_31_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=w_mc_video_31_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:636
 translate zh_Hans julia_storyline_197_3a56e801:
@@ -994,7 +994,7 @@ translate zh_Hans julia_storyline_197_a1b76229:
 translate zh_Hans julia_storyline_197_9586ae16:
 
     # nvlwife "{a=show:show_chat_media}{image=w_mc_video_24_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=w_mc_video_24_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:644
 translate zh_Hans julia_storyline_197_7a0505ca:
@@ -2874,7 +2874,7 @@ translate zh_Hans julia_storyline_201_57e82ff2:
 translate zh_Hans julia_storyline_201_890736f2:
 
     # nvljenna "{a=show:show_chat_media}{image=bbc_pic_238}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=bbc_pic_238}"
 
 # game/scripts/dialogues/julia_storyline.rpy:1452
 translate zh_Hans julia_storyline_201_63ffcc90:
@@ -2928,7 +2928,7 @@ translate zh_Hans julia_storyline_201_b0b0acb4:
 translate zh_Hans julia_storyline_201_0cf9069c:
 
     # nvljenna "{a=show:show_chat_media}{image=bbc_pic_239}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=bbc_pic_239}"
 
 # game/scripts/dialogues/julia_storyline.rpy:1474
 translate zh_Hans julia_storyline_201_60bb5741_1:
@@ -2952,7 +2952,7 @@ translate zh_Hans julia_storyline_201_5c4c5389:
 translate zh_Hans julia_storyline_201_76003db5:
 
     # nvljenna "{a=show:show_chat_media}{image=bbc_pic_241}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=bbc_pic_241}"
 
 # game/scripts/dialogues/julia_storyline.rpy:1486
 translate zh_Hans julia_storyline_201_95c0af78:
@@ -2982,7 +2982,7 @@ translate zh_Hans julia_storyline_201_4a21e093:
 translate zh_Hans julia_storyline_201_f775595b:
 
     # nvljenna "{a=show:show_chat_media}{image=bbc_pic_240}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=bbc_pic_240}"
 
 # game/scripts/dialogues/julia_storyline.rpy:1500
 translate zh_Hans julia_storyline_201_0d768c9b:
@@ -3874,7 +3874,7 @@ translate zh_Hans julia_storyline_203_eac607b2:
 translate zh_Hans julia_storyline_203_33bf5412:
 
     # nvljohn "{a=show:show_chat_media}{image=w_mc_pic_25}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=w_mc_pic_25}"
 
 # game/scripts/dialogues/julia_storyline.rpy:1901
 translate zh_Hans julia_storyline_203_a3875b3b:
@@ -4170,7 +4170,7 @@ translate zh_Hans julia_storyline_204_c26d6682:
 translate zh_Hans julia_storyline_204_10befb9c:
 
     # nvlwife "😊"
-    nvlwife ""
+    nvlwife "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:2030
 translate zh_Hans julia_storyline_204_62f32fe5:
@@ -4400,7 +4400,7 @@ translate zh_Hans julia_storyline_205_ea534d9c:
 translate zh_Hans julia_storyline_205_30ae970c:
 
     # nvlpaul "{a=show:show_chat_media}{image=w_mc_video_25_ns}"
-    nvlpaul ""
+    nvlpaul "{a=show:show_chat_media}{image=w_mc_video_25_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:2139
 translate zh_Hans julia_storyline_205_617d824d:
@@ -4418,7 +4418,7 @@ translate zh_Hans julia_storyline_205_a62b2694:
 translate zh_Hans julia_storyline_205_2e94ea67:
 
     # nvlpaul "{a=show:show_chat_media}{image=w_mc_video_26_ns}"
-    nvlpaul ""
+    nvlpaul "{a=show:show_chat_media}{image=w_mc_video_26_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:2147
 translate zh_Hans julia_storyline_205_9eb7a2f5:
@@ -4606,7 +4606,7 @@ translate zh_Hans julia_storyline_206_cfa8f7ac:
 translate zh_Hans julia_storyline_206_7dd2b081:
 
     # nvlpaul "{a=show:show_chat_media}{image=julia_pic_57}"
-    nvlpaul ""
+    nvlpaul "{a=show:show_chat_media}{image=julia_pic_57}"
 
 # game/scripts/dialogues/julia_storyline.rpy:2246
 translate zh_Hans julia_storyline_206_c8dc280c:
@@ -4956,7 +4956,7 @@ translate zh_Hans julia_storyline_207_dc15ed25:
 translate zh_Hans julia_storyline_207_9e62cced:
 
     # nvljenna "{a=show:show_chat_media}{image=h_bbc_1_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_bbc_1_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:2397
 translate zh_Hans julia_storyline_207_23a8b52f:
@@ -4974,7 +4974,7 @@ translate zh_Hans julia_storyline_207_1c0e3a23:
 translate zh_Hans julia_storyline_207_bb14030f:
 
     # nvljenna "{a=show:show_chat_media}{image=h_bimbo_6_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_bimbo_6_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:2405
 translate zh_Hans julia_storyline_207_06782872:
@@ -4986,7 +4986,7 @@ translate zh_Hans julia_storyline_207_06782872:
 translate zh_Hans julia_storyline_207_30e89146:
 
     # nvljenna "{a=show:show_chat_media}{image=h_anal_9_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_anal_9_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:2411
 translate zh_Hans julia_storyline_207_da213b20:
@@ -4998,7 +4998,7 @@ translate zh_Hans julia_storyline_207_da213b20:
 translate zh_Hans julia_storyline_207_88ed8342:
 
     # nvljenna "{a=show:show_chat_media}{image=h_bimbo_7_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_bimbo_7_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:2425
 translate zh_Hans julia_storyline_207_0d4a4615:
@@ -5408,7 +5408,7 @@ translate zh_Hans julia_storyline_208_ef2911f7:
 translate zh_Hans julia_storyline_208_10befb9c:
 
     # nvlwife "😊"
-    nvlwife ""
+    nvlwife "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:2610
 translate zh_Hans julia_storyline_208_5dc2b9c4:
@@ -5536,7 +5536,7 @@ translate zh_Hans julia_storyline_209_e8af13dd:
 translate zh_Hans julia_storyline_209_5d8fe674:
 
     # nvlpaul "{a=show:show_chat_media}{image=wife_video_60_ns}"
-    nvlpaul ""
+    nvlpaul "{a=show:show_chat_media}{image=wife_video_60_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:2689
 translate zh_Hans julia_storyline_209_c762f96e:
@@ -5554,7 +5554,7 @@ translate zh_Hans julia_storyline_209_a7f0370c:
 translate zh_Hans julia_storyline_209_2b5bd76e:
 
     # nvlpaul "{a=show:show_chat_media}{image=wife_video_60_2_ns}"
-    nvlpaul ""
+    nvlpaul "{a=show:show_chat_media}{image=wife_video_60_2_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:2699
 translate zh_Hans julia_storyline_209_0929848c:
@@ -5898,7 +5898,7 @@ translate zh_Hans julia_storyline_210_b024fff3:
 translate zh_Hans julia_storyline_210_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:2844
 translate zh_Hans julia_storyline_210_00b38018:
@@ -5934,7 +5934,7 @@ translate zh_Hans julia_storyline_210_b202da8e_1:
 translate zh_Hans julia_storyline_210_431699e4:
 
     # nvljenna "{a=show:show_chat_media}{image=h_anal_6_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_anal_6_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:2860
 translate zh_Hans julia_storyline_210_b4b69a2f:
@@ -5952,7 +5952,7 @@ translate zh_Hans julia_storyline_210_24f72432:
 translate zh_Hans julia_storyline_210_dd1e60a9:
 
     # nvljenna "{a=show:show_chat_media}{image=h_bimbo_3_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_bimbo_3_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:2870
 translate zh_Hans julia_storyline_210_b7ca320c:
@@ -5964,13 +5964,13 @@ translate zh_Hans julia_storyline_210_b7ca320c:
 translate zh_Hans julia_storyline_210_fbc8fe60_1:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:2876
 translate zh_Hans julia_storyline_210_83bb0c33:
 
     # nvljenna "{a=show:show_chat_media}{image=h_blowjob_9_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_blowjob_9_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:2880
 translate zh_Hans julia_storyline_210_7b2d52bf:
@@ -5988,7 +5988,7 @@ translate zh_Hans julia_storyline_210_3d9cb434:
 translate zh_Hans julia_storyline_210_fcae287a:
 
     # nvljenna "{a=show:show_chat_media}{image=h_bimbo_1_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_bimbo_1_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:2890
 translate zh_Hans julia_storyline_210_4ddd9d18:
@@ -7852,7 +7852,7 @@ translate zh_Hans julia_storyline_215_835db1f5:
 translate zh_Hans julia_storyline_215_a629d280:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_130_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=wife_video_130_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:3762
 translate zh_Hans julia_storyline_215_96b51277:
@@ -7870,7 +7870,7 @@ translate zh_Hans julia_storyline_215_b202da8e_1:
 translate zh_Hans julia_storyline_215_820960c3:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_37_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=wife_video_37_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:3772
 translate zh_Hans julia_storyline_215_fd28b429:
@@ -7894,7 +7894,7 @@ translate zh_Hans julia_storyline_215_6ee345f6:
 translate zh_Hans julia_storyline_215_df36b9ed:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_38_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=wife_video_38_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:3784
 translate zh_Hans julia_storyline_215_30af190f:
@@ -7930,7 +7930,7 @@ translate zh_Hans julia_storyline_215_35baac74:
 translate zh_Hans julia_storyline_215_df36b9ed_1:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_38_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=wife_video_38_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:3798
 translate zh_Hans julia_storyline_215_68617193:
@@ -8098,7 +8098,7 @@ translate zh_Hans julia_storyline_215_5d1a07b6:
 translate zh_Hans julia_storyline_215_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:3854
 translate zh_Hans julia_storyline_215_59872b62:
@@ -8998,7 +8998,7 @@ translate zh_Hans julia_storyline_218_487763f2:
 translate zh_Hans julia_storyline_218_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:4264
 translate zh_Hans julia_storyline_218_ca94b534:
@@ -9142,7 +9142,7 @@ translate zh_Hans julia_storyline_218_fce1372c:
 translate zh_Hans julia_storyline_218_a8c0b241:
 
     # nvlmichael3 "😊"
-    nvlmichael3 ""
+    nvlmichael3 "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:4312
 translate zh_Hans julia_storyline_218_2f57f83a:
@@ -10078,7 +10078,7 @@ translate zh_Hans julia_storyline_222_76b2fe88:
 translate zh_Hans julia_storyline_222_0c1ff2b1:
 
     # nvlwife "{a=show:show_chat_media}{image=w_mc_pic_93}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=w_mc_pic_93}"
 
 # game/scripts/dialogues/julia_storyline.rpy:4819
 translate zh_Hans julia_storyline_222_94c68395:
@@ -10812,7 +10812,7 @@ translate zh_Hans julia_storyline_223_2af944f9:
 translate zh_Hans julia_storyline_223_fe7926db:
 
     # nvlpaul "{a=show:show_chat_media}{image=w_mc_pic_12}"
-    nvlpaul ""
+    nvlpaul "{a=show:show_chat_media}{image=w_mc_pic_12}"
 
 # game/scripts/dialogues/julia_storyline.rpy:5113
 translate zh_Hans julia_storyline_223_c5ae84e7:
@@ -10830,13 +10830,13 @@ translate zh_Hans julia_storyline_223_ce4adf08:
 translate zh_Hans julia_storyline_223_13fc9305:
 
     # nvlpaul "{a=show:show_chat_media}{image=w_mc_pic_9}"
-    nvlpaul ""
+    nvlpaul "{a=show:show_chat_media}{image=w_mc_pic_9}"
 
 # game/scripts/dialogues/julia_storyline.rpy:5125
 translate zh_Hans julia_storyline_223_d52583b1:
 
     # nvlpaul "{a=show:show_chat_media}{image=w_mc_pic_24}"
-    nvlpaul ""
+    nvlpaul "{a=show:show_chat_media}{image=w_mc_pic_24}"
 
 # game/scripts/dialogues/julia_storyline.rpy:5129
 translate zh_Hans julia_storyline_223_4538b40b:
@@ -10872,7 +10872,7 @@ translate zh_Hans julia_storyline_223_22d86f93:
 translate zh_Hans julia_storyline_223_83a90b44:
 
     # nvlpaul "{a=show:show_chat_media}{image=wife_pic_420}"
-    nvlpaul ""
+    nvlpaul "{a=show:show_chat_media}{image=wife_pic_420}"
 
 # game/scripts/dialogues/julia_storyline.rpy:5145
 translate zh_Hans julia_storyline_223_eb2fb1ae:
@@ -11314,7 +11314,7 @@ translate zh_Hans julia_storyline_225_f4c2c1b0:
 translate zh_Hans julia_storyline_225_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:5353
 translate zh_Hans julia_storyline_225_9faf9ad9:
@@ -12750,7 +12750,7 @@ translate zh_Hans julia_storyline_229_d47dfda3:
 translate zh_Hans julia_storyline_229_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:6096
 translate zh_Hans julia_storyline_229_c12eb154:
@@ -13108,7 +13108,7 @@ translate zh_Hans julia_storyline_231_a2334f39:
 translate zh_Hans julia_storyline_231_2ff04efe:
 
     # nvljohnny "{a=show:show_chat_media}{image=dick_pic_11}"
-    nvljohnny ""
+    nvljohnny "{a=show:show_chat_media}{image=dick_pic_11}"
 
 # game/scripts/dialogues/julia_storyline.rpy:6294
 translate zh_Hans julia_storyline_231_6d319050:
@@ -13454,7 +13454,7 @@ translate zh_Hans julia_storyline_233_16e34331:
 translate zh_Hans julia_storyline_233_75cd2468:
 
     # nvlbull "{a=show:show_chat_media}{image=bbc_pic_81}"
-    nvlbull ""
+    nvlbull "{a=show:show_chat_media}{image=bbc_pic_81}"
 
 # game/scripts/dialogues/julia_storyline.rpy:6489
 translate zh_Hans julia_storyline_233_2c49edd0:
@@ -13840,7 +13840,7 @@ translate zh_Hans julia_storyline_234_ae38935f:
 translate zh_Hans julia_storyline_234_ee33769e:
 
     # nvljohnny "{a=show:show_chat_media}{image=w_mc_pic_40}"
-    nvljohnny ""
+    nvljohnny "{a=show:show_chat_media}{image=w_mc_pic_40}"
 
 # game/scripts/dialogues/julia_storyline.rpy:6671
 translate zh_Hans julia_storyline_234_79d38f7b:
@@ -14420,7 +14420,7 @@ translate zh_Hans julia_storyline_236_631bb011:
 translate zh_Hans julia_storyline_236_6b15a765:
 
     # nvlbull "{a=show:show_chat_media}{image=bbc_video_54_ns}"
-    nvlbull ""
+    nvlbull "{a=show:show_chat_media}{image=bbc_video_54_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:6946
 translate zh_Hans julia_storyline_236_72e25555:
@@ -14536,7 +14536,7 @@ translate zh_Hans julia_storyline_237_6cd40273:
 translate zh_Hans julia_storyline_237_8ce27ed1:
 
     # nvljax2 "{a=show:show_chat_media}{image=bbc_pic_150}"
-    nvljax2 ""
+    nvljax2 "{a=show:show_chat_media}{image=bbc_pic_150}"
 
 # game/scripts/dialogues/julia_storyline.rpy:7017
 translate zh_Hans julia_storyline_237_00b653ed:
@@ -15056,7 +15056,7 @@ translate zh_Hans julia_storyline_239_a63b2dd6:
 translate zh_Hans julia_storyline_239_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:7270
 translate zh_Hans julia_storyline_239_be6952bc:
@@ -15254,13 +15254,13 @@ translate zh_Hans julia_storyline_239_5d35ef1d:
 translate zh_Hans julia_storyline_239_9f35ce29:
 
     # nvljenna "{a=show:show_chat_media}{image=h_bbc_6_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_bbc_6_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:7342
 translate zh_Hans julia_storyline_239_363834a2:
 
     # nvljenna "{a=show:show_chat_media}{image=h_bbc_7_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_bbc_7_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:7346
 translate zh_Hans julia_storyline_239_46bf74f6:
@@ -15278,7 +15278,7 @@ translate zh_Hans julia_storyline_239_b202da8e_1:
 translate zh_Hans julia_storyline_239_0df11401:
 
     # nvljenna "{a=show:show_chat_media}{image=h_bbc_8_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_bbc_8_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:7356
 translate zh_Hans julia_storyline_239_14c55e96:
@@ -15302,7 +15302,7 @@ translate zh_Hans julia_storyline_239_975050dc_1:
 translate zh_Hans julia_storyline_239_c548b7b7:
 
     # nvljenna "{a=show:show_chat_media}{image=h_bbc_9_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_bbc_9_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:7368
 translate zh_Hans julia_storyline_239_29fbde0c:
@@ -15596,7 +15596,7 @@ translate zh_Hans julia_storyline_239_7b8546a7:
 translate zh_Hans julia_storyline_239_fbc8fe60_1:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:7514
 translate zh_Hans julia_storyline_239_a337c964:
@@ -16006,7 +16006,7 @@ translate zh_Hans julia_storyline_240_82e99b1f:
 translate zh_Hans julia_storyline_240_b349e7fe:
 
     # nvlpaul "{a=show:show_chat_media}{image=wife_video_226_ns}"
-    nvlpaul ""
+    nvlpaul "{a=show:show_chat_media}{image=wife_video_226_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:7704
 translate zh_Hans julia_storyline_240_8210d45d:
@@ -16030,7 +16030,7 @@ translate zh_Hans julia_storyline_240_42e004be:
 translate zh_Hans julia_storyline_240_3f0b0948:
 
     # nvlpaul "{a=show:show_chat_media}{image=wife_video_227_ns}"
-    nvlpaul ""
+    nvlpaul "{a=show:show_chat_media}{image=wife_video_227_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:7716
 translate zh_Hans julia_storyline_240_ae04a95f:
@@ -16464,7 +16464,7 @@ translate zh_Hans julia_storyline_241_41eb1c73:
 translate zh_Hans julia_storyline_241_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:7893
 translate zh_Hans julia_storyline_241_2a81802c:
@@ -16524,7 +16524,7 @@ translate zh_Hans julia_storyline_241_53d11e6b:
 translate zh_Hans julia_storyline_241_9f58d87d:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_94}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_94}"
 
 # game/scripts/dialogues/julia_storyline.rpy:7917
 translate zh_Hans julia_storyline_241_f0a2197b:
@@ -16566,7 +16566,7 @@ translate zh_Hans julia_storyline_241_0d65548a:
 translate zh_Hans julia_storyline_241_fd408538_1:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:7931
 translate zh_Hans julia_storyline_241_8d103771:
@@ -16904,7 +16904,7 @@ translate zh_Hans julia_storyline_242_4eff5835:
 translate zh_Hans julia_storyline_242_4377ac27:
 
     # nvlbull "{a=show:show_chat_media}{image=bbc_video_55_ns}"
-    nvlbull ""
+    nvlbull "{a=show:show_chat_media}{image=bbc_video_55_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:8078
 translate zh_Hans julia_storyline_242_d672f13a:
@@ -16928,7 +16928,7 @@ translate zh_Hans julia_storyline_242_fb0acb2d:
 translate zh_Hans julia_storyline_242_64b72dab:
 
     # nvlbull "{a=show:show_chat_media}{image=bbc_video_56_ns}"
-    nvlbull ""
+    nvlbull "{a=show:show_chat_media}{image=bbc_video_56_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:8090
 translate zh_Hans julia_storyline_242_1f566888_1:
@@ -17068,7 +17068,7 @@ translate zh_Hans julia_storyline_243_bd0fd440:
 translate zh_Hans julia_storyline_243_e2fd3d1a:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_228_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_228_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:8173
 translate zh_Hans julia_storyline_243_0b23afb3:
@@ -17092,7 +17092,7 @@ translate zh_Hans julia_storyline_243_df17328a:
 translate zh_Hans julia_storyline_243_5ec6eb3c:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_229_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_229_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:8185
 translate zh_Hans julia_storyline_243_7712b54f:
@@ -17816,7 +17816,7 @@ translate zh_Hans julia_storyline_245_f15b1277:
 translate zh_Hans julia_storyline_245_7af0dcbc:
 
     # nvlbull "{a=show:show_chat_media}{image=bbc_pic_21}"
-    nvlbull ""
+    nvlbull "{a=show:show_chat_media}{image=bbc_pic_21}"
 
 # game/scripts/dialogues/julia_storyline.rpy:8493
 translate zh_Hans julia_storyline_245_26e05b20:
@@ -18172,7 +18172,7 @@ translate zh_Hans julia_storyline_246_87aa252b:
 translate zh_Hans julia_storyline_246_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:8642
 translate zh_Hans julia_storyline_246_0313a428:
@@ -18588,7 +18588,7 @@ translate zh_Hans julia_storyline_247_33c0e2d8:
 translate zh_Hans julia_storyline_247_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:8828
 translate zh_Hans julia_storyline_247_b7c475ac:
@@ -19350,7 +19350,7 @@ translate zh_Hans julia_storyline_250_673a75d2:
 translate zh_Hans julia_storyline_250_d699a13c:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_230_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_230_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:9193
 translate zh_Hans julia_storyline_250_d2bf940b:
@@ -19586,7 +19586,7 @@ translate zh_Hans julia_storyline_251_392bba4b:
 translate zh_Hans julia_storyline_251_a638d1c2:
 
     # nvlbull "{a=show:show_chat_media}{image=bbc_pic_77}"
-    nvlbull ""
+    nvlbull "{a=show:show_chat_media}{image=bbc_pic_77}"
 
 # game/scripts/dialogues/julia_storyline.rpy:9306
 translate zh_Hans julia_storyline_251_1a7c7180:
@@ -19730,7 +19730,7 @@ translate zh_Hans julia_storyline_251_08deb8ac:
 translate zh_Hans julia_storyline_251_693534a8:
 
     # nvlbull "{a=show:show_chat_media}{image=bbc_video_57_ns}"
-    nvlbull ""
+    nvlbull "{a=show:show_chat_media}{image=bbc_video_57_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:9358
 translate zh_Hans julia_storyline_251_b3c8ed2e:
@@ -19754,7 +19754,7 @@ translate zh_Hans julia_storyline_251_34905704:
 translate zh_Hans julia_storyline_251_fb7cdd4c:
 
     # nvlbull "{a=show:show_chat_media}{image=bbc_video_58_ns}"
-    nvlbull ""
+    nvlbull "{a=show:show_chat_media}{image=bbc_video_58_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:9370
 translate zh_Hans julia_storyline_251_2d82943f:
@@ -20202,7 +20202,7 @@ translate zh_Hans julia_storyline_253_06d9a354:
 translate zh_Hans julia_storyline_253_51db44c3:
 
     # nvlpaul "{a=show:show_chat_media}{image=wife_video_231_ns}"
-    nvlpaul ""
+    nvlpaul "{a=show:show_chat_media}{image=wife_video_231_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:9601
 translate zh_Hans julia_storyline_253_e8a9b0c1:
@@ -20256,7 +20256,7 @@ translate zh_Hans julia_storyline_253_6f02df36:
 translate zh_Hans julia_storyline_253_c20c0826:
 
     # nvlpaul "😊"
-    nvlpaul ""
+    nvlpaul "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:9619
 translate zh_Hans julia_storyline_253_cf3be6d2:
@@ -20822,7 +20822,7 @@ translate zh_Hans julia_storyline_254_ad27730c:
 translate zh_Hans julia_storyline_254_9e62cced:
 
     # nvljenna "{a=show:show_chat_media}{image=h_bbc_1_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_bbc_1_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:9842
 translate zh_Hans julia_storyline_254_a1c9e8a6:
@@ -20840,7 +20840,7 @@ translate zh_Hans julia_storyline_254_ea7c2cdb_1:
 translate zh_Hans julia_storyline_254_4a48f1e7:
 
     # nvljenna "{a=show:show_chat_media}{image=h_bbc_2_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_bbc_2_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:9852
 translate zh_Hans julia_storyline_254_06572490:
@@ -20864,7 +20864,7 @@ translate zh_Hans julia_storyline_254_c8261dd9:
 translate zh_Hans julia_storyline_254_0df11401:
 
     # nvljenna "{a=show:show_chat_media}{image=h_bbc_8_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_bbc_8_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:9864
 translate zh_Hans julia_storyline_254_d7384571:
@@ -20888,7 +20888,7 @@ translate zh_Hans julia_storyline_254_94fd9e5b:
 translate zh_Hans julia_storyline_254_c548b7b7:
 
     # nvljenna "{a=show:show_chat_media}{image=h_bbc_9_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_bbc_9_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:9876
 translate zh_Hans julia_storyline_254_a632df7a:
@@ -21928,7 +21928,7 @@ translate zh_Hans julia_storyline_255_cee823d4:
 translate zh_Hans julia_storyline_255_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:10318
 translate zh_Hans julia_storyline_255_d79aceb1:
@@ -22248,7 +22248,7 @@ translate zh_Hans julia_storyline_257_76b2fe88:
 translate zh_Hans julia_storyline_257_6087ae4c:
 
     # nvlbull "{a=show:show_chat_media}{image=bbc_pic_265}"
-    nvlbull ""
+    nvlbull "{a=show:show_chat_media}{image=bbc_pic_265}"
 
 # game/scripts/dialogues/julia_storyline.rpy:10490
 translate zh_Hans julia_storyline_257_1dad083e:
@@ -22482,7 +22482,7 @@ translate zh_Hans julia_storyline_257_b1309b37:
 translate zh_Hans julia_storyline_257_a7a888df:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_6}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_6}"
 
 # game/scripts/dialogues/julia_storyline.rpy:10572
 translate zh_Hans julia_storyline_257_6db1a327:
@@ -22536,7 +22536,7 @@ translate zh_Hans julia_storyline_257_2c69d666:
 translate zh_Hans julia_storyline_257_8fa33aee:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_15}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_15}"
 
 # game/scripts/dialogues/julia_storyline.rpy:10594
 translate zh_Hans julia_storyline_257_f7fb1c5f:
@@ -22560,7 +22560,7 @@ translate zh_Hans julia_storyline_257_9f95a243:
 translate zh_Hans julia_storyline_257_a58b58de:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_10}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_10}"
 
 # game/scripts/dialogues/julia_storyline.rpy:10606
 translate zh_Hans julia_storyline_257_f7fb1c5f_1:
@@ -22596,7 +22596,7 @@ translate zh_Hans julia_storyline_257_d3746e97:
 translate zh_Hans julia_storyline_257_a53d7547:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_24}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_24}"
 
 # game/scripts/dialogues/julia_storyline.rpy:10622
 translate zh_Hans julia_storyline_257_b42cd63b_1:
@@ -23734,7 +23734,7 @@ translate zh_Hans julia_storyline_259_e8fcece6:
 translate zh_Hans julia_storyline_259_9a2f3b6c:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_232_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_232_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:11085
 translate zh_Hans julia_storyline_259_5a8035f2:
@@ -24630,7 +24630,7 @@ translate zh_Hans julia_storyline_260_7bee423e:
 translate zh_Hans julia_storyline_260_1ea2942e:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_60}"
-    nvljulia ""
+    nvljulia "{a=show:show_chat_media}{image=julia_pic_60}"
 
 # game/scripts/dialogues/julia_storyline.rpy:11418
 translate zh_Hans julia_storyline_260_80a08730:
@@ -24648,7 +24648,7 @@ translate zh_Hans julia_storyline_260_a3dab1cd:
 translate zh_Hans julia_storyline_260_2f86a8a1:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_61}"
-    nvljulia ""
+    nvljulia "{a=show:show_chat_media}{image=julia_pic_61}"
 
 # game/scripts/dialogues/julia_storyline.rpy:11428
 translate zh_Hans julia_storyline_260_d6219d7e:
@@ -24920,7 +24920,7 @@ translate zh_Hans julia_storyline_261_de9dded6:
 translate zh_Hans julia_storyline_261_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:11564
 translate zh_Hans julia_storyline_261_5c857dad:
@@ -25112,13 +25112,13 @@ translate zh_Hans julia_storyline_261_b202da8e:
 translate zh_Hans julia_storyline_261_30e89146:
 
     # nvljenna "{a=show:show_chat_media}{image=h_anal_9_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_anal_9_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:11634
 translate zh_Hans julia_storyline_261_8a4befc8:
 
     # nvljenna "{a=show:show_chat_media}{image=h_bimbo_bbc_blowjob_2_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_bimbo_bbc_blowjob_2_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:11638
 translate zh_Hans julia_storyline_261_08977d75:
@@ -25136,19 +25136,19 @@ translate zh_Hans julia_storyline_261_8e3fd207:
 translate zh_Hans julia_storyline_261_88ed8342:
 
     # nvljenna "{a=show:show_chat_media}{image=h_bimbo_7_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_bimbo_7_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:11650
 translate zh_Hans julia_storyline_261_82c0ae7e:
 
     # nvljenna "{a=show:show_chat_media}{image=h_bbc_5_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_bbc_5_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:11656
 translate zh_Hans julia_storyline_261_9f35ce29:
 
     # nvljenna "{a=show:show_chat_media}{image=h_bbc_6_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_bbc_6_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:11660
 translate zh_Hans julia_storyline_261_0c411a15:
@@ -25184,7 +25184,7 @@ translate zh_Hans julia_storyline_261_c6ac0392:
 translate zh_Hans julia_storyline_261_fbc8fe60_1:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:11672
 translate zh_Hans julia_storyline_261_d722d375:
@@ -25508,7 +25508,7 @@ translate zh_Hans julia_storyline_261_422dc704:
 translate zh_Hans julia_storyline_261_d81677c1:
 
     # nvljenna "😉"
-    nvljenna ""
+    nvljenna "😉|"
 
 # game/scripts/dialogues/julia_storyline.rpy:11787
 translate zh_Hans julia_storyline_261_a04ce5ad:
@@ -26398,13 +26398,13 @@ translate zh_Hans julia_storyline_262_e5f9b09e:
 translate zh_Hans julia_storyline_262_9e62cced:
 
     # nvljenna "{a=show:show_chat_media}{image=h_bbc_1_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_bbc_1_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:12190
 translate zh_Hans julia_storyline_262_0df11401:
 
     # nvljenna "{a=show:show_chat_media}{image=h_bbc_8_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_bbc_8_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:12194
 translate zh_Hans julia_storyline_262_0ebdc02c:
@@ -26428,7 +26428,7 @@ translate zh_Hans julia_storyline_262_a9535a70:
 translate zh_Hans julia_storyline_262_98abd872:
 
     # nvljenna "{a=show:show_chat_media}{image=h_bbc_4_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_bbc_4_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:12206
 translate zh_Hans julia_storyline_262_9ef5ec7a:
@@ -27794,7 +27794,7 @@ translate zh_Hans julia_storyline_264_d2be6f9f:
 translate zh_Hans julia_storyline_264_10befb9c:
 
     # nvlwife "😊"
-    nvlwife ""
+    nvlwife "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:12832
 translate zh_Hans julia_storyline_264_7a3bf944:
@@ -28378,7 +28378,7 @@ translate zh_Hans julia_storyline_265_6f76e9d0:
 translate zh_Hans julia_storyline_265_a686776f:
 
     # nvlsalim "😊"
-    nvlsalim ""
+    nvlsalim "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:13074
 translate zh_Hans julia_storyline_265_149cfcc6:
@@ -29906,7 +29906,7 @@ translate zh_Hans julia_storyline_270_1650aeed:
 translate zh_Hans julia_storyline_270_4da12b5a:
 
     # nvlpaul "{a=show:show_chat_media}{image=bbc_pic_84}"
-    nvlpaul ""
+    nvlpaul "{a=show:show_chat_media}{image=bbc_pic_84}"
 
 # game/scripts/dialogues/julia_storyline.rpy:13756
 translate zh_Hans julia_storyline_270_4d4618e4:
@@ -30038,7 +30038,7 @@ translate zh_Hans julia_storyline_270_339c0578:
 translate zh_Hans julia_storyline_270_c20c0826:
 
     # nvlpaul "😊"
-    nvlpaul ""
+    nvlpaul "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:13800
 translate zh_Hans julia_storyline_270_6b90a5d2:
@@ -30690,7 +30690,7 @@ translate zh_Hans julia_storyline_272_a01368b9:
 translate zh_Hans julia_storyline_272_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:14080
 translate zh_Hans julia_storyline_272_b4b52807:
@@ -31778,7 +31778,7 @@ translate zh_Hans julia_storyline_273_5f50ee63:
 translate zh_Hans julia_storyline_273_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:14532
 translate zh_Hans julia_storyline_273_c8c2175a:
@@ -32758,7 +32758,7 @@ translate zh_Hans julia_storyline_277_40d69757:
 translate zh_Hans julia_storyline_277_9ec2eb11:
 
     # nvlbull "{a=show:show_chat_media}{image=bbc_video_59_ns}"
-    nvlbull ""
+    nvlbull "{a=show:show_chat_media}{image=bbc_video_59_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:15026
 translate zh_Hans julia_storyline_277_539e36e2:
@@ -32854,7 +32854,7 @@ translate zh_Hans julia_storyline_277_58bb8d09:
 translate zh_Hans julia_storyline_277_f43863f8:
 
     # nvlbull "{a=show:show_chat_media}{image=bbc_video_60_ns}"
-    nvlbull ""
+    nvlbull "{a=show:show_chat_media}{image=bbc_video_60_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:15062
 translate zh_Hans julia_storyline_277_03d1c7b3:
@@ -33084,7 +33084,7 @@ translate zh_Hans julia_storyline_278_c1780ad7:
 translate zh_Hans julia_storyline_278_10befb9c:
 
     # nvlwife "😊"
-    nvlwife ""
+    nvlwife "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:15179
 translate zh_Hans julia_storyline_278_ce26ae96:
@@ -33386,7 +33386,7 @@ translate zh_Hans julia_storyline_279_8c41099e:
 translate zh_Hans julia_storyline_279_bfbc6bb8:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_233_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=wife_video_233_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:15314
 translate zh_Hans julia_storyline_279_08977d75:
@@ -33422,7 +33422,7 @@ translate zh_Hans julia_storyline_279_4b2f14db:
 translate zh_Hans julia_storyline_279_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:15326
 translate zh_Hans julia_storyline_279_2266f0c2:
@@ -33772,7 +33772,7 @@ translate zh_Hans julia_storyline_280_b0c3cd95:
 translate zh_Hans julia_storyline_280_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:15473
 translate zh_Hans julia_storyline_280_e5df9e5a:
@@ -34396,7 +34396,7 @@ translate zh_Hans julia_storyline_283_9185229b:
 translate zh_Hans julia_storyline_283_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:15804
 translate zh_Hans julia_storyline_283_cabd37b1:
@@ -36206,7 +36206,7 @@ translate zh_Hans julia_storyline_288_6c609246:
 translate zh_Hans julia_storyline_288_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:16629
 translate zh_Hans julia_storyline_288_3f818f7d:
@@ -36242,7 +36242,7 @@ translate zh_Hans julia_storyline_288_0205097b:
 translate zh_Hans julia_storyline_288_dc822cd0:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_234_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=wife_video_234_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:16645
 translate zh_Hans julia_storyline_288_e32034dd:
@@ -36864,7 +36864,7 @@ translate zh_Hans julia_storyline_290_dc46b3bc:
 translate zh_Hans julia_storyline_290_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:16915
 translate zh_Hans julia_storyline_290_a462c425:
@@ -37002,7 +37002,7 @@ translate zh_Hans julia_storyline_290_662ab0e4:
 translate zh_Hans julia_storyline_290_fd408538_1:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:16961
 translate zh_Hans julia_storyline_290_ebf7ce7d:
@@ -37274,7 +37274,7 @@ translate zh_Hans julia_storyline_291_beae8cb3_1:
 translate zh_Hans julia_storyline_291_762e7522:
 
     # nvlsimon "{a=show:show_chat_media}{image=w_mc_pic_96}"
-    nvlsimon ""
+    nvlsimon "{a=show:show_chat_media}{image=w_mc_pic_96}"
 
 # game/scripts/dialogues/julia_storyline.rpy:17086
 translate zh_Hans julia_storyline_291_22c1d96e:
@@ -37412,7 +37412,7 @@ translate zh_Hans julia_storyline_291_26d03c39:
 translate zh_Hans julia_storyline_291_02b7354c:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_95}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_95}"
 
 # game/scripts/dialogues/julia_storyline.rpy:17136
 translate zh_Hans julia_storyline_291_fa08dc3c:
@@ -37508,7 +37508,7 @@ translate zh_Hans julia_storyline_291_5bb1b0f8:
 translate zh_Hans julia_storyline_291_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:17168
 translate zh_Hans julia_storyline_291_b083a412:
@@ -37876,7 +37876,7 @@ translate zh_Hans julia_storyline_292_194cc083:
 translate zh_Hans julia_storyline_292_028c9f3d:
 
     # nvlraul "{a=show:show_chat_media}{image=w_mc_pic_97}"
-    nvlraul ""
+    nvlraul "{a=show:show_chat_media}{image=w_mc_pic_97}"
 
 # game/scripts/dialogues/julia_storyline.rpy:17342
 translate zh_Hans julia_storyline_292_5b4a67de:
@@ -38208,7 +38208,7 @@ translate zh_Hans julia_storyline_293_fd7b7f70:
 translate zh_Hans julia_storyline_293_1c88b20d:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_pic_788}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=wife_pic_788}"
 
 # game/scripts/dialogues/julia_storyline.rpy:17485
 translate zh_Hans julia_storyline_293_02e1d9a3:
@@ -38990,7 +38990,7 @@ translate zh_Hans julia_storyline_294_abaa7988:
 translate zh_Hans julia_storyline_294_d61a7d98:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_98}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_98}"
 
 # game/scripts/dialogues/julia_storyline.rpy:17814
 translate zh_Hans julia_storyline_294_649b37c3:
@@ -39522,7 +39522,7 @@ translate zh_Hans julia_storyline_296_c5690db2:
 translate zh_Hans julia_storyline_296_ac3242c8:
 
     # nvlbull "{a=show:show_chat_media}{image=bbc_video_61_ns}"
-    nvlbull ""
+    nvlbull "{a=show:show_chat_media}{image=bbc_video_61_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:18056
 translate zh_Hans julia_storyline_296_fbe5bfd8:
@@ -39780,7 +39780,7 @@ translate zh_Hans julia_storyline_296_8153c076:
 translate zh_Hans julia_storyline_296_8daf9209:
 
     # nvlbull "{a=show:show_chat_media}{image=bbc_pic_266}"
-    nvlbull ""
+    nvlbull "{a=show:show_chat_media}{image=bbc_pic_266}"
 
 # game/scripts/dialogues/julia_storyline.rpy:18146
 translate zh_Hans julia_storyline_296_094fd275:
@@ -40178,7 +40178,7 @@ translate zh_Hans julia_storyline_297_315de4d7:
 translate zh_Hans julia_storyline_297_7633828e:
 
     # nvljohn "😊"
-    nvljohn ""
+    nvljohn "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:18328
 translate zh_Hans julia_storyline_297_b3cfb0db:
@@ -40564,7 +40564,7 @@ translate zh_Hans julia_storyline_298_b25e41c4_1:
 translate zh_Hans julia_storyline_298_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:18503
 translate zh_Hans julia_storyline_298_b748eafb:
@@ -41602,7 +41602,7 @@ translate zh_Hans julia_storyline_301_122bd0a0:
 translate zh_Hans julia_storyline_301_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:19004
 translate zh_Hans julia_storyline_301_c65db163:
@@ -41948,7 +41948,7 @@ translate zh_Hans julia_storyline_303_4fc61b54:
 translate zh_Hans julia_storyline_303_5b318a48:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_843}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_843}"
 
 # game/scripts/dialogues/julia_storyline.rpy:19220
 translate zh_Hans julia_storyline_303_88825694:
@@ -42032,7 +42032,7 @@ translate zh_Hans julia_storyline_303_7a4259ed:
 translate zh_Hans julia_storyline_303_10befb9c:
 
     # nvlwife "😊"
-    nvlwife ""
+    nvlwife "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:19248
 translate zh_Hans julia_storyline_303_5d7bb2a6:
@@ -42364,7 +42364,7 @@ translate zh_Hans julia_storyline_304_68f7af70:
 translate zh_Hans julia_storyline_304_fcb67b2a:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_22_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_video_22_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:19412
 translate zh_Hans julia_storyline_304_ef4e753c:
@@ -42632,7 +42632,7 @@ translate zh_Hans julia_storyline_306_5f13abc3:
 translate zh_Hans julia_storyline_306_0713d6f0:
 
     # nvlbull "{a=show:show_chat_media}{image=bbc_pic_9}"
-    nvlbull ""
+    nvlbull "{a=show:show_chat_media}{image=bbc_pic_9}"
 
 # game/scripts/dialogues/julia_storyline.rpy:19574
 translate zh_Hans julia_storyline_306_54793b73:
@@ -42662,7 +42662,7 @@ translate zh_Hans julia_storyline_306_c3ea5e89:
 translate zh_Hans julia_storyline_306_4635ee70:
 
     # nvlbull "{a=show:show_chat_media}{image=bbc_video_90_ns}"
-    nvlbull ""
+    nvlbull "{a=show:show_chat_media}{image=bbc_video_90_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:19588
 translate zh_Hans julia_storyline_306_03d1c7b3:
@@ -42704,7 +42704,7 @@ translate zh_Hans julia_storyline_306_b88464d3:
 translate zh_Hans julia_storyline_306_3991f368:
 
     # nvlbull "{a=show:show_chat_media}{image=bbc_video_91_ns}"
-    nvlbull ""
+    nvlbull "{a=show:show_chat_media}{image=bbc_video_91_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:19606
 translate zh_Hans julia_storyline_306_ff16605d:
@@ -43212,7 +43212,7 @@ translate zh_Hans julia_storyline_308_3bb5f3b9:
 translate zh_Hans julia_storyline_308_3c79f57a:
 
     # nvlwife "{a=show:show_chat_media}{image=w_mc_pic_125}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=w_mc_pic_125}"
 
 # game/scripts/dialogues/julia_storyline.rpy:19877
 translate zh_Hans julia_storyline_308_018f9fe2:
@@ -43552,7 +43552,7 @@ translate zh_Hans julia_storyline_310_9213a340:
 translate zh_Hans julia_storyline_310_b9db0937:
 
     # nvlmark "{a=show:show_chat_media}{image=w_mc_pic_126}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=w_mc_pic_126}"
 
 # game/scripts/dialogues/julia_storyline.rpy:20097
 translate zh_Hans julia_storyline_310_a62f6d06:
@@ -43876,7 +43876,7 @@ translate zh_Hans julia_storyline_311_04340e51:
 translate zh_Hans julia_storyline_311_3e623f74:
 
     # nvlbull "{a=show:show_chat_media}{image=bbc_video_92_ns}"
-    nvlbull ""
+    nvlbull "{a=show:show_chat_media}{image=bbc_video_92_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:20245
 translate zh_Hans julia_storyline_311_9031bf2b:
@@ -44046,7 +44046,7 @@ translate zh_Hans julia_storyline_312_4b4f8654:
 translate zh_Hans julia_storyline_312_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:20350
 translate zh_Hans julia_storyline_312_0313a428:
@@ -44354,7 +44354,7 @@ translate zh_Hans julia_storyline_313_21b58332:
 translate zh_Hans julia_storyline_313_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:20502
 translate zh_Hans julia_storyline_313_9e5a3920:
@@ -44572,7 +44572,7 @@ translate zh_Hans julia_storyline_314_36c12245:
 translate zh_Hans julia_storyline_314_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:20622
 translate zh_Hans julia_storyline_314_1e06c012:
@@ -45074,7 +45074,7 @@ translate zh_Hans julia_storyline_316_70bf6ec0:
 translate zh_Hans julia_storyline_316_6be5fd04:
 
     # nvlpaul "{a=show:show_chat_media}{image=wife_video_9_ns}"
-    nvlpaul ""
+    nvlpaul "{a=show:show_chat_media}{image=wife_video_9_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:20877
 translate zh_Hans julia_storyline_316_57c5c709:
@@ -45420,7 +45420,7 @@ translate zh_Hans julia_storyline_318_13a742da:
 translate zh_Hans julia_storyline_318_b22a2f2a:
 
     # nvlbull "{a=show:show_chat_media}{image=bbc_pic_11}"
-    nvlbull ""
+    nvlbull "{a=show:show_chat_media}{image=bbc_pic_11}"
 
 # game/scripts/dialogues/julia_storyline.rpy:21096
 translate zh_Hans julia_storyline_318_56dfe8d1:
@@ -45444,7 +45444,7 @@ translate zh_Hans julia_storyline_318_bb5a5380:
 translate zh_Hans julia_storyline_318_012a2625:
 
     # nvlbull "{a=show:show_chat_media}{image=bbc_video_93_ns}"
-    nvlbull ""
+    nvlbull "{a=show:show_chat_media}{image=bbc_video_93_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:21108
 translate zh_Hans julia_storyline_318_9bb35100:
@@ -45614,7 +45614,7 @@ translate zh_Hans julia_storyline_319_5c809d7d:
 translate zh_Hans julia_storyline_319_7ad34ab6:
 
     # nvlpaul "{a=show:show_chat_media}{image=w_mc_video_3_ns}"
-    nvlpaul ""
+    nvlpaul "{a=show:show_chat_media}{image=w_mc_video_3_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:21215
 translate zh_Hans julia_storyline_319_b0574439:
@@ -46004,7 +46004,7 @@ translate zh_Hans julia_storyline_320_2b6eaf73:
 translate zh_Hans julia_storyline_320_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:21393
 translate zh_Hans julia_storyline_320_bdd85968:
@@ -46210,7 +46210,7 @@ translate zh_Hans julia_storyline_321_888d68b7:
 translate zh_Hans julia_storyline_321_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:21510
 translate zh_Hans julia_storyline_321_ae44f593:
@@ -46302,7 +46302,7 @@ translate zh_Hans julia_storyline_322_5ba3c439:
 translate zh_Hans julia_storyline_322_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:21578
 translate zh_Hans julia_storyline_322_4e029d2d:
@@ -46338,7 +46338,7 @@ translate zh_Hans julia_storyline_322_a42ff0e5:
 translate zh_Hans julia_storyline_322_db8f6e37:
 
     # nvlsecondfan "😊"
-    nvlsecondfan ""
+    nvlsecondfan "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:21590
 translate zh_Hans julia_storyline_322_e258e317:
@@ -46392,7 +46392,7 @@ translate zh_Hans julia_storyline_322_cc82558b:
 translate zh_Hans julia_storyline_322_fd408538_1:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:21608
 translate zh_Hans julia_storyline_322_cf9830a6:
@@ -46538,7 +46538,7 @@ translate zh_Hans julia_storyline_323_34987ed9:
 translate zh_Hans julia_storyline_323_b85ddf21:
 
     # nvlbull "{a=show:show_chat_media}{image=bbc_pic_12}"
-    nvlbull ""
+    nvlbull "{a=show:show_chat_media}{image=bbc_pic_12}"
 
 # game/scripts/dialogues/julia_storyline.rpy:21712
 translate zh_Hans julia_storyline_323_195b9352:
@@ -46562,7 +46562,7 @@ translate zh_Hans julia_storyline_323_32111425:
 translate zh_Hans julia_storyline_323_b41e9a34:
 
     # nvlbull "{a=show:show_chat_media}{image=bbc_video_94_ns}"
-    nvlbull ""
+    nvlbull "{a=show:show_chat_media}{image=bbc_video_94_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:21724
 translate zh_Hans julia_storyline_323_9c6689d0:
@@ -46938,7 +46938,7 @@ translate zh_Hans julia_storyline_325_9ccdcd52:
 translate zh_Hans julia_storyline_325_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:21933
 translate zh_Hans julia_storyline_325_c63d2745:
@@ -47442,7 +47442,7 @@ translate zh_Hans julia_storyline_328_64e91eb1:
 translate zh_Hans julia_storyline_328_dff39450:
 
     # nvlpaul "{a=show:show_chat_media}{image=wife_video_13_ns}"
-    nvlpaul ""
+    nvlpaul "{a=show:show_chat_media}{image=wife_video_13_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:22235
 translate zh_Hans julia_storyline_328_2e537bfc:
@@ -48058,7 +48058,7 @@ translate zh_Hans julia_storyline_330_9156a851:
 translate zh_Hans julia_storyline_330_da6c1c82:
 
     # nvlsimon "{a=show:show_chat_media}{image=w_mc_pic_127}"
-    nvlsimon ""
+    nvlsimon "{a=show:show_chat_media}{image=w_mc_pic_127}"
 
 # game/scripts/dialogues/julia_storyline.rpy:22543
 translate zh_Hans julia_storyline_330_84463d80:
@@ -48222,7 +48222,7 @@ translate zh_Hans julia_storyline_331_e8778211:
 translate zh_Hans julia_storyline_331_d81677c1:
 
     # nvljenna "😉"
-    nvljenna ""
+    nvljenna "😉|"
 
 # game/scripts/dialogues/julia_storyline.rpy:22645
 translate zh_Hans julia_storyline_331_53c71d7c:
@@ -48372,7 +48372,7 @@ translate zh_Hans julia_storyline_332_47cf2854:
 translate zh_Hans julia_storyline_332_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:22731
 translate zh_Hans julia_storyline_332_b95ca916:
@@ -48452,7 +48452,7 @@ translate zh_Hans julia_storyline_333_aee7f720:
 translate zh_Hans julia_storyline_333_1ed49f49:
 
     # nvlbull "{a=show:show_chat_media}{image=bbc_pic_13}"
-    nvlbull ""
+    nvlbull "{a=show:show_chat_media}{image=bbc_pic_13}"
 
 # game/scripts/dialogues/julia_storyline.rpy:22810
 translate zh_Hans julia_storyline_333_e69485ac:
@@ -48482,7 +48482,7 @@ translate zh_Hans julia_storyline_333_92860071:
 translate zh_Hans julia_storyline_333_aa24bb5e:
 
     # nvlbull "{a=show:show_chat_media}{image=bbc_video_95_ns}"
-    nvlbull ""
+    nvlbull "{a=show:show_chat_media}{image=bbc_video_95_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:22824
 translate zh_Hans julia_storyline_333_daed60b7:
@@ -48760,7 +48760,7 @@ translate zh_Hans julia_storyline_334_9cba2466:
 translate zh_Hans julia_storyline_334_dd3a40e4:
 
     # nvljulien "{a=show:show_chat_media}{image=julien_pic_1}"
-    nvljulien ""
+    nvljulien "{a=show:show_chat_media}{image=julien_pic_1}"
 
 # game/scripts/dialogues/julia_storyline.rpy:22971
 translate zh_Hans julia_storyline_334_c3030eb3:
@@ -48772,7 +48772,7 @@ translate zh_Hans julia_storyline_334_c3030eb3:
 translate zh_Hans julia_storyline_334_9d49ed33:
 
     # nvljulien "{a=show:show_chat_media}{image=julien_pic_2}"
-    nvljulien ""
+    nvljulien "{a=show:show_chat_media}{image=julien_pic_2}"
 
 # game/scripts/dialogues/julia_storyline.rpy:22979
 translate zh_Hans julia_storyline_334_43757093:
@@ -48790,7 +48790,7 @@ translate zh_Hans julia_storyline_334_00509e43:
 translate zh_Hans julia_storyline_334_47109ac9:
 
     # nvljulien "{a=show:show_chat_media}{image=julien_pic_3}"
-    nvljulien ""
+    nvljulien "{a=show:show_chat_media}{image=julien_pic_3}"
 
 # game/scripts/dialogues/julia_storyline.rpy:22989
 translate zh_Hans julia_storyline_334_e48a28a0:
@@ -49350,7 +49350,7 @@ translate zh_Hans julia_storyline_338_4cf149fe:
 translate zh_Hans julia_storyline_338_27515665:
 
     # nvljulien "{a=show:show_chat_media}{image=w_mc_pic_128}"
-    nvljulien ""
+    nvljulien "{a=show:show_chat_media}{image=w_mc_pic_128}"
 
 # game/scripts/dialogues/julia_storyline.rpy:23343
 translate zh_Hans julia_storyline_338_8a7efd14:
@@ -49942,7 +49942,7 @@ translate zh_Hans julia_storyline_340_47177212:
 translate zh_Hans julia_storyline_340_7a7f7a2e:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_14_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_14_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:23639
 translate zh_Hans julia_storyline_340_2ca4ae22:
@@ -50252,7 +50252,7 @@ translate zh_Hans julia_storyline_342_44657ffb:
 translate zh_Hans julia_storyline_342_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:23829
 translate zh_Hans julia_storyline_342_cf123d3a:
@@ -50600,7 +50600,7 @@ translate zh_Hans julia_storyline_343_6a5056eb:
 translate zh_Hans julia_storyline_343_7c3d4378:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_129}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_129}"
 
 # game/scripts/dialogues/julia_storyline.rpy:23996
 translate zh_Hans julia_storyline_343_ccc0f94f:
@@ -50636,7 +50636,7 @@ translate zh_Hans julia_storyline_343_84b3841c:
 translate zh_Hans julia_storyline_343_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:24008
 translate zh_Hans julia_storyline_343_18aa0e5c:
@@ -51578,7 +51578,7 @@ translate zh_Hans julia_storyline_346_76526677:
 translate zh_Hans julia_storyline_346_c2900f72:
 
     # nvljenna "{a=show:show_chat_media}{image=bbc_video_96_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=bbc_video_96_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:24478
 translate zh_Hans julia_storyline_346_d50a5f86:
@@ -52044,7 +52044,7 @@ translate zh_Hans julia_storyline_348_3bbe49ba:
 translate zh_Hans julia_storyline_348_c20c0826:
 
     # nvlpaul "😊"
-    nvlpaul ""
+    nvlpaul "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:24717
 translate zh_Hans julia_storyline_348_3def2c75:
@@ -52062,7 +52062,7 @@ translate zh_Hans julia_storyline_348_fb525d1b:
 translate zh_Hans julia_storyline_348_25af0d84:
 
     # nvlpaul "{a=show:show_chat_media}{image=bbc_pic_14}"
-    nvlpaul ""
+    nvlpaul "{a=show:show_chat_media}{image=bbc_pic_14}"
 
 # game/scripts/dialogues/julia_storyline.rpy:24727
 translate zh_Hans julia_storyline_348_3f80153a:
@@ -52420,7 +52420,7 @@ translate zh_Hans julia_storyline_350_4dad4188:
 translate zh_Hans julia_storyline_350_26647f51:
 
     # nvlbull "{a=show:show_chat_media}{image=bbc_video_97_ns}"
-    nvlbull ""
+    nvlbull "{a=show:show_chat_media}{image=bbc_video_97_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:24945
 translate zh_Hans julia_storyline_350_464acc5e:
@@ -52754,7 +52754,7 @@ translate zh_Hans julia_storyline_352_bfb59bd5:
 translate zh_Hans julia_storyline_352_b5f827e5:
 
     # nvlstepsis "😊"
-    nvlstepsis ""
+    nvlstepsis "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:25139
 translate zh_Hans julia_storyline_352_6a54b0ef:
@@ -52928,7 +52928,7 @@ translate zh_Hans julia_storyline_352_6c47a261:
 translate zh_Hans julia_storyline_352_0010ca9d:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_1}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_1}"
 
 # game/scripts/dialogues/julia_storyline.rpy:25201
 translate zh_Hans julia_storyline_352_3f49c44e:
@@ -53226,7 +53226,7 @@ translate zh_Hans julia_storyline_354_0fbf004e:
 translate zh_Hans julia_storyline_354_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:25382
 translate zh_Hans julia_storyline_354_147481be:
@@ -53268,7 +53268,7 @@ translate zh_Hans julia_storyline_354_2c1bc1f2:
 translate zh_Hans julia_storyline_354_123625b4:
 
     # nvljenna "{a=show:show_chat_media}{image=bbc_video_98_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=bbc_video_98_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:25400
 translate zh_Hans julia_storyline_354_9afa33de:
@@ -53646,7 +53646,7 @@ translate zh_Hans julia_storyline_357_6ccaa1a3:
 translate zh_Hans julia_storyline_357_98a86bfa:
 
     # nvlmark "{a=show:show_chat_media}{image=w_mc_pic_130}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=w_mc_pic_130}"
 
 # game/scripts/dialogues/julia_storyline.rpy:25667
 translate zh_Hans julia_storyline_357_7d6f6da3:
@@ -53912,7 +53912,7 @@ translate zh_Hans julia_storyline_358_4529a005:
 translate zh_Hans julia_storyline_358_733fe443:
 
     # nvlraul "{a=show:show_chat_media}{image=bbc_pic_15}"
-    nvlraul ""
+    nvlraul "{a=show:show_chat_media}{image=bbc_pic_15}"
 
 # game/scripts/dialogues/julia_storyline.rpy:25809
 translate zh_Hans julia_storyline_358_089c5296:
@@ -53972,7 +53972,7 @@ translate zh_Hans julia_storyline_358_231670aa:
 translate zh_Hans julia_storyline_358_5a9d078a:
 
     # nvlraul "😊"
-    nvlraul ""
+    nvlraul "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:25829
 translate zh_Hans julia_storyline_358_65007ab8:
@@ -54372,7 +54372,7 @@ translate zh_Hans julia_storyline_360_a62eb553:
 translate zh_Hans julia_storyline_360_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:26070
 translate zh_Hans julia_storyline_360_53c71d7c:
@@ -54524,7 +54524,7 @@ translate zh_Hans julia_storyline_361_4fe236b9:
 translate zh_Hans julia_storyline_361_845f66a8:
 
     # nvlmark "{a=show:show_chat_media}{image=w_mc_pic_131}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=w_mc_pic_131}"
 
 # game/scripts/dialogues/julia_storyline.rpy:26146
 translate zh_Hans julia_storyline_361_a2643621:
@@ -54554,7 +54554,7 @@ translate zh_Hans julia_storyline_361_0ec241fb:
 translate zh_Hans julia_storyline_361_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:26156
 translate zh_Hans julia_storyline_361_39b2ec31:
@@ -55474,7 +55474,7 @@ translate zh_Hans julia_storyline_365_9205c7aa:
 translate zh_Hans julia_storyline_365_21034978:
 
     # nvlwife "{a=show:show_chat_media}{image=bbc_video_99_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=bbc_video_99_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:26636
 translate zh_Hans julia_storyline_365_980a7a29:
@@ -55946,7 +55946,7 @@ translate zh_Hans julia_storyline_367_5de1e1fd:
 translate zh_Hans julia_storyline_367_26ff08c6:
 
     # nvljulien "{a=show:show_chat_media}{image=julien_pic_4}"
-    nvljulien ""
+    nvljulien "{a=show:show_chat_media}{image=julien_pic_4}"
 
 # game/scripts/dialogues/julia_storyline.rpy:26891
 translate zh_Hans julia_storyline_367_d7d6480e:
@@ -55970,7 +55970,7 @@ translate zh_Hans julia_storyline_367_98e1b917_1:
 translate zh_Hans julia_storyline_367_226b3002:
 
     # nvljulien "{a=show:show_chat_media}{image=julien_pic_5}"
-    nvljulien ""
+    nvljulien "{a=show:show_chat_media}{image=julien_pic_5}"
 
 # game/scripts/dialogues/julia_storyline.rpy:26903
 translate zh_Hans julia_storyline_367_4d584784:
@@ -56026,7 +56026,7 @@ translate zh_Hans julia_storyline_368_beb8df73:
 translate zh_Hans julia_storyline_368_4404eeab:
 
     # nvljenna "{a=show:show_chat_media}{image=w_mc_pic_132}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=w_mc_pic_132}"
 
 # game/scripts/dialogues/julia_storyline.rpy:26956
 translate zh_Hans julia_storyline_368_2df7f693:
@@ -56200,7 +56200,7 @@ translate zh_Hans julia_storyline_368_c9ce0e83:
 translate zh_Hans julia_storyline_368_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:27014
 translate zh_Hans julia_storyline_368_ac67ca30:
@@ -56394,7 +56394,7 @@ translate zh_Hans julia_storyline_369_0093da24:
 translate zh_Hans julia_storyline_369_54816f51:
 
     # nvljenna "{a=show:show_chat_media}{image=w_mc_video_42_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=w_mc_video_42_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:27129
 translate zh_Hans julia_storyline_369_9dd530cd:
@@ -56562,7 +56562,7 @@ translate zh_Hans julia_storyline_369_2dd7a182:
 translate zh_Hans julia_storyline_369_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:27185
 translate zh_Hans julia_storyline_369_84ee42ce:
@@ -57572,7 +57572,7 @@ translate zh_Hans julia_storyline_376_1c9e0333:
 translate zh_Hans julia_storyline_376_7b1dc400:
 
     # nvljulien "{a=show:show_chat_media}{image=w_mc_pic_137}"
-    nvljulien ""
+    nvljulien "{a=show:show_chat_media}{image=w_mc_pic_137}"
 
 # game/scripts/dialogues/julia_storyline.rpy:27887
 translate zh_Hans julia_storyline_376_d6174d79:
@@ -57584,7 +57584,7 @@ translate zh_Hans julia_storyline_376_d6174d79:
 translate zh_Hans julia_storyline_376_2a4c05de:
 
     # nvljulien "{a=show:show_chat_media}{image=w_mc_pic_138}"
-    nvljulien ""
+    nvljulien "{a=show:show_chat_media}{image=w_mc_pic_138}"
 
 # game/scripts/dialogues/julia_storyline.rpy:27895
 translate zh_Hans julia_storyline_376_4c88c327:
@@ -57948,7 +57948,7 @@ translate zh_Hans julia_storyline_378_b75ea915:
 translate zh_Hans julia_storyline_378_c13b9093:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_139}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_139}"
 
 # game/scripts/dialogues/julia_storyline.rpy:28092
 translate zh_Hans julia_storyline_378_444e73d2:
@@ -57992,7 +57992,7 @@ translate zh_Hans julia_storyline_379_a5f7e604:
 translate zh_Hans julia_storyline_379_c13b9093:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_139}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_139}"
 
 # game/scripts/dialogues/julia_storyline.rpy:28139
 translate zh_Hans julia_storyline_379_54c4239c:
@@ -59266,7 +59266,7 @@ translate zh_Hans julia_storyline_386_067326cc:
 translate zh_Hans julia_storyline_386_a8d2bb13:
 
     # nvljohn_f "😘"
-    nvljohn_f ""
+    nvljohn_f "😘|"
 
 # game/scripts/dialogues/julia_storyline.rpy:28795
 translate zh_Hans julia_storyline_386_53c71d7c:
@@ -60262,7 +60262,7 @@ translate zh_Hans julia_storyline_392_3bd15868:
 translate zh_Hans julia_storyline_392_f31e3051:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_178}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_178}"
 
 # game/scripts/dialogues/julia_storyline.rpy:29329
 translate zh_Hans julia_storyline_392_657bedbd:
@@ -60432,7 +60432,7 @@ translate zh_Hans julia_storyline_393_9b3903da:
 translate zh_Hans julia_storyline_393_b1c4ae9b:
 
     # nvlbull "{a=show:show_chat_media}{image=bbc_pic_8}"
-    nvlbull ""
+    nvlbull "{a=show:show_chat_media}{image=bbc_pic_8}"
 
 # game/scripts/dialogues/julia_storyline.rpy:29416
 translate zh_Hans julia_storyline_393_38b37784:
@@ -60808,7 +60808,7 @@ translate zh_Hans julia_storyline_395_61ae65a4:
 translate zh_Hans julia_storyline_395_2c13fbf1:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_140}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_140}"
 
 # game/scripts/dialogues/julia_storyline.rpy:29622
 translate zh_Hans julia_storyline_395_28b833ec:
@@ -62478,7 +62478,7 @@ translate zh_Hans julia_storyline_402_0eeef589:
 translate zh_Hans julia_storyline_402_d512db2b:
 
     # nvlwife "{a=show:show_chat_media}{image=w_mc_pic_132_2}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=w_mc_pic_132_2}"
 
 # game/scripts/dialogues/julia_storyline.rpy:30392
 translate zh_Hans julia_storyline_402_a8218aba:
@@ -62562,7 +62562,7 @@ translate zh_Hans julia_storyline_402_792ecdb0:
 translate zh_Hans julia_storyline_402_06d9b98c:
 
     # nvlwife "{a=show:show_chat_media}{image=w_mc_pic_132_3}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=w_mc_pic_132_3}"
 
 # game/scripts/dialogues/julia_storyline.rpy:30424
 translate zh_Hans julia_storyline_402_10374855:
@@ -63082,7 +63082,7 @@ translate zh_Hans julia_storyline_404_dd07ffe1:
 translate zh_Hans julia_storyline_404_9a9ef0b4:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_177}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_177}"
 
 # game/scripts/dialogues/julia_storyline.rpy:30665
 translate zh_Hans julia_storyline_404_8ce967eb:
@@ -64018,7 +64018,7 @@ translate zh_Hans julia_storyline_411_35743d88:
 translate zh_Hans julia_storyline_411_25188151:
 
     # nvlraul "{a=show:show_chat_media}{image=w_mc_pic_141}"
-    nvlraul ""
+    nvlraul "{a=show:show_chat_media}{image=w_mc_pic_141}"
 
 # game/scripts/dialogues/julia_storyline.rpy:31161
 translate zh_Hans julia_storyline_411_3c15691a:
@@ -64242,7 +64242,7 @@ translate zh_Hans julia_storyline_412_f2eee1d0:
 translate zh_Hans julia_storyline_412_1d1c3260:
 
     # nvljenna "{a=show:show_chat_media}{image=w_mc_pic_133}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=w_mc_pic_133}"
 
 # game/scripts/dialogues/julia_storyline.rpy:31281
 translate zh_Hans julia_storyline_412_3c16a85f:
@@ -65348,7 +65348,7 @@ translate zh_Hans julia_storyline_416_d50aac9b:
 translate zh_Hans julia_storyline_416_1237077e:
 
     # nvlwife "{a=show:show_chat_media}{image=w_mc_pic_134}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=w_mc_pic_134}"
 
 # game/scripts/dialogues/julia_storyline.rpy:31771
 translate zh_Hans julia_storyline_416_660c2c32:
@@ -65528,7 +65528,7 @@ translate zh_Hans julia_storyline_416_a2dade07:
 translate zh_Hans julia_storyline_416_1237077e_1:
 
     # nvlwife "{a=show:show_chat_media}{image=w_mc_pic_134}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=w_mc_pic_134}"
 
 # game/scripts/dialogues/julia_storyline.rpy:31835
 translate zh_Hans julia_storyline_416_0331ac00:
@@ -66200,7 +66200,7 @@ translate zh_Hans julia_storyline_419_ac9f4c9a:
 translate zh_Hans julia_storyline_419_051fe947:
 
     # nvlbeautician "{a=show:show_chat_media}{image=w_mc_pic_142}"
-    nvlbeautician ""
+    nvlbeautician "{a=show:show_chat_media}{image=w_mc_pic_142}"
 
 # game/scripts/dialogues/julia_storyline.rpy:32154
 translate zh_Hans julia_storyline_419_b7d95a84:
@@ -66292,7 +66292,7 @@ translate zh_Hans julia_storyline_420_b97e23da:
 translate zh_Hans julia_storyline_420_ab2ad098:
 
     # nvljenna "{a=show:show_chat_media}{image=w_mc_pic_135}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=w_mc_pic_135}"
 
 # game/scripts/dialogues/julia_storyline.rpy:32217
 translate zh_Hans julia_storyline_420_25e5f403:
@@ -67996,7 +67996,7 @@ translate zh_Hans julia_storyline_426_056a82b8:
 translate zh_Hans julia_storyline_426_37ff3a8c:
 
     # nvllena_p "{a=show:show_chat_media}{image=w_mc_pic_136}"
-    nvllena_p ""
+    nvllena_p "{a=show:show_chat_media}{image=w_mc_pic_136}"
 
 # game/scripts/dialogues/julia_storyline.rpy:32961
 translate zh_Hans julia_storyline_426_4c7c3f28:
@@ -69034,7 +69034,7 @@ translate zh_Hans julia_storyline_432_c36b97dd:
 translate zh_Hans julia_storyline_432_6a6c4d9a:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_143}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_143}"
 
 # game/scripts/dialogues/julia_storyline.rpy:33488
 translate zh_Hans julia_storyline_432_b8a5fc09:
@@ -69046,7 +69046,7 @@ translate zh_Hans julia_storyline_432_b8a5fc09:
 translate zh_Hans julia_storyline_432_b8215621:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_144}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_144}"
 
 # game/scripts/dialogues/julia_storyline.rpy:33496
 translate zh_Hans julia_storyline_432_750be7c8:
@@ -69058,7 +69058,7 @@ translate zh_Hans julia_storyline_432_750be7c8:
 translate zh_Hans julia_storyline_432_aeef2399:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_145}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_145}"
 
 # game/scripts/dialogues/julia_storyline.rpy:33504
 translate zh_Hans julia_storyline_432_68af150b:
@@ -69094,7 +69094,7 @@ translate zh_Hans julia_storyline_432_c36260ba:
 translate zh_Hans julia_storyline_432_d46fa49b:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_146}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_146}"
 
 # game/scripts/dialogues/julia_storyline.rpy:33520
 translate zh_Hans julia_storyline_432_c37f8805:
@@ -69190,7 +69190,7 @@ translate zh_Hans julia_storyline_432_ddb40b92:
 translate zh_Hans julia_storyline_432_9bc50e21:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_147}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_147}"
 
 # game/scripts/dialogues/julia_storyline.rpy:33556
 translate zh_Hans julia_storyline_432_2afc8ef7:
@@ -69202,7 +69202,7 @@ translate zh_Hans julia_storyline_432_2afc8ef7:
 translate zh_Hans julia_storyline_432_738dd5c0:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_148}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_148}"
 
 # game/scripts/dialogues/julia_storyline.rpy:33564
 translate zh_Hans julia_storyline_432_8a55073d:
@@ -70208,7 +70208,7 @@ translate zh_Hans julia_storyline_437_15940137:
 translate zh_Hans julia_storyline_437_b729a104:
 
     # nvljohn_f "{a=show:show_chat_media}{image=lena_p_pic_1}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=lena_p_pic_1}"
 
 # game/scripts/dialogues/julia_storyline.rpy:34075
 translate zh_Hans julia_storyline_437_e29c344e:
@@ -70734,7 +70734,7 @@ translate zh_Hans julia_storyline_439_8ba9da7e:
 translate zh_Hans julia_storyline_439_83677e3a:
 
     # nvlson "{a=show:show_chat_media}{image=son_pic_1}"
-    nvlson ""
+    nvlson "{a=show:show_chat_media}{image=son_pic_1}"
 
 # game/scripts/dialogues/julia_storyline.rpy:34325
 translate zh_Hans julia_storyline_439_739e55c1:
@@ -70940,7 +70940,7 @@ translate zh_Hans julia_storyline_440_fdab2922:
 translate zh_Hans julia_storyline_440_45f45d53:
 
     # nvlpaul "{a=show:show_chat_media}{image=wife_video_44_ns}"
-    nvlpaul ""
+    nvlpaul "{a=show:show_chat_media}{image=wife_video_44_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:34446
 translate zh_Hans julia_storyline_440_37958d69:
@@ -71606,7 +71606,7 @@ translate zh_Hans julia_storyline_444_e7af5e5c:
 translate zh_Hans julia_storyline_444_788e1ed4:
 
     # nvljenna "{a=show:show_chat_media}{image=w_mc_pic_149}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=w_mc_pic_149}"
 
 # game/scripts/dialogues/julia_storyline.rpy:34792
 translate zh_Hans julia_storyline_444_fb57bde4:
@@ -72614,7 +72614,7 @@ translate zh_Hans julia_storyline_447_579233c3:
 translate zh_Hans julia_storyline_447_fa395d09:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_289_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_289_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:35256
 translate zh_Hans julia_storyline_447_205fffea:
@@ -72638,7 +72638,7 @@ translate zh_Hans julia_storyline_447_67921f32:
 translate zh_Hans julia_storyline_447_d21959cd:
 
     # nvlwife "{a=show:show_chat_media}{image=christina_video_33_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=christina_video_33_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:35268
 translate zh_Hans julia_storyline_447_860b4474_1:
@@ -73220,7 +73220,7 @@ translate zh_Hans julia_storyline_450_90f41ab9:
 translate zh_Hans julia_storyline_450_8558b5f3:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_150}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_150}"
 
 # game/scripts/dialogues/julia_storyline.rpy:35579
 translate zh_Hans julia_storyline_450_22953ace:
@@ -73754,7 +73754,7 @@ translate zh_Hans julia_storyline_453_5850c290:
 translate zh_Hans julia_storyline_453_4384f160:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_151}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_151}"
 
 # game/scripts/dialogues/julia_storyline.rpy:35874
 translate zh_Hans julia_storyline_453_6dac6f05:
@@ -73880,13 +73880,13 @@ translate zh_Hans julia_storyline_453_5c7b074a:
 translate zh_Hans julia_storyline_453_3a2a58fa:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_152}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_152}"
 
 # game/scripts/dialogues/julia_storyline.rpy:35924
 translate zh_Hans julia_storyline_453_c10d8a49:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_153}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_153}"
 
 # game/scripts/dialogues/julia_storyline.rpy:35928
 translate zh_Hans julia_storyline_453_febd2ed9:
@@ -74344,7 +74344,7 @@ translate zh_Hans julia_storyline_454_6df8a177:
 translate zh_Hans julia_storyline_454_23dcf565:
 
     # nvljenna "{a=show:show_chat_media}{image=bbc_video_108_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=bbc_video_108_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:36144
 translate zh_Hans julia_storyline_454_a158b166:
@@ -74594,7 +74594,7 @@ translate zh_Hans julia_storyline_456_c78f4c0c:
 translate zh_Hans julia_storyline_456_61ecb98d:
 
     # nvlson "{a=show:show_chat_media}{image=w_mc_pic_154}"
-    nvlson ""
+    nvlson "{a=show:show_chat_media}{image=w_mc_pic_154}"
 
 # game/scripts/dialogues/julia_storyline.rpy:36298
 translate zh_Hans julia_storyline_456_278cd952:
@@ -74928,7 +74928,7 @@ translate zh_Hans julia_storyline_458_f19bd31c:
 translate zh_Hans julia_storyline_458_a686776f:
 
     # nvlsalim "😊"
-    nvlsalim ""
+    nvlsalim "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:36474
 translate zh_Hans julia_storyline_458_97c508fa:
@@ -75014,7 +75014,7 @@ translate zh_Hans julia_storyline_459_c6924868:
 translate zh_Hans julia_storyline_459_fa7e1c32:
 
     # nvlrandom_anon87 "{a=show:show_chat_media}{image=w_mc_pic_155}"
-    nvlrandom_anon87 ""
+    nvlrandom_anon87 "{a=show:show_chat_media}{image=w_mc_pic_155}"
 
 # game/scripts/dialogues/julia_storyline.rpy:36564
 translate zh_Hans julia_storyline_459_3ca9ca66:
@@ -75554,7 +75554,7 @@ translate zh_Hans julia_storyline_462_30e10e2e:
 translate zh_Hans julia_storyline_462_8ca825eb:
 
     # nvlson "{a=show:show_chat_media}{image=son_pic_3}"
-    nvlson ""
+    nvlson "{a=show:show_chat_media}{image=son_pic_3}"
 
 # game/scripts/dialogues/julia_storyline.rpy:36852
 translate zh_Hans julia_storyline_462_1bad948f:
@@ -76102,7 +76102,7 @@ translate zh_Hans julia_storyline_463_5ffa01d9:
 translate zh_Hans julia_storyline_463_6233b978:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_156}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_156}"
 
 # game/scripts/dialogues/julia_storyline.rpy:37072
 translate zh_Hans julia_storyline_463_efdffb56:
@@ -76114,7 +76114,7 @@ translate zh_Hans julia_storyline_463_efdffb56:
 translate zh_Hans julia_storyline_463_19d66162:
 
     # nvllena_p "{a=show:show_chat_media}{image=lena_p_pic_2}"
-    nvllena_p ""
+    nvllena_p "{a=show:show_chat_media}{image=lena_p_pic_2}"
 
 # game/scripts/dialogues/julia_storyline.rpy:37082
 translate zh_Hans julia_storyline_463_3b6f62e3:
@@ -77410,13 +77410,13 @@ translate zh_Hans julia_storyline_469_771bada8:
 translate zh_Hans julia_storyline_469_49abbef4:
 
     # nvlfuck_student1 "{a=show:show_chat_media}{image=el_pic_39}"
-    nvlfuck_student1 ""
+    nvlfuck_student1 "{a=show:show_chat_media}{image=el_pic_39}"
 
 # game/scripts/dialogues/julia_storyline.rpy:37786
 translate zh_Hans julia_storyline_469_f261ecb3:
 
     # nvlfuck_student1 "😉"
-    nvlfuck_student1 ""
+    nvlfuck_student1 "😉|"
 
 # game/scripts/dialogues/julia_storyline.rpy:37788
 translate zh_Hans julia_storyline_469_814ed782:
@@ -77600,7 +77600,7 @@ translate zh_Hans julia_storyline_471_76662540:
 translate zh_Hans julia_storyline_471_c961f968:
 
     # nvljenna "{a=show:show_chat_media}{image=w_mc_pic_158}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=w_mc_pic_158}"
 
 # game/scripts/dialogues/julia_storyline.rpy:37934
 translate zh_Hans julia_storyline_471_f9eb191c:
@@ -78568,13 +78568,13 @@ translate zh_Hans julia_storyline_475_43ba56a7:
 translate zh_Hans julia_storyline_475_e60610a1:
 
     # nvlgreg "{a=show:show_chat_media}{image=el_pic_38}"
-    nvlgreg ""
+    nvlgreg "{a=show:show_chat_media}{image=el_pic_38}"
 
 # game/scripts/dialogues/julia_storyline.rpy:38397
 translate zh_Hans julia_storyline_475_e5c43a00:
 
     # nvlgreg "😉"
-    nvlgreg ""
+    nvlgreg "😉|"
 
 # game/scripts/dialogues/julia_storyline.rpy:38413
 translate zh_Hans julia_storyline_475_53c71d7c:
@@ -78726,7 +78726,7 @@ translate zh_Hans julia_storyline_476_3a3c1366:
 translate zh_Hans julia_storyline_476_6e99dba7:
 
     # nvlson "😊"
-    nvlson ""
+    nvlson "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:38496
 translate zh_Hans julia_storyline_476_53c71d7c:
@@ -78812,7 +78812,7 @@ translate zh_Hans julia_storyline_477_fa57c7b3:
 translate zh_Hans julia_storyline_477_574fe7fb:
 
     # nvlpaul "{a=show:show_chat_media}{image=w_mc_video_43_ns}"
-    nvlpaul ""
+    nvlpaul "{a=show:show_chat_media}{image=w_mc_video_43_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:38547
 translate zh_Hans julia_storyline_477_eba28f49:
@@ -79256,7 +79256,7 @@ translate zh_Hans julia_storyline_480_c3cc19c4:
 translate zh_Hans julia_storyline_480_28260156:
 
     # nvlbull "{a=show:show_chat_media}{image=w_mc_pic_158}"
-    nvlbull ""
+    nvlbull "{a=show:show_chat_media}{image=w_mc_pic_158}"
 
 # game/scripts/dialogues/julia_storyline.rpy:38809
 translate zh_Hans julia_storyline_480_055737e5:
@@ -79450,7 +79450,7 @@ translate zh_Hans julia_storyline_481_8ef657f5:
 translate zh_Hans julia_storyline_481_23feb7e8:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_161}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_161}"
 
 # game/scripts/dialogues/julia_storyline.rpy:38912
 translate zh_Hans julia_storyline_481_287011c1:
@@ -79554,7 +79554,7 @@ translate zh_Hans julia_storyline_482_90ab3560:
 translate zh_Hans julia_storyline_482_768683d5:
 
     # nvlbeautician "{a=show:show_chat_media}{image=w_mc_pic_162}"
-    nvlbeautician ""
+    nvlbeautician "{a=show:show_chat_media}{image=w_mc_pic_162}"
 
 # game/scripts/dialogues/julia_storyline.rpy:38983
 translate zh_Hans julia_storyline_482_11baa1ce:
@@ -80014,7 +80014,7 @@ translate zh_Hans julia_storyline_484_0c01019a:
 translate zh_Hans julia_storyline_484_d4201f4a:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_163}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_163}"
 
 # game/scripts/dialogues/julia_storyline.rpy:39205
 translate zh_Hans julia_storyline_484_f6ea6fd4:
@@ -80608,7 +80608,7 @@ translate zh_Hans julia_storyline_487_8fa0ef9c:
 translate zh_Hans julia_storyline_487_d7f4c1b9:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_30_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_video_30_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:39509
 translate zh_Hans julia_storyline_487_43f1dcb9:
@@ -80638,7 +80638,7 @@ translate zh_Hans julia_storyline_487_57a05357:
 translate zh_Hans julia_storyline_487_7c967278:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_31_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_video_31_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:39523
 translate zh_Hans julia_storyline_487_7149d1d3:
@@ -80846,7 +80846,7 @@ translate zh_Hans julia_storyline_489_d45e9a93:
 translate zh_Hans julia_storyline_489_5bb8e70a:
 
     # nvlgreg "{a=show:show_chat_media}{image=el_pic_35}"
-    nvlgreg ""
+    nvlgreg "{a=show:show_chat_media}{image=el_pic_35}"
 
 # game/scripts/dialogues/julia_storyline.rpy:39679
 translate zh_Hans julia_storyline_489_40518271:
@@ -81076,7 +81076,7 @@ translate zh_Hans julia_storyline_490_abdf40fa:
 translate zh_Hans julia_storyline_490_bd6786af:
 
     # nvlfuck_student1 "{a=show:show_chat_media}{image=el_pic_36}"
-    nvlfuck_student1 ""
+    nvlfuck_student1 "{a=show:show_chat_media}{image=el_pic_36}"
 
 # game/scripts/dialogues/julia_storyline.rpy:39808
 translate zh_Hans julia_storyline_490_8892e8fd:
@@ -81368,7 +81368,7 @@ translate zh_Hans julia_storyline_492_91a2730b:
 translate zh_Hans julia_storyline_492_e24501e3:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_video_5_ns}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_video_5_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:39974
 translate zh_Hans julia_storyline_492_ecda5c29:
@@ -81392,7 +81392,7 @@ translate zh_Hans julia_storyline_492_5cd566f2:
 translate zh_Hans julia_storyline_492_b5f827e5:
 
     # nvlstepsis "😊"
-    nvlstepsis ""
+    nvlstepsis "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:39982
 translate zh_Hans julia_storyline_492_a7604e4c:
@@ -81422,13 +81422,13 @@ translate zh_Hans julia_storyline_492_7dd1f927:
 translate zh_Hans julia_storyline_492_aff5928d:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_video_7_ns}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_video_7_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:39998
 translate zh_Hans julia_storyline_492_98eec539:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_video_8_ns}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_video_8_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:40002
 translate zh_Hans julia_storyline_492_c5487a46:
@@ -81524,7 +81524,7 @@ translate zh_Hans julia_storyline_492_45e22764:
 translate zh_Hans julia_storyline_492_10df0275:
 
     # nvlstepsis "😉"
-    nvlstepsis ""
+    nvlstepsis "😉|"
 
 # game/scripts/dialogues/julia_storyline.rpy:40034
 translate zh_Hans julia_storyline_492_6e83959e:
@@ -81846,7 +81846,7 @@ translate zh_Hans julia_storyline_494_2a0d00de:
 translate zh_Hans julia_storyline_494_280a728e:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_78}"
-    nvlmom ""
+    nvlmom "{a=show:show_chat_media}{image=mom_pic_78}"
 
 # game/scripts/dialogues/julia_storyline.rpy:40214
 translate zh_Hans julia_storyline_494_dc2cb34c:
@@ -82022,7 +82022,7 @@ translate zh_Hans julia_storyline_495_20f04142:
 translate zh_Hans julia_storyline_495_f437af94:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_164}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_164}"
 
 # game/scripts/dialogues/julia_storyline.rpy:40317
 translate zh_Hans julia_storyline_495_c916ce1c:
@@ -82154,7 +82154,7 @@ translate zh_Hans julia_storyline_495_3944ebab:
 translate zh_Hans julia_storyline_495_0c253d95:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_165}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_165}"
 
 # game/scripts/dialogues/julia_storyline.rpy:40367
 translate zh_Hans julia_storyline_495_051175f1:
@@ -82548,7 +82548,7 @@ translate zh_Hans julia_storyline_497_c8979692:
 translate zh_Hans julia_storyline_497_74ab13db:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_166}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_166}"
 
 # game/scripts/dialogues/julia_storyline.rpy:40590
 translate zh_Hans julia_storyline_497_0729abc3:
@@ -82584,7 +82584,7 @@ translate zh_Hans julia_storyline_497_695b3dc8:
 translate zh_Hans julia_storyline_497_4b3a148b:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_167}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_167}"
 
 # game/scripts/dialogues/julia_storyline.rpy:40608
 translate zh_Hans julia_storyline_497_d0032ef1:
@@ -82820,7 +82820,7 @@ translate zh_Hans julia_storyline_498_7426f640:
 translate zh_Hans julia_storyline_498_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:40729
 translate zh_Hans julia_storyline_498_8ca2fdfe:
@@ -82898,7 +82898,7 @@ translate zh_Hans julia_storyline_499_9930f957:
 translate zh_Hans julia_storyline_499_c35ff557:
 
     # nvljenna "{a=show:show_chat_media}{image=w_mc_pic_168}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=w_mc_pic_168}"
 
 # game/scripts/dialogues/julia_storyline.rpy:40797
 translate zh_Hans julia_storyline_499_9a5a0b1c:
@@ -83188,7 +83188,7 @@ translate zh_Hans julia_storyline_500_83c072f7:
 translate zh_Hans julia_storyline_500_e2d0e13a:
 
     # nvlbull "{a=show:show_chat_media}{image=bbc_pic_289}"
-    nvlbull ""
+    nvlbull "{a=show:show_chat_media}{image=bbc_pic_289}"
 
 # game/scripts/dialogues/julia_storyline.rpy:40939
 translate zh_Hans julia_storyline_500_cd740c5b:
@@ -83334,7 +83334,7 @@ translate zh_Hans julia_storyline_501_51f6d408:
 translate zh_Hans julia_storyline_501_4db4c207:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_79}"
-    nvlmom ""
+    nvlmom "{a=show:show_chat_media}{image=mom_pic_79}"
 
 # game/scripts/dialogues/julia_storyline.rpy:41024
 translate zh_Hans julia_storyline_501_f195ec1b:
@@ -84074,7 +84074,7 @@ translate zh_Hans julia_storyline_505_4c63634e:
 translate zh_Hans julia_storyline_505_cb6fd687:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_169}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_169}"
 
 # game/scripts/dialogues/julia_storyline.rpy:41421
 translate zh_Hans julia_storyline_505_8520aa3e:
@@ -84098,7 +84098,7 @@ translate zh_Hans julia_storyline_505_ae6fbed7:
 translate zh_Hans julia_storyline_505_54846d93:
 
     # nvlgreg "{a=show:show_chat_media}{image=el_pic_37}"
-    nvlgreg ""
+    nvlgreg "{a=show:show_chat_media}{image=el_pic_37}"
 
 # game/scripts/dialogues/julia_storyline.rpy:41433
 translate zh_Hans julia_storyline_505_dc683b58:
@@ -84152,7 +84152,7 @@ translate zh_Hans julia_storyline_505_0c8395cc:
 translate zh_Hans julia_storyline_505_0896aae1:
 
     # nvlgreg "{a=show:show_chat_media}{image=el_video_9_ns}"
-    nvlgreg ""
+    nvlgreg "{a=show:show_chat_media}{image=el_video_9_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:41457
 translate zh_Hans julia_storyline_505_c9ada6c1:
@@ -84310,7 +84310,7 @@ translate zh_Hans julia_storyline_506_6d7a3db1:
 translate zh_Hans julia_storyline_506_5724ce36:
 
     # nvllena_p "{a=show:show_chat_media}{image=w_mc_pic_170}"
-    nvllena_p ""
+    nvllena_p "{a=show:show_chat_media}{image=w_mc_pic_170}"
 
 # game/scripts/dialogues/julia_storyline.rpy:41561
 translate zh_Hans julia_storyline_506_961e2da0:
@@ -84552,7 +84552,7 @@ translate zh_Hans julia_storyline_510_594f6e69:
 translate zh_Hans julia_storyline_510_1e2f5ea6:
 
     # nvljohn_f "😉"
-    nvljohn_f ""
+    nvljohn_f "😉|"
 
 # game/scripts/dialogues/julia_storyline.rpy:41688
 translate zh_Hans julia_storyline_510_53c71d7c:
@@ -84590,7 +84590,7 @@ translate zh_Hans julia_storyline_511_afa4e136:
 translate zh_Hans julia_storyline_511_4b9b0bda:
 
     # nvljohn_f "{a=show:show_chat_media}{image=lena_p_pic_3}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=lena_p_pic_3}"
 
 # game/scripts/dialogues/julia_storyline.rpy:41738
 translate zh_Hans julia_storyline_511_436865ed:
@@ -84716,7 +84716,7 @@ translate zh_Hans julia_storyline_511_0736926b:
 translate zh_Hans julia_storyline_511_b8277d2e:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_171}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_171}"
 
 # game/scripts/dialogues/julia_storyline.rpy:41786
 translate zh_Hans julia_storyline_511_220081d3:
@@ -85146,7 +85146,7 @@ translate zh_Hans julia_storyline_513_339c0578:
 translate zh_Hans julia_storyline_513_14587665:
 
     # nvlunknown "{a=show:show_chat_media}{image=w_mc_video_45_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=w_mc_video_45_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:41996
 translate zh_Hans julia_storyline_513_ef599834:
@@ -85364,7 +85364,7 @@ translate zh_Hans julia_storyline_514_5cf83b4c:
 translate zh_Hans julia_storyline_514_80036cea:
 
     # nvlmaxwell "{a=show:show_chat_media}{image=bbc_pic_290}"
-    nvlmaxwell ""
+    nvlmaxwell "{a=show:show_chat_media}{image=bbc_pic_290}"
 
 # game/scripts/dialogues/julia_storyline.rpy:42105
 translate zh_Hans julia_storyline_514_7fde40e4:
@@ -85406,7 +85406,7 @@ translate zh_Hans julia_storyline_514_c7a1fb92:
 translate zh_Hans julia_storyline_514_48e580cc:
 
     # nvlmaxwell "{a=show:show_chat_media}{image=bbc_pic_291}"
-    nvlmaxwell ""
+    nvlmaxwell "{a=show:show_chat_media}{image=bbc_pic_291}"
 
 # game/scripts/dialogues/julia_storyline.rpy:42123
 translate zh_Hans julia_storyline_514_22c9b777:
@@ -85684,7 +85684,7 @@ translate zh_Hans julia_storyline_515_49222c68:
 translate zh_Hans julia_storyline_515_75a68ca1:
 
     # nvlmom "{a=show:show_chat_media}{image=w_mc_pic_173}"
-    nvlmom ""
+    nvlmom "{a=show:show_chat_media}{image=w_mc_pic_173}"
 
 # game/scripts/dialogues/julia_storyline.rpy:42278
 translate zh_Hans julia_storyline_515_9e906376:
@@ -85702,7 +85702,7 @@ translate zh_Hans julia_storyline_515_9f14274c:
 translate zh_Hans julia_storyline_515_6a64168c:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_174}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_174}"
 
 # game/scripts/dialogues/julia_storyline.rpy:42290
 translate zh_Hans julia_storyline_515_09019ac3:
@@ -85774,7 +85774,7 @@ translate zh_Hans julia_storyline_515_6e5196fc:
 translate zh_Hans julia_storyline_515_eb116ad8:
 
     # nvlmom "{a=show:show_chat_media}{image=w_mc_pic_175}"
-    nvlmom ""
+    nvlmom "{a=show:show_chat_media}{image=w_mc_pic_175}"
 
 # game/scripts/dialogues/julia_storyline.rpy:42320
 translate zh_Hans julia_storyline_515_f45b2d7b:
@@ -85824,7 +85824,7 @@ translate zh_Hans julia_storyline_516_56f711e4:
 translate zh_Hans julia_storyline_516_5841470f:
 
     # nvllena_p "{a=show:show_chat_media}{image=lena_p_pic_4}"
-    nvllena_p ""
+    nvllena_p "{a=show:show_chat_media}{image=lena_p_pic_4}"
 
 # game/scripts/dialogues/julia_storyline.rpy:42373
 translate zh_Hans julia_storyline_516_ab44f45d:
@@ -85854,7 +85854,7 @@ translate zh_Hans julia_storyline_516_ea2a8741:
 translate zh_Hans julia_storyline_516_5e5dadf3:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_202}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_202}"
 
 # game/scripts/dialogues/julia_storyline.rpy:42389
 translate zh_Hans julia_storyline_516_6b93b85e:
@@ -86144,7 +86144,7 @@ translate zh_Hans julia_storyline_517_1446ae1f:
 translate zh_Hans julia_storyline_517_371fcb80:
 
     # nvllena_p "{a=show:show_chat_media}{image=w_mc_pic_176}"
-    nvllena_p ""
+    nvllena_p "{a=show:show_chat_media}{image=w_mc_pic_176}"
 
 # game/scripts/dialogues/julia_storyline.rpy:42522
 translate zh_Hans julia_storyline_517_d160b16b:
@@ -86410,7 +86410,7 @@ translate zh_Hans julia_storyline_518_0f1462df:
 translate zh_Hans julia_storyline_518_caa06d3c:
 
     # nvlcoachkellyfit "{a=show:show_chat_media}{image=w_mc_pic_203}"
-    nvlcoachkellyfit ""
+    nvlcoachkellyfit "{a=show:show_chat_media}{image=w_mc_pic_203}"
 
 # game/scripts/dialogues/julia_storyline.rpy:42647
 translate zh_Hans julia_storyline_518_e44b3140:
@@ -86658,7 +86658,7 @@ translate zh_Hans julia_storyline_519_a0583753:
 translate zh_Hans julia_storyline_519_8bf5652d:
 
     # nvlunknown "{a=show:show_chat_media}{image=jenna_video_32_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=jenna_video_32_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:42764
 translate zh_Hans julia_storyline_519_86370297:
@@ -86868,19 +86868,19 @@ translate zh_Hans julia_storyline_520_76b2fe88:
 translate zh_Hans julia_storyline_520_f81d57c2:
 
     # nvldad "{a=show:show_chat_media}{image=w_mc_video_46_ns}"
-    nvldad ""
+    nvldad "{a=show:show_chat_media}{image=w_mc_video_46_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:42875
 translate zh_Hans julia_storyline_520_e043cc0a:
 
     # nvldad "{a=show:show_chat_media}{image=w_mc_video_47_ns}"
-    nvldad ""
+    nvldad "{a=show:show_chat_media}{image=w_mc_video_47_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:42881
 translate zh_Hans julia_storyline_520_0ce8e83f:
 
     # nvldad "{a=show:show_chat_media}{image=w_mc_video_48_ns}"
-    nvldad ""
+    nvldad "{a=show:show_chat_media}{image=w_mc_video_48_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:42886
 translate zh_Hans julia_storyline_520_5b3e7433:
@@ -87006,7 +87006,7 @@ translate zh_Hans julia_storyline_520_303cda69:
 translate zh_Hans julia_storyline_520_7692a895:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_video_47_ns}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_video_47_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:42935
 translate zh_Hans julia_storyline_520_08548277:
@@ -87308,13 +87308,13 @@ translate zh_Hans julia_storyline_522_76b2fe88:
 translate zh_Hans julia_storyline_522_2af814c1:
 
     # nvlson "{a=show:show_chat_media}{image=w_mc_pic_183}"
-    nvlson ""
+    nvlson "{a=show:show_chat_media}{image=w_mc_pic_183}"
 
 # game/scripts/dialogues/julia_storyline.rpy:43121
 translate zh_Hans julia_storyline_522_bca07f43:
 
     # nvlson "{a=show:show_chat_media}{image=w_mc_pic_184}"
-    nvlson ""
+    nvlson "{a=show:show_chat_media}{image=w_mc_pic_184}"
 
 # game/scripts/dialogues/julia_storyline.rpy:43125
 translate zh_Hans julia_storyline_522_5d958d66:
@@ -87858,7 +87858,7 @@ translate zh_Hans julia_storyline_524_c653115c:
 translate zh_Hans julia_storyline_524_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:43396
 translate zh_Hans julia_storyline_524_53c71d7c:
@@ -87950,7 +87950,7 @@ translate zh_Hans julia_storyline_525_536343aa:
 translate zh_Hans julia_storyline_525_30ce9992:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_237_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_237_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:43449
 translate zh_Hans julia_storyline_525_eab1df3b:
@@ -87968,7 +87968,7 @@ translate zh_Hans julia_storyline_525_84286b04:
 translate zh_Hans julia_storyline_525_9a3ce9ee:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_254_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_254_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:43459
 translate zh_Hans julia_storyline_525_98f368d2:
@@ -88210,7 +88210,7 @@ translate zh_Hans julia_storyline_526_90fb13bf:
 translate zh_Hans julia_storyline_526_373a9ad3:
 
     # nvlcoachkellyfit "{a=show:show_chat_media}{image=w_mc_pic_185}"
-    nvlcoachkellyfit ""
+    nvlcoachkellyfit "{a=show:show_chat_media}{image=w_mc_pic_185}"
 
 # game/scripts/dialogues/julia_storyline.rpy:43583
 translate zh_Hans julia_storyline_526_5eba4f75:
@@ -88228,7 +88228,7 @@ translate zh_Hans julia_storyline_526_5af1893f:
 translate zh_Hans julia_storyline_526_dd9613cc:
 
     # nvlcoachkellyfit "{a=show:show_chat_media}{image=w_mc_pic_186}"
-    nvlcoachkellyfit ""
+    nvlcoachkellyfit "{a=show:show_chat_media}{image=w_mc_pic_186}"
 
 # game/scripts/dialogues/julia_storyline.rpy:43595
 translate zh_Hans julia_storyline_526_fe6c2d29:
@@ -88470,7 +88470,7 @@ translate zh_Hans julia_storyline_527_be49756f:
 translate zh_Hans julia_storyline_527_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:43710
 translate zh_Hans julia_storyline_527_90c4cd59:
@@ -88846,7 +88846,7 @@ translate zh_Hans julia_storyline_529_515afde8:
 translate zh_Hans julia_storyline_529_9b17ea60:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_372_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_372_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:43907
 translate zh_Hans julia_storyline_529_7a81ae44:
@@ -89112,7 +89112,7 @@ translate zh_Hans julia_storyline_530_cc56e7b5:
 translate zh_Hans julia_storyline_530_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:44028
 translate zh_Hans julia_storyline_530_0b55216a:
@@ -89550,7 +89550,7 @@ translate zh_Hans julia_storyline_533_8bf23708:
 translate zh_Hans julia_storyline_533_b4cb454f:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_pic_859}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_pic_859}"
 
 # game/scripts/dialogues/julia_storyline.rpy:44299
 translate zh_Hans julia_storyline_533_1cec0113:
@@ -89842,7 +89842,7 @@ translate zh_Hans julia_storyline_535_37853257:
 translate zh_Hans julia_storyline_535_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:44461
 translate zh_Hans julia_storyline_535_c885b9ba:
@@ -90320,7 +90320,7 @@ translate zh_Hans julia_storyline_537_cd12462c:
 translate zh_Hans julia_storyline_537_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:44683
 translate zh_Hans julia_storyline_537_5100e55a:
@@ -90392,7 +90392,7 @@ translate zh_Hans julia_storyline_537_723b32a1:
 translate zh_Hans julia_storyline_537_e95f4499:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_187}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_187}"
 
 # game/scripts/dialogues/julia_storyline.rpy:44711
 translate zh_Hans julia_storyline_537_70f5b95c:
@@ -90416,7 +90416,7 @@ translate zh_Hans julia_storyline_537_9867eb97:
 translate zh_Hans julia_storyline_537_595f2eca:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_188}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_188}"
 
 # game/scripts/dialogues/julia_storyline.rpy:44723
 translate zh_Hans julia_storyline_537_36373ff9:
@@ -90472,13 +90472,13 @@ translate zh_Hans julia_storyline_538_d5ac4d0e:
 translate zh_Hans julia_storyline_538_fd96516f:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_189}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_189}"
 
 # game/scripts/dialogues/julia_storyline.rpy:44783
 translate zh_Hans julia_storyline_538_65a8999c:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_190}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_190}"
 
 # game/scripts/dialogues/julia_storyline.rpy:44787
 translate zh_Hans julia_storyline_538_5db4f842:
@@ -90978,7 +90978,7 @@ translate zh_Hans julia_storyline_542_fbba3135:
 translate zh_Hans julia_storyline_542_dadafa5e:
 
     # nvlcoachkellyfit "{a=show:show_chat_media}{image=w_mc_pic_191}"
-    nvlcoachkellyfit ""
+    nvlcoachkellyfit "{a=show:show_chat_media}{image=w_mc_pic_191}"
 
 # game/scripts/dialogues/julia_storyline.rpy:45104
 translate zh_Hans julia_storyline_542_1772a005:
@@ -91232,7 +91232,7 @@ translate zh_Hans julia_storyline_543_d0863ad0:
 translate zh_Hans julia_storyline_543_5dc04662:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_70_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_70_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:45225
 translate zh_Hans julia_storyline_543_d6ec36fb:
@@ -91358,7 +91358,7 @@ translate zh_Hans julia_storyline_543_b49f6edd:
 translate zh_Hans julia_storyline_543_7cc9b8b8:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_132_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_132_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:45271
 translate zh_Hans julia_storyline_543_dc88ba49:
@@ -91546,7 +91546,7 @@ translate zh_Hans julia_storyline_544_8b9e9b1c:
 translate zh_Hans julia_storyline_544_f8d8543f:
 
     # nvlunknown "{a=show:show_chat_media}{image=w_mc_video_44_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=w_mc_video_44_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:45383
 translate zh_Hans julia_storyline_544_40518271:
@@ -91698,7 +91698,7 @@ translate zh_Hans julia_storyline_545_ccae92c2:
 translate zh_Hans julia_storyline_545_7d608e00:
 
     # nvlgreg "{a=show:show_chat_media}{image=w_mc_pic_192}"
-    nvlgreg ""
+    nvlgreg "{a=show:show_chat_media}{image=w_mc_pic_192}"
 
 # game/scripts/dialogues/julia_storyline.rpy:45470
 translate zh_Hans julia_storyline_545_cfb208bc:
@@ -91716,7 +91716,7 @@ translate zh_Hans julia_storyline_545_9b193b12:
 translate zh_Hans julia_storyline_545_84e8d6e8:
 
     # nvlgreg "{a=show:show_chat_media}{image=w_mc_pic_193}"
-    nvlgreg ""
+    nvlgreg "{a=show:show_chat_media}{image=w_mc_pic_193}"
 
 # game/scripts/dialogues/julia_storyline.rpy:45481
 translate zh_Hans julia_storyline_545_db0f83ef:
@@ -91850,7 +91850,7 @@ translate zh_Hans julia_storyline_546_2e45d6a9:
 translate zh_Hans julia_storyline_546_d9affb24:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_194}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_194}"
 
 # game/scripts/dialogues/julia_storyline.rpy:45577
 translate zh_Hans julia_storyline_546_c20fb58e:
@@ -91886,7 +91886,7 @@ translate zh_Hans julia_storyline_546_c354aec7:
 translate zh_Hans julia_storyline_546_1b8fdd5b:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_195}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_195}"
 
 # game/scripts/dialogues/julia_storyline.rpy:45595
 translate zh_Hans julia_storyline_546_b7924b54:
@@ -91952,7 +91952,7 @@ translate zh_Hans julia_storyline_546_9c06ee8d:
 translate zh_Hans julia_storyline_546_9e42b393:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_196}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_196}"
 
 # game/scripts/dialogues/julia_storyline.rpy:45623
 translate zh_Hans julia_storyline_546_810716f8:
@@ -92012,13 +92012,13 @@ translate zh_Hans julia_storyline_546_4b1d2999:
 translate zh_Hans julia_storyline_546_b033c163:
 
     # nvlraul "{a=show:show_chat_media}{image=w_mc_pic_197}"
-    nvlraul ""
+    nvlraul "{a=show:show_chat_media}{image=w_mc_pic_197}"
 
 # game/scripts/dialogues/julia_storyline.rpy:45653
 translate zh_Hans julia_storyline_546_f7263389:
 
     # nvlraul "{a=show:show_chat_media}{image=w_mc_pic_198}"
-    nvlraul ""
+    nvlraul "{a=show:show_chat_media}{image=w_mc_pic_198}"
 
 # game/scripts/dialogues/julia_storyline.rpy:45657
 translate zh_Hans julia_storyline_546_e5ac0a73:
@@ -92078,13 +92078,13 @@ translate zh_Hans julia_storyline_546_c7c3f6a7:
 translate zh_Hans julia_storyline_546_9badba02:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_199}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_199}"
 
 # game/scripts/dialogues/julia_storyline.rpy:45687
 translate zh_Hans julia_storyline_546_a21847e8:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_200}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_200}"
 
 # game/scripts/dialogues/julia_storyline.rpy:45691
 translate zh_Hans julia_storyline_546_997d4d3b:
@@ -92168,7 +92168,7 @@ translate zh_Hans julia_storyline_546_098629ae:
 translate zh_Hans julia_storyline_546_46c7ca9c:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_201}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_201}"
 
 # game/scripts/dialogues/julia_storyline.rpy:45725
 translate zh_Hans julia_storyline_546_d5f1287e:
@@ -92408,7 +92408,7 @@ translate zh_Hans julia_storyline_546_a95b8e97:
 translate zh_Hans julia_storyline_546_46c7ca9c_1:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_201}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_201}"
 
 # game/scripts/dialogues/julia_storyline.rpy:45811
 translate zh_Hans julia_storyline_546_850ba9fd:
@@ -92758,7 +92758,7 @@ translate zh_Hans julia_storyline_547_4c851f05:
 translate zh_Hans julia_storyline_547_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:45975
 translate zh_Hans julia_storyline_547_6fed22e3:
@@ -93298,7 +93298,7 @@ translate zh_Hans julia_storyline_550_fde255fa:
 translate zh_Hans julia_storyline_550_9aac3025:
 
     # nvlcoachkellyfit "{a=show:show_chat_media}{image=w_mc_pic_172}"
-    nvlcoachkellyfit ""
+    nvlcoachkellyfit "{a=show:show_chat_media}{image=w_mc_pic_172}"
 
 # game/scripts/dialogues/julia_storyline.rpy:46270
 translate zh_Hans julia_storyline_550_f43239ad:
@@ -93720,7 +93720,7 @@ translate zh_Hans julia_storyline_507_d8321170:
 translate zh_Hans julia_storyline_507_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/julia_storyline.rpy:47450
 translate zh_Hans julia_storyline_507_12000c90:
@@ -93868,7 +93868,7 @@ translate zh_Hans julia_storyline_509_a5a2b67f:
 translate zh_Hans julia_storyline_509_c09e83f3:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_316_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_316_ns}"
 
 # game/scripts/dialogues/julia_storyline.rpy:47566
 translate zh_Hans julia_storyline_509_1224a737:

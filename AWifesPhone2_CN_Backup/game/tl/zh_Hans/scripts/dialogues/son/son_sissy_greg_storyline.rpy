@@ -1308,7 +1308,7 @@ translate zh_Hans son_sissy_greg_storyline_33_8976723d:
 translate zh_Hans son_sissy_greg_storyline_33_922b2b06:
 
     # nvlgreg "{a=show:show_chat_media}{image=mikky_pic_68}"
-    nvlgreg ""
+    nvlgreg "{a=show:show_chat_media}{image=mikky_pic_68}"
 
 # game/scripts/dialogues/son/son_sissy_greg_storyline.rpy:656
 translate zh_Hans son_sissy_greg_storyline_33_1905e761:

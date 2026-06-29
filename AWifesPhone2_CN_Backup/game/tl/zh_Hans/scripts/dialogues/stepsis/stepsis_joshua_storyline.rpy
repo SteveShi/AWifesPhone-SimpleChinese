@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-29 09:30
+# TODO: Translation updated at 2026-06-29 09:30
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:19
 translate zh_Hans stepsis_joshua_storyline_1_fbdb9013:
@@ -102,7 +102,7 @@ translate zh_Hans stepsis_joshua_storyline_1_cdea1554:
 translate zh_Hans stepsis_joshua_storyline_1_d54b3079:
 
     # nvljoshua_unk "{a=show:show_chat_media}{image=bbc_pic_15}"
-    nvljoshua_unk ""
+    nvljoshua_unk "{a=show:show_chat_media}{image=bbc_pic_15}"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:59
 translate zh_Hans stepsis_joshua_storyline_1_a352a2cc:
@@ -146,7 +146,7 @@ translate zh_Hans stepsis_joshua_storyline_2_5a0080e5:
 translate zh_Hans stepsis_joshua_storyline_2_c7af62d6:
 
     # nvljoshua "{a=show:show_chat_media}{image=bbc_pic_163}"
-    nvljoshua ""
+    nvljoshua "{a=show:show_chat_media}{image=bbc_pic_163}"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:108
 translate zh_Hans stepsis_joshua_storyline_2_09861cc0:
@@ -474,7 +474,7 @@ translate zh_Hans stepsis_joshua_storyline_5_673be979:
 translate zh_Hans stepsis_joshua_storyline_5_07d23729:
 
     # nvljoshua "{a=show:show_chat_media}{image=bbc_video_96_ns}"
-    nvljoshua ""
+    nvljoshua "{a=show:show_chat_media}{image=bbc_video_96_ns}"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:319
 translate zh_Hans stepsis_joshua_storyline_5_780df838:
@@ -662,7 +662,7 @@ translate zh_Hans stepsis_joshua_storyline_6_a134f59d:
 translate zh_Hans stepsis_joshua_storyline_6_9d06d1a2:
 
     # nvljoshua "{a=show:show_chat_media}{image=bbc_pic_270}"
-    nvljoshua ""
+    nvljoshua "{a=show:show_chat_media}{image=bbc_pic_270}"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:418
 translate zh_Hans stepsis_joshua_storyline_6_ee436eef:
@@ -788,7 +788,7 @@ translate zh_Hans stepsis_joshua_storyline_7_ddb1f870:
 translate zh_Hans stepsis_joshua_storyline_7_fcf772c8:
 
     # nvljoshua "{a=show:show_chat_media}{image=bbc_video_105_ns}"
-    nvljoshua ""
+    nvljoshua "{a=show:show_chat_media}{image=bbc_video_105_ns}"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:499
 translate zh_Hans stepsis_joshua_storyline_7_60ffdf58:
@@ -824,7 +824,7 @@ translate zh_Hans stepsis_joshua_storyline_7_cdc153bd:
 translate zh_Hans stepsis_joshua_storyline_7_14d0ad85:
 
     # nvlstepsis "🙄"
-    nvlstepsis ""
+    nvlstepsis "🙄|"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:525
 translate zh_Hans stepsis_joshua_storyline_7_53c71d7c:
@@ -898,7 +898,7 @@ translate zh_Hans stepsis_joshua_storyline_8_0e71d453:
 translate zh_Hans stepsis_joshua_storyline_8_cf806678:
 
     # nvljoshua "{a=show:show_chat_media}{image=bbc_video_106_ns}"
-    nvljoshua ""
+    nvljoshua "{a=show:show_chat_media}{image=bbc_video_106_ns}"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:572
 translate zh_Hans stepsis_joshua_storyline_8_80b295af:
@@ -948,7 +948,7 @@ translate zh_Hans stepsis_joshua_storyline_9_c61faffb:
 translate zh_Hans stepsis_joshua_storyline_9_1063cbb1:
 
     # nvljoshua "{a=show:show_chat_media}{image=bbc_pic_150}"
-    nvljoshua ""
+    nvljoshua "{a=show:show_chat_media}{image=bbc_pic_150}"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:623
 translate zh_Hans stepsis_joshua_storyline_9_75636222:
@@ -1658,7 +1658,7 @@ translate zh_Hans stepsis_joshua_storyline_13_e02b91f7:
 translate zh_Hans stepsis_joshua_storyline_13_f5132885:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_video_31_ns}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_video_31_ns}"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:993
 translate zh_Hans stepsis_joshua_storyline_13_234ada97:
@@ -1854,7 +1854,7 @@ translate zh_Hans stepsis_joshua_storyline_15_394f0c8b:
 translate zh_Hans stepsis_joshua_storyline_15_fb705439:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_148}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_148}"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:1127
 translate zh_Hans stepsis_joshua_storyline_15_ec9e17ea:
@@ -2036,7 +2036,7 @@ translate zh_Hans stepsis_joshua_storyline_16_e0b74e59:
 translate zh_Hans stepsis_joshua_storyline_16_1a8ed5ad:
 
     # nvljoshua "{a=show:show_chat_media}{image=sis_pic_149}"
-    nvljoshua ""
+    nvljoshua "{a=show:show_chat_media}{image=sis_pic_149}"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:1224
 translate zh_Hans stepsis_joshua_storyline_16_6bce637b:
@@ -2354,7 +2354,7 @@ translate zh_Hans stepsis_joshua_storyline_19_78f17aba:
 translate zh_Hans stepsis_joshua_storyline_19_a06b1023:
 
     # nvlstepsis "😅"
-    nvlstepsis ""
+    nvlstepsis "😅|"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:1427
 translate zh_Hans stepsis_joshua_storyline_19_67b8e373:
@@ -2396,7 +2396,7 @@ translate zh_Hans stepsis_joshua_storyline_19_258ca7aa:
 translate zh_Hans stepsis_joshua_storyline_19_e0f13a87:
 
     # nvljoshua "{a=show:show_chat_media}{image=sis_video_37_ns}"
-    nvljoshua ""
+    nvljoshua "{a=show:show_chat_media}{image=sis_video_37_ns}"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:1445
 translate zh_Hans stepsis_joshua_storyline_19_e4ee72be:
@@ -2530,7 +2530,7 @@ translate zh_Hans stepsis_joshua_storyline_20_81250481:
 translate zh_Hans stepsis_joshua_storyline_20_988833f8:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_147}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_147}"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:1524
 translate zh_Hans stepsis_joshua_storyline_20_6fb39208:
@@ -2824,7 +2824,7 @@ translate zh_Hans stepsis_joshua_storyline_23_8d8891bf:
 translate zh_Hans stepsis_joshua_storyline_23_3e93db4e:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_video_32_ns}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_video_32_ns}"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:1725
 translate zh_Hans stepsis_joshua_storyline_23_09b84c35:
@@ -3062,7 +3062,7 @@ translate zh_Hans stepsis_joshua_storyline_25_6db234b0:
 translate zh_Hans stepsis_joshua_storyline_25_9e976927:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_video_38_ns}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_video_38_ns}"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:1873
 translate zh_Hans stepsis_joshua_storyline_25_c3546270:
@@ -3182,7 +3182,7 @@ translate zh_Hans stepsis_joshua_storyline_26_0b0950e7:
 translate zh_Hans stepsis_joshua_storyline_26_56666cec:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_46}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_46}"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:1950
 translate zh_Hans stepsis_joshua_storyline_26_750f356f:
@@ -3292,7 +3292,7 @@ translate zh_Hans stepsis_joshua_storyline_27_31c491bc:
 translate zh_Hans stepsis_joshua_storyline_27_dc4493e7:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_100}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_100}"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:2023
 translate zh_Hans stepsis_joshua_storyline_27_c9deedfa:
@@ -3376,7 +3376,7 @@ translate zh_Hans stepsis_joshua_storyline_27_9e5f3f25:
 translate zh_Hans stepsis_joshua_storyline_27_fdca4ef3:
 
     # nvljoshua "{a=show:show_chat_media}{image=bbc_pic_118}"
-    nvljoshua ""
+    nvljoshua "{a=show:show_chat_media}{image=bbc_pic_118}"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:2055
 translate zh_Hans stepsis_joshua_storyline_27_5840ae89:
@@ -3400,7 +3400,7 @@ translate zh_Hans stepsis_joshua_storyline_27_be0369f5:
 translate zh_Hans stepsis_joshua_storyline_27_5c308d77:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_video_39_ns}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_video_39_ns}"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:2067
 translate zh_Hans stepsis_joshua_storyline_27_4bbb43b7:
@@ -3424,7 +3424,7 @@ translate zh_Hans stepsis_joshua_storyline_27_2801b387:
 translate zh_Hans stepsis_joshua_storyline_27_1d0a71dc:
 
     # nvljoshua "{a=show:show_chat_media}{image=bbc_video_61_ns}"
-    nvljoshua ""
+    nvljoshua "{a=show:show_chat_media}{image=bbc_video_61_ns}"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:2079
 translate zh_Hans stepsis_joshua_storyline_27_661240a1:
@@ -3472,7 +3472,7 @@ translate zh_Hans stepsis_joshua_storyline_27_2bf21934:
 translate zh_Hans stepsis_joshua_storyline_27_02e7b1a9:
 
     # nvlstepsis "😈"
-    nvlstepsis ""
+    nvlstepsis "😈|"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:2109
 translate zh_Hans stepsis_joshua_storyline_27_53c71d7c:
@@ -3638,7 +3638,7 @@ translate zh_Hans stepsis_joshua_storyline_29_7a688eeb:
 translate zh_Hans stepsis_joshua_storyline_29_855f10a9:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_150}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_150}"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:2219
 translate zh_Hans stepsis_joshua_storyline_29_ec9e17ea:
@@ -3766,7 +3766,7 @@ translate zh_Hans stepsis_joshua_storyline_30_40266a4f:
 translate zh_Hans stepsis_joshua_storyline_30_3cb40dc3:
 
     # nvljoshua "{a=show:show_chat_media}{image=sis_video_40_ns}"
-    nvljoshua ""
+    nvljoshua "{a=show:show_chat_media}{image=sis_video_40_ns}"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:2298
 translate zh_Hans stepsis_joshua_storyline_30_8f80e579:
@@ -4060,7 +4060,7 @@ translate zh_Hans stepsis_joshua_storyline_33_0a70d257:
 translate zh_Hans stepsis_joshua_storyline_33_b0d939f9:
 
     # nvljoshua "{a=show:show_chat_media}{image=sis_video_41_ns}"
-    nvljoshua ""
+    nvljoshua "{a=show:show_chat_media}{image=sis_video_41_ns}"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:2501
 translate zh_Hans stepsis_joshua_storyline_33_b4ab12d7:
@@ -4360,7 +4360,7 @@ translate zh_Hans stepsis_joshua_storyline_36_7dfe24c4:
 translate zh_Hans stepsis_joshua_storyline_36_32fa375e:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_video_34_ns}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_video_34_ns}"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:2696
 translate zh_Hans stepsis_joshua_storyline_36_0528e966:
@@ -4456,7 +4456,7 @@ translate zh_Hans stepsis_joshua_storyline_36_e273075f:
 translate zh_Hans stepsis_joshua_storyline_36_5b9855fb:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_129}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_129}"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:2732
 translate zh_Hans stepsis_joshua_storyline_36_4004113b:
@@ -4494,7 +4494,7 @@ translate zh_Hans stepsis_joshua_storyline_37_34a863bf:
 translate zh_Hans stepsis_joshua_storyline_37_88ebe75f:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_video_42_ns}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_video_42_ns}"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:2779
 translate zh_Hans stepsis_joshua_storyline_37_b8413426:
@@ -4840,7 +4840,7 @@ translate zh_Hans stepsis_joshua_storyline_39_e4eb4540:
 translate zh_Hans stepsis_joshua_storyline_39_c28f3a25:
 
     # nvlstepsis "{a=show:show_chat_media}{image=wife_pic_316}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=wife_pic_316}"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:2961
 translate zh_Hans stepsis_joshua_storyline_39_d8c02cdb:
@@ -4876,7 +4876,7 @@ translate zh_Hans stepsis_joshua_storyline_39_335aded6:
 translate zh_Hans stepsis_joshua_storyline_39_cede9554:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_video_35_ns}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_video_35_ns}"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:2977
 translate zh_Hans stepsis_joshua_storyline_39_1b9a892d:
@@ -5010,7 +5010,7 @@ translate zh_Hans stepsis_joshua_storyline_40_387d0ede:
 translate zh_Hans stepsis_joshua_storyline_40_2ac38f5f:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_151}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_151}"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:3058
 translate zh_Hans stepsis_joshua_storyline_40_28682571:
@@ -5076,7 +5076,7 @@ translate zh_Hans stepsis_joshua_storyline_40_c456a3be:
 translate zh_Hans stepsis_joshua_storyline_40_1b42b73f:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_video_43_ns}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_video_43_ns}"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:3084
 translate zh_Hans stepsis_joshua_storyline_40_94f9b00b:
@@ -5206,7 +5206,7 @@ translate zh_Hans stepsis_joshua_storyline_42_7a778a0f:
 translate zh_Hans stepsis_joshua_storyline_42_6c942930:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_152}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_152}"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:3194
 translate zh_Hans stepsis_joshua_storyline_42_258070b8:
@@ -5322,7 +5322,7 @@ translate zh_Hans stepsis_joshua_storyline_43_0f5a6cf2:
 translate zh_Hans stepsis_joshua_storyline_43_98fa7ca3:
 
     # nvljoshua "{a=show:show_chat_media}{image=sis_video_44_ns}"
-    nvljoshua ""
+    nvljoshua "{a=show:show_chat_media}{image=sis_video_44_ns}"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:3267
 translate zh_Hans stepsis_joshua_storyline_43_2a26dc3f:
@@ -5632,7 +5632,7 @@ translate zh_Hans stepsis_joshua_storyline_45_58770397:
 translate zh_Hans stepsis_joshua_storyline_45_5f98c8b3:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_153}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_153}"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:3437
 translate zh_Hans stepsis_joshua_storyline_45_1b317708:
@@ -5716,7 +5716,7 @@ translate zh_Hans stepsis_joshua_storyline_45_b013d761:
 translate zh_Hans stepsis_joshua_storyline_45_247e105f:
 
     # nvljoshua "{a=show:show_chat_media}{image=bbc_pic_274}"
-    nvljoshua ""
+    nvljoshua "{a=show:show_chat_media}{image=bbc_pic_274}"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:3469
 translate zh_Hans stepsis_joshua_storyline_45_4eb92606:
@@ -5766,7 +5766,7 @@ translate zh_Hans stepsis_joshua_storyline_46_8ab8b62a:
 translate zh_Hans stepsis_joshua_storyline_46_a1ecd2db:
 
     # nvljoshua "{a=show:show_chat_media}{image=sis_video_45_ns}"
-    nvljoshua ""
+    nvljoshua "{a=show:show_chat_media}{image=sis_video_45_ns}"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:3520
 translate zh_Hans stepsis_joshua_storyline_46_94d6b2a4:
@@ -6162,7 +6162,7 @@ translate zh_Hans stepsis_joshua_storyline_49_0f5a6cf2:
 translate zh_Hans stepsis_joshua_storyline_49_0410607a:
 
     # nvljoshua "{a=show:show_chat_media}{image=sis_video_46_ns}"
-    nvljoshua ""
+    nvljoshua "{a=show:show_chat_media}{image=sis_video_46_ns}"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:3747
 translate zh_Hans stepsis_joshua_storyline_49_7a7ef29f:

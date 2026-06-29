@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-29 09:30
+# TODO: Translation updated at 2026-06-29 09:30
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:228
 translate zh_Hans son_sissy_storyline_75_48195f8f:
@@ -30,7 +30,7 @@ translate zh_Hans son_sissy_storyline_75_8d80b71b:
 translate zh_Hans son_sissy_storyline_75_ea5dae7a:
 
     # nvljohn "All good"
-    nvljohn "都好啦。"
+    nvljohn "都挺好。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:240
 translate zh_Hans son_sissy_storyline_75_8121298e:
@@ -48,7 +48,7 @@ translate zh_Hans son_sissy_storyline_75_974a480b:
 translate zh_Hans son_sissy_storyline_75_18b6134a:
 
     # nvlsson "Listen, can you give me some money?"
-    nvlsson "爸爸，你能给人家一些钱吗？"
+    nvlsson "爸爸，你能给我一些钱吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:246
 translate zh_Hans son_sissy_storyline_75_0eb2708b:
@@ -66,7 +66,7 @@ translate zh_Hans son_sissy_storyline_75_07034e75:
 translate zh_Hans son_sissy_storyline_75_20fbac9a:
 
     # nvlsson "I want to buy a couple of new things"
-    nvlsson "人家想买几件新东西..."
+    nvlsson "我想买几件新东西..."
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:252
 translate zh_Hans son_sissy_storyline_75_caf04a89:
@@ -84,7 +84,7 @@ translate zh_Hans son_sissy_storyline_75_d19d1a4e:
 translate zh_Hans son_sissy_storyline_75_bdb070c9:
 
     # nvlsson "If possible, could you send $2,000–$3,000?"
-    nvlsson "要是可以的话，你能给人家转两三千美元吗？"
+    nvlsson "要是可以的话，你能给我转两三千美元吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:258
 translate zh_Hans son_sissy_storyline_75_521c7406:
@@ -128,7 +128,7 @@ translate zh_Hans son_sissy_storyline_76_6de85a4b:
 translate zh_Hans son_sissy_storyline_76_68052234:
 
     # nvlsson "Hi..."
-    nvlsson "嗯……大人……"
+    nvlsson "嗯……爸爸……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:303
 translate zh_Hans son_sissy_storyline_76_2719f059:
@@ -140,7 +140,7 @@ translate zh_Hans son_sissy_storyline_76_2719f059:
 translate zh_Hans son_sissy_storyline_76_eb1fbc2d:
 
     # nvlsson "Nothing"
-    nvlsson "人家……没什么好说的了。"
+    nvlsson "我……没什么好说的了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:307
 translate zh_Hans son_sissy_storyline_76_0d05e173:
@@ -152,7 +152,7 @@ translate zh_Hans son_sissy_storyline_76_0d05e173:
 translate zh_Hans son_sissy_storyline_76_9585cad2:
 
     # nvlsson "What do you want from me?"
-    nvlsson "大人……又想让人家怎么伺候你呢？"
+    nvlsson "爸爸……又想让我怎么伺候你呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:311
 translate zh_Hans son_sissy_storyline_76_45b1c90d:
@@ -170,13 +170,13 @@ translate zh_Hans son_sissy_storyline_76_ac1b860a:
 translate zh_Hans son_sissy_storyline_76_9565f7a7:
 
     # nvlsson "Why are you even asking?"
-    nvlsson "大人何必多此一问呢？人家……哪有说不的权利？"
+    nvlsson "爸爸何必多此一问呢？我……哪有说不的权利？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:317
 translate zh_Hans son_sissy_storyline_76_43842957:
 
     # nvlsson "It's not like I have a choice"
-    nvlsson "人家根本就没有选择的余地啊……"
+    nvlsson "我根本就没有选择的余地啊……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:319
 translate zh_Hans son_sissy_storyline_76_7e3d8a09:
@@ -200,7 +200,7 @@ translate zh_Hans son_sissy_storyline_76_63668700:
 translate zh_Hans son_sissy_storyline_76_d7d8f8e4:
 
     # nvltrevor "{a=show:show_chat_media}{image=bbc_pic_273}"
-    nvltrevor ""
+    nvltrevor "{a=show:show_chat_media}{image=bbc_pic_273}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:331
 translate zh_Hans son_sissy_storyline_76_6f362903:
@@ -244,7 +244,7 @@ translate zh_Hans son_sissy_storyline_77_7c99ae4f:
 translate zh_Hans son_sissy_storyline_77_e180b068:
 
     # nvlsson "I don't want to talk about it"
-    nvlsson "人家……不想提那件事，大人……"
+    nvlsson "我……不想提那件事，爸爸……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:376
 translate zh_Hans son_sissy_storyline_77_b6d69246:
@@ -262,7 +262,7 @@ translate zh_Hans son_sissy_storyline_77_c32d7c85:
 translate zh_Hans son_sissy_storyline_77_195f6d8d:
 
     # nvltrevor "But it turns out it's amazing"
-    nvltrevor "但事实证明，那感觉简直是太美妙了，让人家都快融化了呢。"
+    nvltrevor "但事实证明，那感觉简直是太美妙了，让我都快融化了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:382
 translate zh_Hans son_sissy_storyline_77_3841302f:
@@ -274,7 +274,7 @@ translate zh_Hans son_sissy_storyline_77_3841302f:
 translate zh_Hans son_sissy_storyline_77_b47b27b1:
 
     # nvltrevor "{a=show:show_chat_media}{image=son_pic_29}"
-    nvltrevor ""
+    nvltrevor "{a=show:show_chat_media}{image=son_pic_29}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:390
 translate zh_Hans son_sissy_storyline_77_e2e26444:
@@ -292,7 +292,7 @@ translate zh_Hans son_sissy_storyline_77_1f99155b:
 translate zh_Hans son_sissy_storyline_77_eb1fbc2d:
 
     # nvlsson "Nothing"
-    nvlsson "人家……没什么好说的了。"
+    nvlsson "我……没什么好说的了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:396
 translate zh_Hans son_sissy_storyline_77_1b013898:
@@ -310,7 +310,7 @@ translate zh_Hans son_sissy_storyline_77_a05fd14a:
 translate zh_Hans son_sissy_storyline_77_334de245:
 
     # nvlsson "I don't know"
-    nvlsson "人家也不知道。"
+    nvlsson "我也不知道。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:402
 translate zh_Hans son_sissy_storyline_77_1af1080c:
@@ -384,7 +384,7 @@ translate zh_Hans son_sissy_storyline_78_7696a639:
 translate zh_Hans son_sissy_storyline_78_1de42b44:
 
     # nvlsson "Yes, I did"
-    nvlsson "是的，大人，人家都乖乖买好了。"
+    nvlsson "是的，爸爸，我都乖乖买好了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:457
 translate zh_Hans son_sissy_storyline_78_c4b2865b:
@@ -396,13 +396,13 @@ translate zh_Hans son_sissy_storyline_78_c4b2865b:
 translate zh_Hans son_sissy_storyline_78_535b9061:
 
     # nvlsson "Alright"
-    nvlsson "遵命，大人，这就给你看。"
+    nvlsson "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:463
 translate zh_Hans son_sissy_storyline_78_72d8ec90:
 
     # nvlsson "{a=show:show_chat_media}{image=son_pic_30}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=son_pic_30}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:467
 translate zh_Hans son_sissy_storyline_78_43f1dcb9:
@@ -432,7 +432,7 @@ translate zh_Hans son_sissy_storyline_78_1921f585:
 translate zh_Hans son_sissy_storyline_78_1de42b44_1:
 
     # nvlsson "Yes, I did"
-    nvlsson "是的，大人，人家都乖乖买好了。"
+    nvlsson "是的，爸爸，我都乖乖买好了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:477
 translate zh_Hans son_sissy_storyline_78_2da5edb1:
@@ -456,7 +456,7 @@ translate zh_Hans son_sissy_storyline_78_b12b9842:
 translate zh_Hans son_sissy_storyline_78_a782cc6e:
 
     # nvlsson "Yeah, I've already burnt or thrown away almost everything"
-    nvlsson "是的，大人，人家已经把几乎所有旧物都烧毁或丢弃了，什么都没剩下。"
+    nvlsson "是的，爸爸，我已经把几乎所有旧物都烧毁或丢弃了，什么都没剩下。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:485
 translate zh_Hans son_sissy_storyline_78_6aed84af:
@@ -516,25 +516,25 @@ translate zh_Hans son_sissy_storyline_78_df27e699:
 translate zh_Hans son_sissy_storyline_78_900e7918:
 
     # nvlsson "Should I send you a photo?"
-    nvlsson "大人，人家需要给你发张照片瞧瞧吗？"
+    nvlsson "爸爸，我需要给你发张照片瞧瞧吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:505
 translate zh_Hans son_sissy_storyline_78_975050dc:
 
     # nvljenna "Yes"
-    nvljenna "是的，人家明白了。"
+    nvljenna "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:507
 translate zh_Hans son_sissy_storyline_78_9e7943e5:
 
     # nvlsson "Alright, here you go"
-    nvlsson "遵命，大人，这就给你看，人家乖着呢。"
+    nvlsson "遵命，爸爸，这就给你看，我乖着呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:511
 translate zh_Hans son_sissy_storyline_78_863d9979:
 
     # nvlsson "{a=show:show_chat_media}{image=son_pic_31}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=son_pic_31}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:515
 translate zh_Hans son_sissy_storyline_78_0d949905:
@@ -546,7 +546,7 @@ translate zh_Hans son_sissy_storyline_78_0d949905:
 translate zh_Hans son_sissy_storyline_78_3e19ec96:
 
     # nvljenna "I'm so proud of you, my girl"
-    nvljenna "爸爸真为你骄傲，我的乖女儿。"
+    nvljenna "我真为你骄傲，我的乖女儿。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:519
 translate zh_Hans son_sissy_storyline_78_490f1ce1:
@@ -582,13 +582,13 @@ translate zh_Hans son_sissy_storyline_78_d1c4146e:
 translate zh_Hans son_sissy_storyline_78_41a27b8c:
 
     # nvlsson "I don't take it off"
-    nvlsson "人家不会摘下来的。"
+    nvlsson "我不会摘下来的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:531
 translate zh_Hans son_sissy_storyline_78_b5e6bb56:
 
     # nvlsson "I like wearing it"
-    nvlsson "人家喜欢戴着它呢。"
+    nvlsson "我喜欢戴着它呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:533
 translate zh_Hans son_sissy_storyline_78_151b747f:
@@ -630,7 +630,7 @@ translate zh_Hans son_sissy_storyline_78_73fcd22f_1:
 translate zh_Hans son_sissy_storyline_78_2b84de7f:
 
     # nvljenna "Well, I see you've done everything I told you"
-    nvljenna "嗯，看来你把爸爸吩咐的都做到了。"
+    nvljenna "嗯，看来你把我吩咐的都做到了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:547
 translate zh_Hans son_sissy_storyline_78_72ee27a7:
@@ -648,13 +648,13 @@ translate zh_Hans son_sissy_storyline_78_ed15ce9a:
 translate zh_Hans son_sissy_storyline_78_975050dc_1:
 
     # nvljenna "Yes"
-    nvljenna "是的，人家明白了。"
+    nvljenna "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:553
 translate zh_Hans son_sissy_storyline_78_b640bf6a:
 
     # nvljenna "Come to me on Saturday"
-    nvljenna "周六来找爸爸。"
+    nvljenna "周六来找我。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:555
 translate zh_Hans son_sissy_storyline_78_e9e319c5:
@@ -684,13 +684,13 @@ translate zh_Hans son_sissy_storyline_78_9ec1b34e:
 translate zh_Hans son_sissy_storyline_78_ff4ee0d6:
 
     # nvlsson "I'll come"
-    nvlsson "人家一定会来的！"
+    nvlsson "我一定会来的！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:565
 translate zh_Hans son_sissy_storyline_78_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:567
 translate zh_Hans son_sissy_storyline_78_3b44a439:
@@ -708,7 +708,7 @@ translate zh_Hans son_sissy_storyline_78_490f1ce1_1:
 translate zh_Hans son_sissy_storyline_78_4cbc3ae5:
 
     # nvlsson "Thanks for doing all this for me"
-    nvlsson "谢谢你为人家做的一切。"
+    nvlsson "谢谢你为我做的一切。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:573
 translate zh_Hans son_sissy_storyline_78_f51022e4:
@@ -720,7 +720,7 @@ translate zh_Hans son_sissy_storyline_78_f51022e4:
 translate zh_Hans son_sissy_storyline_78_04441323:
 
     # nvljenna "I'm just helping you on your journey"
-    nvljenna "爸爸只是在你的旅程中助你一臂之力罢了。"
+    nvljenna "我只是在你的旅程中助你一臂之力罢了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:577
 translate zh_Hans son_sissy_storyline_78_5ca58195:
@@ -782,7 +782,7 @@ translate zh_Hans son_sissy_storyline_79_4177c7b9:
 translate zh_Hans son_sissy_storyline_79_5aa4ed5d:
 
     # nvlsson "I don't know yet"
-    nvlsson "爸爸还不确定。"
+    nvlsson "我还不确定。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:628
 translate zh_Hans son_sissy_storyline_79_8ca6bb98:
@@ -824,7 +824,7 @@ translate zh_Hans son_sissy_storyline_79_40c7fcd7:
 translate zh_Hans son_sissy_storyline_79_f1986c28:
 
     # nvlmichael "They're showing a good film right now. I've been waiting to see it for ages"
-    nvlmichael "现在正在上映一部好电影呢，人家等了好久好久了。"
+    nvlmichael "现在正在上映一部好电影呢，我等了好久好久了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:642
 translate zh_Hans son_sissy_storyline_79_32a8f08c:
@@ -842,7 +842,7 @@ translate zh_Hans son_sissy_storyline_79_f3cfb73b:
 translate zh_Hans son_sissy_storyline_79_3ae68a0b:
 
     # nvlsson "It's been ages since I've been to the cinema"
-    nvlsson "爸爸也好久没去电影院了。"
+    nvlsson "我也好久没去电影院了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:648
 translate zh_Hans son_sissy_storyline_79_de5fca47:
@@ -860,7 +860,7 @@ translate zh_Hans son_sissy_storyline_79_8068402a:
 translate zh_Hans son_sissy_storyline_79_535b9061:
 
     # nvlsson "Alright"
-    nvlsson "遵命，大人，这就给你看。"
+    nvlsson "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:654
 translate zh_Hans son_sissy_storyline_79_3c354a6f:
@@ -872,7 +872,7 @@ translate zh_Hans son_sissy_storyline_79_3c354a6f:
 translate zh_Hans son_sissy_storyline_79_f9c3b32a:
 
     # nvlmichael "Can I ask you for one more thing?"
-    nvlmichael "爸爸能再向你提一个要求吗？"
+    nvlmichael "我能再向你提一个要求吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:658
 translate zh_Hans son_sissy_storyline_79_6a7a09b1:
@@ -884,7 +884,7 @@ translate zh_Hans son_sissy_storyline_79_6a7a09b1:
 translate zh_Hans son_sissy_storyline_79_b475b931:
 
     # nvlmichael "Can you send me a selfie?"
-    nvlmichael "你能给爸爸发一张自拍照吗？"
+    nvlmichael "你能给我发一张自拍照吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:662
 translate zh_Hans son_sissy_storyline_79_478df01c:
@@ -896,7 +896,7 @@ translate zh_Hans son_sissy_storyline_79_478df01c:
 translate zh_Hans son_sissy_storyline_79_8ba91894:
 
     # nvlmichael "Yes"
-    nvlmichael "是的，人家明白了。"
+    nvlmichael "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:666
 translate zh_Hans son_sissy_storyline_79_e9824656:
@@ -908,7 +908,7 @@ translate zh_Hans son_sissy_storyline_79_e9824656:
 translate zh_Hans son_sissy_storyline_79_888fd648:
 
     # nvlmichael "I just want to see you"
-    nvlmichael "人家只是……好想见到你嘛。"
+    nvlmichael "我只是……好想见到你嘛。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:670
 translate zh_Hans son_sissy_storyline_79_c58976dc:
@@ -920,7 +920,7 @@ translate zh_Hans son_sissy_storyline_79_c58976dc:
 translate zh_Hans son_sissy_storyline_79_a21e5727:
 
     # nvlsson "{a=show:show_chat_media}{image=mikky_pic_26}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=mikky_pic_26}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:678
 translate zh_Hans son_sissy_storyline_79_fa910f6e:
@@ -944,7 +944,7 @@ translate zh_Hans son_sissy_storyline_79_cc2504db:
 translate zh_Hans son_sissy_storyline_79_32764949:
 
     # nvlsson "{a=show:show_chat_media}{image=mikky_pic_27}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=mikky_pic_27}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:690
 translate zh_Hans son_sissy_storyline_79_25e370c6:
@@ -956,13 +956,13 @@ translate zh_Hans son_sissy_storyline_79_25e370c6:
 translate zh_Hans son_sissy_storyline_79_151265b2:
 
     # nvlsson "This isn't a recent photo"
-    nvlsson "这不是人家最近的照片啦。"
+    nvlsson "这不是我最近的照片啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:694
 translate zh_Hans son_sissy_storyline_79_677a3061:
 
     # nvlsson "I was heading to class"
-    nvlsson "人家正要去上课呢。"
+    nvlsson "我正要去上课呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:696
 translate zh_Hans son_sissy_storyline_79_8cb3a418:
@@ -986,13 +986,13 @@ translate zh_Hans son_sissy_storyline_79_17fd58c3:
 translate zh_Hans son_sissy_storyline_79_2dc6bdc7:
 
     # nvlsson "😊"
-    nvlsson ""
+    nvlsson "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:704
 translate zh_Hans son_sissy_storyline_79_8e50211f:
 
     # nvlsson "But I'm not a girl"
-    nvlsson "可是人家不是女孩子呀。"
+    nvlsson "可是我不是女孩子呀。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:706
 translate zh_Hans son_sissy_storyline_79_708d6f8d:
@@ -1016,13 +1016,13 @@ translate zh_Hans son_sissy_storyline_79_aa1e4539:
 translate zh_Hans son_sissy_storyline_79_353d4c91:
 
     # nvlmichael "I just..."
-    nvlmichael "人家只是……"
+    nvlmichael "我只是……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:714
 translate zh_Hans son_sissy_storyline_79_db5d0eea:
 
     # nvlsson "It's alright, I understand"
-    nvlsson "没关系，人家明白的。"
+    nvlsson "没关系，我明白的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:716
 translate zh_Hans son_sissy_storyline_79_8978e982:
@@ -1040,7 +1040,7 @@ translate zh_Hans son_sissy_storyline_79_deeffa79:
 translate zh_Hans son_sissy_storyline_79_535b9061_1:
 
     # nvlsson "Alright"
-    nvlsson "遵命，大人，这就给你看。"
+    nvlsson "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:734
 translate zh_Hans son_sissy_storyline_79_53c71d7c:
@@ -1060,7 +1060,7 @@ translate zh_Hans son_sissy_storyline_80_b8cd3643:
 translate zh_Hans son_sissy_storyline_80_1913086e:
 
     # nvlsson "No, I haven't"
-    nvlsson "没有呢，人家没有走。"
+    nvlsson "没有呢，我没有走。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:759
 translate zh_Hans son_sissy_storyline_80_8700c098:
@@ -1078,13 +1078,13 @@ translate zh_Hans son_sissy_storyline_80_55813d84:
 translate zh_Hans son_sissy_storyline_80_334de245:
 
     # nvlsson "I don't know"
-    nvlsson "人家也不知道。"
+    nvlsson "我也不知道。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:765
 translate zh_Hans son_sissy_storyline_80_032be89b:
 
     # nvlsson "Anytime works for me"
-    nvlsson "人家什么时候都可以的。"
+    nvlsson "我什么时候都可以的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:767
 translate zh_Hans son_sissy_storyline_80_c6bea14b:
@@ -1102,7 +1102,7 @@ translate zh_Hans son_sissy_storyline_80_ac229cc1:
 translate zh_Hans son_sissy_storyline_80_94ed8c00:
 
     # nvltrevor "I'll be waiting"
-    nvltrevor "人家会乖乖等着你的。"
+    nvltrevor "我会乖乖等着你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:785
 translate zh_Hans son_sissy_storyline_80_53c71d7c:
@@ -1134,7 +1134,7 @@ translate zh_Hans son_sissy_storyline_81_8ce4abad:
 translate zh_Hans son_sissy_storyline_81_b4389b7e:
 
     # nvlsson "Nothing, just lying down"
-    nvlsson "没什么啦，人家只是躺着呢。"
+    nvlsson "没什么啦，我只是躺着呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:814
 translate zh_Hans son_sissy_storyline_81_6e6db94a:
@@ -1146,7 +1146,7 @@ translate zh_Hans son_sissy_storyline_81_6e6db94a:
 translate zh_Hans son_sissy_storyline_81_f3ab20af:
 
     # nvlmichael "Same"
-    nvlmichael "人家也是呢。"
+    nvlmichael "我也是呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:818
 translate zh_Hans son_sissy_storyline_81_ae14f6e5:
@@ -1176,7 +1176,7 @@ translate zh_Hans son_sissy_storyline_81_4987f8aa:
 translate zh_Hans son_sissy_storyline_81_8c1508bf:
 
     # nvlsson "Sorry, I can't today"
-    nvlsson "对不起，人家今天不行呢。"
+    nvlsson "对不起，我今天不行呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:828
 translate zh_Hans son_sissy_storyline_81_baa5c7c2:
@@ -1206,7 +1206,7 @@ translate zh_Hans son_sissy_storyline_81_529e3f33:
 translate zh_Hans son_sissy_storyline_81_78ff11b1:
 
     # nvlsson "I just want to stay home today"
-    nvlsson "人家今天只是想待在家里呢。"
+    nvlsson "我今天只是想待在家里呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:838
 translate zh_Hans son_sissy_storyline_81_b1f405f9:
@@ -1262,7 +1262,7 @@ translate zh_Hans son_sissy_storyline_82_4b6816f0:
 translate zh_Hans son_sissy_storyline_82_334de245:
 
     # nvlsson "I don't know"
-    nvlsson "人家也不知道。"
+    nvlsson "我也不知道。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:889
 translate zh_Hans son_sissy_storyline_82_7a3a4f0f:
@@ -1310,7 +1310,7 @@ translate zh_Hans son_sissy_storyline_82_323c573f:
 translate zh_Hans son_sissy_storyline_82_eb1fbc2d:
 
     # nvlsson "Nothing"
-    nvlsson "人家……没什么好说的了。"
+    nvlsson "我……没什么好说的了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:905
 translate zh_Hans son_sissy_storyline_82_ed85ebdc:
@@ -1358,7 +1358,7 @@ translate zh_Hans son_sissy_storyline_82_f36ab33f:
 translate zh_Hans son_sissy_storyline_82_e70084ef:
 
     # nvlsson "I doubt that"
-    nvlsson "人家才不信呢~"
+    nvlsson "我才不信呢~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:921
 translate zh_Hans son_sissy_storyline_82_32a884b9:
@@ -1370,7 +1370,7 @@ translate zh_Hans son_sissy_storyline_82_32a884b9:
 translate zh_Hans son_sissy_storyline_82_f1f5818a:
 
     # nvltrevor "If it weren't for your dick, I'd date you, babe"
-    nvltrevor "要不是你那东西，人家肯定会跟你约会的，宝贝儿。"
+    nvltrevor "要不是你那东西，我肯定会跟你约会的，宝贝儿。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:925
 translate zh_Hans son_sissy_storyline_82_07a0e0ad:
@@ -1418,7 +1418,7 @@ translate zh_Hans son_sissy_storyline_82_f40c477c:
 translate zh_Hans son_sissy_storyline_82_c4e9cdab:
 
     # nvlsson "And if they find out?"
-    nvlsson "那人家要是被发现了呢？"
+    nvlsson "那我要是被发现了呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:941
 translate zh_Hans son_sissy_storyline_82_463fb05b:
@@ -1436,7 +1436,7 @@ translate zh_Hans son_sissy_storyline_82_1b75c2ab:
 translate zh_Hans son_sissy_storyline_82_033d61e5:
 
     # nvlsson "What if I tell them?"
-    nvlsson "那人家要是告诉他们了呢？"
+    nvlsson "那我要是告诉他们了呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:947
 translate zh_Hans son_sissy_storyline_82_11868c06:
@@ -1454,13 +1454,13 @@ translate zh_Hans son_sissy_storyline_82_e697f008:
 translate zh_Hans son_sissy_storyline_82_e0d2d359:
 
     # nvlsson "It's just a joke"
-    nvlsson "人家只是开玩笑的啦~"
+    nvlsson "我只是开玩笑的啦~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:953
 translate zh_Hans son_sissy_storyline_82_c40f92b5:
 
     # nvlsson "I'm not going to tell anyone about it"
-    nvlsson "人家才不会告诉任何人呢。"
+    nvlsson "我才不会告诉任何人呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:955
 translate zh_Hans son_sissy_storyline_82_85d1131b:
@@ -1484,7 +1484,7 @@ translate zh_Hans son_sissy_storyline_82_35b25b93:
 translate zh_Hans son_sissy_storyline_82_938a7db5:
 
     # nvlsson "Understood"
-    nvlsson "人家知道了。"
+    nvlsson "我知道了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:963
 translate zh_Hans son_sissy_storyline_82_ff8abbd2:
@@ -1496,7 +1496,7 @@ translate zh_Hans son_sissy_storyline_82_ff8abbd2:
 translate zh_Hans son_sissy_storyline_82_8edce0bd:
 
     # nvltrevor "{a=show:show_chat_media}{image=mikky_pic_28}"
-    nvltrevor ""
+    nvltrevor "{a=show:show_chat_media}{image=mikky_pic_28}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:971
 translate zh_Hans son_sissy_storyline_82_92ece3dd:
@@ -1526,7 +1526,7 @@ translate zh_Hans son_sissy_storyline_82_4d41cb14:
 translate zh_Hans son_sissy_storyline_82_2d7920e6:
 
     # nvltrevor "I don't know"
-    nvltrevor "人家也不知道。"
+    nvltrevor "我也不知道。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:981
 translate zh_Hans son_sissy_storyline_82_31a3397e:
@@ -1574,7 +1574,7 @@ translate zh_Hans son_sissy_storyline_82_5b90376f:
 translate zh_Hans son_sissy_storyline_82_334de245_1:
 
     # nvlsson "I don't know"
-    nvlsson "人家也不知道。"
+    nvlsson "我也不知道。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:997
 translate zh_Hans son_sissy_storyline_82_443f9174:
@@ -1592,7 +1592,7 @@ translate zh_Hans son_sissy_storyline_82_5b79439d:
 translate zh_Hans son_sissy_storyline_82_393b4119:
 
     # nvlsson "I don't know why I did it"
-    nvlsson "人家也不知道自己为什么要这么做。"
+    nvlsson "我也不知道自己为什么要这么做。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1003
 translate zh_Hans son_sissy_storyline_82_5aa8fd35:
@@ -1604,7 +1604,7 @@ translate zh_Hans son_sissy_storyline_82_5aa8fd35:
 translate zh_Hans son_sissy_storyline_82_849a1a84:
 
     # nvlsson "Just wanted to be a girl..."
-    nvlsson "人家只是……好想成为一个女孩子嘛……"
+    nvlsson "我只是……好想成为一个女孩子嘛……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1007
 translate zh_Hans son_sissy_storyline_82_478632e4:
@@ -1640,7 +1640,7 @@ translate zh_Hans son_sissy_storyline_82_99760cb3:
 translate zh_Hans son_sissy_storyline_82_eb5c88f3:
 
     # nvlsson "Listen, I need to go"
-    nvlsson "听着，人家得走了。"
+    nvlsson "听着，我得走了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1019
 translate zh_Hans son_sissy_storyline_82_1deef38d:
@@ -1652,7 +1652,7 @@ translate zh_Hans son_sissy_storyline_82_1deef38d:
 translate zh_Hans son_sissy_storyline_82_bd06618f:
 
     # nvltrevor "Okay, I understand"
-    nvltrevor "好吧，人家明白了。"
+    nvltrevor "好吧，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1023
 translate zh_Hans son_sissy_storyline_82_4c79c17e:
@@ -1664,13 +1664,13 @@ translate zh_Hans son_sissy_storyline_82_4c79c17e:
 translate zh_Hans son_sissy_storyline_82_2693f4d3:
 
     # nvltrevor "I'll message you"
-    nvltrevor "人家会给你发消息的。"
+    nvltrevor "我会给你发消息的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1027
 translate zh_Hans son_sissy_storyline_82_535b9061:
 
     # nvlsson "Alright"
-    nvlsson "遵命，大人，这就给你看。"
+    nvlsson "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1041
 translate zh_Hans son_sissy_storyline_82_53c71d7c:
@@ -1702,7 +1702,7 @@ translate zh_Hans son_sissy_storyline_83_8d80b71b:
 translate zh_Hans son_sissy_storyline_83_564d9626:
 
     # nvljohn "I'm good"
-    nvljohn "人家……人家很好"
+    nvljohn "我……我很好"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1070
 translate zh_Hans son_sissy_storyline_83_963bda57:
@@ -1726,7 +1726,7 @@ translate zh_Hans son_sissy_storyline_83_3d24e7ab:
 translate zh_Hans son_sissy_storyline_83_510e7845:
 
     # nvljohn "Working"
-    nvljohn "人家在忙呢。"
+    nvljohn "我在忙呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1078
 translate zh_Hans son_sissy_storyline_83_60471a49:
@@ -1750,19 +1750,19 @@ translate zh_Hans son_sissy_storyline_83_64f9e9e4:
 translate zh_Hans son_sissy_storyline_83_f46245b7:
 
     # nvlsson "I'm planning to go for a walk"
-    nvlsson "人家想出去走走呢。"
+    nvlsson "我想出去走走呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1088
 translate zh_Hans son_sissy_storyline_83_29ec9d08:
 
     # nvlsson "{a=show:show_chat_media}{image=mikky_pic_29}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=mikky_pic_29}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1092
 translate zh_Hans son_sissy_storyline_83_02865f6d:
 
     # nvlsson "I was thinking of inviting you if you're not busy"
-    nvlsson "人家想着，要是你不忙的话，想邀请你陪人家一起去呢。"
+    nvlsson "我想着，要是你不忙的话，想邀请你陪我一起去呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1094
 translate zh_Hans son_sissy_storyline_83_1f96f99a:
@@ -1780,7 +1780,7 @@ translate zh_Hans son_sissy_storyline_83_40b62807:
 translate zh_Hans son_sissy_storyline_83_f6a4f921:
 
     # nvlsson "Yeah, I figured"
-    nvlsson "嗯，人家猜到了。"
+    nvlsson "嗯，我猜到了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1100
 translate zh_Hans son_sissy_storyline_83_047c564b:
@@ -1798,13 +1798,13 @@ translate zh_Hans son_sissy_storyline_83_5b796518:
 translate zh_Hans son_sissy_storyline_83_2dc6bdc7:
 
     # nvlsson "😊"
-    nvlsson ""
+    nvlsson "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1106
 translate zh_Hans son_sissy_storyline_83_9355d5f5:
 
     # nvlsson "Did you ever think I'd become like this?"
-    nvlsson "爸爸，你可曾想过，人家会变成现在这副模样吗？"
+    nvlsson "爸爸，你可曾想过，我会变成现在这副模样吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1108
 translate zh_Hans son_sissy_storyline_83_8c31f519:
@@ -1816,19 +1816,19 @@ translate zh_Hans son_sissy_storyline_83_8c31f519:
 translate zh_Hans son_sissy_storyline_83_4ec3b839:
 
     # nvljohn "No, I didn't"
-    nvljohn "才不是呢，人家没有啦。"
+    nvljohn "不，我没有。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1112
 translate zh_Hans son_sissy_storyline_83_6a250f34:
 
     # nvlsson "I didn't think so either"
-    nvlsson "人家以前也从没想过会这样呢。"
+    nvlsson "我以前也从没想过会这样呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1114
 translate zh_Hans son_sissy_storyline_83_4ac20b51:
 
     # nvlsson "But now I realise I did the right thing"
-    nvlsson "可是现在，人家才明白，自己做的是多么正确呢。"
+    nvlsson "可是现在，我才明白，自己做的是多么正确呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1116
 translate zh_Hans son_sissy_storyline_83_85ceba30:
@@ -1840,31 +1840,31 @@ translate zh_Hans son_sissy_storyline_83_85ceba30:
 translate zh_Hans son_sissy_storyline_83_357202c3:
 
     # nvlsson "Yes"
-    nvlsson "是的，人家明白了。"
+    nvlsson "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1120
 translate zh_Hans son_sissy_storyline_83_5159c72b:
 
     # nvlsson "I enjoy this life"
-    nvlsson "人家好喜欢现在这种被你疼爱的生活呢。"
+    nvlsson "我好喜欢现在这种被你疼爱的生活呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1122
 translate zh_Hans son_sissy_storyline_83_39a2c916:
 
     # nvlsson "I like being who I am now"
-    nvlsson "人家好喜欢现在这样，属于你的自己。"
+    nvlsson "我好喜欢现在这样，属于你的自己。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1124
 translate zh_Hans son_sissy_storyline_83_eb2b5f6c:
 
     # nvlsson "The only thing I don't really like is the thing between my legs"
-    nvlsson "人家唯一不太喜欢的，就是人家两腿间那碍事的小东西了呢。"
+    nvlsson "我唯一不太喜欢的，就是我两腿间那碍事的小东西了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1126
 translate zh_Hans son_sissy_storyline_83_7f439113:
 
     # nvlsson "But I think, with time, I'll get rid of that too 😊"
-    nvlsson "可是人家想，时间久了，人家也会把那些都抛弃掉的呢 😊"
+    nvlsson "可是我想，时间久了，我也会把那些都抛弃掉的呢 😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1128
 translate zh_Hans son_sissy_storyline_83_bf52e542:
@@ -1876,19 +1876,19 @@ translate zh_Hans son_sissy_storyline_83_bf52e542:
 translate zh_Hans son_sissy_storyline_83_357202c3_1:
 
     # nvlsson "Yes"
-    nvlsson "是的，人家明白了。"
+    nvlsson "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1132
 translate zh_Hans son_sissy_storyline_83_8965034a:
 
     # nvlsson "I really want that, to be honest"
-    nvlsson "说实话，人家真的好渴望那样，渴望得身子都酥麻了呢。"
+    nvlsson "说实话，我真的好渴望那样，渴望得身子都酥麻了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1134
 translate zh_Hans son_sissy_storyline_83_7d978b4f:
 
     # nvlsson "I want to wake up one day completely a girl"
-    nvlsson "人家好想有一天醒来，就彻彻底底地变成一个只属于你的女孩子。"
+    nvlsson "我好想有一天醒来，就彻彻底底地变成一个只属于你的女孩子。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1136
 translate zh_Hans son_sissy_storyline_83_0502a630:
@@ -1912,7 +1912,7 @@ translate zh_Hans son_sissy_storyline_83_07034e75:
 translate zh_Hans son_sissy_storyline_83_0eb385a0:
 
     # nvlsson "I'm hopeful for that"
-    nvlsson "人家对此充满了希望，期待着那一天的到来呢。"
+    nvlsson "我对此充满了希望，期待着那一天的到来呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1144
 translate zh_Hans son_sissy_storyline_83_fb2cb01d:
@@ -1942,7 +1942,7 @@ translate zh_Hans son_sissy_storyline_83_d5ecb309:
 translate zh_Hans son_sissy_storyline_83_b248fc8c:
 
     # nvlsson "Thank you 😊"
-    nvlsson "谢谢大人 😊"
+    nvlsson "谢谢爸爸 😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1168
 translate zh_Hans son_sissy_storyline_83_53c71d7c:
@@ -1962,7 +1962,7 @@ translate zh_Hans son_sissy_storyline_84_e3176985:
 translate zh_Hans son_sissy_storyline_84_78d01ff7:
 
     # nvlsson "Yes, I'm ready"
-    nvlsson "是的，人家已经准备好了，就等着爸爸来疼爱人家了呢。"
+    nvlsson "是的，我已经准备好了，就等着爸爸来疼爱我了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1193
 translate zh_Hans son_sissy_storyline_84_c4c1cc24:
@@ -1980,7 +1980,7 @@ translate zh_Hans son_sissy_storyline_84_4fcc29de:
 translate zh_Hans son_sissy_storyline_84_2bb5828d:
 
     # nvlsson "{a=show:show_chat_media}{image=mikky_pic_30}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=mikky_pic_30}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1203
 translate zh_Hans son_sissy_storyline_84_50453b69:
@@ -1998,7 +1998,7 @@ translate zh_Hans son_sissy_storyline_84_fdb449b9:
 translate zh_Hans son_sissy_storyline_84_8d49164b:
 
     # nvlsson "I took it off just for the photo"
-    nvlsson "人家只是为了拍照才把它摘下来的，下次不敢了。"
+    nvlsson "我只是为了拍照才把它摘下来的，下次不敢了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1209
 translate zh_Hans son_sissy_storyline_84_5ca581a9:
@@ -2016,13 +2016,13 @@ translate zh_Hans son_sissy_storyline_84_acde8ddb:
 translate zh_Hans son_sissy_storyline_84_c16ac3aa:
 
     # nvlsson "Yes, I remember"
-    nvlsson "是的，人家记得的，爸爸。"
+    nvlsson "是的，我记得的，爸爸。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1215
 translate zh_Hans son_sissy_storyline_84_1b1d8106:
 
     # nvlsson "Sorry about that"
-    nvlsson "对不起，是人家错了，求爸爸原谅。"
+    nvlsson "对不起，是我错了，求爸爸原谅。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1217
 translate zh_Hans son_sissy_storyline_84_40dcf145:
@@ -2046,7 +2046,7 @@ translate zh_Hans son_sissy_storyline_84_cc5162da:
 translate zh_Hans son_sissy_storyline_84_8a080970:
 
     # nvlsson "Okay, I'll be there in half an hour"
-    nvlsson "好的，人家半小时后就乖乖地到你身边。"
+    nvlsson "好的，我半小时后就乖乖地到你身边。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1239
 translate zh_Hans son_sissy_storyline_84_53c71d7c:
@@ -2072,7 +2072,7 @@ translate zh_Hans son_sissy_storyline_85_eb3bbeaf:
 translate zh_Hans son_sissy_storyline_85_1aebb174:
 
     # nvljohn "Yes, everything's fine"
-    nvljohn "嗯，人家...人家都好好的呢，你不用担心人家..."
+    nvljohn "嗯，我……我都还好，你不用担心。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1266
 translate zh_Hans son_sissy_storyline_85_225fb617:
@@ -2090,7 +2090,7 @@ translate zh_Hans son_sissy_storyline_85_47882d59:
 translate zh_Hans son_sissy_storyline_85_510e7845:
 
     # nvljohn "Working"
-    nvljohn "人家在忙呢。"
+    nvljohn "我在忙呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1272
 translate zh_Hans son_sissy_storyline_85_72873dfe:
@@ -2114,7 +2114,7 @@ translate zh_Hans son_sissy_storyline_85_78334426:
 translate zh_Hans son_sissy_storyline_85_ffcb410f:
 
     # nvljohn "I know"
-    nvljohn "人家知道的。"
+    nvljohn "我知道的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1280
 translate zh_Hans son_sissy_storyline_85_18905944:
@@ -2126,7 +2126,7 @@ translate zh_Hans son_sissy_storyline_85_18905944:
 translate zh_Hans son_sissy_storyline_85_be7599f3:
 
     # nvljenna "That's wrong, you know 😊"
-    nvljenna "人家知道这样是不对的，可是人家好喜欢呢 😊"
+    nvljenna "我知道这样是不对的，可是我好喜欢呢 😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1284
 translate zh_Hans son_sissy_storyline_85_99c64cde:
@@ -2186,7 +2186,7 @@ translate zh_Hans son_sissy_storyline_85_f307c1d9:
 translate zh_Hans son_sissy_storyline_85_229402f8:
 
     # nvljohn "I don't know"
-    nvljohn "人家也不知道。"
+    nvljohn "我也不知道。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1304
 translate zh_Hans son_sissy_storyline_85_620902e3:
@@ -2302,7 +2302,7 @@ translate zh_Hans son_sissy_storyline_86_4c1ac3ec:
 translate zh_Hans son_sissy_storyline_86_1acf9ba6:
 
     # nvlsson "I'm good"
-    nvlsson "人家……人家很好"
+    nvlsson "我……我很好"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1373
 translate zh_Hans son_sissy_storyline_86_051e7e5f:
@@ -2338,13 +2338,13 @@ translate zh_Hans son_sissy_storyline_86_36d7cecf:
 translate zh_Hans son_sissy_storyline_86_535b9061:
 
     # nvlsson "Alright"
-    nvlsson "遵命，大人，这就给你看。"
+    nvlsson "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1385
 translate zh_Hans son_sissy_storyline_86_56446ddc:
 
     # nvlsson "What time should I come over?"
-    nvlsson "人家什么时候过去呢？"
+    nvlsson "我什么时候过去呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1387
 translate zh_Hans son_sissy_storyline_86_46e8be23:
@@ -2356,7 +2356,7 @@ translate zh_Hans son_sissy_storyline_86_46e8be23:
 translate zh_Hans son_sissy_storyline_86_d036fb62:
 
     # nvlsson "Alright, I'll be at yours at 9"
-    nvlsson "好的，人家晚上9点一定会准时到你那儿的"
+    nvlsson "好的，我晚上9点一定会准时到你那儿的"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1403
 translate zh_Hans son_sissy_storyline_86_53c71d7c:
@@ -2382,7 +2382,7 @@ translate zh_Hans son_sissy_storyline_87_19d8eb71:
 translate zh_Hans son_sissy_storyline_87_99e37db0:
 
     # nvlsson "No, I won't"
-    nvlsson "不，人家再也不会了"
+    nvlsson "不，我再也不会了"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1430
 translate zh_Hans son_sissy_storyline_87_d31aa712:
@@ -2430,19 +2430,19 @@ translate zh_Hans son_sissy_storyline_87_ec02cb00:
 translate zh_Hans son_sissy_storyline_87_9fb1fb81:
 
     # nvljenna "{a=show:show_chat_media}{image=mikky_video_19_2_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=mikky_video_19_2_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1450
 translate zh_Hans son_sissy_storyline_87_f0531e40:
 
     # nvljenna "You came so hard 😉"
-    nvljenna "大人，你让人家身子都酥麻了呢 😉"
+    nvljenna "大人，你让我身子都酥麻了呢 😉"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1452
 translate zh_Hans son_sissy_storyline_87_62a919fb:
 
     # nvlsson "I did enjoy it a little, yes"
-    nvlsson "嗯……人家、人家确实有一点点享受呢……"
+    nvlsson "嗯……我、我确实有一点点享受呢……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1454
 translate zh_Hans son_sissy_storyline_87_f5a4a676:
@@ -2460,19 +2460,19 @@ translate zh_Hans son_sissy_storyline_87_f1225803:
 translate zh_Hans son_sissy_storyline_87_1dd91d77:
 
     # nvlsson "There won't be a next time, mistress"
-    nvlsson "不会再有下次了，女主人，人家保证！"
+    nvlsson "不会再有下次了，女主人，我保证！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1460
 translate zh_Hans son_sissy_storyline_87_4bf65d63:
 
     # nvlsson "I won't remove the chastity device again"
-    nvlsson "人家再也不会擅自取下贞操带了"
+    nvlsson "我再也不会擅自取下贞操带了"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1462
 translate zh_Hans son_sissy_storyline_87_25f02c8a:
 
     # nvlsson "I'll always keep it on from now on"
-    nvlsson "从今以后，人家会一直乖乖地戴着它，片刻不离"
+    nvlsson "从今以后，我会一直乖乖地戴着它，片刻不离"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1464
 translate zh_Hans son_sissy_storyline_87_fab4ab6a:
@@ -2490,7 +2490,7 @@ translate zh_Hans son_sissy_storyline_87_c81c04db:
 translate zh_Hans son_sissy_storyline_87_1a39ba33:
 
     # nvlsson "I promise, mistress"
-    nvlsson "人家向你保证，女主人"
+    nvlsson "我向你保证，女主人"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1470
 translate zh_Hans son_sissy_storyline_87_c61a994c:
@@ -2508,7 +2508,7 @@ translate zh_Hans son_sissy_storyline_87_4a820d87:
 translate zh_Hans son_sissy_storyline_87_8b4f5b27:
 
     # nvlsson "Thank you ❤️"
-    nvlsson "谢谢大人 ❤️"
+    nvlsson "谢谢爸爸 ❤️"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1476
 translate zh_Hans son_sissy_storyline_87_a5c73a0f:
@@ -2526,13 +2526,13 @@ translate zh_Hans son_sissy_storyline_87_0f88b07f:
 translate zh_Hans son_sissy_storyline_87_f4ceb849:
 
     # nvlsson "I'll behave, mistress"
-    nvlsson "人家一定会乖乖的，女主人"
+    nvlsson "我一定会乖乖的，女主人"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1482
 translate zh_Hans son_sissy_storyline_87_e5e5aec8:
 
     # nvlsson "I promise"
-    nvlsson "人家保证"
+    nvlsson "我保证"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1484
 translate zh_Hans son_sissy_storyline_87_4d0c0d11:
@@ -2544,13 +2544,13 @@ translate zh_Hans son_sissy_storyline_87_4d0c0d11:
 translate zh_Hans son_sissy_storyline_87_bcd2273d:
 
     # nvljenna "I want to introduce you to someone"
-    nvljenna "人家想给你介绍一个人"
+    nvljenna "我想给你介绍一个人"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1488
 translate zh_Hans son_sissy_storyline_87_09d67f0a:
 
     # nvljenna "I think you'll find it interesting to talk with her"
-    nvljenna "人家觉得，你会很乐意和她聊聊的"
+    nvljenna "我觉得，你会很乐意和她聊聊的"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1490
 translate zh_Hans son_sissy_storyline_87_717f79fe:
@@ -2562,13 +2562,13 @@ translate zh_Hans son_sissy_storyline_87_717f79fe:
 translate zh_Hans son_sissy_storyline_87_c7fdd03e:
 
     # nvljenna "I'll message you a bit later"
-    nvljenna "人家晚点再给你发消息好不好？"
+    nvljenna "我晚点再给你发消息好不好？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1494
 translate zh_Hans son_sissy_storyline_87_db7fa4f0:
 
     # nvljenna "I'll talk to her first"
-    nvljenna "人家想先和她聊聊嘛"
+    nvljenna "我想先和她聊聊嘛"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1496
 translate zh_Hans son_sissy_storyline_87_446d118d:
@@ -2618,7 +2618,7 @@ translate zh_Hans son_sissy_storyline_88_05c021de:
 translate zh_Hans son_sissy_storyline_88_50cb8c93:
 
     # nvlsson "No, I'm not"
-    nvlsson "没有呢，人家还没回来。"
+    nvlsson "没有呢，我还没回来。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1548
 translate zh_Hans son_sissy_storyline_88_d9521cfe:
@@ -2636,13 +2636,13 @@ translate zh_Hans son_sissy_storyline_88_4c868085:
 translate zh_Hans son_sissy_storyline_88_8ba91894:
 
     # nvlmichael "Yes"
-    nvlmichael "是的，人家明白了。"
+    nvlmichael "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1554
 translate zh_Hans son_sissy_storyline_88_6581c338:
 
     # nvlmichael "I'm nearby at the moment"
-    nvlmichael "人家现在就在附近呢"
+    nvlmichael "我现在就在附近呢"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1556
 translate zh_Hans son_sissy_storyline_88_3f100080:
@@ -2666,13 +2666,13 @@ translate zh_Hans son_sissy_storyline_88_3c354a6f:
 translate zh_Hans son_sissy_storyline_88_d2ccd335:
 
     # nvlmichael "I'll be there in 10 minutes then"
-    nvlmichael "那人家十分钟后就到你身边啦"
+    nvlmichael "那我十分钟后就到你身边啦"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1564
 translate zh_Hans son_sissy_storyline_88_c96e061f:
 
     # nvlsson "I'll be waiting"
-    nvlsson "人家会乖乖等着你的。"
+    nvlsson "我会乖乖等着你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1580
 translate zh_Hans son_sissy_storyline_88_53c71d7c:
@@ -2692,7 +2692,7 @@ translate zh_Hans son_sissy_storyline_89_9189070b:
 translate zh_Hans son_sissy_storyline_89_346c3008:
 
     # nvlmichael "I was a bit drunk and..."
-    nvlmichael "人家昨晚喝得有点醉，然后就……"
+    nvlmichael "我昨晚喝得有点醉，然后就……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1605
 translate zh_Hans son_sissy_storyline_89_ad472bc3:
@@ -2710,13 +2710,13 @@ translate zh_Hans son_sissy_storyline_89_6763ec7b:
 translate zh_Hans son_sissy_storyline_89_029f814f:
 
     # nvlmichael "I don't know why I did that with you"
-    nvlmichael "人家也不知道为什么会和你那样……"
+    nvlmichael "我也不知道为什么会和你那样……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1611
 translate zh_Hans son_sissy_storyline_89_718597e9:
 
     # nvlmichael "Maybe it's because I really like you"
-    nvlmichael "也许是人家真的好喜欢你吧"
+    nvlmichael "也许是我真的好喜欢你吧"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1613
 translate zh_Hans son_sissy_storyline_89_08f87e7c:
@@ -2728,55 +2728,55 @@ translate zh_Hans son_sissy_storyline_89_08f87e7c:
 translate zh_Hans son_sissy_storyline_89_1b4528f1:
 
     # nvlsson "I didn't know you liked me"
-    nvlsson "人家都不知道你喜欢人家呢"
+    nvlsson "我都不知道你喜欢我呢"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1617
 translate zh_Hans son_sissy_storyline_89_61cf268e:
 
     # nvlmichael "I like you a lot"
-    nvlmichael "人家好喜欢好喜欢你呀"
+    nvlmichael "我好喜欢好喜欢你呀"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1619
 translate zh_Hans son_sissy_storyline_89_31679b8d:
 
     # nvlmichael "The only thing that puts me off is that you're a guy"
-    nvlmichael "唯一让人家有点介意的，就是你是个男孩子"
+    nvlmichael "唯一让我有点介意的，就是你是个男孩子"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1621
 translate zh_Hans son_sissy_storyline_89_4894a271:
 
     # nvlmichael "I mean, that you've got a dick"
-    nvlmichael "人家是说，你有小鸡鸡嘛"
+    nvlmichael "我是说，你有小鸡鸡嘛"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1623
 translate zh_Hans son_sissy_storyline_89_15dd6627:
 
     # nvlmichael "If you were fully a girl, I'd ask you out"
-    nvlmichael "要是你完完全全是个女孩子，人家早就把你追到手了呢"
+    nvlmichael "要是你完完全全是个女孩子，我早就把你追到手了呢"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1625
 translate zh_Hans son_sissy_storyline_89_dd9128f2:
 
     # nvlsson "Everyone says that..."
-    nvlsson "大家都这么说人家……"
+    nvlsson "大家都这么说我……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1627
 translate zh_Hans son_sissy_storyline_89_081155eb:
 
     # nvlsson "I just don't understand why you wanted to have sex with me if my dick puts you off?"
-    nvlsson "人家就是不明白，既然人家的小鸡鸡让你介意，那你为什么还想和人家做那种事呢？"
+    nvlsson "我就是不明白，既然我的小鸡鸡让你介意，那你为什么还想和我做那种事呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1629
 translate zh_Hans son_sissy_storyline_89_669652eb:
 
     # nvlmichael "Well, I was drunk last night"
-    nvlmichael "嗯，人家昨晚喝醉了嘛"
+    nvlmichael "嗯，我昨晚喝醉了嘛"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1631
 translate zh_Hans son_sissy_storyline_89_218712a0:
 
     # nvlmichael "And really horny"
-    nvlmichael "而且人家那时候，身子好湿热，好想要呢"
+    nvlmichael "而且我那时候，身子好湿热，好想要呢"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1633
 translate zh_Hans son_sissy_storyline_89_bd24f344:
@@ -2788,7 +2788,7 @@ translate zh_Hans son_sissy_storyline_89_bd24f344:
 translate zh_Hans son_sissy_storyline_89_cb488080:
 
     # nvlmichael "I couldn't hold back"
-    nvlmichael "人家根本就忍不住嘛"
+    nvlmichael "我根本就忍不住嘛"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1637
 translate zh_Hans son_sissy_storyline_89_bf561715:
@@ -2800,7 +2800,7 @@ translate zh_Hans son_sissy_storyline_89_bf561715:
 translate zh_Hans son_sissy_storyline_89_738bd663:
 
     # nvlsson "So, only when you're drunk my dick doesn't stop you?"
-    nvlsson "所以，只有在你喝醉的时候，人家的小鸡鸡才不会让你却步吗？"
+    nvlsson "所以，只有在你喝醉的时候，我的小鸡鸡才不会让你却步吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1641
 translate zh_Hans son_sissy_storyline_89_850ec032:
@@ -2812,7 +2812,7 @@ translate zh_Hans son_sissy_storyline_89_850ec032:
 translate zh_Hans son_sissy_storyline_89_cdcda677:
 
     # nvlsson "It's fine, I understand"
-    nvlsson "没关系啦，人家明白的"
+    nvlsson "没关系啦，我明白的"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1645
 translate zh_Hans son_sissy_storyline_89_37670094:
@@ -2824,7 +2824,7 @@ translate zh_Hans son_sissy_storyline_89_37670094:
 translate zh_Hans son_sissy_storyline_89_114a8a12:
 
     # nvlsson "It's just that I also want a normal life"
-    nvlsson "只是人家也想要一份正常的生活嘛"
+    nvlsson "只是我也想要一份正常的生活嘛"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1649
 translate zh_Hans son_sissy_storyline_89_12972d8d:
@@ -2836,25 +2836,25 @@ translate zh_Hans son_sissy_storyline_89_12972d8d:
 translate zh_Hans son_sissy_storyline_89_a66f7ec1:
 
     # nvlsson "I don't want to just be a convenient girl for sex"
-    nvlsson "人家不想只是一个方便你发泄欲望的小女孩"
+    nvlsson "我不想只是一个方便你发泄欲望的小女孩"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1653
 translate zh_Hans son_sissy_storyline_89_4d45f716:
 
     # nvlsson "For you to come over when you're drunk to fuck me"
-    nvlsson "不想只是在你喝醉的时候，才来找人家做那种事"
+    nvlsson "不想只是在你喝醉的时候，才来找我做那种事"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1655
 translate zh_Hans son_sissy_storyline_89_3a88f87c:
 
     # nvlsson "I want a proper relationship, kisses, hugs"
-    nvlsson "人家想要一份认真的感情，有亲亲抱抱的"
+    nvlsson "我想要一份认真的感情，有亲亲抱抱的"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1657
 translate zh_Hans son_sissy_storyline_89_ff092220:
 
     # nvlmichael "I need to think about it"
-    nvlmichael "人家需要好好想想了"
+    nvlmichael "我需要好好想想了"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1659
 translate zh_Hans son_sissy_storyline_89_75a871b0:
@@ -2866,7 +2866,7 @@ translate zh_Hans son_sissy_storyline_89_75a871b0:
 translate zh_Hans son_sissy_storyline_89_09b07b5e:
 
     # nvlsson "I know you don't want that"
-    nvlsson "人家知道你不想要那样的"
+    nvlsson "我知道你不想要那样的"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1663
 translate zh_Hans son_sissy_storyline_89_d3229196:
@@ -2878,7 +2878,7 @@ translate zh_Hans son_sissy_storyline_89_d3229196:
 translate zh_Hans son_sissy_storyline_89_31cf23fa:
 
     # nvlsson "I enjoyed it"
-    nvlsson "人家很喜欢，很享受呢"
+    nvlsson "我很喜欢，很享受呢"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1667
 translate zh_Hans son_sissy_storyline_89_b6c26514:
@@ -2890,13 +2890,13 @@ translate zh_Hans son_sissy_storyline_89_b6c26514:
 translate zh_Hans son_sissy_storyline_89_5906fc04:
 
     # nvlmichael "I'll message you later"
-    nvlmichael "人家晚点再给你发消息吧"
+    nvlmichael "我晚点再给你发消息吧"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1671
 translate zh_Hans son_sissy_storyline_89_0a55aeef:
 
     # nvlmichael "After I've thought about everything"
-    nvlmichael "等人家把所有的事情都想清楚了之后"
+    nvlmichael "等我把所有的事情都想清楚了之后"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1673
 translate zh_Hans son_sissy_storyline_89_87b28565:
@@ -2920,7 +2920,7 @@ translate zh_Hans son_sissy_storyline_90_76b2fe88:
 translate zh_Hans son_sissy_storyline_90_4a9d81b4:
 
     # nvljenna "{a=show:show_chat_media}{image=mikky_pic_31}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=mikky_pic_31}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1712
 translate zh_Hans son_sissy_storyline_90_b0ffb100:
@@ -2938,7 +2938,7 @@ translate zh_Hans son_sissy_storyline_90_956ede79:
 translate zh_Hans son_sissy_storyline_90_1ec43fd9:
 
     # nvljenna "{a=show:show_chat_media}{image=mikky_pic_32}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=mikky_pic_32}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1722
 translate zh_Hans son_sissy_storyline_90_0fd536da:
@@ -2956,7 +2956,7 @@ translate zh_Hans son_sissy_storyline_90_6dbb4efb:
 translate zh_Hans son_sissy_storyline_90_dc645139:
 
     # nvljohn "Yes"
-    nvljohn "是的，人家明白了。"
+    nvljohn "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1728
 translate zh_Hans son_sissy_storyline_90_e3d297cc:
@@ -2992,7 +2992,7 @@ translate zh_Hans son_sissy_storyline_90_d8ababa6:
 translate zh_Hans son_sissy_storyline_90_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1740
 translate zh_Hans son_sissy_storyline_90_2d39eb42:
@@ -3232,7 +3232,7 @@ translate zh_Hans son_sissy_storyline_90_46537d09:
 translate zh_Hans son_sissy_storyline_90_fbc8fe60_1:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1820
 translate zh_Hans son_sissy_storyline_90_a9e1613b:
@@ -3244,7 +3244,7 @@ translate zh_Hans son_sissy_storyline_90_a9e1613b:
 translate zh_Hans son_sissy_storyline_90_6af80e33:
 
     # nvljenna "I'll message you later"
-    nvljenna "人家晚点再给你发消息吧"
+    nvljenna "我晚点再给你发消息吧"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1824
 translate zh_Hans son_sissy_storyline_90_f0def87e:
@@ -3286,19 +3286,19 @@ translate zh_Hans son_sissy_storyline_90_after_4403d86f:
 translate zh_Hans son_sissy_storyline_90_after_8281d5a4:
 
     # mc "{i}I mean, Mikky"
-    mc "{i}人家是说，米基啦"
+    mc "{i}我是说，米基啦"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1864
 translate zh_Hans son_sissy_storyline_90_after_719af8ab:
 
     # mc "{i}So, my support is very important to her"
-    mc "{i}所以，人家对她的支持是很重要的呢"
+    mc "{i}所以，我对她的支持是很重要的呢"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1866
 translate zh_Hans son_sissy_storyline_90_after_a635f2a9:
 
     # mc "{i}Perhaps I should message her sometime and invite her over"
-    mc "{i}也许人家应该找个时间给她发消息，邀请她过来玩呢"
+    mc "{i}也许我应该找个时间给她发消息，邀请她过来玩呢"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1868
 translate zh_Hans son_sissy_storyline_90_after_ada7c6b5:
@@ -3342,7 +3342,7 @@ translate zh_Hans son_sissy_storyline_91_5911e8c1:
 translate zh_Hans son_sissy_storyline_91_1acf9ba6:
 
     # nvlsson "I'm good"
-    nvlsson "人家……人家很好"
+    nvlsson "我……我很好"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1901
 translate zh_Hans son_sissy_storyline_91_051e7e5f:
@@ -3372,7 +3372,7 @@ translate zh_Hans son_sissy_storyline_91_9812ebd9:
 translate zh_Hans son_sissy_storyline_91_dc645139:
 
     # nvljohn "Yes"
-    nvljohn "是的，人家明白了。"
+    nvljohn "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1911
 translate zh_Hans son_sissy_storyline_91_97aa78e8:
@@ -3390,13 +3390,13 @@ translate zh_Hans son_sissy_storyline_91_592e8f4e:
 translate zh_Hans son_sissy_storyline_91_0fd530e1:
 
     # nvlsson "Yeah, I haven't been over in a long time"
-    nvlsson "是啊，人家确实好久没过去了"
+    nvlsson "是啊，我确实好久没过去了"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1917
 translate zh_Hans son_sissy_storyline_91_f0fd9948:
 
     # nvlsson "I'm just not sure if I should..."
-    nvlsson "人家只是……不太确定是不是该去……"
+    nvlsson "我只是……不太确定是不是该去……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1919
 translate zh_Hans son_sissy_storyline_91_54f21278:
@@ -3414,19 +3414,19 @@ translate zh_Hans son_sissy_storyline_91_3f62ccc4:
 translate zh_Hans son_sissy_storyline_91_8733ef1a:
 
     # nvlsson "I'm just worried about how [wife_name_is] will react"
-    nvlsson "人家只是担心[wife_name_is]会怎么看人家……"
+    nvlsson "我只是担心[wife_name_is]会怎么看我……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1925
 translate zh_Hans son_sissy_storyline_91_18ff0305:
 
     # nvlsson "To how I am now"
-    nvlsson "人家现在这个样子……"
+    nvlsson "我现在这个样子……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1927
 translate zh_Hans son_sissy_storyline_91_997a0b69:
 
     # nvlsson "She doesn't know I've become a girl"
-    nvlsson "她还不知道人家已经变成女孩子了呢"
+    nvlsson "她还不知道我已经变成女孩子了呢"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1929
 translate zh_Hans son_sissy_storyline_91_12d81b18:
@@ -3468,7 +3468,7 @@ translate zh_Hans son_sissy_storyline_91_87d50268:
 translate zh_Hans son_sissy_storyline_91_2ad6a653:
 
     # nvlsson "Well, if that's the case, I can come over today"
-    nvlsson "嗯，既然这样，人家今天就可以过去呢！"
+    nvlsson "嗯，既然这样，我今天就可以过去呢！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1943
 translate zh_Hans son_sissy_storyline_91_0959920e:
@@ -3480,7 +3480,7 @@ translate zh_Hans son_sissy_storyline_91_0959920e:
 translate zh_Hans son_sissy_storyline_91_adc8257a:
 
     # nvlsson "Whatever's more convenient for you"
-    nvlsson "只要对你方便就好，人家都听你的"
+    nvlsson "只要对你方便就好，我都听你的"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1947
 translate zh_Hans son_sissy_storyline_91_9a4dfcbf:
@@ -3504,19 +3504,19 @@ translate zh_Hans son_sissy_storyline_91_05ef0394:
 translate zh_Hans son_sissy_storyline_91_7633828e:
 
     # nvljohn "😊"
-    nvljohn ""
+    nvljohn "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1955
 translate zh_Hans son_sissy_storyline_91_e65ec268:
 
     # nvlsson "You can visit me too, you know"
-    nvlsson "你也可以来找人家玩呀，你知道的"
+    nvlsson "你也可以来找我玩呀，你知道的"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1957
 translate zh_Hans son_sissy_storyline_91_18f82aaf:
 
     # nvlsson "I'm always happy to see you"
-    nvlsson "人家一直都好开心能见到你呢"
+    nvlsson "我一直都好开心能见到你呢"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1959
 translate zh_Hans son_sissy_storyline_91_4cdc7732:
@@ -3528,19 +3528,19 @@ translate zh_Hans son_sissy_storyline_91_4cdc7732:
 translate zh_Hans son_sissy_storyline_91_75eb5979:
 
     # nvlsson "Oh, by the way"
-    nvlsson "哦，对了，人家还有件事想跟你说"
+    nvlsson "哦，对了，我还有件事想跟你说"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1963
 translate zh_Hans son_sissy_storyline_91_ac46afd8:
 
     # nvlsson "I'm looking for a job right now"
-    nvlsson "人家现在正在找工作呢"
+    nvlsson "我现在正在找工作呢"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1965
 translate zh_Hans son_sissy_storyline_91_db31c608:
 
     # nvlsson "Can you help?"
-    nvlsson "你能帮帮人家吗？"
+    nvlsson "你能帮帮我吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1967
 translate zh_Hans son_sissy_storyline_91_3f17564a:
@@ -3564,7 +3564,7 @@ translate zh_Hans son_sissy_storyline_91_15268537:
 translate zh_Hans son_sissy_storyline_91_02994813:
 
     # nvlsson "Well, I'm planning to balance both work and studies"
-    nvlsson "嗯，人家打算工作和学业都兼顾的"
+    nvlsson "嗯，我打算工作和学业都兼顾的"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1975
 translate zh_Hans son_sissy_storyline_91_53bffa28:
@@ -3600,7 +3600,7 @@ translate zh_Hans son_sissy_storyline_91_a7a9724b:
 translate zh_Hans son_sissy_storyline_91_8b4f5b27:
 
     # nvlsson "Thank you ❤️"
-    nvlsson "谢谢大人 ❤️"
+    nvlsson "谢谢爸爸 ❤️"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:1987
 translate zh_Hans son_sissy_storyline_91_4a26bd94:
@@ -3630,7 +3630,7 @@ translate zh_Hans son_sissy_storyline_91_5ca58195:
 translate zh_Hans son_sissy_storyline_91_7b630913:
 
     # nvlsson "It's so nice to hear that"
-    nvlsson "能听到你这么说，人家心里好暖和呢"
+    nvlsson "能听到你这么说，我心里好暖和呢"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2009
 translate zh_Hans son_sissy_storyline_91_53c71d7c:
@@ -3668,7 +3668,7 @@ translate zh_Hans son_sissy_storyline_92_2a04d7fe:
 translate zh_Hans son_sissy_storyline_92_7909fcb6:
 
     # nvlmichael "I want to talk to you"
-    nvlmichael "人家想跟你说说话"
+    nvlmichael "我想跟你说说话"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2040
 translate zh_Hans son_sissy_storyline_92_317f061b:
@@ -3680,7 +3680,7 @@ translate zh_Hans son_sissy_storyline_92_317f061b:
 translate zh_Hans son_sissy_storyline_92_22898222:
 
     # nvlmichael "I'll explain everything when we meet"
-    nvlmichael "等我们见面了，人家再把所有事情都告诉你"
+    nvlmichael "等我们见面了，我再把所有事情都告诉你"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2044
 translate zh_Hans son_sissy_storyline_92_2162baf5:
@@ -3814,7 +3814,7 @@ translate zh_Hans son_sissy_storyline_93_938b0aba:
 translate zh_Hans son_sissy_storyline_93_81e3dcef:
 
     # nvlsson "I don't really feel like moving 😊"
-    nvlsson "人家现在不太想动弹呢😊"
+    nvlsson "我现在不太想动弹呢😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2119
 translate zh_Hans son_sissy_storyline_93_d2607812:
@@ -3856,7 +3856,7 @@ translate zh_Hans son_sissy_storyline_93_90bac5e6:
 translate zh_Hans son_sissy_storyline_93_933e11a7:
 
     # nvlsson "{a=show:show_chat_media}{image=mikky_pic_33}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=mikky_pic_33}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2137
 translate zh_Hans son_sissy_storyline_93_34344045:
@@ -3880,7 +3880,7 @@ translate zh_Hans son_sissy_storyline_93_6a7a09b1:
 translate zh_Hans son_sissy_storyline_93_4861db60:
 
     # nvlsson "Something wrong?"
-    nvlsson "怎么了？人家哪里不好吗？"
+    nvlsson "怎么了？我哪里不好吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2145
 translate zh_Hans son_sissy_storyline_93_76911221:
@@ -3904,7 +3904,7 @@ translate zh_Hans son_sissy_storyline_93_0cf3fefd:
 translate zh_Hans son_sissy_storyline_93_bb199678:
 
     # nvlsson "I'm waiting for you"
-    nvlsson "人家在等你呢，身子都酥麻了，好想你快点回来。"
+    nvlsson "我在等你呢，身子都酥麻了，好想你快点回来。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2153
 translate zh_Hans son_sissy_storyline_93_1ff9cf46:
@@ -3942,7 +3942,7 @@ translate zh_Hans son_sissy_storyline_94_1b140d9c:
 translate zh_Hans son_sissy_storyline_94_eb1fbc2d:
 
     # nvlsson "Nothing"
-    nvlsson "人家……没什么好说的了。"
+    nvlsson "我……没什么好说的了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2196
 translate zh_Hans son_sissy_storyline_94_48652bb0:
@@ -3978,13 +3978,13 @@ translate zh_Hans son_sissy_storyline_94_79eccf53:
 translate zh_Hans son_sissy_storyline_94_5b363e8a:
 
     # nvlsson "I mean it"
-    nvlsson "人家是认真的。"
+    nvlsson "我是认真的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2208
 translate zh_Hans son_sissy_storyline_94_89256446:
 
     # nvlsson "I'm not coming"
-    nvlsson "人家不来了。"
+    nvlsson "我不来了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2210
 translate zh_Hans son_sissy_storyline_94_7408acd3:
@@ -4008,13 +4008,13 @@ translate zh_Hans son_sissy_storyline_94_6097db01:
 translate zh_Hans son_sissy_storyline_94_2c9513a2:
 
     # nvlsson "Leave me alone"
-    nvlsson "你别管人家！"
+    nvlsson "你别管我！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2218
 translate zh_Hans son_sissy_storyline_94_b33cb7bb:
 
     # nvlsson "I said I'm not coming over"
-    nvlsson "人家说了不来了。"
+    nvlsson "我说了不来了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2220
 translate zh_Hans son_sissy_storyline_94_1fa3747c:
@@ -4026,13 +4026,13 @@ translate zh_Hans son_sissy_storyline_94_1fa3747c:
 translate zh_Hans son_sissy_storyline_94_79efad69:
 
     # nvlsson "I have a boyfriend now"
-    nvlsson "人家现在有男朋友了。"
+    nvlsson "我现在有男朋友了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2224
 translate zh_Hans son_sissy_storyline_94_0517c9c5:
 
     # nvlsson "And I won't be coming to you anymore"
-    nvlsson "所以人家不会再来你这儿了。"
+    nvlsson "所以我不会再来你这儿了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2226
 translate zh_Hans son_sissy_storyline_94_01e2d293:
@@ -4056,7 +4056,7 @@ translate zh_Hans son_sissy_storyline_94_c8d71802:
 translate zh_Hans son_sissy_storyline_94_c16c9b29:
 
     # nvlsson "You don't even know who I'm dating"
-    nvlsson "你根本不知道人家在和谁交往。"
+    nvlsson "你根本不知道我在和谁交往。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2234
 translate zh_Hans son_sissy_storyline_94_f5251f9d:
@@ -4086,7 +4086,7 @@ translate zh_Hans son_sissy_storyline_94_e3da7229:
 translate zh_Hans son_sissy_storyline_94_a00b1761:
 
     # nvltrevor "😊"
-    nvltrevor ""
+    nvltrevor "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2244
 translate zh_Hans son_sissy_storyline_94_9fec535b:
@@ -4142,7 +4142,7 @@ translate zh_Hans son_sissy_storyline_95_8e8b1ce4:
 translate zh_Hans son_sissy_storyline_95_14d8dfeb:
 
     # nvlsson "You won't believe what happened 😊"
-    nvlsson "你猜猜发生了什么，人家说出来你肯定不信呢😊"
+    nvlsson "你猜猜发生了什么，我说出来你肯定不信呢😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2293
 translate zh_Hans son_sissy_storyline_95_ee14cb34:
@@ -4160,7 +4160,7 @@ translate zh_Hans son_sissy_storyline_95_d2e29960:
 translate zh_Hans son_sissy_storyline_95_79efad69:
 
     # nvlsson "I have a boyfriend now"
-    nvlsson "人家现在有男朋友了。"
+    nvlsson "我现在有男朋友了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2299
 translate zh_Hans son_sissy_storyline_95_4c0cacbc:
@@ -4178,13 +4178,13 @@ translate zh_Hans son_sissy_storyline_95_f8c16561:
 translate zh_Hans son_sissy_storyline_95_d385017c:
 
     # nvlsson "I started dating a guy"
-    nvlsson "人家开始和一个男生交往了。"
+    nvlsson "我开始和一个男生交往了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2305
 translate zh_Hans son_sissy_storyline_95_4110477b:
 
     # nvlsson "A friend of mine"
-    nvlsson "人家有个朋友。"
+    nvlsson "我有个朋友。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2307
 translate zh_Hans son_sissy_storyline_95_52ecbe3b:
@@ -4202,25 +4202,25 @@ translate zh_Hans son_sissy_storyline_95_eaee068f:
 translate zh_Hans son_sissy_storyline_95_8b4f5b27:
 
     # nvlsson "Thank you ❤️"
-    nvlsson "谢谢大人 ❤️"
+    nvlsson "谢谢爸爸 ❤️"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2313
 translate zh_Hans son_sissy_storyline_95_438f9cfb:
 
     # nvlsson "We're living together at my place now"
-    nvlsson "人家现在和XTAG0X住在一起了呢。"
+    nvlsson "我现在和XTAG0X住在一起了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2315
 translate zh_Hans son_sissy_storyline_95_ab2ed099:
 
     # nvlsson "It's so amazing"
-    nvlsson "人家觉得好幸福哦！"
+    nvlsson "我觉得好幸福哦！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2317
 translate zh_Hans son_sissy_storyline_95_69a05005:
 
     # nvlsson "We have sex every evening"
-    nvlsson "人家每天晚上都会和XTAG0X做爱爱呢。"
+    nvlsson "我每天晚上都会和XTAG0X做爱爱呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2319
 translate zh_Hans son_sissy_storyline_95_64919975:
@@ -4274,7 +4274,7 @@ translate zh_Hans son_sissy_storyline_95_719e657a:
 translate zh_Hans son_sissy_storyline_95_c9baf6e1:
 
     # nvlsson "I think if I have a boyfriend, I don't need to do that with others"
-    nvlsson "人家觉得，既然有了男朋友，就不需要再和别人那样了呢。"
+    nvlsson "我觉得，既然有了男朋友，就不需要再和别人那样了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2337
 translate zh_Hans son_sissy_storyline_95_68046a9d:
@@ -4310,7 +4310,7 @@ translate zh_Hans son_sissy_storyline_95_2a04d7fe:
 translate zh_Hans son_sissy_storyline_95_b0b83151:
 
     # nvlsson "If I like him, why not?"
-    nvlsson "人家要是喜欢他，为什么不可以呢？"
+    nvlsson "我要是喜欢他，为什么不可以呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2349
 translate zh_Hans son_sissy_storyline_95_7ae0d766:
@@ -4334,25 +4334,25 @@ translate zh_Hans son_sissy_storyline_95_91c13a13:
 translate zh_Hans son_sissy_storyline_95_6a8064a8:
 
     # nvlsson "I just don't understand why"
-    nvlsson "人家就是不明白为什么嘛。"
+    nvlsson "我就是不明白为什么嘛。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2357
 translate zh_Hans son_sissy_storyline_95_283bca18:
 
     # nvlsson "Why do I need to do this?"
-    nvlsson "人家为什么要这么做呢？"
+    nvlsson "我为什么要这么做呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2359
 translate zh_Hans son_sissy_storyline_95_babd0e78:
 
     # nvlsson "I don't want to cheat on Michael"
-    nvlsson "人家不想背叛XTAG0X迈克尔XTAG0X嘛。"
+    nvlsson "我不想背叛XTAG0X迈克尔XTAG0X嘛。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2361
 translate zh_Hans son_sissy_storyline_95_fbe90bcf:
 
     # nvljenna "Okay, I understand"
-    nvljenna "好吧，人家明白了。"
+    nvljenna "好吧，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2363
 translate zh_Hans son_sissy_storyline_95_98f71775:
@@ -4376,7 +4376,7 @@ translate zh_Hans son_sissy_storyline_95_2a04d7fe_1:
 translate zh_Hans son_sissy_storyline_95_294f5bc8:
 
     # nvlsson "Just because I don't want to cheat on my boyfriend?"
-    nvlsson "就因为人家不想背叛男朋友吗？"
+    nvlsson "就因为我不想背叛男朋友吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2371
 translate zh_Hans son_sissy_storyline_95_07becdf1:
@@ -4388,7 +4388,7 @@ translate zh_Hans son_sissy_storyline_95_07becdf1:
 translate zh_Hans son_sissy_storyline_95_f29da8ef:
 
     # nvlsson "Answer me"
-    nvlsson "你回答人家嘛！"
+    nvlsson "你回答我嘛！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2375
 translate zh_Hans son_sissy_storyline_95_89396602:
@@ -4400,37 +4400,37 @@ translate zh_Hans son_sissy_storyline_95_89396602:
 translate zh_Hans son_sissy_storyline_95_d10a47e0:
 
     # nvlsson "Why won't you help me?"
-    nvlsson "你为什么不帮人家了呢？"
+    nvlsson "你为什么不帮我了呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2379
 translate zh_Hans son_sissy_storyline_95_56414ffd:
 
     # nvlsson "I've been doing everything you tell me to"
-    nvlsson "人家一直都听你的话，什么都照做了呀。"
+    nvlsson "我一直都听你的话，什么都照做了呀。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2381
 translate zh_Hans son_sissy_storyline_95_e71396aa:
 
     # nvlsson "I just don't understand why I need to sleep with others when I have a boyfriend"
-    nvlsson "人家就是不明白，明明有了男朋友，为什么还要和别人XTAG0X做XTAG0X那种事XTAG0X呢XTAG0X。"
+    nvlsson "我就是不明白，明明有了男朋友，为什么还要和别人XTAG0X做XTAG0X那种事XTAG0X呢XTAG0X。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2383
 translate zh_Hans son_sissy_storyline_95_5024555b:
 
     # nvlsson "You were the one who told me to start dating someone"
-    nvlsson "明明是你让XTAG0X人家XTAG0X去XTAG0X谈恋爱的XTAG0X呀XTAG0X。"
+    nvlsson "明明是你让XTAG0X我XTAG0X去XTAG0X谈恋爱的XTAG0X呀XTAG0X。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2385
 translate zh_Hans son_sissy_storyline_95_89e42573:
 
     # nvlsson "You said it would help me"
-    nvlsson "你说那样会帮到人家的。"
+    nvlsson "你说那样会帮到我的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2387
 translate zh_Hans son_sissy_storyline_95_f43fd9df:
 
     # nvlsson "And now you're telling me to ruin my relationship"
-    nvlsson "可现在你却让XTAG0X人家XTAG0X毁掉XTAG0X自己的XTAG0X感情XTAG0X。"
+    nvlsson "可现在你却让XTAG0X我XTAG0X毁掉XTAG0X自己的XTAG0X感情XTAG0X。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2389
 translate zh_Hans son_sissy_storyline_95_808b5673:
@@ -4442,7 +4442,7 @@ translate zh_Hans son_sissy_storyline_95_808b5673:
 translate zh_Hans son_sissy_storyline_95_f29da8ef_1:
 
     # nvlsson "Answer me"
-    nvlsson "你回答人家嘛！"
+    nvlsson "你回答我嘛！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2393
 translate zh_Hans son_sissy_storyline_95_9781aced:
@@ -4498,7 +4498,7 @@ translate zh_Hans son_sissy_storyline_96_8d80b71b:
 translate zh_Hans son_sissy_storyline_96_564d9626:
 
     # nvljohn "I'm good"
-    nvljohn "人家……人家很好"
+    nvljohn "我……我很好"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2442
 translate zh_Hans son_sissy_storyline_96_963bda57:
@@ -4510,7 +4510,7 @@ translate zh_Hans son_sissy_storyline_96_963bda57:
 translate zh_Hans son_sissy_storyline_96_1e7d77ca:
 
     # nvlsson "I'm alright"
-    nvlsson "人家没事啦。"
+    nvlsson "我没事啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2446
 translate zh_Hans son_sissy_storyline_96_8f8461db:
@@ -4522,7 +4522,7 @@ translate zh_Hans son_sissy_storyline_96_8f8461db:
 translate zh_Hans son_sissy_storyline_96_0bc71ae7:
 
     # nvlsson "Had a bit of an argument with someone"
-    nvlsson "就是和XTAG0X人家XTAG0X的一个XTAG0X朋友XTAG0X吵了几句XTAG0X啦XTAG0X。"
+    nvlsson "就是和XTAG0X我XTAG0X的一个XTAG0X朋友XTAG0X吵了几句XTAG0X啦XTAG0X。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2450
 translate zh_Hans son_sissy_storyline_96_afd5b340:
@@ -4558,7 +4558,7 @@ translate zh_Hans son_sissy_storyline_96_d593227e:
 translate zh_Hans son_sissy_storyline_96_f02325ff:
 
     # nvlsson "I'm worried about something else now"
-    nvlsson "人家现在XTAG0X在XTAG0X担心XTAG0X别的事情XTAG0X呢XTAG0X。"
+    nvlsson "我现在XTAG0X在XTAG0X担心XTAG0X别的事情XTAG0X呢XTAG0X。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2462
 translate zh_Hans son_sissy_storyline_96_5a543029:
@@ -4570,13 +4570,13 @@ translate zh_Hans son_sissy_storyline_96_5a543029:
 translate zh_Hans son_sissy_storyline_96_d08a5af3:
 
     # nvlsson "I'm going to a job interview"
-    nvlsson "人家要去XTAG0X面试XTAG0X啦XTAG0X。"
+    nvlsson "我要去XTAG0X面试XTAG0X啦XTAG0X。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2468
 translate zh_Hans son_sissy_storyline_96_49760d47:
 
     # nvlsson "{a=show:show_chat_media}{image=mikky_pic_34}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=mikky_pic_34}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2472
 translate zh_Hans son_sissy_storyline_96_b9cb94a5:
@@ -4588,13 +4588,13 @@ translate zh_Hans son_sissy_storyline_96_b9cb94a5:
 translate zh_Hans son_sissy_storyline_96_004b64d6:
 
     # nvlsson "It's okay, don't worry 😊"
-    nvlsson "没事的啦，大人别担心😊"
+    nvlsson "没事的啦，爸爸别担心😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2476
 translate zh_Hans son_sissy_storyline_96_5d3606af:
 
     # nvlsson "I think I'll get the job today"
-    nvlsson "人家觉得今天一定能拿到这份工作XTAG0X的XTAG0X！"
+    nvlsson "我觉得今天一定能拿到这份工作XTAG0X的XTAG0X！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2478
 translate zh_Hans son_sissy_storyline_96_e3740816:
@@ -4606,7 +4606,7 @@ translate zh_Hans son_sissy_storyline_96_e3740816:
 translate zh_Hans son_sissy_storyline_96_541788f3:
 
     # nvlsson "At a café as a waitress"
-    nvlsson "人家要去咖啡馆做服务生呢。"
+    nvlsson "我要去咖啡馆做服务生呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2482
 translate zh_Hans son_sissy_storyline_96_019070b1:
@@ -4624,7 +4624,7 @@ translate zh_Hans son_sissy_storyline_96_cc5c5f84:
 translate zh_Hans son_sissy_storyline_96_a28776c9:
 
     # nvlsson "And it'll work alongside my studies"
-    nvlsson "而且，这样也能兼顾人家的学业嘛。"
+    nvlsson "而且，这样也能兼顾我的学业嘛。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2488
 translate zh_Hans son_sissy_storyline_96_28920e41:
@@ -4636,7 +4636,7 @@ translate zh_Hans son_sissy_storyline_96_28920e41:
 translate zh_Hans son_sissy_storyline_96_78ca37c2:
 
     # nvlsson "So, wish me luck 😊"
-    nvlsson "那么，请大人祝人家好运吧😊"
+    nvlsson "那么，请爸爸祝我好运吧😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2492
 translate zh_Hans son_sissy_storyline_96_875ace2e:
@@ -4654,19 +4654,19 @@ translate zh_Hans son_sissy_storyline_96_928c0d94:
 translate zh_Hans son_sissy_storyline_96_8b4f5b27:
 
     # nvlsson "Thank you ❤️"
-    nvlsson "谢谢大人 ❤️"
+    nvlsson "谢谢爸爸 ❤️"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2498
 translate zh_Hans son_sissy_storyline_96_3cd6bf58:
 
     # nvlsson "I'll message you afterwards to let you know how it went"
-    nvlsson "人家之后会发消息告诉你结果的。"
+    nvlsson "我之后会发消息告诉你结果的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2500
 translate zh_Hans son_sissy_storyline_96_6da25749:
 
     # nvlsson "And whether I got the job"
-    nvlsson "还有，人家有没有被录用啦。"
+    nvlsson "还有，我有没有被录用啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2502
 translate zh_Hans son_sissy_storyline_96_c8a1022b:
@@ -4690,13 +4690,13 @@ translate zh_Hans son_sissy_storyline_96_0cf3fefd:
 translate zh_Hans son_sissy_storyline_96_8976723d:
 
     # nvlsson "I hope so"
-    nvlsson "人家也希望是这样呢。"
+    nvlsson "我也希望是这样呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2510
 translate zh_Hans son_sissy_storyline_96_284bdf43:
 
     # nvlsson "Alright, I need to go now"
-    nvlsson "好啦，人家现在得走了。"
+    nvlsson "好啦，我现在得走了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2512
 translate zh_Hans son_sissy_storyline_96_8e794a03:
@@ -4708,7 +4708,7 @@ translate zh_Hans son_sissy_storyline_96_8e794a03:
 translate zh_Hans son_sissy_storyline_96_f20e37ea:
 
     # nvljohn "Alright"
-    nvljohn "遵命，大人，这就给你看。"
+    nvljohn "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2516
 translate zh_Hans son_sissy_storyline_96_a84548f3:
@@ -4734,7 +4734,7 @@ translate zh_Hans son_sissy_storyline_97_0f10bb14:
     # nvl clear
     # nvlsson "I got the job!"
     nvl clear
-    nvlsson "人家拿到这份工作啦！"
+    nvlsson "我拿到这份工作啦！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2555
 translate zh_Hans son_sissy_storyline_97_e8a5fda6:
@@ -4764,13 +4764,13 @@ translate zh_Hans son_sissy_storyline_97_63c72b15:
 translate zh_Hans son_sissy_storyline_97_8f3a285a:
 
     # nvlsson "For a moment, I was worried they wouldn't hire me"
-    nvlsson "人家刚才还担心他们不会录用人家呢。"
+    nvlsson "我刚才还担心他们不会录用我呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2565
 translate zh_Hans son_sissy_storyline_97_a6f82462:
 
     # nvlsson "But I guess my appearance helped me get the job"
-    nvlsson "不过，人家猜，可能是人家的样子帮人家得到了这份工作吧。"
+    nvlsson "不过，我猜，可能是我的样子帮我得到了这份工作吧。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2567
 translate zh_Hans son_sissy_storyline_97_c8d71802:
@@ -4782,7 +4782,7 @@ translate zh_Hans son_sissy_storyline_97_c8d71802:
 translate zh_Hans son_sissy_storyline_97_931487bf:
 
     # nvlsson "Good thing I put on make-up before leaving"
-    nvlsson "幸好人家出门前化了妆呢。"
+    nvlsson "幸好我出门前化了妆呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2571
 translate zh_Hans son_sissy_storyline_97_76b05a6c:
@@ -4794,19 +4794,19 @@ translate zh_Hans son_sissy_storyline_97_76b05a6c:
 translate zh_Hans son_sissy_storyline_97_1c6d284c:
 
     # nvlsson "I'm kidding"
-    nvlsson "人家开玩笑的啦。"
+    nvlsson "我开玩笑的啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2575
 translate zh_Hans son_sissy_storyline_97_a97e1270:
 
     # nvlsson "Well, I mean, I think they hired me because I look good"
-    nvlsson "嗯，人家是说，人家觉得他们录用人家是因为人家长得好看啦。"
+    nvlsson "嗯，我是说，我觉得他们录用我是因为我长得好看啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2577
 translate zh_Hans son_sissy_storyline_97_49bd308e:
 
     # nvlsson "If I didn't look nice, they probably would've turned me down"
-    nvlsson "如果人家不好看的话，他们可能就不会要人家了呢。"
+    nvlsson "如果我不好看的话，他们可能就不会要我了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2579
 translate zh_Hans son_sissy_storyline_97_b493ad43:
@@ -4824,7 +4824,7 @@ translate zh_Hans son_sissy_storyline_97_07034e75:
 translate zh_Hans son_sissy_storyline_97_c5408b04:
 
     # nvlsson "I'll start working on Monday"
-    nvlsson "人家下周一就要开始上班了呢。"
+    nvlsson "我下周一就要开始上班了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2585
 translate zh_Hans son_sissy_storyline_97_18047715:
@@ -4842,13 +4842,13 @@ translate zh_Hans son_sissy_storyline_97_6a4ff3a8:
 translate zh_Hans son_sissy_storyline_97_0ae148ae:
 
     # nvlsson "I'm really happy too"
-    nvlsson "人家也真的好开心呢。"
+    nvlsson "我也真的好开心呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2591
 translate zh_Hans son_sissy_storyline_97_802e839d:
 
     # nvlsson "By the way, I'll visit this weekend, if that's alright"
-    nvlsson "对了，人家这个周末想去拜访你，可以吗？"
+    nvlsson "对了，我这个周末想去拜访你，可以吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2593
 translate zh_Hans son_sissy_storyline_97_1b03916d:
@@ -4860,13 +4860,13 @@ translate zh_Hans son_sissy_storyline_97_1b03916d:
 translate zh_Hans son_sissy_storyline_97_a7ed9a4f:
 
     # nvlsson "Then I'll come by Saturday evening"
-    nvlsson "那人家周六晚上过去好不好？"
+    nvlsson "那我周六晚上过去好不好？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2597
 translate zh_Hans son_sissy_storyline_97_45bcdb0f:
 
     # nvlsson "I want to tell you something important"
-    nvlsson "人家有很重要的事情想告诉你呢。"
+    nvlsson "我有很重要的事情想告诉你呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2599
 translate zh_Hans son_sissy_storyline_97_90ece0cb:
@@ -4892,7 +4892,7 @@ translate zh_Hans son_sissy_storyline_98_9031ff38:
 translate zh_Hans son_sissy_storyline_98_1913086e:
 
     # nvlsson "No, I haven't"
-    nvlsson "没有呢，人家没有走。"
+    nvlsson "没有呢，我没有走。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2640
 translate zh_Hans son_sissy_storyline_98_2a04d7fe:
@@ -4910,7 +4910,7 @@ translate zh_Hans son_sissy_storyline_98_c42a610c:
 translate zh_Hans son_sissy_storyline_98_81219f2f:
 
     # nvlmichael "It's just that I feel like all my friends somehow know we're together"
-    nvlmichael "只是人家觉得，人家的朋友们好像都知道我们在一起了呢。"
+    nvlmichael "只是我觉得，我的朋友们好像都知道我们在一起了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2646
 translate zh_Hans son_sissy_storyline_98_07c7c9ef:
@@ -4934,7 +4934,7 @@ translate zh_Hans son_sissy_storyline_98_57dd4751:
 translate zh_Hans son_sissy_storyline_98_e22eff3c:
 
     # nvlmichael "It's fine. I just wanted to ask"
-    nvlmichael "没关系啦。人家只是想问问嘛。"
+    nvlmichael "没关系啦。我只是想问问嘛。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2654
 translate zh_Hans son_sissy_storyline_98_0ebb0856:
@@ -4952,7 +4952,7 @@ translate zh_Hans son_sissy_storyline_98_f8db8dfb:
 translate zh_Hans son_sissy_storyline_98_aea5a223:
 
     # nvlsson "I'm free tonight"
-    nvlsson "人家今晚有空呢。"
+    nvlsson "我今晚有空呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2660
 translate zh_Hans son_sissy_storyline_98_127b50f1:
@@ -4976,7 +4976,7 @@ translate zh_Hans son_sissy_storyline_98_849b3b1c:
 translate zh_Hans son_sissy_storyline_98_6ffb479f:
 
     # nvlsson "I'm all for it"
-    nvlsson "人家完全赞成！"
+    nvlsson "我完全赞成！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2668
 translate zh_Hans son_sissy_storyline_98_3e2b62d4:
@@ -5000,25 +5000,25 @@ translate zh_Hans son_sissy_storyline_98_28184895:
 translate zh_Hans son_sissy_storyline_98_535b9061:
 
     # nvlsson "Alright"
-    nvlsson "遵命，大人，这就给你看。"
+    nvlsson "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2676
 translate zh_Hans son_sissy_storyline_98_22754ed3:
 
     # nvlsson "I'll be waiting for you 😊"
-    nvlsson "人家会一直等着你的呢😊"
+    nvlsson "我会一直等着你的呢😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2678
 translate zh_Hans son_sissy_storyline_98_52004c45:
 
     # nvlmichael "Send me a photo"
-    nvlmichael "给人家发张照片嘛"
+    nvlmichael "给我发张照片嘛"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2680
 translate zh_Hans son_sissy_storyline_98_91e50f1c:
 
     # nvlmichael "Something hot"
-    nvlmichael "要那种……让人家身子发热的哦"
+    nvlmichael "要那种……让我身子发热的哦"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2682
 translate zh_Hans son_sissy_storyline_98_54a39cf1:
@@ -5054,7 +5054,7 @@ translate zh_Hans son_sissy_storyline_98_8b6e4fb5:
 translate zh_Hans son_sissy_storyline_98_8e9f39de:
 
     # nvlmichael "If needed, I'll pop into the restroom and sort myself out"
-    nvlmichael "如果需要的话，人家会去洗手间好好解决一下的"
+    nvlmichael "如果需要的话，我会去洗手间好好解决一下的"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2694
 translate zh_Hans son_sissy_storyline_98_0cf3fefd:
@@ -5072,7 +5072,7 @@ translate zh_Hans son_sissy_storyline_98_092eef77:
 translate zh_Hans son_sissy_storyline_98_cfbd097b:
 
     # nvlsson "{a=show:show_chat_media}{image=mikky_pic_35}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=mikky_pic_35}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2704
 translate zh_Hans son_sissy_storyline_98_76ffb9ea:
@@ -5102,7 +5102,7 @@ translate zh_Hans son_sissy_storyline_98_2ae085a0:
 translate zh_Hans son_sissy_storyline_98_cfbd7eb4:
 
     # nvlmichael "{a=show:show_chat_media}{image=mikky_pic_36}"
-    nvlmichael ""
+    nvlmichael "{a=show:show_chat_media}{image=mikky_pic_36}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2718
 translate zh_Hans son_sissy_storyline_98_b94d9490:
@@ -5278,7 +5278,7 @@ translate zh_Hans son_sissy_storyline_99_f9f8f4c2:
 translate zh_Hans son_sissy_storyline_99_535b9061:
 
     # nvlsson "Alright"
-    nvlsson "遵命，大人，这就给你看。"
+    nvlsson "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2821
 translate zh_Hans son_sissy_storyline_99_53c71d7c:
@@ -5296,7 +5296,7 @@ translate zh_Hans son_sissy_storyline_100_76b2fe88:
 translate zh_Hans son_sissy_storyline_100_a986a49f:
 
     # nvltrevor "{a=show:show_chat_media}{image=carter_pic_1}"
-    nvltrevor ""
+    nvltrevor "{a=show:show_chat_media}{image=carter_pic_1}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2848
 translate zh_Hans son_sissy_storyline_100_057fc14a:
@@ -5320,7 +5320,7 @@ translate zh_Hans son_sissy_storyline_100_df1b4e03:
 translate zh_Hans son_sissy_storyline_100_91c09c4c:
 
     # nvlsson "Why would I know her?"
-    nvlsson "人家为什么要认识她？"
+    nvlsson "我为什么要认识她？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2856
 translate zh_Hans son_sissy_storyline_100_cf4434ea:
@@ -5386,13 +5386,13 @@ translate zh_Hans son_sissy_storyline_100_8950bfee:
 translate zh_Hans son_sissy_storyline_100_871ba853:
 
     # nvlsson "He doesn't have anyone else"
-    nvlsson "他才没有别人家呢！"
+    nvlsson "他才没有别人呢！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2878
 translate zh_Hans son_sissy_storyline_100_5c08ee07:
 
     # nvlsson "I know that"
-    nvlsson "人家知道的呀！"
+    nvlsson "我知道的呀！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2880
 translate zh_Hans son_sissy_storyline_100_16b4d46c:
@@ -5440,25 +5440,25 @@ translate zh_Hans son_sissy_storyline_100_baf8fc67:
 translate zh_Hans son_sissy_storyline_100_2f922a3f:
 
     # nvlsson "I don't want to hear this"
-    nvlsson "人家不想听这些！"
+    nvlsson "我不想听这些！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2896
 translate zh_Hans son_sissy_storyline_100_3ba33f1a:
 
     # nvlsson "You're lying"
-    nvlsson "你在骗人家！"
+    nvlsson "你在骗我！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2898
 translate zh_Hans son_sissy_storyline_100_79f600df:
 
     # nvlsson "I know it"
-    nvlsson "人家知道的！"
+    nvlsson "我知道的！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2900
 translate zh_Hans son_sissy_storyline_100_a8aea981:
 
     # nvltrevor "As you wish 😊"
-    nvltrevor "大人吩咐，人家遵命😊"
+    nvltrevor "大人吩咐，我遵命😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2902
 translate zh_Hans son_sissy_storyline_100_daa68cf6:
@@ -5478,7 +5478,7 @@ translate zh_Hans son_sissy_storyline_101_ce5bf80c:
     # nvl clear
     # nvlsson "Do you have anyone else?"
     nvl clear
-    nvlsson "大人，你是不是还有别人家呢？"
+    nvlsson "爸爸，你是不是还有别人呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2939
 translate zh_Hans son_sissy_storyline_101_1de63847:
@@ -5502,13 +5502,13 @@ translate zh_Hans son_sissy_storyline_101_aca7488d:
 translate zh_Hans son_sissy_storyline_101_1f48ec47:
 
     # nvlsson "Don't play dumb"
-    nvlsson "大人别装傻了嘛！"
+    nvlsson "爸爸别装傻了嘛！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2947
 translate zh_Hans son_sissy_storyline_101_02e6afb7:
 
     # nvlsson "Tell me, do you have anyone else?"
-    nvlsson "快告诉人家，你是不是还有别人？"
+    nvlsson "快告诉我，你是不是还有别人？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2949
 translate zh_Hans son_sissy_storyline_101_a367db38:
@@ -5526,7 +5526,7 @@ translate zh_Hans son_sissy_storyline_101_04efd278:
 translate zh_Hans son_sissy_storyline_101_8382edb3:
 
     # nvlsson "{a=show:show_chat_media}{image=carter_pic_1}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=carter_pic_1}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2959
 translate zh_Hans son_sissy_storyline_101_9f4fd02f:
@@ -5562,7 +5562,7 @@ translate zh_Hans son_sissy_storyline_101_7e944091:
 translate zh_Hans son_sissy_storyline_101_8ba91894:
 
     # nvlmichael "Yes"
-    nvlmichael "是的，人家明白了。"
+    nvlmichael "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2971
 translate zh_Hans son_sissy_storyline_101_362f4c6c:
@@ -5580,7 +5580,7 @@ translate zh_Hans son_sissy_storyline_101_d27469fd:
 translate zh_Hans son_sissy_storyline_101_90047568:
 
     # nvlmichael "Explain properly what's going on?"
-    nvlmichael "大人，你好好跟人家解释一下到底怎么回事嘛！"
+    nvlmichael "大人，你好好跟我解释一下到底怎么回事嘛！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2977
 translate zh_Hans son_sissy_storyline_101_353f738d:
@@ -5592,7 +5592,7 @@ translate zh_Hans son_sissy_storyline_101_353f738d:
 translate zh_Hans son_sissy_storyline_101_ec091b84:
 
     # nvlsson "I'm just in a bad mood"
-    nvlsson "人家只是心情不好而已。"
+    nvlsson "我只是心情不好而已。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2981
 translate zh_Hans son_sissy_storyline_101_30013ebd:
@@ -5610,7 +5610,7 @@ translate zh_Hans son_sissy_storyline_101_33007271:
 translate zh_Hans son_sissy_storyline_101_e8072b1b:
 
     # nvlsson "No, no one said anything to me"
-    nvlsson "没有啦，没有人跟人家说什么。"
+    nvlsson "没有啦，没有人跟我说什么。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2987
 translate zh_Hans son_sissy_storyline_101_ebc4454e:
@@ -5622,7 +5622,7 @@ translate zh_Hans son_sissy_storyline_101_ebc4454e:
 translate zh_Hans son_sissy_storyline_101_9c1632d0:
 
     # nvlsson "Found it"
-    nvlsson "人家找到的呀。"
+    nvlsson "我找到的呀。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:2991
 translate zh_Hans son_sissy_storyline_101_64754c1d:
@@ -5682,7 +5682,7 @@ translate zh_Hans son_sissy_storyline_101_30013ebd_1:
 translate zh_Hans son_sissy_storyline_101_3e038b28:
 
     # nvlsson "I don't know what came over me"
-    nvlsson "人家也不知道自己怎么了。"
+    nvlsson "我也不知道自己怎么了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3011
 translate zh_Hans son_sissy_storyline_101_f5b270f8:
@@ -5700,13 +5700,13 @@ translate zh_Hans son_sissy_storyline_101_074b7171:
 translate zh_Hans son_sissy_storyline_101_a57bbe70:
 
     # nvlsson "I won't"
-    nvlsson "人家不会的。"
+    nvlsson "我不会的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3017
 translate zh_Hans son_sissy_storyline_101_3927b51d:
 
     # nvlsson "I promise ❤️"
-    nvlsson "人家保证哦❤️"
+    nvlsson "我保证哦❤️"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3031
 translate zh_Hans son_sissy_storyline_101_53c71d7c:
@@ -5744,19 +5744,19 @@ translate zh_Hans son_sissy_storyline_102_b6c1b164:
 translate zh_Hans son_sissy_storyline_102_926bcae4:
 
     # nvlsson "Oh, gosh"
-    nvlsson "哎呀，人家真是的"
+    nvlsson "哎呀，我真是的"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3062
 translate zh_Hans son_sissy_storyline_102_c6522840:
 
     # nvlsson "I completely forgot about that"
-    nvlsson "人家竟然把这事儿忘得一干二净了，真是该打"
+    nvlsson "我竟然把这事儿忘得一干二净了，真是该打"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3064
 translate zh_Hans son_sissy_storyline_102_4bbcd80d:
 
     # nvlsson "I'll bring them to you on the next working day"
-    nvlsson "人家下个工作日就乖乖给你送来"
+    nvlsson "我下个工作日就乖乖给你送来"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3066
 translate zh_Hans son_sissy_storyline_102_d204ec7b:
@@ -5786,13 +5786,13 @@ translate zh_Hans son_sissy_storyline_102_5062119f:
 translate zh_Hans son_sissy_storyline_102_98e344b6:
 
     # nvlsson "I won't forget"
-    nvlsson "人家不会再忘的，保证乖乖记住"
+    nvlsson "我不会再忘的，保证乖乖记住"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3076
 translate zh_Hans son_sissy_storyline_102_50612c0f:
 
     # nvljim "I'll be waiting"
-    nvljim "人家会乖乖等着你的。"
+    nvljim "我会乖乖等着你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3088
 translate zh_Hans son_sissy_storyline_102_53c71d7c:
@@ -5824,7 +5824,7 @@ translate zh_Hans son_sissy_storyline_103_8d80b71b:
 translate zh_Hans son_sissy_storyline_103_564d9626:
 
     # nvljohn "I'm good"
-    nvljohn "人家……人家很好"
+    nvljohn "我……我很好"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3117
 translate zh_Hans son_sissy_storyline_103_963bda57:
@@ -5842,7 +5842,7 @@ translate zh_Hans son_sissy_storyline_103_cedfb196:
 translate zh_Hans son_sissy_storyline_103_61414a6e:
 
     # nvlsson "I need your help"
-    nvlsson "大人，人家需要你的帮助"
+    nvlsson "爸爸，我需要你的帮助"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3123
 translate zh_Hans son_sissy_storyline_103_b947cbe3:
@@ -5854,7 +5854,7 @@ translate zh_Hans son_sissy_storyline_103_b947cbe3:
 translate zh_Hans son_sissy_storyline_103_14bd20c4:
 
     # nvlsson "I need documents"
-    nvlsson "人家需要文件"
+    nvlsson "我需要文件"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3127
 translate zh_Hans son_sissy_storyline_103_896ba4bb:
@@ -5866,13 +5866,13 @@ translate zh_Hans son_sissy_storyline_103_896ba4bb:
 translate zh_Hans son_sissy_storyline_103_cc954e47:
 
     # nvlsson "Ones that say I'm a woman"
-    nvlsson "是那种能证明人家是女孩子的文件"
+    nvlsson "是那种能证明我是女孩子的文件"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3131
 translate zh_Hans son_sissy_storyline_103_f24d5c37:
 
     # nvlsson "Can you manage that?"
-    nvlsson "大人能帮人家办到吗？"
+    nvlsson "爸爸能帮我办到吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3133
 translate zh_Hans son_sissy_storyline_103_931cbf08:
@@ -5890,49 +5890,49 @@ translate zh_Hans son_sissy_storyline_103_07034e75:
 translate zh_Hans son_sissy_storyline_103_a4d72912:
 
     # nvlsson "I need them for work"
-    nvlsson "人家是为了工作才需要的"
+    nvlsson "我是为了工作才需要的"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3139
 translate zh_Hans son_sissy_storyline_103_1491d235:
 
     # nvlsson "I told my boss I'm a woman"
-    nvlsson "人家告诉老板，人家是女孩子"
+    nvlsson "我告诉老板，我是女孩子"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3141
 translate zh_Hans son_sissy_storyline_103_9c764b5b:
 
     # nvlsson "So he'd hire me"
-    nvlsson "这样他才会雇佣人家嘛"
+    nvlsson "这样他才会雇佣我嘛"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3143
 translate zh_Hans son_sissy_storyline_103_47926f2f:
 
     # nvlsson "But now he needs my documents to officially register me"
-    nvlsson "可是现在，他需要人家提供文件才能正式录用人家"
+    nvlsson "可是现在，他需要我提供文件才能正式录用我"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3145
 translate zh_Hans son_sissy_storyline_103_50454993:
 
     # nvlsson "And I don't know what to do"
-    nvlsson "人家都不知道该怎么办了，好慌乱"
+    nvlsson "我都不知道该怎么办了，好慌乱"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3147
 translate zh_Hans son_sissy_storyline_103_dece5a74:
 
     # nvlsson "I need to get them somehow"
-    nvlsson "人家必须想办法弄到这些文件"
+    nvlsson "我必须想办法弄到这些文件"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3149
 translate zh_Hans son_sissy_storyline_103_c74a41a1:
 
     # nvlsson "But I don't know how to do it"
-    nvlsson "可是人家真的不知道该从何下手"
+    nvlsson "可是我真的不知道该从何下手"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3151
 translate zh_Hans son_sissy_storyline_103_db31c608:
 
     # nvlsson "Can you help?"
-    nvlsson "你能帮帮人家吗？"
+    nvlsson "你能帮帮我吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3153
 translate zh_Hans son_sissy_storyline_103_a6c7bbe4:
@@ -5956,13 +5956,13 @@ translate zh_Hans son_sissy_storyline_103_ec3dab36:
 translate zh_Hans son_sissy_storyline_103_def60f89:
 
     # nvlsson "Please do"
-    nvlsson "求求大人了"
+    nvlsson "求求爸爸了"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3161
 translate zh_Hans son_sissy_storyline_103_06c46454:
 
     # nvlsson "I really need this"
-    nvlsson "人家真的好需要这个呀"
+    nvlsson "我真的好需要这个呀"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3163
 translate zh_Hans son_sissy_storyline_103_c437b5c8:
@@ -5980,19 +5980,19 @@ translate zh_Hans son_sissy_storyline_103_f759175e:
 translate zh_Hans son_sissy_storyline_103_79b55c7c:
 
     # nvlsson "He wouldn't have hired me if I'd said I'm a guy"
-    nvlsson "如果人家说人家是男孩子，他才不会雇佣人家呢"
+    nvlsson "如果我说我是男孩子，他才不会雇佣我呢"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3169
 translate zh_Hans son_sissy_storyline_103_3e6a9458:
 
     # nvlsson "Plus, I look like a woman"
-    nvlsson "再说，人家现在这副样子，不就是个女人嘛"
+    nvlsson "再说，我现在这副样子，不就是个女人嘛"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3171
 translate zh_Hans son_sissy_storyline_103_d3dbd2b2:
 
     # nvlsson "So, can you help me?"
-    nvlsson "所以，大人你能帮帮人家吗？"
+    nvlsson "所以，爸爸你能帮帮我吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3173
 translate zh_Hans son_sissy_storyline_103_1dd76e9f:
@@ -6010,19 +6010,19 @@ translate zh_Hans son_sissy_storyline_103_6a4ff3a8:
 translate zh_Hans son_sissy_storyline_103_f6b8a567:
 
     # nvlsson "Let me know as soon as there's any news"
-    nvlsson "一有消息，就请大人立刻告诉人家"
+    nvlsson "一有消息，就请爸爸立刻告诉我"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3179
 translate zh_Hans son_sissy_storyline_103_fbdd727a:
 
     # nvlsson "And please try to do it quickly"
-    nvlsson "而且，请你务必快些帮人家办好"
+    nvlsson "而且，请你务必快些帮我办好"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3181
 translate zh_Hans son_sissy_storyline_103_f20e37ea:
 
     # nvljohn "Alright"
-    nvljohn "遵命，大人，这就给你看。"
+    nvljohn "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3195
 translate zh_Hans son_sissy_storyline_103_53c71d7c:
@@ -6060,19 +6060,19 @@ translate zh_Hans son_sissy_storyline_104_11f65f5b:
 translate zh_Hans son_sissy_storyline_104_d0178062:
 
     # nvlsson "I'm sorry"
-    nvlsson "人家对不起。"
+    nvlsson "我对不起。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3226
 translate zh_Hans son_sissy_storyline_104_251f1246:
 
     # nvlsson "I forgot about them again"
-    nvlsson "哎呀，人家又把它们给忘了，真是笨死了"
+    nvlsson "哎呀，我又把它们给忘了，真是笨死了"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3228
 translate zh_Hans son_sissy_storyline_104_e8a1010d:
 
     # nvlsson "I'll bring them to you tomorrow or the day after"
-    nvlsson "人家明天或者后天就乖乖给你送过去"
+    nvlsson "我明天或者后天就乖乖给你送过去"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3230
 translate zh_Hans son_sissy_storyline_104_d204ec7b:
@@ -6132,13 +6132,13 @@ translate zh_Hans son_sissy_storyline_104_5062119f:
 translate zh_Hans son_sissy_storyline_104_6c7758b8:
 
     # nvlsson "I'll bring the documents tomorrow"
-    nvlsson "人家明天就把文件乖乖送来"
+    nvlsson "我明天就把文件乖乖送来"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3250
 translate zh_Hans son_sissy_storyline_104_e5e5aec8:
 
     # nvlsson "I promise"
-    nvlsson "人家保证"
+    nvlsson "我保证"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3252
 translate zh_Hans son_sissy_storyline_104_8a6d4739:
@@ -6156,13 +6156,13 @@ translate zh_Hans son_sissy_storyline_104_730ff8c4:
 translate zh_Hans son_sissy_storyline_104_b61934b7:
 
     # nvlsson "I'll bring you the documents"
-    nvlsson "人家一定会把文件给你的"
+    nvlsson "我一定会把文件给你的"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3258
 translate zh_Hans son_sissy_storyline_104_50612c0f:
 
     # nvljim "I'll be waiting"
-    nvljim "人家会乖乖等着你的。"
+    nvljim "我会乖乖等着你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3270
 translate zh_Hans son_sissy_storyline_104_53c71d7c:
@@ -6176,13 +6176,13 @@ translate zh_Hans son_sissy_storyline_105_3a04e202:
     # nvl clear
     # nvlsson "Any news about the documents?"
     nvl clear
-    nvlsson "大人，关于文件的事，有任何进展吗？"
+    nvlsson "爸爸，关于文件的事，有任何进展吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3293
 translate zh_Hans son_sissy_storyline_105_3046a6d1:
 
     # nvlsson "Please tell me you managed to get it done"
-    nvlsson "求求大人了，告诉人家你已经办好了好不好？"
+    nvlsson "求求爸爸了，告诉我你已经办好了好不好？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3295
 translate zh_Hans son_sissy_storyline_105_2450fb07:
@@ -6212,25 +6212,25 @@ translate zh_Hans son_sissy_storyline_105_ff9d7b4b:
 translate zh_Hans son_sissy_storyline_105_1342f69d:
 
     # nvlsson "What am I supposed to do now?"
-    nvlsson "人家现在该怎么办呀？"
+    nvlsson "我现在该怎么办呀？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3305
 translate zh_Hans son_sissy_storyline_105_91db6eb0:
 
     # nvlsson "He's demanding my documents"
-    nvlsson "他非要人家的证件呢"
+    nvlsson "他非要我的证件呢"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3307
 translate zh_Hans son_sissy_storyline_105_a51a7495:
 
     # nvlsson "And if I don't bring them, he'll fire me"
-    nvlsson "要是人家不给他，人家就要被他开除了……"
+    nvlsson "要是我不给他，我就要被他开除了……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3309
 translate zh_Hans son_sissy_storyline_105_c6862e21:
 
     # nvlsson "This sucks!"
-    nvlsson "人家心里好不舒服呀！"
+    nvlsson "我心里好不舒服呀！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3311
 translate zh_Hans son_sissy_storyline_105_5be54963:
@@ -6254,25 +6254,25 @@ translate zh_Hans son_sissy_storyline_105_0f2afc07:
 translate zh_Hans son_sissy_storyline_105_1dfc8ed0:
 
     # nvlsson "I'm not sure"
-    nvlsson "人家心里没底呢……"
+    nvlsson "我心里没底呢……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3319
 translate zh_Hans son_sissy_storyline_105_12781018:
 
     # nvlsson "But it seems like I don't have a choice"
-    nvlsson "可是人家好像别无选择呢"
+    nvlsson "可是我好像别无选择呢"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3321
 translate zh_Hans son_sissy_storyline_105_00505a15:
 
     # nvljohn "I'm sorry"
-    nvljohn "人家对不起。"
+    nvljohn "我对不起。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3323
 translate zh_Hans son_sissy_storyline_105_97b17343:
 
     # nvljohn "I don't have any contacts who could do this"
-    nvljohn "人家没有能帮上忙的人呢"
+    nvljohn "我没有能帮上忙的人呢"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3325
 translate zh_Hans son_sissy_storyline_105_51a89533:
@@ -6284,13 +6284,13 @@ translate zh_Hans son_sissy_storyline_105_51a89533:
 translate zh_Hans son_sissy_storyline_105_e214ad52:
 
     # nvlsson "Maybe I just shouldn't have lied in the first place"
-    nvlsson "也许人家当初就不该撒谎的"
+    nvlsson "也许我当初就不该撒谎的"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3329
 translate zh_Hans son_sissy_storyline_105_8029178b:
 
     # nvlsson "Then I wouldn't have to lie now"
-    nvlsson "那样人家现在就不用撒谎了"
+    nvlsson "那样我现在就不用撒谎了"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3331
 translate zh_Hans son_sissy_storyline_105_c0fc933e:
@@ -6314,13 +6314,13 @@ translate zh_Hans son_sissy_storyline_105_b3767d52:
 translate zh_Hans son_sissy_storyline_105_8ffd6b47:
 
     # nvlsson "I'll talk to him myself"
-    nvlsson "人家会自己去跟他说清楚的"
+    nvlsson "我会自己去跟他说清楚的"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3339
 translate zh_Hans son_sissy_storyline_105_4630ab22:
 
     # nvlsson "I hope he'll understand why I did it"
-    nvlsson "人家希望他能理解人家为什么这么做"
+    nvlsson "我希望他能理解我为什么这么做"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3341
 translate zh_Hans son_sissy_storyline_105_876870e7:
@@ -6338,7 +6338,7 @@ translate zh_Hans son_sissy_storyline_105_07034e75:
 translate zh_Hans son_sissy_storyline_105_de0ca512:
 
     # nvlsson "I'll let you know"
-    nvlsson "人家会告诉你的"
+    nvlsson "我会告诉你的"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3347
 translate zh_Hans son_sissy_storyline_105_3107410f:
@@ -6376,13 +6376,13 @@ translate zh_Hans son_sissy_storyline_106_1e2a0fe7:
 translate zh_Hans son_sissy_storyline_106_dcbd2f7b:
 
     # nvlsson "Leave me alone, seriously"
-    nvlsson "别再烦人家了，好不好嘛！"
+    nvlsson "别再烦我了，好不好嘛！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3396
 translate zh_Hans son_sissy_storyline_106_a168108f:
 
     # nvlsson "Stop meddling in my personal life"
-    nvlsson "别再插手人家的事情了！"
+    nvlsson "别再插手我的事情了！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3398
 translate zh_Hans son_sissy_storyline_106_d5e7a5a1:
@@ -6400,13 +6400,13 @@ translate zh_Hans son_sissy_storyline_106_1475fe03:
 translate zh_Hans son_sissy_storyline_106_357202c3:
 
     # nvlsson "Yes"
-    nvlsson "是的，人家明白了。"
+    nvlsson "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3404
 translate zh_Hans son_sissy_storyline_106_c3bb75d1:
 
     # nvlsson "I know Michael is a decent guy"
-    nvlsson "人家知道迈克尔是个好人"
+    nvlsson "我知道迈克尔是个好人"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3406
 translate zh_Hans son_sissy_storyline_106_6dc9cc00:
@@ -6418,7 +6418,7 @@ translate zh_Hans son_sissy_storyline_106_6dc9cc00:
 translate zh_Hans son_sissy_storyline_106_6bdb6c75:
 
     # nvlsson "And I also know you're trying to make me stop trusting him"
-    nvlsson "人家也知道你是在想办法让人家不再相信他"
+    nvlsson "我也知道你是在想办法让我不再相信他"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3410
 translate zh_Hans son_sissy_storyline_106_a89df924:
@@ -6430,13 +6430,13 @@ translate zh_Hans son_sissy_storyline_106_a89df924:
 translate zh_Hans son_sissy_storyline_106_7128ed16:
 
     # nvlsson "Am I right?"
-    nvlsson "人家说得对吗？"
+    nvlsson "我说得对吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3414
 translate zh_Hans son_sissy_storyline_106_a00b1761:
 
     # nvltrevor "😊"
-    nvltrevor ""
+    nvltrevor "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3416
 translate zh_Hans son_sissy_storyline_106_16b4d46c:
@@ -6448,13 +6448,13 @@ translate zh_Hans son_sissy_storyline_106_16b4d46c:
 translate zh_Hans son_sissy_storyline_106_df73bd82:
 
     # nvlsson "That's enough. I'm busy"
-    nvlsson "够了啦。人家很忙的"
+    nvlsson "够了啦。我很忙的"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3420
 translate zh_Hans son_sissy_storyline_106_31e2cf69:
 
     # nvlsson "Don't bother me"
-    nvlsson "别再打扰人家了"
+    nvlsson "别再打扰我了"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3422
 translate zh_Hans son_sissy_storyline_106_cd4f18f3:
@@ -6472,7 +6472,7 @@ translate zh_Hans son_sissy_storyline_106_d155c190:
 translate zh_Hans son_sissy_storyline_106_0862d068:
 
     # nvltrevor "{a=show:show_chat_media}{image=carter_video_1_ns}"
-    nvltrevor ""
+    nvltrevor "{a=show:show_chat_media}{image=carter_video_1_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3432
 translate zh_Hans son_sissy_storyline_106_c3edf727:
@@ -6496,7 +6496,7 @@ translate zh_Hans son_sissy_storyline_106_822cee1e:
 translate zh_Hans son_sissy_storyline_106_2da47c14:
 
     # nvlsson "Send them to me"
-    nvlsson "发给人家！"
+    nvlsson "发给我！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3440
 translate zh_Hans son_sissy_storyline_106_6676b6f5:
@@ -6532,7 +6532,7 @@ translate zh_Hans son_sissy_storyline_106_cb1ac271:
 translate zh_Hans son_sissy_storyline_106_69f63049:
 
     # nvlsson "I need to see them right now"
-    nvlsson "人家现在就要看！"
+    nvlsson "我现在就要看！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3452
 translate zh_Hans son_sissy_storyline_106_c2a0ebfc:
@@ -6574,7 +6574,7 @@ translate zh_Hans son_sissy_storyline_106_dcabff2b:
 translate zh_Hans son_sissy_storyline_106_eef67dab:
 
     # nvlsson "Fine, I'll come"
-    nvlsson "好吧，人家会去的"
+    nvlsson "好吧，我会去的"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3466
 translate zh_Hans son_sissy_storyline_106_06eb739c:
@@ -6586,7 +6586,7 @@ translate zh_Hans son_sissy_storyline_106_06eb739c:
 translate zh_Hans son_sissy_storyline_106_94ed8c00:
 
     # nvltrevor "I'll be waiting"
-    nvltrevor "人家会乖乖等着你的。"
+    nvltrevor "我会乖乖等着你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3470
 translate zh_Hans son_sissy_storyline_106_897c3f53:
@@ -6598,7 +6598,7 @@ translate zh_Hans son_sissy_storyline_106_897c3f53:
 translate zh_Hans son_sissy_storyline_106_330349f9:
 
     # nvltrevor "I wouldn't dream of it, hehe"
-    nvltrevor "人家哪敢呀，嘻嘻。"
+    nvltrevor "我哪敢呀，嘻嘻。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3474
 translate zh_Hans son_sissy_storyline_106_729d5b32:
@@ -6780,7 +6780,7 @@ translate zh_Hans son_sissy_storyline_107_b6c26514:
 translate zh_Hans son_sissy_storyline_107_c7819618:
 
     # nvlmichael "Fine, whatever"
-    nvlmichael "人家才不稀罕呢。"
+    nvlmichael "我才不稀罕呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3565
 translate zh_Hans son_sissy_storyline_107_703d9979:
@@ -6806,7 +6806,7 @@ translate zh_Hans son_sissy_storyline_108_4fec1292:
 translate zh_Hans son_sissy_storyline_108_68c4ab07:
 
     # nvlsson "I don't want to talk right now"
-    nvlsson "人家现在不想说话啦。"
+    nvlsson "我现在不想说话啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3604
 translate zh_Hans son_sissy_storyline_108_851de844:
@@ -6824,7 +6824,7 @@ translate zh_Hans son_sissy_storyline_108_f2be9a9b:
 translate zh_Hans son_sissy_storyline_108_4039976c:
 
     # nvlsson "I'm fine"
-    nvlsson "人家没事啦。"
+    nvlsson "我没事啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3610
 translate zh_Hans son_sissy_storyline_108_81194276:
@@ -6836,13 +6836,13 @@ translate zh_Hans son_sissy_storyline_108_81194276:
 translate zh_Hans son_sissy_storyline_108_885b2b09:
 
     # nvlsson "I said I don't want to talk"
-    nvlsson "人家都说了不想说话了嘛。"
+    nvlsson "我都说了不想说话了嘛。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3614
 translate zh_Hans son_sissy_storyline_108_2c9513a2:
 
     # nvlsson "Leave me alone"
-    nvlsson "你别管人家！"
+    nvlsson "你别管我！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3616
 translate zh_Hans son_sissy_storyline_108_137164b4:
@@ -6866,7 +6866,7 @@ translate zh_Hans son_sissy_storyline_108_383ca984:
 translate zh_Hans son_sissy_storyline_108_745dc77c:
 
     # nvltrevor "{a=show:show_chat_media}{image=mikky_pic_37}"
-    nvltrevor ""
+    nvltrevor "{a=show:show_chat_media}{image=mikky_pic_37}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3628
 translate zh_Hans son_sissy_storyline_108_3bccaad9:
@@ -6878,7 +6878,7 @@ translate zh_Hans son_sissy_storyline_108_3bccaad9:
 translate zh_Hans son_sissy_storyline_108_f4ee02ab:
 
     # nvlsson "What makes you think I enjoyed it?"
-    nvlsson "人家哪有享受呀？"
+    nvlsson "我哪有享受呀？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3632
 translate zh_Hans son_sissy_storyline_108_783d2618:
@@ -6914,7 +6914,7 @@ translate zh_Hans son_sissy_storyline_108_68c14781:
 translate zh_Hans son_sissy_storyline_108_cea28c6e:
 
     # nvltrevor "We'll have a good time 😉"
-    nvltrevor "人家会和大人玩得很开心的😉"
+    nvltrevor "我会和大人玩得很开心的😉"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3644
 translate zh_Hans son_sissy_storyline_108_5282a489:
@@ -6926,13 +6926,13 @@ translate zh_Hans son_sissy_storyline_108_5282a489:
 translate zh_Hans son_sissy_storyline_108_c2ecc1ca:
 
     # nvlsson "I don't want to"
-    nvlsson "人家才不要呢。"
+    nvlsson "我才不要呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3650
 translate zh_Hans son_sissy_storyline_108_2293a1c2:
 
     # nvltrevor "{a=show:show_chat_media}{image=bbc_pic_274}"
-    nvltrevor ""
+    nvltrevor "{a=show:show_chat_media}{image=bbc_pic_274}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3654
 translate zh_Hans son_sissy_storyline_108_73229bd2:
@@ -6962,13 +6962,13 @@ translate zh_Hans son_sissy_storyline_108_05aafcf2:
 translate zh_Hans son_sissy_storyline_108_74eee9e3:
 
     # nvltrevor "Or, if you prefer, I can come to you"
-    nvltrevor "或者，如果你喜欢，人家也可以过去找你呢~"
+    nvltrevor "或者，如果你喜欢，我也可以过去找你呢~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3664
 translate zh_Hans son_sissy_storyline_108_38c50b1f:
 
     # nvlsson "No, I'll come over"
-    nvlsson "不嘛，人家还是自己过去好了，好想快点见到大人呢~"
+    nvlsson "不嘛，我还是自己过去好了，好想快点见到爸爸呢~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3666
 translate zh_Hans son_sissy_storyline_108_bfb5dc7a:
@@ -6994,13 +6994,13 @@ translate zh_Hans son_sissy_storyline_109_8e8b1ce4:
 translate zh_Hans son_sissy_storyline_109_d0178062:
 
     # nvlsson "I'm sorry"
-    nvlsson "人家对不起。"
+    nvlsson "我对不起。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3705
 translate zh_Hans son_sissy_storyline_109_7906e06d:
 
     # nvlsson "Sorry for how I acted last time"
-    nvlsson "大人，人家上次真的知道错了，对不起嘛……"
+    nvlsson "爸爸，我上次真的知道错了，对不起嘛……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3707
 translate zh_Hans son_sissy_storyline_109_ee14cb34:
@@ -7018,25 +7018,25 @@ translate zh_Hans son_sissy_storyline_109_072f846a:
 translate zh_Hans son_sissy_storyline_109_95c11e76:
 
     # nvlsson "I'm sorry I didn't listen to you when you said I shouldn't limit myself to just one guy"
-    nvlsson "人家不该不听你的话，不该只想着一个人的……大人说得对，人家不该限制自己的，不该让你不开心。"
+    nvlsson "我不该不听你的话，不该只想着一个人的……爸爸说得对，我不该限制自己的，不该让你不开心。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3713
 translate zh_Hans son_sissy_storyline_109_26c95ac9:
 
     # nvlsson "I just..."
-    nvlsson "人家只是……"
+    nvlsson "我只是……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3715
 translate zh_Hans son_sissy_storyline_109_40766fba:
 
     # nvlsson "I thought that things might work out between us"
-    nvlsson "人家还傻傻地以为，我们之间会有结果呢……"
+    nvlsson "我还傻傻地以为，我们之间会有结果呢……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3717
 translate zh_Hans son_sissy_storyline_109_d9a37045:
 
     # nvlsson "But now I see how foolish I was"
-    nvlsson "现在才知道，人家以前有多笨，多不听话……"
+    nvlsson "现在才知道，我以前有多笨，多不听话……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3719
 translate zh_Hans son_sissy_storyline_109_03572959:
@@ -7048,7 +7048,7 @@ translate zh_Hans son_sissy_storyline_109_03572959:
 translate zh_Hans son_sissy_storyline_109_357202c3:
 
     # nvlsson "Yes"
-    nvlsson "是的，人家明白了。"
+    nvlsson "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3723
 translate zh_Hans son_sissy_storyline_109_cafa3834:
@@ -7084,7 +7084,7 @@ translate zh_Hans son_sissy_storyline_109_0ecb5916:
 translate zh_Hans son_sissy_storyline_109_a276422f:
 
     # nvlsson "What's the condition?"
-    nvlsson "大人，什么条件人家都答应，你尽管吩咐就是了嘛~"
+    nvlsson "爸爸，什么条件我都答应，你尽管吩咐就是了嘛~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3735
 translate zh_Hans son_sissy_storyline_109_bd14a6ce:
@@ -7114,7 +7114,7 @@ translate zh_Hans son_sissy_storyline_109_5bebd99c:
 translate zh_Hans son_sissy_storyline_109_b9613563:
 
     # nvlsson "I'll do everything you ask"
-    nvlsson "大人说什么，人家就做什么，绝对不会再让你失望了……"
+    nvlsson "爸爸说什么，我就做什么，绝对不会再让你失望了……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3745
 translate zh_Hans son_sissy_storyline_109_bb208b5b:
@@ -7206,7 +7206,7 @@ translate zh_Hans son_sissy_storyline_110_5f948c08:
 translate zh_Hans son_sissy_storyline_110_6c7758b8:
 
     # nvlsson "I'll bring the documents tomorrow"
-    nvlsson "人家明天就把文件乖乖送来"
+    nvlsson "我明天就把文件乖乖送来"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3806
 translate zh_Hans son_sissy_storyline_110_e43dccd1:
@@ -7230,7 +7230,7 @@ translate zh_Hans son_sissy_storyline_110_ddf87921:
 translate zh_Hans son_sissy_storyline_110_2b16c870:
 
     # nvlsson "I understand"
-    nvlsson "人家明白了。"
+    nvlsson "我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3814
 translate zh_Hans son_sissy_storyline_110_34088913:
@@ -7242,7 +7242,7 @@ translate zh_Hans son_sissy_storyline_110_34088913:
 translate zh_Hans son_sissy_storyline_110_50612c0f:
 
     # nvljim "I'll be waiting"
-    nvljim "人家会乖乖等着你的。"
+    nvljim "我会乖乖等着你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3832
 translate zh_Hans son_sissy_storyline_110_53c71d7c:
@@ -7298,7 +7298,7 @@ translate zh_Hans son_sissy_storyline_111_141862e5:
 translate zh_Hans son_sissy_storyline_111_357202c3:
 
     # nvlsson "Yes"
-    nvlsson "是的，人家明白了。"
+    nvlsson "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3869
 translate zh_Hans son_sissy_storyline_111_db63722b:
@@ -7420,7 +7420,7 @@ translate zh_Hans son_sissy_storyline_112_8a2715ff:
 translate zh_Hans son_sissy_storyline_112_a9249fff:
 
     # nvlsson "Thank you for letting me continue working here"
-    nvlsson "谢谢你让人家能继续留在这里工作。"
+    nvlsson "谢谢你让我能继续留在这里工作。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3940
 translate zh_Hans son_sissy_storyline_112_c6018932:
@@ -7444,19 +7444,19 @@ translate zh_Hans son_sissy_storyline_112_5c5c1b66:
 translate zh_Hans son_sissy_storyline_112_e5e5aec8:
 
     # nvlsson "I promise"
-    nvlsson "人家保证"
+    nvlsson "我保证"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3948
 translate zh_Hans son_sissy_storyline_112_886239ac:
 
     # nvlsson "I'll do everything that's needed"
-    nvlsson "人家会把所有事情都办妥的。"
+    nvlsson "我会把所有事情都办妥的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3950
 translate zh_Hans son_sissy_storyline_112_77aa8757:
 
     # nvlsson "Anything you ask of me"
-    nvlsson "只要是你吩咐的，人家都会照办。"
+    nvlsson "只要是你吩咐的，我都会照办。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3952
 translate zh_Hans son_sissy_storyline_112_710028b2:
@@ -7498,13 +7498,13 @@ translate zh_Hans son_sissy_storyline_112_bbd737f5:
 translate zh_Hans son_sissy_storyline_112_45185c37:
 
     # nvlsson "I haven't been late even once"
-    nvlsson "人家一次都没有迟到过呢。"
+    nvlsson "我一次都没有迟到过呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3966
 translate zh_Hans son_sissy_storyline_112_9b9b7067:
 
     # nvljim "I know"
-    nvljim "人家知道的。"
+    nvljim "我知道的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3968
 translate zh_Hans son_sissy_storyline_112_e5a142ed:
@@ -7516,7 +7516,7 @@ translate zh_Hans son_sissy_storyline_112_e5a142ed:
 translate zh_Hans son_sissy_storyline_112_cd36bbd3:
 
     # nvlsson "It will. I promise"
-    nvlsson "人家保证，一定会的。"
+    nvlsson "我保证，一定会的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:3986
 translate zh_Hans son_sissy_storyline_112_53c71d7c:
@@ -7578,7 +7578,7 @@ translate zh_Hans son_sissy_storyline_113_b94d9490:
 translate zh_Hans son_sissy_storyline_113_94ed8c00:
 
     # nvltrevor "I'll be waiting"
-    nvltrevor "人家会乖乖等着你的。"
+    nvltrevor "我会乖乖等着你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4037
 translate zh_Hans son_sissy_storyline_113_53c71d7c:
@@ -7596,7 +7596,7 @@ translate zh_Hans son_sissy_storyline_114_76b2fe88:
 translate zh_Hans son_sissy_storyline_114_b7d928a4:
 
     # nvltrevor "{a=show:show_chat_media}{image=mikky_pic_38}"
-    nvltrevor ""
+    nvltrevor "{a=show:show_chat_media}{image=mikky_pic_38}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4064
 translate zh_Hans son_sissy_storyline_114_ffeb9abc:
@@ -7626,7 +7626,7 @@ translate zh_Hans son_sissy_storyline_114_8a10946f:
 translate zh_Hans son_sissy_storyline_114_de4df1b9:
 
     # nvlsson "And I'm not?"
-    nvlsson "那人家就不棒吗？"
+    nvlsson "那我就不棒吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4074
 translate zh_Hans son_sissy_storyline_114_8ebd6faa:
@@ -7638,7 +7638,7 @@ translate zh_Hans son_sissy_storyline_114_8ebd6faa:
 translate zh_Hans son_sissy_storyline_114_2dc6bdc7:
 
     # nvlsson "😊"
-    nvlsson ""
+    nvlsson "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4078
 translate zh_Hans son_sissy_storyline_114_c4fd5bf2:
@@ -7692,7 +7692,7 @@ translate zh_Hans son_sissy_storyline_114_02a89168:
 translate zh_Hans son_sissy_storyline_114_f381b962:
 
     # nvlsson "I'm not a guy"
-    nvlsson "人家才不是男人呢。"
+    nvlsson "我才不是男人呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4096
 translate zh_Hans son_sissy_storyline_114_0be2520f:
@@ -7710,19 +7710,19 @@ translate zh_Hans son_sissy_storyline_114_a712b3ac:
 translate zh_Hans son_sissy_storyline_114_aa30e69a:
 
     # nvlsson "I never thought I'd be with guys either"
-    nvlsson "人家也从没想过会和男人在一起呢。"
+    nvlsson "我也从没想过会和男人在一起呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4102
 translate zh_Hans son_sissy_storyline_114_2ce16ce9:
 
     # nvlsson "And now here I am with you"
-    nvlsson "可现在人家就在你身边了。"
+    nvlsson "可现在我就在你身边了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4104
 translate zh_Hans son_sissy_storyline_114_5d82a366:
 
     # nvlsson "And I enjoy it too 😊"
-    nvlsson "而且人家也很享受呢😊"
+    nvlsson "而且我也很享受呢😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4106
 translate zh_Hans son_sissy_storyline_114_7408acd3_1:
@@ -7764,7 +7764,7 @@ translate zh_Hans son_sissy_storyline_114_2d2ff433:
 translate zh_Hans son_sissy_storyline_114_d59c6040:
 
     # nvlsson "Well, sorry I was born a guy"
-    nvlsson "嗯，对不起人家生来就是个男人。"
+    nvlsson "嗯，对不起我生来就是个男人。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4120
 translate zh_Hans son_sissy_storyline_114_be173d9f:
@@ -7782,13 +7782,13 @@ translate zh_Hans son_sissy_storyline_114_8e0241e3:
 translate zh_Hans son_sissy_storyline_114_357202c3:
 
     # nvlsson "Yes"
-    nvlsson "是的，人家明白了。"
+    nvlsson "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4126
 translate zh_Hans son_sissy_storyline_114_380bc289:
 
     # nvlsson "I'm thinking about having surgery in the future"
-    nvlsson "人家在考虑以后做手术。"
+    nvlsson "我在考虑以后做手术。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4128
 translate zh_Hans son_sissy_storyline_114_05390c69:
@@ -7806,19 +7806,19 @@ translate zh_Hans son_sissy_storyline_114_acb63d60:
 translate zh_Hans son_sissy_storyline_114_12e000f1:
 
     # nvltrevor "That would be amazing"
-    nvltrevor "那人家可就太期待了呢~"
+    nvltrevor "那我可就太期待了呢~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4134
 translate zh_Hans son_sissy_storyline_114_fbc8362b:
 
     # nvltrevor "If that happens, make sure I'm the first on your list"
-    nvltrevor "如果真有那么一天，大人可一定要先疼爱人家呀~"
+    nvltrevor "如果真有那么一天，大人可一定要先疼爱我呀~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4136
 translate zh_Hans son_sissy_storyline_114_c329ab97:
 
     # nvltrevor "I'd love to be your first 😉"
-    nvltrevor "人家好想成为大人的第一个呢😉"
+    nvltrevor "我好想成为大人的第一个呢😉"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4138
 translate zh_Hans son_sissy_storyline_114_c8d71802:
@@ -7830,37 +7830,37 @@ translate zh_Hans son_sissy_storyline_114_c8d71802:
 translate zh_Hans son_sissy_storyline_114_6f40c60b:
 
     # nvlsson "Alright, I'll remember that"
-    nvlsson "嗯，人家会牢牢记住的呢~"
+    nvlsson "嗯，我会牢牢记住的呢~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4142
 translate zh_Hans son_sissy_storyline_114_1999bde6:
 
     # nvltrevor "Anyway, I've got to go"
-    nvltrevor "哎呀，人家得先走了呢。"
+    nvltrevor "哎呀，我得先走了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4144
 translate zh_Hans son_sissy_storyline_114_d262bbd0:
 
     # nvltrevor "Come visit if you want"
-    nvltrevor "大人要是想人家了，就来找人家玩嘛~"
+    nvltrevor "大人要是想我了，就来找我玩嘛~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4146
 translate zh_Hans son_sissy_storyline_114_d0b3fea2:
 
     # nvltrevor "I'm free most evenings"
-    nvltrevor "人家晚上大部分时间都属于你的呢~"
+    nvltrevor "我晚上大部分时间都属于你的呢~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4148
 translate zh_Hans son_sissy_storyline_114_6dad0106:
 
     # nvltrevor "If you feel like it, come over"
-    nvltrevor "大人要是想人家了，随时都可以过来呢~"
+    nvltrevor "大人要是想我了，随时都可以过来呢~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4150
 translate zh_Hans son_sissy_storyline_114_e0158741:
 
     # nvlsson "Alright, I'll keep that in mind 😊"
-    nvlsson "好哒，人家会记住的😊"
+    nvlsson "好哒，我会记住的😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4164
 translate zh_Hans son_sissy_storyline_114_53c71d7c:
@@ -7904,7 +7904,7 @@ translate zh_Hans son_sissy_storyline_115_7f31e940:
 translate zh_Hans son_sissy_storyline_115_9af77e6a:
 
     # nvlsson "Asked you to message me?"
-    nvlsson "让你来找人家？"
+    nvlsson "让你来找我？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4197
 translate zh_Hans son_sissy_storyline_115_2a04d7fe:
@@ -7934,13 +7934,13 @@ translate zh_Hans son_sissy_storyline_115_9c35c4e3:
 translate zh_Hans son_sissy_storyline_115_ca6ef941:
 
     # nvlsson "What do you mean??"
-    nvlsson "你这是什么意思呀？人家不懂~"
+    nvlsson "你这是什么意思呀？我不懂~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4209
 translate zh_Hans son_sissy_storyline_115_7eeb9f16:
 
     # nvlnatalie "{a=show:show_chat_media}{image=natalie_pic_1}"
-    nvlnatalie ""
+    nvlnatalie "{a=show:show_chat_media}{image=natalie_pic_1}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4213
 translate zh_Hans son_sissy_storyline_115_4042c3b7:
@@ -7988,7 +7988,7 @@ translate zh_Hans son_sissy_storyline_115_d487f21e:
 translate zh_Hans son_sissy_storyline_115_dbd78b07:
 
     # nvlsson "No, I don't"
-    nvlsson "人家不知道……"
+    nvlsson "我不知道……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4229
 translate zh_Hans son_sissy_storyline_115_1ad7bf47:
@@ -8000,7 +8000,7 @@ translate zh_Hans son_sissy_storyline_115_1ad7bf47:
 translate zh_Hans son_sissy_storyline_115_595e740b:
 
     # nvlsson "Well, a few"
-    nvlsson "嗯，人家有几个呢。"
+    nvlsson "嗯，我有几个呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4233
 translate zh_Hans son_sissy_storyline_115_e3b6bb6b:
@@ -8036,7 +8036,7 @@ translate zh_Hans son_sissy_storyline_115_afafd46f:
 translate zh_Hans son_sissy_storyline_115_c563460a:
 
     # nvlsson "I finish work at 7"
-    nvlsson "人家七点才下班呢。"
+    nvlsson "我七点才下班呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4245
 translate zh_Hans son_sissy_storyline_115_4b7a2296:
@@ -8066,7 +8066,7 @@ translate zh_Hans son_sissy_storyline_115_aa86d8c4:
 translate zh_Hans son_sissy_storyline_115_357202c3:
 
     # nvlsson "Yes"
-    nvlsson "是的，人家明白了。"
+    nvlsson "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4255
 translate zh_Hans son_sissy_storyline_115_35114307:
@@ -8102,13 +8102,13 @@ translate zh_Hans son_sissy_storyline_115_b7c98029:
 translate zh_Hans son_sissy_storyline_115_2dc6bdc7:
 
     # nvlsson "😊"
-    nvlsson ""
+    nvlsson "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4267
 translate zh_Hans son_sissy_storyline_115_48fd667f:
 
     # nvlnatalie "Alright, send me the address later, and I'll come at 7"
-    nvlnatalie "好的，你待会儿把地址发给人家，人家七点就过去~"
+    nvlnatalie "好的，你待会儿把地址发给我，我七点就过去~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4269
 translate zh_Hans son_sissy_storyline_115_2a7f8983:
@@ -8144,7 +8144,7 @@ translate zh_Hans son_sissy_storyline_115_5062119f:
 translate zh_Hans son_sissy_storyline_115_98e344b6:
 
     # nvlsson "I won't forget"
-    nvlsson "人家不会再忘的，保证乖乖记住"
+    nvlsson "我不会再忘的，保证乖乖记住"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4293
 translate zh_Hans son_sissy_storyline_115_53c71d7c:
@@ -8170,7 +8170,7 @@ translate zh_Hans son_sissy_storyline_116_1b140d9c:
 translate zh_Hans son_sissy_storyline_116_357202c3:
 
     # nvlsson "Yes"
-    nvlsson "是的，人家明白了。"
+    nvlsson "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4320
 translate zh_Hans son_sissy_storyline_116_33cab324:
@@ -8236,7 +8236,7 @@ translate zh_Hans son_sissy_storyline_116_fa8d6e97:
 translate zh_Hans son_sissy_storyline_116_c4cef77c:
 
     # nvlsson "Yeah, that's true"
-    nvlsson "是呀，大人说得对~"
+    nvlsson "是呀，爸爸说得对~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4342
 translate zh_Hans son_sissy_storyline_116_fc09bc49:
@@ -8266,37 +8266,37 @@ translate zh_Hans son_sissy_storyline_116_0748f8ff:
 translate zh_Hans son_sissy_storyline_116_58701e77:
 
     # nvlsson "Yes, everything's good"
-    nvlsson "嗯，人家一切都好呢。"
+    nvlsson "嗯，我一切都好呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4352
 translate zh_Hans son_sissy_storyline_116_9687d4b9:
 
     # nvlsson "Everything's great, actually"
-    nvlsson "其实，人家过得可好了。"
+    nvlsson "其实，我过得可好了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4354
 translate zh_Hans son_sissy_storyline_116_06ba5580:
 
     # nvlsson "I've completely adjusted to my new life"
-    nvlsson "人家已经完全适应了现在的新生活。"
+    nvlsson "我已经完全适应了现在的新生活。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4356
 translate zh_Hans son_sissy_storyline_116_9aaa03f6:
 
     # nvlsson "I feel really good"
-    nvlsson "人家感觉棒极了。"
+    nvlsson "我感觉棒极了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4358
 translate zh_Hans son_sissy_storyline_116_632b3c3b:
 
     # nvlsson "I'm happy with what I'm doing"
-    nvlsson "人家对现在做的一切都感到很开心。"
+    nvlsson "我对现在做的一切都感到很开心。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4360
 translate zh_Hans son_sissy_storyline_116_b50f947b:
 
     # nvlsson "I've got a guy I can sleep with"
-    nvlsson "人家现在有了一个可以一起缠绵的男人了呢。"
+    nvlsson "我现在有了一个可以一起缠绵的男人了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4362
 translate zh_Hans son_sissy_storyline_116_7f5ad90a:
@@ -8314,19 +8314,19 @@ translate zh_Hans son_sissy_storyline_116_bf04139e:
 translate zh_Hans son_sissy_storyline_116_4556786b:
 
     # nvlsson "There's no one else"
-    nvlsson "人家身边没有其他男人了。"
+    nvlsson "我身边没有其他男人了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4368
 translate zh_Hans son_sissy_storyline_116_2b93be1b:
 
     # nvlsson "But that's not really my fault"
-    nvlsson "但这真的不是人家的错呀。"
+    nvlsson "但这真的不是我的错呀。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4370
 translate zh_Hans son_sissy_storyline_116_b44e4ad2:
 
     # nvlsson "It's just hard for me to find someone willing to have sex with me"
-    nvlsson "人家只是很难找到愿意和人家欢好的男人嘛。"
+    nvlsson "我只是很难找到愿意和我欢好的男人嘛。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4372
 translate zh_Hans son_sissy_storyline_116_4dae5f2c:
@@ -8392,7 +8392,7 @@ translate zh_Hans son_sissy_storyline_116_1e7a7766:
 translate zh_Hans son_sissy_storyline_116_d8858fe5:
 
     # nvlsson "I just can't find anyone else"
-    nvlsson "人家就是找不到其他人嘛。"
+    nvlsson "我就是找不到其他人嘛。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4394
 translate zh_Hans son_sissy_storyline_116_368ad47f:
@@ -8464,7 +8464,7 @@ translate zh_Hans son_sissy_storyline_116_9b785814:
 translate zh_Hans son_sissy_storyline_116_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4418
 translate zh_Hans son_sissy_storyline_116_89d30b3d:
@@ -8494,7 +8494,7 @@ translate zh_Hans son_sissy_storyline_116_ee0c4ece:
 translate zh_Hans son_sissy_storyline_116_324bd711:
 
     # nvlsson "I'll do what you tell me to do"
-    nvlsson "人家会照你说的去做的。"
+    nvlsson "我会照你说的去做的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4428
 translate zh_Hans son_sissy_storyline_116_33afe24b:
@@ -8576,7 +8576,7 @@ translate zh_Hans son_sissy_storyline_118_a5f6659c:
 translate zh_Hans son_sissy_storyline_118_215d6fb0:
 
     # nvlsson "I need to be more welcoming to customers"
-    nvlsson "人家需要对顾客更热情一些。"
+    nvlsson "我需要对顾客更热情一些。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4516
 translate zh_Hans son_sissy_storyline_118_2354b444:
@@ -8612,7 +8612,7 @@ translate zh_Hans son_sissy_storyline_118_5ba5b10f:
 translate zh_Hans son_sissy_storyline_118_c7165cca:
 
     # nvlsson "Alright, I'll keep that in mind"
-    nvlsson "嗯，人家会乖乖记在心里的，大人~"
+    nvlsson "嗯，我会乖乖记在心里的，爸爸~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4528
 translate zh_Hans son_sissy_storyline_118_84f80c14:
@@ -8692,7 +8692,7 @@ translate zh_Hans son_sissy_storyline_119_c8740326:
 translate zh_Hans son_sissy_storyline_119_1acf9ba6:
 
     # nvlsson "I'm good"
-    nvlsson "人家……人家很好"
+    nvlsson "我……我很好"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4587
 translate zh_Hans son_sissy_storyline_119_051e7e5f:
@@ -8704,7 +8704,7 @@ translate zh_Hans son_sissy_storyline_119_051e7e5f:
 translate zh_Hans son_sissy_storyline_119_90e50216:
 
     # nvlnatalie "I'm doing well too"
-    nvlnatalie "人家也过得很好呢~"
+    nvlnatalie "我也过得很好呢~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4591
 translate zh_Hans son_sissy_storyline_119_5f0cf699:
@@ -8752,19 +8752,19 @@ translate zh_Hans son_sissy_storyline_119_247acfed:
 translate zh_Hans son_sissy_storyline_119_1dfc8ed0:
 
     # nvlsson "I'm not sure"
-    nvlsson "人家心里没底呢……"
+    nvlsson "我心里没底呢……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4607
 translate zh_Hans son_sissy_storyline_119_75ed8019:
 
     # nvlsson "I wasn't invited"
-    nvlsson "可是人家没有收到邀请呢……"
+    nvlsson "可是我没有收到邀请呢……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4609
 translate zh_Hans son_sissy_storyline_119_c337ae77:
 
     # nvlnatalie "What do you think I'm doing right now? 😊"
-    nvlnatalie "大人猜猜人家现在在做什么呢？😊"
+    nvlnatalie "大人猜猜我现在在做什么呢？😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4611
 translate zh_Hans son_sissy_storyline_119_737a4fd2:
@@ -8794,13 +8794,13 @@ translate zh_Hans son_sissy_storyline_119_a2918757:
 translate zh_Hans son_sissy_storyline_119_535b9061:
 
     # nvlsson "Alright"
-    nvlsson "遵命，大人，这就给你看。"
+    nvlsson "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4621
 translate zh_Hans son_sissy_storyline_119_6ff64ca3:
 
     # nvlsson "If there won't be any issues, I'm in"
-    nvlsson "如果不会有麻烦的话，那人家就去嘛~"
+    nvlsson "如果不会有麻烦的话，那我就去嘛~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4623
 translate zh_Hans son_sissy_storyline_119_f098b809:
@@ -8818,7 +8818,7 @@ translate zh_Hans son_sissy_storyline_119_9a90f950:
 translate zh_Hans son_sissy_storyline_119_2dc6bdc7:
 
     # nvlsson "😊"
-    nvlsson ""
+    nvlsson "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4629
 translate zh_Hans son_sissy_storyline_119_5df20977:
@@ -8830,13 +8830,13 @@ translate zh_Hans son_sissy_storyline_119_5df20977:
 translate zh_Hans son_sissy_storyline_119_44707ef6:
 
     # nvlsson "I can come to the party myself if needed"
-    nvlsson "如果大人不方便的话，人家自己去派对也可以的。"
+    nvlsson "如果爸爸不方便的话，我自己去派对也可以的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4633
 translate zh_Hans son_sissy_storyline_119_a4b962a6:
 
     # nvlsson "I don't want you to waste your time on me"
-    nvlsson "人家不想让大人为人家浪费时间呢。"
+    nvlsson "我不想让爸爸为我浪费时间呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4635
 translate zh_Hans son_sissy_storyline_119_1bad0a85:
@@ -8854,7 +8854,7 @@ translate zh_Hans son_sissy_storyline_119_32b9ae11:
 translate zh_Hans son_sissy_storyline_119_f3793560:
 
     # nvlsson "I'll send you my location now"
-    nvlsson "人家这就把位置发给你。"
+    nvlsson "我这就把位置发给你。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4641
 translate zh_Hans son_sissy_storyline_119_8c680c82:
@@ -8890,7 +8890,7 @@ translate zh_Hans son_sissy_storyline_119_136c9c65:
 translate zh_Hans son_sissy_storyline_119_535b9061_1:
 
     # nvlsson "Alright"
-    nvlsson "遵命，大人，这就给你看。"
+    nvlsson "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4665
 translate zh_Hans son_sissy_storyline_119_53c71d7c:
@@ -8916,7 +8916,7 @@ translate zh_Hans son_sissy_storyline_120_cabcba52:
 translate zh_Hans son_sissy_storyline_120_10c024b1:
 
     # nvlsson "Yesss"
-    nvlsson "嗯~~~人家玩得可开心啦！"
+    nvlsson "嗯~~~我玩得可开心啦！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4698
 translate zh_Hans son_sissy_storyline_120_d6d26bcd:
@@ -8934,7 +8934,7 @@ translate zh_Hans son_sissy_storyline_120_6698735e:
 translate zh_Hans son_sissy_storyline_120_2b49ce1b:
 
     # nvlsson "Thanks for inviting me"
-    nvlsson "谢谢你邀请人家去呢~"
+    nvlsson "谢谢你邀请我去呢~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4704
 translate zh_Hans son_sissy_storyline_120_eabed756:
@@ -8952,19 +8952,19 @@ translate zh_Hans son_sissy_storyline_120_6d18f15d:
 translate zh_Hans son_sissy_storyline_120_25febba7:
 
     # nvlnatalie "Things got even more fun later on 😉"
-    nvlnatalie "后来呀，事情变得更让人家开心了呢😉"
+    nvlnatalie "后来呀，事情变得更让我开心了呢😉"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4710
 translate zh_Hans son_sissy_storyline_120_624dc483:
 
     # nvlsson "I had to get up for work in the morning"
-    nvlsson "人家早上还要起来工作呢。"
+    nvlsson "我早上还要起来工作呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4712
 translate zh_Hans son_sissy_storyline_120_55658c56:
 
     # nvlsson "If it weren't for work..."
-    nvlsson "要不是为了工作……人家真想留下来呢……"
+    nvlsson "要不是为了工作……我真想留下来呢……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4714
 translate zh_Hans son_sissy_storyline_120_e8823dac:
@@ -8982,7 +8982,7 @@ translate zh_Hans son_sissy_storyline_120_e67eb0df:
 translate zh_Hans son_sissy_storyline_120_22fc8535:
 
     # nvlnatalie "{a=show:show_chat_media}{image=natalie_pic_2}"
-    nvlnatalie ""
+    nvlnatalie "{a=show:show_chat_media}{image=natalie_pic_2}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4724
 translate zh_Hans son_sissy_storyline_120_b0eca294:
@@ -9018,7 +9018,7 @@ translate zh_Hans son_sissy_storyline_120_5e8859ce:
 translate zh_Hans son_sissy_storyline_120_dc3553a4:
 
     # nvlsson "Unbelievable"
-    nvlsson "简直……简直让人家不敢相信！"
+    nvlsson "简直……简直让我不敢相信！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4736
 translate zh_Hans son_sissy_storyline_120_b726d7b4:
@@ -9102,7 +9102,7 @@ translate zh_Hans son_sissy_storyline_120_079d0032:
 translate zh_Hans son_sissy_storyline_120_ff3fe149:
 
     # nvlsson "Will you message me when the next party's happening?"
-    nvlsson "下次派对什么时候，你会告诉人家吗？"
+    nvlsson "下次派对什么时候，你会告诉我吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4764
 translate zh_Hans son_sissy_storyline_120_9a5c1ee0:
@@ -9150,7 +9150,7 @@ translate zh_Hans son_sissy_storyline_120_8361a623:
 translate zh_Hans son_sissy_storyline_120_127cd3cd:
 
     # nvlsson "I need to get going too"
-    nvlsson "人家也得走了"
+    nvlsson "我也得走了"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4780
 translate zh_Hans son_sissy_storyline_120_22334126:
@@ -9194,13 +9194,13 @@ translate zh_Hans son_sissy_storyline_121_1b140d9c:
 translate zh_Hans son_sissy_storyline_121_762533e6:
 
     # nvlvalerie "Can you cover my shift today?"
-    nvlvalerie "你今天能替人家顶班吗？"
+    nvlvalerie "你今天能替我顶班吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4825
 translate zh_Hans son_sissy_storyline_121_b71e32cd:
 
     # nvlvalerie "Something urgent has come up, and I can't make it to work"
-    nvlvalerie "人家突然有急事，去不了工作了"
+    nvlvalerie "我突然有急事，去不了工作了"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4827
 translate zh_Hans son_sissy_storyline_121_0698e074:
@@ -9250,7 +9250,7 @@ translate zh_Hans son_sissy_storyline_122_9cfa2eee:
 translate zh_Hans son_sissy_storyline_122_357202c3:
 
     # nvlsson "Yes"
-    nvlsson "是的，人家明白了。"
+    nvlsson "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4874
 translate zh_Hans son_sissy_storyline_122_a25ff3d8:
@@ -9262,7 +9262,7 @@ translate zh_Hans son_sissy_storyline_122_a25ff3d8:
 translate zh_Hans son_sissy_storyline_122_334de245:
 
     # nvlsson "I don't know"
-    nvlsson "人家也不知道。"
+    nvlsson "我也不知道。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4878
 translate zh_Hans son_sissy_storyline_122_0c279e81:
@@ -9312,7 +9312,7 @@ translate zh_Hans son_sissy_storyline_123_793cd3d3:
 translate zh_Hans son_sissy_storyline_123_a9b655c5:
 
     # nvlvalerie "Thanks for covering my shift"
-    nvlvalerie "谢谢你替人家顶班"
+    nvlvalerie "谢谢你替我顶班"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4927
 translate zh_Hans son_sissy_storyline_123_1b140d9c:
@@ -9438,7 +9438,7 @@ translate zh_Hans son_sissy_storyline_123_2e9b7532:
 translate zh_Hans son_sissy_storyline_123_4d226c10:
 
     # nvlsson "He just said I need to be more polite with the customers"
-    nvlsson "他只是说，人家需要对顾客更礼貌一些"
+    nvlsson "他只是说，我需要对顾客更礼貌一些"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4969
 translate zh_Hans son_sissy_storyline_123_906f09a5:
@@ -9516,31 +9516,31 @@ translate zh_Hans son_sissy_storyline_123_0178729c:
 translate zh_Hans son_sissy_storyline_123_91126253:
 
     # nvlvalerie "That's a big part of our job 😊"
-    nvlvalerie "这也是人家工作很重要的一部分呢😊"
+    nvlvalerie "这也是我工作很重要的一部分呢😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4995
 translate zh_Hans son_sissy_storyline_123_ad8bff3e:
 
     # nvlvalerie "That's why we have to wear those sexy uniforms"
-    nvlvalerie "所以人家才要穿那些性感的制服嘛。"
+    nvlvalerie "所以我才要穿那些性感的制服嘛。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4997
 translate zh_Hans son_sissy_storyline_123_a8d9312a:
 
     # nvlvalerie "Or do you think he just gave us short skirts for no reason?"
-    nvlvalerie "难道你以为他只是随便让人家穿短裙的吗？"
+    nvlvalerie "难道你以为他只是随便让我穿短裙的吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:4999
 translate zh_Hans son_sissy_storyline_123_8f232dbe:
 
     # nvlsson "I didn't really think about it"
-    nvlsson "人家之前没怎么想过呢。"
+    nvlsson "我之前没怎么想过呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5001
 translate zh_Hans son_sissy_storyline_123_7c48f44b:
 
     # nvlvalerie "Yeah, I figured"
-    nvlvalerie "嗯，人家猜到了。"
+    nvlvalerie "嗯，我猜到了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5003
 translate zh_Hans son_sissy_storyline_123_f5928146:
@@ -9594,13 +9594,13 @@ translate zh_Hans son_sissy_storyline_123_288f8b9b:
 translate zh_Hans son_sissy_storyline_123_d7e6175b:
 
     # nvlvalerie "Especially with me, haha"
-    nvlvalerie "尤其对人家啦，嘻嘻。"
+    nvlvalerie "尤其对我啦，嘻嘻。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5021
 translate zh_Hans son_sissy_storyline_123_4f45ad65:
 
     # nvlvalerie "I don't know what he likes about me so much, but he's been trying to get into my knickers from day one"
-    nvlvalerie "人家也不知道他到底喜欢人家什么，可他从第一天起就想把人家的底裤扒下来呢。"
+    nvlvalerie "我也不知道他到底喜欢我什么，可他从第一天起就想把我的底裤扒下来呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5023
 translate zh_Hans son_sissy_storyline_123_238cb431:
@@ -9624,7 +9624,7 @@ translate zh_Hans son_sissy_storyline_123_08c75232:
 translate zh_Hans son_sissy_storyline_123_017dca55:
 
     # nvlsson "No, I'm not planning on quitting"
-    nvlsson "不，人家没打算辞职呢。"
+    nvlsson "不，我没打算辞职呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5031
 translate zh_Hans son_sissy_storyline_123_9f618a31:
@@ -9642,7 +9642,7 @@ translate zh_Hans son_sissy_storyline_123_94a1fe9f:
 translate zh_Hans son_sissy_storyline_123_2dc6bdc7:
 
     # nvlsson "😊"
-    nvlsson ""
+    nvlsson "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5037
 translate zh_Hans son_sissy_storyline_123_b5b7210a:
@@ -9654,7 +9654,7 @@ translate zh_Hans son_sissy_storyline_123_b5b7210a:
 translate zh_Hans son_sissy_storyline_123_af574613:
 
     # nvlvalerie "About a year and a half, I think"
-    nvlvalerie "大概一年半了吧，人家想。"
+    nvlvalerie "大概一年半了吧，我想。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5041
 translate zh_Hans son_sissy_storyline_123_5b3a9366:
@@ -9708,7 +9708,7 @@ translate zh_Hans son_sissy_storyline_123_48d8d9e1:
 translate zh_Hans son_sissy_storyline_123_345ae373:
 
     # nvlvalerie "I've got some things to do now, so I need to go"
-    nvlvalerie "人家现在有点事要忙，所以得走了。"
+    nvlvalerie "我现在有点事要忙，所以得走了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5059
 translate zh_Hans son_sissy_storyline_123_a9907ab0:
@@ -9726,7 +9726,7 @@ translate zh_Hans son_sissy_storyline_123_0d3f9aa1:
 translate zh_Hans son_sissy_storyline_123_feb908b8:
 
     # nvlvalerie "I owe you one 😉"
-    nvlvalerie "人家欠大人一个人情呢😉"
+    nvlvalerie "我欠大人一个人情呢😉"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5065
 translate zh_Hans son_sissy_storyline_123_353f738d_1:
@@ -9738,7 +9738,7 @@ translate zh_Hans son_sissy_storyline_123_353f738d_1:
 translate zh_Hans son_sissy_storyline_123_4e1749fa:
 
     # nvlvalerie "Right, I'm off"
-    nvlvalerie "好了，人家走了。"
+    nvlvalerie "好了，我走了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5081
 translate zh_Hans son_sissy_storyline_123_53c71d7c:
@@ -9776,7 +9776,7 @@ translate zh_Hans son_sissy_storyline_124_c1773416:
 translate zh_Hans son_sissy_storyline_124_d3bf948b:
 
     # nvlsson "Do you mean you want me to come over so we can have sex?"
-    nvlsson "你是说，你想让人家过去，然后我们就可以做爱了吗？"
+    nvlsson "你是说，你想让我过去，然后我们就可以做爱了吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5112
 translate zh_Hans son_sissy_storyline_124_a8101b27:
@@ -9848,7 +9848,7 @@ translate zh_Hans son_sissy_storyline_124_e792087b:
 translate zh_Hans son_sissy_storyline_124_c5046098:
 
     # nvlsson "But I'm..."
-    nvlsson "可是人家是……"
+    nvlsson "可是我是……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5136
 translate zh_Hans son_sissy_storyline_124_a664cb70:
@@ -9902,19 +9902,19 @@ translate zh_Hans son_sissy_storyline_124_fb6a8bbf:
 translate zh_Hans son_sissy_storyline_124_936d7d80:
 
     # nvltrevor "Come on, say yes"
-    nvltrevor "求你了，就答应人家嘛，好不好？"
+    nvltrevor "求你了，就答应我嘛，好不好？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5154
 translate zh_Hans son_sissy_storyline_124_c49bb2c3:
 
     # nvlsson "Alright, I can do it"
-    nvlsson "嗯……好吧，人家会努力做到的。"
+    nvlsson "嗯……好吧，我会努力做到的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5156
 translate zh_Hans son_sissy_storyline_124_e5bcbbbb:
 
     # nvlsson "But if anything goes wrong..."
-    nvlsson "可是……万一出了什么岔子，人家会很害怕的……"
+    nvlsson "可是……万一出了什么岔子，我会很害怕的……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5158
 translate zh_Hans son_sissy_storyline_124_713e989a:
@@ -9932,7 +9932,7 @@ translate zh_Hans son_sissy_storyline_124_ef038533:
 translate zh_Hans son_sissy_storyline_124_09dcc1b0:
 
     # nvlsson "The meet-up's on Saturday, right?"
-    nvlsson "聚会是周六，是吗？人家没记错吧？"
+    nvlsson "聚会是周六，是吗？我没记错吧？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5164
 translate zh_Hans son_sissy_storyline_124_e2c214e7:
@@ -9968,13 +9968,13 @@ translate zh_Hans son_sissy_storyline_124_ea0601cb:
 translate zh_Hans son_sissy_storyline_124_139425f7:
 
     # nvlsson "Alright, I will"
-    nvlsson "嗯……人家会的，都听你的。"
+    nvlsson "嗯……我会的，都听你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5176
 translate zh_Hans son_sissy_storyline_124_a00b1761:
 
     # nvltrevor "😊"
-    nvltrevor ""
+    nvltrevor "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5178
 translate zh_Hans son_sissy_storyline_124_c2c9fab0:
@@ -9986,7 +9986,7 @@ translate zh_Hans son_sissy_storyline_124_c2c9fab0:
 translate zh_Hans son_sissy_storyline_124_535b9061:
 
     # nvlsson "Alright"
-    nvlsson "遵命，大人，这就给你看。"
+    nvlsson "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5194
 translate zh_Hans son_sissy_storyline_124_53c71d7c:
@@ -10050,7 +10050,7 @@ translate zh_Hans son_sissy_storyline_126_9be16b2c:
 translate zh_Hans son_sissy_storyline_126_1385ec18:
 
     # nvlsson "I'll do my best, Mr Jim"
-    nvlsson "人家会尽力而为的，吉姆先生。"
+    nvlsson "我会尽力而为的，吉姆先生。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5264
 translate zh_Hans son_sissy_storyline_126_e55e833f:
@@ -10080,7 +10080,7 @@ translate zh_Hans son_sissy_storyline_126_35d7f5f9:
 translate zh_Hans son_sissy_storyline_126_2b16c870:
 
     # nvlsson "I understand"
-    nvlsson "人家明白了。"
+    nvlsson "我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5274
 translate zh_Hans son_sissy_storyline_126_33c9fb1c:
@@ -10110,7 +10110,7 @@ translate zh_Hans son_sissy_storyline_126_fdaecd5c:
 translate zh_Hans son_sissy_storyline_126_357202c3:
 
     # nvlsson "Yes"
-    nvlsson "是的，人家明白了。"
+    nvlsson "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5284
 translate zh_Hans son_sissy_storyline_126_b43dc68d:
@@ -10140,7 +10140,7 @@ translate zh_Hans son_sissy_storyline_126_d8156eaf:
 translate zh_Hans son_sissy_storyline_126_4acb121b:
 
     # nvlsson "I'll work hard. Don't worry"
-    nvlsson "人家会努力的，你别担心嘛。"
+    nvlsson "我会努力的，你别担心嘛。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5294
 translate zh_Hans son_sissy_storyline_126_8a6d4739:
@@ -10160,19 +10160,19 @@ translate zh_Hans son_sissy_storyline_127_fa582ad3:
     # nvl clear
     # nvltrevor "You haven't forgotten about me, have you?"
     nvl clear
-    nvltrevor "你……你没把人家忘了吧？"
+    nvltrevor "你……你没把我忘了吧？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5333
 translate zh_Hans son_sissy_storyline_127_1913086e:
 
     # nvlsson "No, I haven't"
-    nvlsson "没有呢，人家没有走。"
+    nvlsson "没有呢，我没有走。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5335
 translate zh_Hans son_sissy_storyline_127_5b16eb2d:
 
     # nvlsson "What time should I be ready?"
-    nvlsson "人家应该什么时候准备好呢？"
+    nvlsson "我应该什么时候准备好呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5337
 translate zh_Hans son_sissy_storyline_127_2acaca58:
@@ -10190,7 +10190,7 @@ translate zh_Hans son_sissy_storyline_127_d0237436:
 translate zh_Hans son_sissy_storyline_127_535b9061:
 
     # nvlsson "Alright"
-    nvlsson "遵命，大人，这就给你看。"
+    nvlsson "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5343
 translate zh_Hans son_sissy_storyline_127_578fa20e:
@@ -10214,7 +10214,7 @@ translate zh_Hans son_sissy_storyline_127_6780e7d8:
 translate zh_Hans son_sissy_storyline_127_9d57e0ad:
 
     # nvlsson "Why did you invite me?"
-    nvlsson "那你为什么要邀请人家呢？"
+    nvlsson "那你为什么要邀请我呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5351
 translate zh_Hans son_sissy_storyline_127_115c9279:
@@ -10238,7 +10238,7 @@ translate zh_Hans son_sissy_storyline_127_2a7f346c:
 translate zh_Hans son_sissy_storyline_127_b8b016df:
 
     # nvlsson "I'll do my best to ensure no one finds out I've got a dick"
-    nvlsson "人家会尽力做到，不让任何人发现人家有那东西的。"
+    nvlsson "我会尽力做到，不让任何人发现我有那东西的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5359
 translate zh_Hans son_sissy_storyline_127_2ffd7687:
@@ -10288,13 +10288,13 @@ translate zh_Hans son_sissy_storyline_128_63fcde98:
 translate zh_Hans son_sissy_storyline_128_edba5cf5:
 
     # nvlsson "You're welcome 😊"
-    nvlsson "大人不用客气啦😊"
+    nvlsson "爸爸不用客气啦😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5406
 translate zh_Hans son_sissy_storyline_128_72d315cd:
 
     # nvltrevor "Well, I already thanked you last night after the party"
-    nvltrevor "嗯……人家昨晚派对后，不是已经好好感谢过你了吗？"
+    nvltrevor "嗯……我昨晚派对后，不是已经好好感谢过你了吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5408
 translate zh_Hans son_sissy_storyline_128_bf70c9d8:
@@ -10312,13 +10312,13 @@ translate zh_Hans son_sissy_storyline_128_79603e98:
 translate zh_Hans son_sissy_storyline_128_0db579fe:
 
     # nvltrevor "{a=show:show_chat_media}{image=mikky_pic_39}"
-    nvltrevor ""
+    nvltrevor "{a=show:show_chat_media}{image=mikky_pic_39}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5418
 translate zh_Hans son_sissy_storyline_128_6331c7bc:
 
     # nvltrevor "You don't call that gratitude?"
-    nvltrevor "那……那你不觉得那是人家对你的感谢吗？"
+    nvltrevor "那……那你不觉得那是我对你的感谢吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5420
 translate zh_Hans son_sissy_storyline_128_c98a6f0a:
@@ -10372,13 +10372,13 @@ translate zh_Hans son_sissy_storyline_128_7166a2c3:
 translate zh_Hans son_sissy_storyline_128_4364c001:
 
     # nvltrevor "😉"
-    nvltrevor ""
+    nvltrevor "😉|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5438
 translate zh_Hans son_sissy_storyline_128_c5fde156:
 
     # nvlsson "I know"
-    nvlsson "人家知道的。"
+    nvlsson "我知道的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5440
 translate zh_Hans son_sissy_storyline_128_413374ac:
@@ -10456,7 +10456,7 @@ translate zh_Hans son_sissy_storyline_128_5c6b5cbf:
 translate zh_Hans son_sissy_storyline_128_8c331515:
 
     # nvlsson "No, I don't remember"
-    nvlsson "不，人家不记得了。"
+    nvlsson "不，我不记得了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5466
 translate zh_Hans son_sissy_storyline_128_67e8abfd:
@@ -10516,7 +10516,7 @@ translate zh_Hans son_sissy_storyline_128_293c8bd3:
 translate zh_Hans son_sissy_storyline_128_53a1006f:
 
     # nvltrevor "Right, I'm off"
-    nvltrevor "好了，人家走了。"
+    nvltrevor "好了，我走了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5486
 translate zh_Hans son_sissy_storyline_128_eb9f7d65:
@@ -10554,7 +10554,7 @@ translate zh_Hans son_sissy_storyline_129_9d24de5a:
 translate zh_Hans son_sissy_storyline_129_f8969cf7:
 
     # nvlsson "Yes, I think so"
-    nvlsson "嗯，人家好像有点印象。"
+    nvlsson "嗯，我好像有点印象。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5529
 translate zh_Hans son_sissy_storyline_129_b215d94c:
@@ -10626,7 +10626,7 @@ translate zh_Hans son_sissy_storyline_129_d9fe133b:
 translate zh_Hans son_sissy_storyline_129_10a5fd8c:
 
     # nvlharry "Doubt he'd want to know his girlfriend's a slut 😊"
-    nvlharry "他呀，肯定不想知道他女朋友是个这么浪荡的人家吧😊"
+    nvlharry "他呀，肯定不想知道他女朋友是个这么浪荡的我吧😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5553
 translate zh_Hans son_sissy_storyline_129_fd154e29:
@@ -10638,7 +10638,7 @@ translate zh_Hans son_sissy_storyline_129_fd154e29:
 translate zh_Hans son_sissy_storyline_129_b49052be:
 
     # nvlharry "{a=show:show_chat_media}{image=mikky_pic_40}"
-    nvlharry ""
+    nvlharry "{a=show:show_chat_media}{image=mikky_pic_40}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5561
 translate zh_Hans son_sissy_storyline_129_ccb96d10:
@@ -10662,7 +10662,7 @@ translate zh_Hans son_sissy_storyline_129_5a4be30b:
 translate zh_Hans son_sissy_storyline_129_63ddc09d:
 
     # nvlharry "Relax, I'm joking"
-    nvlharry "放松，人家开玩笑的。"
+    nvlharry "放松，我开玩笑的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5569
 translate zh_Hans son_sissy_storyline_129_304c6532:
@@ -10674,7 +10674,7 @@ translate zh_Hans son_sissy_storyline_129_304c6532:
 translate zh_Hans son_sissy_storyline_129_cae39696:
 
     # nvlharry "I mean, I won't if you agree to do something for me 😉"
-    nvlharry "人家是说，如果你答应为人家做点什么，人家就不会说出去哦😉"
+    nvlharry "我是说，如果你答应为我做点什么，我就不会说出去哦😉"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5573
 translate zh_Hans son_sissy_storyline_129_a662d391:
@@ -10710,7 +10710,7 @@ translate zh_Hans son_sissy_storyline_129_e9b0308b:
 translate zh_Hans son_sissy_storyline_129_235fd0dc:
 
     # nvlsson "I can only give you a blowjob"
-    nvlsson "人家……人家只能给你口交。"
+    nvlsson "我……我只能给你口交。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5585
 translate zh_Hans son_sissy_storyline_129_6e69d8fd:
@@ -10728,7 +10728,7 @@ translate zh_Hans son_sissy_storyline_129_7d2fd918:
 translate zh_Hans son_sissy_storyline_129_8e6731a6:
 
     # nvlsson "I'm not having sex with you"
-    nvlsson "人家……人家不要跟你做爱。"
+    nvlsson "我……我不要跟你做爱。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5591
 translate zh_Hans son_sissy_storyline_129_92ffca18:
@@ -10746,7 +10746,7 @@ translate zh_Hans son_sissy_storyline_129_cf02c574:
 translate zh_Hans son_sissy_storyline_129_a232d2c8:
 
     # nvlharry "Guess I'll have to tell Trevor everything"
-    nvlharry "人家看，只能把所有事情都告诉特雷弗了呢。"
+    nvlharry "我看，只能把所有事情都告诉特雷弗了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5597
 translate zh_Hans son_sissy_storyline_129_7d1fee1d:
@@ -10788,13 +10788,13 @@ translate zh_Hans son_sissy_storyline_129_16a44e0e:
 translate zh_Hans son_sissy_storyline_129_5545bd47:
 
     # nvlsson "I could have been giving you blowjobs"
-    nvlsson "人家本来可以好好地伺候你，给你口交的呢。"
+    nvlsson "我本来可以好好地伺候你，给你口交的呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5611
 translate zh_Hans son_sissy_storyline_129_9d53cb46:
 
     # nvlsson "But now I won't do anything for you"
-    nvlsson "可是现在，人家什么都不会为你做了。"
+    nvlsson "可是现在，我什么都不会为你做了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5613
 translate zh_Hans son_sissy_storyline_129_9ffb0711:
@@ -10806,7 +10806,7 @@ translate zh_Hans son_sissy_storyline_129_9ffb0711:
 translate zh_Hans son_sissy_storyline_129_00001593:
 
     # nvlsson "I think I can find another guy if we break up"
-    nvlsson "人家觉得，就算我们分手了，人家也能找到别的男人疼爱人家的。"
+    nvlsson "我觉得，就算我们分手了，我也能找到别的男人疼爱我的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5617
 translate zh_Hans son_sissy_storyline_129_ea2afd64:
@@ -10836,7 +10836,7 @@ translate zh_Hans son_sissy_storyline_129_eb96a8d8:
 translate zh_Hans son_sissy_storyline_129_802c3927:
 
     # nvlsson "I said I can only do blowjobs"
-    nvlsson "人家说了，人家只能给你口交的。"
+    nvlsson "我说了，我只能给你口交的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5627
 translate zh_Hans son_sissy_storyline_129_1207cbfa:
@@ -10872,13 +10872,13 @@ translate zh_Hans son_sissy_storyline_129_96d8b08d:
 translate zh_Hans son_sissy_storyline_129_f12c72ac:
 
     # nvlsson "Glad we could reach a compromise"
-    nvlsson "人家很高兴我们能达成共识呢。"
+    nvlsson "我很高兴我们能达成共识呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5639
 translate zh_Hans son_sissy_storyline_129_b1e50db5:
 
     # nvlharry "😊"
-    nvlharry ""
+    nvlharry "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5641
 translate zh_Hans son_sissy_storyline_129_4a332b89:
@@ -10902,7 +10902,7 @@ translate zh_Hans son_sissy_storyline_129_3d9d6389:
 translate zh_Hans son_sissy_storyline_129_eabaee4a:
 
     # nvlsson "I have work to do"
-    nvlsson "人家还有工作要做呢。"
+    nvlsson "我还有工作要做呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5649
 translate zh_Hans son_sissy_storyline_129_3107410f:
@@ -10950,7 +10950,7 @@ translate zh_Hans son_sissy_storyline_129_8735ec7c:
 translate zh_Hans son_sissy_storyline_129_ce2b4ae0:
 
     # nvlsson "I'm busy"
-    nvlsson "人家现在很忙呢。"
+    nvlsson "我现在很忙呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5665
 translate zh_Hans son_sissy_storyline_129_01b17ef3:
@@ -10962,7 +10962,7 @@ translate zh_Hans son_sissy_storyline_129_01b17ef3:
 translate zh_Hans son_sissy_storyline_129_3e48cf42:
 
     # nvlharry "I'll message you later"
-    nvlharry "人家晚点再给你发消息吧"
+    nvlharry "我晚点再给你发消息吧"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5683
 translate zh_Hans son_sissy_storyline_129_53c71d7c:
@@ -10994,7 +10994,7 @@ translate zh_Hans son_sissy_storyline_130_ebeb3b5f:
 translate zh_Hans son_sissy_storyline_130_3b0fa0a2:
 
     # nvljenna "I'm doing well"
-    nvljenna "人家过得很好呢。"
+    nvljenna "我过得很好呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5712
 translate zh_Hans son_sissy_storyline_130_fa6a6cf0:
@@ -11030,7 +11030,7 @@ translate zh_Hans son_sissy_storyline_130_7f69cb94:
 translate zh_Hans son_sissy_storyline_130_c96fbcb2:
 
     # nvlsson "I gave another guy a blowjob"
-    nvlsson "人家又给别的男人口交了呢。"
+    nvlsson "我又给别的男人口交了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5724
 translate zh_Hans son_sissy_storyline_130_e327f253:
@@ -11054,7 +11054,7 @@ translate zh_Hans son_sissy_storyline_130_2f08720a:
 translate zh_Hans son_sissy_storyline_130_a2537c38:
 
     # nvlsson "A friend of the guy I'm currently sleeping with"
-    nvlsson "是人家现在睡的那个男人的朋友呢。"
+    nvlsson "是我现在睡的那个男人的朋友呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5732
 translate zh_Hans son_sissy_storyline_130_d2e81d56:
@@ -11090,13 +11090,13 @@ translate zh_Hans son_sissy_storyline_130_f43975ea:
 translate zh_Hans son_sissy_storyline_130_e5ccfd4b:
 
     # nvlsson "My lover invited me to be his girlfriend"
-    nvlsson "人家现在的情人邀请人家去扮演他的女朋友呢。"
+    nvlsson "我现在的情人邀请我去扮演他的女朋友呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5744
 translate zh_Hans son_sissy_storyline_130_8e7740bd:
 
     # nvlsson "I played the role of his girlfriend"
-    nvlsson "人家就乖乖地扮演了他的女朋友呀。"
+    nvlsson "我就乖乖地扮演了他的女朋友呀。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5746
 translate zh_Hans son_sissy_storyline_130_0f5533c7:
@@ -11114,19 +11114,19 @@ translate zh_Hans son_sissy_storyline_130_47a0ac72:
 translate zh_Hans son_sissy_storyline_130_357202c3:
 
     # nvlsson "Yes"
-    nvlsson "是的，人家明白了。"
+    nvlsson "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5752
 translate zh_Hans son_sissy_storyline_130_7fac76a4:
 
     # nvlsson "He thought I was a girl"
-    nvlsson "他以为人家是个女孩子呢。"
+    nvlsson "他以为我是个女孩子呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5754
 translate zh_Hans son_sissy_storyline_130_6695f6af:
 
     # nvlsson "So he didn't mind me doing it"
-    nvlsson "所以他一点也不介意人家那样做呢。"
+    nvlsson "所以他一点也不介意我那样做呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5756
 translate zh_Hans son_sissy_storyline_130_95664a38:
@@ -11150,7 +11150,7 @@ translate zh_Hans son_sissy_storyline_130_3986efe6:
 translate zh_Hans son_sissy_storyline_130_d0bef6e9:
 
     # nvlsson "Everyone thought I was just a regular girl"
-    nvlsson "大家还以为人家只是个普通的女孩子呢。"
+    nvlsson "大家还以为我只是个普通的女孩子呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5764
 translate zh_Hans son_sissy_storyline_130_151b747f:
@@ -11168,7 +11168,7 @@ translate zh_Hans son_sissy_storyline_130_33afe24b_1:
 translate zh_Hans son_sissy_storyline_130_a8563888:
 
     # nvlsson "Thanks ❤️"
-    nvlsson "谢谢你，大人❤️"
+    nvlsson "谢谢你，爸爸❤️"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5770
 translate zh_Hans son_sissy_storyline_130_ebd708ab:
@@ -11192,13 +11192,13 @@ translate zh_Hans son_sissy_storyline_130_876dfd94:
 translate zh_Hans son_sissy_storyline_130_e44e2963:
 
     # nvlsson "I thought the same"
-    nvlsson "人家也是这么想的。"
+    nvlsson "我也是这么想的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5778
 translate zh_Hans son_sissy_storyline_130_f9ee781e:
 
     # nvlsson "If no one notices I'm not fully a girl, it means I've shed all my old habits and my appearance has completely changed"
-    nvlsson "如果没人察觉人家不是彻底的女孩，那说明人家已经彻底摆脱了旧习，外表也完全变了样呢。"
+    nvlsson "如果没人察觉我不是彻底的女孩，那说明我已经彻底摆脱了旧习，外表也完全变了样呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5780
 translate zh_Hans son_sissy_storyline_130_eaee068f:
@@ -11216,7 +11216,7 @@ translate zh_Hans son_sissy_storyline_130_33afe24b_2:
 translate zh_Hans son_sissy_storyline_130_a8563888_1:
 
     # nvlsson "Thanks ❤️"
-    nvlsson "谢谢你，大人❤️"
+    nvlsson "谢谢你，爸爸❤️"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5786
 translate zh_Hans son_sissy_storyline_130_9af76809:
@@ -11228,25 +11228,25 @@ translate zh_Hans son_sissy_storyline_130_9af76809:
 translate zh_Hans son_sissy_storyline_130_1d3ed35f:
 
     # nvlsson "I don't want to stop"
-    nvlsson "人家才不想停下来呢。"
+    nvlsson "我才不想停下来呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5790
 translate zh_Hans son_sissy_storyline_130_c4e5ecd2:
 
     # nvlsson "I want to keep changing"
-    nvlsson "人家好想一直变下去。"
+    nvlsson "我好想一直变下去。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5792
 translate zh_Hans son_sissy_storyline_130_4207a09d:
 
     # nvlsson "I'm loving my new life"
-    nvlsson "人家好喜欢现在的新生活。"
+    nvlsson "我好喜欢现在的新生活。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5794
 translate zh_Hans son_sissy_storyline_130_421c4fad:
 
     # nvlsson "I want to experience as much as I can"
-    nvlsson "人家想要尽可能多地去体验一切。"
+    nvlsson "我想要尽可能多地去体验一切。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5796
 translate zh_Hans son_sissy_storyline_130_6f2d9252:
@@ -11276,7 +11276,7 @@ translate zh_Hans son_sissy_storyline_130_33f12c2b:
 translate zh_Hans son_sissy_storyline_130_effc085a:
 
     # nvlsson "You'll help me with that?"
-    nvlsson "你会帮人家吗？"
+    nvlsson "你会帮我吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5806
 translate zh_Hans son_sissy_storyline_130_9a2abe23:
@@ -11306,7 +11306,7 @@ translate zh_Hans son_sissy_storyline_130_0ef949e8:
 translate zh_Hans son_sissy_storyline_130_139425f7:
 
     # nvlsson "Alright, I will"
-    nvlsson "嗯……人家会的，都听你的。"
+    nvlsson "嗯……我会的，都听你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5816
 translate zh_Hans son_sissy_storyline_130_37479168:
@@ -11318,13 +11318,13 @@ translate zh_Hans son_sissy_storyline_130_37479168:
 translate zh_Hans son_sissy_storyline_130_611af075:
 
     # nvljenna "I'll message you when there's news"
-    nvljenna "有消息了人家会告诉你的。"
+    nvljenna "有消息了我会告诉你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5820
 translate zh_Hans son_sissy_storyline_130_535b9061:
 
     # nvlsson "Alright"
-    nvlsson "遵命，大人，这就给你看。"
+    nvlsson "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5834
 translate zh_Hans son_sissy_storyline_130_53c71d7c:
@@ -11374,7 +11374,7 @@ translate zh_Hans son_sissy_storyline_131_8ec491d8:
 translate zh_Hans son_sissy_storyline_131_773919fc:
 
     # nvlsson "I'm doing everything you told me to do"
-    nvlsson "人家已经按照你说的都做了呀。"
+    nvlsson "我已经按照你说的都做了呀。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5869
 translate zh_Hans son_sissy_storyline_131_7f88f169:
@@ -11466,13 +11466,13 @@ translate zh_Hans son_sissy_storyline_132_9dfc6da2:
 translate zh_Hans son_sissy_storyline_132_36ee8dc4:
 
     # nvlsson "You won't fire me now because of the complaints, will you?"
-    nvlsson "你不会因为这些投诉就开除人家吧？"
+    nvlsson "你不会因为这些投诉就开除我吧？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5930
 translate zh_Hans son_sissy_storyline_132_fcbe1b0a:
 
     # nvljim "What complaints? 😊"
-    nvljim "人家能有什么抱怨呢？人家可喜欢着呢😊"
+    nvljim "我能有什么抱怨呢？我可喜欢着呢😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5932
 translate zh_Hans son_sissy_storyline_132_d27469fd_1:
@@ -11520,7 +11520,7 @@ translate zh_Hans son_sissy_storyline_132_9454f7a0:
 translate zh_Hans son_sissy_storyline_132_b26c7286:
 
     # nvljim "{a=show:show_chat_media}{image=mikky_pic_41}"
-    nvljim ""
+    nvljim "{a=show:show_chat_media}{image=mikky_pic_41}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:5952
 translate zh_Hans son_sissy_storyline_132_44f1f86b:
@@ -11576,7 +11576,7 @@ translate zh_Hans son_sissy_storyline_133_e6931c74:
 translate zh_Hans son_sissy_storyline_133_535b9061:
 
     # nvlsson "Alright"
-    nvlsson "遵命，大人，这就给你看。"
+    nvlsson "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6003
 translate zh_Hans son_sissy_storyline_133_64d9221b:
@@ -11588,7 +11588,7 @@ translate zh_Hans son_sissy_storyline_133_64d9221b:
 translate zh_Hans son_sissy_storyline_133_37c6d674:
 
     # nvlvalerie "I'm doing well too"
-    nvlvalerie "人家也过得很好呢~"
+    nvlvalerie "我也过得很好呢~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6007
 translate zh_Hans son_sissy_storyline_133_59a57820:
@@ -11618,7 +11618,7 @@ translate zh_Hans son_sissy_storyline_133_e0fef5dd:
 translate zh_Hans son_sissy_storyline_133_47ecd12b:
 
     # nvlvalerie "I've been working here for a year and a half, after all"
-    nvlvalerie "毕竟人家在这里工作一年半了嘛。"
+    nvlvalerie "毕竟我在这里工作一年半了嘛。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6017
 translate zh_Hans son_sissy_storyline_133_99a9b5d1:
@@ -11648,7 +11648,7 @@ translate zh_Hans son_sissy_storyline_133_1dcb6431:
 translate zh_Hans son_sissy_storyline_133_af7edee3:
 
     # nvlsson "I've given him a blowjob"
-    nvlsson "人家有好好地用嘴巴伺候过他了呢。"
+    nvlsson "我有好好地用嘴巴伺候过他了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6027
 translate zh_Hans son_sissy_storyline_133_e8da45f6:
@@ -11666,19 +11666,19 @@ translate zh_Hans son_sissy_storyline_133_d870b318:
 translate zh_Hans son_sissy_storyline_133_c424d731:
 
     # nvlvalerie "I started with blowjobs too"
-    nvlvalerie "人家也是从用嘴巴伺候开始的呢。"
+    nvlvalerie "我也是从用嘴巴伺候开始的呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6033
 translate zh_Hans son_sissy_storyline_133_07eb005b:
 
     # nvlvalerie "And for a long time, that's all I did for him"
-    nvlvalerie "而且很长一段时间，人家都只是那样伺候他。"
+    nvlvalerie "而且很长一段时间，我都只是那样伺候他。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6035
 translate zh_Hans son_sissy_storyline_133_47efb846:
 
     # nvlvalerie "It's only later that he started fucking me"
-    nvlvalerie "后来他才开始真正地享用人家。"
+    nvlvalerie "后来他才开始真正地享用我。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6037
 translate zh_Hans son_sissy_storyline_133_0f079e38:
@@ -11756,7 +11756,7 @@ translate zh_Hans son_sissy_storyline_133_ea0d9156:
 translate zh_Hans son_sissy_storyline_133_11d06282:
 
     # nvlvalerie "I'd rather not talk about it, to be honest"
-    nvlvalerie "说真的，人家宁愿不提那段经历。"
+    nvlvalerie "说真的，我宁愿不提那段经历。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6063
 translate zh_Hans son_sissy_storyline_133_600a6b91:
@@ -11786,7 +11786,7 @@ translate zh_Hans son_sissy_storyline_133_dcf82b97:
 translate zh_Hans son_sissy_storyline_133_6e86386c:
 
     # nvlvalerie "Let me congratulate you instead on becoming a proper part of our team"
-    nvlvalerie "不如人家恭喜你，正式成为我们团队的一员吧。"
+    nvlvalerie "不如我恭喜你，正式成为我们团队的一员吧。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6073
 translate zh_Hans son_sissy_storyline_133_ffc3c414:
@@ -11804,13 +11804,13 @@ translate zh_Hans son_sissy_storyline_133_f43dfab5:
 translate zh_Hans son_sissy_storyline_133_3e6e92d8:
 
     # nvlvalerie "I hope you don't quit too soon 😊"
-    nvlvalerie "人家希望你不要太快就厌倦人家哦😊"
+    nvlvalerie "我希望你不要太快就厌倦我哦😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6079
 translate zh_Hans son_sissy_storyline_133_0a5c4b9b:
 
     # nvlsson "I'm not planning to leave"
-    nvlsson "人家不打算离开呢。"
+    nvlsson "我不打算离开呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6081
 translate zh_Hans son_sissy_storyline_133_f7ea354f:
@@ -11878,7 +11878,7 @@ translate zh_Hans son_sissy_storyline_134_0bd50bcf:
 translate zh_Hans son_sissy_storyline_134_f923315c:
 
     # nvljim "Yes"
-    nvljim "是的，人家明白了。"
+    nvljim "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6134
 translate zh_Hans son_sissy_storyline_134_b769aaf6:
@@ -11902,13 +11902,13 @@ translate zh_Hans son_sissy_storyline_134_c3bcf85f:
 translate zh_Hans son_sissy_storyline_134_f923315c_1:
 
     # nvljim "Yes"
-    nvljim "是的，人家明白了。"
+    nvljim "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6142
 translate zh_Hans son_sissy_storyline_134_99390f82:
 
     # nvlsson "Alright, I'll do it now"
-    nvlsson "好的，人家这就去办。"
+    nvlsson "好的，我这就去办。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6144
 translate zh_Hans son_sissy_storyline_134_1d365164:
@@ -11920,13 +11920,13 @@ translate zh_Hans son_sissy_storyline_134_1d365164:
 translate zh_Hans son_sissy_storyline_134_0f716a23:
 
     # nvlsson "{a=show:show_chat_media}{image=mikky_pic_42}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=mikky_pic_42}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6152
 translate zh_Hans son_sissy_storyline_134_44aae90f:
 
     # nvlsson "Here it is"
-    nvlsson "给你，大人。"
+    nvlsson "给你，爸爸。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6154
 translate zh_Hans son_sissy_storyline_134_5288d90e:
@@ -11950,7 +11950,7 @@ translate zh_Hans son_sissy_storyline_134_ce5cc3ca:
 translate zh_Hans son_sissy_storyline_134_b92f27c2:
 
     # nvljim "Am I right?"
-    nvljim "人家说得对吗？"
+    nvljim "我说得对吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6162
 translate zh_Hans son_sissy_storyline_134_ca262bc3:
@@ -11992,31 +11992,31 @@ translate zh_Hans son_sissy_storyline_134_bddefb20:
 translate zh_Hans son_sissy_storyline_134_a6d66ca0:
 
     # nvljim "And unlucky for me too, that you're not a real girl"
-    nvljim "对爸爸来说，也是不幸呢，你不是个真正的女孩子。"
+    nvljim "对我来说，也是不幸呢，你不是个真正的女孩子。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6176
 translate zh_Hans son_sissy_storyline_134_06e910cb:
 
     # nvljim "That I can't fuck you like I do the others"
-    nvljim "那样爸爸就不能像享用其他女孩子一样享用你了。"
+    nvljim "那样我就不能像享用其他女孩子一样享用你了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6178
 translate zh_Hans son_sissy_storyline_134_133e3b26:
 
     # nvljim "Like I fuck Valerie, for instance"
-    nvljim "就像爸爸享用瓦莱丽那样。"
+    nvljim "就像我享用瓦莱丽那样。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6180
 translate zh_Hans son_sissy_storyline_134_fc4b6d09:
 
     # nvljim "I'll never be able to do this with you"
-    nvljim "人家才不会和你做这种事呢……"
+    nvljim "我才不会和你做这种事呢……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6184
 translate zh_Hans son_sissy_storyline_134_bacd46e7:
 
     # nvljim "{a=show:show_chat_media}{image=valerie_video_1_ns}"
-    nvljim ""
+    nvljim "{a=show:show_chat_media}{image=valerie_video_1_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6188
 translate zh_Hans son_sissy_storyline_134_3318349a:
@@ -12150,7 +12150,7 @@ translate zh_Hans son_sissy_storyline_135_1b140d9c:
 translate zh_Hans son_sissy_storyline_135_7a451bb6:
 
     # nvlsson "I haven't really been anywhere 😊"
-    nvlsson "人家呀，其实哪里都没去过呢😊"
+    nvlsson "我呀，其实哪里都没去过呢😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6263
 translate zh_Hans son_sissy_storyline_135_15cd8619:
@@ -12168,19 +12168,19 @@ translate zh_Hans son_sissy_storyline_135_6adbf501:
 translate zh_Hans son_sissy_storyline_135_47fe12ea:
 
     # nvlsson "Yes, everything's fine"
-    nvlsson "嗯，人家...人家都好好的呢，你不用担心人家..."
+    nvlsson "嗯，我...我都好好的呢，你不用担心我..."
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6269
 translate zh_Hans son_sissy_storyline_135_9687d4b9:
 
     # nvlsson "Everything's great, actually"
-    nvlsson "其实，人家过得可好了。"
+    nvlsson "其实，我过得可好了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6271
 translate zh_Hans son_sissy_storyline_135_0595d26a:
 
     # nvlnatalie "That's good to hear 😊"
-    nvlnatalie "能听到你这么说，人家好开心呢😊"
+    nvlnatalie "能听到你这么说，我好开心呢😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6273
 translate zh_Hans son_sissy_storyline_135_dae3f6f8:
@@ -12192,7 +12192,7 @@ translate zh_Hans son_sissy_storyline_135_dae3f6f8:
 translate zh_Hans son_sissy_storyline_135_8446538b:
 
     # nvlsson "Preparing for my studies"
-    nvlsson "人家在准备学业呢。"
+    nvlsson "我在准备学业呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6277
 translate zh_Hans son_sissy_storyline_135_64d9221b:
@@ -12234,13 +12234,13 @@ translate zh_Hans son_sissy_storyline_135_7a50f385:
 translate zh_Hans son_sissy_storyline_135_83128d69:
 
     # nvlsson "Maybe we should meet?"
-    nvlsson "人家觉得我们是不是该见一面呢？"
+    nvlsson "我觉得我们是不是该见一面呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6291
 translate zh_Hans son_sissy_storyline_135_1128cbea:
 
     # nvlsson "I think that would be better"
-    nvlsson "人家觉得那样会更好。"
+    nvlsson "我觉得那样会更好。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6293
 translate zh_Hans son_sissy_storyline_135_7afa534f:
@@ -12258,7 +12258,7 @@ translate zh_Hans son_sissy_storyline_135_f03d837a:
 translate zh_Hans son_sissy_storyline_135_afea07aa:
 
     # nvlnatalie "I'm free all day today"
-    nvlnatalie "人家今天一整天都有空哦。"
+    nvlnatalie "我今天一整天都有空哦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6299
 translate zh_Hans son_sissy_storyline_135_12e7399a:
@@ -12306,7 +12306,7 @@ translate zh_Hans son_sissy_storyline_135_eb83ac7c:
 translate zh_Hans son_sissy_storyline_135_775a58fa:
 
     # nvlnatalie "I've got a friend coming over just now 😉"
-    nvlnatalie "人家现在有朋友要过来呢😉"
+    nvlnatalie "我现在有朋友要过来呢😉"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6315
 translate zh_Hans son_sissy_storyline_135_452e72d8:
@@ -12362,7 +12362,7 @@ translate zh_Hans son_sissy_storyline_136_2a04d7fe:
 translate zh_Hans son_sissy_storyline_136_930ef9c6:
 
     # nvlnatalie "I don't know"
-    nvlnatalie "人家也不知道。"
+    nvlnatalie "我也不知道。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6364
 translate zh_Hans son_sissy_storyline_136_c5a0b9d4:
@@ -12398,7 +12398,7 @@ translate zh_Hans son_sissy_storyline_136_9cdd30a9:
 translate zh_Hans son_sissy_storyline_136_b69ad28f:
 
     # nvlsson "He hasn't slept with me yet"
-    nvlsson "他还没和人家上床呢。"
+    nvlsson "他还没和我上床呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6376
 translate zh_Hans son_sissy_storyline_136_86521fca:
@@ -12452,13 +12452,13 @@ translate zh_Hans son_sissy_storyline_136_3a805c41:
 translate zh_Hans son_sissy_storyline_136_8b65bc6e:
 
     # nvlsson "Why would I?"
-    nvlsson "人家为什么要辞职呢？"
+    nvlsson "我为什么要辞职呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6394
 translate zh_Hans son_sissy_storyline_136_7c0b49df:
 
     # nvlsson "I'm happy 😊"
-    nvlsson "人家好开心呀😊"
+    nvlsson "我好开心呀😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6396
 translate zh_Hans son_sissy_storyline_136_1f6204e5:
@@ -12476,13 +12476,13 @@ translate zh_Hans son_sissy_storyline_136_b97e4731:
 translate zh_Hans son_sissy_storyline_136_64ca0fa5:
 
     # nvlnatalie "After hearing your story, I kind of want to work there too"
-    nvlnatalie "听了你的故事，人家也想去那里工作了呢。"
+    nvlnatalie "听了你的故事，我也想去那里工作了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6402
 translate zh_Hans son_sissy_storyline_136_295b2f7b:
 
     # nvlnatalie "Wouldn't mind having a boss like that harassing me"
-    nvlnatalie "一点都不介意有那样的老板来骚扰人家呢。"
+    nvlnatalie "一点都不介意有那样的老板来骚扰我呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6404
 translate zh_Hans son_sissy_storyline_136_8551ee80:
@@ -12494,7 +12494,7 @@ translate zh_Hans son_sissy_storyline_136_8551ee80:
 translate zh_Hans son_sissy_storyline_136_3bb0364d:
 
     # nvlsson "I can ask if they're hiring"
-    nvlsson "人家可以去问问他们是不是在招人呢。"
+    nvlsson "我可以去问问他们是不是在招人呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6408
 translate zh_Hans son_sissy_storyline_136_36a81719:
@@ -12518,7 +12518,7 @@ translate zh_Hans son_sissy_storyline_136_87eeb588:
 translate zh_Hans son_sissy_storyline_136_e11eecd0:
 
     # nvlnatalie "I can't quit my current job just yet"
-    nvlnatalie "人家现在还不能辞掉现在的工作。"
+    nvlnatalie "我现在还不能辞掉现在的工作。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6416
 translate zh_Hans son_sissy_storyline_136_34bf62eb:
@@ -12560,7 +12560,7 @@ translate zh_Hans son_sissy_storyline_136_5d73b088:
 translate zh_Hans son_sissy_storyline_136_1b97cc4e:
 
     # nvlsson "If you're inviting me, then yes, I'm in"
-    nvlsson "如果你邀请人家，那人家当然要去啦。"
+    nvlsson "如果你邀请我，那我当然要去啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6430
 translate zh_Hans son_sissy_storyline_136_d2f167df:
@@ -12572,7 +12572,7 @@ translate zh_Hans son_sissy_storyline_136_d2f167df:
 translate zh_Hans son_sissy_storyline_136_d603706a:
 
     # nvlnatalie "I'll talk to one of my mates about it too"
-    nvlnatalie "人家也会去跟人家的一位好姐妹说一声的。"
+    nvlnatalie "我也会去跟我的一位好姐妹说一声的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6434
 translate zh_Hans son_sissy_storyline_136_4ca94616:
@@ -12584,7 +12584,7 @@ translate zh_Hans son_sissy_storyline_136_4ca94616:
 translate zh_Hans son_sissy_storyline_136_26dc5fb8:
 
     # nvlnatalie "And I'll introduce you to her"
-    nvlnatalie "人家会把她介绍给你的。"
+    nvlnatalie "我会把她介绍给你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6438
 translate zh_Hans son_sissy_storyline_136_0e30c0cd:
@@ -12602,7 +12602,7 @@ translate zh_Hans son_sissy_storyline_136_05ef0394:
 translate zh_Hans son_sissy_storyline_136_f65e81dc:
 
     # nvlnatalie "I'll text you about it"
-    nvlnatalie "人家会给你发短信的。"
+    nvlnatalie "我会给你发短信的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6444
 translate zh_Hans son_sissy_storyline_136_6adbfddf:
@@ -12652,7 +12652,7 @@ translate zh_Hans son_sissy_storyline_137_e5937abd:
 translate zh_Hans son_sissy_storyline_137_f923315c:
 
     # nvljim "Yes"
-    nvljim "是的，人家明白了。"
+    nvljim "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6493
 translate zh_Hans son_sissy_storyline_137_5e8926cf:
@@ -12732,19 +12732,19 @@ translate zh_Hans son_sissy_storyline_138_20569eff:
 translate zh_Hans son_sissy_storyline_138_85a38f3d:
 
     # nvlsson "I'm doing well too"
-    nvlsson "人家也过得很好呢~"
+    nvlsson "我也过得很好呢~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6552
 translate zh_Hans son_sissy_storyline_138_af302ba0:
 
     # nvlsson "Really well, actually"
-    nvlsson "人家过得可好啦，真的呢。"
+    nvlsson "我过得可好啦，真的呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6556
 translate zh_Hans son_sissy_storyline_138_c42dac72:
 
     # nvlsson "{a=show:show_chat_media}{image=mikky_pic_43}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=mikky_pic_43}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6560
 translate zh_Hans son_sissy_storyline_138_585eae1f:
@@ -12762,7 +12762,7 @@ translate zh_Hans son_sissy_storyline_138_207b9822:
 translate zh_Hans son_sissy_storyline_138_66ab31c8:
 
     # nvlsson "That's my boss 😊"
-    nvlsson "那是人家老板呢😊"
+    nvlsson "那是我老板呢😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6566
 translate zh_Hans son_sissy_storyline_138_72a2823c:
@@ -12774,7 +12774,7 @@ translate zh_Hans son_sissy_storyline_138_72a2823c:
 translate zh_Hans son_sissy_storyline_138_357202c3:
 
     # nvlsson "Yes"
-    nvlsson "是的，人家明白了。"
+    nvlsson "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6570
 translate zh_Hans son_sissy_storyline_138_d5bcd44f:
@@ -12828,31 +12828,31 @@ translate zh_Hans son_sissy_storyline_138_79f17343:
 translate zh_Hans son_sissy_storyline_138_357202c3_1:
 
     # nvlsson "Yes"
-    nvlsson "是的，人家明白了。"
+    nvlsson "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6588
 translate zh_Hans son_sissy_storyline_138_4f811559:
 
     # nvlsson "He's seen my cock"
-    nvlsson "他见过人家的宝贝了。"
+    nvlsson "他见过我的宝贝了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6590
 translate zh_Hans son_sissy_storyline_138_91887f9c:
 
     # nvljenna "And he still wants to continue, right?"
-    nvljenna "他（指爸爸）还想继续，是吗？"
+    nvljenna "他还想继续，是吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6592
 translate zh_Hans son_sissy_storyline_138_357202c3_2:
 
     # nvlsson "Yes"
-    nvlsson "是的，人家明白了。"
+    nvlsson "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6594
 translate zh_Hans son_sissy_storyline_138_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6596
 translate zh_Hans son_sissy_storyline_138_225fb617:
@@ -12876,37 +12876,37 @@ translate zh_Hans son_sissy_storyline_138_5b175949:
 translate zh_Hans son_sissy_storyline_138_c8ed0721:
 
     # nvljenna "I hope he moves on to more exciting things soon 😉"
-    nvljenna "人家希望他能快点去追求更刺激的事情呢😉"
+    nvljenna "我希望他能快点去追求更刺激的事情呢😉"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6604
 translate zh_Hans son_sissy_storyline_138_7ae307e0:
 
     # nvlsson "Me too"
-    nvlsson "人家也是呢。"
+    nvlsson "我也是呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6606
 translate zh_Hans son_sissy_storyline_138_837098f9:
 
     # nvlsson "I'm hoping for that too 😊"
-    nvlsson "人家也希望是这样呢😊"
+    nvlsson "我也希望是这样呢😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6608
 translate zh_Hans son_sissy_storyline_138_a50b93c0:
 
     # nvljenna "You want him to fuck you at work?"
-    nvljenna "你想让爸爸在工作的地方好好疼爱人家吗？"
+    nvljenna "你想让他在工作的地方好好疼爱你吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6610
 translate zh_Hans son_sissy_storyline_138_357202c3_3:
 
     # nvlsson "Yes"
-    nvlsson "是的，人家明白了。"
+    nvlsson "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6612
 translate zh_Hans son_sissy_storyline_138_6ded1d39:
 
     # nvlsson "I really do"
-    nvlsson "人家真的好想呢。"
+    nvlsson "我真的好想呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6614
 translate zh_Hans son_sissy_storyline_138_771e75ad:
@@ -12954,13 +12954,13 @@ translate zh_Hans son_sissy_storyline_138_7a43d170:
 translate zh_Hans son_sissy_storyline_138_15271f82:
 
     # nvlsson "None of this would've happened without you"
-    nvlsson "没有你，人家才不会变成这样呢。"
+    nvlsson "没有你，我才不会变成这样呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6630
 translate zh_Hans son_sissy_storyline_138_fbc8fe60_1:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6632
 translate zh_Hans son_sissy_storyline_138_1f6a0ea9:
@@ -12984,13 +12984,13 @@ translate zh_Hans son_sissy_storyline_138_a9907ab0:
 translate zh_Hans son_sissy_storyline_138_ce9d9f9b:
 
     # nvlsson "I'll tell you straight away when it happens"
-    nvlsson "等事情发生了，人家会立刻告诉你的。"
+    nvlsson "等事情发生了，我会立刻告诉你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6640
 translate zh_Hans son_sissy_storyline_138_cf6c087f:
 
     # nvljenna "I'll be waiting"
-    nvljenna "人家会乖乖等着你的。"
+    nvljenna "我会乖乖等着你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6654
 translate zh_Hans son_sissy_storyline_138_53c71d7c:
@@ -13040,7 +13040,7 @@ translate zh_Hans son_sissy_storyline_139_09162021:
 translate zh_Hans son_sissy_storyline_139_77ce5293:
 
     # nvlvalerie "Boss just messaged me"
-    nvlvalerie "爸爸刚给人家发消息了。"
+    nvlvalerie "老板刚给我发消息了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6689
 translate zh_Hans son_sissy_storyline_139_c2329c35:
@@ -13052,7 +13052,7 @@ translate zh_Hans son_sissy_storyline_139_c2329c35:
 translate zh_Hans son_sissy_storyline_139_1d348fe6:
 
     # nvlvalerie "He wants us to come to his office again after work"
-    nvlvalerie "他想让下班后，人家再去他的办公室一趟。"
+    nvlvalerie "他想让下班后，我再去他的办公室一趟。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6693
 translate zh_Hans son_sissy_storyline_139_4e357dc0:
@@ -13076,37 +13076,37 @@ translate zh_Hans son_sissy_storyline_139_dba7cdc8:
 translate zh_Hans son_sissy_storyline_139_a14d635e:
 
     # nvlvalerie "Yes, I'm off"
-    nvlvalerie "是的，人家是休息。"
+    nvlvalerie "是的，我是休息。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6701
 translate zh_Hans son_sissy_storyline_139_8982407b:
 
     # nvlvalerie "But I'll come in"
-    nvlvalerie "但人家还是会去的。"
+    nvlvalerie "但我还是会去的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6703
 translate zh_Hans son_sissy_storyline_139_555e3e9f:
 
     # nvlvalerie "I have to"
-    nvlvalerie "人家必须去呢。"
+    nvlvalerie "我必须去呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6707
 translate zh_Hans son_sissy_storyline_139_c2f0fcea:
 
     # nvlvalerie "{a=show:show_chat_media}{image=valerie_video_2_ns}"
-    nvlvalerie ""
+    nvlvalerie "{a=show:show_chat_media}{image=valerie_video_2_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6711
 translate zh_Hans son_sissy_storyline_139_68b433ea:
 
     # nvlvalerie "I just met up with my boyfriend. He gave me flowers"
-    nvlvalerie "人家刚和男朋友见面了。他送了人家花。"
+    nvlvalerie "我刚和男朋友见面了。他送了我花。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6713
 translate zh_Hans son_sissy_storyline_139_a710f1c6:
 
     # nvlvalerie "And tonight I'm heading to the boss so he can fuck me"
-    nvlvalerie "今晚人家就要去爸爸那里，让他好好疼爱人家了。"
+    nvlvalerie "今晚我就要去老板那里，让他好好疼爱我了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6715
 translate zh_Hans son_sissy_storyline_139_498ce8bb:
@@ -13124,19 +13124,19 @@ translate zh_Hans son_sissy_storyline_139_49bd74f0:
 translate zh_Hans son_sissy_storyline_139_6e58d1e7:
 
     # nvlvalerie "I probably didn't mention it"
-    nvlvalerie "人家可能没提过吧。"
+    nvlvalerie "我可能没提过吧。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6721
 translate zh_Hans son_sissy_storyline_139_e513bfb8:
 
     # nvlvalerie "But yes, I have a boyfriend"
-    nvlvalerie "不过是的，人家有男朋友。"
+    nvlvalerie "不过是的，我有男朋友。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6723
 translate zh_Hans son_sissy_storyline_139_d95b1e4e:
 
     # nvlvalerie "Who I cheat on"
-    nvlvalerie "人家还背着他偷情呢。"
+    nvlvalerie "我还背着他偷情呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6725
 translate zh_Hans son_sissy_storyline_139_bf561715:
@@ -13148,7 +13148,7 @@ translate zh_Hans son_sissy_storyline_139_bf561715:
 translate zh_Hans son_sissy_storyline_139_810d6cbd:
 
     # nvlvalerie "😊"
-    nvlvalerie ""
+    nvlvalerie "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6729
 translate zh_Hans son_sissy_storyline_139_2662dfe7:
@@ -13214,7 +13214,7 @@ translate zh_Hans son_sissy_storyline_139_732dc445:
 translate zh_Hans son_sissy_storyline_139_2b16c870:
 
     # nvlsson "I understand"
-    nvlsson "人家明白了。"
+    nvlsson "我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6751
 translate zh_Hans son_sissy_storyline_139_8fdd78b3:
@@ -13258,7 +13258,7 @@ translate zh_Hans son_sissy_storyline_140_b2abbba1:
 translate zh_Hans son_sissy_storyline_140_1913086e:
 
     # nvlsson "No, I haven't"
-    nvlsson "没有呢，人家没有走。"
+    nvlsson "没有呢，我没有走。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6796
 translate zh_Hans son_sissy_storyline_140_2a04d7fe:
@@ -13288,13 +13288,13 @@ translate zh_Hans son_sissy_storyline_140_4f2b9cf2:
 translate zh_Hans son_sissy_storyline_140_4dd4fa1d:
 
     # nvlsson "No, I haven't said a word"
-    nvlsson "没有哦，人家一个字都没说呢。"
+    nvlsson "没有哦，我一个字都没说呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6806
 translate zh_Hans son_sissy_storyline_140_8b65bc6e:
 
     # nvlsson "Why would I?"
-    nvlsson "人家为什么要辞职呢？"
+    nvlsson "我为什么要辞职呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6808
 translate zh_Hans son_sissy_storyline_140_e5b9fdb5:
@@ -13324,13 +13324,13 @@ translate zh_Hans son_sissy_storyline_140_8f088448:
 translate zh_Hans son_sissy_storyline_140_f6a10fd0:
 
     # nvlsson "No, no plans"
-    nvlsson "没有哦，人家没有安排。"
+    nvlsson "没有哦，我没有安排。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6818
 translate zh_Hans son_sissy_storyline_140_4b8fddae:
 
     # nvlsson "We can go 😊"
-    nvlsson "人家们可以走啦😊"
+    nvlsson "我们可以走啦😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6820
 translate zh_Hans son_sissy_storyline_140_886bf866:
@@ -13354,7 +13354,7 @@ translate zh_Hans son_sissy_storyline_140_86ee0483:
 translate zh_Hans son_sissy_storyline_140_2b6bf0a8:
 
     # nvlsson "Haha, yeah, I completely agree"
-    nvlsson "哈哈，是呀，人家完全同意呢。"
+    nvlsson "哈哈，是呀，我完全同意呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6828
 translate zh_Hans son_sissy_storyline_140_78a99b46:
@@ -13390,7 +13390,7 @@ translate zh_Hans son_sissy_storyline_140_9cbdb153:
 translate zh_Hans son_sissy_storyline_140_66d49629:
 
     # nvlsson "I'll find it. Don't worry"
-    nvlsson "人家会找到的。别担心啦。"
+    nvlsson "我会找到的。别担心啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6840
 translate zh_Hans son_sissy_storyline_140_a4a0080c:
@@ -13482,7 +13482,7 @@ translate zh_Hans son_sissy_storyline_141_33a2d38f:
 translate zh_Hans son_sissy_storyline_141_62bd8b8c:
 
     # nvlsson "Going to a club with a friend"
-    nvlsson "人家要和朋友去俱乐部玩啦。"
+    nvlsson "我要和朋友去俱乐部玩啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6901
 translate zh_Hans son_sissy_storyline_141_e7015bbc:
@@ -13506,7 +13506,7 @@ translate zh_Hans son_sissy_storyline_141_e7b7b12d:
 translate zh_Hans son_sissy_storyline_141_ca6ef941:
 
     # nvlsson "What do you mean??"
-    nvlsson "你这是什么意思呀？人家不懂~"
+    nvlsson "你这是什么意思呀？我不懂~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6909
 translate zh_Hans son_sissy_storyline_141_b33aac6d:
@@ -13590,7 +13590,7 @@ translate zh_Hans son_sissy_storyline_141_a091a9c7:
 translate zh_Hans son_sissy_storyline_141_357202c3:
 
     # nvlsson "Yes"
-    nvlsson "是的，人家明白了。"
+    nvlsson "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6937
 translate zh_Hans son_sissy_storyline_141_14156bf0:
@@ -13620,7 +13620,7 @@ translate zh_Hans son_sissy_storyline_141_7cac89b0:
 translate zh_Hans son_sissy_storyline_141_65d93e7c:
 
     # nvlsson "Did you message me just to interrogate me or something?"
-    nvlsson "你发消息给人家，就是为了审问人家吗？"
+    nvlsson "你发消息给我，就是为了审问我吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6947
 translate zh_Hans son_sissy_storyline_141_bd39da12:
@@ -13644,7 +13644,7 @@ translate zh_Hans son_sissy_storyline_141_3da63821:
 translate zh_Hans son_sissy_storyline_141_293d21ea:
 
     # nvlsson "I can't tonight"
-    nvlsson "人家今晚不行啦。"
+    nvlsson "我今晚不行啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6955
 translate zh_Hans son_sissy_storyline_141_a5c9cf56:
@@ -13662,7 +13662,7 @@ translate zh_Hans son_sissy_storyline_141_2b1dc903:
 translate zh_Hans son_sissy_storyline_141_e6e769fa:
 
     # nvlharry "You come over, give me a blowjob, then head off to the club with your friend"
-    nvlharry "你过来，给爸爸口交，然后就可以和你的朋友去夜店了。"
+    nvlharry "你过来，给我口交，然后就可以和你的朋友去夜店了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6961
 translate zh_Hans son_sissy_storyline_141_bbff2a80:
@@ -13674,19 +13674,19 @@ translate zh_Hans son_sissy_storyline_141_bbff2a80:
 translate zh_Hans son_sissy_storyline_141_41ca5791:
 
     # nvlharry "I want you tonight"
-    nvlharry "爸爸今晚就要你。"
+    nvlharry "我今晚就要你。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6965
 translate zh_Hans son_sissy_storyline_141_abd661af:
 
     # nvlharry "I'm really horny"
-    nvlharry "爸爸现在欲火焚身。"
+    nvlharry "我现在欲火焚身。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6969
 translate zh_Hans son_sissy_storyline_141_066aefab:
 
     # nvlharry "{a=show:show_chat_media}{image=dick_pic_20}"
-    nvlharry ""
+    nvlharry "{a=show:show_chat_media}{image=dick_pic_20}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6973
 translate zh_Hans son_sissy_storyline_141_08b7dae3:
@@ -13698,13 +13698,13 @@ translate zh_Hans son_sissy_storyline_141_08b7dae3:
 translate zh_Hans son_sissy_storyline_141_f384d52c:
 
     # nvlharry "Or I could come to your place instead"
-    nvlharry "或者，爸爸也可以去你那里。"
+    nvlharry "或者，我也可以去你那里。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6977
 translate zh_Hans son_sissy_storyline_141_012206cd:
 
     # nvlharry "I'll be free at 8"
-    nvlharry "爸爸八点有空。"
+    nvlharry "我八点有空。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6979
 translate zh_Hans son_sissy_storyline_141_d27469fd_1:
@@ -13716,13 +13716,13 @@ translate zh_Hans son_sissy_storyline_141_d27469fd_1:
 translate zh_Hans son_sissy_storyline_141_99d5117a:
 
     # nvlharry "Come on, say yes"
-    nvlharry "求你了，就答应人家嘛，好不好？"
+    nvlharry "求你了，就答应我嘛，好不好？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6983
 translate zh_Hans son_sissy_storyline_141_28927ca2:
 
     # nvlharry "I know you want it too"
-    nvlharry "爸爸知道，你心里也想要，对不对？"
+    nvlharry "我知道，你心里也想要，对不对？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6985
 translate zh_Hans son_sissy_storyline_141_2793842f:
@@ -13734,7 +13734,7 @@ translate zh_Hans son_sissy_storyline_141_2793842f:
 translate zh_Hans son_sissy_storyline_141_235d4c6f:
 
     # nvlharry "You want to taste my cum again, don't you?"
-    nvlharry "你是不是又想尝尝爸爸的精华了，嗯？"
+    nvlharry "你是不是又想尝尝我的精华了，嗯？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6989
 translate zh_Hans son_sissy_storyline_141_3f497777:
@@ -13746,7 +13746,7 @@ translate zh_Hans son_sissy_storyline_141_3f497777:
 translate zh_Hans son_sissy_storyline_141_214106c9:
 
     # nvlsson "I'll be there at 8"
-    nvlsson "人家八点会到的。"
+    nvlsson "我八点会到的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:6993
 translate zh_Hans son_sissy_storyline_141_80d58cb7:
@@ -13776,13 +13776,13 @@ translate zh_Hans son_sissy_storyline_141_f490c673:
 translate zh_Hans son_sissy_storyline_141_b3fa5c08:
 
     # nvlsson "I'm serious"
-    nvlsson "人家是认真的。"
+    nvlsson "我是认真的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7003
 translate zh_Hans son_sissy_storyline_141_33a41ff1:
 
     # nvlsson "I need to be at the club by 9"
-    nvlsson "人家九点前必须到夜店的。"
+    nvlsson "我九点前必须到夜店的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7005
 translate zh_Hans son_sissy_storyline_141_0b249bd9:
@@ -13794,7 +13794,7 @@ translate zh_Hans son_sissy_storyline_141_0b249bd9:
 translate zh_Hans son_sissy_storyline_141_863ee9fa:
 
     # nvlharry "I'll be waiting for you at 8"
-    nvlharry "爸爸八点等你。"
+    nvlharry "我八点等你。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7021
 translate zh_Hans son_sissy_storyline_141_53c71d7c:
@@ -13820,13 +13820,13 @@ translate zh_Hans son_sissy_storyline_142_87bc62a7:
 translate zh_Hans son_sissy_storyline_142_963b5943:
 
     # nvlsson "{a=show:show_chat_media}{image=mikky_pic_44}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=mikky_pic_44}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7052
 translate zh_Hans son_sissy_storyline_142_60ae08c3:
 
     # nvlsson "I'm ready 😊"
-    nvlsson "人家已经准备好，随时等你吩咐啦😊"
+    nvlsson "我已经准备好，随时等你吩咐啦😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7054
 translate zh_Hans son_sissy_storyline_142_d439e8a8:
@@ -13868,13 +13868,13 @@ translate zh_Hans son_sissy_storyline_142_9ec49eff:
 translate zh_Hans son_sissy_storyline_142_6b3f93fb:
 
     # nvlsson "I need to stop somewhere on the way"
-    nvlsson "人家路上还要去个地方。"
+    nvlsson "我路上还要去个地方。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7068
 translate zh_Hans son_sissy_storyline_142_9624d747:
 
     # nvlsson "That's why I'm ready early"
-    nvlsson "所以人家才早早准备好啦。"
+    nvlsson "所以我才早早准备好啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7070
 translate zh_Hans son_sissy_storyline_142_e8da45f6:
@@ -13904,7 +13904,7 @@ translate zh_Hans son_sissy_storyline_142_8a2f5b31:
 translate zh_Hans son_sissy_storyline_142_56a7488b:
 
     # nvlvalerie "I'll start getting ready too"
-    nvlvalerie "爸爸也该准备一下了。"
+    nvlvalerie "我也该准备一下了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7080
 translate zh_Hans son_sissy_storyline_142_ac490583:
@@ -13936,13 +13936,13 @@ translate zh_Hans son_sissy_storyline_143_6e0262a8:
 translate zh_Hans son_sissy_storyline_143_f4f5e8b3:
 
     # nvlvalerie "I've been in the club for half an hour now, just so you know"
-    nvlvalerie "人家已经在夜店等了半小时了哦，跟你说一声。"
+    nvlvalerie "我已经在夜店等了半小时了哦，跟你说一声。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7121
 translate zh_Hans son_sissy_storyline_143_98be1a4c:
 
     # nvlvalerie "{a=show:show_chat_media}{image=valerie_video_3_ns}"
-    nvlvalerie ""
+    nvlvalerie "{a=show:show_chat_media}{image=valerie_video_3_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7125
 translate zh_Hans son_sissy_storyline_143_9e6a69e8:
@@ -13954,7 +13954,7 @@ translate zh_Hans son_sissy_storyline_143_9e6a69e8:
 translate zh_Hans son_sissy_storyline_143_743089f5:
 
     # nvlvalerie "I've had a couple of cocktails while waiting for you, just so you know"
-    nvlvalerie "人家等你的时候，已经喝了两杯鸡尾酒了哦，你知道吗？"
+    nvlvalerie "我等你的时候，已经喝了两杯鸡尾酒了哦，你知道吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7129
 translate zh_Hans son_sissy_storyline_143_1739876e:
@@ -13972,19 +13972,19 @@ translate zh_Hans son_sissy_storyline_143_5584a530:
 translate zh_Hans son_sissy_storyline_143_6e9c4ca4:
 
     # nvlvalerie "Call me when you get here"
-    nvlvalerie "你到了就给人家打电话。"
+    nvlvalerie "你到了就给我打电话。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7135
 translate zh_Hans son_sissy_storyline_143_74db0480:
 
     # nvlvalerie "Or better yet, send me a message"
-    nvlvalerie "或者，发消息给人家更好啦。"
+    nvlvalerie "或者，发消息给我更好啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7137
 translate zh_Hans son_sissy_storyline_143_3d013576:
 
     # nvlvalerie "I'm waiting for you"
-    nvlvalerie "人家在等你呢，身子都酥麻了，好想你快点回来。"
+    nvlvalerie "我在等你呢，身子都酥麻了，好想你快点回来。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7149
 translate zh_Hans son_sissy_storyline_143_53c71d7c:
@@ -14106,13 +14106,13 @@ translate zh_Hans son_sissy_storyline_144_3c6a4a52:
     # nvl clear
     # nvlsson "Sorry, please forgive me"
     nvl clear
-    nvlsson "对不起嘛，人家求你原谅好不好？"
+    nvlsson "对不起嘛，我求你原谅好不好？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7236
 translate zh_Hans son_sissy_storyline_144_c21ce063:
 
     # nvlsson "I got held up"
-    nvlsson "人家被耽搁了一下下。"
+    nvlsson "我被耽搁了一下下。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7238
 translate zh_Hans son_sissy_storyline_144_b9428443:
@@ -14124,37 +14124,37 @@ translate zh_Hans son_sissy_storyline_144_b9428443:
 translate zh_Hans son_sissy_storyline_144_e2d35a04:
 
     # nvlsson "I've arrived, just so you know"
-    nvlsson "人家已经到啦，跟你说一声哦。"
+    nvlsson "我已经到啦，跟你说一声哦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7242
 translate zh_Hans son_sissy_storyline_144_07dc4037:
 
     # nvlsson "Let me know when you see this message"
-    nvlsson "你看到这条消息的时候，跟人家说一声嘛。"
+    nvlsson "你看到这条消息的时候，跟我说一声嘛。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7244
 translate zh_Hans son_sissy_storyline_144_c61d9fd3:
 
     # nvlsson "Or meet me at the bar"
-    nvlsson "或者，来吧台找人家也可以呀。"
+    nvlsson "或者，来吧台找我也可以呀。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7246
 translate zh_Hans son_sissy_storyline_144_f3544aff:
 
     # nvlsson "I'll be there"
-    nvlsson "人家会在那里的。"
+    nvlsson "我会在那里的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7248
 translate zh_Hans son_sissy_storyline_144_10846870:
 
     # nvlsson "Sorry again"
-    nvlsson "人家又说对不起啦。"
+    nvlsson "我又说对不起啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7250
 translate zh_Hans son_sissy_storyline_144_64ba8fa1:
 
     # nvlsson "I didn't think this would happen"
-    nvlsson "人家真的没想到会这样嘛。"
+    nvlsson "我真的没想到会这样嘛。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7266
 translate zh_Hans son_sissy_storyline_144_53c71d7c:
@@ -14180,19 +14180,19 @@ translate zh_Hans son_sissy_storyline_145_acb2ab95:
 translate zh_Hans son_sissy_storyline_145_856f498a:
 
     # nvlsson "I'm really sorry"
-    nvlsson "人家真的、真的好抱歉。"
+    nvlsson "我真的、真的好抱歉。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7293
 translate zh_Hans son_sissy_storyline_145_877744cf:
 
     # nvlsson "I didn't think it would take so long"
-    nvlsson "人家没想到会耽搁这么久。"
+    nvlsson "我没想到会耽搁这么久。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7295
 translate zh_Hans son_sissy_storyline_145_c6598f98:
 
     # nvlsson "I thought I'd be done in half an hour"
-    nvlsson "人家以为半小时就能搞定呢。"
+    nvlsson "我以为半小时就能搞定呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7297
 translate zh_Hans son_sissy_storyline_145_68a267f0:
@@ -14216,13 +14216,13 @@ translate zh_Hans son_sissy_storyline_145_106f37a3:
 translate zh_Hans son_sissy_storyline_145_7bab5a21:
 
     # nvlsson "As I said, I didn't know this would happen"
-    nvlsson "人家都说了嘛，人家也不知道会这样呀。"
+    nvlsson "我都说了嘛，我也不知道会这样呀。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7305
 translate zh_Hans son_sissy_storyline_145_f1681051:
 
     # nvlsson "I thought I'd make it on time"
-    nvlsson "人家以为自己能准时到的。"
+    nvlsson "我以为自己能准时到的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7307
 translate zh_Hans son_sissy_storyline_145_ae093559:
@@ -14240,7 +14240,7 @@ translate zh_Hans son_sissy_storyline_145_80027731:
 translate zh_Hans son_sissy_storyline_145_57c6040a:
 
     # nvlsson "I texted you when I finally arrived"
-    nvlsson "人家好不容易到了才给你发的消息呢。"
+    nvlsson "我好不容易到了才给你发的消息呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7313
 translate zh_Hans son_sissy_storyline_145_19139d7e:
@@ -14258,13 +14258,13 @@ translate zh_Hans son_sissy_storyline_145_bf561715:
 translate zh_Hans son_sissy_storyline_145_095b6cfb:
 
     # nvlsson "I'm sorry again"
-    nvlsson "人家又让你失望了，真的好抱歉。"
+    nvlsson "我又让你失望了，真的好抱歉。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7319
 translate zh_Hans son_sissy_storyline_145_8d91c91c:
 
     # nvlsson "How about we go next week if you're free?"
-    nvlsson "那下周你有空的话，人家再陪你去好不好？"
+    nvlsson "那下周你有空的话，我再陪你去好不好？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7321
 translate zh_Hans son_sissy_storyline_145_a9fc78c9:
@@ -14282,7 +14282,7 @@ translate zh_Hans son_sissy_storyline_145_f8db8dfb:
 translate zh_Hans son_sissy_storyline_145_b54b88aa:
 
     # nvlsson "Next week, I won't go anywhere before the club"
-    nvlsson "下周人家保证，在去俱乐部之前，哪里都不会去啦！"
+    nvlsson "下周我保证，在去俱乐部之前，哪里都不会去啦！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7327
 translate zh_Hans son_sissy_storyline_145_8ec95c27:
@@ -14336,7 +14336,7 @@ translate zh_Hans son_sissy_storyline_145_3ee19aeb:
 translate zh_Hans son_sissy_storyline_145_fedf7805:
 
     # nvlvalerie "I hope so"
-    nvlvalerie "人家也希望是这样呢。"
+    nvlvalerie "我也希望是这样呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7345
 translate zh_Hans son_sissy_storyline_145_1d0b26b1:
@@ -14416,7 +14416,7 @@ translate zh_Hans son_sissy_storyline_146_7f892800:
 translate zh_Hans son_sissy_storyline_146_f54d5cc6:
 
     # nvlharry "Because of me?"
-    nvlharry "因为人家吗？"
+    nvlharry "因为我吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7402
 translate zh_Hans son_sissy_storyline_146_2e9b7532:
@@ -14440,13 +14440,13 @@ translate zh_Hans son_sissy_storyline_146_1eaa642f:
 translate zh_Hans son_sissy_storyline_146_aee120bf:
 
     # nvlharry "It's not like you didn't enjoy yourself 😉"
-    nvlharry "你呀，也不是没被人家伺候得舒服开心呢😉"
+    nvlharry "你呀，也不是没被我伺候得舒服开心呢😉"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7410
 translate zh_Hans son_sissy_storyline_146_69d800f1:
 
     # nvlsson "I'm never coming to you like that again"
-    nvlsson "人家再也不要那样来找你了啦！"
+    nvlsson "我再也不要那样来找你了啦！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7412
 translate zh_Hans son_sissy_storyline_146_c163b9af:
@@ -14464,7 +14464,7 @@ translate zh_Hans son_sissy_storyline_146_4d08a879:
 translate zh_Hans son_sissy_storyline_146_406b188f:
 
     # nvlsson "Because of you, I almost argued with my friend"
-    nvlsson "都怪你啦，人家差点要和朋友吵架了呢。"
+    nvlsson "都怪你啦，我差点要和朋友吵架了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7418
 translate zh_Hans son_sissy_storyline_146_9f6fc729:
@@ -14590,7 +14590,7 @@ translate zh_Hans son_sissy_storyline_146_bfc681f6:
 translate zh_Hans son_sissy_storyline_146_18f847e7:
 
     # nvlharry "Yes"
-    nvlharry "是的，人家明白了。"
+    nvlharry "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7460
 translate zh_Hans son_sissy_storyline_146_b9243110:
@@ -14602,7 +14602,7 @@ translate zh_Hans son_sissy_storyline_146_b9243110:
 translate zh_Hans son_sissy_storyline_146_c1606c14:
 
     # nvlharry "{a=show:show_chat_media}{image=valerie_video_4_ns}"
-    nvlharry ""
+    nvlharry "{a=show:show_chat_media}{image=valerie_video_4_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7468
 translate zh_Hans son_sissy_storyline_146_54236574:
@@ -14620,7 +14620,7 @@ translate zh_Hans son_sissy_storyline_146_740eba2a:
 translate zh_Hans son_sissy_storyline_146_3402fcc8:
 
     # nvlharry "Trust me, it's her 😊"
-    nvlharry "大人，你相信人家嘛，就是她啦~"
+    nvlharry "大人，你相信我嘛，就是她啦~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7474
 translate zh_Hans son_sissy_storyline_146_4f6d845e:
@@ -14728,7 +14728,7 @@ translate zh_Hans son_sissy_storyline_146_b6c26514:
 translate zh_Hans son_sissy_storyline_146_90b420da:
 
     # nvlsson "I have to work"
-    nvlsson "人家要工作了啦。"
+    nvlsson "我要工作了啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7510
 translate zh_Hans son_sissy_storyline_146_bcac2c64_1:
@@ -14802,7 +14802,7 @@ translate zh_Hans son_sissy_storyline_147_2719f059:
 translate zh_Hans son_sissy_storyline_147_3e6969d8:
 
     # nvlsson "I'm at school"
-    nvlsson "人家在学校呢。"
+    nvlsson "我在学校呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7567
 translate zh_Hans son_sissy_storyline_147_ab1a92c5:
@@ -14820,7 +14820,7 @@ translate zh_Hans son_sissy_storyline_147_c3bcf85f:
 translate zh_Hans son_sissy_storyline_147_8cd5fb9d:
 
     # nvltrevor "Yes, right now"
-    nvltrevor "嗯，人家现在就想见到你！"
+    nvltrevor "嗯，我现在就想见到你！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7573
 translate zh_Hans son_sissy_storyline_147_2a8dceef:
@@ -14832,19 +14832,19 @@ translate zh_Hans son_sissy_storyline_147_2a8dceef:
 translate zh_Hans son_sissy_storyline_147_535b9061:
 
     # nvlsson "Alright"
-    nvlsson "遵命，大人，这就给你看。"
+    nvlsson "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7577
 translate zh_Hans son_sissy_storyline_147_a31270a0:
 
     # nvlsson "I'll take a photo for you now"
-    nvlsson "人家现在就给你拍一张照片吧。"
+    nvlsson "我现在就给你拍一张照片吧。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7581
 translate zh_Hans son_sissy_storyline_147_ff4e8b5d:
 
     # nvlsson "{a=show:show_chat_media}{image=mikky_pic_45}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=mikky_pic_45}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7585
 translate zh_Hans son_sissy_storyline_147_61ff49e8:
@@ -14856,7 +14856,7 @@ translate zh_Hans son_sissy_storyline_147_61ff49e8:
 translate zh_Hans son_sissy_storyline_147_f19b283c:
 
     # nvltrevor "Yes, more than satisfied 😊"
-    nvltrevor "嗯，人家可满意了呢，身子都酥麻了~"
+    nvltrevor "嗯，我可满意了呢，身子都酥麻了~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7589
 translate zh_Hans son_sissy_storyline_147_01334db5:
@@ -14880,19 +14880,19 @@ translate zh_Hans son_sissy_storyline_147_48652bb0:
 translate zh_Hans son_sissy_storyline_147_467ff01a:
 
     # nvltrevor "I miss you so much"
-    nvltrevor "人家好想你呀。"
+    nvltrevor "我好想你呀。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7597
 translate zh_Hans son_sissy_storyline_147_801231d8:
 
     # nvlsson "I'm not sure what I'll be doing yet"
-    nvlsson "人家还不确定自己会忙些什么呢……"
+    nvlsson "我还不确定自己会忙些什么呢……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7599
 translate zh_Hans son_sissy_storyline_147_23bffef4:
 
     # nvlsson "If I have time, I'll come over"
-    nvlsson "如果人家有空的话，就过来找你好不好？"
+    nvlsson "如果我有空的话，就过来找你好不好？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7601
 translate zh_Hans son_sissy_storyline_147_235c4fca:
@@ -14916,7 +14916,7 @@ translate zh_Hans son_sissy_storyline_147_e91ddaa0:
 translate zh_Hans son_sissy_storyline_147_59dfe749:
 
     # nvltrevor "{a=show:show_chat_media}{image=mikky_pic_46}"
-    nvltrevor ""
+    nvltrevor "{a=show:show_chat_media}{image=mikky_pic_46}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7613
 translate zh_Hans son_sissy_storyline_147_6888b2bf:
@@ -14934,13 +14934,13 @@ translate zh_Hans son_sissy_storyline_147_14cc0250:
 translate zh_Hans son_sissy_storyline_147_c16ac3aa:
 
     # nvlsson "Yes, I remember"
-    nvlsson "是的，人家记得的，爸爸。"
+    nvlsson "是的，我记得的，爸爸。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7619
 translate zh_Hans son_sissy_storyline_147_a00b1761:
 
     # nvltrevor "😊"
-    nvltrevor ""
+    nvltrevor "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7621
 translate zh_Hans son_sissy_storyline_147_b879a069:
@@ -14958,13 +14958,13 @@ translate zh_Hans son_sissy_storyline_147_ca90ba4c:
 translate zh_Hans son_sissy_storyline_147_6bfddb66:
 
     # nvlsson "I'll try"
-    nvlsson "人家会努力的。"
+    nvlsson "我会努力的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7627
 translate zh_Hans son_sissy_storyline_147_cb27634a:
 
     # nvlsson "But no promises"
-    nvlsson "可是人家不敢保证哦，万一到时候身子不听话怎么办嘛……"
+    nvlsson "可是我不敢保证哦，万一到时候身子不听话怎么办嘛……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7641
 translate zh_Hans son_sissy_storyline_147_53c71d7c:
@@ -15008,7 +15008,7 @@ translate zh_Hans son_sissy_storyline_148_5bebd99c:
 translate zh_Hans son_sissy_storyline_148_50612c0f:
 
     # nvljim "I'll be waiting"
-    nvljim "人家会乖乖等着你的。"
+    nvljim "我会乖乖等着你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7686
 translate zh_Hans son_sissy_storyline_148_53c71d7c:
@@ -15040,7 +15040,7 @@ translate zh_Hans son_sissy_storyline_149_9dbfde01:
 translate zh_Hans son_sissy_storyline_149_81b977e6:
 
     # nvljim "I thought we discussed this yesterday"
-    nvljim "人家以为我们昨天已经说好了呢，爸爸……"
+    nvljim "我以为我们昨天已经说好了呢……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7715
 translate zh_Hans son_sissy_storyline_149_ddb36b67:
@@ -15052,7 +15052,7 @@ translate zh_Hans son_sissy_storyline_149_ddb36b67:
 translate zh_Hans son_sissy_storyline_149_5b966516:
 
     # nvlsson "No, no, everything's fine"
-    nvlsson "没有没有，人家没事啦，爸爸别生气嘛……"
+    nvlsson "没有没有，我没事啦，爸爸别生气嘛……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7719
 translate zh_Hans son_sissy_storyline_149_2fa20a9f:
@@ -15064,7 +15064,7 @@ translate zh_Hans son_sissy_storyline_149_2fa20a9f:
 translate zh_Hans son_sissy_storyline_149_03177083:
 
     # nvlsson "{a=show:show_chat_media}{image=mikky_pic_47}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=mikky_pic_47}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7727
 translate zh_Hans son_sissy_storyline_149_5288d90e:
@@ -15082,7 +15082,7 @@ translate zh_Hans son_sissy_storyline_149_db50a79e:
 translate zh_Hans son_sissy_storyline_149_357202c3:
 
     # nvlsson "Yes"
-    nvlsson "是的，人家明白了。"
+    nvlsson "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7733
 translate zh_Hans son_sissy_storyline_149_6e97efb9:
@@ -15094,13 +15094,13 @@ translate zh_Hans son_sissy_storyline_149_6e97efb9:
 translate zh_Hans son_sissy_storyline_149_5c91c049:
 
     # nvlsson "I do wear smaller ones"
-    nvlsson "人家平时是戴小一点的啦……"
+    nvlsson "我平时是戴小一点的啦……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7737
 translate zh_Hans son_sissy_storyline_149_9a6b227a:
 
     # nvlsson "But today I put in this butt plug"
-    nvlsson "可是今天人家想试试这个大一点的肛塞嘛……"
+    nvlsson "可是今天我想试试这个大一点的肛塞嘛……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7739
 translate zh_Hans son_sissy_storyline_149_3e448a87:
@@ -15124,13 +15124,13 @@ translate zh_Hans son_sissy_storyline_149_6130212b:
 translate zh_Hans son_sissy_storyline_149_32ec578a:
 
     # nvlsson "Well, it's alright"
-    nvlsson "嗯……就那样吧，人家也说不上来……"
+    nvlsson "嗯……就那样吧，我也说不上来……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7747
 translate zh_Hans son_sissy_storyline_149_0b363111:
 
     # nvlsson "I hardly feel anything, to be honest"
-    nvlsson "说实话，人家几乎感觉不到什么呢，爸爸……是不是人家不够敏感呀？"
+    nvlsson "说实话，我几乎感觉不到什么呢，爸爸……是不是我不够敏感呀？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7749
 translate zh_Hans son_sissy_storyline_149_d671536b:
@@ -15160,13 +15160,13 @@ translate zh_Hans son_sissy_storyline_149_3b8167e0:
 translate zh_Hans son_sissy_storyline_149_9a004c7e:
 
     # nvlsson "It's not always enjoyable"
-    nvlsson "也不是总能让人家感到愉悦啦，爸爸……"
+    nvlsson "也不是总能让我感到愉悦啦，爸爸……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7759
 translate zh_Hans son_sissy_storyline_149_fc349d89:
 
     # nvlsson "But sometimes, if you move or sit a certain way, it feels a little nice"
-    nvlsson "不过有时候，如果人家不小心动了动，或者坐姿不对，就会有一点点酥麻的感觉呢……好奇怪哦……"
+    nvlsson "不过有时候，如果我不小心动了动，或者坐姿不对，就会有一点点酥麻的感觉呢……好奇怪哦……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7761
 translate zh_Hans son_sissy_storyline_149_3e448a87_1:
@@ -15184,25 +15184,25 @@ translate zh_Hans son_sissy_storyline_149_1ff9618a:
 translate zh_Hans son_sissy_storyline_149_b5b693d2:
 
     # nvlsson "It's hard to say"
-    nvlsson "这个嘛，人家也说不好啦……"
+    nvlsson "这个嘛，我也说不好啦……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7767
 translate zh_Hans son_sissy_storyline_149_4742373e:
 
     # nvlsson "It probably excites me"
-    nvlsson "它可能让人家有点兴奋吧，爸爸……"
+    nvlsson "它可能让我有点兴奋吧，爸爸……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7769
 translate zh_Hans son_sissy_storyline_149_dd2cb6a8:
 
     # nvlsson "I feel more like a girl when I'm wearing the chastity"
-    nvlsson "戴着贞操带的时候，人家感觉自己更像个女孩子了呢，爸爸……身子都软了……"
+    nvlsson "戴着贞操带的时候，我感觉自己更像个女孩子了呢，爸爸……身子都软了……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7771
 translate zh_Hans son_sissy_storyline_149_65d1f7cd:
 
     # nvlsson "But I don't feel direct arousal"
-    nvlsson "不过，人家并没有直接的生理冲动啦，只是心里痒痒的……"
+    nvlsson "不过，我并没有直接的生理冲动啦，只是心里痒痒的……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7773
 translate zh_Hans son_sissy_storyline_149_d48a8cc6:
@@ -15214,7 +15214,7 @@ translate zh_Hans son_sissy_storyline_149_d48a8cc6:
 translate zh_Hans son_sissy_storyline_149_3b281963:
 
     # nvlsson "I need to get back to work, Mr Jim"
-    nvlsson "吉姆先生，人家得回去工作了啦……"
+    nvlsson "吉姆先生，我得回去工作了啦……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7777
 translate zh_Hans son_sissy_storyline_149_7542becd:
@@ -15226,7 +15226,7 @@ translate zh_Hans son_sissy_storyline_149_7542becd:
 translate zh_Hans son_sissy_storyline_149_ce99439d:
 
     # nvlsson "I can't keep texting now"
-    nvlsson "人家现在不能一直发信息了啦，会被发现的……"
+    nvlsson "我现在不能一直发信息了啦，会被发现的……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7781
 translate zh_Hans son_sissy_storyline_149_1b388746:
@@ -15244,7 +15244,7 @@ translate zh_Hans son_sissy_storyline_149_794af442:
 translate zh_Hans son_sissy_storyline_149_13f3aa96:
 
     # nvlsson "With Valerie?"
-    nvlsson "和瓦莱丽一起吗？人家一个人有点怕怕的……"
+    nvlsson "和瓦莱丽一起吗？我一个人有点怕怕的……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7787
 translate zh_Hans son_sissy_storyline_149_8d2139d6:
@@ -15262,7 +15262,7 @@ translate zh_Hans son_sissy_storyline_149_c73e6419:
 translate zh_Hans son_sissy_storyline_149_dee52ad5:
 
     # nvlsson "Oh, alright"
-    nvlsson "哦，好吧……那人家就一个人去咯……"
+    nvlsson "哦，好吧……那我就一个人去咯……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7793
 translate zh_Hans son_sissy_storyline_149_f938a002:
@@ -15274,7 +15274,7 @@ translate zh_Hans son_sissy_storyline_149_f938a002:
 translate zh_Hans son_sissy_storyline_149_9027692b:
 
     # nvljim "{a=show:show_chat_media}{image=valerie_pic_1}"
-    nvljim ""
+    nvljim "{a=show:show_chat_media}{image=valerie_pic_1}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7801
 translate zh_Hans son_sissy_storyline_149_10491020:
@@ -15286,7 +15286,7 @@ translate zh_Hans son_sissy_storyline_149_10491020:
 translate zh_Hans son_sissy_storyline_149_938a7db5:
 
     # nvlsson "Understood"
-    nvlsson "人家知道了。"
+    nvlsson "我知道了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7805
 translate zh_Hans son_sissy_storyline_149_b84d2db5:
@@ -15298,19 +15298,19 @@ translate zh_Hans son_sissy_storyline_149_b84d2db5:
 translate zh_Hans son_sissy_storyline_149_4320ee63:
 
     # nvljim "Don't forget to come by after work"
-    nvljim "下班后，大人可别忘了过来疼爱人家哦。"
+    nvljim "下班后，大人可别忘了过来疼爱我哦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7809
 translate zh_Hans son_sissy_storyline_149_56641bd7:
 
     # nvlsson "Yes, of course, I'll stop by"
-    nvlsson "嗯，大人吩咐的，人家当然会乖乖过去。"
+    nvlsson "嗯，爸爸吩咐的，我当然会乖乖过去。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7811
 translate zh_Hans son_sissy_storyline_149_50612c0f:
 
     # nvljim "I'll be waiting"
-    nvljim "人家会乖乖等着你的。"
+    nvljim "我会乖乖等着你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7825
 translate zh_Hans son_sissy_storyline_149_53c71d7c:
@@ -15348,7 +15348,7 @@ translate zh_Hans son_sissy_storyline_150_1b140d9c:
 translate zh_Hans son_sissy_storyline_150_833bdb37:
 
     # nvlsson "I'm doing well"
-    nvlsson "人家过得很好呢。"
+    nvlsson "我过得很好呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7856
 translate zh_Hans son_sissy_storyline_150_051e7e5f:
@@ -15366,13 +15366,13 @@ translate zh_Hans son_sissy_storyline_150_02b6ff4d:
 translate zh_Hans son_sissy_storyline_150_a0f6e8c5:
 
     # nvltrevor "Thinking about you"
-    nvltrevor "人家无时无刻不在想念大人呢。"
+    nvltrevor "我无时无刻不在想念大人呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7862
 translate zh_Hans son_sissy_storyline_150_75f59df5:
 
     # nvlsson "About me?"
-    nvlsson "想大人什么呢？"
+    nvlsson "想我什么呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7864
 translate zh_Hans son_sissy_storyline_150_34cd0e3e:
@@ -15384,19 +15384,19 @@ translate zh_Hans son_sissy_storyline_150_34cd0e3e:
 translate zh_Hans son_sissy_storyline_150_ad46bcee:
 
     # nvlsson "What are you thinking about me?"
-    nvlsson "你都在想大人什么呢？"
+    nvlsson "你都在想我什么呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7868
 translate zh_Hans son_sissy_storyline_150_9890b1cb:
 
     # nvltrevor "Remembering our last time together"
-    nvltrevor "人家在回味我们上次在一起的缠绵呢。"
+    nvltrevor "我在回味我们上次在一起的缠绵呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7870
 translate zh_Hans son_sissy_storyline_150_fa0e7ce5:
 
     # nvltrevor "How I fucked you"
-    nvltrevor "大人是如何狠狠地疼爱了人家。"
+    nvltrevor "大人是如何狠狠地疼爱了我。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7872
 translate zh_Hans son_sissy_storyline_150_5cd0453c:
@@ -15408,7 +15408,7 @@ translate zh_Hans son_sissy_storyline_150_5cd0453c:
 translate zh_Hans son_sissy_storyline_150_af92dadb:
 
     # nvlsson "I see 😊"
-    nvlsson "人家知道了呢~"
+    nvlsson "我知道了呢~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7876
 translate zh_Hans son_sissy_storyline_150_1b013898:
@@ -15420,7 +15420,7 @@ translate zh_Hans son_sissy_storyline_150_1b013898:
 translate zh_Hans son_sissy_storyline_150_2afeca2b:
 
     # nvlsson "Do you want to?"
-    nvlsson "人家想吗？"
+    nvlsson "我想吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7880
 translate zh_Hans son_sissy_storyline_150_34cd0e3e_1:
@@ -15432,31 +15432,31 @@ translate zh_Hans son_sissy_storyline_150_34cd0e3e_1:
 translate zh_Hans son_sissy_storyline_150_498d1517:
 
     # nvltrevor "I really do"
-    nvltrevor "人家真的好想呢。"
+    nvltrevor "我真的好想呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7886
 translate zh_Hans son_sissy_storyline_150_fe5306e2:
 
     # nvltrevor "{a=show:show_chat_media}{image=mikky_pic_48}"
-    nvltrevor ""
+    nvltrevor "{a=show:show_chat_media}{image=mikky_pic_48}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7890
 translate zh_Hans son_sissy_storyline_150_253baceb:
 
     # nvltrevor "I want to fuck you again"
-    nvltrevor "大人好想再狠狠地疼爱人家一次呢。"
+    nvltrevor "大人好想再狠狠地疼爱我一次呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7892
 translate zh_Hans son_sissy_storyline_150_798c538a:
 
     # nvltrevor "Slide my cock into your sweet bum"
-    nvltrevor "把大人的宝贝深深地送进人家甜美的小穴里。"
+    nvltrevor "把大人的宝贝深深地送进我甜美的小穴里。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7894
 translate zh_Hans son_sissy_storyline_150_eb79ab03:
 
     # nvltrevor "And pound you without stopping"
-    nvltrevor "然后不知疲倦地狠狠贯穿人家。"
+    nvltrevor "然后不知疲倦地狠狠贯穿我。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7896
 translate zh_Hans son_sissy_storyline_150_09174af9:
@@ -15468,25 +15468,25 @@ translate zh_Hans son_sissy_storyline_150_09174af9:
 translate zh_Hans son_sissy_storyline_150_0738062e:
 
     # nvltrevor "You want it too, don't you?"
-    nvltrevor "人家也想要大人的疼爱，对不对？"
+    nvltrevor "我也想要大人的疼爱，对不对？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7900
 translate zh_Hans son_sissy_storyline_150_6bed4bbb:
 
     # nvlsson "I do 😊"
-    nvlsson "人家会的~"
+    nvlsson "我会的~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7902
 translate zh_Hans son_sissy_storyline_150_e5b05688:
 
     # nvltrevor "Will you come over today?"
-    nvltrevor "大人今天会过来疼爱人家吗？"
+    nvltrevor "大人今天会过来疼爱我吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7904
 translate zh_Hans son_sissy_storyline_150_357202c3:
 
     # nvlsson "Yes"
-    nvlsson "是的，人家明白了。"
+    nvlsson "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7906
 translate zh_Hans son_sissy_storyline_150_89c1fae8:
@@ -15498,19 +15498,19 @@ translate zh_Hans son_sissy_storyline_150_89c1fae8:
 translate zh_Hans son_sissy_storyline_150_7213a18c:
 
     # nvltrevor "That's why I love you, slut"
-    nvltrevor "大人就是爱人家这副浪荡的模样呢，小骚货。"
+    nvltrevor "大人就是爱我这副浪荡的模样呢，小骚货。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7910
 translate zh_Hans son_sissy_storyline_150_5746aa06:
 
     # nvltrevor "Because you're so willing"
-    nvltrevor "因为人家总是这么乖巧听话，任凭大人摆布。"
+    nvltrevor "因为我总是这么乖巧听话，任凭大人摆布。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7912
 translate zh_Hans son_sissy_storyline_150_31e41d99:
 
     # nvlsson "What time should I come?"
-    nvlsson "人家什么时候过去伺候大人呢？"
+    nvlsson "我什么时候过去伺候爸爸呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7914
 translate zh_Hans son_sissy_storyline_150_ff71f9a7:
@@ -15534,13 +15534,13 @@ translate zh_Hans son_sissy_storyline_150_73fcd22f:
 translate zh_Hans son_sissy_storyline_150_94ed8c00:
 
     # nvltrevor "I'll be waiting"
-    nvltrevor "人家会乖乖等着你的。"
+    nvltrevor "我会乖乖等着你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7922
 translate zh_Hans son_sissy_storyline_150_2dc6bdc7:
 
     # nvlsson "😊"
-    nvlsson ""
+    nvlsson "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7924
 translate zh_Hans son_sissy_storyline_150_6e463c91:
@@ -15558,7 +15558,7 @@ translate zh_Hans son_sissy_storyline_150_9b9d8dfa:
 translate zh_Hans son_sissy_storyline_150_c6f65415:
 
     # nvlsson "Alright, I won't forget"
-    nvlsson "好的，人家一定不会忘记大人的吩咐。"
+    nvlsson "好的，我一定不会忘记爸爸的吩咐。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7942
 translate zh_Hans son_sissy_storyline_150_53c71d7c:
@@ -15590,7 +15590,7 @@ translate zh_Hans son_sissy_storyline_151_1b140d9c:
 translate zh_Hans son_sissy_storyline_151_eb58c543:
 
     # nvlsson "I'm doing fine"
-    nvlsson "人家一切都好呢。"
+    nvlsson "我一切都好呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7971
 translate zh_Hans son_sissy_storyline_151_64d9221b:
@@ -15614,7 +15614,7 @@ translate zh_Hans son_sissy_storyline_151_2c68a615:
 translate zh_Hans son_sissy_storyline_151_aabff0d4:
 
     # nvlsson "Everything's great 😊"
-    nvlsson "一切都好好的呢，大人~"
+    nvlsson "一切都好好的呢，爸爸~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7979
 translate zh_Hans son_sissy_storyline_151_39733c60:
@@ -15632,37 +15632,37 @@ translate zh_Hans son_sissy_storyline_151_8123a97a:
 translate zh_Hans son_sissy_storyline_151_99b0f632:
 
     # nvlsson "Everything's the same as it was"
-    nvlsson "一切都和大人离开时一样呢。"
+    nvlsson "一切都和爸爸离开时一样呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7985
 translate zh_Hans son_sissy_storyline_151_90eaf3f3:
 
     # nvlsson "Sleeping with my mate, giving my boss blowjobs"
-    nvlsson "人家还是和那个朋友睡在一起，也乖乖地给老板口交呢。"
+    nvlsson "我还是和那个朋友睡在一起，也乖乖地给老板口交呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7989
 translate zh_Hans son_sissy_storyline_151_498df54a:
 
     # nvlsson "{a=show:show_chat_media}{image=mikky_pic_49}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=mikky_pic_49}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7993
 translate zh_Hans son_sissy_storyline_151_4959aad3:
 
     # nvlsson "Here 😊"
-    nvlsson "大人，给你~"
+    nvlsson "爸爸，给你~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7995
 translate zh_Hans son_sissy_storyline_151_681e1540:
 
     # nvlsson "You can see my mate Trevor and my boss here"
-    nvlsson "大人可以看到，这是人家的朋友特雷弗和老板。"
+    nvlsson "爸爸可以看到，这是我的朋友特雷弗和老板。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:7999
 translate zh_Hans son_sissy_storyline_151_df453146:
 
     # nvlsson "{a=show:show_chat_media}{image=mikky_pic_50}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=mikky_pic_50}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8003
 translate zh_Hans son_sissy_storyline_151_e327f253:
@@ -15686,7 +15686,7 @@ translate zh_Hans son_sissy_storyline_151_d58b2020:
 translate zh_Hans son_sissy_storyline_151_15525387:
 
     # nvljenna "I told you, you're not allowed to take it off"
-    nvljenna "大人不是说过吗，不许人家自己把它取下来。"
+    nvljenna "大人不是说过吗，不许我自己把它取下来。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8011
 translate zh_Hans son_sissy_storyline_151_30013ebd:
@@ -15704,13 +15704,13 @@ translate zh_Hans son_sissy_storyline_151_3458b2d9:
 translate zh_Hans son_sissy_storyline_151_ae831c66:
 
     # nvlsson "I didn't want to myself"
-    nvlsson "人家自己才不想呢。"
+    nvlsson "我自己才不想呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8017
 translate zh_Hans son_sissy_storyline_151_35f1db99:
 
     # nvlsson "But I couldn't say no to him"
-    nvlsson "可是人家又不敢拒绝他。"
+    nvlsson "可是我又不敢拒绝他。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8019
 translate zh_Hans son_sissy_storyline_151_d1fd2470:
@@ -15722,7 +15722,7 @@ translate zh_Hans son_sissy_storyline_151_d1fd2470:
 translate zh_Hans son_sissy_storyline_151_357202c3:
 
     # nvlsson "Yes"
-    nvlsson "是的，人家明白了。"
+    nvlsson "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8023
 translate zh_Hans son_sissy_storyline_151_c2579a12:
@@ -15740,7 +15740,7 @@ translate zh_Hans son_sissy_storyline_151_ac34f263:
 translate zh_Hans son_sissy_storyline_151_0d872e18:
 
     # nvljenna "But you're not taking it off yourself, right?"
-    nvljenna "可是，人家可没有自己偷偷取下来，对不对？"
+    nvljenna "可是，我可没有自己偷偷取下来，对不对？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8029
 translate zh_Hans son_sissy_storyline_151_84458c64:
@@ -15752,13 +15752,13 @@ translate zh_Hans son_sissy_storyline_151_84458c64:
 translate zh_Hans son_sissy_storyline_151_50cb8c93:
 
     # nvlsson "No, I'm not"
-    nvlsson "没有呢，人家还没回来。"
+    nvlsson "没有呢，我还没回来。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8033
 translate zh_Hans son_sissy_storyline_151_7e597a5f:
 
     # nvlsson "I always wear the chastity device"
-    nvlsson "人家一直都乖乖地戴着贞操带呢。"
+    nvlsson "我一直都乖乖地戴着贞操带呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8035
 translate zh_Hans son_sissy_storyline_151_4d0c0d11:
@@ -15776,13 +15776,13 @@ translate zh_Hans son_sissy_storyline_151_575493bb:
 translate zh_Hans son_sissy_storyline_151_ecf08959:
 
     # nvlsson "And I also play at home sometimes"
-    nvlsson "人家有时在家也会偷偷地玩弄自己呢。"
+    nvlsson "我有时在家也会偷偷地玩弄自己呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8041
 translate zh_Hans son_sissy_storyline_151_6380e63f:
 
     # nvljenna "You play?"
-    nvljenna "人家会玩弄自己？"
+    nvljenna "我会玩弄自己？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8043
 translate zh_Hans son_sissy_storyline_151_07034e75:
@@ -15794,13 +15794,13 @@ translate zh_Hans son_sissy_storyline_151_07034e75:
 translate zh_Hans son_sissy_storyline_151_6e4a3613:
 
     # nvlsson "{a=show:show_chat_media}{image=mikky_pic_51}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=mikky_pic_51}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8051
 translate zh_Hans son_sissy_storyline_151_d98757fa:
 
     # nvlsson "Like this 😉"
-    nvlsson "就像这样子，大人喜欢吗？😉"
+    nvlsson "就像这样子，爸爸喜欢吗？😉"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8053
 translate zh_Hans son_sissy_storyline_151_23b16b8a:
@@ -15818,7 +15818,7 @@ translate zh_Hans son_sissy_storyline_151_33afe24b:
 translate zh_Hans son_sissy_storyline_151_4bd6aaba:
 
     # nvljenna "And that dildo is great"
-    nvljenna "那个假阳具，人家好喜欢呢。"
+    nvljenna "那个假阳具，我好喜欢呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8059
 translate zh_Hans son_sissy_storyline_151_aed26317:
@@ -15836,19 +15836,19 @@ translate zh_Hans son_sissy_storyline_151_bb61ea01:
 translate zh_Hans son_sissy_storyline_151_86a3bbb2:
 
     # nvlsson "I love it too"
-    nvlsson "人家也爱死它了呢。"
+    nvlsson "我也爱死它了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8065
 translate zh_Hans son_sissy_storyline_151_87d5571d:
 
     # nvlsson "It's my absolute favourite"
-    nvlsson "它可是人家最最心爱的宝贝呢。"
+    nvlsson "它可是我最最心爱的宝贝呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8067
 translate zh_Hans son_sissy_storyline_151_cb155f01:
 
     # nvljenna "Because it's black and big?"
-    nvljenna "因为它又黑又大，才能把人家填得满满的，是吗？"
+    nvljenna "因为它又黑又大，才能把我填得满满的，是吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8069
 translate zh_Hans son_sissy_storyline_151_07034e75_1:
@@ -15860,7 +15860,7 @@ translate zh_Hans son_sissy_storyline_151_07034e75_1:
 translate zh_Hans son_sissy_storyline_151_b0fba2e1:
 
     # nvlsson "It's perfect for my bum"
-    nvlsson "它正好能把人家的小穴塞得满满的，舒服极了。"
+    nvlsson "它正好能把我的小穴塞得满满的，舒服极了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8073
 translate zh_Hans son_sissy_storyline_151_097c72fc:
@@ -15878,7 +15878,7 @@ translate zh_Hans son_sissy_storyline_151_0cf3fefd:
 translate zh_Hans son_sissy_storyline_151_8fa0afd9:
 
     # nvljenna "I'm proud of you, darling"
-    nvljenna "我的乖宝贝，爸爸真为你骄傲呢。"
+    nvljenna "我的乖宝贝，我真为你骄傲呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8079
 translate zh_Hans son_sissy_storyline_151_b8164f9f:
@@ -15890,19 +15890,19 @@ translate zh_Hans son_sissy_storyline_151_b8164f9f:
 translate zh_Hans son_sissy_storyline_151_2d799eed:
 
     # nvlsson "That means a lot 😊"
-    nvlsson "大人这样说，人家好开心呢~"
+    nvlsson "爸爸这样说，我好开心呢~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8083
 translate zh_Hans son_sissy_storyline_151_7f00ca46:
 
     # nvljenna "You're making me happier every time"
-    nvljenna "你让爸爸每次都更快乐，更满足。"
+    nvljenna "你让我每次都更快乐，更满足。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8085
 translate zh_Hans son_sissy_storyline_151_779cf87b:
 
     # nvljenna "And I can feel how you're changing"
-    nvljenna "爸爸能感觉到，我的小宝贝正在一点点地蜕变呢。"
+    nvljenna "我能感觉到，我的小宝贝正在一点点地蜕变呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8087
 translate zh_Hans son_sissy_storyline_151_5e0b4530:
@@ -15914,37 +15914,37 @@ translate zh_Hans son_sissy_storyline_151_5e0b4530:
 translate zh_Hans son_sissy_storyline_151_82953c00:
 
     # nvlsson "I'm trying really hard"
-    nvlsson "人家真的好努力，好努力的呢。"
+    nvlsson "我真的好努力，好努力的呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8091
 translate zh_Hans son_sissy_storyline_151_c3a96aa9:
 
     # nvljenna "I know"
-    nvljenna "人家知道的。"
+    nvljenna "我知道的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8093
 translate zh_Hans son_sissy_storyline_151_a24ca472:
 
     # nvljenna "And I'm sure you're enjoying the changes in your life too"
-    nvljenna "爸爸相信，我的好米基也一定很享受这些变化，对吗？"
+    nvljenna "我相信，我的好米基也一定很享受这些变化，对吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8095
 translate zh_Hans son_sissy_storyline_151_50301d69:
 
     # nvlsson "I love them"
-    nvlsson "人家爱死这些变化了呢。"
+    nvlsson "我爱死这些变化了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8097
 translate zh_Hans son_sissy_storyline_151_192b1b7b:
 
     # nvlsson "I never thought life could be so pleasant"
-    nvlsson "人家从没想过，生活可以如此令人身心愉悦，欲罢不能呢。"
+    nvlsson "我从没想过，生活可以如此令人身心愉悦，欲罢不能呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8099
 translate zh_Hans son_sissy_storyline_151_b3a8ddd2:
 
     # nvlsson "That I could love every day like this"
-    nvlsson "人家可以这样，每天都沉浸在你的爱里，享受着这一切。"
+    nvlsson "我可以这样，每天都沉浸在你的爱里，享受着这一切。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8101
 translate zh_Hans son_sissy_storyline_151_5a4591db:
@@ -15956,7 +15956,7 @@ translate zh_Hans son_sissy_storyline_151_5a4591db:
 translate zh_Hans son_sissy_storyline_151_ea412db7:
 
     # nvlsson "I get so much pleasure"
-    nvlsson "人家得到了前所未有的欢愉，浑身都酥麻了呢。"
+    nvlsson "我得到了前所未有的欢愉，浑身都酥麻了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8105
 translate zh_Hans son_sissy_storyline_151_57eb6da8:
@@ -15974,13 +15974,13 @@ translate zh_Hans son_sissy_storyline_151_f013696e:
 translate zh_Hans son_sissy_storyline_151_e23cbbc0:
 
     # nvlsson "I'm looking forward to it"
-    nvlsson "人家好期待那一天的到来呢。"
+    nvlsson "我好期待那一天的到来呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8111
 translate zh_Hans son_sissy_storyline_151_54179f18:
 
     # nvljenna "Keep changing, and it'll happen"
-    nvljenna "继续蜕变吧，我的小宝贝，爸爸会帮你实现这一切的。"
+    nvljenna "继续蜕变吧，我的小宝贝，我会帮你实现这一切的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8113
 translate zh_Hans son_sissy_storyline_151_07034e75_2:
@@ -15992,31 +15992,31 @@ translate zh_Hans son_sissy_storyline_151_07034e75_2:
 translate zh_Hans son_sissy_storyline_151_da237e2b:
 
     # nvlsson "I'll keep changing"
-    nvlsson "人家会一直努力蜕变的。"
+    nvlsson "我会一直努力蜕变的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8117
 translate zh_Hans son_sissy_storyline_151_c4e5ecd2:
 
     # nvlsson "I want to keep changing"
-    nvlsson "人家好想一直变下去。"
+    nvlsson "我好想一直变下去。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8119
 translate zh_Hans son_sissy_storyline_151_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8121
 translate zh_Hans son_sissy_storyline_151_ea380285:
 
     # nvlsson "And thank you for helping me with all of this"
-    nvlsson "谢谢大人，是你帮助人家完成了这一切呢。"
+    nvlsson "谢谢爸爸，是你帮助我完成了这一切呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8123
 translate zh_Hans son_sissy_storyline_151_20dee434:
 
     # nvlsson "I'd never have done any of this without you"
-    nvlsson "没有大人，人家绝不可能走到这一步的。"
+    nvlsson "没有爸爸，我绝不可能走到这一步的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8125
 translate zh_Hans son_sissy_storyline_151_719c4397:
@@ -16028,7 +16028,7 @@ translate zh_Hans son_sissy_storyline_151_719c4397:
 translate zh_Hans son_sissy_storyline_151_57b432e4:
 
     # nvljenna "I'm glad I could help"
-    nvljenna "爸爸很高兴能帮到你，我的好米基。"
+    nvljenna "我很高兴能帮到你，我的好米基。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8129
 translate zh_Hans son_sissy_storyline_151_5ca58195:
@@ -16040,7 +16040,7 @@ translate zh_Hans son_sissy_storyline_151_5ca58195:
 translate zh_Hans son_sissy_storyline_151_8f4a1818:
 
     # nvljenna "Alright, I need to go"
-    nvljenna "好了，爸爸该走了。"
+    nvljenna "好了，我该走了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8133
 translate zh_Hans son_sissy_storyline_151_99ea36b2:
@@ -16076,7 +16076,7 @@ translate zh_Hans son_sissy_storyline_151_effae8aa:
 translate zh_Hans son_sissy_storyline_151_535b9061:
 
     # nvlsson "Alright"
-    nvlsson "遵命，大人，这就给你看。"
+    nvlsson "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8157
 translate zh_Hans son_sissy_storyline_151_53c71d7c:
@@ -16126,7 +16126,7 @@ translate zh_Hans son_sissy_storyline_152_4a33238f:
 translate zh_Hans son_sissy_storyline_152_8db3ef56:
 
     # nvlsson "And I'm doing well too 😊"
-    nvlsson "人家也过得很好呢，大人不用担心~"
+    nvlsson "我也过得很好呢，爸爸不用担心~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8192
 translate zh_Hans son_sissy_storyline_152_db567886:
@@ -16150,7 +16150,7 @@ translate zh_Hans son_sissy_storyline_152_6af973e9:
 translate zh_Hans son_sissy_storyline_152_bd936edd:
 
     # nvlnatalie "I'll tell you all about how amazing my time was 😉"
-    nvlnatalie "人家会把所有美好的经历都告诉大人听的哦~ 😉"
+    nvlnatalie "我会把所有美好的经历都告诉大人听的哦~ 😉"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8200
 translate zh_Hans son_sissy_storyline_152_d16b49d1:
@@ -16162,7 +16162,7 @@ translate zh_Hans son_sissy_storyline_152_d16b49d1:
 translate zh_Hans son_sissy_storyline_152_fd7f80d9:
 
     # nvlsson "I'm free this weekend"
-    nvlsson "人家这个周末有空呢。"
+    nvlsson "我这个周末有空呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8204
 translate zh_Hans son_sissy_storyline_152_a8aa5f3d:
@@ -16198,7 +16198,7 @@ translate zh_Hans son_sissy_storyline_152_7e598f9c:
 translate zh_Hans son_sissy_storyline_152_521b4e60:
 
     # nvlnatalie "I can't tell you exactly where I was"
-    nvlnatalie "人家不能告诉你人家具体在哪里呢。"
+    nvlnatalie "我不能告诉你我具体在哪里呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8216
 translate zh_Hans son_sissy_storyline_152_a6a5f6e5:
@@ -16210,7 +16210,7 @@ translate zh_Hans son_sissy_storyline_152_a6a5f6e5:
 translate zh_Hans son_sissy_storyline_152_1fa7cd84:
 
     # nvlnatalie "Well, I just can't"
-    nvlnatalie "嗯，人家就是不能说啦。"
+    nvlnatalie "嗯，我就是不能说啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8220
 translate zh_Hans son_sissy_storyline_152_0afc8d75:
@@ -16222,13 +16222,13 @@ translate zh_Hans son_sissy_storyline_152_0afc8d75:
 translate zh_Hans son_sissy_storyline_152_7e7dee7e:
 
     # nvlnatalie "But I can show you a couple of pictures from there 😉"
-    nvlnatalie "不过，人家可以给大人看几张照片哦~ 😉"
+    nvlnatalie "不过，我可以给大人看几张照片哦~ 😉"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8226
 translate zh_Hans son_sissy_storyline_152_23f245d5:
 
     # nvlnatalie "{a=show:show_chat_media}{image=natalie_pic_3}"
-    nvlnatalie ""
+    nvlnatalie "{a=show:show_chat_media}{image=natalie_pic_3}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8230
 translate zh_Hans son_sissy_storyline_152_28264660:
@@ -16240,13 +16240,13 @@ translate zh_Hans son_sissy_storyline_152_28264660:
 translate zh_Hans son_sissy_storyline_152_a79882dd:
 
     # nvlnatalie "😉"
-    nvlnatalie ""
+    nvlnatalie "😉|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8236
 translate zh_Hans son_sissy_storyline_152_da6e35df:
 
     # nvlnatalie "{a=show:show_chat_media}{image=natalie_pic_4}"
-    nvlnatalie ""
+    nvlnatalie "{a=show:show_chat_media}{image=natalie_pic_4}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8240
 translate zh_Hans son_sissy_storyline_152_b0eca294:
@@ -16264,7 +16264,7 @@ translate zh_Hans son_sissy_storyline_152_7e2aebe9:
 translate zh_Hans son_sissy_storyline_152_84541a2f:
 
     # nvlnatalie "{a=show:show_chat_media}{image=natalie_pic_5}"
-    nvlnatalie ""
+    nvlnatalie "{a=show:show_chat_media}{image=natalie_pic_5}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8250
 translate zh_Hans son_sissy_storyline_152_796d0ab8:
@@ -16276,13 +16276,13 @@ translate zh_Hans son_sissy_storyline_152_796d0ab8:
 translate zh_Hans son_sissy_storyline_152_ca8cf537:
 
     # nvlnatalie "This kind of holiday is my favourite 😉"
-    nvlnatalie "大人，人家最喜欢这种假期了呢~ 😉"
+    nvlnatalie "大人，我最喜欢这种假期了呢~ 😉"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8256
 translate zh_Hans son_sissy_storyline_152_8d3528e8:
 
     # nvlnatalie "{a=show:show_chat_media}{image=natalie_pic_6}"
-    nvlnatalie ""
+    nvlnatalie "{a=show:show_chat_media}{image=natalie_pic_6}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8260
 translate zh_Hans son_sissy_storyline_152_22768207:
@@ -16306,7 +16306,7 @@ translate zh_Hans son_sissy_storyline_152_c895f85d:
 translate zh_Hans son_sissy_storyline_152_e981b04c:
 
     # nvlnatalie "{a=show:show_chat_media}{image=natalie_pic_7}"
-    nvlnatalie ""
+    nvlnatalie "{a=show:show_chat_media}{image=natalie_pic_7}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8272
 translate zh_Hans son_sissy_storyline_152_be791d32:
@@ -16330,7 +16330,7 @@ translate zh_Hans son_sissy_storyline_152_db0aa7d8:
 translate zh_Hans son_sissy_storyline_152_beee3c8f:
 
     # nvlnatalie "All 10 days, my friend and I were getting fucked 😊"
-    nvlnatalie "大人，那十天里，人家和朋友都被人好好地疼爱着呢~ 😊"
+    nvlnatalie "大人，那十天里，我和朋友都被人好好地疼爱着呢~ 😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8280
 translate zh_Hans son_sissy_storyline_152_f2c2025a:
@@ -16342,19 +16342,19 @@ translate zh_Hans son_sissy_storyline_152_f2c2025a:
 translate zh_Hans son_sissy_storyline_152_1407e08c:
 
     # nvlnatalie "I wanted to invite you too"
-    nvlnatalie "人家当时也想邀请你的呢。"
+    nvlnatalie "我当时也想邀请你的呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8284
 translate zh_Hans son_sissy_storyline_152_cedd82bb:
 
     # nvlnatalie "But then I thought it might be too soon for you to join something like that"
-    nvlnatalie "不过人家又想，你可能还没准备好参与这种事情呢。"
+    nvlnatalie "不过我又想，你可能还没准备好参与这种事情呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8286
 translate zh_Hans son_sissy_storyline_152_eeb8d442:
 
     # nvlnatalie "And we don't know each other that well yet to invite you to such a thing"
-    nvlnatalie "而且我们之间还没那么亲密，就邀请你去，人家也觉得有点不好意思呢。"
+    nvlnatalie "而且我们之间还没那么亲密，就邀请你去，我也觉得有点不好意思呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8288
 translate zh_Hans son_sissy_storyline_152_2b3caee5:
@@ -16372,7 +16372,7 @@ translate zh_Hans son_sissy_storyline_152_a826f4a3:
 translate zh_Hans son_sissy_storyline_152_55820968:
 
     # nvlnatalie "Next time, I'll definitely invite you"
-    nvlnatalie "下次人家一定会邀请你的！"
+    nvlnatalie "下次我一定会邀请你的！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8294
 translate zh_Hans son_sissy_storyline_152_c02cc6e8:
@@ -16384,7 +16384,7 @@ translate zh_Hans son_sissy_storyline_152_c02cc6e8:
 translate zh_Hans son_sissy_storyline_152_35b93223:
 
     # nvlnatalie "Not sure yet"
-    nvlnatalie "人家还不确定呢。"
+    nvlnatalie "我还不确定呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8298
 translate zh_Hans son_sissy_storyline_152_ff6bc2e7:
@@ -16414,7 +16414,7 @@ translate zh_Hans son_sissy_storyline_152_73fcd22f:
 translate zh_Hans son_sissy_storyline_152_d82c8fd5:
 
     # nvlnatalie "I'll tell you more about it on Saturday"
-    nvlnatalie "人家周六再跟你详细说哦。"
+    nvlnatalie "我周六再跟你详细说哦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8308
 translate zh_Hans son_sissy_storyline_152_6cfaaee3:
@@ -16444,7 +16444,7 @@ translate zh_Hans son_sissy_storyline_152_681b63f4:
 translate zh_Hans son_sissy_storyline_152_5d67dec2:
 
     # nvlsson "Still sucking my boss off"
-    nvlsson "人家还在用嘴巴伺候老板呢。"
+    nvlsson "我还在用嘴巴伺候老板呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8318
 translate zh_Hans son_sissy_storyline_152_f0be3d82:
@@ -16474,19 +16474,19 @@ translate zh_Hans son_sissy_storyline_152_39fc3db7:
 translate zh_Hans son_sissy_storyline_152_45553600:
 
     # nvlsson "But I think we'll move on to sex soon"
-    nvlsson "不过人家觉得，很快就会进展到更深入的亲密关系了呢。"
+    nvlsson "不过我觉得，很快就会进展到更深入的亲密关系了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8328
 translate zh_Hans son_sissy_storyline_152_de8ed0bc:
 
     # nvlsson "He's already told me to come to work with a butt plug in"
-    nvlsson "他已经要求人家戴着肛塞去上班了呢。"
+    nvlsson "他已经要求我戴着肛塞去上班了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8330
 translate zh_Hans son_sissy_storyline_152_704263b5:
 
     # nvlsson "And he checks if I've got it in or not"
-    nvlsson "而且他还会检查人家有没有乖乖戴着呢。"
+    nvlsson "而且他还会检查我有没有乖乖戴着呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8332
 translate zh_Hans son_sissy_storyline_152_5a92a2de:
@@ -16522,7 +16522,7 @@ translate zh_Hans son_sissy_storyline_152_2b83f11a:
 translate zh_Hans son_sissy_storyline_152_170548e9:
 
     # nvlnatalie "I'll message you later"
-    nvlnatalie "人家晚点再给你发消息吧"
+    nvlnatalie "我晚点再给你发消息吧"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8344
 translate zh_Hans son_sissy_storyline_152_670088c7:
@@ -16540,7 +16540,7 @@ translate zh_Hans son_sissy_storyline_152_fde389f3:
 translate zh_Hans son_sissy_storyline_152_c6f65415:
 
     # nvlsson "Alright, I won't forget"
-    nvlsson "好的，人家一定不会忘记大人的吩咐。"
+    nvlsson "好的，我一定不会忘记爸爸的吩咐。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8350
 translate zh_Hans son_sissy_storyline_152_5048e45a:
@@ -16602,7 +16602,7 @@ translate zh_Hans son_sissy_storyline_153_629d7ba5:
 translate zh_Hans son_sissy_storyline_153_1913086e:
 
     # nvlsson "No, I haven't"
-    nvlsson "没有呢，人家没有走。"
+    nvlsson "没有呢，我没有走。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8401
 translate zh_Hans son_sissy_storyline_153_5109f6f9:
@@ -16614,7 +16614,7 @@ translate zh_Hans son_sissy_storyline_153_5109f6f9:
 translate zh_Hans son_sissy_storyline_153_e8e8911d:
 
     # nvlsson "I didn't want to"
-    nvlsson "人家不想说嘛。"
+    nvlsson "我不想说嘛。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8405
 translate zh_Hans son_sissy_storyline_153_cc445943:
@@ -16650,13 +16650,13 @@ translate zh_Hans son_sissy_storyline_153_4f5bcd09:
 translate zh_Hans son_sissy_storyline_153_33aea137:
 
     # nvlharry "Are you jealous?"
-    nvlharry "大人，你是觉得人家吃醋了吗？"
+    nvlharry "大人，你是觉得我吃醋了吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8417
 translate zh_Hans son_sissy_storyline_153_60d2628c:
 
     # nvlsson "I don't want to be a middleman between you two"
-    nvlsson "人家可不想夹在你二位中间，让人家为难嘛……"
+    nvlsson "我可不想夹在你二位中间，让我为难嘛……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8419
 translate zh_Hans son_sissy_storyline_153_bcac2c64:
@@ -16722,7 +16722,7 @@ translate zh_Hans son_sissy_storyline_153_c7a87823:
 translate zh_Hans son_sissy_storyline_153_18f847e7:
 
     # nvlharry "Yes"
-    nvlharry "是的，人家明白了。"
+    nvlharry "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8441
 translate zh_Hans son_sissy_storyline_153_047834af:
@@ -16752,7 +16752,7 @@ translate zh_Hans son_sissy_storyline_153_eff4c03c:
 translate zh_Hans son_sissy_storyline_153_84c31d76:
 
     # nvlsson "I'll think about it"
-    nvlsson "人家会好好想想的。"
+    nvlsson "我会好好想想的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8451
 translate zh_Hans son_sissy_storyline_153_88c52d12:
@@ -16776,7 +16776,7 @@ translate zh_Hans son_sissy_storyline_153_683df4d9:
 translate zh_Hans son_sissy_storyline_153_dc90a690:
 
     # nvlharry "What's there to decide? 😊"
-    nvlharry "大人，这有什么好决定的呢？人家都听你的~ 😊"
+    nvlharry "大人，这有什么好决定的呢？我都听你的~ 😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8459
 translate zh_Hans son_sissy_storyline_153_07034e75:
@@ -16812,7 +16812,7 @@ translate zh_Hans son_sissy_storyline_153_f7961113:
 translate zh_Hans son_sissy_storyline_153_535b9061:
 
     # nvlsson "Alright"
-    nvlsson "遵命，大人，这就给你看。"
+    nvlsson "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8471
 translate zh_Hans son_sissy_storyline_153_6f7f2ac5:
@@ -16886,7 +16886,7 @@ translate zh_Hans son_sissy_storyline_154_ce0ddf3b:
 translate zh_Hans son_sissy_storyline_154_1d6706da:
 
     # nvlvalerie "Did you want something?"
-    nvlvalerie "你、你是想找人家做什么吗？"
+    nvlvalerie "你、你是想找我做什么吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8526
 translate zh_Hans son_sissy_storyline_154_ab892ae6:
@@ -16898,7 +16898,7 @@ translate zh_Hans son_sissy_storyline_154_ab892ae6:
 translate zh_Hans son_sissy_storyline_154_d1deaaa8:
 
     # nvlvalerie "I don't think I have any plans"
-    nvlvalerie "人家好像没什么安排呢。"
+    nvlvalerie "我好像没什么安排呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8530
 translate zh_Hans son_sissy_storyline_154_dd5056d0:
@@ -16940,7 +16940,7 @@ translate zh_Hans son_sissy_storyline_154_df4db811:
 translate zh_Hans son_sissy_storyline_154_fc2d760c:
 
     # nvlvalerie "I'm up for it"
-    nvlvalerie "人家很乐意去呢！"
+    nvlvalerie "我很乐意去呢！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8544
 translate zh_Hans son_sissy_storyline_154_9c5f6913:
@@ -16958,13 +16958,13 @@ translate zh_Hans son_sissy_storyline_154_a2eee47b:
 translate zh_Hans son_sissy_storyline_154_13e1f30b:
 
     # nvlsson "I won't be late this time"
-    nvlsson "人家这次不会迟到的啦。"
+    nvlsson "我这次不会迟到的啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8550
 translate zh_Hans son_sissy_storyline_154_14b39792:
 
     # nvlsson "I promise 😊"
-    nvlsson "人家保证，大人~ 😊"
+    nvlsson "我保证，爸爸~ 😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8552
 translate zh_Hans son_sissy_storyline_154_b0f4d520:
@@ -16988,7 +16988,7 @@ translate zh_Hans son_sissy_storyline_154_df4db811_1:
 translate zh_Hans son_sissy_storyline_154_d0f2f43a:
 
     # nvlvalerie "We'll message closer to Saturday, I think"
-    nvlvalerie "人家觉得，咱们周六快到的时候再联系吧。"
+    nvlvalerie "我觉得，咱们周六快到的时候再联系吧。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8560
 translate zh_Hans son_sissy_storyline_154_5062119f:
@@ -17044,13 +17044,13 @@ translate zh_Hans son_sissy_storyline_155_c8dff752:
 translate zh_Hans son_sissy_storyline_155_63bfed5b:
 
     # nvlsson "I'm good as well"
-    nvlsson "人家也觉得这样很好呢。"
+    nvlsson "我也觉得这样很好呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8609
 translate zh_Hans son_sissy_storyline_155_3c5b3429:
 
     # nvlsson "Listen, I won't be able to meet you this weekend"
-    nvlsson "听着，人家这个周末可能没办法和你见面了。"
+    nvlsson "听着，我这个周末可能没办法和你见面了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8611
 translate zh_Hans son_sissy_storyline_155_5db2fc2c:
@@ -17086,13 +17086,13 @@ translate zh_Hans son_sissy_storyline_155_1df8ffb3:
 translate zh_Hans son_sissy_storyline_155_c7c8451a:
 
     # nvlsson "I'm going to a club with a friend"
-    nvlsson "人家要和一位朋友去俱乐部呢。"
+    nvlsson "我要和一位朋友去俱乐部呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8623
 translate zh_Hans son_sissy_storyline_155_b44ef5e8:
 
     # nvlsson "I've been promising her to do it for ages, and I just remembered"
-    nvlsson "人家答应她好久了，刚刚才想起来呢。"
+    nvlsson "我答应她好久了，刚刚才想起来呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8625
 translate zh_Hans son_sissy_storyline_155_fa8826c1:
@@ -17128,19 +17128,19 @@ translate zh_Hans son_sissy_storyline_155_9a7899ca:
 translate zh_Hans son_sissy_storyline_155_4f35f5fe:
 
     # nvlsson "Well, I'm not sure"
-    nvlsson "嗯……人家也不太确定呢。"
+    nvlsson "嗯……我也不太确定呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8637
 translate zh_Hans son_sissy_storyline_155_b8f665df:
 
     # nvlsson "I suppose I could"
-    nvlsson "人家想，或许、或许可以吧。"
+    nvlsson "我想，或许、或许可以吧。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8639
 translate zh_Hans son_sissy_storyline_155_54c9da33:
 
     # nvlsson "But don't tell her I'm trans, okay?"
-    nvlsson "但是，不要告诉她人家是变装的，好吗？"
+    nvlsson "但是，不要告诉她我是变装的，好吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8641
 translate zh_Hans son_sissy_storyline_155_36db3bc5:
@@ -17158,7 +17158,7 @@ translate zh_Hans son_sissy_storyline_155_b42e6169:
 translate zh_Hans son_sissy_storyline_155_0ef4ef47:
 
     # nvlnatalie "Ah, got it"
-    nvlnatalie "啊，人家明白了。"
+    nvlnatalie "啊，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8647
 translate zh_Hans son_sissy_storyline_155_6a4c47d4:
@@ -17170,7 +17170,7 @@ translate zh_Hans son_sissy_storyline_155_6a4c47d4:
 translate zh_Hans son_sissy_storyline_155_f61b46b1:
 
     # nvlnatalie "I'll act like your regualr girl too, then"
-    nvlnatalie "那人家也要像你的小宝贝一样，乖乖的呢。"
+    nvlnatalie "那我也要像你的小宝贝一样，乖乖的呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8651
 translate zh_Hans son_sissy_storyline_155_5b175949:
@@ -17206,7 +17206,7 @@ translate zh_Hans son_sissy_storyline_155_ea658850:
 translate zh_Hans son_sissy_storyline_155_33fd6ece:
 
     # nvlsson "I'll message you later"
-    nvlsson "人家晚点再给你发消息吧"
+    nvlsson "我晚点再给你发消息吧"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8663
 translate zh_Hans son_sissy_storyline_155_822e9624:
@@ -17224,7 +17224,7 @@ translate zh_Hans son_sissy_storyline_155_af98bbcf:
 translate zh_Hans son_sissy_storyline_155_5c6fa05c:
 
     # nvlnatalie "I'll wait for your message then"
-    nvlnatalie "那人家就等着大人的消息咯。"
+    nvlnatalie "那我就等着大人的消息咯。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8669
 translate zh_Hans son_sissy_storyline_155_ac229cc1:
@@ -17316,13 +17316,13 @@ translate zh_Hans son_sissy_storyline_156_fd6823c8:
 translate zh_Hans son_sissy_storyline_156_535b9061:
 
     # nvlsson "Alright"
-    nvlsson "遵命，大人，这就给你看。"
+    nvlsson "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8730
 translate zh_Hans son_sissy_storyline_156_21a2d838:
 
     # nvlharry "Well, I'll expect you tomorrow"
-    nvlharry "嗯，那人家明天就等着你了。"
+    nvlharry "嗯，那我明天就等着你了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8732
 translate zh_Hans son_sissy_storyline_156_9bd1d2f1:
@@ -17372,7 +17372,7 @@ translate zh_Hans son_sissy_storyline_157_5da8c5a9:
 translate zh_Hans son_sissy_storyline_157_086e3be6:
 
     # nvlvalerie "I haven't changed my mind"
-    nvlvalerie "人家才没有改变主意呢。"
+    nvlvalerie "我才没有改变主意呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8779
 translate zh_Hans son_sissy_storyline_157_07fb3864:
@@ -17432,7 +17432,7 @@ translate zh_Hans son_sissy_storyline_157_92ba96d6:
 translate zh_Hans son_sissy_storyline_157_3631eaf0:
 
     # nvlsson "Yes, I know it"
-    nvlsson "嗯，人家知道的。"
+    nvlsson "嗯，我知道的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8799
 translate zh_Hans son_sissy_storyline_157_984cb534:
@@ -17474,7 +17474,7 @@ translate zh_Hans son_sissy_storyline_157_ce3e463a:
 translate zh_Hans son_sissy_storyline_157_a9263e22:
 
     # nvlvalerie "I don't know"
-    nvlvalerie "人家也不知道。"
+    nvlvalerie "我也不知道。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8813
 translate zh_Hans son_sissy_storyline_157_d0f72c49:
@@ -17498,7 +17498,7 @@ translate zh_Hans son_sissy_storyline_157_7f48a917:
 translate zh_Hans son_sissy_storyline_157_d8a648c7:
 
     # nvlvalerie "I think he'll call me into his office by the end of the day"
-    nvlvalerie "人家觉得他今天下班前会叫人家去他办公室呢。"
+    nvlvalerie "我觉得他今天下班前会叫我去他办公室呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8821
 translate zh_Hans son_sissy_storyline_157_cf4669da:
@@ -17560,7 +17560,7 @@ translate zh_Hans son_sissy_storyline_158_09220673:
 translate zh_Hans son_sissy_storyline_158_4b68e7cd:
 
     # nvlharry "{a=show:show_chat_media}{image=valerie_video_5_ns}"
-    nvlharry ""
+    nvlharry "{a=show:show_chat_media}{image=valerie_video_5_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8876
 translate zh_Hans son_sissy_storyline_158_bb678650:
@@ -17572,7 +17572,7 @@ translate zh_Hans son_sissy_storyline_158_bb678650:
 translate zh_Hans son_sissy_storyline_158_37a67af6:
 
     # nvlsson "I'm happy for you"
-    nvlsson "人家替你开心呢。"
+    nvlsson "我替你开心呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8880
 translate zh_Hans son_sissy_storyline_158_a34838ca:
@@ -17602,25 +17602,25 @@ translate zh_Hans son_sissy_storyline_158_34b9255d:
 translate zh_Hans son_sissy_storyline_158_9946bf2d:
 
     # nvlsson "Is that why you messaged me?"
-    nvlsson "这就是你给人家发消息的原因吗？"
+    nvlsson "这就是你给我发消息的原因吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8890
 translate zh_Hans son_sissy_storyline_158_82cf4529:
 
     # nvlsson "Just to tell me that she rode your cock?"
-    nvlsson "就为了告诉人家，她骑在你的XTAG0X上XTAG0X了吗？"
+    nvlsson "就为了告诉我，她骑在你的XTAG0X上XTAG0X了吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8892
 translate zh_Hans son_sissy_storyline_158_18f847e7:
 
     # nvlharry "Yes"
-    nvlharry "是的，人家明白了。"
+    nvlharry "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8894
 translate zh_Hans son_sissy_storyline_158_79b3d900:
 
     # nvlharry "And to suggest you do the same"
-    nvlharry "然后还暗示人家也那样做吗？"
+    nvlharry "然后还暗示我也那样做吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8896
 translate zh_Hans son_sissy_storyline_158_98a43b9f:
@@ -17632,7 +17632,7 @@ translate zh_Hans son_sissy_storyline_158_98a43b9f:
 translate zh_Hans son_sissy_storyline_158_a8183cd1:
 
     # nvlsson "I'm busy this evening"
-    nvlsson "人家今晚很忙的。"
+    nvlsson "我今晚很忙的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8900
 translate zh_Hans son_sissy_storyline_158_75bd80cf:
@@ -17650,25 +17650,25 @@ translate zh_Hans son_sissy_storyline_158_6c328b04:
 translate zh_Hans son_sissy_storyline_158_11c5228d:
 
     # nvlsson "I'm just busy, that's all"
-    nvlsson "人家就是忙，仅此而已。"
+    nvlsson "我就是忙，仅此而已。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8906
 translate zh_Hans son_sissy_storyline_158_f920736c:
 
     # nvlharry "Shall I come over to yours?"
-    nvlharry "要爸爸过去你那里吗？"
+    nvlharry "要我过去你那里吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8908
 translate zh_Hans son_sissy_storyline_158_0b061bbf:
 
     # nvlharry "I'll fuck you"
-    nvlharry "爸爸会好好疼爱你的身子，让你欲仙欲死的。"
+    nvlharry "我会好好疼爱你的身子，让你欲仙欲死的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8910
 translate zh_Hans son_sissy_storyline_158_94ab1f68:
 
     # nvlharry "Wanna do it?"
-    nvlharry "想不想让XTAG0X爸爸XTAG0X疼爱呢？"
+    nvlharry "想不想让我疼爱呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8912
 translate zh_Hans son_sissy_storyline_158_f8db8dfb:
@@ -17698,7 +17698,7 @@ translate zh_Hans son_sissy_storyline_158_11dc39ea:
 translate zh_Hans son_sissy_storyline_158_b3def810:
 
     # nvlsson "I already told you I wouldn't do that with you"
-    nvlsson "人家早就告诉过你，人家不会和你做那种事。"
+    nvlsson "我早就告诉过你，我不会和你做那种事。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8922
 translate zh_Hans son_sissy_storyline_158_246d1aab:
@@ -17716,19 +17716,19 @@ translate zh_Hans son_sissy_storyline_158_5690190f:
 translate zh_Hans son_sissy_storyline_158_3bb77810:
 
     # nvlsson "I haven't changed my mind"
-    nvlsson "人家才没有改变主意呢。"
+    nvlsson "我才没有改变主意呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8928
 translate zh_Hans son_sissy_storyline_158_9d122504:
 
     # nvlsson "And I won't"
-    nvlsson "人家才不会呢。"
+    nvlsson "我才不会呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8930
 translate zh_Hans son_sissy_storyline_158_35881c21:
 
     # nvlsson "So stop asking me"
-    nvlsson "所以别再问人家了。"
+    nvlsson "所以别再问我了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8932
 translate zh_Hans son_sissy_storyline_158_c4a20672:
@@ -17740,7 +17740,7 @@ translate zh_Hans son_sissy_storyline_158_c4a20672:
 translate zh_Hans son_sissy_storyline_158_fb03438e:
 
     # nvlsson "I need to go"
-    nvlsson "人家得走了。"
+    nvlsson "我得走了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8936
 translate zh_Hans son_sissy_storyline_158_3107410f:
@@ -17758,13 +17758,13 @@ translate zh_Hans son_sissy_storyline_158_b26aad89:
 translate zh_Hans son_sissy_storyline_158_12fca1cb:
 
     # nvlharry "I'll text you again later"
-    nvlharry "爸爸待会儿再给你发消息。"
+    nvlharry "我待会儿再给你发消息。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8942
 translate zh_Hans son_sissy_storyline_158_d7774f54:
 
     # nvlharry "When I want to fuck your friend again"
-    nvlharry "等爸爸想再XTAG0X玩弄XTAG0X你的朋友的时候。"
+    nvlharry "等我想再玩弄你的朋友的时候。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8956
 translate zh_Hans son_sissy_storyline_158_53c71d7c:
@@ -17802,37 +17802,37 @@ translate zh_Hans son_sissy_storyline_159_c14e899b:
 translate zh_Hans son_sissy_storyline_159_fc3b479c:
 
     # nvlvalerie "Still feeling dizzy after last night"
-    nvlvalerie "昨晚过后，人家还觉得头晕晕的。"
+    nvlvalerie "昨晚过后，我还觉得头晕晕的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8987
 translate zh_Hans son_sissy_storyline_159_e0c89c34:
 
     # nvlvalerie "I can't remember half the evening"
-    nvlvalerie "人家都记不清昨晚一半的事了。"
+    nvlvalerie "我都记不清昨晚一半的事了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8989
 translate zh_Hans son_sissy_storyline_159_efd993fe:
 
     # nvlsson "You should've drunk less 😊"
-    nvlsson "大人，你应该少喝一点的呢~ 😊"
+    nvlsson "爸爸，你应该少喝一点的呢~ 😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8991
 translate zh_Hans son_sissy_storyline_159_7b90c563:
 
     # nvlvalerie "I didn't drink that much"
-    nvlvalerie "人家没喝那么多。"
+    nvlvalerie "我没喝那么多。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8993
 translate zh_Hans son_sissy_storyline_159_a71abeb7:
 
     # nvlvalerie "I think"
-    nvlvalerie "人家觉得。"
+    nvlvalerie "我觉得。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8995
 translate zh_Hans son_sissy_storyline_159_89028f18:
 
     # nvlsson "You think 😊"
-    nvlsson "大人是这么想的吗？😊"
+    nvlsson "爸爸是这么想的吗？😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:8997
 translate zh_Hans son_sissy_storyline_159_d4cbdf57:
@@ -17856,7 +17856,7 @@ translate zh_Hans son_sissy_storyline_159_476c9380:
 translate zh_Hans son_sissy_storyline_159_f1f4280f:
 
     # nvlvalerie "I need a break after last night"
-    nvlvalerie "昨晚之后，人家需要休息一下。"
+    nvlvalerie "昨晚之后，我需要休息一下。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9005
 translate zh_Hans son_sissy_storyline_159_a9907ab0:
@@ -17868,7 +17868,7 @@ translate zh_Hans son_sissy_storyline_159_a9907ab0:
 translate zh_Hans son_sissy_storyline_159_5c0ab798:
 
     # nvlsson "I meant later"
-    nvlsson "爸爸是说以后啦。"
+    nvlsson "我是说以后啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9009
 translate zh_Hans son_sissy_storyline_159_60506ffc:
@@ -17886,7 +17886,7 @@ translate zh_Hans son_sissy_storyline_159_1bae284d:
 translate zh_Hans son_sissy_storyline_159_f0d7b681:
 
     # nvlsson "That's exactly what I wanted to hear 😊"
-    nvlsson "大人，人家就是想听你这么说呢~ 😊"
+    nvlsson "爸爸，我就是想听你这么说呢~ 😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9015
 translate zh_Hans son_sissy_storyline_159_cca3e120:
@@ -17934,7 +17934,7 @@ translate zh_Hans son_sissy_storyline_159_16733586:
 translate zh_Hans son_sissy_storyline_159_9006b03a:
 
     # nvlvalerie "Well, you did ask me about him yesterday"
-    nvlvalerie "嗯，你昨天确实问过人家关于他的事。"
+    nvlvalerie "嗯，你昨天确实问过我关于他的事。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9031
 translate zh_Hans son_sissy_storyline_159_27c2dc75:
@@ -17996,7 +17996,7 @@ translate zh_Hans son_sissy_storyline_160_1f87ff73:
 translate zh_Hans son_sissy_storyline_160_1acf9ba6:
 
     # nvlsson "I'm good"
-    nvlsson "人家……人家很好"
+    nvlsson "我……我很好"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9084
 translate zh_Hans son_sissy_storyline_160_64d9221b:
@@ -18008,7 +18008,7 @@ translate zh_Hans son_sissy_storyline_160_64d9221b:
 translate zh_Hans son_sissy_storyline_160_08a31906:
 
     # nvljenna "I'm good as well"
-    nvljenna "人家也觉得这样很好呢。"
+    nvljenna "我也觉得这样很好呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9088
 translate zh_Hans son_sissy_storyline_160_8418b03d:
@@ -18020,13 +18020,13 @@ translate zh_Hans son_sissy_storyline_160_8418b03d:
 translate zh_Hans son_sissy_storyline_160_682d6ec2:
 
     # nvljenna "Will you be busy?"
-    nvljenna "爸爸，你会很忙吗？"
+    nvljenna "你会很忙吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9092
 translate zh_Hans son_sissy_storyline_160_c39955b2:
 
     # nvlsson "No plans, really"
-    nvlsson "人家没什么安排呢，真的。"
+    nvlsson "我没什么安排呢，真的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9094
 translate zh_Hans son_sissy_storyline_160_8f5e4d3a:
@@ -18044,13 +18044,13 @@ translate zh_Hans son_sissy_storyline_160_60bee2ed:
 translate zh_Hans son_sissy_storyline_160_036e5284:
 
     # nvljenna "I've got a surprise for you 😊"
-    nvljenna "大人，人家给你准备了一个惊喜哦~ 😊"
+    nvljenna "大人，我给你准备了一个惊喜哦~ 😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9100
 translate zh_Hans son_sissy_storyline_160_36e1f363:
 
     # nvlsson "A surprise? What kind of surprise?"
-    nvlsson "惊喜？是什么样的惊喜呀？人家好期待呢！"
+    nvlsson "惊喜？是什么样的惊喜呀？我好期待呢！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9102
 translate zh_Hans son_sissy_storyline_160_c72ac369:
@@ -18074,7 +18074,7 @@ translate zh_Hans son_sissy_storyline_160_e9b49cea:
 translate zh_Hans son_sissy_storyline_160_65b00d3a:
 
     # nvljenna "Can we?"
-    nvljenna "人家可以吗？"
+    nvljenna "我可以吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9110
 translate zh_Hans son_sissy_storyline_160_7e126446:
@@ -18098,7 +18098,7 @@ translate zh_Hans son_sissy_storyline_160_dc20233f:
 translate zh_Hans son_sissy_storyline_160_535b9061:
 
     # nvlsson "Alright"
-    nvlsson "遵命，大人，这就给你看。"
+    nvlsson "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9118
 translate zh_Hans son_sissy_storyline_160_69b1c4d8:
@@ -18116,13 +18116,13 @@ translate zh_Hans son_sissy_storyline_160_6862ffa9:
 translate zh_Hans son_sissy_storyline_160_0296cfcc:
 
     # nvlsson "If you say so, then I'm sure I will 😊"
-    nvlsson "大人都这么说了，人家一定会做到的~ 😊"
+    nvlsson "爸爸都这么说了，我一定会做到的~ 😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9124
 translate zh_Hans son_sissy_storyline_160_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9126
 translate zh_Hans son_sissy_storyline_160_b8c57936:
@@ -18134,13 +18134,13 @@ translate zh_Hans son_sissy_storyline_160_b8c57936:
 translate zh_Hans son_sissy_storyline_160_d6338830:
 
     # nvlsson "I'll wait for your address"
-    nvlsson "人家会等你的地址的。"
+    nvlsson "我会等你的地址的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9130
 translate zh_Hans son_sissy_storyline_160_975050dc:
 
     # nvljenna "Yes"
-    nvljenna "是的，人家明白了。"
+    nvljenna "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9144
 translate zh_Hans son_sissy_storyline_160_53c71d7c:
@@ -18172,7 +18172,7 @@ translate zh_Hans son_sissy_storyline_161_c8740326:
 translate zh_Hans son_sissy_storyline_161_1acf9ba6:
 
     # nvlsson "I'm good"
-    nvlsson "人家……人家很好"
+    nvlsson "我……我很好"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9173
 translate zh_Hans son_sissy_storyline_161_64d9221b:
@@ -18184,7 +18184,7 @@ translate zh_Hans son_sissy_storyline_161_64d9221b:
 translate zh_Hans son_sissy_storyline_161_27712975:
 
     # nvlnatalie "I'm good as well"
-    nvlnatalie "人家也觉得这样很好呢。"
+    nvlnatalie "我也觉得这样很好呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9177
 translate zh_Hans son_sissy_storyline_161_dae3f6f8:
@@ -18202,7 +18202,7 @@ translate zh_Hans son_sissy_storyline_161_20d458a2:
 translate zh_Hans son_sissy_storyline_161_c601ec3d:
 
     # nvlsson "I'm at work right now"
-    nvlsson "人家现在在工作呢。"
+    nvlsson "我现在在工作呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9183
 translate zh_Hans son_sissy_storyline_161_39fc3db7:
@@ -18238,13 +18238,13 @@ translate zh_Hans son_sissy_storyline_161_4d41cb14:
 translate zh_Hans son_sissy_storyline_161_7a04d3c8:
 
     # nvlnatalie "I think he is 😉"
-    nvlnatalie "人家觉得他就是呢~ 😉"
+    nvlnatalie "我觉得他就是呢~ 😉"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9195
 translate zh_Hans son_sissy_storyline_161_2dc6bdc7:
 
     # nvlsson "😊"
-    nvlsson ""
+    nvlsson "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9197
 translate zh_Hans son_sissy_storyline_161_66cc6e8b:
@@ -18268,13 +18268,13 @@ translate zh_Hans son_sissy_storyline_161_c349396a:
 translate zh_Hans son_sissy_storyline_161_6d07d40f:
 
     # nvlsson "I can't this weekend"
-    nvlsson "人家这个周末不行呢。"
+    nvlsson "我这个周末不行呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9205
 translate zh_Hans son_sissy_storyline_161_aab5d1e0:
 
     # nvlsson "I've already been invited somewhere"
-    nvlsson "人家已经被邀请去别的地方了。"
+    nvlsson "我已经被邀请去别的地方了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9207
 translate zh_Hans son_sissy_storyline_161_efe22533:
@@ -18286,13 +18286,13 @@ translate zh_Hans son_sissy_storyline_161_efe22533:
 translate zh_Hans son_sissy_storyline_161_5aa4ed5d:
 
     # nvlsson "I don't know yet"
-    nvlsson "爸爸还不确定。"
+    nvlsson "我还不确定。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9211
 translate zh_Hans son_sissy_storyline_161_06730a9a:
 
     # nvlsson "But I definitely can't go clubbing"
-    nvlsson "但是人家肯定不能去夜店的。"
+    nvlsson "但是我肯定不能去夜店的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9213
 translate zh_Hans son_sissy_storyline_161_39fc3db7_1:
@@ -18328,7 +18328,7 @@ translate zh_Hans son_sissy_storyline_161_6216328c:
 translate zh_Hans son_sissy_storyline_161_d000ffb3:
 
     # nvlsson "I like her too"
-    nvlsson "人家也喜欢她呀。"
+    nvlsson "我也喜欢她呀。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9225
 translate zh_Hans son_sissy_storyline_161_cf4428e2:
@@ -18358,13 +18358,13 @@ translate zh_Hans son_sissy_storyline_161_2b09a891:
 translate zh_Hans son_sissy_storyline_161_012118a9:
 
     # nvlnatalie "Yes"
-    nvlnatalie "是的，人家明白了。"
+    nvlnatalie "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9235
 translate zh_Hans son_sissy_storyline_161_847fdbd2:
 
     # nvlsson "I'll send it to you later"
-    nvlsson "人家晚点发给你。"
+    nvlsson "我晚点发给你。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9237
 translate zh_Hans son_sissy_storyline_161_822e9624:
@@ -18400,13 +18400,13 @@ translate zh_Hans son_sissy_storyline_161_e4010f4f:
 translate zh_Hans son_sissy_storyline_161_417a4bcf:
 
     # nvlsson "No, I don't know"
-    nvlsson "人家不知道呢。"
+    nvlsson "我不知道呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9249
 translate zh_Hans son_sissy_storyline_161_563ef351:
 
     # nvlsson "She didn't tell me anything"
-    nvlsson "她什么都没告诉人家。"
+    nvlsson "她什么都没告诉我。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9251
 translate zh_Hans son_sissy_storyline_161_9dcee4ca:
@@ -18436,7 +18436,7 @@ translate zh_Hans son_sissy_storyline_161_38d638d5:
 translate zh_Hans son_sissy_storyline_161_76739c3a:
 
     # nvlnatalie "😊"
-    nvlnatalie ""
+    nvlnatalie "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9261
 translate zh_Hans son_sissy_storyline_161_50421bc7:
@@ -18478,7 +18478,7 @@ translate zh_Hans son_sissy_storyline_161_8232c8a2:
 translate zh_Hans son_sissy_storyline_161_7e121ecf:
 
     # nvlsson "Okay, I'll send it later"
-    nvlsson "好的，人家待会儿就发给你。"
+    nvlsson "好的，我待会儿就发给你。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9289
 translate zh_Hans son_sissy_storyline_161_53c71d7c:
@@ -18510,7 +18510,7 @@ translate zh_Hans son_sissy_storyline_162_4c1ac3ec:
 translate zh_Hans son_sissy_storyline_162_1acf9ba6:
 
     # nvlsson "I'm good"
-    nvlsson "人家……人家很好"
+    nvlsson "我……我很好"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9318
 translate zh_Hans son_sissy_storyline_162_051e7e5f:
@@ -18522,7 +18522,7 @@ translate zh_Hans son_sissy_storyline_162_051e7e5f:
 translate zh_Hans son_sissy_storyline_162_08a31906:
 
     # nvljenna "I'm good as well"
-    nvljenna "人家也觉得这样很好呢。"
+    nvljenna "我也觉得这样很好呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9322
 translate zh_Hans son_sissy_storyline_162_b973606d:
@@ -18546,13 +18546,13 @@ translate zh_Hans son_sissy_storyline_162_5062119f:
 translate zh_Hans son_sissy_storyline_162_12ac79e3:
 
     # nvlsson "Where exactly should I come?"
-    nvlsson "人家应该去哪里呢？"
+    nvlsson "我应该去哪里呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9330
 translate zh_Hans son_sissy_storyline_162_acfc7aa8:
 
     # nvlsson "You haven't sent me the address yet"
-    nvlsson "你还没把地址发给人家的呢。"
+    nvlsson "你还没把地址发给我的呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9332
 translate zh_Hans son_sissy_storyline_162_53c42128:
@@ -18600,7 +18600,7 @@ translate zh_Hans son_sissy_storyline_162_47cfe18f:
 translate zh_Hans son_sissy_storyline_162_c7a11ead:
 
     # nvlsson "What exactly should I wear?"
-    nvlsson "人家到底该穿什么呢？"
+    nvlsson "我到底该穿什么呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9348
 translate zh_Hans son_sissy_storyline_162_0f961950:
@@ -18618,7 +18618,7 @@ translate zh_Hans son_sissy_storyline_162_65ec533f:
 translate zh_Hans son_sissy_storyline_162_535b9061:
 
     # nvlsson "Alright"
-    nvlsson "遵命，大人，这就给你看。"
+    nvlsson "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9354
 translate zh_Hans son_sissy_storyline_162_7a7807de:
@@ -18654,7 +18654,7 @@ translate zh_Hans son_sissy_storyline_163_76b2fe88:
 translate zh_Hans son_sissy_storyline_163_ea9b8e7b:
 
     # nvljenna "{a=show:show_chat_media}{image=mikky_pic_52}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=mikky_pic_52}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9401
 translate zh_Hans son_sissy_storyline_163_214ce2c4:
@@ -18666,7 +18666,7 @@ translate zh_Hans son_sissy_storyline_163_214ce2c4:
 translate zh_Hans son_sissy_storyline_163_52945e8b:
 
     # nvljenna "{a=show:show_chat_media}{image=mikky_pic_53}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=mikky_pic_53}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9409
 translate zh_Hans son_sissy_storyline_163_6d22a7de:
@@ -18702,7 +18702,7 @@ translate zh_Hans son_sissy_storyline_163_f48b4196:
 translate zh_Hans son_sissy_storyline_163_afb6ff22:
 
     # nvljohn "Is that why you invited him over?"
-    nvljohn "你是因为这个才叫人家过来的吗？"
+    nvljohn "你是因为这个才叫我过来的吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9421
 translate zh_Hans son_sissy_storyline_163_24f72432:
@@ -18726,7 +18726,7 @@ translate zh_Hans son_sissy_storyline_163_71483664:
 translate zh_Hans son_sissy_storyline_163_854873b5:
 
     # nvljenna "{a=show:show_chat_media}{image=mikky_pic_54}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=mikky_pic_54}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9433
 translate zh_Hans son_sissy_storyline_163_70922525:
@@ -18780,25 +18780,25 @@ translate zh_Hans son_sissy_storyline_163_fc25c26d:
 translate zh_Hans son_sissy_storyline_163_dc645139:
 
     # nvljohn "Yes"
-    nvljohn "是的，人家明白了。"
+    nvljohn "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9451
 translate zh_Hans son_sissy_storyline_163_924ad1a7:
 
     # nvljohn "I like them"
-    nvljohn "人家喜欢。"
+    nvljohn "我喜欢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9453
 translate zh_Hans son_sissy_storyline_163_8f3ea423:
 
     # nvljohn "A lot"
-    nvljohn "人家好喜欢，好喜欢呢。"
+    nvljohn "我好喜欢，好喜欢呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9455
 translate zh_Hans son_sissy_storyline_163_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9457
 translate zh_Hans son_sissy_storyline_163_112f72a9:
@@ -18828,7 +18828,7 @@ translate zh_Hans son_sissy_storyline_163_a49cce3c:
 translate zh_Hans son_sissy_storyline_163_574be057:
 
     # nvljenna "Always happy to please you 😊"
-    nvljenna "能让大人开心，人家就最满足了呢~ 😊"
+    nvljenna "能让大人开心，我就最满足了呢~ 😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9467
 translate zh_Hans son_sissy_storyline_163_0b00f916:
@@ -18960,7 +18960,7 @@ translate zh_Hans son_sissy_storyline_163_a9d0f4c7:
 translate zh_Hans son_sissy_storyline_163_229402f8:
 
     # nvljohn "I don't know"
-    nvljohn "人家也不知道。"
+    nvljohn "我也不知道。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9511
 translate zh_Hans son_sissy_storyline_163_61e22847:
@@ -18990,7 +18990,7 @@ translate zh_Hans son_sissy_storyline_163_90b3c952:
 translate zh_Hans son_sissy_storyline_163_db0781ff:
 
     # nvljenna "Right now, I've got other plans for him 😊"
-    nvljenna "大人，人家现在对他有别的安排呢~ 😊"
+    nvljenna "大人，我现在对他有别的安排呢~ 😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9521
 translate zh_Hans son_sissy_storyline_163_3071d1d9:
@@ -19026,7 +19026,7 @@ translate zh_Hans son_sissy_storyline_163_fb08b30b:
 translate zh_Hans son_sissy_storyline_163_8f4a1818:
 
     # nvljenna "Alright, I need to go"
-    nvljenna "好了，爸爸该走了。"
+    nvljenna "好了，我该走了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9533
 translate zh_Hans son_sissy_storyline_163_407b1a15:
@@ -19056,7 +19056,7 @@ translate zh_Hans son_sissy_storyline_163_53c71d7c:
 translate zh_Hans son_sissy_storyline_163_after_2fdcee70:
 
     # mc "{i}So, Jenna and her friends fucked my son"
-    mc "{i}所以，珍娜和她的朋友们把人家给好好地疼爱了一番呢~"
+    mc "{i}所以，珍娜和她的朋友们把我给好好地疼爱了一番呢~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9569
 translate zh_Hans son_sissy_storyline_163_after_0d602a8e:
@@ -19074,13 +19074,13 @@ translate zh_Hans son_sissy_storyline_163_after_82b9f930:
 translate zh_Hans son_sissy_storyline_163_after_b83ec1e9:
 
     # mc "{i}Something tells me Mikky really enjoyed it"
-    mc "{i}人家觉得，你的好米基真的好喜欢那种被疼爱的感觉呢~"
+    mc "{i}我觉得，你的好米基真的好喜欢那种被疼爱的感觉呢~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9575
 translate zh_Hans son_sissy_storyline_163_after_46128fde:
 
     # mc "{i}He probably kept asking them to fuck him deeper and harder"
-    mc "{i}人家大概一直求着她们，再深一点，再用力一点地疼爱人家呢~"
+    mc "{i}我大概一直求着她们，再深一点，再用力一点地疼爱我呢~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9577
 translate zh_Hans son_sissy_storyline_163_after_6cc75d5f:
@@ -19142,7 +19142,7 @@ translate zh_Hans son_sissy_storyline_164_1b140d9c:
 translate zh_Hans son_sissy_storyline_164_1de42b44:
 
     # nvlsson "Yes, I did"
-    nvlsson "是的，大人，人家都乖乖买好了。"
+    nvlsson "是的，爸爸，我都乖乖买好了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9616
 translate zh_Hans son_sissy_storyline_164_6e6db94a:
@@ -19160,7 +19160,7 @@ translate zh_Hans son_sissy_storyline_164_3731a90b:
 translate zh_Hans son_sissy_storyline_164_d148dc7a:
 
     # nvlnatalie "Went clubbing with Valerie 😊"
-    nvlnatalie "人家和瓦莱丽去夜店玩了呢 😊"
+    nvlnatalie "我和瓦莱丽去夜店玩了呢 😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9622
 translate zh_Hans son_sissy_storyline_164_ebc9e4c9:
@@ -19190,7 +19190,7 @@ translate zh_Hans son_sissy_storyline_164_85f2b784:
 translate zh_Hans son_sissy_storyline_164_2df253b0:
 
     # nvlnatalie "We went together but quickly found guys there 😊"
-    nvlnatalie "人家们一起去的，不过很快就找到帅哥们了呢 😊"
+    nvlnatalie "我们一起去的，不过很快就找到帅哥们了呢 😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9632
 translate zh_Hans son_sissy_storyline_164_ccc432bf:
@@ -19238,13 +19238,13 @@ translate zh_Hans son_sissy_storyline_164_a5a64a13:
 translate zh_Hans son_sissy_storyline_164_bd80383e:
 
     # nvlnatalie "I went home with a guy as well 😉"
-    nvlnatalie "人家也和一个帅哥回家了哦 😉"
+    nvlnatalie "我也和一个帅哥回家了哦 😉"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9650
 translate zh_Hans son_sissy_storyline_164_57b0e2d0:
 
     # nvlnatalie "{a=show:show_chat_media}{image=natalie_pic_8}"
-    nvlnatalie ""
+    nvlnatalie "{a=show:show_chat_media}{image=natalie_pic_8}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9654
 translate zh_Hans son_sissy_storyline_164_80a3b7b6:
@@ -19274,7 +19274,7 @@ translate zh_Hans son_sissy_storyline_164_98e82b43:
 translate zh_Hans son_sissy_storyline_164_0e59b150:
 
     # nvlsson "Well, you could say I did the same as you two"
-    nvlsson "嗯，你也可以说人家和你们两个一样呢。"
+    nvlsson "嗯，你也可以说我和你们两个一样呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9664
 translate zh_Hans son_sissy_storyline_164_67f2b9e5:
@@ -19286,7 +19286,7 @@ translate zh_Hans son_sissy_storyline_164_67f2b9e5:
 translate zh_Hans son_sissy_storyline_164_de0d5824:
 
     # nvlnatalie "Or fucked? 😊"
-    nvlnatalie "或者说，人家是被好好疼爱了呢？😊"
+    nvlnatalie "或者说，我是被好好疼爱了呢？😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9668
 translate zh_Hans son_sissy_storyline_164_dc2cee9a:
@@ -19346,7 +19346,7 @@ translate zh_Hans son_sissy_storyline_164_32c0bc4d:
 translate zh_Hans son_sissy_storyline_164_21d2b520:
 
     # nvlsson "She fucked me"
-    nvlsson "是她疼爱了人家呢。"
+    nvlsson "是她疼爱了我呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9688
 translate zh_Hans son_sissy_storyline_164_b2fd14f1:
@@ -19376,13 +19376,13 @@ translate zh_Hans son_sissy_storyline_164_0d5e6bd8:
 translate zh_Hans son_sissy_storyline_164_833471c8:
 
     # nvlsson "But overall, yes, I liked it"
-    nvlsson "不过总体来说，人家好喜欢哦。"
+    nvlsson "不过总体来说，我好喜欢哦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9698
 translate zh_Hans son_sissy_storyline_164_801146e7:
 
     # nvlsson "I didn't think it'd feel so good"
-    nvlsson "人家没想到会那么舒服呢。"
+    nvlsson "我没想到会那么舒服呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9700
 translate zh_Hans son_sissy_storyline_164_bfa83f20:
@@ -19412,19 +19412,19 @@ translate zh_Hans son_sissy_storyline_164_12390a52:
 translate zh_Hans son_sissy_storyline_164_d7c80dda:
 
     # nvlsson "Yeah, I suppose that's true"
-    nvlsson "嗯，人家想也是呢。"
+    nvlsson "嗯，我想也是呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9710
 translate zh_Hans son_sissy_storyline_164_76739c3a:
 
     # nvlnatalie "😊"
-    nvlnatalie ""
+    nvlnatalie "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9712
 translate zh_Hans son_sissy_storyline_164_b26f6a6e:
 
     # nvlnatalie "Now I want some too"
-    nvlnatalie "人家现在也想要了呢。"
+    nvlnatalie "我现在也想要了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9714
 translate zh_Hans son_sissy_storyline_164_0cf3fefd:
@@ -19436,7 +19436,7 @@ translate zh_Hans son_sissy_storyline_164_0cf3fefd:
 translate zh_Hans son_sissy_storyline_164_b22f38ca:
 
     # nvlnatalie "I'll text my friend who sometimes fucks me"
-    nvlnatalie "人家这就去联系那个偶尔会疼爱人家一下的朋友。"
+    nvlnatalie "我这就去联系那个偶尔会疼爱我一下的朋友。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9718
 translate zh_Hans son_sissy_storyline_164_da83a1b5:
@@ -19466,7 +19466,7 @@ translate zh_Hans son_sissy_storyline_164_65b62763_1:
 translate zh_Hans son_sissy_storyline_164_a72a1d96:
 
     # nvlnatalie "Well, you've got a friend like that too"
-    nvlnatalie "嗯，你不就是人家这样的朋友吗？"
+    nvlnatalie "嗯，你不就是我这样的朋友吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9728
 translate zh_Hans son_sissy_storyline_164_aa6b1c13:
@@ -19484,7 +19484,7 @@ translate zh_Hans son_sissy_storyline_164_3ea77d94:
 translate zh_Hans son_sissy_storyline_164_65d4eb9e:
 
     # nvlnatalie "I don't think she'd say no"
-    nvlnatalie "人家觉得她不会拒绝的啦。"
+    nvlnatalie "我觉得她不会拒绝的啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9734
 translate zh_Hans son_sissy_storyline_164_105448ac:
@@ -19526,7 +19526,7 @@ translate zh_Hans son_sissy_storyline_164_cf3182ec:
 translate zh_Hans son_sissy_storyline_164_42698f88:
 
     # nvlnatalie "Having sex 😊"
-    nvlnatalie "人家正在被疼爱呢 😊"
+    nvlnatalie "我正在被疼爱呢 😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9748
 translate zh_Hans son_sissy_storyline_164_3b5d6685:
@@ -19562,7 +19562,7 @@ translate zh_Hans son_sissy_storyline_164_0f8988bc:
 translate zh_Hans son_sissy_storyline_164_f5f5f0af:
 
     # nvlsson "I will"
-    nvlsson "人家会的。"
+    nvlsson "我会的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9760
 translate zh_Hans son_sissy_storyline_164_37fdbe3f:
@@ -19654,19 +19654,19 @@ translate zh_Hans son_sissy_storyline_165_07034e75:
 translate zh_Hans son_sissy_storyline_165_71207431:
 
     # nvlsson "I really enjoyed it"
-    nvlsson "人家好享受哦。"
+    nvlsson "我好享受哦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9821
 translate zh_Hans son_sissy_storyline_165_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9823
 translate zh_Hans son_sissy_storyline_165_778cf715:
 
     # nvljenna "Wanna do it again?"
-    nvljenna "人家还想再来一次呢。"
+    nvljenna "我还想再来一次呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9825
 translate zh_Hans son_sissy_storyline_165_5062119f:
@@ -19696,7 +19696,7 @@ translate zh_Hans son_sissy_storyline_165_acd64eb1:
 translate zh_Hans son_sissy_storyline_165_1c55d256:
 
     # nvljenna "Not sure yet"
-    nvljenna "人家还不确定呢。"
+    nvljenna "我还不确定呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9835
 translate zh_Hans son_sissy_storyline_165_c049ba04:
@@ -19738,7 +19738,7 @@ translate zh_Hans son_sissy_storyline_165_70f7bcb7:
 translate zh_Hans son_sissy_storyline_165_3498cd88:
 
     # nvljenna "{a=show:show_chat_media}{image=sissy_video_6_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=sissy_video_6_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9853
 translate zh_Hans son_sissy_storyline_165_214ce2c4:
@@ -19762,13 +19762,13 @@ translate zh_Hans son_sissy_storyline_165_884d5187:
 translate zh_Hans son_sissy_storyline_165_a5ff0cce:
 
     # nvlsson "Well... yes, I guess"
-    nvlsson "嗯……人家想……人家是喜欢的吧。"
+    nvlsson "嗯……我想……我是喜欢的吧。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9861
 translate zh_Hans son_sissy_storyline_165_a7e31276:
 
     # nvlsson "I do"
-    nvlsson "人家好想呢。"
+    nvlsson "我好想呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9863
 translate zh_Hans son_sissy_storyline_165_24f72432_1:
@@ -19786,7 +19786,7 @@ translate zh_Hans son_sissy_storyline_165_d8181d24:
 translate zh_Hans son_sissy_storyline_165_edf5487c:
 
     # nvljenna "{a=show:show_chat_media}{image=sissy_video_7_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=sissy_video_7_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9873
 translate zh_Hans son_sissy_storyline_165_a8309b9b:
@@ -19822,13 +19822,13 @@ translate zh_Hans son_sissy_storyline_165_6fbd28e0:
 translate zh_Hans son_sissy_storyline_165_443303f7:
 
     # nvlsson "I think it already is"
-    nvlsson "人家觉得……现在就已经很美好了呢。"
+    nvlsson "我觉得……现在就已经很美好了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9885
 translate zh_Hans son_sissy_storyline_165_7ac58831:
 
     # nvlsson "My life has been incredible since I became who I am now"
-    nvlsson "自从人家变成了现在的样子，生活简直不可思议，充满了甜美的滋味呢。"
+    nvlsson "自从我变成了现在的样子，生活简直不可思议，充满了甜美的滋味呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9887
 translate zh_Hans son_sissy_storyline_165_225fb617:
@@ -19846,13 +19846,13 @@ translate zh_Hans son_sissy_storyline_165_36630c18:
 translate zh_Hans son_sissy_storyline_165_3fcd500e:
 
     # nvlsson "And it's all thanks to you"
-    nvlsson "这都是大人的功劳呀。"
+    nvlsson "这都是爸爸的功劳呀。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9893
 translate zh_Hans son_sissy_storyline_165_fbc8fe60_1:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9895
 translate zh_Hans son_sissy_storyline_165_9a2a8426:
@@ -19876,13 +19876,13 @@ translate zh_Hans son_sissy_storyline_165_8688ed81:
 translate zh_Hans son_sissy_storyline_165_30233189:
 
     # nvlsson "But without your help, it wouldn't have happened"
-    nvlsson "可是没有大人的疼爱和调教，人家根本不可能变成这样呢。"
+    nvlsson "可是没有爸爸的疼爱和调教，我根本不可能变成这样呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9903
 translate zh_Hans son_sissy_storyline_165_615c1488:
 
     # nvlsson "I couldn't have done it without you"
-    nvlsson "没有大人，人家什么都做不到的，人家是属于大人的。"
+    nvlsson "没有爸爸，我什么都做不到的，我是属于爸爸的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9905
 translate zh_Hans son_sissy_storyline_165_dddf6aa7:
@@ -19918,7 +19918,7 @@ translate zh_Hans son_sissy_storyline_165_312046b0:
 translate zh_Hans son_sissy_storyline_165_2dc6bdc7:
 
     # nvlsson "😊"
-    nvlsson ""
+    nvlsson "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9917
 translate zh_Hans son_sissy_storyline_165_38d98b9e:
@@ -19942,13 +19942,13 @@ translate zh_Hans son_sissy_storyline_165_30423f9f:
 translate zh_Hans son_sissy_storyline_165_4a65be43:
 
     # nvlsson "Message me if you can arrange to meet again"
-    nvlsson "如果能再安排见面，就给大人发消息。"
+    nvlsson "如果能再安排见面，就给爸爸发消息。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9925
 translate zh_Hans son_sissy_storyline_165_f2a9ab67:
 
     # nvljenna "I'll definitely message you"
-    nvljenna "人家一定会给大人发消息的！人家好想再见到大人呢。"
+    nvljenna "我一定会给大人发消息的！我好想再见到大人呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9927
 translate zh_Hans son_sissy_storyline_165_3107410f:
@@ -19960,7 +19960,7 @@ translate zh_Hans son_sissy_storyline_165_3107410f:
 translate zh_Hans son_sissy_storyline_165_376503af:
 
     # nvljenna "Bye-bye"
-    nvljenna "大人再见~ 人家会想你的。"
+    nvljenna "大人再见~ 我会想你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9943
 translate zh_Hans son_sissy_storyline_165_53c71d7c:
@@ -19980,7 +19980,7 @@ translate zh_Hans son_sissy_storyline_166_027d3ad0:
 translate zh_Hans son_sissy_storyline_166_933391d5:
 
     # nvlsson "Is it something important?"
-    nvlsson "是……有什么要紧的事情吗？人家有点紧张呢。"
+    nvlsson "是……有什么要紧的事情吗？我有点紧张呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9968
 translate zh_Hans son_sissy_storyline_166_e538be46:
@@ -20004,7 +20004,7 @@ translate zh_Hans son_sissy_storyline_166_c9e54bc1:
 translate zh_Hans son_sissy_storyline_166_d0178062:
 
     # nvlsson "I'm sorry"
-    nvlsson "人家对不起。"
+    nvlsson "我对不起。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:9976
 translate zh_Hans son_sissy_storyline_166_4c58bce4:
@@ -20054,7 +20054,7 @@ translate zh_Hans son_sissy_storyline_167_e3a54019:
 translate zh_Hans son_sissy_storyline_167_73ac69be:
 
     # nvlsson "What else am I supposed to do with it?"
-    nvlsson "人家还能怎么做呢？大人的精华，人家当然要好好品尝呀。"
+    nvlsson "我还能怎么做呢？爸爸的精华，我当然要好好品尝呀。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10023
 translate zh_Hans son_sissy_storyline_167_e0e7f46c:
@@ -20078,7 +20078,7 @@ translate zh_Hans son_sissy_storyline_167_4d9ad9d0:
 translate zh_Hans son_sissy_storyline_167_7e3a6856:
 
     # nvlsson "Well, it's fine for me"
-    nvlsson "嗯……人家觉得，大人的精华是甜甜的，人家好喜欢呢。"
+    nvlsson "嗯……我觉得，爸爸的精华是甜甜的，我好喜欢呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10031
 translate zh_Hans son_sissy_storyline_167_38243806:
@@ -20096,7 +20096,7 @@ translate zh_Hans son_sissy_storyline_167_7390ab39:
 translate zh_Hans son_sissy_storyline_167_7b69f044:
 
     # nvlsson "I need to get back to work"
-    nvlsson "人家得回去工作了。"
+    nvlsson "我得回去工作了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10037
 translate zh_Hans son_sissy_storyline_167_085dd038:
@@ -20108,7 +20108,7 @@ translate zh_Hans son_sissy_storyline_167_085dd038:
 translate zh_Hans son_sissy_storyline_167_e3c5df0f:
 
     # nvljim "{a=show:show_chat_media}{image=cum_pic_4}"
-    nvljim ""
+    nvljim "{a=show:show_chat_media}{image=cum_pic_4}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10045
 translate zh_Hans son_sissy_storyline_167_a06ba08d:
@@ -20132,7 +20132,7 @@ translate zh_Hans son_sissy_storyline_167_2b1db54e:
 translate zh_Hans son_sissy_storyline_167_c0e0d86f:
 
     # nvlsson "I'm going to work now, Mr Jim"
-    nvlsson "吉姆先生，人家现在要去工作了，不然会耽误大人的生意的。"
+    nvlsson "吉姆先生，我现在要去工作了，不然会耽误爸爸的生意的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10053
 translate zh_Hans son_sissy_storyline_167_eac7571e:
@@ -20174,7 +20174,7 @@ translate zh_Hans son_sissy_storyline_167_cfd14670:
 translate zh_Hans son_sissy_storyline_167_c16ac3aa:
 
     # nvlsson "Yes, I remember"
-    nvlsson "是的，人家记得的，爸爸。"
+    nvlsson "是的，我记得的，爸爸。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10067
 translate zh_Hans son_sissy_storyline_167_710028b2:
@@ -20210,7 +20210,7 @@ translate zh_Hans son_sissy_storyline_167_922f0bcd:
 translate zh_Hans son_sissy_storyline_167_6fdafac4:
 
     # nvlsson "We're trying really hard"
-    nvlsson "人家一直都很努力的呀！"
+    nvlsson "我一直都很努力的呀！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10079
 translate zh_Hans son_sissy_storyline_167_da9af5a6:
@@ -20260,7 +20260,7 @@ translate zh_Hans son_sissy_storyline_168_98a43b9f:
 translate zh_Hans son_sissy_storyline_168_4039976c:
 
     # nvlsson "I'm fine"
-    nvlsson "人家没事啦。"
+    nvlsson "我没事啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10128
 translate zh_Hans son_sissy_storyline_168_27155e1f:
@@ -20314,7 +20314,7 @@ translate zh_Hans son_sissy_storyline_168_b750ae16:
 translate zh_Hans son_sissy_storyline_168_eef67dab:
 
     # nvlsson "Fine, I'll come"
-    nvlsson "好吧，人家会去的"
+    nvlsson "好吧，我会去的"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10146
 translate zh_Hans son_sissy_storyline_168_ec7b1c44:
@@ -20418,7 +20418,7 @@ translate zh_Hans son_sissy_storyline_169_d3c7637d:
 translate zh_Hans son_sissy_storyline_169_535b9061:
 
     # nvlsson "Alright"
-    nvlsson "遵命，大人，这就给你看。"
+    nvlsson "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10211
 translate zh_Hans son_sissy_storyline_169_455b9a42:
@@ -20474,7 +20474,7 @@ translate zh_Hans son_sissy_storyline_170_7915c603:
 translate zh_Hans son_sissy_storyline_170_0a6d35a8:
 
     # nvlvalerie "Yes, we've finished"
-    nvlvalerie "是的，人家已经忙完了。"
+    nvlvalerie "是的，我已经忙完了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10260
 translate zh_Hans son_sissy_storyline_170_73fcd22f:
@@ -20536,13 +20536,13 @@ translate zh_Hans son_sissy_storyline_171_eca8bb3f:
 translate zh_Hans son_sissy_storyline_171_e29c4da1:
 
     # nvlsson "Alright, I'll come now"
-    nvlsson "好的，人家这就过来。"
+    nvlsson "好的，我这就过来。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10313
 translate zh_Hans son_sissy_storyline_171_0467c914:
 
     # nvljim "I'm waiting for you"
-    nvljim "人家在等你呢，身子都酥麻了，好想你快点回来。"
+    nvljim "我在等你呢，身子都酥麻了，好想你快点回来。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10327
 translate zh_Hans son_sissy_storyline_171_53c71d7c:
@@ -20574,7 +20574,7 @@ translate zh_Hans son_sissy_storyline_172_569df6c0:
 translate zh_Hans son_sissy_storyline_172_6bfddb66:
 
     # nvlsson "I'll try"
-    nvlsson "人家会努力的。"
+    nvlsson "我会努力的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10356
 translate zh_Hans son_sissy_storyline_172_2bdce665:
@@ -20592,7 +20592,7 @@ translate zh_Hans son_sissy_storyline_172_327208bb:
 translate zh_Hans son_sissy_storyline_172_3d4d5638:
 
     # nvljim "{a=show:show_chat_media}{image=valerie_video_6_ns}"
-    nvljim ""
+    nvljim "{a=show:show_chat_media}{image=valerie_video_6_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10366
 translate zh_Hans son_sissy_storyline_172_25e49710:
@@ -20610,7 +20610,7 @@ translate zh_Hans son_sissy_storyline_172_9d0f9354:
 translate zh_Hans son_sissy_storyline_172_95849a83:
 
     # nvljim "{a=show:show_chat_media}{image=valerie_video_7_ns}"
-    nvljim ""
+    nvljim "{a=show:show_chat_media}{image=valerie_video_7_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10376
 translate zh_Hans son_sissy_storyline_172_dd23054f:
@@ -20670,7 +20670,7 @@ translate zh_Hans son_sissy_storyline_172_874c3b52:
 translate zh_Hans son_sissy_storyline_172_da88bf78:
 
     # nvlsson "What kind of work?"
-    nvlsson "大人，会是什么样的工作呢？人家好想知道呀。"
+    nvlsson "爸爸，会是什么样的工作呢？我好想知道呀。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10396
 translate zh_Hans son_sissy_storyline_172_1980b0cc:
@@ -20694,7 +20694,7 @@ translate zh_Hans son_sissy_storyline_172_0a3327b4:
 translate zh_Hans son_sissy_storyline_172_b063e967:
 
     # nvlsson "Alright, as you say"
-    nvlsson "好的，大人说什么，人家就听什么。"
+    nvlsson "好的，爸爸说什么，我就听什么。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10404
 translate zh_Hans son_sissy_storyline_172_a75900b3:
@@ -20762,7 +20762,7 @@ translate zh_Hans son_sissy_storyline_173_47882d59:
 translate zh_Hans son_sissy_storyline_173_362b4e7e:
 
     # nvlsson "Just relaxing"
-    nvlsson "人家只是在放松一下身子呢。"
+    nvlsson "我只是在放松一下身子呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10459
 translate zh_Hans son_sissy_storyline_173_6d815e09:
@@ -20774,7 +20774,7 @@ translate zh_Hans son_sissy_storyline_173_6d815e09:
 translate zh_Hans son_sissy_storyline_173_357202c3:
 
     # nvlsson "Yes"
-    nvlsson "是的，人家明白了。"
+    nvlsson "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10463
 translate zh_Hans son_sissy_storyline_173_bb8d3ae8:
@@ -20792,7 +20792,7 @@ translate zh_Hans son_sissy_storyline_173_43e7b011:
 translate zh_Hans son_sissy_storyline_173_a9df0bce:
 
     # nvlsson "Sure, I'd love to"
-    nvlsson "当然啦，人家求之不得呢！"
+    nvlsson "当然啦，我求之不得呢！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10469
 translate zh_Hans son_sissy_storyline_173_8c0d3b66:
@@ -20804,7 +20804,7 @@ translate zh_Hans son_sissy_storyline_173_8c0d3b66:
 translate zh_Hans son_sissy_storyline_173_1cb3a565:
 
     # nvlsson "Yes, I can"
-    nvlsson "是的，人家现在就可以！"
+    nvlsson "是的，我现在就可以！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10473
 translate zh_Hans son_sissy_storyline_173_685c7d6d:
@@ -20828,19 +20828,19 @@ translate zh_Hans son_sissy_storyline_173_862afe01:
 translate zh_Hans son_sissy_storyline_173_535b9061:
 
     # nvlsson "Alright"
-    nvlsson "遵命，大人，这就给你看。"
+    nvlsson "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10481
 translate zh_Hans son_sissy_storyline_173_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10483
 translate zh_Hans son_sissy_storyline_173_affb9ce6:
 
     # nvljenna "I'll message my friends in the meantime"
-    nvljenna "人家这就去给朋友们发个消息，说人家有‘约’了。"
+    nvljenna "我这就去给朋友们发个消息，说我有‘约’了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10485
 translate zh_Hans son_sissy_storyline_173_1dc8c560:
@@ -20864,7 +20864,7 @@ translate zh_Hans son_sissy_storyline_173_03075618:
 translate zh_Hans son_sissy_storyline_173_083c6e3b:
 
     # nvlsson "Alright, I'll be there in an hour"
-    nvlsson "好的，大人，人家一个小时后就到！"
+    nvlsson "好的，爸爸，我一个小时后就到！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10507
 translate zh_Hans son_sissy_storyline_173_53c71d7c:
@@ -20896,7 +20896,7 @@ translate zh_Hans son_sissy_storyline_174_a520fda1:
 translate zh_Hans son_sissy_storyline_174_d5433e6a:
 
     # nvlsson "Really good"
-    nvlsson "人家感觉好极了，全身都酥酥麻麻的呢。"
+    nvlsson "我感觉好极了，全身都酥酥麻麻的呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10536
 translate zh_Hans son_sissy_storyline_174_f830542d:
@@ -20914,7 +20914,7 @@ translate zh_Hans son_sissy_storyline_174_07034e75:
 translate zh_Hans son_sissy_storyline_174_9b72be96:
 
     # nvlsson "Wish it could happen more often"
-    nvlsson "人家好希望，能更经常地被大人这样‘疼爱’呢。"
+    nvlsson "我好希望，能更经常地被爸爸这样‘疼爱’呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10542
 translate zh_Hans son_sissy_storyline_174_cfc053b0:
@@ -20944,19 +20944,19 @@ translate zh_Hans son_sissy_storyline_174_0ad7b694:
 translate zh_Hans son_sissy_storyline_174_fe7a1476:
 
     # nvljenna "And super hot"
-    nvljenna "而且会让人家身子湿热，欲罢不能的‘火辣’。"
+    nvljenna "而且会让我身子湿热，欲罢不能的‘火辣’。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10552
 translate zh_Hans son_sissy_storyline_174_e77b2f6c:
 
     # nvlsson "I'm ready for anything with you"
-    nvlsson "大人，人家已经准备好，任由你‘摆布’了。"
+    nvlsson "爸爸，我已经准备好，任由你‘摆布’了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10554
 translate zh_Hans son_sissy_storyline_174_6a91817a:
 
     # nvlsson "I'll do whatever you say"
-    nvlsson "大人说什么，人家就做什么，绝不反抗。"
+    nvlsson "爸爸说什么，我就做什么，绝不反抗。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10556
 translate zh_Hans son_sissy_storyline_174_c374a75d:
@@ -20974,13 +20974,13 @@ translate zh_Hans son_sissy_storyline_174_38f478c8:
 translate zh_Hans son_sissy_storyline_174_99e37db0:
 
     # nvlsson "No, I won't"
-    nvlsson "不，人家再也不会了"
+    nvlsson "不，我再也不会了"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10562
 translate zh_Hans son_sissy_storyline_174_14ec3124:
 
     # nvlsson "Never"
-    nvlsson "绝不，大人！人家永远是你的好米基！"
+    nvlsson "绝不，爸爸！我永远是你的好米基！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10564
 translate zh_Hans son_sissy_storyline_174_4d0c0d11:
@@ -20998,7 +20998,7 @@ translate zh_Hans son_sissy_storyline_174_84d94e04:
 translate zh_Hans son_sissy_storyline_174_85a4c8ee:
 
     # nvlsson "A lot"
-    nvlsson "人家好喜欢，好喜欢呢。"
+    nvlsson "我好喜欢，好喜欢呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10570
 translate zh_Hans son_sissy_storyline_174_e40e5ec9:
@@ -21034,13 +21034,13 @@ translate zh_Hans son_sissy_storyline_174_5062119f:
 translate zh_Hans son_sissy_storyline_174_cd8044a3:
 
     # nvlsson "I'm always ready to meet with you"
-    nvlsson "大人，人家随时都准备好，听候你的‘召见’呢。"
+    nvlsson "爸爸，我随时都准备好，听候你的‘召见’呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10584
 translate zh_Hans son_sissy_storyline_174_5db3ce70:
 
     # nvljenna "{a=show:show_chat_media}{image=mikky_pic_55}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=mikky_pic_55}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10588
 translate zh_Hans son_sissy_storyline_174_9ffcb334:
@@ -21052,7 +21052,7 @@ translate zh_Hans son_sissy_storyline_174_9ffcb334:
 translate zh_Hans son_sissy_storyline_174_3081be50:
 
     # nvlsson "Did you take a photo last night?"
-    nvlsson "大人，你昨晚有偷偷给人家拍照吗？"
+    nvlsson "爸爸，你昨晚有偷偷给我拍照吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10592
 translate zh_Hans son_sissy_storyline_174_d5dc01c7:
@@ -21082,13 +21082,13 @@ translate zh_Hans son_sissy_storyline_174_7cc0ab35:
 translate zh_Hans son_sissy_storyline_174_c025d22d:
 
     # nvljenna "I like it too"
-    nvljenna "人家也喜欢呢~"
+    nvljenna "我也喜欢呢~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10602
 translate zh_Hans son_sissy_storyline_174_ad78ddf7:
 
     # nvljenna "Just missing some men"
-    nvljenna "就是还差一些男人来疼爱人家呢~"
+    nvljenna "就是还差一些男人来疼爱我呢~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10604
 translate zh_Hans son_sissy_storyline_174_0b93a7f6:
@@ -21130,13 +21130,13 @@ translate zh_Hans son_sissy_storyline_174_c759013a:
 translate zh_Hans son_sissy_storyline_174_e79a1f7d:
 
     # nvlsson "Yeah, let's do that"
-    nvlsson "好呀好呀，人家巴不得呢~"
+    nvlsson "好呀好呀，我巴不得呢~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10618
 translate zh_Hans son_sissy_storyline_174_d204cf95:
 
     # nvlsson "I'm free all day Thursday"
-    nvlsson "人家周四一整天都有空哦~"
+    nvlsson "我周四一整天都有空哦~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10620
 translate zh_Hans son_sissy_storyline_174_824c7886:
@@ -21154,7 +21154,7 @@ translate zh_Hans son_sissy_storyline_174_eeb61fd7:
 translate zh_Hans son_sissy_storyline_174_2f967452:
 
     # nvlsson "Yes, that's fine"
-    nvlsson "嗯，好的，人家等你~"
+    nvlsson "嗯，好的，我等你~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10626
 translate zh_Hans son_sissy_storyline_174_7879ea53:
@@ -21216,7 +21216,7 @@ translate zh_Hans son_sissy_storyline_175_f0660227:
 translate zh_Hans son_sissy_storyline_175_535b9061:
 
     # nvlsson "Alright"
-    nvlsson "遵命，大人，这就给你看。"
+    nvlsson "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10677
 translate zh_Hans son_sissy_storyline_175_284967e0:
@@ -21228,7 +21228,7 @@ translate zh_Hans son_sissy_storyline_175_284967e0:
 translate zh_Hans son_sissy_storyline_175_50612c0f:
 
     # nvljim "I'll be waiting"
-    nvljim "人家会乖乖等着你的。"
+    nvljim "我会乖乖等着你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10693
 translate zh_Hans son_sissy_storyline_175_53c71d7c:
@@ -21260,7 +21260,7 @@ translate zh_Hans son_sissy_storyline_176_922a3650:
 translate zh_Hans son_sissy_storyline_176_1dfc8ed0:
 
     # nvlsson "I'm not sure"
-    nvlsson "人家心里没底呢……"
+    nvlsson "我心里没底呢……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10722
 translate zh_Hans son_sissy_storyline_176_db2e8ec5:
@@ -21278,7 +21278,7 @@ translate zh_Hans son_sissy_storyline_176_9a7b0270:
 translate zh_Hans son_sissy_storyline_176_99b8ed75:
 
     # nvlsson "I'll stay"
-    nvlsson "人家会留下的~"
+    nvlsson "我会留下的~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10728
 translate zh_Hans son_sissy_storyline_176_c5980515:
@@ -21332,7 +21332,7 @@ translate zh_Hans son_sissy_storyline_176_07d10ee5:
 translate zh_Hans son_sissy_storyline_176_cb57b118:
 
     # nvlsson "Yeah, I get that"
-    nvlsson "嗯，人家明白的~"
+    nvlsson "嗯，我明白的~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10746
 translate zh_Hans son_sissy_storyline_176_b3f4e8a2:
@@ -21392,19 +21392,19 @@ translate zh_Hans son_sissy_storyline_176_ade4fb8e:
 translate zh_Hans son_sissy_storyline_176_a4f2e857:
 
     # nvlsson "Yeah, that'll probably happen"
-    nvlsson "嗯，人家想，大概会变成那样吧……"
+    nvlsson "嗯，我想，大概会变成那样吧……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10766
 translate zh_Hans son_sissy_storyline_176_2d8b82fd:
 
     # nvlvalerie "And I don't know what I'll do then"
-    nvlvalerie "到时候，人家就不知道该怎么办了呢~"
+    nvlvalerie "到时候，我就不知道该怎么办了呢~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10768
 translate zh_Hans son_sissy_storyline_176_2cba5643:
 
     # nvlvalerie "If he tells us to start having sex with customers"
-    nvlvalerie "如果他要人家开始和客人上床的话……"
+    nvlvalerie "如果他要我开始和客人上床的话……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10770
 translate zh_Hans son_sissy_storyline_176_a2dc6d48:
@@ -21428,7 +21428,7 @@ translate zh_Hans son_sissy_storyline_176_8719e4d4:
 translate zh_Hans son_sissy_storyline_176_3b97b8f9:
 
     # nvlvalerie "Alright, I don't want to think about it"
-    nvlvalerie "好啦，人家现在不想想这些啦~"
+    nvlvalerie "好啦，我现在不想想这些啦~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10778
 translate zh_Hans son_sissy_storyline_176_01682ce3:
@@ -21440,7 +21440,7 @@ translate zh_Hans son_sissy_storyline_176_01682ce3:
 translate zh_Hans son_sissy_storyline_176_33bb4844:
 
     # nvlsson "I'm staying for now"
-    nvlsson "人家暂时会留下的~"
+    nvlsson "我暂时会留下的~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10782
 translate zh_Hans son_sissy_storyline_176_886bf866:
@@ -21452,31 +21452,31 @@ translate zh_Hans son_sissy_storyline_176_886bf866:
 translate zh_Hans son_sissy_storyline_176_edee8078:
 
     # nvlvalerie "I'm glad I won't be staying here alone"
-    nvlvalerie "人家好开心，不会一个人留在这里呢~"
+    nvlvalerie "我好开心，不会一个人留在这里呢~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10786
 translate zh_Hans son_sissy_storyline_176_d3ef6c38:
 
     # nvlvalerie "The other girls never really tried to connect"
-    nvlvalerie "其他的女孩子从来没真正想和人家亲近呢~"
+    nvlvalerie "其他的女孩子从来没真正想和我亲近呢~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10788
 translate zh_Hans son_sissy_storyline_176_2ff12027:
 
     # nvlvalerie "You're the first one I've managed to befriend, even a little"
-    nvlvalerie "你是第一个，人家能稍微交上朋友的人呢~"
+    nvlvalerie "你是第一个，我能稍微交上朋友的人呢~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10790
 translate zh_Hans son_sissy_storyline_176_b23f19ed:
 
     # nvlsson "Yeah, I noticed the others are a bit distant"
-    nvlsson "嗯，人家也觉得其他人好像有点疏远人家呢。"
+    nvlsson "嗯，我也觉得其他人好像有点疏远我呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10792
 translate zh_Hans son_sissy_storyline_176_63b3fbcb:
 
     # nvlvalerie "Alright, I'll get back to work"
-    nvlvalerie "好啦，人家这就回去工作。"
+    nvlvalerie "好啦，我这就回去工作。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10794
 translate zh_Hans son_sissy_storyline_176_2a63649b:
@@ -21572,7 +21572,7 @@ translate zh_Hans son_sissy_storyline_176_40f4aaf3:
 translate zh_Hans son_sissy_storyline_176_d800b039:
 
     # nvlvalerie "By the way, I want to go clubbing this weekend"
-    nvlvalerie "对了，人家这周末想去夜店玩儿。"
+    nvlvalerie "对了，我这周末想去夜店玩儿。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10826
 translate zh_Hans son_sissy_storyline_176_26aa590a:
@@ -21602,7 +21602,7 @@ translate zh_Hans son_sissy_storyline_176_43dc89bc:
 translate zh_Hans son_sissy_storyline_176_5a2423ce:
 
     # nvlvalerie "But if your plans change, let me know"
-    nvlvalerie "不过，要是你的计划有变，记得告诉人家哦。"
+    nvlvalerie "不过，要是你的计划有变，记得告诉我哦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10836
 translate zh_Hans son_sissy_storyline_176_ac229cc1:
@@ -21676,13 +21676,13 @@ translate zh_Hans son_sissy_storyline_177_ae37d866:
 translate zh_Hans son_sissy_storyline_177_7fe667f9:
 
     # nvlsson "I love your surprises"
-    nvlsson "人家最喜欢你的惊喜了！"
+    nvlsson "我最喜欢你的惊喜了！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10891
 translate zh_Hans son_sissy_storyline_177_abf4180d:
 
     # nvljenna "I know 😊"
-    nvljenna "人家知道呢 😊"
+    nvljenna "我知道呢 😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10893
 translate zh_Hans son_sissy_storyline_177_4d471d8d:
@@ -21712,13 +21712,13 @@ translate zh_Hans son_sissy_storyline_177_08786be5:
 translate zh_Hans son_sissy_storyline_177_71c0b474:
 
     # nvlsson "Alright, I'll be there at 7"
-    nvlsson "好、好哒！人家七点就到！"
+    nvlsson "好、好哒！我七点就到！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10903
 translate zh_Hans son_sissy_storyline_177_cf6c087f:
 
     # nvljenna "I'll be waiting"
-    nvljenna "人家会乖乖等着你的。"
+    nvljenna "我会乖乖等着你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10917
 translate zh_Hans son_sissy_storyline_177_53c71d7c:
@@ -21768,7 +21768,7 @@ translate zh_Hans son_sissy_storyline_178_4fd9a793:
 translate zh_Hans son_sissy_storyline_178_a2b57524:
 
     # nvlvalerie "Looks like I'll have to go to the club alone"
-    nvlvalerie "看来人家只能一个人去夜店了呢。"
+    nvlvalerie "看来我只能一个人去夜店了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10952
 translate zh_Hans son_sissy_storyline_178_fd6dd738:
@@ -21798,7 +21798,7 @@ translate zh_Hans son_sissy_storyline_178_39c0fb3f:
 translate zh_Hans son_sissy_storyline_178_31ec1cb3:
 
     # nvlvalerie "I wouldn't say I have many friends"
-    nvlvalerie "人家可不敢说自己有很多朋友呢。"
+    nvlvalerie "我可不敢说自己有很多朋友呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10962
 translate zh_Hans son_sissy_storyline_178_8521f5a6:
@@ -21828,19 +21828,19 @@ translate zh_Hans son_sissy_storyline_178_70dbc56b:
 translate zh_Hans son_sissy_storyline_178_adc57b93:
 
     # nvlvalerie "Yeah, I figured you wouldn't be able to"
-    nvlvalerie "嗯，人家就知道你肯定来不了的。"
+    nvlvalerie "嗯，我就知道你肯定来不了的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10972
 translate zh_Hans son_sissy_storyline_178_40da1a63:
 
     # nvlvalerie "Alright, I'll just go alone"
-    nvlvalerie "好吧，那人家就一个人去吧。"
+    nvlvalerie "好吧，那我就一个人去吧。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10974
 translate zh_Hans son_sissy_storyline_178_7a757994:
 
     # nvlvalerie "Not like it's the first time 😊"
-    nvlvalerie "人家又不是第一次了呢 😊"
+    nvlvalerie "我又不是第一次了呢 😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10976
 translate zh_Hans son_sissy_storyline_178_fe40a32b:
@@ -21858,13 +21858,13 @@ translate zh_Hans son_sissy_storyline_178_bc8b99f4:
 translate zh_Hans son_sissy_storyline_178_933a0fad:
 
     # nvlvalerie "Alright, I'll start getting ready then"
-    nvlvalerie "好吧，那人家这就开始准备了。"
+    nvlvalerie "好吧，那我这就开始准备了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10982
 translate zh_Hans son_sissy_storyline_178_97843b11:
 
     # nvlvalerie "I just wanted to check with you, just in case, to see if you could join me"
-    nvlvalerie "人家只是想跟你确认一下，万一你能陪人家呢。"
+    nvlvalerie "我只是想跟你确认一下，万一你能陪我呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10984
 translate zh_Hans son_sissy_storyline_178_fb16731a:
@@ -21882,7 +21882,7 @@ translate zh_Hans son_sissy_storyline_178_124701f6:
 translate zh_Hans son_sissy_storyline_178_279b5846:
 
     # nvlvalerie "{a=show:show_chat_media}{image=valerie_video_8_ns}"
-    nvlvalerie ""
+    nvlvalerie "{a=show:show_chat_media}{image=valerie_video_8_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:10994
 translate zh_Hans son_sissy_storyline_178_1739876e:
@@ -21912,19 +21912,19 @@ translate zh_Hans son_sissy_storyline_178_a2eee47b:
 translate zh_Hans son_sissy_storyline_178_90fdb199:
 
     # nvlvalerie "Alright, I'll be careful"
-    nvlvalerie "好哒，人家会小心的。"
+    nvlvalerie "好哒，我会小心的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11004
 translate zh_Hans son_sissy_storyline_178_2dc6bdc7:
 
     # nvlsson "😊"
-    nvlsson ""
+    nvlsson "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11006
 translate zh_Hans son_sissy_storyline_178_9985a6f5:
 
     # nvlvalerie "Okay, I'm off now"
-    nvlvalerie "好啦，人家这就走了。"
+    nvlvalerie "好啦，我这就走了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11008
 translate zh_Hans son_sissy_storyline_178_d74e7aeb:
@@ -21936,7 +21936,7 @@ translate zh_Hans son_sissy_storyline_178_d74e7aeb:
 translate zh_Hans son_sissy_storyline_178_1b214e72:
 
     # nvlsson "Bye-bye"
-    nvlsson "大人再见~ 人家会想你的。"
+    nvlsson "爸爸再见~ 我会想你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11026
 translate zh_Hans son_sissy_storyline_178_53c71d7c:
@@ -21962,7 +21962,7 @@ translate zh_Hans son_sissy_storyline_179_4c1ac3ec:
 translate zh_Hans son_sissy_storyline_179_1acf9ba6:
 
     # nvlsson "I'm good"
-    nvlsson "人家……人家很好"
+    nvlsson "我……我很好"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11053
 translate zh_Hans son_sissy_storyline_179_34248bc7:
@@ -21974,13 +21974,13 @@ translate zh_Hans son_sissy_storyline_179_34248bc7:
 translate zh_Hans son_sissy_storyline_179_27fc6de5:
 
     # nvlsson "After last night, I feel amazing"
-    nvlsson "经过昨晚，人家身子都酥麻了，感觉棒极了。"
+    nvlsson "经过昨晚，我身子都酥麻了，感觉棒极了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11057
 translate zh_Hans son_sissy_storyline_179_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11059
 translate zh_Hans son_sissy_storyline_179_ba5ec51c:
@@ -21998,13 +21998,13 @@ translate zh_Hans son_sissy_storyline_179_07034e75:
 translate zh_Hans son_sissy_storyline_179_b1b6981c:
 
     # nvlsson "I really did"
-    nvlsson "人家真的好尽兴呢。"
+    nvlsson "我真的好尽兴呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11065
 translate zh_Hans son_sissy_storyline_179_43c4879a:
 
     # nvlsson "It was such a pleasure..."
-    nvlsson "那真是太让人家愉悦了……"
+    nvlsson "那真是太让我愉悦了……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11067
 translate zh_Hans son_sissy_storyline_179_51dcb9e9:
@@ -22016,19 +22016,19 @@ translate zh_Hans son_sissy_storyline_179_51dcb9e9:
 translate zh_Hans son_sissy_storyline_179_7e832610:
 
     # nvljenna "When my friends and I fucked you, or when my mates came on your face?"
-    nvljenna "是我的朋友们和人家一起操弄你的时候，还是他们射在你脸上的时候？"
+    nvljenna "是我的朋友们和我一起操弄你的时候，还是他们射在你脸上的时候？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11071
 translate zh_Hans son_sissy_storyline_179_1dfc8ed0:
 
     # nvlsson "I'm not sure"
-    nvlsson "人家心里没底呢……"
+    nvlsson "我心里没底呢……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11073
 translate zh_Hans son_sissy_storyline_179_012c11ac:
 
     # nvlsson "I liked both"
-    nvlsson "人家都喜欢……都好喜欢呢。"
+    nvlsson "我都喜欢……都好喜欢呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11075
 translate zh_Hans son_sissy_storyline_179_86a90fe9:
@@ -22040,19 +22040,19 @@ translate zh_Hans son_sissy_storyline_179_86a90fe9:
 translate zh_Hans son_sissy_storyline_179_8a9c0488:
 
     # nvlsson "That too"
-    nvlsson "那个也喜欢……人家都喜欢。"
+    nvlsson "那个也喜欢……我都喜欢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11079
 translate zh_Hans son_sissy_storyline_179_f34d5705:
 
     # nvlsson "I enjoyed everything that happened last night"
-    nvlsson "昨晚发生的一切，人家都好享受，好喜欢。"
+    nvlsson "昨晚发生的一切，我都好享受，好喜欢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11081
 translate zh_Hans son_sissy_storyline_179_fbc8fe60_1:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11083
 translate zh_Hans son_sissy_storyline_179_097c72fc:
@@ -22088,7 +22088,7 @@ translate zh_Hans son_sissy_storyline_179_bf80ba15:
 translate zh_Hans son_sissy_storyline_179_7c5e13df:
 
     # nvlsson "But I've tried some"
-    nvlsson "不过人家已经试过一些了。"
+    nvlsson "不过我已经试过一些了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11095
 translate zh_Hans son_sissy_storyline_179_4d0c0d11:
@@ -22136,7 +22136,7 @@ translate zh_Hans son_sissy_storyline_179_0ee679b4:
 translate zh_Hans son_sissy_storyline_179_c1914177:
 
     # nvljenna "{a=show:show_chat_media}{image=sissy_video_8_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=sissy_video_8_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11115
 translate zh_Hans son_sissy_storyline_179_2389d757:
@@ -22154,7 +22154,7 @@ translate zh_Hans son_sissy_storyline_179_758d1b81:
 translate zh_Hans son_sissy_storyline_179_50b9bee5:
 
     # nvljenna "{a=show:show_chat_media}{image=sissy_video_9_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=sissy_video_9_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11125
 translate zh_Hans son_sissy_storyline_179_46bf74f6:
@@ -22172,13 +22172,13 @@ translate zh_Hans son_sissy_storyline_179_a2129cd2:
 translate zh_Hans son_sissy_storyline_179_535b9061:
 
     # nvlsson "Alright"
-    nvlsson "遵命，大人，这就给你看。"
+    nvlsson "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11131
 translate zh_Hans son_sissy_storyline_179_6af80e33:
 
     # nvljenna "I'll message you later"
-    nvljenna "人家晚点再给你发消息吧"
+    nvljenna "我晚点再给你发消息吧"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11133
 translate zh_Hans son_sissy_storyline_179_a4bd395b:
@@ -22222,13 +22222,13 @@ translate zh_Hans son_sissy_storyline_180_b3d9bf6f:
 translate zh_Hans son_sissy_storyline_180_cf166d13:
 
     # nvlsson "I'll come now"
-    nvlsson "人家这就过来！"
+    nvlsson "我这就过来！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11178
 translate zh_Hans son_sissy_storyline_180_50612c0f:
 
     # nvljim "I'll be waiting"
-    nvljim "人家会乖乖等着你的。"
+    nvljim "我会乖乖等着你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11180
 translate zh_Hans son_sissy_storyline_180_3421649d:
@@ -22252,7 +22252,7 @@ translate zh_Hans son_sissy_storyline_180_f5f837a6:
 translate zh_Hans son_sissy_storyline_180_535b9061:
 
     # nvlsson "Alright"
-    nvlsson "遵命，大人，这就给你看。"
+    nvlsson "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11200
 translate zh_Hans son_sissy_storyline_180_53c71d7c:
@@ -22302,13 +22302,13 @@ translate zh_Hans son_sissy_storyline_181_152db7f4:
 translate zh_Hans son_sissy_storyline_181_e2e33497:
 
     # nvlvalerie "Is he sending you where I think he is?"
-    nvlvalerie "他是不是要把你送到人家想的那个地方去？"
+    nvlvalerie "他是不是要把你送到我想的那个地方去？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11235
 translate zh_Hans son_sissy_storyline_181_357202c3:
 
     # nvlsson "Yes"
-    nvlsson "是的，人家明白了。"
+    nvlsson "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11237
 translate zh_Hans son_sissy_storyline_181_41f359c2:
@@ -22332,7 +22332,7 @@ translate zh_Hans son_sissy_storyline_181_e0f23abf:
 translate zh_Hans son_sissy_storyline_181_8dc5682d:
 
     # nvlsson "Honestly, I'd say I'm ready for it"
-    nvlsson "说实话，人家觉得人家已经准备好了。"
+    nvlsson "说实话，我觉得我已经准备好了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11245
 translate zh_Hans son_sissy_storyline_181_6ba91799:
@@ -22350,13 +22350,13 @@ translate zh_Hans son_sissy_storyline_181_2c8bf3a1:
 translate zh_Hans son_sissy_storyline_181_6380c1ea:
 
     # nvlsson "I don't think it's the kind of thing worth talking about"
-    nvlsson "人家觉得，那没什么好说的啦。"
+    nvlsson "我觉得，那没什么好说的啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11251
 translate zh_Hans son_sissy_storyline_181_1339fb09:
 
     # nvlsson "And I'm not sure there's much to say about giving a blowjob"
-    nvlsson "而且，关于给人人家口交这种事，人家也不知道有什么好说的。"
+    nvlsson "而且，关于给我口交这种事，我也不知道有什么好说的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11253
 translate zh_Hans son_sissy_storyline_181_a2eee47b:
@@ -22380,7 +22380,7 @@ translate zh_Hans son_sissy_storyline_181_196123f6:
 translate zh_Hans son_sissy_storyline_181_b248fc8c:
 
     # nvlsson "Thank you 😊"
-    nvlsson "谢谢大人 😊"
+    nvlsson "谢谢爸爸 😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11275
 translate zh_Hans son_sissy_storyline_181_53c71d7c:
@@ -22418,7 +22418,7 @@ translate zh_Hans son_sissy_storyline_182_bb737cd9:
 translate zh_Hans son_sissy_storyline_182_38a83b35:
 
     # nvlsson "I'm okay"
-    nvlsson "人家……人家很好啦。"
+    nvlsson "我……我很好啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11306
 translate zh_Hans son_sissy_storyline_182_94023e07:
@@ -22442,13 +22442,13 @@ translate zh_Hans son_sissy_storyline_182_c5980515:
 translate zh_Hans son_sissy_storyline_182_a21dc072:
 
     # nvlvalerie "I'm a bit worried"
-    nvlvalerie "人家有点担心……"
+    nvlvalerie "我有点担心……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11314
 translate zh_Hans son_sissy_storyline_182_bd8503f1:
 
     # nvlsson "About having to give a blowjob?"
-    nvlsson "担心要给人做口交吗？"
+    nvlsson "担心要给我做口交吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11316
 translate zh_Hans son_sissy_storyline_182_8719e4d4:
@@ -22460,13 +22460,13 @@ translate zh_Hans son_sissy_storyline_182_8719e4d4:
 translate zh_Hans son_sissy_storyline_182_9e76fc60:
 
     # nvlvalerie "Jim told me yesterday that it's my turn to work in the toilet today"
-    nvlvalerie "吉姆昨天告诉人家，今天轮到人家去厕所里工作了。"
+    nvlvalerie "吉姆昨天告诉我，今天轮到我去厕所里工作了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11320
 translate zh_Hans son_sissy_storyline_182_c1fff4ce:
 
     # nvlvalerie "I've been thinking about it all day"
-    nvlvalerie "人家一整天都在想着这件事呢..."
+    nvlvalerie "我一整天都在想着这件事呢..."
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11322
 translate zh_Hans son_sissy_storyline_182_b2d6b59e:
@@ -22484,19 +22484,19 @@ translate zh_Hans son_sissy_storyline_182_45f3345d:
 translate zh_Hans son_sissy_storyline_182_1d399efd:
 
     # nvlvalerie "I did, yeah"
-    nvlvalerie "嗯，人家是决定了呢。"
+    nvlvalerie "嗯，我是决定了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11328
 translate zh_Hans son_sissy_storyline_182_13293cdd:
 
     # nvlvalerie "But still, it's kind of..."
-    nvlvalerie "可是，人家还是觉得有点……"
+    nvlvalerie "可是，我还是觉得有点……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11330
 translate zh_Hans son_sissy_storyline_182_be0c8b9a:
 
     # nvlvalerie "I texted you because I wanted you to tell me it's not as bad as it seems"
-    nvlvalerie "人家发消息给你，就是想让你告诉人家，这...这并没有看起来那么糟糕呢。"
+    nvlvalerie "我发消息给你，就是想让你告诉我，这...这并没有看起来那么糟糕呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11332
 translate zh_Hans son_sissy_storyline_182_b401db23:
@@ -22514,7 +22514,7 @@ translate zh_Hans son_sissy_storyline_182_8385747f:
 translate zh_Hans son_sissy_storyline_182_4a509714:
 
     # nvlsson "I'd even say, at some point, it starts to feel okay"
-    nvlsson "人家甚至可以说，到了某个时候，会...会开始觉得还不错呢。"
+    nvlsson "我甚至可以说，到了某个时候，会...会开始觉得还不错呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11338
 translate zh_Hans son_sissy_storyline_182_3ea4cced:
@@ -22532,13 +22532,13 @@ translate zh_Hans son_sissy_storyline_182_07034e75:
 translate zh_Hans son_sissy_storyline_182_a2ac3b9f:
 
     # nvlsson "I don't know how to explain it"
-    nvlsson "人家也不知道该怎么形容那种感觉..."
+    nvlsson "我也不知道该怎么形容那种感觉..."
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11344
 translate zh_Hans son_sissy_storyline_182_cd263317:
 
     # nvlsson "But it wasn't too hard for me yesterday"
-    nvlsson "不过，人家昨天做的时候，倒也没觉得太难受呢。"
+    nvlsson "不过，我昨天做的时候，倒也没觉得太难受呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11346
 translate zh_Hans son_sissy_storyline_182_e982ff46:
@@ -22568,13 +22568,13 @@ translate zh_Hans son_sissy_storyline_182_7eff90d7:
 translate zh_Hans son_sissy_storyline_182_333f4e28:
 
     # nvlvalerie "I hope it'll be the same for me"
-    nvlvalerie "人家也希望，人家也能像你说的那样呢。"
+    nvlvalerie "我也希望，我也能像你说的那样呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11356
 translate zh_Hans son_sissy_storyline_182_e85e80e9:
 
     # nvlsson "I think it will"
-    nvlsson "人家觉得会的呢。"
+    nvlsson "我觉得会的呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11358
 translate zh_Hans son_sissy_storyline_182_90cf0a3f:
@@ -22586,13 +22586,13 @@ translate zh_Hans son_sissy_storyline_182_90cf0a3f:
 translate zh_Hans son_sissy_storyline_182_810d6cbd:
 
     # nvlvalerie "😊"
-    nvlvalerie ""
+    nvlvalerie "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11362
 translate zh_Hans son_sissy_storyline_182_6c778e8f:
 
     # nvlvalerie "Alright, I'll go"
-    nvlvalerie "好吧，人家去就是了。"
+    nvlvalerie "好吧，我去就是了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11364
 translate zh_Hans son_sissy_storyline_182_8f154689:
@@ -22610,19 +22610,19 @@ translate zh_Hans son_sissy_storyline_182_62f0c0ef:
 translate zh_Hans son_sissy_storyline_182_d465522f:
 
     # nvlsson "I'm sure of it"
-    nvlsson "人家很确定。"
+    nvlsson "我很确定。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11370
 translate zh_Hans son_sissy_storyline_182_b0977fb4:
 
     # nvlvalerie "I'll tell you later how it went"
-    nvlvalerie "人家晚点再告诉你，人家做得怎么样了呢。"
+    nvlvalerie "我晚点再告诉你，我做得怎么样了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11372
 translate zh_Hans son_sissy_storyline_182_f6b16ed5:
 
     # nvlvalerie "If I don't quit tomorrow"
-    nvlvalerie "如果人家明天还没...还没逃走的话。"
+    nvlvalerie "如果我明天还没...还没逃走的话。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11374
 translate zh_Hans son_sissy_storyline_182_a2eee47b:
@@ -22690,7 +22690,7 @@ translate zh_Hans son_sissy_storyline_183_b0eca294:
 translate zh_Hans son_sissy_storyline_183_525ebc40:
 
     # nvlsson "That's awesome!"
-    nvlsson "太棒了！人家好开心！"
+    nvlsson "太棒了！我好开心！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11427
 translate zh_Hans son_sissy_storyline_183_1532936d:
@@ -22756,7 +22756,7 @@ translate zh_Hans son_sissy_storyline_183_da7c7b21:
 translate zh_Hans son_sissy_storyline_183_05cc60e0:
 
     # nvlsson "Oh, I see"
-    nvlsson "哦，人家明白了。"
+    nvlsson "哦，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11449
 translate zh_Hans son_sissy_storyline_183_234bb851:
@@ -22786,7 +22786,7 @@ translate zh_Hans son_sissy_storyline_183_0342d948:
 translate zh_Hans son_sissy_storyline_183_79734df7:
 
     # nvlsson "I'll be ready"
-    nvlsson "人家会准备好的，大人。"
+    nvlsson "我会准备好的，爸爸。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11459
 translate zh_Hans son_sissy_storyline_183_19c70115:
@@ -22804,7 +22804,7 @@ translate zh_Hans son_sissy_storyline_183_9dee2824:
 translate zh_Hans son_sissy_storyline_183_e1380e82:
 
     # nvlsson "If you say so, I'm sure I will 😊"
-    nvlsson "既然你这么说，人家就一定会做到的呢 😊"
+    nvlsson "既然你这么说，我就一定会做到的呢 😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11465
 translate zh_Hans son_sissy_storyline_183_38d98b9e:
@@ -22822,7 +22822,7 @@ translate zh_Hans son_sissy_storyline_183_9a93e513:
 translate zh_Hans son_sissy_storyline_183_757d754b:
 
     # nvlsson "Okay, I'll be waiting"
-    nvlsson "好的，人家会乖乖等你的。"
+    nvlsson "好的，我会乖乖等你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11483
 translate zh_Hans son_sissy_storyline_183_53c71d7c:
@@ -22854,7 +22854,7 @@ translate zh_Hans son_sissy_storyline_184_93612203:
 translate zh_Hans son_sissy_storyline_184_67fe719f:
 
     # nvlsson "No, I haven't forgotten"
-    nvlsson "没有，人家没有忘记呢。"
+    nvlsson "没有，我没有忘记呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11512
 translate zh_Hans son_sissy_storyline_184_5b83fae1:
@@ -22890,7 +22890,7 @@ translate zh_Hans son_sissy_storyline_184_fdaecd5c:
 translate zh_Hans son_sissy_storyline_184_357202c3:
 
     # nvlsson "Yes"
-    nvlsson "是的，人家明白了。"
+    nvlsson "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11524
 translate zh_Hans son_sissy_storyline_184_710028b2:
@@ -22958,7 +22958,7 @@ translate zh_Hans son_sissy_storyline_185_7f42a6a5:
 translate zh_Hans son_sissy_storyline_185_29629f3e:
 
     # nvlsson "It's not that bad for me"
-    nvlsson "人家倒还好，没那么难受呢。"
+    nvlsson "我倒还好，没那么难受呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11577
 translate zh_Hans son_sissy_storyline_185_80bc9a3f:
@@ -22970,7 +22970,7 @@ translate zh_Hans son_sissy_storyline_185_80bc9a3f:
 translate zh_Hans son_sissy_storyline_185_e4cab6d9:
 
     # nvlvalerie "I keep getting the kind of men who..."
-    nvlvalerie "人家总是遇到那种……"
+    nvlvalerie "我总是遇到那种……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11581
 translate zh_Hans son_sissy_storyline_185_efb6a176:
@@ -22988,7 +22988,7 @@ translate zh_Hans son_sissy_storyline_185_5303071c:
 translate zh_Hans son_sissy_storyline_185_855d1558:
 
     # nvlvalerie "Really big ones, I'd even say"
-    nvlvalerie "嗯，真的、真的好大好大呢，人家都快含不住了。"
+    nvlvalerie "嗯，真的、真的好大好大呢，我都快含不住了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11587
 translate zh_Hans son_sissy_storyline_185_6ba8fa09:
@@ -23006,31 +23006,31 @@ translate zh_Hans son_sissy_storyline_185_072c82e1:
 translate zh_Hans son_sissy_storyline_185_1a979c80:
 
     # nvlvalerie "The other day, when I was working, I even started having some naughty thoughts"
-    nvlvalerie "前几天人家上班的时候，脑子里竟然冒出了一些……坏坏的念头呢。"
+    nvlvalerie "前几天我上班的时候，脑子里竟然冒出了一些……坏坏的念头呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11593
 translate zh_Hans son_sissy_storyline_185_6e153c17:
 
     # nvlvalerie "There was this man with a really long and thick cock"
-    nvlvalerie "有个客人，他的宝贝又长又粗，简直……让人家心痒痒的。"
+    nvlvalerie "有个客人，他的宝贝又长又粗，简直……让我心痒痒的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11595
 translate zh_Hans son_sissy_storyline_185_a729109e:
 
     # nvlvalerie "Oh, I took a photo of it"
-    nvlvalerie "哎呀，人家还偷偷拍了照片呢。"
+    nvlvalerie "哎呀，我还偷偷拍了照片呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11597
 translate zh_Hans son_sissy_storyline_185_e33c9dec:
 
     # nvlvalerie "Let me show you"
-    nvlvalerie "爸爸，让你看看好不好？"
+    nvlvalerie "我让你看看好不好？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11601
 translate zh_Hans son_sissy_storyline_185_a311b87d:
 
     # nvlvalerie "{a=show:show_chat_media}{image=bbc_pic_275}"
-    nvlvalerie ""
+    nvlvalerie "{a=show:show_chat_media}{image=bbc_pic_275}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11605
 translate zh_Hans son_sissy_storyline_185_f337ad35:
@@ -23066,13 +23066,13 @@ translate zh_Hans son_sissy_storyline_185_ae84fe04:
 translate zh_Hans son_sissy_storyline_185_85f16079:
 
     # nvlvalerie "I don't want to talk about them"
-    nvlvalerie "人家、人家不好意思说啦。"
+    nvlvalerie "我、我不好意思说啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11617
 translate zh_Hans son_sissy_storyline_185_59248733:
 
     # nvlvalerie "You might think I'm obsessed or something"
-    nvlvalerie "你会不会觉得人家太痴迷了呀……"
+    nvlvalerie "你会不会觉得我太痴迷了呀……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11619
 translate zh_Hans son_sissy_storyline_185_c1a1b1a3:
@@ -23102,7 +23102,7 @@ translate zh_Hans son_sissy_storyline_185_e2ea739a:
 translate zh_Hans son_sissy_storyline_185_a0a290a0:
 
     # nvlvalerie "I wanted to have sex with him"
-    nvlvalerie "人家……人家当时好想和他……做爱呢。"
+    nvlvalerie "我……我当时好想和他……做爱呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11629
 translate zh_Hans son_sissy_storyline_185_97fb5924:
@@ -23120,13 +23120,13 @@ translate zh_Hans son_sissy_storyline_185_8719e4d4_1:
 translate zh_Hans son_sissy_storyline_185_38e85cfe:
 
     # nvlvalerie "Through the hole in the wall"
-    nvlvalerie "就是隔着那个小洞，直接……直接和人家结合。"
+    nvlvalerie "就是隔着那个小洞，直接……直接和我结合。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11635
 translate zh_Hans son_sissy_storyline_185_bcb05aba:
 
     # nvlvalerie "I barely stopped myself"
-    nvlvalerie "人家当时差点就没忍住呢……"
+    nvlvalerie "我当时差点就没忍住呢……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11637
 translate zh_Hans son_sissy_storyline_185_ae063a31:
@@ -23162,13 +23162,13 @@ translate zh_Hans son_sissy_storyline_185_446b458c:
 translate zh_Hans son_sissy_storyline_185_ccae9eea:
 
     # nvlvalerie "Are you saying you've done it already?"
-    nvlvalerie "爸爸，你是说……你已经那样做过了吗？"
+    nvlvalerie "你是说……你已经那样做过了吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11649
 translate zh_Hans son_sissy_storyline_185_0b7eabb0:
 
     # nvlvalerie "Have you had sex like that?"
-    nvlvalerie "你也和人家一样，那样……那样结合过吗？"
+    nvlvalerie "你也和我一样，那样……那样结合过吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11651
 translate zh_Hans son_sissy_storyline_185_6d6e4c54:
@@ -23180,13 +23180,13 @@ translate zh_Hans son_sissy_storyline_185_6d6e4c54:
 translate zh_Hans son_sissy_storyline_185_1913086e:
 
     # nvlsson "No, I haven't"
-    nvlsson "没有呢，人家没有走。"
+    nvlsson "没有呢，我没有走。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11655
 translate zh_Hans son_sissy_storyline_185_79f67683:
 
     # nvlvalerie "But you're suggesting I should? 😊"
-    nvlvalerie "可是，你是在暗示人家应该这么做吗？😊"
+    nvlvalerie "可是，你是在暗示我应该这么做吗？😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11657
 translate zh_Hans son_sissy_storyline_185_d72f5334:
@@ -23210,13 +23210,13 @@ translate zh_Hans son_sissy_storyline_185_c5980515:
 translate zh_Hans son_sissy_storyline_185_126b8c18:
 
     # nvlvalerie "Maybe I'll try it next time"
-    nvlvalerie "那……那人家下次也许可以试试看……"
+    nvlvalerie "那……那我下次也许可以试试看……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11665
 translate zh_Hans son_sissy_storyline_185_cf036efd:
 
     # nvlvalerie "But I'm not sure"
-    nvlvalerie "可是人家还是有点不确定呢。"
+    nvlvalerie "可是我还是有点不确定呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11667
 translate zh_Hans son_sissy_storyline_185_e8e7c879:
@@ -23252,7 +23252,7 @@ translate zh_Hans son_sissy_storyline_185_17cad45d:
 translate zh_Hans son_sissy_storyline_185_0409867f:
 
     # nvlvalerie "It's like you want me to start fucking them"
-    nvlvalerie "爸爸，你这是想让人家……让人家去和他们乱搞吗？"
+    nvlvalerie "你这是想让我……让我去和他们乱搞吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11679
 translate zh_Hans son_sissy_storyline_185_c8d71802:
@@ -23288,13 +23288,13 @@ translate zh_Hans son_sissy_storyline_185_944bb68b:
 translate zh_Hans son_sissy_storyline_185_5a3af2c9:
 
     # nvlvalerie "Alright, I get it"
-    nvlvalerie "嗯，人家明白了。"
+    nvlvalerie "嗯，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11691
 translate zh_Hans son_sissy_storyline_185_e72b7a2f:
 
     # nvlvalerie "I'll think about it"
-    nvlvalerie "人家会好好想想的。"
+    nvlvalerie "我会好好想想的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11693
 translate zh_Hans son_sissy_storyline_185_50240ad7:
@@ -23306,13 +23306,13 @@ translate zh_Hans son_sissy_storyline_185_50240ad7:
 translate zh_Hans son_sissy_storyline_185_a832c1cf:
 
     # nvlvalerie "Yeah, I'm here"
-    nvlvalerie "嗯，人家在呢。"
+    nvlvalerie "嗯，我在呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11697
 translate zh_Hans son_sissy_storyline_185_8a8f072e:
 
     # nvlvalerie "Heading to the stall now"
-    nvlvalerie "人家现在要去小隔间了。"
+    nvlvalerie "我现在要去小隔间了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11699
 translate zh_Hans son_sissy_storyline_185_8ee715e2:
@@ -23342,13 +23342,13 @@ translate zh_Hans son_sissy_storyline_185_124701f6:
 translate zh_Hans son_sissy_storyline_185_75aedf2c:
 
     # nvlvalerie "I'll try to enjoy myself"
-    nvlvalerie "人家会努力让自己开心的。"
+    nvlvalerie "我会努力让自己开心的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11709
 translate zh_Hans son_sissy_storyline_185_2dc6bdc7:
 
     # nvlsson "😊"
-    nvlsson ""
+    nvlsson "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11723
 translate zh_Hans son_sissy_storyline_185_53c71d7c:
@@ -23380,7 +23380,7 @@ translate zh_Hans son_sissy_storyline_186_1b140d9c:
 translate zh_Hans son_sissy_storyline_186_1acf9ba6:
 
     # nvlsson "I'm good"
-    nvlsson "人家……人家很好"
+    nvlsson "我……我很好"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11752
 translate zh_Hans son_sissy_storyline_186_7fc21c70:
@@ -23392,13 +23392,13 @@ translate zh_Hans son_sissy_storyline_186_7fc21c70:
 translate zh_Hans son_sissy_storyline_186_eb1fbc2d:
 
     # nvlsson "Nothing"
-    nvlsson "人家……没什么好说的了。"
+    nvlsson "我……没什么好说的了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11756
 translate zh_Hans son_sissy_storyline_186_8cd2ea20:
 
     # nvlsson "What do you want?"
-    nvlsson "你……你想要人家做什么？"
+    nvlsson "你……你想要我做什么？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11758
 translate zh_Hans son_sissy_storyline_186_a8ad56c3:
@@ -23410,25 +23410,25 @@ translate zh_Hans son_sissy_storyline_186_a8ad56c3:
 translate zh_Hans son_sissy_storyline_186_5069fd84:
 
     # nvlsson "I can't"
-    nvlsson "人家不行啦。"
+    nvlsson "我不行啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11762
 translate zh_Hans son_sissy_storyline_186_bbfc80b3:
 
     # nvlharry "I haven't even said when yet"
-    nvlharry "人家还没说什么时候呢。"
+    nvlharry "我还没说什么时候呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11764
 translate zh_Hans son_sissy_storyline_186_42ec24a0:
 
     # nvlsson "I'm busy every day right now"
-    nvlsson "人家现在每天都好忙的。"
+    nvlsson "我现在每天都好忙的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11766
 translate zh_Hans son_sissy_storyline_186_c94c9f7b:
 
     # nvlsson "So I won't have time to meet"
-    nvlsson "所以人家没时间见面啦。"
+    nvlsson "所以我没时间见面啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11768
 translate zh_Hans son_sissy_storyline_186_994e0190:
@@ -23458,7 +23458,7 @@ translate zh_Hans son_sissy_storyline_186_f8db8dfb:
 translate zh_Hans son_sissy_storyline_186_704cb6f2:
 
     # nvlsson "I don't"
-    nvlsson "人家不想。"
+    nvlsson "我不想。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11778
 translate zh_Hans son_sissy_storyline_186_aeb1f8b3:
@@ -23470,7 +23470,7 @@ translate zh_Hans son_sissy_storyline_186_aeb1f8b3:
 translate zh_Hans son_sissy_storyline_186_4e5e5631:
 
     # nvlsson "Yes, I'm sure"
-    nvlsson "嗯，人家很确定。"
+    nvlsson "嗯，我很确定。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11782
 translate zh_Hans son_sissy_storyline_186_9f81db96:
@@ -23482,7 +23482,7 @@ translate zh_Hans son_sissy_storyline_186_9f81db96:
 translate zh_Hans son_sissy_storyline_186_d833e26c:
 
     # nvlharry "I really miss you"
-    nvlharry "人家真的好想你。"
+    nvlharry "我真的好想你。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11786
 translate zh_Hans son_sissy_storyline_186_33f12c2b:
@@ -23494,13 +23494,13 @@ translate zh_Hans son_sissy_storyline_186_33f12c2b:
 translate zh_Hans son_sissy_storyline_186_837cf5f3:
 
     # nvlsson "Then why didn't you text me for weeks?"
-    nvlsson "那你为什么好几周都不给人家发信息呢？"
+    nvlsson "那你为什么好几周都不给我发信息呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11790
 translate zh_Hans son_sissy_storyline_186_ab8bf224:
 
     # nvlharry "I was busy"
-    nvlharry "人家很忙嘛。"
+    nvlharry "我很忙嘛。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11792
 translate zh_Hans son_sissy_storyline_186_0feed575:
@@ -23530,7 +23530,7 @@ translate zh_Hans son_sissy_storyline_186_9113b31d:
 translate zh_Hans son_sissy_storyline_186_a889ef4b:
 
     # nvlharry "Alright, I get it"
-    nvlharry "嗯，人家明白了。"
+    nvlharry "嗯，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11802
 translate zh_Hans son_sissy_storyline_186_7142f035:
@@ -23604,7 +23604,7 @@ translate zh_Hans son_sissy_storyline_187_d5a3a0c5:
 translate zh_Hans son_sissy_storyline_187_78d01ff7:
 
     # nvlsson "Yes, I'm ready"
-    nvlsson "是的，人家已经准备好了，就等着爸爸来疼爱人家了呢。"
+    nvlsson "是的，我已经准备好了，就等着爸爸来疼爱我了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11857
 translate zh_Hans son_sissy_storyline_187_2da5edb1:
@@ -23628,7 +23628,7 @@ translate zh_Hans son_sissy_storyline_187_da143ed5:
 translate zh_Hans son_sissy_storyline_187_34ff6f53:
 
     # nvlsson "I can come on my own if needed"
-    nvlsson "如果需要的话，人家可以自己过去的。"
+    nvlsson "如果需要的话，我可以自己过去的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11865
 translate zh_Hans son_sissy_storyline_187_1a02c3ee:
@@ -23646,7 +23646,7 @@ translate zh_Hans son_sissy_storyline_187_3d8d33bb:
 translate zh_Hans son_sissy_storyline_187_b063e967:
 
     # nvlsson "Alright, as you say"
-    nvlsson "好的，大人说什么，人家就听什么。"
+    nvlsson "好的，爸爸说什么，我就听什么。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11871
 translate zh_Hans son_sissy_storyline_187_39a0b65f:
@@ -23682,7 +23682,7 @@ translate zh_Hans son_sissy_storyline_187_b894fcd0:
 translate zh_Hans son_sissy_storyline_187_690926a8:
 
     # nvlsson "I've just bought something like that recently"
-    nvlsson "人家最近刚买了件那样的衣服呢。"
+    nvlsson "我最近刚买了件那样的衣服呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11883
 translate zh_Hans son_sissy_storyline_187_d79c6c25:
@@ -23700,7 +23700,7 @@ translate zh_Hans son_sissy_storyline_187_4e9fa439:
 translate zh_Hans son_sissy_storyline_187_34bbdf07:
 
     # nvljenna "{a=show:show_chat_media}{image=sissy_pic_41}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=sissy_pic_41}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11893
 translate zh_Hans son_sissy_storyline_187_ae7d58dc:
@@ -23712,7 +23712,7 @@ translate zh_Hans son_sissy_storyline_187_ae7d58dc:
 translate zh_Hans son_sissy_storyline_187_357202c3:
 
     # nvlsson "Yes"
-    nvlsson "是的，人家明白了。"
+    nvlsson "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11897
 translate zh_Hans son_sissy_storyline_187_86a5f610:
@@ -23742,13 +23742,13 @@ translate zh_Hans son_sissy_storyline_187_1054dcdc:
 translate zh_Hans son_sissy_storyline_187_09761a61:
 
     # nvlsson "Well, yes, I suppose"
-    nvlsson "嗯，人家想是的吧。"
+    nvlsson "嗯，我想是的吧。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11907
 translate zh_Hans son_sissy_storyline_187_e21360d4:
 
     # nvlsson "Apart from my thing, of course"
-    nvlsson "当然啦，除了人家那个东西以外。"
+    nvlsson "当然啦，除了我那个东西以外。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11909
 translate zh_Hans son_sissy_storyline_187_07bfed2a:
@@ -23760,7 +23760,7 @@ translate zh_Hans son_sissy_storyline_187_07bfed2a:
 translate zh_Hans son_sissy_storyline_187_7bbed617:
 
     # nvljenna "That's why I advised you against it"
-    nvljenna "所以爸爸才劝你别急着去做呢。"
+    nvljenna "所以我才劝你别急着去做呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11913
 translate zh_Hans son_sissy_storyline_187_d358723e:
@@ -23790,7 +23790,7 @@ translate zh_Hans son_sissy_storyline_187_5240c103:
 translate zh_Hans son_sissy_storyline_187_dee14830:
 
     # nvljenna "And from what I can see, you've done that"
-    nvljenna "而从爸爸看来，你已经做到了呢。"
+    nvljenna "而从我看来，你已经做到了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11923
 translate zh_Hans son_sissy_storyline_187_19c02fac:
@@ -23802,7 +23802,7 @@ translate zh_Hans son_sissy_storyline_187_19c02fac:
 translate zh_Hans son_sissy_storyline_187_12a83019:
 
     # nvlsson "I can't wait for it to happen"
-    nvlsson "爸爸真是等不及了。"
+    nvlsson "我真是等不及了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11927
 translate zh_Hans son_sissy_storyline_187_ea9fbbae:
@@ -23814,25 +23814,25 @@ translate zh_Hans son_sissy_storyline_187_ea9fbbae:
 translate zh_Hans son_sissy_storyline_187_084305f6:
 
     # nvljenna "I'll be at yours by 8"
-    nvljenna "爸爸八点会到你那儿。"
+    nvljenna "我八点会到你那儿。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11931
 translate zh_Hans son_sissy_storyline_187_c96e061f:
 
     # nvlsson "I'll be waiting"
-    nvlsson "人家会乖乖等着你的。"
+    nvlsson "我会乖乖等着你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11933
 translate zh_Hans son_sissy_storyline_187_246a5f00:
 
     # nvljenna "Oh, I almost forgot"
-    nvljenna "哦，爸爸差点忘了。"
+    nvljenna "哦，我差点忘了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11935
 translate zh_Hans son_sissy_storyline_187_3888ab8a:
 
     # nvljenna "A friend of mine asked for some photos of you"
-    nvljenna "爸爸有个朋友，想看看你的照片呢。"
+    nvljenna "我有个朋友，想看看你的照片呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11937
 translate zh_Hans son_sissy_storyline_187_f052d271:
@@ -23844,7 +23844,7 @@ translate zh_Hans son_sissy_storyline_187_f052d271:
 translate zh_Hans son_sissy_storyline_187_5d5e1409:
 
     # nvljenna "Take some and send them to me"
-    nvljenna "拍几张发给爸爸吧。"
+    nvljenna "拍几张发给我吧。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11941
 translate zh_Hans son_sissy_storyline_187_f0e5dd6e:
@@ -23856,7 +23856,7 @@ translate zh_Hans son_sissy_storyline_187_f0e5dd6e:
 translate zh_Hans son_sissy_storyline_187_99390f82:
 
     # nvlsson "Alright, I'll do it now"
-    nvlsson "好的，人家这就去办。"
+    nvlsson "好的，我这就去办。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11945
 translate zh_Hans son_sissy_storyline_187_df8f6a06:
@@ -23880,7 +23880,7 @@ translate zh_Hans son_sissy_storyline_188_76b2fe88:
 translate zh_Hans son_sissy_storyline_188_e974da83:
 
     # nvlsson "{a=show:show_chat_media}{image=mikky_pic_56}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=mikky_pic_56}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11986
 translate zh_Hans son_sissy_storyline_188_8fd0cc5c:
@@ -23898,19 +23898,19 @@ translate zh_Hans son_sissy_storyline_188_7418030a:
 translate zh_Hans son_sissy_storyline_188_7ea813a4:
 
     # nvljenna "I think my friend will like it"
-    nvljenna "爸爸觉得我的朋友会很喜欢呢。"
+    nvljenna "我觉得我的朋友会很喜欢呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11992
 translate zh_Hans son_sissy_storyline_188_5dd9292d:
 
     # nvlsson "Let's hope so 😊"
-    nvlsson "人家也希望如此呢 😊"
+    nvlsson "我也希望如此呢 😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:11994
 translate zh_Hans son_sissy_storyline_188_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12008
 translate zh_Hans son_sissy_storyline_188_53c71d7c:
@@ -23936,7 +23936,7 @@ translate zh_Hans son_sissy_storyline_189_523cadc1:
 translate zh_Hans son_sissy_storyline_189_0931cab3:
 
     # nvlsson "No, I'm at the party"
-    nvlsson "没有啦，人家在派对上呢。"
+    nvlsson "没有啦，我在派对上呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12035
 translate zh_Hans son_sissy_storyline_189_89b06096:
@@ -23948,13 +23948,13 @@ translate zh_Hans son_sissy_storyline_189_89b06096:
 translate zh_Hans son_sissy_storyline_189_8084f706:
 
     # nvljenna "I can't seem to find you anywhere"
-    nvljenna "爸爸好像在哪儿都找不到你呢。"
+    nvljenna "我好像在哪儿都找不到你呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12039
 translate zh_Hans son_sissy_storyline_189_414e5fd2:
 
     # nvlsson "I'm a bit busy right now 😊"
-    nvlsson "人家现在有点忙呢 😊"
+    nvlsson "我现在有点忙呢 😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12041
 translate zh_Hans son_sissy_storyline_189_7f171643:
@@ -23966,7 +23966,7 @@ translate zh_Hans son_sissy_storyline_189_7f171643:
 translate zh_Hans son_sissy_storyline_189_3f3e170d:
 
     # nvlsson "{a=show:show_chat_media}{image=mikky_pic_57}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=mikky_pic_57}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12049
 translate zh_Hans son_sissy_storyline_189_9ad9279b:
@@ -23996,13 +23996,13 @@ translate zh_Hans son_sissy_storyline_189_c306854d:
 translate zh_Hans son_sissy_storyline_189_d46b9f4d:
 
     # nvljenna "I won't distract you"
-    nvljenna "爸爸就不打扰你了。"
+    nvljenna "我就不打扰你了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12059
 translate zh_Hans son_sissy_storyline_189_ef2f4968:
 
     # nvljenna "But you'll tell me all about it later, right?"
-    nvljenna "不过，你之后会把一切都告诉爸爸的，对吗？"
+    nvljenna "不过，你之后会把一切都告诉我的，对吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12061
 translate zh_Hans son_sissy_storyline_189_20244a66:
@@ -24026,7 +24026,7 @@ translate zh_Hans son_sissy_storyline_189_30013ebd:
 translate zh_Hans son_sissy_storyline_189_4ef5d531:
 
     # nvlsson "She's already inside me"
-    nvlsson "她已经进到人家里面了呢。"
+    nvlsson "她已经进到我里面了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12069
 translate zh_Hans son_sissy_storyline_189_98b37c87:
@@ -24038,7 +24038,7 @@ translate zh_Hans son_sissy_storyline_189_98b37c87:
 translate zh_Hans son_sissy_storyline_189_7c5abe35:
 
     # nvlsson "I don't tjink I can"
-    nvlsson "人家……人家好像不行了。"
+    nvlsson "我……我好像不行了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12073
 translate zh_Hans son_sissy_storyline_189_e9344b62:
@@ -24050,7 +24050,7 @@ translate zh_Hans son_sissy_storyline_189_e9344b62:
 translate zh_Hans son_sissy_storyline_189_2f3800e5:
 
     # nvlsson "I cn't evrn hit the keys prpperly"
-    nvlsson "人家……人家连字都打不好了……"
+    nvlsson "我……我连字都打不好了……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12077
 translate zh_Hans son_sissy_storyline_189_470a973b:
@@ -24062,19 +24062,19 @@ translate zh_Hans son_sissy_storyline_189_470a973b:
 translate zh_Hans son_sissy_storyline_189_357202c3:
 
     # nvlsson "Yes"
-    nvlsson "是的，人家明白了。"
+    nvlsson "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12081
 translate zh_Hans son_sissy_storyline_189_34b6c51a:
 
     # nvlsson "It feels amszing"
-    nvlsson "感觉……感觉好舒服，好舒服呀……人家身子都酥麻了……"
+    nvlsson "感觉……感觉好舒服，好舒服呀……我身子都酥麻了……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12083
 translate zh_Hans son_sissy_storyline_189_d9ec5913:
 
     # nvlsson "I've never felt anyhting this good before"
-    nvlsson "人家从来没有……没有过这么舒服的感觉……"
+    nvlsson "我从来没有……没有过这么舒服的感觉……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12085
 translate zh_Hans son_sissy_storyline_189_cbe0a4ae:
@@ -24098,31 +24098,31 @@ translate zh_Hans son_sissy_storyline_189_b28f0c9b:
 translate zh_Hans son_sissy_storyline_189_56768e8e:
 
     # nvlsson "Mmm"
-    nvlsson "嗯……人家好喜欢这种感觉……"
+    nvlsson "嗯……我好喜欢这种感觉……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12093
 translate zh_Hans son_sissy_storyline_189_3b94a000:
 
     # nvlsson "I'd love that"
-    nvlsson "人家会爱死的。"
+    nvlsson "我会爱死的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12095
 translate zh_Hans son_sissy_storyline_189_84761049:
 
     # nvlsson "I'd really love to try two at once"
-    nvlsson "人家真的好想……好想一次被两个人填满呢。"
+    nvlsson "我真的好想……好想一次被两个人填满呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12097
 translate zh_Hans son_sissy_storyline_189_5a779dc3:
 
     # nvlsson "Too bas I don't have a oussy"
-    nvlsson "可惜……可惜人家没有小穴穴呢。"
+    nvlsson "可惜……可惜我没有小穴穴呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12099
 translate zh_Hans son_sissy_storyline_189_0d3d7048:
 
     # nvljenna "I think you'll make a great little slut"
-    nvljenna "爸爸觉得，你会成为一个非常棒的小淫娃的。"
+    nvljenna "我觉得，你会成为一个非常棒的小淫娃的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12101
 translate zh_Hans son_sissy_storyline_189_dc0007b3:
@@ -24140,19 +24140,19 @@ translate zh_Hans son_sissy_storyline_189_f4d82685:
 translate zh_Hans son_sissy_storyline_189_10c024b1:
 
     # nvlsson "Yesss"
-    nvlsson "嗯~~~人家玩得可开心啦！"
+    nvlsson "嗯~~~我玩得可开心啦！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12107
 translate zh_Hans son_sissy_storyline_189_f0e91fb5:
 
     # nvlsson "I'll give myself to everyone"
-    nvlsson "人家会乖乖地，把这具被大人开发过的小身子，奉献给所有人。"
+    nvlsson "我会乖乖地，把这具被爸爸开发过的小身子，奉献给所有人。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12109
 translate zh_Hans son_sissy_storyline_189_ffeaa794:
 
     # nvlsson "Even people I don't know"
-    nvlsson "即使是那些人家素不相识的陌生人，人家也会乖乖地任由他们玩弄。"
+    nvlsson "即使是那些我素不相识的陌生人，我也会乖乖地任由他们玩弄。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12111
 translate zh_Hans son_sissy_storyline_189_dafe0c55:
@@ -24170,19 +24170,19 @@ translate zh_Hans son_sissy_storyline_189_5cd849d8:
 translate zh_Hans son_sissy_storyline_189_10c024b1_1:
 
     # nvlsson "Yesss"
-    nvlsson "嗯~~~人家玩得可开心啦！"
+    nvlsson "嗯~~~我玩得可开心啦！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12117
 translate zh_Hans son_sissy_storyline_189_6c217b37:
 
     # nvlsson "Ugh, it's hard to type"
-    nvlsson "呜，人家的小手都酥软了，身子也湿热得厉害，都快打不动字了。"
+    nvlsson "呜，我的小手都酥软了，身子也湿热得厉害，都快打不动字了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12119
 translate zh_Hans son_sissy_storyline_189_a0f4a983:
 
     # nvlsson "I can't thunk straight..."
-    nvlsson "人家身子都酥麻了，小穴也湿漉漉的，脑子都转不动了..."
+    nvlsson "我身子都酥麻了，小穴也湿漉漉的，脑子都转不动了..."
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12121
 translate zh_Hans son_sissy_storyline_189_8ffb0acb:
@@ -24224,7 +24224,7 @@ translate zh_Hans son_sissy_storyline_189_5cd0453c:
 translate zh_Hans son_sissy_storyline_189_c65756d4:
 
     # nvlsson "I really want you to fick me"
-    nvlsson "人家好想被大人狠狠地疼爱，好想融化在你的温度里，被你操弄得欲仙欲死。"
+    nvlsson "我好想被爸爸狠狠地疼爱，好想融化在你的温度里，被你操弄得欲仙欲死。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12135
 translate zh_Hans son_sissy_storyline_189_7fa2a8da:
@@ -24236,7 +24236,7 @@ translate zh_Hans son_sissy_storyline_189_7fa2a8da:
 translate zh_Hans son_sissy_storyline_189_535b9061:
 
     # nvlsson "Alright"
-    nvlsson "遵命，大人，这就给你看。"
+    nvlsson "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12153
 translate zh_Hans son_sissy_storyline_189_53c71d7c:
@@ -24280,13 +24280,13 @@ translate zh_Hans son_sissy_storyline_190_d9d2b27f:
 translate zh_Hans son_sissy_storyline_190_e688086e:
 
     # nvlsson "No, it's all fine"
-    nvlsson "没有啦，大人，人家都好好的，一点都不疼呢。"
+    nvlsson "没有啦，爸爸，我都好好的，一点都不疼呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12186
 translate zh_Hans son_sissy_storyline_190_31cf23fa:
 
     # nvlsson "I enjoyed it"
-    nvlsson "人家很喜欢，很享受呢"
+    nvlsson "我很喜欢，很享受呢"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12188
 translate zh_Hans son_sissy_storyline_190_a90d2554:
@@ -24298,7 +24298,7 @@ translate zh_Hans son_sissy_storyline_190_a90d2554:
 translate zh_Hans son_sissy_storyline_190_6c8d7f6d:
 
     # nvljenna "{a=show:show_chat_media}{image=mikky_pic_58}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=mikky_pic_58}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12196
 translate zh_Hans son_sissy_storyline_190_8737594a:
@@ -24328,7 +24328,7 @@ translate zh_Hans son_sissy_storyline_190_eaa3cdbe:
 translate zh_Hans son_sissy_storyline_190_98e87676:
 
     # nvlsson "Not sure yet"
-    nvlsson "人家还不确定呢。"
+    nvlsson "我还不确定呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12206
 translate zh_Hans son_sissy_storyline_190_2a04d7fe:
@@ -24352,7 +24352,7 @@ translate zh_Hans son_sissy_storyline_190_2fa55ee7:
 translate zh_Hans son_sissy_storyline_190_5079a8ad:
 
     # nvlsson "To yours?"
-    nvlsson "是去大人那里，被大人疼爱吗？"
+    nvlsson "是去爸爸那里，被爸爸疼爱吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12214
 translate zh_Hans son_sissy_storyline_190_08484de1:
@@ -24382,13 +24382,13 @@ translate zh_Hans son_sissy_storyline_190_d1ba71b4:
 translate zh_Hans son_sissy_storyline_190_42b2ab67:
 
     # nvlsson "My butt?"
-    nvlsson "人家的屁股？"
+    nvlsson "我的屁股？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12224
 translate zh_Hans son_sissy_storyline_190_e794cab5:
 
     # nvlsson "Are you inviting someone?"
-    nvlsson "大人，你是要邀请别人来，和你一起玩弄人家这具小身子吗？"
+    nvlsson "爸爸，你是要邀请别人来，和你一起玩弄我这具小身子吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12226
 translate zh_Hans son_sissy_storyline_190_35ddd062:
@@ -24406,13 +24406,13 @@ translate zh_Hans son_sissy_storyline_190_d4a2d501:
 translate zh_Hans son_sissy_storyline_190_dee52ad5:
 
     # nvlsson "Oh, alright"
-    nvlsson "哦，好吧……那人家就一个人去咯……"
+    nvlsson "哦，好吧……那我就一个人去咯……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12232
 translate zh_Hans son_sissy_storyline_190_2b16c870:
 
     # nvlsson "I understand"
-    nvlsson "人家明白了。"
+    nvlsson "我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12234
 translate zh_Hans son_sissy_storyline_190_7cbf6a98:
@@ -24498,19 +24498,19 @@ translate zh_Hans son_sissy_storyline_191_da82cd6a:
 translate zh_Hans son_sissy_storyline_191_cce55e7f:
 
     # nvlsson "I'm alright too"
-    nvlsson "人家也很好呀，大人，就是有点想你了。"
+    nvlsson "我也很好呀，爸爸，就是有点想你了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12293
 translate zh_Hans son_sissy_storyline_191_ec5acb47:
 
     # nvlsson "What have you been up to?"
-    nvlsson "大人最近都在忙些什么呀？是不是又去玩弄别的小骚货了？"
+    nvlsson "爸爸最近都在忙些什么呀？是不是又去玩弄别的小骚货了？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12295
 translate zh_Hans son_sissy_storyline_191_88332502:
 
     # nvlsson "Where've you been?"
-    nvlsson "大人都去哪里了呀？把人家一个人丢在这里，好寂寞呢。"
+    nvlsson "爸爸都去哪里了呀？把我一个人丢在这里，好寂寞呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12297
 translate zh_Hans son_sissy_storyline_191_9d2ba3ac:
@@ -24540,13 +24540,13 @@ translate zh_Hans son_sissy_storyline_191_bf561715:
 translate zh_Hans son_sissy_storyline_191_87485885:
 
     # nvlsson "And now? Still busy?"
-    nvlsson "那现在呢？大人还很忙吗？人家好想被你疼爱呢。"
+    nvlsson "那现在呢？爸爸还很忙吗？我好想被你疼爱呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12307
 translate zh_Hans son_sissy_storyline_191_3dc44e7e:
 
     # nvlsson "Don't you want to meet up?"
-    nvlsson "大人，你不想和人家见面吗？人家的小穴都湿透了，好想被你填满。"
+    nvlsson "爸爸，你不想和我见面吗？我的小穴都湿透了，好想被你填满。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12309
 translate zh_Hans son_sissy_storyline_191_2c42c015:
@@ -24564,7 +24564,7 @@ translate zh_Hans son_sissy_storyline_191_cf944522:
 translate zh_Hans son_sissy_storyline_191_3e6b9d16:
 
     # nvlsson "Someone else???"
-    nvlsson "别人？？？大人你怎么可以这样对人家？！人家的小穴只属于你啊！"
+    nvlsson "别人？？？爸爸你怎么可以这样对我？！我的小穴只属于你啊！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12315
 translate zh_Hans son_sissy_storyline_191_34cd0e3e:
@@ -24582,7 +24582,7 @@ translate zh_Hans son_sissy_storyline_191_4db192ff:
 translate zh_Hans son_sissy_storyline_191_7bf70ccb:
 
     # nvlsson "Are you serious?!"
-    nvlsson "大人你是认真的吗？！你怎么可以这样对人家？！人家的小穴都湿透了，只等着你来疼爱啊！"
+    nvlsson "爸爸你是认真的吗？！你怎么可以这样对我？！我的小穴都湿透了，只等着你来疼爱啊！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12321
 translate zh_Hans son_sissy_storyline_191_35d7c997:
@@ -24624,7 +24624,7 @@ translate zh_Hans son_sissy_storyline_191_158fadc2:
 translate zh_Hans son_sissy_storyline_191_a6355c8a:
 
     # nvltrevor "{a=show:show_chat_media}{image=bbc_pic_276}"
-    nvltrevor ""
+    nvltrevor "{a=show:show_chat_media}{image=bbc_pic_276}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12339
 translate zh_Hans son_sissy_storyline_191_11ed5435:
@@ -24648,7 +24648,7 @@ translate zh_Hans son_sissy_storyline_191_6390283c:
 translate zh_Hans son_sissy_storyline_191_26c95ac9:
 
     # nvlsson "I just..."
-    nvlsson "人家只是……"
+    nvlsson "我只是……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12347
 translate zh_Hans son_sissy_storyline_191_68b3a513:
@@ -24776,13 +24776,13 @@ translate zh_Hans son_sissy_storyline_192_96695d4e:
 translate zh_Hans son_sissy_storyline_192_8c170ad4:
 
     # nvljim "{a=show:show_chat_media}{image=dick_pic_21}"
-    nvljim ""
+    nvljim "{a=show:show_chat_media}{image=dick_pic_21}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12424
 translate zh_Hans son_sissy_storyline_192_6a3d960f:
 
     # nvljim "I need your help"
-    nvljim "大人，人家需要你的帮助"
+    nvljim "大人，我需要你的帮助"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12426
 translate zh_Hans son_sissy_storyline_192_5bebd99c:
@@ -24836,7 +24836,7 @@ translate zh_Hans son_sissy_storyline_193_76b2fe88:
 translate zh_Hans son_sissy_storyline_193_0a8b770e:
 
     # nvljim "{a=show:show_chat_media}{image=mikky_pic_59}"
-    nvljim ""
+    nvljim "{a=show:show_chat_media}{image=mikky_pic_59}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12477
 translate zh_Hans son_sissy_storyline_193_f53d4965:
@@ -24878,7 +24878,7 @@ translate zh_Hans son_sissy_storyline_193_83b20fc7:
 translate zh_Hans son_sissy_storyline_193_2d614c1b:
 
     # nvlsson "I'm just doing my job"
-    nvlsson "人家只是在乖乖地服侍大人呀。"
+    nvlsson "我只是在乖乖地服侍爸爸呀。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12491
 translate zh_Hans son_sissy_storyline_193_4f39bf52:
@@ -24932,7 +24932,7 @@ translate zh_Hans son_sissy_storyline_193_65401a0d:
 translate zh_Hans son_sissy_storyline_193_9bf9523b:
 
     # nvlsson "More exciting?"
-    nvlsson "更、更刺激的吗？大人是想让人家怎么被疼爱呢？"
+    nvlsson "更、更刺激的吗？爸爸是想让我怎么被疼爱呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12509
 translate zh_Hans son_sissy_storyline_193_ace4229c:
@@ -25058,7 +25058,7 @@ translate zh_Hans son_sissy_storyline_193_80473368:
 translate zh_Hans son_sissy_storyline_193_50cb8c93:
 
     # nvlsson "No, I'm not"
-    nvlsson "没有呢，人家还没回来。"
+    nvlsson "没有呢，我还没回来。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12551
 translate zh_Hans son_sissy_storyline_193_f52eae90:
@@ -25082,7 +25082,7 @@ translate zh_Hans son_sissy_storyline_193_fdaecd5c:
 translate zh_Hans son_sissy_storyline_193_357202c3:
 
     # nvlsson "Yes"
-    nvlsson "是的，人家明白了。"
+    nvlsson "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12559
 translate zh_Hans son_sissy_storyline_193_710028b2:
@@ -25106,7 +25106,7 @@ translate zh_Hans son_sissy_storyline_193_c9cb139e:
 translate zh_Hans son_sissy_storyline_193_98e344b6:
 
     # nvlsson "I won't forget"
-    nvlsson "人家不会再忘的，保证乖乖记住"
+    nvlsson "我不会再忘的，保证乖乖记住"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12567
 translate zh_Hans son_sissy_storyline_193_f93ce232:
@@ -25142,7 +25142,7 @@ translate zh_Hans son_sissy_storyline_194_76b2fe88:
 translate zh_Hans son_sissy_storyline_194_4366775d:
 
     # nvljim "{a=show:show_chat_media}{image=valerie_video_9_ns}"
-    nvljim ""
+    nvljim "{a=show:show_chat_media}{image=valerie_video_9_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12618
 translate zh_Hans son_sissy_storyline_194_d9bdfafc:
@@ -25160,7 +25160,7 @@ translate zh_Hans son_sissy_storyline_194_93612203:
 translate zh_Hans son_sissy_storyline_194_1913086e:
 
     # nvlsson "No, I haven't"
-    nvlsson "没有呢，人家没有走。"
+    nvlsson "没有呢，我没有走。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12624
 translate zh_Hans son_sissy_storyline_194_9fe0abaf:
@@ -25184,7 +25184,7 @@ translate zh_Hans son_sissy_storyline_194_788e276e:
 translate zh_Hans son_sissy_storyline_194_f9a36d96:
 
     # nvlsson "I'll try my best"
-    nvlsson "人家会尽力而为的，大人"
+    nvlsson "我会尽力而为的，爸爸"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12632
 translate zh_Hans son_sissy_storyline_194_6ac56dc3:
@@ -25208,7 +25208,7 @@ translate zh_Hans son_sissy_storyline_194_ca26f49d:
 translate zh_Hans son_sissy_storyline_194_7cfa5a0e:
 
     # nvlsson "I don't use them"
-    nvlsson "人家不用那个的"
+    nvlsson "我不用那个的"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12640
 translate zh_Hans son_sissy_storyline_194_9fe0abaf_1:
@@ -25238,7 +25238,7 @@ translate zh_Hans son_sissy_storyline_194_1151efda:
 translate zh_Hans son_sissy_storyline_194_938a7db5:
 
     # nvlsson "Understood"
-    nvlsson "人家知道了。"
+    nvlsson "我知道了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12664
 translate zh_Hans son_sissy_storyline_194_53c71d7c:
@@ -25258,7 +25258,7 @@ translate zh_Hans son_sissy_storyline_195_409eede0:
 translate zh_Hans son_sissy_storyline_195_bfb7dbcb:
 
     # nvlsson "Oh no, I totally did"
-    nvlsson "哦，糟糕，人家完全忘记了呢！"
+    nvlsson "哦，糟糕，我完全忘记了呢！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12689
 translate zh_Hans son_sissy_storyline_195_01302101:
@@ -25288,7 +25288,7 @@ translate zh_Hans son_sissy_storyline_195_dc0f4479:
 translate zh_Hans son_sissy_storyline_195_cd1e2b71:
 
     # nvlsson "I can't make it tonight"
-    nvlsson "人家今晚去不了呢"
+    nvlsson "我今晚去不了呢"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12699
 translate zh_Hans son_sissy_storyline_195_29f1d1ca:
@@ -25324,19 +25324,19 @@ translate zh_Hans son_sissy_storyline_195_5a1808a2:
 translate zh_Hans son_sissy_storyline_195_ecb6dc51:
 
     # nvlsson "No, I didn't forget"
-    nvlsson "不，人家没有忘记"
+    nvlsson "不，我没有忘记"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12711
 translate zh_Hans son_sissy_storyline_195_2274cb21:
 
     # nvlsson "It's just that my boss asked me to stay late after work tonight"
-    nvlsson "只是，人家老板今晚要人家加班呢"
+    nvlsson "只是，我老板今晚要我加班呢"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12713
 translate zh_Hans son_sissy_storyline_195_736b773d:
 
     # nvlsson "I don't think I'll make it to your place by 8"
-    nvlsson "人家觉得八点前可能到不了你那里了"
+    nvlsson "我觉得八点前可能到不了你那里了"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12715
 translate zh_Hans son_sissy_storyline_195_0c927769:
@@ -25354,19 +25354,19 @@ translate zh_Hans son_sissy_storyline_195_f7a0b9fe:
 translate zh_Hans son_sissy_storyline_195_63b681a2:
 
     # nvlsson "No, of course not"
-    nvlsson "不，当然不是了，大人"
+    nvlsson "不，当然不是了，爸爸"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12721
 translate zh_Hans son_sissy_storyline_195_26c95ac9:
 
     # nvlsson "I just..."
-    nvlsson "人家只是……"
+    nvlsson "我只是……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12723
 translate zh_Hans son_sissy_storyline_195_a71625cb:
 
     # nvlsson "I thought you'd approve"
-    nvlsson "人家以为你会同意的呢"
+    nvlsson "我以为你会同意的呢"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12725
 translate zh_Hans son_sissy_storyline_195_8c0707cf:
@@ -25378,7 +25378,7 @@ translate zh_Hans son_sissy_storyline_195_8c0707cf:
 translate zh_Hans son_sissy_storyline_195_085b08da:
 
     # nvlsson "Well, that I'll be having sex with my boss"
-    nvlsson "就是，人家今晚要和老板做爱呢"
+    nvlsson "就是，我今晚要和老板做爱呢"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12729
 translate zh_Hans son_sissy_storyline_195_fd7b7f70:
@@ -25402,7 +25402,7 @@ translate zh_Hans son_sissy_storyline_195_7c760dce:
 translate zh_Hans son_sissy_storyline_195_c7e31c01:
 
     # nvlsson "He said he'd fuck me tonight"
-    nvlsson "他说今晚要好好疼爱人家呢"
+    nvlsson "他说今晚要好好疼爱我呢"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12737
 translate zh_Hans son_sissy_storyline_195_4dab732a:
@@ -25414,19 +25414,19 @@ translate zh_Hans son_sissy_storyline_195_4dab732a:
 translate zh_Hans son_sissy_storyline_195_786ea993:
 
     # nvlsson "I can cancel if you want me to"
-    nvlsson "如果你希望，人家可以取消的"
+    nvlsson "如果你希望，我可以取消的"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12741
 translate zh_Hans son_sissy_storyline_195_3215b910:
 
     # nvlsson "But honestly, he'll probably fire me if I do"
-    nvlsson "但是说实话，如果人家那样做，他可能会把人家辞退的"
+    nvlsson "但是说实话，如果我那样做，他可能会把我辞退的"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12743
 translate zh_Hans son_sissy_storyline_195_f39db288:
 
     # nvlsson "But I'll do it for you if you ask me to"
-    nvlsson "可是如果你开口，人家一定会为你做的。"
+    nvlsson "可是如果你开口，我一定会为你做的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12745
 translate zh_Hans son_sissy_storyline_195_f2ee9a3e:
@@ -25450,7 +25450,7 @@ translate zh_Hans son_sissy_storyline_195_ab02a440:
 translate zh_Hans son_sissy_storyline_195_db037a96:
 
     # nvlsson "Just don't be mad at me"
-    nvlsson "你可千万别生人家的气呀。"
+    nvlsson "你可千万别生我的气呀。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12753
 translate zh_Hans son_sissy_storyline_195_ac80b214:
@@ -25462,7 +25462,7 @@ translate zh_Hans son_sissy_storyline_195_ac80b214:
 translate zh_Hans son_sissy_storyline_195_193dab6d:
 
     # nvljenna "How could I be mad at you when all you do is make me happy? 😊"
-    nvljenna "你只会让人家开心、让人家身子酥麻，人家怎么舍得生你的气呢？😊"
+    nvljenna "你只会让我开心、让我身子酥麻，我怎么舍得生你的气呢？😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12757
 translate zh_Hans son_sissy_storyline_195_08f87e7c:
@@ -25474,7 +25474,7 @@ translate zh_Hans son_sissy_storyline_195_08f87e7c:
 translate zh_Hans son_sissy_storyline_195_7e9df0ec:
 
     # nvlsson "Do I really make you happy?"
-    nvlsson "人家真的能让你开心吗？"
+    nvlsson "我真的能让你开心吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12761
 translate zh_Hans son_sissy_storyline_195_d4d7e3ac:
@@ -25486,13 +25486,13 @@ translate zh_Hans son_sissy_storyline_195_d4d7e3ac:
 translate zh_Hans son_sissy_storyline_195_9305a127:
 
     # nvlsson "I'm so glad to hear that"
-    nvlsson "听到你这么说，人家真是太高兴了。"
+    nvlsson "听到你这么说，我真是太高兴了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12765
 translate zh_Hans son_sissy_storyline_195_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12767
 translate zh_Hans son_sissy_storyline_195_6c392695:
@@ -25516,7 +25516,7 @@ translate zh_Hans son_sissy_storyline_195_0cf3fefd:
 translate zh_Hans son_sissy_storyline_195_9772b568:
 
     # nvlsson "I'll make sure he remembers it for the rest of his life 😊"
-    nvlsson "人家一定会让他永生难忘的呢😊"
+    nvlsson "我一定会让他永生难忘的呢😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12775
 translate zh_Hans son_sissy_storyline_195_33afe24b:
@@ -25546,7 +25546,7 @@ translate zh_Hans son_sissy_storyline_195_4fcc29de:
 translate zh_Hans son_sissy_storyline_195_385f5bd4:
 
     # nvljenna "And tomorrow, you'll tell me all about it"
-    nvljenna "明天，你得把一切都告诉爸爸。"
+    nvljenna "明天，你得把一切都告诉我。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12785
 translate zh_Hans son_sissy_storyline_195_a9907ab0:
@@ -25578,7 +25578,7 @@ translate zh_Hans son_sissy_storyline_196_c4681ec6:
 translate zh_Hans son_sissy_storyline_196_a21d6be4:
 
     # nvlsson "If you say so"
-    nvlsson "如果你这么说的话，人家就听你的。"
+    nvlsson "如果你这么说的话，我就听你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12828
 translate zh_Hans son_sissy_storyline_196_537265cc:
@@ -25614,13 +25614,13 @@ translate zh_Hans son_sissy_storyline_196_0a8bb63c:
 translate zh_Hans son_sissy_storyline_196_2dc6bdc7:
 
     # nvlsson "😊"
-    nvlsson ""
+    nvlsson "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12842
 translate zh_Hans son_sissy_storyline_196_31d73650:
 
     # nvljim "{a=show:show_chat_media}{image=mikky_pic_60}"
-    nvljim ""
+    nvljim "{a=show:show_chat_media}{image=mikky_pic_60}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12846
 translate zh_Hans son_sissy_storyline_196_b3792f9f:
@@ -25644,7 +25644,7 @@ translate zh_Hans son_sissy_storyline_196_2f8c89ee:
 translate zh_Hans son_sissy_storyline_196_b95312e5:
 
     # nvlsson "I am what I am"
-    nvlsson "人家就是这样。"
+    nvlsson "我就是这样。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12854
 translate zh_Hans son_sissy_storyline_196_12082e3a:
@@ -25668,7 +25668,7 @@ translate zh_Hans son_sissy_storyline_196_8b4a9620:
 translate zh_Hans son_sissy_storyline_196_3b281963:
 
     # nvlsson "I need to get back to work, Mr Jim"
-    nvlsson "吉姆先生，人家得回去工作了啦……"
+    nvlsson "吉姆先生，我得回去工作了啦……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12862
 translate zh_Hans son_sissy_storyline_196_6bb8621f:
@@ -25730,7 +25730,7 @@ translate zh_Hans son_sissy_storyline_197_a2eee47b:
 translate zh_Hans son_sissy_storyline_197_2dc6bdc7:
 
     # nvlsson "😊"
-    nvlsson ""
+    nvlsson "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12913
 translate zh_Hans son_sissy_storyline_197_231e6b9f:
@@ -25748,13 +25748,13 @@ translate zh_Hans son_sissy_storyline_197_0fe3637b:
 translate zh_Hans son_sissy_storyline_197_250ec7d0:
 
     # nvlsson "Well, I don't know"
-    nvlsson "嗯，人家也不知道该怎么说。"
+    nvlsson "嗯，我也不知道该怎么说。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12919
 translate zh_Hans son_sissy_storyline_197_2d80b248:
 
     # nvlsson "I didn't really feel much, to be honest"
-    nvlsson "说实话，人家没怎么感觉到什么。"
+    nvlsson "说实话，我没怎么感觉到什么。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12921
 translate zh_Hans son_sissy_storyline_197_ff050de9:
@@ -25784,13 +25784,13 @@ translate zh_Hans son_sissy_storyline_197_2bcb68d4:
 translate zh_Hans son_sissy_storyline_197_880ecbc6:
 
     # nvlvalerie "Better than most of the guys I've been with"
-    nvlvalerie "比人家以前接触过的大多数男人都要好。"
+    nvlvalerie "比我以前接触过的大多数男人都要好。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12931
 translate zh_Hans son_sissy_storyline_197_3bce0aec:
 
     # nvlvalerie "If it weren't for the circumstances, I might even enjoy it a lot"
-    nvlvalerie "如果不是因为这些情况，人家可能还会很享受呢。"
+    nvlvalerie "如果不是因为这些情况，我可能还会很享受呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12933
 translate zh_Hans son_sissy_storyline_197_fe514b95:
@@ -25814,7 +25814,7 @@ translate zh_Hans son_sissy_storyline_197_2520e7ad:
 translate zh_Hans son_sissy_storyline_197_e2871845:
 
     # nvlvalerie "The fact that I have to fuck my boss to keep my job"
-    nvlvalerie "就是人家为了保住工作，不得不被老板上这件事呀。"
+    nvlvalerie "就是我为了保住工作，不得不被老板上这件事呀。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12941
 translate zh_Hans son_sissy_storyline_197_d2dede30:
@@ -25838,13 +25838,13 @@ translate zh_Hans son_sissy_storyline_197_3c6c7bac:
 translate zh_Hans son_sissy_storyline_197_810d6cbd:
 
     # nvlvalerie "😊"
-    nvlvalerie ""
+    nvlvalerie "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12949
 translate zh_Hans son_sissy_storyline_197_86a1cb66:
 
     # nvlvalerie "Good to know I'm not the only one"
-    nvlvalerie "那人家就放心了，原来不是人家一个人这样呢。"
+    nvlvalerie "那我就放心了，原来不是我一个人这样呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12951
 translate zh_Hans son_sissy_storyline_197_a2eee47b_1:
@@ -25862,7 +25862,7 @@ translate zh_Hans son_sissy_storyline_197_c8d71802:
 translate zh_Hans son_sissy_storyline_197_3d44b859:
 
     # nvlvalerie "By the way, I tried what we talked about last time"
-    nvlvalerie "对了，人家上次试了试我们聊的那个呢……"
+    nvlvalerie "对了，我上次试了试我们聊的那个呢……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12957
 translate zh_Hans son_sissy_storyline_197_321b6da2:
@@ -25886,7 +25886,7 @@ translate zh_Hans son_sissy_storyline_197_1823650a:
 translate zh_Hans son_sissy_storyline_197_3508a9b7:
 
     # nvlvalerie "{a=show:show_chat_media}{image=valerie_pic_2}"
-    nvlvalerie ""
+    nvlvalerie "{a=show:show_chat_media}{image=valerie_pic_2}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12969
 translate zh_Hans son_sissy_storyline_197_6be12f35:
@@ -25964,13 +25964,13 @@ translate zh_Hans son_sissy_storyline_197_7c760dce:
 translate zh_Hans son_sissy_storyline_197_5922633f:
 
     # nvlvalerie "I really liked it"
-    nvlvalerie "人家……人家真的好喜欢呢。"
+    nvlvalerie "我……我真的好喜欢呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12995
 translate zh_Hans son_sissy_storyline_197_1ea968ba:
 
     # nvlvalerie "I never thought it would be that enjoyable"
-    nvlvalerie "人家从没想过会那么……那么让人家身子酥麻、那么享受呢。"
+    nvlvalerie "我从没想过会那么……那么让我身子酥麻、那么享受呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:12997
 translate zh_Hans son_sissy_storyline_197_01f684ed:
@@ -25988,13 +25988,13 @@ translate zh_Hans son_sissy_storyline_197_a47279c2:
 translate zh_Hans son_sissy_storyline_197_e7301db6:
 
     # nvlvalerie "But then, when he entered me..."
-    nvlvalerie "可是，当他……当他进入人家身体的时候……"
+    nvlvalerie "可是，当他……当他进入我身体的时候……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13003
 translate zh_Hans son_sissy_storyline_197_b74deff4:
 
     # nvlvalerie "I lost control of myself"
-    nvlvalerie "人家就……就完全失去控制了。"
+    nvlvalerie "我就……就完全失去控制了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13005
 translate zh_Hans son_sissy_storyline_197_a3a395bc:
@@ -26018,7 +26018,7 @@ translate zh_Hans son_sissy_storyline_197_0c2262f0:
 translate zh_Hans son_sissy_storyline_197_2b45e0c6:
 
     # nvlvalerie "I asked him not to finish inside"
-    nvlvalerie "人家让他不要射在人家里面呢。"
+    nvlvalerie "我让他不要射在我里面呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13013
 translate zh_Hans son_sissy_storyline_197_212385ef:
@@ -26048,7 +26048,7 @@ translate zh_Hans son_sissy_storyline_197_73678142:
 translate zh_Hans son_sissy_storyline_197_c0f203ff:
 
     # nvlvalerie "I don't have a regular partner"
-    nvlvalerie "人家没有固定的伴侣嘛。"
+    nvlvalerie "我没有固定的伴侣嘛。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13023
 translate zh_Hans son_sissy_storyline_197_77865cd3:
@@ -26066,19 +26066,19 @@ translate zh_Hans son_sissy_storyline_197_39620e1c:
 translate zh_Hans son_sissy_storyline_197_c4503abf:
 
     # nvlvalerie "Anyway, I'm glad I did it"
-    nvlvalerie "总之，人家好开心人家做了呢。"
+    nvlvalerie "总之，我好开心我做了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13029
 translate zh_Hans son_sissy_storyline_197_c2f1be21:
 
     # nvlvalerie "My only regret is not doing it last time"
-    nvlvalerie "人家唯一的遗憾就是上次没做啦。"
+    nvlvalerie "我唯一的遗憾就是上次没做啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13031
 translate zh_Hans son_sissy_storyline_197_ae62fe41:
 
     # nvlvalerie "I missed out on that massive cock"
-    nvlvalerie "人家错过了那个……那个巨大的肉棒棒呢。"
+    nvlvalerie "我错过了那个……那个巨大的肉棒棒呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13033
 translate zh_Hans son_sissy_storyline_197_33ca87a9:
@@ -26102,25 +26102,25 @@ translate zh_Hans son_sissy_storyline_197_1bcfcbb8:
 translate zh_Hans son_sissy_storyline_197_d5d33cef:
 
     # nvlvalerie "I hope you're right"
-    nvlvalerie "人家希望你是对的。"
+    nvlvalerie "我希望你是对的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13041
 translate zh_Hans son_sissy_storyline_197_2dc6bdc7_1:
 
     # nvlsson "😊"
-    nvlsson ""
+    nvlsson "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13043
 translate zh_Hans son_sissy_storyline_197_524df260:
 
     # nvlvalerie "God, I sound like such a slag"
-    nvlvalerie "天哪，人家听起来是不是像个……像个荡妇呀。"
+    nvlvalerie "天哪，我听起来是不是像个……像个荡妇呀。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13045
 translate zh_Hans son_sissy_storyline_197_4b64cfcb:
 
     # nvlvalerie "Don't think I'm some sort of pervert"
-    nvlvalerie "大人可不要以为人家是个……是个变态哦。"
+    nvlvalerie "大人可不要以为我是个……是个变态哦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13047
 translate zh_Hans son_sissy_storyline_197_ad138224:
@@ -26138,19 +26138,19 @@ translate zh_Hans son_sissy_storyline_197_3757af44:
 translate zh_Hans son_sissy_storyline_197_703d6bfd:
 
     # nvlvalerie "I only became like this after working here"
-    nvlvalerie "人家只有在这里工作后才变成这样的呢。"
+    nvlvalerie "我只有在这里工作后才变成这样的呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13053
 translate zh_Hans son_sissy_storyline_197_94625f0c:
 
     # nvlvalerie "My life was completely different"
-    nvlvalerie "人家以前的生活完全不一样的呢。"
+    nvlvalerie "我以前的生活完全不一样的呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13055
 translate zh_Hans son_sissy_storyline_197_f2598fdc:
 
     # nvlvalerie "Before I started working here"
-    nvlvalerie "在人家开始在这里工作之前呀。"
+    nvlvalerie "在我开始在这里工作之前呀。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13057
 translate zh_Hans son_sissy_storyline_197_339b69df:
@@ -26162,25 +26162,25 @@ translate zh_Hans son_sissy_storyline_197_339b69df:
 translate zh_Hans son_sissy_storyline_197_a62889a3:
 
     # nvlvalerie "Anyway, I don't want to whinge"
-    nvlvalerie "总之，人家不想抱怨啦。"
+    nvlvalerie "总之，我不想抱怨啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13061
 translate zh_Hans son_sissy_storyline_197_0f7a2570:
 
     # nvlvalerie "Honestly, I don't regret how things turned out"
-    nvlvalerie "说实话，人家一点都不后悔事情变成这样呢。"
+    nvlvalerie "说实话，我一点都不后悔事情变成这样呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13063
 translate zh_Hans son_sissy_storyline_197_8234664f:
 
     # nvlvalerie "My life is much better now than it was before"
-    nvlvalerie "人家现在的生活比以前好太多太多了呢。"
+    nvlvalerie "我现在的生活比以前好太多太多了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13065
 translate zh_Hans son_sissy_storyline_197_95adfb5a:
 
     # nvlvalerie "And there's a lot more enjoyment in it now than there used to be"
-    nvlvalerie "而且现在有好多好多让人家身子酥麻的乐趣呢。"
+    nvlvalerie "而且现在有好多好多让我身子酥麻的乐趣呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13067
 translate zh_Hans son_sissy_storyline_197_bb236bc3:
@@ -26198,7 +26198,7 @@ translate zh_Hans son_sissy_storyline_197_1d24de75:
 translate zh_Hans son_sissy_storyline_197_1ac738b8:
 
     # nvlsson "I also think my life's better since I started working here"
-    nvlsson "人家也觉得，自从在这里工作后，生活变得更美好了呢。"
+    nvlsson "我也觉得，自从在这里工作后，生活变得更美好了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13073
 translate zh_Hans son_sissy_storyline_197_f7ea354f:
@@ -26210,19 +26210,19 @@ translate zh_Hans son_sissy_storyline_197_f7ea354f:
 translate zh_Hans son_sissy_storyline_197_8225d498:
 
     # nvlsson "I've learnt and tried so many new things here"
-    nvlsson "在这里，人家学到了好多新东西，也尝试了好多呢。"
+    nvlsson "在这里，我学到了好多新东西，也尝试了好多呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13077
 translate zh_Hans son_sissy_storyline_197_5e799eb3:
 
     # nvlvalerie "Haha, same here"
-    nvlvalerie "哈哈，人家也是呢。"
+    nvlvalerie "哈哈，我也是呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13079
 translate zh_Hans son_sissy_storyline_197_6193aff0:
 
     # nvlvalerie "I never would've thought I'd end up working in a gloryhole"
-    nvlvalerie "人家从没想过，自己会在这里的XTAG0X小洞里工作呢。"
+    nvlvalerie "我从没想过，自己会在这里的XTAG0X小洞里工作呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13081
 translate zh_Hans son_sissy_storyline_197_0234a0fe:
@@ -26246,7 +26246,7 @@ translate zh_Hans son_sissy_storyline_197_c8d71802_1:
 translate zh_Hans son_sissy_storyline_197_a0e81f4f:
 
     # nvlvalerie "Alright, time to get back to work"
-    nvlvalerie "好啦，人家该回去工作了。"
+    nvlvalerie "好啦，我该回去工作了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13089
 translate zh_Hans son_sissy_storyline_197_1009b612:
@@ -26320,7 +26320,7 @@ translate zh_Hans son_sissy_storyline_198_7b122c6d:
 translate zh_Hans son_sissy_storyline_198_623a070b:
 
     # nvlsson "I really liked it"
-    nvlsson "人家……人家真的好喜欢呢。"
+    nvlsson "我……我真的好喜欢呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13146
 translate zh_Hans son_sissy_storyline_198_33afe24b:
@@ -26344,7 +26344,7 @@ translate zh_Hans son_sissy_storyline_198_5b175949:
 translate zh_Hans son_sissy_storyline_198_2a1570d6:
 
     # nvljenna "Looking forward to hearing all about it tonight"
-    nvljenna "人家好期待今晚听你细说呢。"
+    nvljenna "我好期待今晚听你细说呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13154
 translate zh_Hans son_sissy_storyline_198_0cf3fefd:
@@ -26356,7 +26356,7 @@ translate zh_Hans son_sissy_storyline_198_0cf3fefd:
 translate zh_Hans son_sissy_storyline_198_535b9061:
 
     # nvlsson "Alright"
-    nvlsson "遵命，大人，这就给你看。"
+    nvlsson "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13158
 translate zh_Hans son_sissy_storyline_198_9967a126:
@@ -26368,7 +26368,7 @@ translate zh_Hans son_sissy_storyline_198_9967a126:
 translate zh_Hans son_sissy_storyline_198_394499a3:
 
     # nvljenna "I'll be free by then"
-    nvljenna "那时候人家就空闲了。"
+    nvljenna "那时候我就空闲了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13162
 translate zh_Hans son_sissy_storyline_198_3fd79454:
@@ -26380,7 +26380,7 @@ translate zh_Hans son_sissy_storyline_198_3fd79454:
 translate zh_Hans son_sissy_storyline_198_d142e19e:
 
     # nvlsson "I can come over earlier if you want"
-    nvlsson "如果你想的话，人家可以早点过来呢。"
+    nvlsson "如果你想的话，我可以早点过来呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13166
 translate zh_Hans son_sissy_storyline_198_53366d51:
@@ -26392,7 +26392,7 @@ translate zh_Hans son_sissy_storyline_198_53366d51:
 translate zh_Hans son_sissy_storyline_198_dbf51db3:
 
     # nvljenna "I'll be busy until then"
-    nvljenna "在那之前人家都会很忙的。"
+    nvljenna "在那之前我都会很忙的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13170
 translate zh_Hans son_sissy_storyline_198_9cc7e8a8:
@@ -26404,13 +26404,13 @@ translate zh_Hans son_sissy_storyline_198_9cc7e8a8:
 translate zh_Hans son_sissy_storyline_198_5149e522:
 
     # nvlsson "Then I'll come over at 7"
-    nvlsson "那人家七点过来咯。"
+    nvlsson "那我七点过来咯。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13174
 translate zh_Hans son_sissy_storyline_198_7fe28ae9:
 
     # nvljenna "I'll be waiting 😊"
-    nvljenna "人家会乖乖等着你的😊"
+    nvljenna "我会乖乖等着你的😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13191
 translate zh_Hans son_sissy_storyline_198_76b2fe88:
@@ -26422,7 +26422,7 @@ translate zh_Hans son_sissy_storyline_198_76b2fe88:
 translate zh_Hans son_sissy_storyline_198_3cb575da:
 
     # nvljenna "{a=show:show_chat_media}{image=mikky_pic_61}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=mikky_pic_61}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13199
 translate zh_Hans son_sissy_storyline_198_b3c80a9b:
@@ -26440,7 +26440,7 @@ translate zh_Hans son_sissy_storyline_198_d8359748:
 translate zh_Hans son_sissy_storyline_198_78ab86de:
 
     # nvljenna "{a=show:show_chat_media}{image=mikky_pic_62}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=mikky_pic_62}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13209
 translate zh_Hans son_sissy_storyline_198_64c2a95d:
@@ -26464,7 +26464,7 @@ translate zh_Hans son_sissy_storyline_198_8292b301:
 translate zh_Hans son_sissy_storyline_198_99e37db0:
 
     # nvlsson "No, I won't"
-    nvlsson "不，人家再也不会了"
+    nvlsson "不，我再也不会了"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13217
 translate zh_Hans son_sissy_storyline_198_33afe24b_1:
@@ -26494,19 +26494,19 @@ translate zh_Hans son_sissy_storyline_198_66ed0d13:
 translate zh_Hans son_sissy_storyline_198_4424cfd0:
 
     # nvljenna "Never"
-    nvljenna "绝不，大人！人家永远是你的好米基！"
+    nvljenna "绝不，大人！我永远是你的好米基！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13227
 translate zh_Hans son_sissy_storyline_198_ee9d0962:
 
     # nvlsson "I'm sorry, mistress"
-    nvlsson "对不起，主人，人家错了。"
+    nvlsson "对不起，主人，我错了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13229
 translate zh_Hans son_sissy_storyline_198_05f94937:
 
     # nvlsson "I just thought you'd approve of it"
-    nvlsson "人家只是以为，你会赞同的。"
+    nvlsson "我只是以为，你会赞同的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13231
 translate zh_Hans son_sissy_storyline_198_43881a6d:
@@ -26530,13 +26530,13 @@ translate zh_Hans son_sissy_storyline_198_c27a897e:
 translate zh_Hans son_sissy_storyline_198_3a6e9bc6:
 
     # nvlsson "Yes, I understand now"
-    nvlsson "是的，人家现在明白了。"
+    nvlsson "是的，我现在明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13239
 translate zh_Hans son_sissy_storyline_198_744d9165:
 
     # nvlsson "I'm sorry it turned out this way"
-    nvlsson "人家很抱歉事情会变成这样。"
+    nvlsson "我很抱歉事情会变成这样。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13241
 translate zh_Hans son_sissy_storyline_198_22712c4c:
@@ -26560,19 +26560,19 @@ translate zh_Hans son_sissy_storyline_198_104a24d0:
 translate zh_Hans son_sissy_storyline_198_82722713:
 
     # nvlsson "It won't happen again"
-    nvlsson "人家保证，不会再发生了。"
+    nvlsson "我保证，不会再发生了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13249
 translate zh_Hans son_sissy_storyline_198_e5e5aec8:
 
     # nvlsson "I promise"
-    nvlsson "人家保证"
+    nvlsson "我保证"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13251
 translate zh_Hans son_sissy_storyline_198_914cbc57:
 
     # nvljenna "I hope so"
-    nvljenna "人家也希望是这样呢。"
+    nvljenna "我也希望是这样呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13253
 translate zh_Hans son_sissy_storyline_198_76ba1ae2:
@@ -26590,7 +26590,7 @@ translate zh_Hans son_sissy_storyline_198_da526568:
 translate zh_Hans son_sissy_storyline_198_c26e2c8b:
 
     # nvlsson "I'm sorry 😔"
-    nvlsson "人家错了啦😔"
+    nvlsson "我错了啦😔"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13259
 translate zh_Hans son_sissy_storyline_198_30ade3fc:
@@ -26602,7 +26602,7 @@ translate zh_Hans son_sissy_storyline_198_30ade3fc:
 translate zh_Hans son_sissy_storyline_198_1a248a90:
 
     # nvlsson "What can I do to earn your forgiveness?"
-    nvlsson "人家要怎么做，才能得到你的原谅呢？"
+    nvlsson "我要怎么做，才能得到你的原谅呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13263
 translate zh_Hans son_sissy_storyline_198_b7c2d096:
@@ -26638,19 +26638,19 @@ translate zh_Hans son_sissy_storyline_198_b6c26514:
 translate zh_Hans son_sissy_storyline_198_095b6cfb:
 
     # nvlsson "I'm sorry again"
-    nvlsson "人家又让你失望了，真的好抱歉。"
+    nvlsson "我又让你失望了，真的好抱歉。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13275
 translate zh_Hans son_sissy_storyline_198_82586ae0:
 
     # nvlsson "I won't do it again"
-    nvlsson "人家再也不会了。"
+    nvlsson "我再也不会了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13277
 translate zh_Hans son_sissy_storyline_198_e5e5aec8_1:
 
     # nvlsson "I promise"
-    nvlsson "人家保证"
+    nvlsson "我保证"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13293
 translate zh_Hans son_sissy_storyline_198_53c71d7c:
@@ -26670,13 +26670,13 @@ translate zh_Hans son_sissy_storyline_199_6afc351f:
 translate zh_Hans son_sissy_storyline_199_39069582:
 
     # nvljim "I miss you"
-    nvljim "人家好想你呀。"
+    nvljim "我好想你呀。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13318
 translate zh_Hans son_sissy_storyline_199_535b9061:
 
     # nvlsson "Alright"
-    nvlsson "遵命，大人，这就给你看。"
+    nvlsson "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13320
 translate zh_Hans son_sissy_storyline_199_b4930543:
@@ -26688,7 +26688,7 @@ translate zh_Hans son_sissy_storyline_199_b4930543:
 translate zh_Hans son_sissy_storyline_199_357202c3:
 
     # nvlsson "Yes"
-    nvlsson "是的，人家明白了。"
+    nvlsson "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13324
 translate zh_Hans son_sissy_storyline_199_b10e5734:
@@ -26724,13 +26724,13 @@ translate zh_Hans son_sissy_storyline_199_d899e225:
 translate zh_Hans son_sissy_storyline_199_52fa07a8:
 
     # nvlsson "Yes, I wear it"
-    nvlsson "嗯，人家乖乖戴着呢。"
+    nvlsson "嗯，我乖乖戴着呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13336
 translate zh_Hans son_sissy_storyline_199_e6f6695c:
 
     # nvljim "Then show me"
-    nvljim "那现在就给爸爸看看。"
+    nvljim "那现在就给我看看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13338
 translate zh_Hans son_sissy_storyline_199_e6de720d:
@@ -26742,7 +26742,7 @@ translate zh_Hans son_sissy_storyline_199_e6de720d:
 translate zh_Hans son_sissy_storyline_199_22fa7f10:
 
     # nvlsson "Let me just go to the loo"
-    nvlsson "人家这就去洗手间，给你拍下来。"
+    nvlsson "我这就去洗手间，给你拍下来。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13342
 translate zh_Hans son_sissy_storyline_199_5b9f1a42:
@@ -26760,7 +26760,7 @@ translate zh_Hans son_sissy_storyline_199_a8aad755:
 translate zh_Hans son_sissy_storyline_199_5a6554c4:
 
     # nvljim "I'll check it myself this evening"
-    nvljim "今晚，爸爸会亲自检查的。"
+    nvljim "今晚，我会亲自检查的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13348
 translate zh_Hans son_sissy_storyline_199_87b28565:
@@ -26772,7 +26772,7 @@ translate zh_Hans son_sissy_storyline_199_87b28565:
 translate zh_Hans son_sissy_storyline_199_2e4d5c2b:
 
     # nvljim "I'll be waiting for you after work"
-    nvljim "下班后，爸爸会等着你的好米基。"
+    nvljim "下班后，我会等着你的好米基。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13364
 translate zh_Hans son_sissy_storyline_199_53c71d7c:
@@ -26790,13 +26790,13 @@ translate zh_Hans son_sissy_storyline_200_76b2fe88:
 translate zh_Hans son_sissy_storyline_200_0b72c86c:
 
     # nvljim "{a=show:show_chat_media}{image=mikky_pic_63}"
-    nvljim ""
+    nvljim "{a=show:show_chat_media}{image=mikky_pic_63}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13391
 translate zh_Hans son_sissy_storyline_200_675640d1:
 
     # nvljim "A little something for you to remember"
-    nvljim "这是爸爸给你的好米基留下的，让你好好记住这份疼爱。"
+    nvljim "这是我给你的好米基留下的，让你好好记住这份疼爱。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13393
 translate zh_Hans son_sissy_storyline_200_6a4ff3a8:
@@ -26808,7 +26808,7 @@ translate zh_Hans son_sissy_storyline_200_6a4ff3a8:
 translate zh_Hans son_sissy_storyline_200_ad78d4a9:
 
     # nvljim "Next time, I'll cum in your butt"
-    nvljim "下次，爸爸会把精华都射进你的小屁股里。"
+    nvljim "下次，我会把精华都射进你的小屁股里。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13397
 translate zh_Hans son_sissy_storyline_200_7284f36d:
@@ -26820,25 +26820,25 @@ translate zh_Hans son_sissy_storyline_200_7284f36d:
 translate zh_Hans son_sissy_storyline_200_dcb485d5:
 
     # nvljim "I love cumming in your mouth"
-    nvljim "爸爸最喜欢把精华都射进你的小嘴里了。"
+    nvljim "我最喜欢把精华都射进你的小嘴里了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13401
 translate zh_Hans son_sissy_storyline_200_0ce50406:
 
     # nvljim "I love it when you swallow my cum"
-    nvljim "爸爸更爱看你把爸爸的精华，一滴不剩地吞下去。"
+    nvljim "我更爱看你把我的精华，一滴不剩地吞下去。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13403
 translate zh_Hans son_sissy_storyline_200_3a31c4bb:
 
     # nvljim "It's so arousing"
-    nvljim "那真是让爸爸欲罢不能，心都要酥了。"
+    nvljim "那真是让我欲罢不能，心都要酥了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13405
 translate zh_Hans son_sissy_storyline_200_3f02e80b:
 
     # nvljim "If you had a pussy, I'd cum in it, of course"
-    nvljim "要是你有个娇嫩的小穴，爸爸当然会把精华都灌进去。"
+    nvljim "要是你有个娇嫩的小穴，我当然会把精华都灌进去。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13407
 translate zh_Hans son_sissy_storyline_200_71b772bf:
@@ -26856,13 +26856,13 @@ translate zh_Hans son_sissy_storyline_200_f9c9e55a:
 translate zh_Hans son_sissy_storyline_200_98e87676:
 
     # nvlsson "Not sure yet"
-    nvlsson "人家还不确定呢。"
+    nvlsson "我还不确定呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13413
 translate zh_Hans son_sissy_storyline_200_9d8c79dd:
 
     # nvlsson "I haven't made any plans"
-    nvlsson "人家还没有任何安排呢。"
+    nvlsson "我还没有任何安排呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13415
 translate zh_Hans son_sissy_storyline_200_8f5e4d3a:
@@ -26874,13 +26874,13 @@ translate zh_Hans son_sissy_storyline_200_8f5e4d3a:
 translate zh_Hans son_sissy_storyline_200_3fa18d7f:
 
     # nvljim "Let's meet up this weekend"
-    nvljim "那这个周末，爸爸想和你好好约会。"
+    nvljim "那这个周末，我想和你好好约会。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13419
 translate zh_Hans son_sissy_storyline_200_50f3f278:
 
     # nvljim "I want to take you somewhere"
-    nvljim "爸爸想带你去一个特别的地方。"
+    nvljim "我想带你去一个特别的地方。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13421
 translate zh_Hans son_sissy_storyline_200_e1cec1cc:
@@ -26904,7 +26904,7 @@ translate zh_Hans son_sissy_storyline_200_29a38bc1:
 translate zh_Hans son_sissy_storyline_200_6a91817a:
 
     # nvlsson "I'll do whatever you say"
-    nvlsson "大人说什么，人家就做什么，绝不反抗。"
+    nvlsson "爸爸说什么，我就做什么，绝不反抗。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13429
 translate zh_Hans son_sissy_storyline_200_b06ac2b9:
@@ -26916,13 +26916,13 @@ translate zh_Hans son_sissy_storyline_200_b06ac2b9:
 translate zh_Hans son_sissy_storyline_200_e72e6434:
 
     # nvljim "That's exactly the answer I was expecting from you"
-    nvljim "这正是爸爸期待从你这里听到的答案呢。"
+    nvljim "这正是我期待从你这里听到的答案呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13433
 translate zh_Hans son_sissy_storyline_200_c60dce93:
 
     # nvljim "Then I'll pick you up on Saturday evening"
-    nvljim "那周六晚上，爸爸会来接你的好米基。"
+    nvljim "那周六晚上，我会来接你的好米基。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13435
 translate zh_Hans son_sissy_storyline_200_c56cd5f1:
@@ -26934,7 +26934,7 @@ translate zh_Hans son_sissy_storyline_200_c56cd5f1:
 translate zh_Hans son_sissy_storyline_200_535b9061:
 
     # nvlsson "Alright"
-    nvlsson "遵命，大人，这就给你看。"
+    nvlsson "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13451
 translate zh_Hans son_sissy_storyline_200_53c71d7c:
@@ -26996,7 +26996,7 @@ translate zh_Hans son_sissy_storyline_201_1f87ff73:
 translate zh_Hans son_sissy_storyline_201_47fe12ea:
 
     # nvlsson "Yes, everything's fine"
-    nvlsson "嗯，人家...人家都好好的呢，你不用担心人家..."
+    nvlsson "嗯，我...我都好好的呢，你不用担心我..."
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13490
 translate zh_Hans son_sissy_storyline_201_257335a8:
@@ -27172,7 +27172,7 @@ translate zh_Hans son_sissy_storyline_202_ac7bdabb:
 translate zh_Hans son_sissy_storyline_202_362ba13a:
 
     # nvljenna "{a=show:show_chat_media}{image=mikky_pic_64}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=mikky_pic_64}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13583
 translate zh_Hans son_sissy_storyline_202_63fa6128:
@@ -27190,7 +27190,7 @@ translate zh_Hans son_sissy_storyline_202_6c834f77:
 translate zh_Hans son_sissy_storyline_202_1dfc8ed0:
 
     # nvlsson "I'm not sure"
-    nvlsson "人家心里没底呢……"
+    nvlsson "我心里没底呢……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13589
 translate zh_Hans son_sissy_storyline_202_1a7e3e64:
@@ -27214,7 +27214,7 @@ translate zh_Hans son_sissy_storyline_202_dbf74310:
 translate zh_Hans son_sissy_storyline_202_975050dc:
 
     # nvljenna "Yes"
-    nvljenna "是的，人家明白了。"
+    nvljenna "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13597
 translate zh_Hans son_sissy_storyline_202_5282a489:
@@ -27244,13 +27244,13 @@ translate zh_Hans son_sissy_storyline_202_5f7b0009:
 translate zh_Hans son_sissy_storyline_202_b66c0b98:
 
     # nvlsson "I don't remember how it went"
-    nvlsson "人家都记不清当时是什么感觉了……"
+    nvlsson "我都记不清当时是什么感觉了……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13607
 translate zh_Hans son_sissy_storyline_202_d76b5685:
 
     # nvljenna "I see 😊"
-    nvljenna "人家知道了呢~"
+    nvljenna "我知道了呢~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13609
 translate zh_Hans son_sissy_storyline_202_de2631e3:
@@ -27298,7 +27298,7 @@ translate zh_Hans son_sissy_storyline_202_4b53f370:
 translate zh_Hans son_sissy_storyline_202_4e5e5631:
 
     # nvlsson "Yes, I'm sure"
-    nvlsson "嗯，人家很确定。"
+    nvlsson "嗯，我很确定。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13625
 translate zh_Hans son_sissy_storyline_202_7a55a506:
@@ -27310,7 +27310,7 @@ translate zh_Hans son_sissy_storyline_202_7a55a506:
 translate zh_Hans son_sissy_storyline_202_cbd2f757:
 
     # nvlsson "I'll talk to her myself"
-    nvlsson "人家会自己跟她说的"
+    nvlsson "我会自己跟她说的"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13629
 translate zh_Hans son_sissy_storyline_202_bceaa35a:
@@ -27406,13 +27406,13 @@ translate zh_Hans son_sissy_storyline_202_72f8c5e7:
 translate zh_Hans son_sissy_storyline_202_7edd40fe:
 
     # nvlsson "And said he didn't need me anymore"
-    nvlsson "他说他不再需要人家了"
+    nvlsson "他说他不再需要我了"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13661
 translate zh_Hans son_sissy_storyline_202_52d2b1ac:
 
     # nvlsson "She's better than me"
-    nvlsson "她比人家好……"
+    nvlsson "她比我好……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13663
 translate zh_Hans son_sissy_storyline_202_adfd3352:
@@ -27448,7 +27448,7 @@ translate zh_Hans son_sissy_storyline_202_00522077:
 translate zh_Hans son_sissy_storyline_202_2dc6bdc7:
 
     # nvlsson "😊"
-    nvlsson ""
+    nvlsson "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13675
 translate zh_Hans son_sissy_storyline_202_bcc9844e:
@@ -27508,7 +27508,7 @@ translate zh_Hans son_sissy_storyline_202_15448bb9:
 translate zh_Hans son_sissy_storyline_202_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13695
 translate zh_Hans son_sissy_storyline_202_1bb72f00:
@@ -27526,7 +27526,7 @@ translate zh_Hans son_sissy_storyline_202_6b27c397:
 translate zh_Hans son_sissy_storyline_202_376503af:
 
     # nvljenna "Bye-bye"
-    nvljenna "大人再见~ 人家会想你的。"
+    nvljenna "大人再见~ 我会想你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13701
 translate zh_Hans son_sissy_storyline_202_55b585f4:
@@ -27552,19 +27552,19 @@ translate zh_Hans son_sissy_storyline_203_31606a59:
 translate zh_Hans son_sissy_storyline_203_357202c3:
 
     # nvlsson "Yes"
-    nvlsson "是的，人家明白了。"
+    nvlsson "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13742
 translate zh_Hans son_sissy_storyline_203_4c0da5fe:
 
     # nvlsson "I am"
-    nvlsson "是的，人家在等你"
+    nvlsson "是的，我在等你"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13744
 translate zh_Hans son_sissy_storyline_203_c6e78eec:
 
     # nvlsson "What time will you pick me up?"
-    nvlsson "你什么时候来接人家呀？"
+    nvlsson "你什么时候来接我呀？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13746
 translate zh_Hans son_sissy_storyline_203_ebb74c3f:
@@ -27582,13 +27582,13 @@ translate zh_Hans son_sissy_storyline_203_cc3b810c:
 translate zh_Hans son_sissy_storyline_203_e4fa4fea:
 
     # nvljim "I think I'll be free around 8"
-    nvljim "人家大概八点左右就能空下来了。"
+    nvljim "我大概八点左右就能空下来了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13752
 translate zh_Hans son_sissy_storyline_203_710f7aaa:
 
     # nvljim "So I'll be at yours by then"
-    nvljim "到时候，人家就去你那里哦。"
+    nvljim "到时候，我就去你那里哦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13754
 translate zh_Hans son_sissy_storyline_203_04277ea7:
@@ -27606,7 +27606,7 @@ translate zh_Hans son_sissy_storyline_203_5bebd99c:
 translate zh_Hans son_sissy_storyline_203_cbd512e7:
 
     # nvljim "In the meantime, send me a photo"
-    nvljim "那在这之前，先给爸爸发张照片来。"
+    nvljim "那在这之前，先给我发张照片来。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13760
 translate zh_Hans son_sissy_storyline_203_165683f5:
@@ -27624,13 +27624,13 @@ translate zh_Hans son_sissy_storyline_203_bf2329e6:
 translate zh_Hans son_sissy_storyline_203_4876a6a7:
 
     # nvljim "I just want to look at you"
-    nvljim "爸爸只是想看看你。"
+    nvljim "我只是想看看你。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13768
 translate zh_Hans son_sissy_storyline_203_86db5668:
 
     # nvlsson "{a=show:show_chat_media}{image=mikky_pic_65}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=mikky_pic_65}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13772
 translate zh_Hans son_sissy_storyline_203_7972779b:
@@ -27642,7 +27642,7 @@ translate zh_Hans son_sissy_storyline_203_7972779b:
 translate zh_Hans son_sissy_storyline_203_f923315c:
 
     # nvljim "Yes"
-    nvljim "是的，人家明白了。"
+    nvljim "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13776
 translate zh_Hans son_sissy_storyline_203_1d5f0b44:
@@ -27660,25 +27660,25 @@ translate zh_Hans son_sissy_storyline_203_0882fc91:
 translate zh_Hans son_sissy_storyline_203_357202c3_1:
 
     # nvlsson "Yes"
-    nvlsson "是的，人家明白了。"
+    nvlsson "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13782
 translate zh_Hans son_sissy_storyline_203_6aa06020:
 
     # nvljim "I want to take your mouth"
-    nvljim "爸爸想含住你的嘴。"
+    nvljim "我想含住你的嘴。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13784
 translate zh_Hans son_sissy_storyline_203_bb47c599:
 
     # nvljim "To have you suck me properly"
-    nvljim "让你好好地把爸爸吸干净。"
+    nvljim "让你好好地把我吸干净。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13786
 translate zh_Hans son_sissy_storyline_203_f0e4a8cc:
 
     # nvljim "Then I'd fuck you between your tits"
-    nvljim "然后，爸爸会把你夹在胸口，狠狠地操弄。"
+    nvljim "然后，我会把你夹在胸口，狠狠地操弄。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13788
 translate zh_Hans son_sissy_storyline_203_a505d658:
@@ -27690,7 +27690,7 @@ translate zh_Hans son_sissy_storyline_203_a505d658:
 translate zh_Hans son_sissy_storyline_203_ae87cde7:
 
     # nvlsson "Just wait a little longer"
-    nvlsson "你再等等人家嘛……"
+    nvlsson "你再等等我嘛……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13792
 translate zh_Hans son_sissy_storyline_203_3a7f434e:
@@ -27702,19 +27702,19 @@ translate zh_Hans son_sissy_storyline_203_3a7f434e:
 translate zh_Hans son_sissy_storyline_203_9b9b7067:
 
     # nvljim "I know"
-    nvljim "人家知道的。"
+    nvljim "我知道的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13796
 translate zh_Hans son_sissy_storyline_203_f991e682:
 
     # nvljim "Tonight I'll do everything I want with you"
-    nvljim "今晚，爸爸会把你玩弄个够。"
+    nvljim "今晚，我会把你玩弄个够。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13798
 translate zh_Hans son_sissy_storyline_203_37d9e307:
 
     # nvljim "I won't let you go until morning"
-    nvljim "直到天亮，爸爸都不会放过你。"
+    nvljim "直到天亮，我都不会放过你。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13800
 translate zh_Hans son_sissy_storyline_203_f733687c:
@@ -27726,7 +27726,7 @@ translate zh_Hans son_sissy_storyline_203_f733687c:
 translate zh_Hans son_sissy_storyline_203_b97e23de:
 
     # nvlsson "I'm already ready"
-    nvlsson "人家早就准备好了呢。"
+    nvlsson "我早就准备好了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13804
 translate zh_Hans son_sissy_storyline_203_b43dc68d:
@@ -27738,13 +27738,13 @@ translate zh_Hans son_sissy_storyline_203_b43dc68d:
 translate zh_Hans son_sissy_storyline_203_7bd69744:
 
     # nvljim "Alright, wait for me at 8"
-    nvljim "好，八点等爸爸。"
+    nvljim "好，八点等我。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13808
 translate zh_Hans son_sissy_storyline_203_5d1e984d:
 
     # nvljim "I'll call you when I arrive"
-    nvljim "爸爸到了会给你打电话。"
+    nvljim "我到了会给你打电话。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13810
 translate zh_Hans son_sissy_storyline_203_ac229cc1:
@@ -27770,7 +27770,7 @@ translate zh_Hans son_sissy_storyline_204_e0337fc8:
 translate zh_Hans son_sissy_storyline_204_bcd6f018:
 
     # nvljim "{a=show:show_chat_media}{image=mikky_video_20_ns}"
-    nvljim ""
+    nvljim "{a=show:show_chat_media}{image=mikky_video_20_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13855
 translate zh_Hans son_sissy_storyline_204_f23404b5:
@@ -27788,7 +27788,7 @@ translate zh_Hans son_sissy_storyline_204_e2d52f99:
 translate zh_Hans son_sissy_storyline_204_1309b5be:
 
     # nvlsson "I'm glad you enjoyed it"
-    nvlsson "你喜欢就好，人家也很开心。"
+    nvlsson "你喜欢就好，我也很开心。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13861
 translate zh_Hans son_sissy_storyline_204_1b413712:
@@ -27806,43 +27806,43 @@ translate zh_Hans son_sissy_storyline_204_786ee5f6:
 translate zh_Hans son_sissy_storyline_204_2d40c71d:
 
     # nvljim "You even came while I was fucking you"
-    nvljim "爸爸操弄你的时候，你都高潮了呢。"
+    nvljim "我操弄你的时候，你都高潮了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13867
 translate zh_Hans son_sissy_storyline_204_f9d700e1:
 
     # nvlsson "Yes, I enjoyed it"
-    nvlsson "嗯，人家很享受。"
+    nvlsson "嗯，我很享受。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13869
 translate zh_Hans son_sissy_storyline_204_8827ca00:
 
     # nvljim "You know, I don't want you to think I'm some kind of monster"
-    nvljim "你知道，爸爸不希望你觉得爸爸是个怪物。"
+    nvljim "你知道，我不希望你觉得我是个怪物。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13871
 translate zh_Hans son_sissy_storyline_204_2e3c3059:
 
     # nvljim "I understand that maybe I'm in the wrong by making you do all of this"
-    nvljim "爸爸明白，也许让做这些，是爸爸的错。"
+    nvljim "我明白，也许让你做这些，是我的错。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13873
 translate zh_Hans son_sissy_storyline_204_423130ce:
 
     # nvljim "But, on the other hand, I'm not hitting you or treating you badly"
-    nvljim "但是，另一方面，爸爸并没有打你，也没有虐待你。"
+    nvljim "但是，另一方面，我并没有打你，也没有虐待你。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13875
 translate zh_Hans son_sissy_storyline_204_82ee85ca:
 
     # nvljim "I'm just having sex with you"
-    nvljim "爸爸只是在和你做爱。"
+    nvljim "我只是在和你做爱。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13877
 translate zh_Hans son_sissy_storyline_204_45be0069:
 
     # nvljim "I don't think that's such a terrible thing"
-    nvljim "爸爸不觉得那是什么可怕的事情。"
+    nvljim "我不觉得那是什么可怕的事情。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13879
 translate zh_Hans son_sissy_storyline_204_9a47e510:
@@ -27854,13 +27854,13 @@ translate zh_Hans son_sissy_storyline_204_9a47e510:
 translate zh_Hans son_sissy_storyline_204_5f4ed7b7:
 
     # nvlsson "I can't speak for everyone"
-    nvlsson "人家……人家不能替别人说话。"
+    nvlsson "我……我不能替别人说话。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13883
 translate zh_Hans son_sissy_storyline_204_0ffa6e1d:
 
     # nvljim "I'm only asking about you"
-    nvljim "爸爸只问你。"
+    nvljim "我只问你。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13885
 translate zh_Hans son_sissy_storyline_204_2f75d07e:
@@ -27896,7 +27896,7 @@ translate zh_Hans son_sissy_storyline_204_d593227e:
 translate zh_Hans son_sissy_storyline_204_797da40f:
 
     # nvljim "If you want, I can relieve you from that duty"
-    nvljim "如果你愿意，爸爸可以让你不用做那个工作。"
+    nvljim "如果你愿意，我可以让你不用做那个工作。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13897
 translate zh_Hans son_sissy_storyline_204_cfe8afa8:
@@ -27920,13 +27920,13 @@ translate zh_Hans son_sissy_storyline_204_3eb859c8:
 translate zh_Hans son_sissy_storyline_204_4ee93633:
 
     # nvljim "In return, I want you to serve only me"
-    nvljim "作为回报，爸爸要你只服务爸爸一个人。"
+    nvljim "作为回报，我要你只服务我一个人。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13905
 translate zh_Hans son_sissy_storyline_204_7adbc527:
 
     # nvljim "You'll be having sex and pleasuring me only, not all the visitors who use the gloryhole"
-    nvljim "你只会和爸爸做爱，取悦爸爸，而不是那些使用偷窥洞的客人。"
+    nvljim "你只会和我做爱，取悦我，而不是那些使用偷窥洞的客人。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13907
 translate zh_Hans son_sissy_storyline_204_5dd6ece7:
@@ -27938,7 +27938,7 @@ translate zh_Hans son_sissy_storyline_204_5dd6ece7:
 translate zh_Hans son_sissy_storyline_204_3d64eaa5:
 
     # nvlsson "I need to think about it"
-    nvlsson "人家需要好好想想了"
+    nvlsson "我需要好好想想了"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13911
 translate zh_Hans son_sissy_storyline_204_454ba6a7:
@@ -27956,13 +27956,13 @@ translate zh_Hans son_sissy_storyline_204_b918b0b9:
 translate zh_Hans son_sissy_storyline_204_d96d2c02:
 
     # nvljim "But don't tell anyone about my offer"
-    nvljim "但是，不要把爸爸的提议告诉任何人。"
+    nvljim "但是，不要把我的提议告诉任何人。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13917
 translate zh_Hans son_sissy_storyline_204_dd536047:
 
     # nvljim "Especially not Valerie"
-    nvljim "尤其不能是瓦莱丽呀，爸爸。"
+    nvljim "尤其不能告诉瓦莱丽。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13919
 translate zh_Hans son_sissy_storyline_204_36614f73:
@@ -27974,19 +27974,19 @@ translate zh_Hans son_sissy_storyline_204_36614f73:
 translate zh_Hans son_sissy_storyline_204_535b9061:
 
     # nvlsson "Alright"
-    nvlsson "遵命，大人，这就给你看。"
+    nvlsson "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13923
 translate zh_Hans son_sissy_storyline_204_02c07da2:
 
     # nvljim "Let me know once you've decided"
-    nvljim "等你决定好了，告诉人家一声嘛。"
+    nvljim "等你决定好了，告诉我一声嘛。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13925
 translate zh_Hans son_sissy_storyline_204_50612c0f:
 
     # nvljim "I'll be waiting"
-    nvljim "人家会乖乖等着你的。"
+    nvljim "我会乖乖等着你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13927
 translate zh_Hans son_sissy_storyline_204_ac229cc1:
@@ -28048,7 +28048,7 @@ translate zh_Hans son_sissy_storyline_205_d1cdcbd4_1:
 translate zh_Hans son_sissy_storyline_205_acfc9996:
 
     # nvlkirely "I want to talk to you"
-    nvlkirely "人家想跟你说说话"
+    nvlkirely "我想跟你说说话"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13978
 translate zh_Hans son_sissy_storyline_205_d9a62036:
@@ -28066,13 +28066,13 @@ translate zh_Hans son_sissy_storyline_205_d27469fd:
 translate zh_Hans son_sissy_storyline_205_f55550f5:
 
     # nvlsson "Well, I guess we can"
-    nvlsson "嗯，人家想，我们是可以的。"
+    nvlsson "嗯，我想，我们是可以的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13984
 translate zh_Hans son_sissy_storyline_205_188a3e5d:
 
     # nvlsson "I just don't know what we'd talk about"
-    nvlsson "人家只是不知道，我们能聊些什么呢。"
+    nvlsson "我只是不知道，我们能聊些什么呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13986
 translate zh_Hans son_sissy_storyline_205_e3b5a393:
@@ -28084,7 +28084,7 @@ translate zh_Hans son_sissy_storyline_205_e3b5a393:
 translate zh_Hans son_sissy_storyline_205_71764910:
 
     # nvlsson "I'm free in the evening"
-    nvlsson "人家晚上有空的。"
+    nvlsson "我晚上有空的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:13990
 translate zh_Hans son_sissy_storyline_205_3dc714be:
@@ -28120,7 +28120,7 @@ translate zh_Hans son_sissy_storyline_205_a1efc38a:
 translate zh_Hans son_sissy_storyline_205_63545069:
 
     # nvlsson "I think a café would be better"
-    nvlsson "人家觉得，咖啡馆会更好一些呢。"
+    nvlsson "我觉得，咖啡馆会更好一些呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14002
 translate zh_Hans son_sissy_storyline_205_399bdfa0:
@@ -28138,7 +28138,7 @@ translate zh_Hans son_sissy_storyline_205_14afc0b8:
 translate zh_Hans son_sissy_storyline_205_357202c3:
 
     # nvlsson "Yes"
-    nvlsson "是的，人家明白了。"
+    nvlsson "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14008
 translate zh_Hans son_sissy_storyline_205_6da4cbf3:
@@ -28156,7 +28156,7 @@ translate zh_Hans son_sissy_storyline_205_d7972a13:
 translate zh_Hans son_sissy_storyline_205_535b9061:
 
     # nvlsson "Alright"
-    nvlsson "遵命，大人，这就给你看。"
+    nvlsson "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14026
 translate zh_Hans son_sissy_storyline_205_53c71d7c:
@@ -28188,7 +28188,7 @@ translate zh_Hans son_sissy_storyline_206_2efda1d4:
 translate zh_Hans son_sissy_storyline_206_1acf9ba6:
 
     # nvlsson "I'm good"
-    nvlsson "人家……人家很好"
+    nvlsson "我……我很好"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14055
 translate zh_Hans son_sissy_storyline_206_64d9221b:
@@ -28206,7 +28206,7 @@ translate zh_Hans son_sissy_storyline_206_7a0eab3c:
 translate zh_Hans son_sissy_storyline_206_40265322:
 
     # nvljenna "We need to meet this evening"
-    nvljenna "我们今晚必须见面呢，爸爸。"
+    nvljenna "我们今晚必须见面呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14061
 translate zh_Hans son_sissy_storyline_206_6d3c8275:
@@ -28224,13 +28224,13 @@ translate zh_Hans son_sissy_storyline_206_a83dee40:
 translate zh_Hans son_sissy_storyline_206_12045a13:
 
     # nvljenna "I just want to see you"
-    nvljenna "人家只是……好想见到你嘛。"
+    nvljenna "我只是……好想见到你嘛。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14067
 translate zh_Hans son_sissy_storyline_206_ed623ddf:
 
     # nvljenna "To talk about something"
-    nvljenna "人家想和你聊些事情呢。"
+    nvljenna "我想和你聊些事情呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14069
 translate zh_Hans son_sissy_storyline_206_46040539:
@@ -28278,13 +28278,13 @@ translate zh_Hans son_sissy_storyline_206_d63e599c:
 translate zh_Hans son_sissy_storyline_206_f2f4c9f4:
 
     # nvljenna "Then I'll come for you after 8"
-    nvljenna "那人家八点以后来找你好不好？"
+    nvljenna "那我八点以后来找你好不好？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14085
 translate zh_Hans son_sissy_storyline_206_535b9061:
 
     # nvlsson "Alright"
-    nvlsson "遵命，大人，这就给你看。"
+    nvlsson "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14087
 translate zh_Hans son_sissy_storyline_206_e2fbb69f:
@@ -28308,7 +28308,7 @@ translate zh_Hans son_sissy_storyline_206_b0807507:
 translate zh_Hans son_sissy_storyline_206_938a7db5:
 
     # nvlsson "Understood"
-    nvlsson "人家知道了。"
+    nvlsson "我知道了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14095
 translate zh_Hans son_sissy_storyline_206_e55a1918:
@@ -28326,7 +28326,7 @@ translate zh_Hans son_sissy_storyline_206_5af3469f:
 translate zh_Hans son_sissy_storyline_206_85f236ef:
 
     # nvlsson "It's always ready 😉"
-    nvlsson "人家的小屁股一直都为你准备着呢😉"
+    nvlsson "我的小屁股一直都为你准备着呢😉"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14101
 translate zh_Hans son_sissy_storyline_206_33afe24b:
@@ -28356,7 +28356,7 @@ translate zh_Hans son_sissy_storyline_206_e7414cc6:
 translate zh_Hans son_sissy_storyline_206_1b214e72:
 
     # nvlsson "Bye-bye"
-    nvlsson "大人再见~ 人家会想你的。"
+    nvlsson "爸爸再见~ 我会想你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14123
 translate zh_Hans son_sissy_storyline_206_53c71d7c:
@@ -28400,7 +28400,7 @@ translate zh_Hans son_sissy_storyline_207_c3db8222:
 translate zh_Hans son_sissy_storyline_207_1dfc8ed0:
 
     # nvlsson "I'm not sure"
-    nvlsson "人家心里没底呢……"
+    nvlsson "我心里没底呢……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14156
 translate zh_Hans son_sissy_storyline_207_4b170e9b:
@@ -28472,13 +28472,13 @@ translate zh_Hans son_sissy_storyline_207_cc597753:
 translate zh_Hans son_sissy_storyline_207_535b9061:
 
     # nvlsson "Alright"
-    nvlsson "遵命，大人，这就给你看。"
+    nvlsson "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14180
 translate zh_Hans son_sissy_storyline_207_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14182
 translate zh_Hans son_sissy_storyline_207_bb297dd8:
@@ -28490,7 +28490,7 @@ translate zh_Hans son_sissy_storyline_207_bb297dd8:
 translate zh_Hans son_sissy_storyline_207_84d7008e:
 
     # nvlsson "I can't do otherwise"
-    nvlsson "人家哪敢不听你的话呢？"
+    nvlsson "我哪敢不听你的话呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14186
 translate zh_Hans son_sissy_storyline_207_c08caf05:
@@ -28520,13 +28520,13 @@ translate zh_Hans son_sissy_storyline_207_11b3a8fb:
 translate zh_Hans son_sissy_storyline_207_d24c7dd9:
 
     # nvlsson "I'll befriend Kirely"
-    nvlsson "人家会去和Kirely做朋友的。"
+    nvlsson "我会去和Kirely做朋友的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14196
 translate zh_Hans son_sissy_storyline_207_0a45f1f1:
 
     # nvlsson "I'll try to become her friend"
-    nvlsson "人家会努力和她成为好姐妹的。"
+    nvlsson "我会努力和她成为好姐妹的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14198
 translate zh_Hans son_sissy_storyline_207_64914907:
@@ -28556,13 +28556,13 @@ translate zh_Hans son_sissy_storyline_207_f70a4420:
 translate zh_Hans son_sissy_storyline_207_975050dc:
 
     # nvljenna "Yes"
-    nvljenna "是的，人家明白了。"
+    nvljenna "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14208
 translate zh_Hans son_sissy_storyline_207_a7e39f0c:
 
     # nvlsson "I'm not sure..."
-    nvlsson "人家不确定……"
+    nvlsson "我不确定……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14210
 translate zh_Hans son_sissy_storyline_207_e1877327:
@@ -28592,7 +28592,7 @@ translate zh_Hans son_sissy_storyline_207_9e09f1dc:
 translate zh_Hans son_sissy_storyline_207_0bd48d44:
 
     # nvlsson "I suppose I should try that"
-    nvlsson "人家想，人家是应该试试看的。"
+    nvlsson "我想，我是应该试试看的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14220
 translate zh_Hans son_sissy_storyline_207_e65842f3:
@@ -28640,7 +28640,7 @@ translate zh_Hans son_sissy_storyline_207_31a06b46:
 translate zh_Hans son_sissy_storyline_207_535b9061_1:
 
     # nvlsson "Alright"
-    nvlsson "遵命，大人，这就给你看。"
+    nvlsson "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14236
 translate zh_Hans son_sissy_storyline_207_be93c4c8:
@@ -28690,7 +28690,7 @@ translate zh_Hans son_sissy_storyline_208_9b2c0259:
     # nvl clear
     # nvlvalerie "I can't work here anymore"
     nvl clear
-    nvlvalerie "人家再也做不下去了……"
+    nvlvalerie "我再也做不下去了……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14283
 translate zh_Hans son_sissy_storyline_208_7603c8ff:
@@ -28702,7 +28702,7 @@ translate zh_Hans son_sissy_storyline_208_7603c8ff:
 translate zh_Hans son_sissy_storyline_208_90a3a7a3:
 
     # nvlvalerie "I'm tired of it"
-    nvlvalerie "人家真的好累好累了。"
+    nvlvalerie "我真的好累好累了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14287
 translate zh_Hans son_sissy_storyline_208_898f3338:
@@ -28720,49 +28720,49 @@ translate zh_Hans son_sissy_storyline_208_9a11665a:
 translate zh_Hans son_sissy_storyline_208_727b6b66:
 
     # nvlvalerie "I've just run out of strength"
-    nvlvalerie "人家只是精疲力尽了。"
+    nvlvalerie "我只是精疲力尽了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14293
 translate zh_Hans son_sissy_storyline_208_fe286df3:
 
     # nvlvalerie "I'm exhausted"
-    nvlvalerie "人家好疲惫。"
+    nvlvalerie "我好疲惫。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14295
 translate zh_Hans son_sissy_storyline_208_11f59cbb:
 
     # nvlvalerie "I don't want any of this anymore"
-    nvlvalerie "人家再也不想要这一切了。"
+    nvlvalerie "我再也不想要这一切了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14297
 translate zh_Hans son_sissy_storyline_208_08fb3266:
 
     # nvlvalerie "I don't want to suck off random people"
-    nvlvalerie "人家不想再为那些陌生人含弄了。"
+    nvlvalerie "我不想再为那些陌生人含弄了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14299
 translate zh_Hans son_sissy_storyline_208_ee7864dc:
 
     # nvlvalerie "I don't want to serve the boss"
-    nvlvalerie "人家不想再伺候老板了。"
+    nvlvalerie "我不想再伺候老板了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14301
 translate zh_Hans son_sissy_storyline_208_f21227ca:
 
     # nvlvalerie "I don't want anything"
-    nvlvalerie "人家什么都不想要了。"
+    nvlvalerie "我什么都不想要了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14303
 translate zh_Hans son_sissy_storyline_208_e9ca6ff6:
 
     # nvlvalerie "I'm tired"
-    nvlvalerie "人家好累。"
+    nvlvalerie "我好累。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14305
 translate zh_Hans son_sissy_storyline_208_6e991839:
 
     # nvlvalerie "I'm just tired"
-    nvlvalerie "人家就是好累好累。"
+    nvlvalerie "我就是好累好累。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14307
 translate zh_Hans son_sissy_storyline_208_0283dc61:
@@ -28780,7 +28780,7 @@ translate zh_Hans son_sissy_storyline_208_7c2de1ce:
 translate zh_Hans son_sissy_storyline_208_549046b1:
 
     # nvlvalerie "When I come back, everything will still be the same"
-    nvlvalerie "等人家回来，一切都还是老样子。"
+    nvlvalerie "等我回来，一切都还是老样子。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14313
 translate zh_Hans son_sissy_storyline_208_a3f0672b:
@@ -28810,19 +28810,19 @@ translate zh_Hans son_sissy_storyline_208_5be25b3e:
 translate zh_Hans son_sissy_storyline_208_f4813ebb:
 
     # nvlvalerie "I want to quit"
-    nvlvalerie "人家想辞职。"
+    nvlvalerie "我想辞职。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14323
 translate zh_Hans son_sissy_storyline_208_8c542764:
 
     # nvlvalerie "I don't want to do this anymore"
-    nvlvalerie "人家不想再这样下去了。"
+    nvlvalerie "我不想再这样下去了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14325
 translate zh_Hans son_sissy_storyline_208_151d615e:
 
     # nvlvalerie "I don't have the strength anymore"
-    nvlvalerie "人家再也没有力气了。"
+    nvlvalerie "我再也没有力气了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14327
 translate zh_Hans son_sissy_storyline_208_aa139a6b:
@@ -28840,13 +28840,13 @@ translate zh_Hans son_sissy_storyline_208_b17ef263:
 translate zh_Hans son_sissy_storyline_208_a9263e22:
 
     # nvlvalerie "I don't know"
-    nvlvalerie "人家也不知道。"
+    nvlvalerie "我也不知道。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14333
 translate zh_Hans son_sissy_storyline_208_ea1a233b:
 
     # nvlvalerie "I'm not really in the mood to see anyone right now"
-    nvlvalerie "人家现在真的没什么心情见人呢..."
+    nvlvalerie "我现在真的没什么心情见人呢..."
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14335
 translate zh_Hans son_sissy_storyline_208_1d93a315:
@@ -28876,19 +28876,19 @@ translate zh_Hans son_sissy_storyline_208_3eccfa5b:
 translate zh_Hans son_sissy_storyline_208_5079a8ad:
 
     # nvlsson "To yours?"
-    nvlsson "是去大人那里，被大人疼爱吗？"
+    nvlsson "是去爸爸那里，被爸爸疼爱吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14345
 translate zh_Hans son_sissy_storyline_208_e1c074c0:
 
     # nvlvalerie "I don't want to go anywhere"
-    nvlvalerie "人家哪里都不想去..."
+    nvlvalerie "我哪里都不想去..."
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14347
 translate zh_Hans son_sissy_storyline_208_0e704bc5:
 
     # nvlvalerie "I just want to lie down at home"
-    nvlvalerie "人家只想在家乖乖躺着..."
+    nvlvalerie "我只想在家乖乖躺着..."
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14349
 translate zh_Hans son_sissy_storyline_208_8c2f7dac:
@@ -28900,7 +28900,7 @@ translate zh_Hans son_sissy_storyline_208_8c2f7dac:
 translate zh_Hans son_sissy_storyline_208_72101052:
 
     # nvlsson "Alright, I can come"
-    nvlsson "嗯... 好吧... 人家等着你..."
+    nvlsson "嗯... 好吧... 我等着你..."
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14353
 translate zh_Hans son_sissy_storyline_208_b09463ab:
@@ -28912,7 +28912,7 @@ translate zh_Hans son_sissy_storyline_208_b09463ab:
 translate zh_Hans son_sissy_storyline_208_690e9cf4:
 
     # nvlvalerie "I'll send it now"
-    nvlvalerie "人家这就发给你..."
+    nvlvalerie "我这就发给你..."
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14357
 translate zh_Hans son_sissy_storyline_208_bd081e51:
@@ -28936,13 +28936,13 @@ translate zh_Hans son_sissy_storyline_208_ac229cc1:
 translate zh_Hans son_sissy_storyline_208_a1cb8c8c:
 
     # nvlvalerie "Yes"
-    nvlvalerie "是的，人家明白了。"
+    nvlvalerie "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14365
 translate zh_Hans son_sissy_storyline_208_a7d378c2:
 
     # nvlvalerie "Just call me before you set off"
-    nvlvalerie "你出发前，给人家打个电话好不好嘛..."
+    nvlvalerie "你出发前，给我打个电话好不好嘛..."
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14367
 translate zh_Hans son_sissy_storyline_208_ac229cc1_1:
@@ -28972,7 +28972,7 @@ translate zh_Hans son_sissy_storyline_208_15431074:
 translate zh_Hans son_sissy_storyline_208_884503ee:
 
     # nvlvalerie "For supporting me"
-    nvlvalerie "谢谢你一直支持着人家..."
+    nvlvalerie "谢谢你一直支持着我..."
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14377
 translate zh_Hans son_sissy_storyline_208_512d7ed6:
@@ -29002,19 +29002,19 @@ translate zh_Hans son_sissy_storyline_208_5fb4c72e:
 translate zh_Hans son_sissy_storyline_208_2dc6bdc7:
 
     # nvlsson "😊"
-    nvlsson ""
+    nvlsson "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14387
 translate zh_Hans son_sissy_storyline_208_674e0cb1:
 
     # nvlvalerie "Alright, I won't distract you from work anymore"
-    nvlvalerie "好吧，人家不打扰你工作了..."
+    nvlvalerie "好吧，我不打扰你工作了..."
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14389
 translate zh_Hans son_sissy_storyline_208_2eb670e7:
 
     # nvlvalerie "I'll wait for you this evening"
-    nvlvalerie "人家今晚等着你哦..."
+    nvlvalerie "我今晚等着你哦..."
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14391
 translate zh_Hans son_sissy_storyline_208_3c1b7a11:
@@ -29026,7 +29026,7 @@ translate zh_Hans son_sissy_storyline_208_3c1b7a11:
 translate zh_Hans son_sissy_storyline_208_559688be:
 
     # nvlvalerie "{a=show:show_chat_media}{image=valerie_pic_3}"
-    nvlvalerie ""
+    nvlvalerie "{a=show:show_chat_media}{image=valerie_pic_3}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14399
 translate zh_Hans son_sissy_storyline_208_7e6cdc22:
@@ -29082,13 +29082,13 @@ translate zh_Hans son_sissy_storyline_209_3e448a87:
 translate zh_Hans son_sissy_storyline_209_6a3d960f:
 
     # nvljim "I need your help"
-    nvljim "大人，人家需要你的帮助"
+    nvljim "大人，我需要你的帮助"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14446
 translate zh_Hans son_sissy_storyline_209_68165522:
 
     # nvlsson "I'm listening"
-    nvlsson "人家在听呢..."
+    nvlsson "我在听呢..."
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14448
 translate zh_Hans son_sissy_storyline_209_0cd3e0f1:
@@ -29118,7 +29118,7 @@ translate zh_Hans son_sissy_storyline_209_c91d54e9:
 translate zh_Hans son_sissy_storyline_209_fcc929e4:
 
     # nvlsson "You want me to talk to her?"
-    nvlsson "你是想让... 人家去和她谈谈吗？"
+    nvlsson "你是想让... 我去和她谈谈吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14458
 translate zh_Hans son_sissy_storyline_209_2354b444:
@@ -29142,7 +29142,7 @@ translate zh_Hans son_sissy_storyline_209_f594c07c:
 translate zh_Hans son_sissy_storyline_209_1754b6f8:
 
     # nvlsson "Alright. I'll try to talk to her"
-    nvlsson "好吧。人家会尽力去和她谈谈的。"
+    nvlsson "好吧。我会尽力去和她谈谈的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14466
 translate zh_Hans son_sissy_storyline_209_b3235bbc:
@@ -29190,7 +29190,7 @@ translate zh_Hans son_sissy_storyline_209_290fe28c:
 translate zh_Hans son_sissy_storyline_209_cae1fbec:
 
     # nvlsson "I'll do my best to talk to her and persuade her to stay"
-    nvlsson "人家会尽力去和她谈，说服她留下的。"
+    nvlsson "我会尽力去和她谈，说服她留下的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14482
 translate zh_Hans son_sissy_storyline_209_a2279548:
@@ -29228,25 +29228,25 @@ translate zh_Hans son_sissy_storyline_210_30e1715f:
 translate zh_Hans son_sissy_storyline_210_fb82aac9:
 
     # nvlvalerie "Thank you for supporting me"
-    nvlvalerie "谢谢你一直支持着人家..."
+    nvlvalerie "谢谢你一直支持着我..."
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14525
 translate zh_Hans son_sissy_storyline_210_6e4f64e3:
 
     # nvlvalerie "For talking to me, listening to me and giving me advice"
-    nvlvalerie "谢谢你和人家说话，听人家倾诉，还给人家建议..."
+    nvlvalerie "谢谢你和我说话，听我倾诉，还给我建议..."
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14527
 translate zh_Hans son_sissy_storyline_210_99a99c45:
 
     # nvlvalerie "I didn't have anyone else to discuss all this with"
-    nvlvalerie "人家都没有别人可以倾诉这些呢..."
+    nvlvalerie "我都没有别人可以倾诉这些呢..."
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14529
 translate zh_Hans son_sissy_storyline_210_2b16c870:
 
     # nvlsson "I understand"
-    nvlsson "人家明白了。"
+    nvlsson "我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14531
 translate zh_Hans son_sissy_storyline_210_173b9f27:
@@ -29264,7 +29264,7 @@ translate zh_Hans son_sissy_storyline_210_db8fb77f:
 translate zh_Hans son_sissy_storyline_210_5bbb27e7:
 
     # nvlvalerie "And I really do feel better now"
-    nvlvalerie "嗯... 人家现在真的感觉好多了..."
+    nvlvalerie "嗯... 我现在真的感觉好多了..."
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14537
 translate zh_Hans son_sissy_storyline_210_b0cf9581:
@@ -29276,7 +29276,7 @@ translate zh_Hans son_sissy_storyline_210_b0cf9581:
 translate zh_Hans son_sissy_storyline_210_2dc6bdc7:
 
     # nvlsson "😊"
-    nvlsson ""
+    nvlsson "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14541
 translate zh_Hans son_sissy_storyline_210_1cc8e495:
@@ -29294,7 +29294,7 @@ translate zh_Hans son_sissy_storyline_210_c90f43b8:
 translate zh_Hans son_sissy_storyline_210_18a3b414:
 
     # nvlvalerie "I'll most likely stay"
-    nvlvalerie "人家... 大概会留下吧..."
+    nvlvalerie "我... 大概会留下吧..."
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14547
 translate zh_Hans son_sissy_storyline_210_fa0472ef:
@@ -29312,13 +29312,13 @@ translate zh_Hans son_sissy_storyline_210_cb61047a:
 translate zh_Hans son_sissy_storyline_210_113ef37f:
 
     # nvlvalerie "Well, that's what I thought too"
-    nvlvalerie "嗯，人家也是这么想的呢。"
+    nvlvalerie "嗯，我也是这么想的呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14553
 translate zh_Hans son_sissy_storyline_210_170ae9ba:
 
     # nvlvalerie "I'd rather not leave you all alone here"
-    nvlvalerie "人家才舍不得把你一个人留在这里呢。"
+    nvlvalerie "我才舍不得把你一个人留在这里呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14555
 translate zh_Hans son_sissy_storyline_210_0cf3fefd:
@@ -29330,7 +29330,7 @@ translate zh_Hans son_sissy_storyline_210_0cf3fefd:
 translate zh_Hans son_sissy_storyline_210_c1f134bb:
 
     # nvlvalerie "But I'll probably need to take a break"
-    nvlvalerie "可是人家可能需要稍微休息一下下。"
+    nvlvalerie "可是我可能需要稍微休息一下下。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14559
 translate zh_Hans son_sissy_storyline_210_c1df7fc4:
@@ -29342,7 +29342,7 @@ translate zh_Hans son_sissy_storyline_210_c1df7fc4:
 translate zh_Hans son_sissy_storyline_210_126b366a:
 
     # nvlsson "I think that's a good idea"
-    nvlsson "嗯，人家觉得这样挺好的。"
+    nvlsson "嗯，我觉得这样挺好的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14563
 translate zh_Hans son_sissy_storyline_210_5d44867c:
@@ -29372,13 +29372,13 @@ translate zh_Hans son_sissy_storyline_210_8719e4d4:
 translate zh_Hans son_sissy_storyline_210_07f0388a:
 
     # nvlsson "I probably can't today"
-    nvlsson "人家今天恐怕不行呢。"
+    nvlsson "我今天恐怕不行呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14573
 translate zh_Hans son_sissy_storyline_210_e92be3f5:
 
     # nvlsson "I've got other plans"
-    nvlsson "人家已经有别的安排了。"
+    nvlsson "我已经有别的安排了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14575
 translate zh_Hans son_sissy_storyline_210_de8dc778:
@@ -29396,7 +29396,7 @@ translate zh_Hans son_sissy_storyline_210_14b6e638:
 translate zh_Hans son_sissy_storyline_210_c9beedec:
 
     # nvlsson "But I'm not sure yet"
-    nvlsson "可是人家现在还不确定呢。"
+    nvlsson "可是我现在还不确定呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14581
 translate zh_Hans son_sissy_storyline_210_43dc89bc:
@@ -29408,7 +29408,7 @@ translate zh_Hans son_sissy_storyline_210_43dc89bc:
 translate zh_Hans son_sissy_storyline_210_3d2e3196:
 
     # nvlvalerie "I'll just go alone then 😊"
-    nvlvalerie "那人家就自己去好啦😊"
+    nvlvalerie "那我就自己去好啦😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14585
 translate zh_Hans son_sissy_storyline_210_30013ebd:
@@ -29438,13 +29438,13 @@ translate zh_Hans son_sissy_storyline_210_1c73a0d2:
 translate zh_Hans son_sissy_storyline_210_64f21171:
 
     # nvlvalerie "I'll go wash the dishes and tidy up a bit"
-    nvlvalerie "人家去把碗洗了，再稍微收拾一下下。"
+    nvlvalerie "我去把碗洗了，再稍微收拾一下下。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14595
 translate zh_Hans son_sissy_storyline_210_fe4bbf22:
 
     # nvlvalerie "If you're free later, we can chat some more"
-    nvlvalerie "如果你待会儿有空，人家还想再多陪你聊聊呢。"
+    nvlvalerie "如果你待会儿有空，我还想再多陪你聊聊呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14597
 translate zh_Hans son_sissy_storyline_210_96125d43:
@@ -29470,7 +29470,7 @@ translate zh_Hans son_sissy_storyline_211_03a3f32d:
 translate zh_Hans son_sissy_storyline_211_4c09fad7:
 
     # nvlsson "Yes, I'm awake"
-    nvlsson "嗯，人家醒着呢。"
+    nvlsson "嗯，我醒着呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14642
 translate zh_Hans son_sissy_storyline_211_06fe210f:
@@ -29488,7 +29488,7 @@ translate zh_Hans son_sissy_storyline_211_3535c6af:
 translate zh_Hans son_sissy_storyline_211_79078266:
 
     # nvlvalerie "{a=show:show_chat_media}{image=valerie_video_10_ns}"
-    nvlvalerie ""
+    nvlvalerie "{a=show:show_chat_media}{image=valerie_video_10_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14652
 translate zh_Hans son_sissy_storyline_211_3239e4e1:
@@ -29500,7 +29500,7 @@ translate zh_Hans son_sissy_storyline_211_3239e4e1:
 translate zh_Hans son_sissy_storyline_211_76f45dc4:
 
     # nvlsson "I'd like to, but I can't"
-    nvlsson "人家好想去，可是去不了呢。"
+    nvlsson "我好想去，可是去不了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14656
 translate zh_Hans son_sissy_storyline_211_30013ebd:
@@ -29512,7 +29512,7 @@ translate zh_Hans son_sissy_storyline_211_30013ebd:
 translate zh_Hans son_sissy_storyline_211_816fe9fd:
 
     # nvlsson "I did say I wouldn't be able to make it today"
-    nvlsson "人家不是说过今天去不了的嘛。"
+    nvlsson "我不是说过今天去不了的嘛。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14660
 translate zh_Hans son_sissy_storyline_211_3bc1132b:
@@ -29536,7 +29536,7 @@ translate zh_Hans son_sissy_storyline_211_1d75ecdc:
 translate zh_Hans son_sissy_storyline_211_363871cd:
 
     # nvlsson "No, I still can't"
-    nvlsson "不，人家还是不行呢。"
+    nvlsson "不，我还是不行呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14668
 translate zh_Hans son_sissy_storyline_211_c5980515:
@@ -29554,7 +29554,7 @@ translate zh_Hans son_sissy_storyline_211_5dc035c1:
 translate zh_Hans son_sissy_storyline_211_48f4a488:
 
     # nvlvalerie "All I can do is wish you sweet dreams"
-    nvlvalerie "人家只能祝你有个甜甜的美梦了。"
+    nvlvalerie "我只能祝你有个甜甜的美梦了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14674
 translate zh_Hans son_sissy_storyline_211_6a4ff3a8:
@@ -29584,7 +29584,7 @@ translate zh_Hans son_sissy_storyline_211_1739876e:
 translate zh_Hans son_sissy_storyline_211_50cbf35a:
 
     # nvlvalerie "Bye-bye"
-    nvlvalerie "大人再见~ 人家会想你的。"
+    nvlvalerie "大人再见~ 我会想你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14684
 translate zh_Hans son_sissy_storyline_211_188578b3:
@@ -29646,7 +29646,7 @@ translate zh_Hans son_sissy_storyline_212_4c868085:
 translate zh_Hans son_sissy_storyline_212_35094391:
 
     # nvlkirely "Yes, right now"
-    nvlkirely "嗯，人家现在就想见到你！"
+    nvlkirely "嗯，我现在就想见到你！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14735
 translate zh_Hans son_sissy_storyline_212_cf0deab4:
@@ -29688,7 +29688,7 @@ translate zh_Hans son_sissy_storyline_212_acc8fef6:
 translate zh_Hans son_sissy_storyline_212_59fc54c5:
 
     # nvlsson "Okay, got it"
-    nvlsson "嗯，人家知道了啦。"
+    nvlsson "嗯，我知道了啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14749
 translate zh_Hans son_sissy_storyline_212_2df5a3ec:
@@ -29700,7 +29700,7 @@ translate zh_Hans son_sissy_storyline_212_2df5a3ec:
 translate zh_Hans son_sissy_storyline_212_775b8126:
 
     # nvlkirely "Okay, I'll be waiting"
-    nvlkirely "好的，人家会乖乖等你的。"
+    nvlkirely "好的，我会乖乖等你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14767
 translate zh_Hans son_sissy_storyline_212_53c71d7c:
@@ -29720,13 +29720,13 @@ translate zh_Hans son_sissy_storyline_213_00725d75:
 translate zh_Hans son_sissy_storyline_213_ce0153f4:
 
     # nvlkirely "I admit, I've never done anything like that before"
-    nvlkirely "人家承认，人家以前从来没有做过那样的事情呢。"
+    nvlkirely "我承认，我以前从来没有做过那样的事情呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14792
 translate zh_Hans son_sissy_storyline_213_006f7d23:
 
     # nvlkirely "I've never even used a strap-on with girls"
-    nvlkirely "人家甚至连和女孩子玩假阳具都没有过呢。"
+    nvlkirely "我甚至连和女孩子玩假阳具都没有过呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14794
 translate zh_Hans son_sissy_storyline_213_3d8edfeb:
@@ -29738,7 +29738,7 @@ translate zh_Hans son_sissy_storyline_213_3d8edfeb:
 translate zh_Hans son_sissy_storyline_213_795c6588:
 
     # nvlkirely "So, you're my first 😊"
-    nvlkirely "所以，你是人家第一次呢😊"
+    nvlkirely "所以，你是我第一次呢😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14798
 translate zh_Hans son_sissy_storyline_213_d27469fd:
@@ -29768,7 +29768,7 @@ translate zh_Hans son_sissy_storyline_213_7cc50fe1:
 translate zh_Hans son_sissy_storyline_213_6f9b5c3e:
 
     # nvlkirely "{a=show:show_chat_media}{image=mikky_pic_66}"
-    nvlkirely ""
+    nvlkirely "{a=show:show_chat_media}{image=mikky_pic_66}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14812
 translate zh_Hans son_sissy_storyline_213_884013aa:
@@ -29792,19 +29792,19 @@ translate zh_Hans son_sissy_storyline_213_75bce94a:
 translate zh_Hans son_sissy_storyline_213_892e6618:
 
     # nvlkirely "I've heard that men can climax from anal sex"
-    nvlkirely "人家听说男人也能从后面得到高潮呢"
+    nvlkirely "我听说男人也能从后面得到高潮呢"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14820
 translate zh_Hans son_sissy_storyline_213_160c6459:
 
     # nvlkirely "But I didn't think it was true"
-    nvlkirely "可是人家以前不相信呢"
+    nvlkirely "可是我以前不相信呢"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14822
 translate zh_Hans son_sissy_storyline_213_92b732b9:
 
     # nvlkirely "You proved me wrong 😊"
-    nvlkirely "你证明人家错了呢😊"
+    nvlkirely "你证明我错了呢😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14824
 translate zh_Hans son_sissy_storyline_213_c8708117:
@@ -29846,7 +29846,7 @@ translate zh_Hans son_sissy_storyline_213_63b9f10b:
 translate zh_Hans son_sissy_storyline_213_7ee3f31d:
 
     # nvlkirely "Do you want me to keep doing this to you from time to time?"
-    nvlkirely "你想让爸爸时不时地再这样疼爱你吗？"
+    nvlkirely "你想让我时不时地再这样疼爱你吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14838
 translate zh_Hans son_sissy_storyline_213_d27469fd_1:
@@ -29864,7 +29864,7 @@ translate zh_Hans son_sissy_storyline_213_80813a2d:
 translate zh_Hans son_sissy_storyline_213_1dfc8ed0:
 
     # nvlsson "I'm not sure"
-    nvlsson "人家心里没底呢……"
+    nvlsson "我心里没底呢……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14844
 translate zh_Hans son_sissy_storyline_213_e3d474ac:
@@ -29888,7 +29888,7 @@ translate zh_Hans son_sissy_storyline_213_5a11a3b6:
 translate zh_Hans son_sissy_storyline_213_d3406077:
 
     # nvlsson "Well, yes, I suppose I would"
-    nvlsson "嗯，是的，人家想……"
+    nvlsson "嗯，是的，我想……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14852
 translate zh_Hans son_sissy_storyline_213_8463c30e:
@@ -29960,7 +29960,7 @@ translate zh_Hans son_sissy_storyline_213_1735dc5b:
 translate zh_Hans son_sissy_storyline_213_ddbf060b:
 
     # nvlkirely "I'll think about it"
-    nvlkirely "人家会好好想想的。"
+    nvlkirely "我会好好想想的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14876
 translate zh_Hans son_sissy_storyline_213_69e6bc23:
@@ -29978,7 +29978,7 @@ translate zh_Hans son_sissy_storyline_213_f01d17bf:
 translate zh_Hans son_sissy_storyline_213_b3b69934:
 
     # nvlkirely "But maybe I could fuck you occasionally, if you need it"
-    nvlkirely "不过，如果你需要的话，爸爸偶尔可以疼爱你一下。"
+    nvlkirely "不过，如果你需要的话，我偶尔可以疼爱你一下。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14882
 translate zh_Hans son_sissy_storyline_213_7d0c7f69:
@@ -30080,7 +30080,7 @@ translate zh_Hans son_sissy_storyline_213_21b92f8f:
 translate zh_Hans son_sissy_storyline_213_21233d16:
 
     # nvlsson "Alright, give me a moment"
-    nvlsson "好吧，请给人家一点时间。"
+    nvlsson "好吧，请给我一点时间。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14916
 translate zh_Hans son_sissy_storyline_213_b1e87ca8:
@@ -30092,7 +30092,7 @@ translate zh_Hans son_sissy_storyline_213_b1e87ca8:
 translate zh_Hans son_sissy_storyline_213_a5e7087d:
 
     # nvlsson "{a=show:show_chat_media}{image=mikky_pic_67}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=mikky_pic_67}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14924
 translate zh_Hans son_sissy_storyline_213_450272b5:
@@ -30166,7 +30166,7 @@ translate zh_Hans son_sissy_storyline_214_34cf76f0:
 translate zh_Hans son_sissy_storyline_214_240f749d:
 
     # nvljenna "Always nice to know that everything is fine with you 😊"
-    nvljenna "知道你一切都好，人家就放心了呢😊"
+    nvljenna "知道你一切都好，我就放心了呢😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14979
 translate zh_Hans son_sissy_storyline_214_dd9fef68:
@@ -30196,7 +30196,7 @@ translate zh_Hans son_sissy_storyline_214_352b5904:
 translate zh_Hans son_sissy_storyline_214_1080df30:
 
     # nvljenna "I just wanted to suggest you join the fun 😊"
-    nvljenna "人家只是想建议你也加入这场欢愉呢😊"
+    nvljenna "我只是想建议你也加入这场欢愉呢😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:14989
 translate zh_Hans son_sissy_storyline_214_54f21278:
@@ -30346,13 +30346,13 @@ translate zh_Hans son_sissy_storyline_214_5ceb192e:
 translate zh_Hans son_sissy_storyline_214_f20e37ea:
 
     # nvljohn "Alright"
-    nvljohn "遵命，大人，这就给你看。"
+    nvljohn "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15041
 translate zh_Hans son_sissy_storyline_214_e5ebf159:
 
     # nvljohn "I'll think about it"
-    nvljohn "人家会好好想想的。"
+    nvljohn "我会好好想想的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15043
 translate zh_Hans son_sissy_storyline_214_e7af1837:
@@ -30394,13 +30394,13 @@ translate zh_Hans son_sissy_storyline_214_53c71d7c:
 translate zh_Hans son_sissy_storyline_214_after_6d67900a:
 
     # mc "{i}Help Mikky..."
-    mc "{i}救救人家吧..."
+    mc "{i}救救我吧..."
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15085
 translate zh_Hans son_sissy_storyline_214_after_6744b47c:
 
     # mc "{i}Come to think of it, I've already done so much for all of this"
-    mc "{i}仔细想想，人家已经为这一切付出了这么多"
+    mc "{i}仔细想想，我已经为这一切付出了这么多"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15087
 translate zh_Hans son_sissy_storyline_214_after_6e8e617f:
@@ -30412,25 +30412,25 @@ translate zh_Hans son_sissy_storyline_214_after_6e8e617f:
 translate zh_Hans son_sissy_storyline_214_after_f10d2601:
 
     # mc "{i}Besides, my inaction wouldn't change anything"
-    mc "{i}况且，人家什么都不做也改变不了什么"
+    mc "{i}况且，我什么都不做也改变不了什么"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15091
 translate zh_Hans son_sissy_storyline_214_after_fb15c6b0:
 
     # mc "{i}But if I take part..."
-    mc "{i}但如果人家参与进去的话..."
+    mc "{i}但如果我参与进去的话..."
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15093
 translate zh_Hans son_sissy_storyline_214_after_fdcde326:
 
     # mc "{i}I need to think about this a little"
-    mc "{i}人家需要好好想想了"
+    mc "{i}我需要好好想想了"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15095
 translate zh_Hans son_sissy_storyline_214_after_7dea8ef8:
 
     # mc "{i}I need to think..."
-    mc "{i}人家得好好想想..."
+    mc "{i}我得好好想想..."
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15114
 translate zh_Hans son_sissy_storyline_215_53d9bf4e:
@@ -30468,7 +30468,7 @@ translate zh_Hans son_sissy_storyline_215_c01d3068:
 translate zh_Hans son_sissy_storyline_215_f3995b5e:
 
     # nvlsson "Really? About what?"
-    nvlsson "真的吗？在想人家什么呢？"
+    nvlsson "真的吗？在想我什么呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15128
 translate zh_Hans son_sissy_storyline_215_7e7d9cba:
@@ -30486,7 +30486,7 @@ translate zh_Hans son_sissy_storyline_215_cad5f6c7:
 translate zh_Hans son_sissy_storyline_215_bf5240f7:
 
     # nvlsson "Further? In what way?"
-    nvlsson "堕落？人家还能怎么堕落呢？"
+    nvlsson "堕落？我还能怎么堕落呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15134
 translate zh_Hans son_sissy_storyline_215_d3bd09db:
@@ -30540,13 +30540,13 @@ translate zh_Hans son_sissy_storyline_215_de0f24cb:
 translate zh_Hans son_sissy_storyline_215_29b47ea2:
 
     # nvljenna "Yes, something that will push your limits again"
-    nvljenna "是的，一些能让人家再次感受到极限被撑开的滋味。"
+    nvljenna "是的，一些能让我再次感受到极限被撑开的滋味。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15152
 translate zh_Hans son_sissy_storyline_215_2ac81fee:
 
     # nvlsson "I'm nervous, but I trust you"
-    nvlsson "人家有点紧张，但人家相信你。"
+    nvlsson "我有点紧张，但我相信你。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15154
 translate zh_Hans son_sissy_storyline_215_a8e896c3:
@@ -30584,7 +30584,7 @@ translate zh_Hans son_sissy_storyline_216_62b2c44c:
 translate zh_Hans son_sissy_storyline_216_353b0a8a:
 
     # nvlsson "Yes, mistress, I am"
-    nvlsson "是的，主人，人家有空。"
+    nvlsson "是的，主人，我有空。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15199
 translate zh_Hans son_sissy_storyline_216_3cbd098c:
@@ -30596,7 +30596,7 @@ translate zh_Hans son_sissy_storyline_216_3cbd098c:
 translate zh_Hans son_sissy_storyline_216_94398ab8:
 
     # nvlsson "What should I prepare for?"
-    nvlsson "人家要准备什么呢？"
+    nvlsson "我要准备什么呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15203
 translate zh_Hans son_sissy_storyline_216_76241e19:
@@ -30620,19 +30620,19 @@ translate zh_Hans son_sissy_storyline_216_98c418ea:
 translate zh_Hans son_sissy_storyline_216_a647f8b2:
 
     # nvljenna "Use your toys tonight"
-    nvljenna "今晚用你的小玩具，好好把人家的小穴操开。"
+    nvljenna "今晚用你的小玩具，好好把我的小穴操开。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15211
 translate zh_Hans son_sissy_storyline_216_f401297e:
 
     # nvljenna "Stretch that little hole for me"
-    nvljenna "把人家那个小穴穴，给我好好地撑开。"
+    nvljenna "把我那个小穴穴，给我好好地撑开。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15213
 translate zh_Hans son_sissy_storyline_216_405553c2:
 
     # nvlsson "I will, mistress"
-    nvlsson "人家会的，主人！人家一定会乖乖听话的！"
+    nvlsson "我会的，主人！我一定会乖乖听话的！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15215
 translate zh_Hans son_sissy_storyline_216_a8e896c3:
@@ -30650,7 +30650,7 @@ translate zh_Hans son_sissy_storyline_216_f7d164fd:
 translate zh_Hans son_sissy_storyline_216_c96e061f:
 
     # nvlsson "I'll be waiting"
-    nvlsson "人家会乖乖等着你的。"
+    nvlsson "我会乖乖等着你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15235
 translate zh_Hans son_sissy_storyline_216_53c71d7c:
@@ -30670,7 +30670,7 @@ translate zh_Hans son_sissy_storyline_217_75720143:
 translate zh_Hans son_sissy_storyline_217_0a16fe5c:
 
     # nvlsson "Yes, boss, I’ll be free"
-    nvlsson "是的，老板，人家有空。"
+    nvlsson "是的，老板，我有空。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15260
 translate zh_Hans son_sissy_storyline_217_b4052688:
@@ -30718,7 +30718,7 @@ translate zh_Hans son_sissy_storyline_217_930e8fa4:
 translate zh_Hans son_sissy_storyline_217_b9d0cc91:
 
     # nvlsson "I’ll do whatever you ask"
-    nvlsson "人家会做你要求的一切。"
+    nvlsson "我会做你要求的一切。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15276
 translate zh_Hans son_sissy_storyline_217_06253bf4:
@@ -30748,7 +30748,7 @@ translate zh_Hans son_sissy_storyline_217_07125e92:
 translate zh_Hans son_sissy_storyline_217_cb8f047f:
 
     # nvlsson "Alright… I understand"
-    nvlsson "好……人家明白了。"
+    nvlsson "好……我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15286
 translate zh_Hans son_sissy_storyline_217_dae1bda5:
@@ -30766,13 +30766,13 @@ translate zh_Hans son_sissy_storyline_217_6af33513:
 translate zh_Hans son_sissy_storyline_217_c66b16e6:
 
     # nvlsson "I’m already trembling just thinking about it"
-    nvlsson "人家光是想想，身子就已经开始发抖了。"
+    nvlsson "我光是想想，身子就已经开始发抖了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15292
 translate zh_Hans son_sissy_storyline_217_e9887d12:
 
     # nvljim "Good, anticipation makes it sweeter"
-    nvljim "很好，这种期待的煎熬，会让人家被操弄时更加销魂。"
+    nvljim "很好，这种期待的煎熬，会让我被操弄时更加销魂。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15294
 translate zh_Hans son_sissy_storyline_217_dbcf3df9:
@@ -30784,7 +30784,7 @@ translate zh_Hans son_sissy_storyline_217_dbcf3df9:
 translate zh_Hans son_sissy_storyline_217_bfeeba0b:
 
     # nvlsson "I’ll be there, sir"
-    nvlsson "人家会的，先生。"
+    nvlsson "我会的，先生。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15298
 translate zh_Hans son_sissy_storyline_217_8c8fd4ba:
@@ -30828,7 +30828,7 @@ translate zh_Hans son_sissy_storyline_218_1ddb0ce6:
 translate zh_Hans son_sissy_storyline_218_93cd85b4:
 
     # nvlsson "Yeah… he wants to see me tonight"
-    nvlsson "嗯……他今晚想见人家呢。"
+    nvlsson "嗯……他今晚想见我呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15345
 translate zh_Hans son_sissy_storyline_218_fe91dd9a:
@@ -30846,7 +30846,7 @@ translate zh_Hans son_sissy_storyline_218_0d78be6e:
 translate zh_Hans son_sissy_storyline_218_1efa456f:
 
     # nvlsson "I don’t know if that’s a good thing or not"
-    nvlsson "人家也不知道这到底是好事还是坏事呢……"
+    nvlsson "我也不知道这到底是好事还是坏事呢……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15351
 translate zh_Hans son_sissy_storyline_218_0d0b09d6:
@@ -30858,7 +30858,7 @@ translate zh_Hans son_sissy_storyline_218_0d0b09d6:
 translate zh_Hans son_sissy_storyline_218_6cfc11a0:
 
     # nvlsson "Sometimes I’m scared of how far this can go"
-    nvlsson "人家有时候会害怕，不知道这会发展到什么地步……"
+    nvlsson "我有时候会害怕，不知道这会发展到什么地步……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15355
 translate zh_Hans son_sissy_storyline_218_ca2a1a2d:
@@ -30876,7 +30876,7 @@ translate zh_Hans son_sissy_storyline_218_be76b3eb:
 translate zh_Hans son_sissy_storyline_218_ce9927cd:
 
     # nvlsson "Training to be what, exactly?"
-    nvlsson "训练人家成为什么呢，到底？"
+    nvlsson "训练我成为什么呢，到底？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15361
 translate zh_Hans son_sissy_storyline_218_294a6c3b:
@@ -30894,7 +30894,7 @@ translate zh_Hans son_sissy_storyline_218_4729aee0:
 translate zh_Hans son_sissy_storyline_218_50b84654:
 
     # nvlsson "Do you really think I can become that?"
-    nvlsson "你真的觉得人家能变成那样吗？"
+    nvlsson "你真的觉得我能变成那样吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15367
 translate zh_Hans son_sissy_storyline_218_b860ff67:
@@ -30936,7 +30936,7 @@ translate zh_Hans son_sissy_storyline_218_822d3fc9:
 translate zh_Hans son_sissy_storyline_218_53669ee5:
 
     # nvlsson "I will… if I can still type after he’s done 😅"
-    nvlsson "人家会的……如果他结束后，人家还能动得了手指打字的话 😅"
+    nvlsson "我会的……如果他结束后，我还能动得了手指打字的话 😅"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15381
 translate zh_Hans son_sissy_storyline_218_da80e45f:
@@ -30992,7 +30992,7 @@ translate zh_Hans son_sissy_storyline_219_9b8975b2:
 translate zh_Hans son_sissy_storyline_219_cc21cbbc:
 
     # nvlsson "You always make me nervous when you say that"
-    nvlsson "你每次这么说，人家都会好紧张的……"
+    nvlsson "你每次这么说，我都会好紧张的……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15432
 translate zh_Hans son_sissy_storyline_219_f30beb4d:
@@ -31010,7 +31010,7 @@ translate zh_Hans son_sissy_storyline_219_01abbbd5:
 translate zh_Hans son_sissy_storyline_219_57d6af91:
 
     # nvlsson "Yes, I know"
-    nvlsson "嗯，人家知道啦。"
+    nvlsson "嗯，我知道啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15438
 translate zh_Hans son_sissy_storyline_219_802939fc:
@@ -31028,7 +31028,7 @@ translate zh_Hans son_sissy_storyline_219_f57fc184:
 translate zh_Hans son_sissy_storyline_219_8976723d:
 
     # nvlsson "I hope so"
-    nvlsson "人家也希望是这样呢。"
+    nvlsson "我也希望是这样呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15444
 translate zh_Hans son_sissy_storyline_219_73f45d58:
@@ -31046,7 +31046,7 @@ translate zh_Hans son_sissy_storyline_219_2202ba35:
 translate zh_Hans son_sissy_storyline_219_f1d7c50f:
 
     # nvlsson "Yes… I do"
-    nvlsson "是的……人家相信你。"
+    nvlsson "是的……我相信你。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15450
 translate zh_Hans son_sissy_storyline_219_0f9fcc25:
@@ -31058,7 +31058,7 @@ translate zh_Hans son_sissy_storyline_219_0f9fcc25:
 translate zh_Hans son_sissy_storyline_219_535b9061:
 
     # nvlsson "Alright"
-    nvlsson "遵命，大人，这就给你看。"
+    nvlsson "好的，这就给你看。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15454
 translate zh_Hans son_sissy_storyline_219_2b9db905:
@@ -31082,7 +31082,7 @@ translate zh_Hans son_sissy_storyline_219_7e4dbe4c:
 translate zh_Hans son_sissy_storyline_219_66adc93b:
 
     # nvlsson "I won’t"
-    nvlsson "人家不会的。"
+    nvlsson "我不会的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15462
 translate zh_Hans son_sissy_storyline_219_b06ac2b9:
@@ -31100,7 +31100,7 @@ translate zh_Hans son_sissy_storyline_219_955b37ee:
 translate zh_Hans son_sissy_storyline_219_b3361044:
 
     # nvlsson "I’ll be obedient, I promise"
-    nvlsson "人家会乖乖听话的，人家保证。"
+    nvlsson "我会乖乖听话的，我保证。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15468
 translate zh_Hans son_sissy_storyline_219_06253bf4:
@@ -31138,7 +31138,7 @@ translate zh_Hans son_sissy_storyline_220_840f947b:
 translate zh_Hans son_sissy_storyline_220_31e0b2be:
 
     # nvlsson "Yes, I slept really well"
-    nvlsson "是的，人家睡得特别香甜呢。"
+    nvlsson "是的，我睡得特别香甜呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15513
 translate zh_Hans son_sissy_storyline_220_72da3caa:
@@ -31174,25 +31174,25 @@ translate zh_Hans son_sissy_storyline_220_386e9c9e:
 translate zh_Hans son_sissy_storyline_220_53221f06:
 
     # nvljim "{a=show:show_chat_media}{image=mikky_video_21_ns}"
-    nvljim ""
+    nvljim "{a=show:show_chat_media}{image=mikky_video_21_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15529
 translate zh_Hans son_sissy_storyline_220_3872982e:
 
     # nvljim "You looked so eager with my cock in your mouth"
-    nvljim "你看人家含着你的宝贝，那副急切的模样，真是让人心痒难耐。"
+    nvljim "你看我含着你的宝贝，那副急切的模样，真是让人心痒难耐。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15531
 translate zh_Hans son_sissy_storyline_220_925c2eb0:
 
     # nvlsson "😳"
-    nvlsson ""
+    nvlsson "😳|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15533
 translate zh_Hans son_sissy_storyline_220_ab8051fb:
 
     # nvlsson "You really recorded that…"
-    nvlsson "你……你真的把人家录下来了……"
+    nvlsson "你……你真的把我录下来了……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15535
 translate zh_Hans son_sissy_storyline_220_454ba6a7:
@@ -31216,7 +31216,7 @@ translate zh_Hans son_sissy_storyline_220_6de04005:
 translate zh_Hans son_sissy_storyline_220_99831c51:
 
     # nvljim "{a=show:show_chat_media}{image=mikky_video_22_ns}"
-    nvljim ""
+    nvljim "{a=show:show_chat_media}{image=mikky_video_22_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15547
 translate zh_Hans son_sissy_storyline_220_e88e4cfe:
@@ -31234,7 +31234,7 @@ translate zh_Hans son_sissy_storyline_220_2af6c1a2:
 translate zh_Hans son_sissy_storyline_220_43a95b0b:
 
     # nvlsson "I… I didn’t know I was that loud"
-    nvlsson "人……人家不知道自己叫得那么大声……"
+    nvlsson "人……我不知道自己叫得那么大声……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15553
 translate zh_Hans son_sissy_storyline_220_9517a789:
@@ -31252,7 +31252,7 @@ translate zh_Hans son_sissy_storyline_220_5e39525a:
 translate zh_Hans son_sissy_storyline_220_ad7ebbfa:
 
     # nvlsson "It’s strange watching myself like that"
-    nvlsson "看着那样的自己，人家觉得好奇怪……"
+    nvlsson "看着那样的自己，我觉得好奇怪……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15559
 translate zh_Hans son_sissy_storyline_220_16b21daf:
@@ -31306,7 +31306,7 @@ translate zh_Hans son_sissy_storyline_220_f9b76742:
 translate zh_Hans son_sissy_storyline_220_10f7ad7b:
 
     # nvlsson "I’ll be ready"
-    nvlsson "人家会准备好的。"
+    nvlsson "我会准备好的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15591
 translate zh_Hans son_sissy_storyline_220_53c71d7c:
@@ -31332,7 +31332,7 @@ translate zh_Hans son_sissy_storyline_221_a29dc833:
 translate zh_Hans son_sissy_storyline_221_b84d5add:
 
     # nvlsson "Yes, mistress. I’ll be ready"
-    nvlsson "是的，主人。人家会准备好的。"
+    nvlsson "是的，主人。我会准备好的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15618
 translate zh_Hans son_sissy_storyline_221_5c7ebbab:
@@ -31350,7 +31350,7 @@ translate zh_Hans son_sissy_storyline_221_21e2b3ef:
 translate zh_Hans son_sissy_storyline_221_2b16c870:
 
     # nvlsson "I understand"
-    nvlsson "人家明白了。"
+    nvlsson "我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15624
 translate zh_Hans son_sissy_storyline_221_af0344be:
@@ -31386,7 +31386,7 @@ translate zh_Hans son_sissy_storyline_221_7ab1d342:
 translate zh_Hans son_sissy_storyline_221_1a60a6a5:
 
     # nvlsson "Yes, mistress… understood"
-    nvlsson "是的，主人……人家明白了。"
+    nvlsson "是的，主人……我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15636
 translate zh_Hans son_sissy_storyline_221_f6697756:
@@ -31404,7 +31404,7 @@ translate zh_Hans son_sissy_storyline_221_e6bafd84:
 translate zh_Hans son_sissy_storyline_221_25f3b378:
 
     # nvlsson "I’ll prepare everything right away"
-    nvlsson "人家会立刻准备好一切的。"
+    nvlsson "我会立刻准备好一切的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15642
 translate zh_Hans son_sissy_storyline_221_33afe24b:
@@ -31428,7 +31428,7 @@ translate zh_Hans son_sissy_storyline_221_c8a10eec:
 translate zh_Hans son_sissy_storyline_221_3e864b8e:
 
     # nvlsson "I know, mistress. I’ll obey"
-    nvlsson "人家知道的，主人。人家会顺从的。"
+    nvlsson "我知道的，主人。我会顺从的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15650
 translate zh_Hans son_sissy_storyline_221_57b84a80:
@@ -31446,7 +31446,7 @@ translate zh_Hans son_sissy_storyline_221_4ee3de67:
 translate zh_Hans son_sissy_storyline_221_1957ce6c:
 
     # nvlsson "Yes, mistress, I’ll be there"
-    nvlsson "是的，主人，人家会在那里的。"
+    nvlsson "是的，主人，我会在那里的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15656
 translate zh_Hans son_sissy_storyline_221_fb08b30b:
@@ -31464,7 +31464,7 @@ translate zh_Hans son_sissy_storyline_221_01f1305a:
 translate zh_Hans son_sissy_storyline_221_52622492:
 
     # nvlsson "I can’t wait…"
-    nvlsson "人家等不及了……"
+    nvlsson "我等不及了……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15662
 translate zh_Hans son_sissy_storyline_221_73f6c2a0:
@@ -31496,7 +31496,7 @@ translate zh_Hans son_sissy_storyline_222_419dbb68:
 translate zh_Hans son_sissy_storyline_222_1ee86188:
 
     # nvlsson "Hehe, it was actually really good"
-    nvlsson "呵呵，其实人家表现得可好了呢。"
+    nvlsson "呵呵，其实我表现得可好了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15705
 translate zh_Hans son_sissy_storyline_222_3bf81d5c:
@@ -31508,7 +31508,7 @@ translate zh_Hans son_sissy_storyline_222_3bf81d5c:
 translate zh_Hans son_sissy_storyline_222_2cbe4a61:
 
     # nvlsson "Why would I? He couldn’t stop praising me"
-    nvlsson "人家为什么要受创伤呢？他都夸得停不下来了。"
+    nvlsson "我为什么要受创伤呢？他都夸得停不下来了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15709
 translate zh_Hans son_sissy_storyline_222_7f6d562e:
@@ -31520,25 +31520,25 @@ translate zh_Hans son_sissy_storyline_222_7f6d562e:
 translate zh_Hans son_sissy_storyline_222_6d243040:
 
     # nvlsson "Well, maybe I am…"
-    nvlsson "嗯，也许人家是吧……"
+    nvlsson "嗯，也许我是吧……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15713
 translate zh_Hans son_sissy_storyline_222_ee9cf8a3:
 
     # nvlsson "He said I was even better than Valerie 😉"
-    nvlsson "他说人家比瓦莱丽还要棒呢 😉"
+    nvlsson "他说我比瓦莱丽还要棒呢 😉"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15715
 translate zh_Hans son_sissy_storyline_222_d2519995:
 
     # nvlvalerie "Haha, liar! He didn’t say that!"
-    nvlvalerie "哈哈，人家才不信呢！他才没那么说！"
+    nvlvalerie "哈哈，我才不信呢！他才没那么说！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15717
 translate zh_Hans son_sissy_storyline_222_a2ad6fe6:
 
     # nvlsson "He might as well have, the way he looked at me"
-    nvlsson "他看人家的眼神，分明就是那个意思嘛。"
+    nvlsson "他看我的眼神，分明就是那个意思嘛。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15719
 translate zh_Hans son_sissy_storyline_222_22e0c383:
@@ -31550,7 +31550,7 @@ translate zh_Hans son_sissy_storyline_222_22e0c383:
 translate zh_Hans son_sissy_storyline_222_609e3238:
 
     # nvlsson "I’m just saying… I think I’m learning fast"
-    nvlsson "人家只是想说……人家觉得自己学得可快了呢。"
+    nvlsson "我只是想说……我觉得自己学得可快了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15723
 translate zh_Hans son_sissy_storyline_222_58cf878d:
@@ -31574,7 +31574,7 @@ translate zh_Hans son_sissy_storyline_222_d7843e57:
 translate zh_Hans son_sissy_storyline_222_838ff7b4:
 
     # nvlsson "You’re like my naughty mentor"
-    nvlsson "你就像人家的小坏导师一样呢。"
+    nvlsson "你就像我的小坏导师一样呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15731
 translate zh_Hans son_sissy_storyline_222_da940436:
@@ -31586,7 +31586,7 @@ translate zh_Hans son_sissy_storyline_222_da940436:
 translate zh_Hans son_sissy_storyline_222_e02fa635:
 
     # nvlvalerie "So what’s next? Another shift with the boss?"
-    nvlvalerie "那接下来呢？大人还要人家去侍奉吗？"
+    nvlvalerie "那接下来呢？大人还要我去侍奉吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15735
 translate zh_Hans son_sissy_storyline_222_733a1274:
@@ -31598,7 +31598,7 @@ translate zh_Hans son_sissy_storyline_222_733a1274:
 translate zh_Hans son_sissy_storyline_222_777559f8:
 
     # nvlvalerie "Oh? Do tell"
-    nvlvalerie "哦？快告诉人家嘛。"
+    nvlvalerie "哦？快告诉我嘛。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15739
 translate zh_Hans son_sissy_storyline_222_8baa9704:
@@ -31622,7 +31622,7 @@ translate zh_Hans son_sissy_storyline_222_cb28fd15:
 translate zh_Hans son_sissy_storyline_222_1c1e1d4f:
 
     # nvlvalerie "A test with Jenna usually means sore legs and a ruined hole"
-    nvlvalerie "Jenna的考验，通常都意味着人家会腿软，小穴也会被玩坏呢。"
+    nvlvalerie "Jenna的考验，通常都意味着我会腿软，小穴也会被玩坏呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15747
 translate zh_Hans son_sissy_storyline_222_93883a46:
@@ -31640,7 +31640,7 @@ translate zh_Hans son_sissy_storyline_222_b339c6c4:
 translate zh_Hans son_sissy_storyline_222_ac8ce67b:
 
     # nvlsson "Thanks 😉 I’ll tell you everything tomorrow"
-    nvlsson "谢谢你😉 人家明天就把一切都告诉你。"
+    nvlsson "谢谢你😉 我明天就把一切都告诉你。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15767
 translate zh_Hans son_sissy_storyline_222_53c71d7c:
@@ -31660,25 +31660,25 @@ translate zh_Hans son_sissy_storyline_223_53d9bf4e:
 translate zh_Hans son_sissy_storyline_223_7d444628:
 
     # nvljenna "I just had to text you right away"
-    nvljenna "人家实在忍不住，第一时间就想给你发消息呢。"
+    nvljenna "我实在忍不住，第一时间就想给你发消息呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15792
 translate zh_Hans son_sissy_storyline_223_a38f20a0:
 
     # nvlsson "Good morning, mistress 😊"
-    nvlsson "大人早安😊"
+    nvlsson "主人早安😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15794
 translate zh_Hans son_sissy_storyline_223_4f3e9667:
 
     # nvljenna "You were incredible last night"
-    nvljenna "你昨晚真是太让人家着迷了。"
+    nvljenna "你昨晚真是太让我着迷了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15796
 translate zh_Hans son_sissy_storyline_223_f7818fea:
 
     # nvljenna "My friend couldn’t stop talking about you"
-    nvljenna "人家的朋友对你赞不绝口呢。"
+    nvljenna "我的朋友对你赞不绝口呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15798
 translate zh_Hans son_sissy_storyline_223_0783d77b:
@@ -31696,7 +31696,7 @@ translate zh_Hans son_sissy_storyline_223_033a7f23:
 translate zh_Hans son_sissy_storyline_223_7ce3e193:
 
     # nvljenna "And trust me, he’s had plenty"
-    nvljenna "而且你相信人家，他可体验过不少呢。"
+    nvljenna "而且你相信我，他可体验过不少呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15804
 translate zh_Hans son_sissy_storyline_223_3359bb19:
@@ -31714,7 +31714,7 @@ translate zh_Hans son_sissy_storyline_223_2b31cf63:
 translate zh_Hans son_sissy_storyline_223_a042297e:
 
     # nvlsson "Mistress… that makes me so happy to hear"
-    nvlsson "大人……人家听了真是太开心了呢。"
+    nvlsson "主人……我听了真是太开心了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15810
 translate zh_Hans son_sissy_storyline_223_842eb13a:
@@ -31732,7 +31732,7 @@ translate zh_Hans son_sissy_storyline_223_0dd25f71:
 translate zh_Hans son_sissy_storyline_223_980beabb:
 
     # nvlsson "I tried my best for you"
-    nvlsson "人家为了你，已经尽力了呢。"
+    nvlsson "我为了你，已经尽力了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15816
 translate zh_Hans son_sissy_storyline_223_a17a63cd:
@@ -31750,13 +31750,13 @@ translate zh_Hans son_sissy_storyline_223_64ef6ca0:
 translate zh_Hans son_sissy_storyline_223_80a2575c:
 
     # nvljenna "{a=show:show_chat_media}{image=mikky_video_23_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=mikky_video_23_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15826
 translate zh_Hans son_sissy_storyline_223_abefc7bd:
 
     # nvlsson "Mistress… I look like such a slut there"
-    nvlsson "大人……人家在那里看起来好淫荡呢。"
+    nvlsson "主人……我在那里看起来好淫荡呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15828
 translate zh_Hans son_sissy_storyline_223_fbe27a0e:
@@ -31774,7 +31774,7 @@ translate zh_Hans son_sissy_storyline_223_129ae80a:
 translate zh_Hans son_sissy_storyline_223_20f79387:
 
     # nvlsson "I’ll keep proving it to you"
-    nvlsson "人家会一直向你证明的。"
+    nvlsson "我会一直向你证明的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15834
 translate zh_Hans son_sissy_storyline_223_0b5efe5f:
@@ -31792,7 +31792,7 @@ translate zh_Hans son_sissy_storyline_223_03949683:
 translate zh_Hans son_sissy_storyline_223_d8d4997f:
 
     # nvlsson "I can’t wait, mistress ❤️"
-    nvlsson "大人，人家等不及了呢❤️"
+    nvlsson "主人，我等不及了呢❤️"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15854
 translate zh_Hans son_sissy_storyline_223_53c71d7c:
@@ -31824,13 +31824,13 @@ translate zh_Hans son_sissy_storyline_224_753a71df:
 translate zh_Hans son_sissy_storyline_224_01be76f3:
 
     # nvlsson "Jenna just texted me"
-    nvlsson "Jenna刚刚给人家发消息了呢。"
+    nvlsson "Jenna刚刚给我发消息了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15883
 translate zh_Hans son_sissy_storyline_224_2359186f:
 
     # nvlsson "She said her friend adored me last night"
-    nvlsson "她说她的朋友昨晚对人家赞不绝口呢。"
+    nvlsson "她说她的朋友昨晚对我赞不绝口呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15885
 translate zh_Hans son_sissy_storyline_224_29372d93:
@@ -31842,7 +31842,7 @@ translate zh_Hans son_sissy_storyline_224_29372d93:
 translate zh_Hans son_sissy_storyline_224_8bdc2621:
 
     # nvlsson "Yes! She said I gave him the best blowjob of his life!"
-    nvlsson "是的！她说人家给了他这辈子最棒的口活！"
+    nvlsson "是的！她说我给了他这辈子最棒的口活！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15889
 translate zh_Hans son_sissy_storyline_224_56b92f41:
@@ -31860,7 +31860,7 @@ translate zh_Hans son_sissy_storyline_224_4400c595:
 translate zh_Hans son_sissy_storyline_224_deb6c5c9:
 
     # nvlsson "No, I’m serious! He even said I sucked better than any real woman"
-    nvlsson "人家是认真的嘛！他、他甚至说人家比任何真正的女人都更会伺候呢……"
+    nvlsson "我是认真的嘛！他、他甚至说我比任何真正的女人都更会伺候呢……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15895
 translate zh_Hans son_sissy_storyline_224_080bc74d:
@@ -31878,7 +31878,7 @@ translate zh_Hans son_sissy_storyline_224_629cdd5d:
 translate zh_Hans son_sissy_storyline_224_dd947ae0:
 
     # nvlsson "Yes 😳 I couldn’t believe it myself"
-    nvlsson "嗯……人家自己也、也觉得不可思议呢……😳"
+    nvlsson "嗯……我自己也、也觉得不可思议呢……😳"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15901
 translate zh_Hans son_sissy_storyline_224_566e7f46:
@@ -31890,7 +31890,7 @@ translate zh_Hans son_sissy_storyline_224_566e7f46:
 translate zh_Hans son_sissy_storyline_224_2492c420:
 
     # nvlsson "I did… and I loved every second of it"
-    nvlsson "人家是使出了浑身解数呢……而且……人家好喜欢那种被大人夸奖的感觉，每一秒都酥麻得要命……"
+    nvlsson "我是使出了浑身解数呢……而且……我好喜欢那种被爸爸夸奖的感觉，每一秒都酥麻得要命……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15905
 translate zh_Hans son_sissy_storyline_224_0d76c17b:
@@ -31902,13 +31902,13 @@ translate zh_Hans son_sissy_storyline_224_0d76c17b:
 translate zh_Hans son_sissy_storyline_224_1e1314c7:
 
     # nvlsson "Maybe I am already…"
-    nvlsson "也许……人家早就已经沉沦了呢……"
+    nvlsson "也许……我早就已经沉沦了呢……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15909
 translate zh_Hans son_sissy_storyline_224_f58a1fec:
 
     # nvlsson "Being praised like that makes me feel alive"
-    nvlsson "被大人那样夸奖，人家感觉整个人都活过来了，身子都湿热了呢……"
+    nvlsson "被爸爸那样夸奖，我感觉整个人都活过来了，身子都湿热了呢……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15911
 translate zh_Hans son_sissy_storyline_224_dd3d609c:
@@ -31926,7 +31926,7 @@ translate zh_Hans son_sissy_storyline_224_7aee0c73:
 translate zh_Hans son_sissy_storyline_224_208e8b6e:
 
     # nvlsson "Thanks 😉 I’ll wear it proudly"
-    nvlsson "谢谢大人😉 人家会把这个称号，当做最珍贵的奖赏，好好珍藏的……"
+    nvlsson "谢谢爸爸😉 我会把这个称号，当做最珍贵的奖赏，好好珍藏的……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15917
 translate zh_Hans son_sissy_storyline_224_e5cc8718:
@@ -31938,7 +31938,7 @@ translate zh_Hans son_sissy_storyline_224_e5cc8718:
 translate zh_Hans son_sissy_storyline_224_afd3a451:
 
     # nvlsson "Hehe, I’d like to see you try"
-    nvlsson "呵呵，人家好想看大人怎么把这个称号抢回去呢……"
+    nvlsson "呵呵，我好想看爸爸怎么把这个称号抢回去呢……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:15935
 translate zh_Hans son_sissy_storyline_224_53c71d7c:
@@ -32224,7 +32224,7 @@ translate zh_Hans son_sissy_storyline_226_4751ecdd:
 translate zh_Hans son_sissy_storyline_226_3babe7da:
 
     # nvlsson "I don’t know if that’s right"
-    nvlsson "人家不知道这样对不对……"
+    nvlsson "我不知道这样对不对……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16093
 translate zh_Hans son_sissy_storyline_226_8fc7656c:
@@ -32248,7 +32248,7 @@ translate zh_Hans son_sissy_storyline_226_621bdf73:
 translate zh_Hans son_sissy_storyline_226_81e285bc:
 
     # nvlsson "Actually, I’ve caught myself thinking about him sometimes"
-    nvlsson "其实，人家有时候会情不自禁地想起他……"
+    nvlsson "其实，我有时候会情不自禁地想起他……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16101
 translate zh_Hans son_sissy_storyline_226_78d0ee82:
@@ -32260,7 +32260,7 @@ translate zh_Hans son_sissy_storyline_226_78d0ee82:
 translate zh_Hans son_sissy_storyline_226_ee432294:
 
     # nvlsson "But I never said it out loud"
-    nvlsson "可是人家从来没敢说出口。"
+    nvlsson "可是我从来没敢说出口。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16105
 translate zh_Hans son_sissy_storyline_226_2d24cfd2:
@@ -32290,19 +32290,19 @@ translate zh_Hans son_sissy_storyline_226_80554eaf:
 translate zh_Hans son_sissy_storyline_226_a00351c1:
 
     # nvlsson "I’ll do it"
-    nvlsson "人家会照做的。"
+    nvlsson "我会照做的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16115
 translate zh_Hans son_sissy_storyline_226_10ff5a0e:
 
     # nvlsson "I’ll get closer to him"
-    nvlsson "人家会更亲近他。"
+    nvlsson "我会更亲近他。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16117
 translate zh_Hans son_sissy_storyline_226_dc9500eb:
 
     # nvlsson "Much closer"
-    nvlsson "会亲近到……让人家融化在他的怀里。"
+    nvlsson "会亲近到……让我融化在他的怀里。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16119
 translate zh_Hans son_sissy_storyline_226_a8e896c3:
@@ -32328,7 +32328,7 @@ translate zh_Hans son_sissy_storyline_227_ac5118b0:
     # nvl clear
     # nvlsson "Hi..."
     nvl clear
-    nvlsson "嗯……大人……"
+    nvlsson "嗯……爸爸……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16160
 translate zh_Hans son_sissy_storyline_227_86e0ea20:
@@ -32340,7 +32340,7 @@ translate zh_Hans son_sissy_storyline_227_86e0ea20:
 translate zh_Hans son_sissy_storyline_227_fa38b815:
 
     # nvljohn "Not really"
-    nvljohn "倒也没有啦。"
+    nvljohn "倒也没有。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16164
 translate zh_Hans son_sissy_storyline_227_d383b8ea:
@@ -32358,25 +32358,25 @@ translate zh_Hans son_sissy_storyline_227_9d9da029:
 translate zh_Hans son_sissy_storyline_227_481823e9:
 
     # nvlsson "I just… I needed to talk to you"
-    nvlsson "人家只是……想和你说说话。"
+    nvlsson "我只是……想和你说说话。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16170
 translate zh_Hans son_sissy_storyline_227_d7ba2f10:
 
     # nvlsson "Lately I’ve been feeling strange"
-    nvlsson "最近人家感觉怪怪的。"
+    nvlsson "最近我感觉怪怪的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16172
 translate zh_Hans son_sissy_storyline_227_ec08de34:
 
     # nvlsson "This whole transition is turning my world upside down"
-    nvlsson "这整个转变把人家的世界都颠倒了过来。"
+    nvlsson "这整个转变把我的世界都颠倒了过来。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16174
 translate zh_Hans son_sissy_storyline_227_a71699b4:
 
     # nvlsson "And sometimes I feel like I don’t recognise myself anymore"
-    nvlsson "有时候人家觉得自己都快不认识自己了。"
+    nvlsson "有时候我觉得自己都快不认识自己了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16176
 translate zh_Hans son_sissy_storyline_227_58c16745:
@@ -32400,19 +32400,19 @@ translate zh_Hans son_sissy_storyline_227_def10800:
 translate zh_Hans son_sissy_storyline_227_12f7d730:
 
     # nvlsson "Sometimes I feel like I am"
-    nvlsson "有时候人家就是觉得自己孤零零的。"
+    nvlsson "有时候我就是觉得自己孤零零的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16184
 translate zh_Hans son_sissy_storyline_227_dda9b653:
 
     # nvlsson "Even when I’m surrounded by people, I feel this emptiness"
-    nvlsson "即使身边都是人，人家心里也空落落的。"
+    nvlsson "即使身边都是人，我心里也空落落的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16186
 translate zh_Hans son_sissy_storyline_227_0f059bdf:
 
     # nvlsson "And I realised how much I miss you"
-    nvlsson "然后人家才发现，自己有多么想念你。"
+    nvlsson "然后我才发现，自己有多么想念你。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16188
 translate zh_Hans son_sissy_storyline_227_228ea527:
@@ -32424,37 +32424,37 @@ translate zh_Hans son_sissy_storyline_227_228ea527:
 translate zh_Hans son_sissy_storyline_227_571c0a8a:
 
     # nvlsson "Yes… more than I thought I would"
-    nvlsson "是的……比人家想象中还要想念。"
+    nvlsson "是的……比我想象中还要想念。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16192
 translate zh_Hans son_sissy_storyline_227_01b15516:
 
     # nvlsson "I keep remembering the times you were there for me"
-    nvlsson "人家总会想起你陪伴在人家身边的时光。"
+    nvlsson "我总会想起你陪伴在我身边的时光。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16194
 translate zh_Hans son_sissy_storyline_227_9fba7be2:
 
     # nvlsson "Even when I didn’t deserve your patience"
-    nvlsson "即使人家不值得你如此耐心。"
+    nvlsson "即使我不值得你如此耐心。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16196
 translate zh_Hans son_sissy_storyline_227_493d9173:
 
     # nvlsson "Even when I wasn’t sure of who I was"
-    nvlsson "即使人家那时还不确定自己是谁。"
+    nvlsson "即使我那时还不确定自己是谁。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16198
 translate zh_Hans son_sissy_storyline_227_7e111c77:
 
     # nvlsson "You never turned your back on me"
-    nvlsson "你也从未对人家弃之不顾。"
+    nvlsson "你也从未对我弃之不顾。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16200
 translate zh_Hans son_sissy_storyline_227_45b0ed6d:
 
     # nvlsson "And now… I want us to be close again"
-    nvlsson "而现在……人家好想和你重新亲密起来。"
+    nvlsson "而现在……我好想和你重新亲密起来。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16202
 translate zh_Hans son_sissy_storyline_227_60bb5741:
@@ -32478,31 +32478,31 @@ translate zh_Hans son_sissy_storyline_227_03fc618d:
 translate zh_Hans son_sissy_storyline_227_a7e31276:
 
     # nvlsson "I do"
-    nvlsson "人家好想呢。"
+    nvlsson "我好想呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16210
 translate zh_Hans son_sissy_storyline_227_6ded1d39:
 
     # nvlsson "I really do"
-    nvlsson "人家真的好想呢。"
+    nvlsson "我真的好想呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16212
 translate zh_Hans son_sissy_storyline_227_0defc3ad:
 
     # nvlsson "I don’t want to face all of this without you"
-    nvlsson "人家不想没有你来面对这一切。"
+    nvlsson "我不想没有你来面对这一切。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16214
 translate zh_Hans son_sissy_storyline_227_ffc4c879:
 
     # nvlsson "I need someone who knows me beyond appearances"
-    nvlsson "人家需要一个能看透人家表象的人。"
+    nvlsson "我需要一个能看透我表象的人。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16216
 translate zh_Hans son_sissy_storyline_227_60ed88ee:
 
     # nvlsson "Someone who sees me for who I really am inside"
-    nvlsson "一个能看到人家内心真实模样的人。"
+    nvlsson "一个能看到我内心真实模样的人。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16218
 translate zh_Hans son_sissy_storyline_227_9016dabe:
@@ -32532,25 +32532,25 @@ translate zh_Hans son_sissy_storyline_227_07938dd6:
 translate zh_Hans son_sissy_storyline_227_8b4f5b27:
 
     # nvlsson "Thank you ❤️"
-    nvlsson "谢谢大人 ❤️"
+    nvlsson "谢谢爸爸 ❤️"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16228
 translate zh_Hans son_sissy_storyline_227_db02afec:
 
     # nvlsson "That means more to me than I can put into words"
-    nvlsson "这对人家来说，意义重大到无法用言语表达。"
+    nvlsson "这对我来说，意义重大到无法用言语表达。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16230
 translate zh_Hans son_sissy_storyline_227_cd33a7ef:
 
     # nvlsson "You make me feel safe… and loved"
-    nvlsson "你让人家感到好安全……好被疼爱。"
+    nvlsson "你让我感到好安全……好被疼爱。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16232
 translate zh_Hans son_sissy_storyline_227_ce570358:
 
     # nvljohn "That’s all I want for you"
-    nvljohn "这正是爸爸对你所期望的。"
+    nvljohn "这正是我希望你能拥有的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16234
 translate zh_Hans son_sissy_storyline_227_7e0ba8b6:
@@ -32568,13 +32568,13 @@ translate zh_Hans son_sissy_storyline_227_84cd3193:
 translate zh_Hans son_sissy_storyline_227_9524d318:
 
     # nvlsson "Yes… together"
-    nvlsson "嗯……人家想和你永远在一起。"
+    nvlsson "嗯……我想和你永远在一起。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16240
 translate zh_Hans son_sissy_storyline_227_8724ac6c:
 
     # nvlsson "I feel lighter just knowing I have you"
-    nvlsson "只要知道有你在，人家心里就轻松好多，好想融化在你的温度里。"
+    nvlsson "只要知道有你在，我心里就轻松好多，好想融化在你的温度里。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16242
 translate zh_Hans son_sissy_storyline_227_da58ecde:
@@ -32684,19 +32684,19 @@ translate zh_Hans son_sissy_storyline_228_98c418ea:
 translate zh_Hans son_sissy_storyline_228_a87b669d:
 
     # nvlsson "I spoke to him this morning"
-    nvlsson "人家今早已经和大人说过了。"
+    nvlsson "我今早已经和他说过了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16323
 translate zh_Hans son_sissy_storyline_228_d4440922:
 
     # nvlsson "I told him I wanted us to get closer again"
-    nvlsson "人家告诉大人，好想和你再亲近一些，好想被你疼爱。"
+    nvlsson "我告诉他，好想和你再亲近一些，好想被你疼爱。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16325
 translate zh_Hans son_sissy_storyline_228_0f6c0ba8:
 
     # nvlsson "That I missed having him near me"
-    nvlsson "人家好想念大人在身边的感觉，身子都酥麻了。"
+    nvlsson "我好想念他在身边的感觉，身子都酥麻了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16327
 translate zh_Hans son_sissy_storyline_228_33afe24b:
@@ -32732,19 +32732,19 @@ translate zh_Hans son_sissy_storyline_228_dbb97081:
 translate zh_Hans son_sissy_storyline_228_bfaef70a:
 
     # nvlsson "Because I really do miss him"
-    nvlsson "因为人家真的好想念大人。"
+    nvlsson "因为我真的好想念他。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16339
 translate zh_Hans son_sissy_storyline_228_ed3ee7c9:
 
     # nvlsson "And I love him"
-    nvlsson "而且人家好爱大人。"
+    nvlsson "而且我好爱他。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16341
 translate zh_Hans son_sissy_storyline_228_eecefefe:
 
     # nvlsson "I’m just not sure anymore if I love him only as a father figure..."
-    nvlsson "人家现在都分不清了，对大人的爱，究竟只是对父亲的依恋……"
+    nvlsson "我现在都分不清了，对爸爸的爱，究竟只是对父亲的依恋……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16343
 translate zh_Hans son_sissy_storyline_228_c07c3b18:
@@ -32792,7 +32792,7 @@ translate zh_Hans son_sissy_storyline_228_b76f97be:
 translate zh_Hans son_sissy_storyline_228_be47c4c2:
 
     # nvlsson "I’ll do everything you ask of me"
-    nvlsson "人家会乖乖的，你要人家做什么，人家都会听话照办的。"
+    nvlsson "我会乖乖的，你要我做什么，我都会听话照办的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16359
 translate zh_Hans son_sissy_storyline_228_41565fc7:
@@ -32810,7 +32810,7 @@ translate zh_Hans son_sissy_storyline_228_db20ce4a:
 translate zh_Hans son_sissy_storyline_228_4a37bafb:
 
     # nvlsson "Thank you, mistress... I’ll make you proud"
-    nvlsson "谢谢主人……人家一定会让你骄傲的。"
+    nvlsson "谢谢主人……我一定会让你骄傲的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16377
 translate zh_Hans son_sissy_storyline_228_53c71d7c:
@@ -32824,7 +32824,7 @@ translate zh_Hans son_sissy_storyline_229_868dd30d:
     # nvl clear
     # nvlsson "Hey..."
     nvl clear
-    nvlsson "大人……"
+    nvlsson "爸爸……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16400
 translate zh_Hans son_sissy_storyline_229_6044432f:
@@ -32836,7 +32836,7 @@ translate zh_Hans son_sissy_storyline_229_6044432f:
 translate zh_Hans son_sissy_storyline_229_fa38b815:
 
     # nvljohn "Not really"
-    nvljohn "倒也没有啦。"
+    nvljohn "倒也没有。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16404
 translate zh_Hans son_sissy_storyline_229_4396cbf3:
@@ -32848,13 +32848,13 @@ translate zh_Hans son_sissy_storyline_229_4396cbf3:
 translate zh_Hans son_sissy_storyline_229_c2ea0eb7:
 
     # nvlsson "I was just at home, bored"
-    nvlsson "人家在家好无聊哦。"
+    nvlsson "我在家好无聊哦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16408
 translate zh_Hans son_sissy_storyline_229_5da9b1b4:
 
     # nvlsson "And I thought about you"
-    nvlsson "然后人家就想到你了……"
+    nvlsson "然后我就想到你了……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16410
 translate zh_Hans son_sissy_storyline_229_5b2a1c79:
@@ -32872,7 +32872,7 @@ translate zh_Hans son_sissy_storyline_229_7b122c6d:
 translate zh_Hans son_sissy_storyline_229_1d1c7202:
 
     # nvlsson "I even took a photo just now"
-    nvlsson "人家刚才还拍了照片呢。"
+    nvlsson "我刚才还拍了照片呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16416
 translate zh_Hans son_sissy_storyline_229_e61bb4d0:
@@ -32884,13 +32884,13 @@ translate zh_Hans son_sissy_storyline_229_e61bb4d0:
 translate zh_Hans son_sissy_storyline_229_1ae4887a:
 
     # nvlsson "{a=show:show_chat_media}{image=mikky_pic_69}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=mikky_pic_69}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16424
 translate zh_Hans son_sissy_storyline_229_7b591d4e:
 
     # nvlsson "Do I look pretty?"
-    nvlsson "人家好看吗？"
+    nvlsson "我好看吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16426
 translate zh_Hans son_sissy_storyline_229_6019e8fa:
@@ -32920,7 +32920,7 @@ translate zh_Hans son_sissy_storyline_229_08f87e7c:
 translate zh_Hans son_sissy_storyline_229_054725d9:
 
     # nvlsson "I was worried I’d look weird"
-    nvlsson "人家还担心会显得奇怪呢。"
+    nvlsson "我还担心会显得奇怪呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16436
 translate zh_Hans son_sissy_storyline_229_deb8db64:
@@ -32938,13 +32938,13 @@ translate zh_Hans son_sissy_storyline_229_7816fcf8:
 translate zh_Hans son_sissy_storyline_229_d943d2a2:
 
     # nvlsson "You don’t know how happy that makes me"
-    nvlsson "你不知道，人家听到这些话有多开心。"
+    nvlsson "你不知道，我听到这些话有多开心。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16442
 translate zh_Hans son_sissy_storyline_229_c73e93dc:
 
     # nvlsson "Coming from you, it means a lot ❤️"
-    nvlsson "能得到你的肯定，对人家来说意义重大呢 ❤️。"
+    nvlsson "能得到你的肯定，对我来说意义重大呢 ❤️。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16444
 translate zh_Hans son_sissy_storyline_229_954a97f3:
@@ -32956,13 +32956,13 @@ translate zh_Hans son_sissy_storyline_229_954a97f3:
 translate zh_Hans son_sissy_storyline_229_d56ca344:
 
     # nvlsson "I’ll try to send you more photos from now on"
-    nvlsson "那人家以后会努力多发些照片给你的。"
+    nvlsson "那我以后会努力多发些照片给你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16448
 translate zh_Hans son_sissy_storyline_229_6ca12af0:
 
     # nvlsson "So you don’t forget about me 😉"
-    nvlsson "这样你就不会把人家忘掉啦 😉。"
+    nvlsson "这样你就不会把我忘掉啦 😉。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16450
 translate zh_Hans son_sissy_storyline_229_51b12756:
@@ -32980,7 +32980,7 @@ translate zh_Hans son_sissy_storyline_229_284a9698:
 translate zh_Hans son_sissy_storyline_229_7b4c6ee3:
 
     # nvlsson "😊 That’s all I needed to hear"
-    nvlsson "😊 人家就爱听你说这些。"
+    nvlsson "😊 我就爱听你说这些。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16470
 translate zh_Hans son_sissy_storyline_229_53c71d7c:
@@ -33000,7 +33000,7 @@ translate zh_Hans son_sissy_storyline_230_f2964d4f:
 translate zh_Hans son_sissy_storyline_230_ea13fa46:
 
     # nvlsson "Yeah, just lying in bed"
-    nvlsson "嗯，人家正躺在床上呢。"
+    nvlsson "嗯，我正躺在床上呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16495
 translate zh_Hans son_sissy_storyline_230_2a04d7fe:
@@ -33066,7 +33066,7 @@ translate zh_Hans son_sissy_storyline_230_33b09fa9:
 translate zh_Hans son_sissy_storyline_230_ab3c66cf:
 
     # nvlsson "Just in a good mood, I guess"
-    nvlsson "人家只是心情好，大概吧。"
+    nvlsson "我只是心情好，大概吧。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16517
 translate zh_Hans son_sissy_storyline_230_bc190998:
@@ -33090,7 +33090,7 @@ translate zh_Hans son_sissy_storyline_230_1eb48aee:
 translate zh_Hans son_sissy_storyline_230_12543d12:
 
     # nvlsson "I’m just fine, that’s all"
-    nvlsson "人家只是好好的，仅此而已。"
+    nvlsson "我只是好好的，仅此而已。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16525
 translate zh_Hans son_sissy_storyline_230_4328c577:
@@ -33114,7 +33114,7 @@ translate zh_Hans son_sissy_storyline_230_68f4d954:
 translate zh_Hans son_sissy_storyline_230_7329b4fc:
 
     # nvlsson "Haha, you won’t get anything out of me"
-    nvlsson "哈哈，你休想从人家嘴里套出什么来。"
+    nvlsson "哈哈，你休想从我嘴里套出什么来。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16533
 translate zh_Hans son_sissy_storyline_230_03604dd2:
@@ -33126,7 +33126,7 @@ translate zh_Hans son_sissy_storyline_230_03604dd2:
 translate zh_Hans son_sissy_storyline_230_fb4bb13a:
 
     # nvlsson "I didn’t say that!"
-    nvlsson "人家才没那么说呢！"
+    nvlsson "我才没那么说呢！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16537
 translate zh_Hans son_sissy_storyline_230_0d3cd896:
@@ -33176,7 +33176,7 @@ translate zh_Hans son_sissy_storyline_231_868dd30d:
     # nvl clear
     # nvlsson "Hey..."
     nvl clear
-    nvlsson "大人……"
+    nvlsson "爸爸……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16586
 translate zh_Hans son_sissy_storyline_231_86e0ea20:
@@ -33188,7 +33188,7 @@ translate zh_Hans son_sissy_storyline_231_86e0ea20:
 translate zh_Hans son_sissy_storyline_231_5d14cff8:
 
     # nvljohn "Not really, why?"
-    nvljohn "不太方便呢，怎么啦？"
+    nvljohn "不忙，怎么了？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16590
 translate zh_Hans son_sissy_storyline_231_466972f1:
@@ -33212,7 +33212,7 @@ translate zh_Hans son_sissy_storyline_231_5b2a1c79:
 translate zh_Hans son_sissy_storyline_231_085e101d:
 
     # nvljohn "What about it?"
-    nvljohn "口活怎么了？"
+    nvljohn "怎么了？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16598
 translate zh_Hans son_sissy_storyline_231_37651c1c:
@@ -33230,7 +33230,7 @@ translate zh_Hans son_sissy_storyline_231_8ebc393e:
 translate zh_Hans son_sissy_storyline_231_19a47eb0:
 
     # nvljohn "😊 I’m glad to hear that"
-    nvljohn "😊 听到爸爸这么说，人家心里也甜甜的呢。"
+    nvljohn "😊 听你这么说，我很高兴。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16604
 translate zh_Hans son_sissy_storyline_231_34fcf0da:
@@ -33260,19 +33260,19 @@ translate zh_Hans son_sissy_storyline_231_8038623f:
 translate zh_Hans son_sissy_storyline_231_8fc3c9af:
 
     # nvljohn "Lunch with you?"
-    nvljohn "和爸爸一起吃午饭吗？"
+    nvljohn "和你一起吃午饭吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16614
 translate zh_Hans son_sissy_storyline_231_4cf80f44:
 
     # nvljohn "Of course I’d like that"
-    nvljohn "人家当然愿意啦，好想和爸爸一起呢！"
+    nvljohn "当然愿意。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16616
 translate zh_Hans son_sissy_storyline_231_960eff57:
 
     # nvljohn "I’ll be there"
-    nvljohn "人家一定会到的！"
+    nvljohn "我会去的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16618
 translate zh_Hans son_sissy_storyline_231_08f87e7c:
@@ -33284,7 +33284,7 @@ translate zh_Hans son_sissy_storyline_231_08f87e7c:
 translate zh_Hans son_sissy_storyline_231_e5995d41:
 
     # nvlsson "You’re not just saying that?"
-    nvlsson "你不是在哄人家开心吧？"
+    nvlsson "你不是在哄我开心吧？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16622
 translate zh_Hans son_sissy_storyline_231_a95131f4:
@@ -33308,7 +33308,7 @@ translate zh_Hans son_sissy_storyline_231_871be8fb:
 translate zh_Hans son_sissy_storyline_231_d943d2a2:
 
     # nvlsson "You don’t know how happy that makes me"
-    nvlsson "你不知道，人家听到这些话有多开心。"
+    nvlsson "你不知道，我听到这些话有多开心。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16630
 translate zh_Hans son_sissy_storyline_231_696bc173:
@@ -33346,25 +33346,25 @@ translate zh_Hans son_sissy_storyline_232_868dd30d:
     # nvl clear
     # nvlsson "Hey..."
     nvl clear
-    nvlsson "大人……"
+    nvlsson "爸爸……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16675
 translate zh_Hans son_sissy_storyline_232_359bc454:
 
     # nvlsson "Sorry for not writing sooner"
-    nvlsson "对不起，人家没能早点给你写信。"
+    nvlsson "对不起，我没能早点给你写信。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16677
 translate zh_Hans son_sissy_storyline_232_7d3c58b2:
 
     # nvlsson "After I got back to work, everything went crazy"
-    nvlsson "人家一回到工作岗位，所有事情都乱套了。"
+    nvlsson "我一回到工作岗位，所有事情都乱套了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16679
 translate zh_Hans son_sissy_storyline_232_5ce5bba4:
 
     # nvlsson "I didn’t even have time to touch my phone"
-    nvlsson "人家连碰手机的时间都没有呢。"
+    nvlsson "我连碰手机的时间都没有呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16681
 translate zh_Hans son_sissy_storyline_232_0e38b6da:
@@ -33388,7 +33388,7 @@ translate zh_Hans son_sissy_storyline_232_71a60e3d:
 translate zh_Hans son_sissy_storyline_232_11bdcf8c:
 
     # nvlsson "Finally home"
-    nvlsson "人家终于到家了。"
+    nvlsson "我终于到家了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16689
 translate zh_Hans son_sissy_storyline_232_5d8ae8f5:
@@ -33400,7 +33400,7 @@ translate zh_Hans son_sissy_storyline_232_5d8ae8f5:
 translate zh_Hans son_sissy_storyline_232_dc7bec65:
 
     # nvlsson "I was thinking about today"
-    nvlsson "人家刚才一直在想今天的事情呢。"
+    nvlsson "我刚才一直在想今天的事情呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16693
 translate zh_Hans son_sissy_storyline_232_72f49e7d:
@@ -33430,7 +33430,7 @@ translate zh_Hans son_sissy_storyline_232_ed4677b1:
 translate zh_Hans son_sissy_storyline_232_a1c9338b:
 
     # nvlsson "I felt... safe"
-    nvlsson "人家觉得……好安心，好有依靠。"
+    nvlsson "我觉得……好安心，好有依靠。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16703
 translate zh_Hans son_sissy_storyline_232_fff9fd8c:
@@ -33454,43 +33454,43 @@ translate zh_Hans son_sissy_storyline_232_43141f5d:
 translate zh_Hans son_sissy_storyline_232_8b4f5b27:
 
     # nvlsson "Thank you ❤️"
-    nvlsson "谢谢大人 ❤️"
+    nvlsson "谢谢爸爸 ❤️"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16711
 translate zh_Hans son_sissy_storyline_232_529ab023:
 
     # nvlsson "You don’t know how much it means to me"
-    nvlsson "你不知道，这对人家来说有多么重要……"
+    nvlsson "你不知道，这对我来说有多么重要……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16713
 translate zh_Hans son_sissy_storyline_232_b1d4145d:
 
     # nvlsson "Here, let me show you something"
-    nvlsson "呐，人家给你看个东西。"
+    nvlsson "呐，我给你看个东西。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16717
 translate zh_Hans son_sissy_storyline_232_9691daf1:
 
     # nvlsson "{a=show:show_chat_media}{image=mikky_pic_70}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=mikky_pic_70}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16721
 translate zh_Hans son_sissy_storyline_232_c4f2d840:
 
     # nvlsson "Just me... in bed"
-    nvlsson "就是人家……在床上啦。"
+    nvlsson "就是我……在床上啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16723
 translate zh_Hans son_sissy_storyline_232_ac79d221:
 
     # nvlsson "Do I look nice?"
-    nvlsson "人家这样好看吗？"
+    nvlsson "我这样好看吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16725
 translate zh_Hans son_sissy_storyline_232_dc645139:
 
     # nvljohn "Yes"
-    nvljohn "是的，人家明白了。"
+    nvljohn "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16727
 translate zh_Hans son_sissy_storyline_232_dc96e9e3:
@@ -33508,7 +33508,7 @@ translate zh_Hans son_sissy_storyline_232_dd25de44:
 translate zh_Hans son_sissy_storyline_232_75fd6f38:
 
     # nvlsson "😊 You always know how to make me smile"
-    nvlsson "😊 你总是知道怎么让人家开心起来。"
+    nvlsson "😊 你总是知道怎么让我开心起来。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16733
 translate zh_Hans son_sissy_storyline_232_c4ffb8ff:
@@ -33534,7 +33534,7 @@ translate zh_Hans son_sissy_storyline_233_24a00750:
     # nvl clear
     # nvlsson "Hey... can I show you something?"
     nvl clear
-    nvlsson "嘿……人家可以给你看个东西吗？"
+    nvlsson "嘿……我可以给你看个东西吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16774
 translate zh_Hans son_sissy_storyline_233_46c59772:
@@ -33546,7 +33546,7 @@ translate zh_Hans son_sissy_storyline_233_46c59772:
 translate zh_Hans son_sissy_storyline_233_94454a28:
 
     # nvlsson "Promise you won’t laugh?"
-    nvlsson "你保证不会笑话人家好不好？"
+    nvlsson "你保证不会笑话我好不好？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16778
 translate zh_Hans son_sissy_storyline_233_b6974773:
@@ -33558,13 +33558,13 @@ translate zh_Hans son_sissy_storyline_233_b6974773:
 translate zh_Hans son_sissy_storyline_233_b2f89a13:
 
     # nvlsson "Alright... here it goes"
-    nvlsson "好吧……那人家就给你看啦。"
+    nvlsson "好吧……那我就给你看啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16784
 translate zh_Hans son_sissy_storyline_233_48e8bc12:
 
     # nvlsson "{a=show:show_chat_media}{image=mikky_pic_71}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=mikky_pic_71}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16788
 translate zh_Hans son_sissy_storyline_233_2e0b57e1:
@@ -33606,13 +33606,13 @@ translate zh_Hans son_sissy_storyline_233_3f9cf1ba:
 translate zh_Hans son_sissy_storyline_233_3838e6ed:
 
     # nvlsson "Really? You’re not just saying that?"
-    nvlsson "真的吗？你不是在敷衍人家吧？"
+    nvlsson "真的吗？你不是在敷衍我吧？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16802
 translate zh_Hans son_sissy_storyline_233_bbf983ef:
 
     # nvljohn "I mean it"
-    nvljohn "人家是认真的。"
+    nvljohn "我是认真的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16804
 translate zh_Hans son_sissy_storyline_233_e6ffb9ad:
@@ -33624,19 +33624,19 @@ translate zh_Hans son_sissy_storyline_233_e6ffb9ad:
 translate zh_Hans son_sissy_storyline_233_2dc6bdc7:
 
     # nvlsson "😊"
-    nvlsson ""
+    nvlsson "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16808
 translate zh_Hans son_sissy_storyline_233_cf568b57:
 
     # nvlsson "That makes me so happy"
-    nvlsson "人家听了真的好开心哦！"
+    nvlsson "我听了真的好开心哦！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16810
 translate zh_Hans son_sissy_storyline_233_6fe50026:
 
     # nvlsson "I wanted to feel pretty in your eyes"
-    nvlsson "人家就是想在你眼里，变得漂漂亮亮的嘛。"
+    nvlsson "我就是想在你眼里，变得漂漂亮亮的嘛。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16812
 translate zh_Hans son_sissy_storyline_233_b0c9a0b9:
@@ -33654,13 +33654,13 @@ translate zh_Hans son_sissy_storyline_233_c64aa31e:
 translate zh_Hans son_sissy_storyline_233_ff047c6b:
 
     # nvlsson "You have no idea how much it means to hear that"
-    nvlsson "你根本不知道，听到你这么说，对人家来说有多么重要……"
+    nvlsson "你根本不知道，听到你这么说，对我来说有多么重要……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16818
 translate zh_Hans son_sissy_storyline_233_2d1a88c4:
 
     # nvlsson "I’ll sleep smiling tonight ❤️"
-    nvlsson "人家今晚一定会带着甜甜的笑容入睡呢 ❤️"
+    nvlsson "我今晚一定会带着甜甜的笑容入睡呢 ❤️"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16834
 translate zh_Hans son_sissy_storyline_233_53c71d7c:
@@ -33680,13 +33680,13 @@ translate zh_Hans son_sissy_storyline_234_a2a92b08:
 translate zh_Hans son_sissy_storyline_234_d6fd9d40:
 
     # nvljenna "Tell me... how are things going with him?"
-    nvljenna "快告诉人家嘛……你和大人进展如何了？"
+    nvljenna "快告诉我嘛……你和大人进展如何了？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16859
 translate zh_Hans son_sissy_storyline_234_1f665927:
 
     # nvlsson "With my father?"
-    nvlsson "是说……和人家爸爸吗？"
+    nvlsson "是说……和我爸爸吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16861
 translate zh_Hans son_sissy_storyline_234_a705d5bc:
@@ -33704,13 +33704,13 @@ translate zh_Hans son_sissy_storyline_234_9e5a244b:
 translate zh_Hans son_sissy_storyline_234_4674fb70:
 
     # nvlsson "And every time, I feel closer to him"
-    nvlsson "每一次，人家都觉得离他更近了一点点。"
+    nvlsson "每一次，我都觉得离他更近了一点点。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16867
 translate zh_Hans son_sissy_storyline_234_2be13a0f:
 
     # nvlsson "Like he really sees me, you know?"
-    nvlsson "就好像，他真的能看见人家心里的样子，你懂吗？"
+    nvlsson "就好像，他真的能看见我心里的样子，你懂吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16869
 translate zh_Hans son_sissy_storyline_234_c51df460:
@@ -33722,7 +33722,7 @@ translate zh_Hans son_sissy_storyline_234_c51df460:
 translate zh_Hans son_sissy_storyline_234_26c7300a:
 
     # nvlsson "When he looks at me, I feel safe"
-    nvlsson "当他看着人家的时候，人家就觉得好安心……"
+    nvlsson "当他看着我的时候，我就觉得好安心……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16873
 translate zh_Hans son_sissy_storyline_234_4e42b1e4:
@@ -33734,25 +33734,25 @@ translate zh_Hans son_sissy_storyline_234_4e42b1e4:
 translate zh_Hans son_sissy_storyline_234_f77630d4:
 
     # nvlsson "I never thought I’d feel this again"
-    nvlsson "人家从没想过，还能再感受到这种感觉呢。"
+    nvlsson "我从没想过，还能再感受到这种感觉呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16877
 translate zh_Hans son_sissy_storyline_234_961a2c82:
 
     # nvlsson "Sometimes I catch myself smiling just thinking about him"
-    nvlsson "有时候，人家只是想着他，都会忍不住偷偷地笑起来。"
+    nvlsson "有时候，我只是想着他，都会忍不住偷偷地笑起来。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16879
 translate zh_Hans son_sissy_storyline_234_1d4cb122:
 
     # nvlsson "It’s almost scary how much space he’s taking in my heart"
-    nvlsson "他呀，在人家心里占据了好多好多的位置，都快把人家吓到了呢。"
+    nvlsson "他呀，在我心里占据了好多好多的位置，都快把我吓到了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16881
 translate zh_Hans son_sissy_storyline_234_765b0858:
 
     # nvljenna "Hehe, that’s exactly what I wanted to hear"
-    nvljenna "呵呵，这正是人家想听到的呢。"
+    nvljenna "呵呵，这正是我想听到的呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16883
 translate zh_Hans son_sissy_storyline_234_81265b00:
@@ -33764,13 +33764,13 @@ translate zh_Hans son_sissy_storyline_234_81265b00:
 translate zh_Hans son_sissy_storyline_234_3680e8fa:
 
     # nvlsson "Maybe I am..."
-    nvlsson "也许……人家就是呢……"
+    nvlsson "也许……我就是呢……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16887
 translate zh_Hans son_sissy_storyline_234_46164c97:
 
     # nvlsson "I don’t even know if it’s family love anymore"
-    nvlsson "人家都不知道，这到底还是不是单纯的亲情了……"
+    nvlsson "我都不知道，这到底还是不是单纯的亲情了……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16889
 translate zh_Hans son_sissy_storyline_234_86d5e324:
@@ -33782,7 +33782,7 @@ translate zh_Hans son_sissy_storyline_234_86d5e324:
 translate zh_Hans son_sissy_storyline_234_8e70580a:
 
     # nvlsson "All I know is... I need him"
-    nvlsson "人家只知道……人家好需要他……"
+    nvlsson "我只知道……我好需要他……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16893
 translate zh_Hans son_sissy_storyline_234_33afe24b:
@@ -33794,19 +33794,19 @@ translate zh_Hans son_sissy_storyline_234_33afe24b:
 translate zh_Hans son_sissy_storyline_234_8c0dfd53:
 
     # nvljenna "I’m proud of you"
-    nvljenna "人家真为你感到骄傲呢。"
+    nvljenna "我真为你感到骄傲呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16897
 translate zh_Hans son_sissy_storyline_234_031f74b7:
 
     # nvljenna "You’ve gone beyond my expectations"
-    nvljenna "你做得比人家预想的还要好呢。"
+    nvljenna "你做得比我预想的还要好呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16899
 translate zh_Hans son_sissy_storyline_234_e88d4b39:
 
     # nvljenna "Because of that, I’ll give you a little break"
-    nvljenna "所以呀，人家决定给你放个小假。"
+    nvljenna "所以呀，我决定给你放个小假。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16901
 translate zh_Hans son_sissy_storyline_234_d0214faf:
@@ -33836,13 +33836,13 @@ translate zh_Hans son_sissy_storyline_234_d88d2329:
 translate zh_Hans son_sissy_storyline_234_dd414285:
 
     # nvlsson "I promise I’ll make him feel how much I need him"
-    nvlsson "人家保证，一定会让他感受到人家有多么需要他的！"
+    nvlsson "我保证，一定会让他感受到我有多么需要他的！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16911
 translate zh_Hans son_sissy_storyline_234_f3f5cfa5:
 
     # nvljenna "That’s my girl"
-    nvljenna "这才像人家的小宝贝嘛。"
+    nvljenna "这才像我的小宝贝嘛。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16913
 translate zh_Hans son_sissy_storyline_234_112ee453:
@@ -33854,7 +33854,7 @@ translate zh_Hans son_sissy_storyline_234_112ee453:
 translate zh_Hans son_sissy_storyline_234_f83248a3:
 
     # nvlsson "Neither will I"
-    nvlsson "人家也一样呢。"
+    nvlsson "我也一样呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16931
 translate zh_Hans son_sissy_storyline_234_53c71d7c:
@@ -33874,7 +33874,7 @@ translate zh_Hans son_sissy_storyline_235_f8d17e36:
 translate zh_Hans son_sissy_storyline_235_23d9656b:
 
     # nvlvalerie "You won’t believe who had me this morning"
-    nvlvalerie "你猜猜看，今天早上是谁把人家吃干抹净了呀？"
+    nvlvalerie "你猜猜看，今天早上是谁把我吃干抹净了呀？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16956
 translate zh_Hans son_sissy_storyline_235_e0b4a97e:
@@ -33898,13 +33898,13 @@ translate zh_Hans son_sissy_storyline_235_6c065961:
 translate zh_Hans son_sissy_storyline_235_9db58aa4:
 
     # nvlvalerie "He pulled me into the office before opening hours"
-    nvlvalerie "他呀，在开门之前就把人家拉进办公室了呢。"
+    nvlvalerie "他呀，在开门之前就把我拉进办公室了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16966
 translate zh_Hans son_sissy_storyline_235_2c03d4c4:
 
     # nvlvalerie "{a=show:show_chat_media}{image=valerie_video_19_ns}"
-    nvlvalerie ""
+    nvlvalerie "{a=show:show_chat_media}{image=valerie_video_19_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16970
 translate zh_Hans son_sissy_storyline_235_61123e52:
@@ -33934,7 +33934,7 @@ translate zh_Hans son_sissy_storyline_235_0f72e82c:
 translate zh_Hans son_sissy_storyline_235_857f7792:
 
     # nvlvalerie "And I have to admit... so did I"
-    nvlvalerie "人家也得承认……人家也一样呢。"
+    nvlvalerie "我也得承认……我也一样呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16980
 translate zh_Hans son_sissy_storyline_235_0c15dda7:
@@ -33946,7 +33946,7 @@ translate zh_Hans son_sissy_storyline_235_0c15dda7:
 translate zh_Hans son_sissy_storyline_235_4e002a0f:
 
     # nvlsson "I’m focused on something else at the moment"
-    nvlsson "人家现在呀，心思都在别的事情上呢。"
+    nvlsson "我现在呀，心思都在别的事情上呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16984
 translate zh_Hans son_sissy_storyline_235_667466f9:
@@ -33976,7 +33976,7 @@ translate zh_Hans son_sissy_storyline_235_dc028002:
 translate zh_Hans son_sissy_storyline_235_2b53d057:
 
     # nvlsson "My mind’s been busy with someone special"
-    nvlsson "人家呀，心里一直都装着一个特别的人呢。"
+    nvlsson "我呀，心里一直都装着一个特别的人呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:16994
 translate zh_Hans son_sissy_storyline_235_40b05b2c:
@@ -33994,19 +33994,19 @@ translate zh_Hans son_sissy_storyline_235_b08a22d8:
 translate zh_Hans son_sissy_storyline_235_f761919d:
 
     # nvlvalerie "You’re glowing lately, I knew it wasn’t random"
-    nvlvalerie "你最近容光焕发呢，人家就知道肯定不是偶然的。"
+    nvlvalerie "你最近容光焕发呢，我就知道肯定不是偶然的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17000
 translate zh_Hans son_sissy_storyline_235_f00c809b:
 
     # nvlsson "Haha stop teasing"
-    nvlsson "哎呀，爸爸别再逗人家了嘛~"
+    nvlsson "哎呀，爸爸别再逗我了嘛~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17002
 translate zh_Hans son_sissy_storyline_235_afd270b1:
 
     # nvlsson "It’s true though, I feel different"
-    nvlsson "不过……人家真的感觉自己变得不一样了呢。"
+    nvlsson "不过……我真的感觉自己变得不一样了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17004
 translate zh_Hans son_sissy_storyline_235_fe565a43:
@@ -34042,7 +34042,7 @@ translate zh_Hans son_sissy_storyline_235_ff7d521c:
 translate zh_Hans son_sissy_storyline_235_5b6b4eb0:
 
     # nvlsson "You’re a lifesaver"
-    nvlsson "你真是人家的救星！"
+    nvlsson "你真是我的救星！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17016
 translate zh_Hans son_sissy_storyline_235_ba3fa7fc:
@@ -34074,7 +34074,7 @@ translate zh_Hans son_sissy_storyline_236_6f24fc8d:
 translate zh_Hans son_sissy_storyline_236_9c4c4ca1:
 
     # nvlsson "But seeing your message made it better"
-    nvlsson "不过，看到你的消息，人家就觉得好多了。"
+    nvlsson "不过，看到你的消息，我就觉得好多了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17060
 translate zh_Hans son_sissy_storyline_236_9805cfc4:
@@ -34098,13 +34098,13 @@ translate zh_Hans son_sissy_storyline_236_990f4c8d:
 translate zh_Hans son_sissy_storyline_236_28fc9db8:
 
     # nvlsson "I feel the same"
-    nvlsson "人家也是一样的感觉呢。"
+    nvlsson "我也是一样的感觉呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17068
 translate zh_Hans son_sissy_storyline_236_e85ea734:
 
     # nvlsson "It’s been so long since I felt that close to you"
-    nvlsson "好久没有和你这么亲近了，人家好喜欢。"
+    nvlsson "好久没有和你这么亲近了，我好喜欢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17070
 translate zh_Hans son_sissy_storyline_236_6e99c151:
@@ -34128,7 +34128,7 @@ translate zh_Hans son_sissy_storyline_236_83a3dcfa:
 translate zh_Hans son_sissy_storyline_236_15a6dd47:
 
     # nvljohn "Why not?"
-    nvljohn "为什么不能呢？"
+    nvljohn "为什么不呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17078
 translate zh_Hans son_sissy_storyline_236_854a54aa:
@@ -34152,7 +34152,7 @@ translate zh_Hans son_sissy_storyline_236_6519abab:
 translate zh_Hans son_sissy_storyline_236_cbaa01ce:
 
     # nvljohn "Cinema? That sounds nice"
-    nvljohn "电影？听起来真不错呢。"
+    nvljohn "电影？听起来不错。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17086
 translate zh_Hans son_sissy_storyline_236_c505e24c:
@@ -34188,7 +34188,7 @@ translate zh_Hans son_sissy_storyline_236_320771d2:
 translate zh_Hans son_sissy_storyline_236_033f943d:
 
     # nvlsson "Seriously? You’ll come get me?"
-    nvlsson "真的吗？你会来接人家吗？"
+    nvlsson "真的吗？你会来接我吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17098
 translate zh_Hans son_sissy_storyline_236_83a3dcfa_1:
@@ -34200,13 +34200,13 @@ translate zh_Hans son_sissy_storyline_236_83a3dcfa_1:
 translate zh_Hans son_sissy_storyline_236_c283945c:
 
     # nvljohn "What kind of man would I be otherwise?"
-    nvljohn "不然我算什么男人呢？"
+    nvljohn "不然我算什么男人？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17102
 translate zh_Hans son_sissy_storyline_236_ffc3bc40:
 
     # nvlsson "😊 You always know how to make me feel cared for"
-    nvlsson "😊 你总是知道怎么让人家感受到你的疼爱。"
+    nvlsson "😊 你总是知道怎么让我感受到你的疼爱。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17104
 translate zh_Hans son_sissy_storyline_236_cc727b79:
@@ -34224,7 +34224,7 @@ translate zh_Hans son_sissy_storyline_236_d27469fd:
 translate zh_Hans son_sissy_storyline_236_8b4f5b27:
 
     # nvlsson "Thank you ❤️"
-    nvlsson "谢谢大人 ❤️"
+    nvlsson "谢谢爸爸 ❤️"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17124
 translate zh_Hans son_sissy_storyline_236_53c71d7c:
@@ -34238,7 +34238,7 @@ translate zh_Hans son_sissy_storyline_237_7044bf07:
     # nvl clear
     # nvlsson "I’m finally out of work! 🎉"
     nvl clear
-    nvlsson "人家终于下班啦！🎉"
+    nvlsson "我终于下班啦！🎉"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17147
 translate zh_Hans son_sissy_storyline_237_f45f1b94:
@@ -34256,7 +34256,7 @@ translate zh_Hans son_sissy_storyline_237_4954f9db:
 translate zh_Hans son_sissy_storyline_237_5b8b534d:
 
     # nvljohn "Still in the car"
-    nvljohn "人家还在车里呢。"
+    nvljohn "我还在车里呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17153
 translate zh_Hans son_sissy_storyline_237_3fc95c2c:
@@ -34298,13 +34298,13 @@ translate zh_Hans son_sissy_storyline_237_cac94075:
 translate zh_Hans son_sissy_storyline_237_79761bb9:
 
     # nvlsson "Alright… I’ll wait here then"
-    nvlsson "好吧……那人家就在这里等你。"
+    nvlsson "好吧……那我就在这里等你。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17167
 translate zh_Hans son_sissy_storyline_237_fc4147c3:
 
     # nvlsson "I’m too excited to go back inside"
-    nvlsson "人家已经兴奋得不想回去了呢，好想融化在你的温度里。"
+    nvlsson "我已经兴奋得不想回去了呢，好想融化在你的温度里。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17169
 translate zh_Hans son_sissy_storyline_237_9d6cbe61:
@@ -34322,7 +34322,7 @@ translate zh_Hans son_sissy_storyline_237_9334780b:
 translate zh_Hans son_sissy_storyline_237_fa5cd76b:
 
     # nvlsson "I don’t even remember the last time I went to the movies"
-    nvlsson "人家都记不清上次看电影是什么时候了。"
+    nvlsson "我都记不清上次看电影是什么时候了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17175
 translate zh_Hans son_sissy_storyline_237_e7aab4b2:
@@ -34352,7 +34352,7 @@ translate zh_Hans son_sissy_storyline_237_1be41991:
 translate zh_Hans son_sissy_storyline_237_cc42ad2e:
 
     # nvljohn "I’m trying! Blame the traffic, not me 😂"
-    nvljohn "我正在努力呢！要怪就怪交通，别怪我啦 😂"
+    nvljohn "我正在努力！要怪就怪交通，别怪我 😂"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17185
 translate zh_Hans son_sissy_storyline_237_d4029764:
@@ -34364,19 +34364,19 @@ translate zh_Hans son_sissy_storyline_237_d4029764:
 translate zh_Hans son_sissy_storyline_237_5a33ad7a:
 
     # nvlsson "But just so you know..."
-    nvlsson "不过，你要知道……人家现在身子都酥麻了呢……"
+    nvlsson "不过，你要知道……我现在身子都酥麻了呢……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17189
 translate zh_Hans son_sissy_storyline_237_7b3b147d:
 
     # nvlsson "I’ve been standing here smiling like an idiot"
-    nvlsson "人家站在这里，傻傻地笑着，心都快飞到你身边了呢。"
+    nvlsson "我站在这里，傻傻地笑着，心都快飞到你身边了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17191
 translate zh_Hans son_sissy_storyline_237_c4a21cf6:
 
     # nvlsson "People keep staring at me"
-    nvlsson "好多人都在盯着人家看呢。"
+    nvlsson "好多人都在盯着我看呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17193
 translate zh_Hans son_sissy_storyline_237_183bdcba:
@@ -34388,13 +34388,13 @@ translate zh_Hans son_sissy_storyline_237_183bdcba:
 translate zh_Hans son_sissy_storyline_237_6065929e:
 
     # nvljohn "They’re just jealous you’re waiting for someone like me"
-    nvljohn "他们只是嫉妒，你在等的是人家这样的小宝贝。"
+    nvljohn "他们只是嫉妒，你在等的是我这样的小宝贝。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17197
 translate zh_Hans son_sissy_storyline_237_1dd87e08:
 
     # nvlsson "Haha stop, you’ll make me blush even more"
-    nvlsson "哎呀，别再说了嘛，人家都要羞死了啦！"
+    nvlsson "哎呀，别再说了嘛，我都要羞死了啦！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17199
 translate zh_Hans son_sissy_storyline_237_85821010:
@@ -34418,7 +34418,7 @@ translate zh_Hans son_sissy_storyline_237_1257d762:
 translate zh_Hans son_sissy_storyline_237_f941f2ba:
 
     # nvlsson "I can’t wait"
-    nvlsson "人家已经等不及了呢。"
+    nvlsson "我已经等不及了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17221
 translate zh_Hans son_sissy_storyline_237_53c71d7c:
@@ -34450,13 +34450,13 @@ translate zh_Hans son_sissy_storyline_238_8121298e:
 translate zh_Hans son_sissy_storyline_238_0c51e471:
 
     # nvlsson "Same"
-    nvlsson "人家也是呢。"
+    nvlsson "我也是呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17250
 translate zh_Hans son_sissy_storyline_238_595dd615:
 
     # nvlsson "I just wanted to say... thank you"
-    nvlsson "人家只是想说……谢谢你。"
+    nvlsson "我只是想说……谢谢你。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17252
 translate zh_Hans son_sissy_storyline_238_a8555d34:
@@ -34480,7 +34480,7 @@ translate zh_Hans son_sissy_storyline_238_6220820f:
 translate zh_Hans son_sissy_storyline_238_671ebae7:
 
     # nvlsson "I felt so safe with you"
-    nvlsson "在你身边，人家觉得好有安全感。"
+    nvlsson "在你身边，我觉得好有安全感。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17260
 translate zh_Hans son_sissy_storyline_238_4c9809fa:
@@ -34492,7 +34492,7 @@ translate zh_Hans son_sissy_storyline_238_4c9809fa:
 translate zh_Hans son_sissy_storyline_238_01e767ff:
 
     # nvlsson "I don’t even remember the last time I was this happy"
-    nvlsson "人家都记不清上次这么开心是什么时候了。"
+    nvlsson "我都记不清上次这么开心是什么时候了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17264
 translate zh_Hans son_sissy_storyline_238_5435969b:
@@ -34510,7 +34510,7 @@ translate zh_Hans son_sissy_storyline_238_2a1ea724:
 translate zh_Hans son_sissy_storyline_238_8472641d:
 
     # nvlsson "I also need to apologise"
-    nvlsson "人家还需要向你道歉。"
+    nvlsson "我还需要向你道歉。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17270
 translate zh_Hans son_sissy_storyline_238_a0ac95ad:
@@ -34528,37 +34528,37 @@ translate zh_Hans son_sissy_storyline_238_0d6e7d5c:
 translate zh_Hans son_sissy_storyline_238_90f7d24c:
 
     # nvlsson "I don’t know what came over me"
-    nvlsson "人家当时也不知道自己着了什么魔。"
+    nvlsson "我当时也不知道自己着了什么魔。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17276
 translate zh_Hans son_sissy_storyline_238_03e297a3:
 
     # nvlsson "I was so close to you, feeling your warmth"
-    nvlsson "人家离你那么近，感受着你的温暖。"
+    nvlsson "我离你那么近，感受着你的温暖。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17278
 translate zh_Hans son_sissy_storyline_238_72a2f10f:
 
     # nvlsson "And I couldn’t resist"
-    nvlsson "人家就……忍不住了。"
+    nvlsson "我就……忍不住了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17280
 translate zh_Hans son_sissy_storyline_238_37d4be59:
 
     # nvlsson "I touched you"
-    nvlsson "人家碰了你。"
+    nvlsson "我碰了你。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17282
 translate zh_Hans son_sissy_storyline_238_64899232:
 
     # nvlsson "I... I stroked you there"
-    nvlsson "人家……人家偷偷地抚摸了你的那里。"
+    nvlsson "我……我偷偷地抚摸了你的那里。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17284
 translate zh_Hans son_sissy_storyline_238_121379b2:
 
     # nvlsson "I shouldn’t have done that 😔"
-    nvlsson "人家不该那么做的 😔。"
+    nvlsson "我不该那么做的 😔。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17286
 translate zh_Hans son_sissy_storyline_238_21ffcf4c:
@@ -34648,19 +34648,19 @@ translate zh_Hans son_sissy_storyline_238_ad353d57:
 translate zh_Hans son_sissy_storyline_238_f71a1c32:
 
     # nvlsson "You don’t know how much it means to hear you say that"
-    nvlsson "你不知道听到你这么说，对人家来说意味着什么。"
+    nvlsson "你不知道听到你这么说，对我来说意味着什么。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17316
 translate zh_Hans son_sissy_storyline_238_3b4a400e:
 
     # nvlsson "It makes me feel accepted"
-    nvlsson "这让人家感觉被你完全接纳了。"
+    nvlsson "这让我感觉被你完全接纳了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17318
 translate zh_Hans son_sissy_storyline_238_c6200d73:
 
     # nvlsson "Like I’m not broken"
-    nvlsson "感觉人家不是一个坏掉的小东西。"
+    nvlsson "感觉我不是一个坏掉的小东西。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17320
 translate zh_Hans son_sissy_storyline_238_6bba5707:
@@ -34690,7 +34690,7 @@ translate zh_Hans son_sissy_storyline_238_d27469fd:
 translate zh_Hans son_sissy_storyline_238_c054ca5c:
 
     # nvlsson "I love you"
-    nvlsson "人家爱你。"
+    nvlsson "我爱你。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17330
 translate zh_Hans son_sissy_storyline_238_60bb5741:
@@ -34708,7 +34708,7 @@ translate zh_Hans son_sissy_storyline_238_e728e2b3:
 translate zh_Hans son_sissy_storyline_238_8b4f5b27:
 
     # nvlsson "Thank you ❤️"
-    nvlsson "谢谢大人 ❤️"
+    nvlsson "谢谢爸爸 ❤️"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17336
 translate zh_Hans son_sissy_storyline_238_c4ffb8ff:
@@ -34746,31 +34746,31 @@ translate zh_Hans son_sissy_storyline_239_b0e44bd2:
 translate zh_Hans son_sissy_storyline_239_995bc288:
 
     # nvlsson "Jenna... you won’t believe what happened last night"
-    nvlsson "珍娜……你绝对不会相信人家昨晚都做了些什么……"
+    nvlsson "珍娜……你绝对不会相信我昨晚都做了些什么……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17381
 translate zh_Hans son_sissy_storyline_239_dcb9dc34:
 
     # nvlsson "We went to the cinema together"
-    nvlsson "人家和XTAG0X一起去看了电影。"
+    nvlsson "我和XTAG0X一起去看了电影。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17383
 translate zh_Hans son_sissy_storyline_239_7eaac89a:
 
     # nvlsson "And I was so close to him, I couldn’t hold back"
-    nvlsson "人家和他靠得那么近，身子都酥麻了，根本就忍不住嘛……"
+    nvlsson "我和他靠得那么近，身子都酥麻了，根本就忍不住嘛……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17385
 translate zh_Hans son_sissy_storyline_239_51b5b9ef:
 
     # nvlsson "I touched him during the movie"
-    nvlsson "人家在电影院里就偷偷地触碰了他……"
+    nvlsson "我在电影院里就偷偷地触碰了他……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17387
 translate zh_Hans son_sissy_storyline_239_99a79350:
 
     # nvlsson "I even made him finish with my hand"
-    nvlsson "人家甚至还用小手手，帮他彻底释放了呢……"
+    nvlsson "我甚至还用小手手，帮他彻底释放了呢……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17389
 translate zh_Hans son_sissy_storyline_239_dcf8d09a:
@@ -34794,31 +34794,31 @@ translate zh_Hans son_sissy_storyline_239_34431a19:
 translate zh_Hans son_sissy_storyline_239_c3fb6413:
 
     # nvlsson "He said if that’s what I wanted, he’d support me"
-    nvlsson "他说，只要是人家想要的，他都会支持人家。"
+    nvlsson "他说，只要是我想要的，他都会支持我。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17397
 translate zh_Hans son_sissy_storyline_239_0db45992:
 
     # nvlsson "Like he promised, always by my side"
-    nvlsson "就像他承诺的那样，永远都会在人家身边。"
+    nvlsson "就像他承诺的那样，永远都会在我身边。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17399
 translate zh_Hans son_sissy_storyline_239_b8a8ae4e:
 
     # nvlsson "I was shaking... but it felt amazing"
-    nvlsson "人家当时身子都颤抖起来了……可那种感觉，简直太销魂了，好想融化在他的温度里……"
+    nvlsson "我当时身子都颤抖起来了……可那种感觉，简直太销魂了，好想融化在他的温度里……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17401
 translate zh_Hans son_sissy_storyline_239_90cde07b:
 
     # nvlsson "I even recorded it secretly"
-    nvlsson "人家甚至还偷偷录下来了呢。"
+    nvlsson "我甚至还偷偷录下来了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17405
 translate zh_Hans son_sissy_storyline_239_bbe003bc:
 
     # nvlsson "{a=show:show_chat_media}{image=mikky_video_24_ns}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=mikky_video_24_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17409
 translate zh_Hans son_sissy_storyline_239_f6c20597:
@@ -34854,19 +34854,19 @@ translate zh_Hans son_sissy_storyline_239_238122d0:
 translate zh_Hans son_sissy_storyline_239_573c948d:
 
     # nvlsson "I think I’m really falling for him"
-    nvlsson "人家觉得，人家是真的爱上他了呢……"
+    nvlsson "我觉得，我是真的爱上他了呢……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17421
 translate zh_Hans son_sissy_storyline_239_22fbb800:
 
     # nvlsson "When he said he’d always support me, I believed him"
-    nvlsson "当他说会永远支持人家的时候，人家就彻底相信他了。"
+    nvlsson "当他说会永远支持我的时候，我就彻底相信他了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17423
 translate zh_Hans son_sissy_storyline_239_3ffa3ecf:
 
     # nvlsson "And I felt like I finally belong somewhere"
-    nvlsson "人家感觉，自己终于找到了归属……"
+    nvlsson "我感觉，自己终于找到了归属……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17425
 translate zh_Hans son_sissy_storyline_239_0d5e31d2:
@@ -34920,13 +34920,13 @@ translate zh_Hans son_sissy_storyline_239_3809e2db:
 translate zh_Hans son_sissy_storyline_239_cceb6fdd:
 
     # nvlsson "Like I promised, it won’t be a problem"
-    nvlsson "就像人家承诺过的，这不会是个问题。"
+    nvlsson "就像我承诺过的，这不会是个问题。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17443
 translate zh_Hans son_sissy_storyline_239_f0db823b:
 
     # nvlsson "I’ll go without complaining"
-    nvlsson "人家会乖乖去的，绝不抱怨。"
+    nvlsson "我会乖乖去的，绝不抱怨。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17445
 translate zh_Hans son_sissy_storyline_239_e5e75c3b:
@@ -34970,7 +34970,7 @@ translate zh_Hans son_sissy_storyline_240_bac497e5:
 translate zh_Hans son_sissy_storyline_240_470e614c:
 
     # nvlsson "I haven’t worked there in a long time…"
-    nvlsson "人家好久都没有去那里‘工作’了呢……"
+    nvlsson "我好久都没有去那里‘工作’了呢……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17492
 translate zh_Hans son_sissy_storyline_240_ebba76ec:
@@ -34994,7 +34994,7 @@ translate zh_Hans son_sissy_storyline_240_f31953ea:
 translate zh_Hans son_sissy_storyline_240_6d452e20:
 
     # nvlsson "I understand, Mr Jim"
-    nvlsson "人家明白了，吉姆先生。"
+    nvlsson "我明白了，吉姆先生。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17500
 translate zh_Hans son_sissy_storyline_240_710028b2:
@@ -35036,7 +35036,7 @@ translate zh_Hans son_sissy_storyline_240_d27469fd:
 translate zh_Hans son_sissy_storyline_240_09c7e764:
 
     # nvlsson "Alright, I’ll go"
-    nvlsson "好吧，人家会去的。"
+    nvlsson "好吧，我会去的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17514
 translate zh_Hans son_sissy_storyline_240_b06ac2b9:
@@ -35074,37 +35074,37 @@ translate zh_Hans son_sissy_storyline_241_90bb40d2:
 translate zh_Hans son_sissy_storyline_241_2cd66ec4:
 
     # nvlsson "I’m glad to hear that 😊"
-    nvlsson "人家很高兴能听到你这么说😊。"
+    nvlsson "我很高兴能听到你这么说😊。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17561
 translate zh_Hans son_sissy_storyline_241_33ec7a28:
 
     # nvljim "{a=show:show_chat_media}{image=mikky_video_25_ns}"
-    nvljim ""
+    nvljim "{a=show:show_chat_media}{image=mikky_video_25_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17565
 translate zh_Hans son_sissy_storyline_241_7ee5f57e:
 
     # nvljim "Look at how well you handled this one"
-    nvljim "看人家把这事儿办得多妥帖，都是你的功劳呢。"
+    nvljim "看我把这事儿办得多妥帖，都是你的功劳呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17567
 translate zh_Hans son_sissy_storyline_241_9dd30a10:
 
     # nvljim "Impressive"
-    nvljim "能让你满意，人家就心满意足啦。"
+    nvljim "能让你满意，我就心满意足啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17571
 translate zh_Hans son_sissy_storyline_241_17f65e94:
 
     # nvljim "{a=show:show_chat_media}{image=mikky_video_26_ns}"
-    nvljim ""
+    nvljim "{a=show:show_chat_media}{image=mikky_video_26_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17575
 translate zh_Hans son_sissy_storyline_241_73a649f3:
 
     # nvljim "And here, you lasted even longer than I expected"
-    nvljim "而且这次，人家坚持得比你预想的还要久呢。"
+    nvljim "而且这次，我坚持得比你预想的还要久呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17577
 translate zh_Hans son_sissy_storyline_241_35491d06:
@@ -35116,7 +35116,7 @@ translate zh_Hans son_sissy_storyline_241_35491d06:
 translate zh_Hans son_sissy_storyline_241_5b9f6908:
 
     # nvlsson "I didn’t even know you were recording"
-    nvlsson "哎呀，你竟然还录下来了，人家都不知道呢。"
+    nvlsson "哎呀，你竟然还录下来了，我都不知道呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17581
 translate zh_Hans son_sissy_storyline_241_8876906c:
@@ -35140,13 +35140,13 @@ translate zh_Hans son_sissy_storyline_241_6a4ff3a8:
 translate zh_Hans son_sissy_storyline_241_408414b5:
 
     # nvlsson "Honestly, I think I’m starting to like working there"
-    nvlsson "说真的，人家好像开始喜欢上在那里工作了呢。"
+    nvlsson "说真的，我好像开始喜欢上在那里工作了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17589
 translate zh_Hans son_sissy_storyline_241_7b041f99:
 
     # nvlsson "It’s... exciting"
-    nvlsson "那里……让人家身子酥麻，好兴奋呢。"
+    nvlsson "那里……让我身子酥麻，好兴奋呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17591
 translate zh_Hans son_sissy_storyline_241_710028b2:
@@ -35170,7 +35170,7 @@ translate zh_Hans son_sissy_storyline_241_837ba4ba:
 translate zh_Hans son_sissy_storyline_241_07ce5d3c:
 
     # nvlsson "I’ll do my best, Mr Jim"
-    nvlsson "人家会尽力的，吉姆先生。"
+    nvlsson "我会尽力的，吉姆先生。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17599
 translate zh_Hans son_sissy_storyline_241_ba750d34:
@@ -35202,7 +35202,7 @@ translate zh_Hans son_sissy_storyline_242_696f9e0d:
 translate zh_Hans son_sissy_storyline_242_33e40261:
 
     # nvlsson "Yesterday?"
-    nvlsson "昨天？人家昨天怎么了呀？"
+    nvlsson "昨天？我昨天怎么了呀？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17642
 translate zh_Hans son_sissy_storyline_242_841dd310:
@@ -35220,7 +35220,7 @@ translate zh_Hans son_sissy_storyline_242_a70e3341:
 translate zh_Hans son_sissy_storyline_242_cd542c72:
 
     # nvlsson "Haha, yeah… Jim made me go back there"
-    nvlsson "哈哈，是呀……吉姆先生让人家又回去了呢。"
+    nvlsson "哈哈，是呀……吉姆先生让我又回去了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17648
 translate zh_Hans son_sissy_storyline_242_b57bd69a:
@@ -35238,19 +35238,19 @@ translate zh_Hans son_sissy_storyline_242_dd6b78ee:
 translate zh_Hans son_sissy_storyline_242_0b7a0c6b:
 
     # nvlsson "Honestly?"
-    nvlsson "说实话嘛，大人？"
+    nvlsson "说实话嘛，爸爸？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17654
 translate zh_Hans son_sissy_storyline_242_0c3e1350:
 
     # nvlsson "I actually liked it"
-    nvlsson "人家……其实还挺喜欢的呢。"
+    nvlsson "我……其实还挺喜欢的呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17656
 translate zh_Hans son_sissy_storyline_242_42ff2196:
 
     # nvlsson "It was tiring, but… exciting too"
-    nvlsson "虽然有点累，但是……也让人家身子好酥麻，好兴奋呢。"
+    nvlsson "虽然有点累，但是……也让我身子好酥麻，好兴奋呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17658
 translate zh_Hans son_sissy_storyline_242_1274819b:
@@ -35268,7 +35268,7 @@ translate zh_Hans son_sissy_storyline_242_bb8cd1c6:
 translate zh_Hans son_sissy_storyline_242_8260b78e:
 
     # nvlsson "Was it that obvious?"
-    nvlsson "有那么明显吗？人家好羞人呀。"
+    nvlsson "有那么明显吗？我好羞人呀。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17664
 translate zh_Hans son_sissy_storyline_242_c8e5b592:
@@ -35292,7 +35292,7 @@ translate zh_Hans son_sissy_storyline_242_681f13a0:
 translate zh_Hans son_sissy_storyline_242_59c361e6:
 
     # nvlsson "But yeah, I can’t deny it felt good"
-    nvlsson "但是呀，人家不能否认，那种感觉真的好舒服呢。"
+    nvlsson "但是呀，我不能否认，那种感觉真的好舒服呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17672
 translate zh_Hans son_sissy_storyline_242_5893c2d1:
@@ -35372,7 +35372,7 @@ translate zh_Hans son_sissy_storyline_243_98c418ea:
 translate zh_Hans son_sissy_storyline_243_9897af85:
 
     # nvlsson "I’ve been waiting all day"
-    nvlsson "人家已经等了一整天了呢。"
+    nvlsson "我已经等了一整天了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17731
 translate zh_Hans son_sissy_storyline_243_a8e896c3:
@@ -35426,7 +35426,7 @@ translate zh_Hans son_sissy_storyline_243_09452cdc:
 translate zh_Hans son_sissy_storyline_243_75156d9a:
 
     # nvlsson "Now I’m curious…"
-    nvlsson "人家现在……好想知道呢……"
+    nvlsson "我现在……好想知道呢……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17749
 translate zh_Hans son_sissy_storyline_243_c61b3782:
@@ -35462,7 +35462,7 @@ translate zh_Hans son_sissy_storyline_243_1151914e:
 translate zh_Hans son_sissy_storyline_243_18cef6ac:
 
     # nvlsson "If it’s with you, I trust it’ll be amazing"
-    nvlsson "只要是和你在一起，人家就相信一定会是极致的享受呢。"
+    nvlsson "只要是和你在一起，我就相信一定会是极致的享受呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17761
 translate zh_Hans son_sissy_storyline_243_689cef72:
@@ -35492,7 +35492,7 @@ translate zh_Hans son_sissy_storyline_243_98c418ea_1:
 translate zh_Hans son_sissy_storyline_243_456a2520:
 
     # nvlsson "I’ll be waiting ❤️"
-    nvlsson "人家会乖乖等你的哦 ❤️"
+    nvlsson "我会乖乖等你的哦 ❤️"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17771
 translate zh_Hans son_sissy_storyline_243_2da5edb1:
@@ -35536,7 +35536,7 @@ translate zh_Hans son_sissy_storyline_244_61750aa5:
 translate zh_Hans son_sissy_storyline_244_bb05042c:
 
     # nvlsson "I’m… still kind of shaking, honestly"
-    nvlsson "人家……老实说，身子还有些酥软呢。"
+    nvlsson "我……老实说，身子还有些酥软呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17818
 translate zh_Hans son_sissy_storyline_244_26c607e8:
@@ -35554,13 +35554,13 @@ translate zh_Hans son_sissy_storyline_244_9234f61e:
 translate zh_Hans son_sissy_storyline_244_f9e04677:
 
     # nvlsson "I don’t even have words"
-    nvlsson "人家都不知道该怎么形容了。"
+    nvlsson "我都不知道该怎么形容了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17824
 translate zh_Hans son_sissy_storyline_244_3b8ae393:
 
     # nvlsson "My arse still feels wide open today 😳"
-    nvlsson "人家的小穴今天还感觉敞开着呢 😳"
+    nvlsson "我的小穴今天还感觉敞开着呢 😳"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17826
 translate zh_Hans son_sissy_storyline_244_a361b05c:
@@ -35584,19 +35584,19 @@ translate zh_Hans son_sissy_storyline_244_1e6ad74d:
 translate zh_Hans son_sissy_storyline_244_18dca1de:
 
     # nvlsson "I think I already do…"
-    nvlsson "人家好像已经开始渴望了……"
+    nvlsson "我好像已经开始渴望了……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17834
 translate zh_Hans son_sissy_storyline_244_a3149651:
 
     # nvlsson "I can’t stop replaying it in my head"
-    nvlsson "人家的脑子里一直都在回放昨晚的画面，停不下来。"
+    nvlsson "我的脑子里一直都在回放昨晚的画面，停不下来。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17838
 translate zh_Hans son_sissy_storyline_244_42f4444b:
 
     # nvljenna "{a=show:show_chat_media}{image=mikky_video_27_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=mikky_video_27_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17842
 translate zh_Hans son_sissy_storyline_244_8440d143:
@@ -35674,7 +35674,7 @@ translate zh_Hans son_sissy_storyline_244_98c418ea:
 translate zh_Hans son_sissy_storyline_244_9495f035:
 
     # nvlsson "I kept it in all night just like you said"
-    nvlsson "人家一整晚都塞着呢，就像你吩咐的那样。"
+    nvlsson "我一整晚都塞着呢，就像你吩咐的那样。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17868
 translate zh_Hans son_sissy_storyline_244_e5e75c3b:
@@ -35704,7 +35704,7 @@ translate zh_Hans son_sissy_storyline_244_9a378fa1:
 translate zh_Hans son_sissy_storyline_244_d99ad5b8:
 
     # nvlsson "{a=show:show_chat_media}{image=mikky_video_28_ns}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=mikky_video_28_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17882
 translate zh_Hans son_sissy_storyline_244_23539520:
@@ -35766,19 +35766,19 @@ translate zh_Hans son_sissy_storyline_245_0de31048:
 translate zh_Hans son_sissy_storyline_245_958d6b1c:
 
     # nvljohn "Not really, just resting a bit"
-    nvljohn "没有啦，人家只是在休息一下。"
+    nvljohn "没有，只是在休息一下。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17935
 translate zh_Hans son_sissy_storyline_245_ff1f07c3:
 
     # nvlsson "I was thinking about you again…"
-    nvlsson "人家又在想你了……"
+    nvlsson "我又在想你了……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17937
 translate zh_Hans son_sissy_storyline_245_6b1aa1e6:
 
     # nvlsson "I miss you already"
-    nvlsson "人家已经开始想你了。"
+    nvlsson "我已经开始想你了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17939
 translate zh_Hans son_sissy_storyline_245_6f41dffa:
@@ -35790,13 +35790,13 @@ translate zh_Hans son_sissy_storyline_245_6f41dffa:
 translate zh_Hans son_sissy_storyline_245_90e5c10c:
 
     # nvlsson "I know… but it’s not enough"
-    nvlsson "人家知道……可是不够嘛。"
+    nvlsson "我知道……可是不够嘛。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17943
 translate zh_Hans son_sissy_storyline_245_2564315f:
 
     # nvlsson "I want to be closer to you all the time"
-    nvlsson "人家想时时刻刻都和你在一起。"
+    nvlsson "我想时时刻刻都和你在一起。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17945
 translate zh_Hans son_sissy_storyline_245_8fd8d860:
@@ -35814,13 +35814,13 @@ translate zh_Hans son_sissy_storyline_245_88ef8e87:
 translate zh_Hans son_sissy_storyline_245_04fd65af:
 
     # nvlsson "Actually… I wanted to ask you something"
-    nvlsson "其实……人家想问你一件事。"
+    nvlsson "其实……我想问你一件事。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17951
 translate zh_Hans son_sissy_storyline_245_f26b8f22:
 
     # nvlsson "Would it be okay if I came over tonight?"
-    nvlsson "人家今晚过来找你好不好？"
+    nvlsson "我今晚过来找你好不好？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17953
 translate zh_Hans son_sissy_storyline_245_d0b37668:
@@ -35832,25 +35832,25 @@ translate zh_Hans son_sissy_storyline_245_d0b37668:
 translate zh_Hans son_sissy_storyline_245_91a1db25:
 
     # nvlsson "And maybe… I could sleep there too"
-    nvlsson "也许……人家也可以睡在那里呢。"
+    nvlsson "也许……我也可以睡在那里呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17957
 translate zh_Hans son_sissy_storyline_245_acc79405:
 
     # nvlsson "Then in the morning, you could take me to work"
-    nvlsson "那明天早上，大人可以带人家一起去上班吗？"
+    nvlsson "那明天早上，爸爸可以带我一起去上班吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17959
 translate zh_Hans son_sissy_storyline_245_a48f4e17:
 
     # nvljohn "😳"
-    nvljohn ""
+    nvljohn "😳|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17961
 translate zh_Hans son_sissy_storyline_245_f623db2b:
 
     # nvljohn "Wow… that’s quite a request, Mikky"
-    nvljohn "哇哦……米基，你这要求可真不小呢。"
+    nvljohn "哇哦……米基，你这要求可真不小。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17963
 translate zh_Hans son_sissy_storyline_245_5b583635:
@@ -35868,7 +35868,7 @@ translate zh_Hans son_sissy_storyline_245_dfc5d023:
 translate zh_Hans son_sissy_storyline_245_4eb4615e:
 
     # nvlsson "I just feel so good when I’m with you"
-    nvlsson "只要能和大人在一起，人家就觉得全身都酥麻舒服呢。"
+    nvlsson "只要能和爸爸在一起，我就觉得全身都酥麻舒服呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17969
 translate zh_Hans son_sissy_storyline_245_4771be5e:
@@ -35892,13 +35892,13 @@ translate zh_Hans son_sissy_storyline_245_3b685cbf:
 translate zh_Hans son_sissy_storyline_245_dea506ce:
 
     # nvljohn "Tell me, what would you like?"
-    nvljohn "告诉我，你想要吃什么呢？"
+    nvljohn "告诉我，你想吃什么？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17977
 translate zh_Hans son_sissy_storyline_245_0ea5a136:
 
     # nvlsson "Really? You’d do that for me?"
-    nvlsson "真的吗？大人会为人家做这些吗？"
+    nvlsson "真的吗？爸爸会为我做这些吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17979
 translate zh_Hans son_sissy_storyline_245_4876ced7:
@@ -35916,13 +35916,13 @@ translate zh_Hans son_sissy_storyline_245_ca77dc5c:
 translate zh_Hans son_sissy_storyline_245_49061add:
 
     # nvlsson "Then… I’d love to have pizza with you 🍕"
-    nvlsson "那……人家好想和大人一起吃披萨哦 🍕"
+    nvlsson "那……我好想和爸爸一起吃披萨哦 🍕"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17985
 translate zh_Hans son_sissy_storyline_245_f1c484f9:
 
     # nvlsson "And afterwards, maybe some homemade ice cream together 🍨"
-    nvlsson "然后，说不定还能一起吃大人亲手做的冰淇淋呢 🍨"
+    nvlsson "然后，说不定还能一起吃爸爸亲手做的冰淇淋呢 🍨"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17987
 translate zh_Hans son_sissy_storyline_245_9cc2c119:
@@ -35940,13 +35940,13 @@ translate zh_Hans son_sissy_storyline_245_9d4baed2:
 translate zh_Hans son_sissy_storyline_245_f5074f22:
 
     # nvlsson "You’re the best, you know that?"
-    nvlsson "大人是最好的，你知道吗？"
+    nvlsson "爸爸是最好的，你知道吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17993
 translate zh_Hans son_sissy_storyline_245_3d63537a:
 
     # nvlsson "I don’t even know how to thank you properly ❤️"
-    nvlsson "人家都不知道该怎么好好感谢大人了呢 ❤️"
+    nvlsson "我都不知道该怎么好好感谢爸爸了呢 ❤️"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:17995
 translate zh_Hans son_sissy_storyline_245_34fabf49:
@@ -35964,13 +35964,13 @@ translate zh_Hans son_sissy_storyline_245_ba8e4dac:
 translate zh_Hans son_sissy_storyline_245_92981042:
 
     # nvlsson "You’ll see me very happy tonight then"
-    nvlsson "那今晚，大人一定会看到人家非常开心的样子呢。"
+    nvlsson "那今晚，爸爸一定会看到我非常开心的样子呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18001
 translate zh_Hans son_sissy_storyline_245_bdca395a:
 
     # nvlsson "Because being in your arms is all I want"
-    nvlsson "因为人家最想要的，就是能在大人的怀里呢。"
+    nvlsson "因为我最想要的，就是能在爸爸的怀里呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18003
 translate zh_Hans son_sissy_storyline_245_c968147d:
@@ -35988,13 +35988,13 @@ translate zh_Hans son_sissy_storyline_245_b3ba0ed7:
 translate zh_Hans son_sissy_storyline_245_b1e0afa2:
 
     # nvljohn "I'll be waiting for you"
-    nvljohn "大人会等着你的。"
+    nvljohn "我会等着你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18009
 translate zh_Hans son_sissy_storyline_245_5e9cc6b2:
 
     # nvlsson "I'm looking forward to the night coming soon ❤️"
-    nvlsson "人家好期待夜晚快点到来呢 ❤️"
+    nvlsson "我好期待夜晚快点到来呢 ❤️"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18011
 translate zh_Hans son_sissy_storyline_245_eff5c07f:
@@ -36038,13 +36038,13 @@ translate zh_Hans son_sissy_storyline_246_dd49e55d:
 translate zh_Hans son_sissy_storyline_246_37f6f036:
 
     # nvljohn "Hold on, I’m in the shower"
-    nvljohn "等一下，人家正在洗澡呢。"
+    nvljohn "等一下，我正在洗澡。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18058
 translate zh_Hans son_sissy_storyline_246_a731ee90:
 
     # nvljohn "Give me a sec"
-    nvljohn "等人家一下下。"
+    nvljohn "等我一下下。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18060
 translate zh_Hans son_sissy_storyline_246_ce90a267:
@@ -36068,19 +36068,19 @@ translate zh_Hans son_sissy_storyline_246_d67fc252:
 translate zh_Hans son_sissy_storyline_246_a48f4e17:
 
     # nvljohn "😳"
-    nvljohn ""
+    nvljohn "😳|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18068
 translate zh_Hans son_sissy_storyline_246_2d96e119:
 
     # nvljohn "You cheeky little thing"
-    nvljohn "大人真是个小坏蛋。"
+    nvljohn "你真是个小坏蛋。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18070
 translate zh_Hans son_sissy_storyline_246_9e2d9ed2:
 
     # nvljohn "So bold, huh?"
-    nvljohn "胆子真大呢，嗯？"
+    nvljohn "胆子真大，嗯？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18072
 translate zh_Hans son_sissy_storyline_246_25e976a6:
@@ -36092,7 +36092,7 @@ translate zh_Hans son_sissy_storyline_246_25e976a6:
 translate zh_Hans son_sissy_storyline_246_33b15d2b:
 
     # nvljohn "Alright then, I’m coming"
-    nvljohn "好吧，那人家就出来了。"
+    nvljohn "好吧，那我就出来了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18076
 translate zh_Hans son_sissy_storyline_246_34f04c77:
@@ -36116,7 +36116,7 @@ translate zh_Hans son_sissy_storyline_246_8f59c28e:
 translate zh_Hans son_sissy_storyline_246_d21e7eea:
 
     # nvljohn "Guess you’ll have to find out in a minute"
-    nvljohn "大人一会儿就知道了呢。"
+    nvljohn "你一会儿就知道了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18084
 translate zh_Hans son_sissy_storyline_246_73577be6:
@@ -36140,25 +36140,25 @@ translate zh_Hans son_sissy_storyline_246_fd453fa1:
 translate zh_Hans son_sissy_storyline_246_29355279:
 
     # nvljohn "Relax"
-    nvljohn "放松啦。"
+    nvljohn "放松点。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18092
 translate zh_Hans son_sissy_storyline_246_985a3b5b:
 
     # nvljohn "I’m just finishing up"
-    nvljohn "人家马上就弄好了。"
+    nvljohn "我马上就弄好了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18094
 translate zh_Hans son_sissy_storyline_246_5e6a864c:
 
     # nvljohn "Stay right there, I’ll be with you soon"
-    nvljohn "大人就在那儿等着，人家很快就来找你了。"
+    nvljohn "你就在那儿等着，我很快就来找你了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18096
 translate zh_Hans son_sissy_storyline_246_456a2520:
 
     # nvlsson "I’ll be waiting ❤️"
-    nvlsson "人家会乖乖等你的哦 ❤️"
+    nvlsson "我会乖乖等你的哦 ❤️"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18098
 translate zh_Hans son_sissy_storyline_246_99454bfb:
@@ -36184,7 +36184,7 @@ translate zh_Hans son_sissy_storyline_247_7be4fc16:
 translate zh_Hans son_sissy_storyline_247_80ad2390:
 
     # nvlsson "I just wanted to thank you again"
-    nvlsson "人家只是想再谢谢大人。"
+    nvlsson "我只是想再谢谢爸爸。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18139
 translate zh_Hans son_sissy_storyline_247_06c0960c:
@@ -36202,13 +36202,13 @@ translate zh_Hans son_sissy_storyline_247_b4f10d32:
 translate zh_Hans son_sissy_storyline_247_f2033c2e:
 
     # nvlsson "Even taking me to work this morning"
-    nvlsson "甚至今早，你还亲自送人家去上班呢。"
+    nvlsson "甚至今早，你还亲自送我去上班呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18145
 translate zh_Hans son_sissy_storyline_247_6dcb4d7e:
 
     # nvlsson "You really spoiled me"
-    nvlsson "你真是把人家宠坏了啦……"
+    nvlsson "你真是把我宠坏了啦……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18147
 translate zh_Hans son_sissy_storyline_247_187ac4ec:
@@ -36244,13 +36244,13 @@ translate zh_Hans son_sissy_storyline_247_518c9134:
 translate zh_Hans son_sissy_storyline_247_cf568b57:
 
     # nvlsson "That makes me so happy"
-    nvlsson "人家听了真的好开心哦！"
+    nvlsson "我听了真的好开心哦！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18159
 translate zh_Hans son_sissy_storyline_247_b521efe0:
 
     # nvlsson "But… can I ask you something?"
-    nvlsson "可是……人家能问你一个问题吗？"
+    nvlsson "可是……我能问你一个问题吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18161
 translate zh_Hans son_sissy_storyline_247_83a3dcfa:
@@ -36262,7 +36262,7 @@ translate zh_Hans son_sissy_storyline_247_83a3dcfa:
 translate zh_Hans son_sissy_storyline_247_fe81e2bd:
 
     # nvlsson "You’re really not mad about what I did last night?"
-    nvlsson "你真的……没有生人家昨晚的气吗？"
+    nvlsson "你真的……没有生我昨晚的气吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18165
 translate zh_Hans son_sissy_storyline_247_56bf0a69:
@@ -36292,25 +36292,25 @@ translate zh_Hans son_sissy_storyline_247_fc3ea93a:
 translate zh_Hans son_sissy_storyline_247_8e4b09f3:
 
     # nvlsson "I couldn’t help myself!"
-    nvlsson "人家真的忍不住嘛！"
+    nvlsson "我真的忍不住嘛！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18175
 translate zh_Hans son_sissy_storyline_247_04eb78a7:
 
     # nvlsson "I was lying with my head on your lap…"
-    nvlsson "人家当时头枕在你的腿上……"
+    nvlsson "我当时头枕在你的腿上……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18177
 translate zh_Hans son_sissy_storyline_247_ae6f62d2:
 
     # nvlsson "And suddenly I felt your cock pressing against me"
-    nvlsson "突然就感觉到你的宝贝，硬邦邦地抵着人家……"
+    nvlsson "突然就感觉到你的宝贝，硬邦邦地抵着我……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18179
 translate zh_Hans son_sissy_storyline_247_7f60a243:
 
     # nvlsson "I lost control and started sucking before I even thought"
-    nvlsson "人家一下子就失控了，根本没来得及思考，就直接含了上去……"
+    nvlsson "我一下子就失控了，根本没来得及思考，就直接含了上去……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18181
 translate zh_Hans son_sissy_storyline_247_60bb5741:
@@ -36334,19 +36334,19 @@ translate zh_Hans son_sissy_storyline_247_f7331afb:
 translate zh_Hans son_sissy_storyline_247_066fc0e3:
 
     # nvlsson "But I don’t regret it"
-    nvlsson "可是人家一点都不后悔呢！"
+    nvlsson "可是我一点都不后悔呢！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18189
 translate zh_Hans son_sissy_storyline_247_2802aeab:
 
     # nvlsson "I loved every single centimeter of you ❤️"
-    nvlsson "你的每一寸，人家都爱得不得了呢！❤️"
+    nvlsson "你的每一寸，我都爱得不得了呢！❤️"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18191
 translate zh_Hans son_sissy_storyline_247_816f427c:
 
     # nvljohn "You’re going to make me blush here…"
-    nvljohn "你这样说，爸爸都要脸红了……"
+    nvljohn "你这样说，我都要脸红了……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18193
 translate zh_Hans son_sissy_storyline_247_e24144cc:
@@ -36370,7 +36370,7 @@ translate zh_Hans son_sissy_storyline_247_11a841b4:
 translate zh_Hans son_sissy_storyline_247_23db4429:
 
     # nvljohn "I’ll be waiting"
-    nvljohn "人家会乖乖等你的！"
+    nvljohn "我会等你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18201
 translate zh_Hans son_sissy_storyline_247_2d66b325:
@@ -36396,7 +36396,7 @@ translate zh_Hans son_sissy_storyline_248_fe11260c:
 translate zh_Hans son_sissy_storyline_248_19cab06c:
 
     # nvlsson "I have to tell you everything about last night"
-    nvlsson "人家要跟你汇报昨晚的一切！"
+    nvlsson "我要跟你汇报昨晚的一切！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18242
 translate zh_Hans son_sissy_storyline_248_bffdbe69:
@@ -36426,7 +36426,7 @@ translate zh_Hans son_sissy_storyline_248_52b0735a:
 translate zh_Hans son_sissy_storyline_248_4ca0a315:
 
     # nvlsson "I spent the night at my father's house"
-    nvlsson "人家昨晚在爸爸家里过夜了。"
+    nvlsson "我昨晚在爸爸家里过夜了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18252
 translate zh_Hans son_sissy_storyline_248_0e8dcb85:
@@ -36438,13 +36438,13 @@ translate zh_Hans son_sissy_storyline_248_0e8dcb85:
 translate zh_Hans son_sissy_storyline_248_4238c696:
 
     # nvlsson "And then… I couldn’t resist"
-    nvlsson "然后……人家就再也忍不住了……"
+    nvlsson "然后……我就再也忍不住了……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18256
 translate zh_Hans son_sissy_storyline_248_746cc6ff:
 
     # nvlsson "I gave him a blowjob"
-    nvlsson "人家给爸爸口交了。"
+    nvlsson "我给爸爸口交了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18258
 translate zh_Hans son_sissy_storyline_248_95a3f195:
@@ -36462,7 +36462,7 @@ translate zh_Hans son_sissy_storyline_248_3b740dd7:
 translate zh_Hans son_sissy_storyline_248_0b7a0c6b:
 
     # nvlsson "Honestly?"
-    nvlsson "说实话嘛，大人？"
+    nvlsson "说实话嘛，爸爸？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18264
 translate zh_Hans son_sissy_storyline_248_26c607e8:
@@ -36474,7 +36474,7 @@ translate zh_Hans son_sissy_storyline_248_26c607e8:
 translate zh_Hans son_sissy_storyline_248_a85b8730:
 
     # nvlsson "I wanted him so much"
-    nvlsson "人家当时好想要他……好想要他啊！"
+    nvlsson "我当时好想要他……好想要他啊！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18268
 translate zh_Hans son_sissy_storyline_248_3f651159:
@@ -36486,7 +36486,7 @@ translate zh_Hans son_sissy_storyline_248_3f651159:
 translate zh_Hans son_sissy_storyline_248_3e92a06f:
 
     # nvlsson "I felt like I belonged there"
-    nvlsson "人家感觉自己就该属于那里，属于他……"
+    nvlsson "我感觉自己就该属于那里，属于他……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18272
 translate zh_Hans son_sissy_storyline_248_e5e75c3b:
@@ -36510,31 +36510,31 @@ translate zh_Hans son_sissy_storyline_248_1ec692d9:
 translate zh_Hans son_sissy_storyline_248_498ba7a3:
 
     # nvlsson "Of course… I knew you’d ask 😏"
-    nvlsson "当然啦……人家就知道你会问的 😏"
+    nvlsson "当然啦……我就知道你会问的 😏"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18282
 translate zh_Hans son_sissy_storyline_248_86bc4e6d:
 
     # nvlsson "{a=show:show_chat_media}{image=mikky_video_29_ns}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=mikky_video_29_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18286
 translate zh_Hans son_sissy_storyline_248_3d4852b9:
 
     # nvlsson "I recorded it secretly…"
-    nvlsson "人家偷偷录下来了……"
+    nvlsson "我偷偷录下来了……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18288
 translate zh_Hans son_sissy_storyline_248_b0e149f9:
 
     # nvlsson "Look at me, mistress…"
-    nvlsson "主人，你看人家……"
+    nvlsson "主人，你看我……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18290
 translate zh_Hans son_sissy_storyline_248_4dc90bc1:
 
     # nvlsson "Sucking him like I’ve never sucked anyone before"
-    nvlsson "人家是那么卖力地伺候着他，比伺候任何人都还要用心呢！"
+    nvlsson "我是那么卖力地伺候着他，比伺候任何人都还要用心呢！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18292
 translate zh_Hans son_sissy_storyline_248_a9b594f1:
@@ -36546,7 +36546,7 @@ translate zh_Hans son_sissy_storyline_248_a9b594f1:
 translate zh_Hans son_sissy_storyline_248_2c43e732:
 
     # nvljenna "Better than I even imagined"
-    nvljenna "比人家想象的还要美妙呢……"
+    nvljenna "比我想象的还要美妙呢……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18296
 translate zh_Hans son_sissy_storyline_248_e51fde6e:
@@ -36558,25 +36558,25 @@ translate zh_Hans son_sissy_storyline_248_e51fde6e:
 translate zh_Hans son_sissy_storyline_248_87a5da53:
 
     # nvlsson "Yes… I can’t hide it anymore"
-    nvlsson "是啊……人家再也藏不住了……"
+    nvlsson "是啊……我再也藏不住了……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18300
 translate zh_Hans son_sissy_storyline_248_7693d5b2:
 
     # nvlsson "I think about him constantly"
-    nvlsson "人家无时无刻不在想着他……"
+    nvlsson "我无时无刻不在想着他……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18302
 translate zh_Hans son_sissy_storyline_248_f44f93bc:
 
     # nvlsson "I don’t even know if it’s as a father figure or as a man"
-    nvlsson "人家都分不清了，究竟是把他当成父亲，还是……当成一个男人来爱了……"
+    nvlsson "我都分不清了，究竟是把他当成父亲，还是……当成一个男人来爱了……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18304
 translate zh_Hans son_sissy_storyline_248_29553d04:
 
     # nvlsson "But I know I love him"
-    nvlsson "可是人家知道，人家爱他……"
+    nvlsson "可是我知道，我爱他……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18306
 translate zh_Hans son_sissy_storyline_248_6abc8aa6:
@@ -36618,13 +36618,13 @@ translate zh_Hans son_sissy_storyline_248_98c418ea:
 translate zh_Hans son_sissy_storyline_248_22a38146:
 
     # nvlsson "I’ll never forget that"
-    nvlsson "人家永远不会忘记的。"
+    nvlsson "我永远不会忘记的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18320
 translate zh_Hans son_sissy_storyline_248_0c211c9f:
 
     # nvlsson "But… thank you for letting me feel this too ❤️"
-    nvlsson "但是……谢谢你让人家也能感受到这份心动 ❤️"
+    nvlsson "但是……谢谢你让我也能感受到这份心动 ❤️"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18336
 translate zh_Hans son_sissy_storyline_248_53c71d7c:
@@ -36644,7 +36644,7 @@ translate zh_Hans son_sissy_storyline_249_8c6879a2:
 translate zh_Hans son_sissy_storyline_249_48e1be03:
 
     # nvljohn "Yeah, I am"
-    nvljohn "是的，人家已经习惯了"
+    nvljohn "是的，我已经习惯了"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18361
 translate zh_Hans son_sissy_storyline_249_248581f9:
@@ -36656,13 +36656,13 @@ translate zh_Hans son_sissy_storyline_249_248581f9:
 translate zh_Hans son_sissy_storyline_249_2548eca0:
 
     # nvlsson "I can’t sleep"
-    nvlsson "人家睡不着……"
+    nvlsson "我睡不着……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18365
 translate zh_Hans son_sissy_storyline_249_91ae680c:
 
     # nvlsson "I’ve been thinking about you all night"
-    nvlsson "人家一整晚都在想你……"
+    nvlsson "我一整晚都在想你……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18367
 translate zh_Hans son_sissy_storyline_249_1cbf2310:
@@ -36686,13 +36686,13 @@ translate zh_Hans son_sissy_storyline_249_f82a23b1:
 translate zh_Hans son_sissy_storyline_249_0401df9f:
 
     # nvlsson "{a=show:show_chat_media}{image=mikky_pic_72}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=mikky_pic_72}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18379
 translate zh_Hans son_sissy_storyline_249_c08c133c:
 
     # nvlsson "Well? What do you think of me like this?"
-    nvlsson "怎么样？你觉得人家这样……好看吗？"
+    nvlsson "怎么样？你觉得我这样……好看吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18381
 translate zh_Hans son_sissy_storyline_249_9fa5436e:
@@ -36710,7 +36710,7 @@ translate zh_Hans son_sissy_storyline_249_b94cee08:
 translate zh_Hans son_sissy_storyline_249_ed7b023b:
 
     # nvljohn "Your body looks amazing"
-    nvljohn "你的身子……真是太诱人了……"
+    nvljohn "你的身体……真是太迷人了……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18387
 translate zh_Hans son_sissy_storyline_249_aea03da7:
@@ -36734,7 +36734,7 @@ translate zh_Hans son_sissy_storyline_249_f91aa568:
 translate zh_Hans son_sissy_storyline_249_dc645139:
 
     # nvljohn "Yes"
-    nvljohn "是的，人家明白了。"
+    nvljohn "是的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18395
 translate zh_Hans son_sissy_storyline_249_250ee025:
@@ -36746,13 +36746,13 @@ translate zh_Hans son_sissy_storyline_249_250ee025:
 translate zh_Hans son_sissy_storyline_249_41f36f5d:
 
     # nvlsson "Can I ask you something…?"
-    nvlsson "人家可以问你一个问题吗……？"
+    nvlsson "我可以问你一个问题吗……？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18399
 translate zh_Hans son_sissy_storyline_249_2093da90:
 
     # nvlsson "Would you… like to touch me?"
-    nvlsson "你会……想要好好疼爱人家吗？"
+    nvlsson "你会……想要好好疼爱我吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18401
 translate zh_Hans son_sissy_storyline_249_edc73327:
@@ -36782,19 +36782,19 @@ translate zh_Hans son_sissy_storyline_249_56a08c3c:
 translate zh_Hans son_sissy_storyline_249_d943d2a2:
 
     # nvlsson "You don’t know how happy that makes me"
-    nvlsson "你不知道，人家听到这些话有多开心。"
+    nvlsson "你不知道，我听到这些话有多开心。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18411
 translate zh_Hans son_sissy_storyline_249_2590e6d8:
 
     # nvlsson "Then tomorrow night… can I come over again?"
-    nvlsson "那……明天晚上……人家可以再过来吗？"
+    nvlsson "那……明天晚上……我可以再过来吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18413
 translate zh_Hans son_sissy_storyline_249_f464a2c1:
 
     # nvlsson "If you’ll have me"
-    nvlsson "如果你还愿意要人家的话……"
+    nvlsson "如果你还愿意要我的话……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18415
 translate zh_Hans son_sissy_storyline_249_9999cf47:
@@ -36824,13 +36824,13 @@ translate zh_Hans son_sissy_storyline_249_47ba2fd5:
 translate zh_Hans son_sissy_storyline_249_3c0f5da4:
 
     # nvlsson "Then I’ll be there"
-    nvlsson "那人家一定会来的。"
+    nvlsson "那我一定会来的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18425
 translate zh_Hans son_sissy_storyline_249_8defb9d2:
 
     # nvlsson "And tomorrow… I’ll be yours completely ❤️"
-    nvlsson "而明天……人家就完完全全属于你了 ❤️"
+    nvlsson "而明天……我就完完全全属于你了 ❤️"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18427
 translate zh_Hans son_sissy_storyline_249_9dcd21b9:
@@ -36868,7 +36868,7 @@ translate zh_Hans son_sissy_storyline_250_5e9a2944:
     # nvl clear
     # nvlsson "Mistress!! I need to tell you something 😳"
     nvl clear
-    nvlsson "主人！！人家有件事要告诉你 😳"
+    nvlsson "主人！！我有件事要告诉你 😳"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18472
 translate zh_Hans son_sissy_storyline_250_9f9cb141:
@@ -36880,43 +36880,43 @@ translate zh_Hans son_sissy_storyline_250_9f9cb141:
 translate zh_Hans son_sissy_storyline_250_2a2c4d18:
 
     # nvljenna "Go on, I’m listening"
-    nvljenna "说吧，人家听着呢。"
+    nvljenna "说吧，我听着呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18476
 translate zh_Hans son_sissy_storyline_250_aba6f10b:
 
     # nvlsson "I was talking to my dad last night…"
-    nvlsson "人家昨晚和爸爸聊天来着……"
+    nvlsson "我昨晚和爸爸聊天来着……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18478
 translate zh_Hans son_sissy_storyline_250_20c20f7c:
 
     # nvlsson "And I sent him a nude photo"
-    nvlsson "然后人家给他发了一张……裸照……"
+    nvlsson "然后我给他发了一张……裸照……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18480
 translate zh_Hans son_sissy_storyline_250_9e22cdb0:
 
     # nvlsson "I was so nervous"
-    nvlsson "人家当时紧张得身子都酥了……"
+    nvlsson "我当时紧张得身子都酥了……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18482
 translate zh_Hans son_sissy_storyline_250_11af3b50:
 
     # nvlsson "But he didn’t reject me"
-    nvlsson "可是爸爸他……没有拒绝人家呢。"
+    nvlsson "可是爸爸他……没有拒绝我呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18484
 translate zh_Hans son_sissy_storyline_250_4f761b15:
 
     # nvlsson "He said I’m beautiful"
-    nvlsson "他说人家是那么的美……"
+    nvlsson "他说我是那么的美……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18486
 translate zh_Hans son_sissy_storyline_250_e8eb7ea8:
 
     # nvlsson "And he even said he’d like to touch me"
-    nvlsson "甚至还说……好想抚摸人家呢……"
+    nvlsson "甚至还说……好想抚摸我呢……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18488
 translate zh_Hans son_sissy_storyline_250_55e22e7e:
@@ -36928,25 +36928,25 @@ translate zh_Hans son_sissy_storyline_250_55e22e7e:
 translate zh_Hans son_sissy_storyline_250_c42d93c8:
 
     # nvljenna "That means he’s starting to cross the line"
-    nvljenna "这意味着……爸爸他开始越界了呢……"
+    nvljenna "这意味着……他开始越界了呢……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18492
 translate zh_Hans son_sissy_storyline_250_db449a38:
 
     # nvljenna "Exactly what I wanted"
-    nvljenna "这正是人家一直渴望的呀……"
+    nvljenna "这正是我一直渴望的呀……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18494
 translate zh_Hans son_sissy_storyline_250_3d976ead:
 
     # nvlsson "Mistress… it felt so real"
-    nvlsson "主人……人家感觉……一切都那么真实……"
+    nvlsson "主人……我感觉……一切都那么真实……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18496
 translate zh_Hans son_sissy_storyline_250_85941677:
 
     # nvlsson "I felt like he actually wanted me as a woman"
-    nvlsson "人家觉得……爸爸他真的把人家当成一个女人来渴望了……"
+    nvlsson "我觉得……爸爸他真的把我当成一个女人来渴望了……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18498
 translate zh_Hans son_sissy_storyline_250_4530643d:
@@ -36964,7 +36964,7 @@ translate zh_Hans son_sissy_storyline_250_860624e6:
 translate zh_Hans son_sissy_storyline_250_47f8c639:
 
     # nvlsson "Excited…"
-    nvlsson "人家……人家身子都酥麻了……"
+    nvlsson "我……我身子都酥麻了……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18504
 translate zh_Hans son_sissy_storyline_250_7cce55d4:
@@ -36976,7 +36976,7 @@ translate zh_Hans son_sissy_storyline_250_7cce55d4:
 translate zh_Hans son_sissy_storyline_250_e9205135:
 
     # nvlsson "Honestly, I think I’m falling for him"
-    nvlsson "说真的……人家觉得……人家已经彻底爱上他了……"
+    nvlsson "说真的……我觉得……我已经彻底爱上他了……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18508
 translate zh_Hans son_sissy_storyline_250_1c983faf:
@@ -37006,13 +37006,13 @@ translate zh_Hans son_sissy_storyline_250_3e758a7c:
 translate zh_Hans son_sissy_storyline_250_bcb4ffe1:
 
     # nvlsson "I don’t know if I can control it anymore"
-    nvlsson "人家不知道自己还能不能控制住这份感情了……"
+    nvlsson "我不知道自己还能不能控制住这份感情了……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18518
 translate zh_Hans son_sissy_storyline_250_9c3f66e0:
 
     # nvlsson "I want him all the time"
-    nvlsson "人家……人家无时无刻都想要他……"
+    nvlsson "我……我无时无刻都想要他……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18520
 translate zh_Hans son_sissy_storyline_250_33afe24b:
@@ -37048,13 +37048,13 @@ translate zh_Hans son_sissy_storyline_250_98c418ea:
 translate zh_Hans son_sissy_storyline_250_2b16c870:
 
     # nvlsson "I understand"
-    nvlsson "人家明白了。"
+    nvlsson "我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18532
 translate zh_Hans son_sissy_storyline_250_b7ba557b:
 
     # nvlsson "But… thank you for letting me have this"
-    nvlsson "但是……谢谢你让人家拥有这一切……"
+    nvlsson "但是……谢谢你让我拥有这一切……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18534
 translate zh_Hans son_sissy_storyline_250_7a2f2116:
@@ -37104,7 +37104,7 @@ translate zh_Hans son_sissy_storyline_251_b2d89712:
 translate zh_Hans son_sissy_storyline_251_bf47d433:
 
     # nvlsson "Haha… I guess I can’t hide it anymore"
-    nvlsson "哈哈……人家想……人家大概是藏不住了呢。"
+    nvlsson "哈哈……我想……我大概是藏不住了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18583
 translate zh_Hans son_sissy_storyline_251_42c5e9bf:
@@ -37146,13 +37146,13 @@ translate zh_Hans son_sissy_storyline_251_f649ae2e:
 translate zh_Hans son_sissy_storyline_251_656dc896:
 
     # nvlsson "It’s… my dad"
-    nvlsson "是……是人家爸爸……"
+    nvlsson "是……是我爸爸……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18597
 translate zh_Hans son_sissy_storyline_251_d7c0e1bc:
 
     # nvlvalerie "😳"
-    nvlvalerie ""
+    nvlvalerie "😳|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18599
 translate zh_Hans son_sissy_storyline_251_ab5e8681:
@@ -37170,25 +37170,25 @@ translate zh_Hans son_sissy_storyline_251_08210a49:
 translate zh_Hans son_sissy_storyline_251_9762898e:
 
     # nvlsson "I’m serious…"
-    nvlsson "人家是认真的……"
+    nvlsson "我是认真的……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18605
 translate zh_Hans son_sissy_storyline_251_e8146999:
 
     # nvlsson "I can’t stop thinking about him"
-    nvlsson "人家……人家根本无法停止想他……"
+    nvlsson "我……我根本无法停止想他……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18607
 translate zh_Hans son_sissy_storyline_251_cc6a1890:
 
     # nvlsson "He’s been there for me through everything"
-    nvlsson "他一直都在人家身边，陪人家度过了一切……"
+    nvlsson "他一直都在我身边，陪我度过了一切……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18609
 translate zh_Hans son_sissy_storyline_251_7e8b4e3d:
 
     # nvlsson "And now… I see him in a different way"
-    nvlsson "而现在……人家看他的眼神已经完全不同了……"
+    nvlsson "而现在……我看他的眼神已经完全不同了……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18611
 translate zh_Hans son_sissy_storyline_251_b386e493:
@@ -37212,19 +37212,19 @@ translate zh_Hans son_sissy_storyline_251_ca262bc3:
 translate zh_Hans son_sissy_storyline_251_6f63c8df:
 
     # nvlsson "But I don't see any problem with that, I love him"
-    nvlsson "可是……人家不觉得这有什么问题，人家爱他呀。"
+    nvlsson "可是……我不觉得这有什么问题，我爱他呀。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18619
 translate zh_Hans son_sissy_storyline_251_e508ef28:
 
     # nvlsson "It just feels right, Valerie"
-    nvlsson "瓦莱丽，人家就是觉得……这样才是对的。"
+    nvlsson "瓦莱丽，我就是觉得……这样才是对的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18621
 translate zh_Hans son_sissy_storyline_251_7fa13c7d:
 
     # nvlsson "He makes me feel safe… loved… like I belong"
-    nvlsson "他让人家感到安全……被爱……感觉自己终于有了归属……"
+    nvlsson "他让我感到安全……被爱……感觉自己终于有了归属……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18623
 translate zh_Hans son_sissy_storyline_251_ecee81a1:
@@ -37248,13 +37248,13 @@ translate zh_Hans son_sissy_storyline_251_b74f791b:
 translate zh_Hans son_sissy_storyline_251_4c0da5fe:
 
     # nvlsson "I am"
-    nvlsson "是的，人家在等你"
+    nvlsson "是的，我在等你"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18631
 translate zh_Hans son_sissy_storyline_251_f3dd876e:
 
     # nvlsson "I’ve never felt like this before"
-    nvlsson "人家从来没有过这种感觉呢……"
+    nvlsson "我从来没有过这种感觉呢……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18633
 translate zh_Hans son_sissy_storyline_251_ca852d7a:
@@ -37278,7 +37278,7 @@ translate zh_Hans son_sissy_storyline_251_43b5370a:
 translate zh_Hans son_sissy_storyline_251_c5fde156:
 
     # nvlsson "I know"
-    nvlsson "人家知道的。"
+    nvlsson "我知道的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18641
 translate zh_Hans son_sissy_storyline_251_926b3133:
@@ -37314,7 +37314,7 @@ translate zh_Hans son_sissy_storyline_251_bb735b6b:
 translate zh_Hans son_sissy_storyline_251_8b4f5b27:
 
     # nvlsson "Thank you ❤️"
-    nvlsson "谢谢大人 ❤️"
+    nvlsson "谢谢爸爸 ❤️"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18667
 translate zh_Hans son_sissy_storyline_251_53c71d7c:
@@ -37334,7 +37334,7 @@ translate zh_Hans son_sissy_storyline_252_369a38e8:
 translate zh_Hans son_sissy_storyline_252_059a9a7f:
 
     # nvlsson "I just left work"
-    nvlsson "人家刚下班。"
+    nvlsson "我刚下班。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18692
 translate zh_Hans son_sissy_storyline_252_757d1dd7:
@@ -37346,7 +37346,7 @@ translate zh_Hans son_sissy_storyline_252_757d1dd7:
 translate zh_Hans son_sissy_storyline_252_a1b66d35:
 
     # nvlsson "Would you mind if I take a shower there?"
-    nvlsson "人家能在你那里冲个澡吗？"
+    nvlsson "我能在你那里冲个澡吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18696
 translate zh_Hans son_sissy_storyline_252_2137ca3f:
@@ -37370,7 +37370,7 @@ translate zh_Hans son_sissy_storyline_252_b9fc9993:
 translate zh_Hans son_sissy_storyline_252_bbe0828b:
 
     # nvlsson "Whatever I want? 😏"
-    nvlsson "人家想做什么都可以吗？😏"
+    nvlsson "我想做什么都可以吗？😏"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18704
 translate zh_Hans son_sissy_storyline_252_dfe68151:
@@ -37388,7 +37388,7 @@ translate zh_Hans son_sissy_storyline_252_35fe684d:
 translate zh_Hans son_sissy_storyline_252_abb9ab85:
 
     # nvlsson "I might take that too seriously"
-    nvlsson "人家可能会当真哦。"
+    nvlsson "我可能会当真哦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18710
 translate zh_Hans son_sissy_storyline_252_528f4733:
@@ -37430,13 +37430,13 @@ translate zh_Hans son_sissy_storyline_252_e56db5c2:
 translate zh_Hans son_sissy_storyline_252_e3055b75:
 
     # nvlsson "I’ll be there in about 10 minutes"
-    nvlsson "人家大概十分钟就到。"
+    nvlsson "我大概十分钟就到。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18724
 translate zh_Hans son_sissy_storyline_252_ab9c11f5:
 
     # nvlsson "Don’t miss me too much until then 😉"
-    nvlsson "在那之前，你可别太想人家哦 😉"
+    nvlsson "在那之前，你可别太想我哦 😉"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18726
 translate zh_Hans son_sissy_storyline_252_545fca73:
@@ -37454,7 +37454,7 @@ translate zh_Hans son_sissy_storyline_252_cc17e978:
 translate zh_Hans son_sissy_storyline_252_ea734cdf:
 
     # nvlsson "I’m walking actually 😅"
-    nvlsson "人家其实是走着去的 😅"
+    nvlsson "我其实是走着去的 😅"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18732
 translate zh_Hans son_sissy_storyline_252_fa284dbf:
@@ -37480,7 +37480,7 @@ translate zh_Hans son_sissy_storyline_253_d9a037bb:
 translate zh_Hans son_sissy_storyline_253_394cbe2d:
 
     # nvlsson "I still can’t believe what happened yesterday"
-    nvlsson "人家还是不敢相信昨天发生的一切呢。"
+    nvlsson "我还是不敢相信昨天发生的一切呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18773
 translate zh_Hans son_sissy_storyline_253_187ac4ec:
@@ -37510,13 +37510,13 @@ translate zh_Hans son_sissy_storyline_253_ed974f27:
 translate zh_Hans son_sissy_storyline_253_8f5663ba:
 
     # nvlsson "It was what I wanted the most"
-    nvlsson "那是人家最最渴望的呢。"
+    nvlsson "那是我最最渴望的呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18783
 translate zh_Hans son_sissy_storyline_253_8725a934:
 
     # nvlsson "Thank you for giving me that, dad"
-    nvlsson "谢谢爸爸，你把这一切都给了人家。"
+    nvlsson "谢谢爸爸，你把这一切都给了我。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18785
 translate zh_Hans son_sissy_storyline_253_6b9947dd:
@@ -37534,19 +37534,19 @@ translate zh_Hans son_sissy_storyline_253_c98a581f:
 translate zh_Hans son_sissy_storyline_253_54a703c9:
 
     # nvlsson "I adored feeling you so deep inside me…"
-    nvlsson "人家好喜欢你深深地在人家身体里进出的感觉……"
+    nvlsson "我好喜欢你深深地在我身体里进出的感觉……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18791
 translate zh_Hans son_sissy_storyline_253_c85b51b1:
 
     # nvlsson "And when you came in my mouth…"
-    nvlsson "还有当你在人家口中尽情喷洒的时候……"
+    nvlsson "还有当你在我口中尽情喷洒的时候……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18793
 translate zh_Hans son_sissy_storyline_253_f02a8164:
 
     # nvlsson "I loved swallowing you ❤️"
-    nvlsson "人家好喜欢把你全部吞下去呢 ❤️"
+    nvlsson "我好喜欢把你全部吞下去呢 ❤️"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18795
 translate zh_Hans son_sissy_storyline_253_21ffcf4c:
@@ -37582,7 +37582,7 @@ translate zh_Hans son_sissy_storyline_253_952a6f12:
 translate zh_Hans son_sissy_storyline_253_21184104:
 
     # nvlsson "But now that we’re close like this…"
-    nvlsson "可是现在人家和你这么亲密了……"
+    nvlsson "可是现在我和你这么亲密了……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18807
 translate zh_Hans son_sissy_storyline_253_ec2d5089:
@@ -37636,7 +37636,7 @@ translate zh_Hans son_sissy_storyline_253_9916a004:
 translate zh_Hans son_sissy_storyline_253_67b1ff08:
 
     # nvlsson "I love you daddy"
-    nvlsson "人家爱你，爸爸~"
+    nvlsson "我爱你，爸爸~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18825
 translate zh_Hans son_sissy_storyline_253_e728e2b3:
@@ -37662,7 +37662,7 @@ translate zh_Hans son_sissy_storyline_254_1cc59c22:
 translate zh_Hans son_sissy_storyline_254_301011b3:
 
     # nvlsson "I have to tell you what happened last night"
-    nvlsson "人家要告诉你昨晚发生了什么！"
+    nvlsson "我要告诉你昨晚发生了什么！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18866
 translate zh_Hans son_sissy_storyline_254_185d7cc8:
@@ -37680,25 +37680,25 @@ translate zh_Hans son_sissy_storyline_254_f0cdddf7:
 translate zh_Hans son_sissy_storyline_254_2a2c4d18:
 
     # nvljenna "Go on, I’m listening"
-    nvljenna "说吧，人家听着呢。"
+    nvljenna "说吧，我听着呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18872
 translate zh_Hans son_sissy_storyline_254_81f4f8fa:
 
     # nvlsson "Daddy and I… we finally crossed that line ❤️"
-    nvlsson "爸爸和人家……我们终于越过了那条线了呢❤️"
+    nvlsson "爸爸和我……我们终于越过了那条线了呢❤️"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18874
 translate zh_Hans son_sissy_storyline_254_7e981548:
 
     # nvlsson "It was everything I dreamed of"
-    nvlsson "那正是人家梦寐以求的一切呀~"
+    nvlsson "那正是我梦寐以求的一切呀~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18876
 translate zh_Hans son_sissy_storyline_254_f8ee8c57:
 
     # nvlsson "He touched me, kissed me… took me like a real woman"
-    nvlsson "他抚摸人家，亲吻人家……把人家当成真正的女人一样占有了呢~"
+    nvlsson "他抚摸我，亲吻我……把我当成真正的女人一样占有了呢~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18878
 translate zh_Hans son_sissy_storyline_254_08f6791e:
@@ -37722,37 +37722,37 @@ translate zh_Hans son_sissy_storyline_254_39c770ad:
 translate zh_Hans son_sissy_storyline_254_a70a3d6b:
 
     # nvlsson "{a=show:show_chat_media}{image=mikky_video_30_ns}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=mikky_video_30_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18890
 translate zh_Hans son_sissy_storyline_254_a1c86ef8:
 
     # nvlsson "This was me riding him…"
-    nvlsson "这是人家在你身上驰骋的时候……"
+    nvlsson "这是我在你身上驰骋的时候……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18892
 translate zh_Hans son_sissy_storyline_254_bfe9be21:
 
     # nvlsson "I still feel him inside me just watching this 😳"
-    nvlsson "光是看着这个，人家都感觉他还在人家身体里呢😳"
+    nvlsson "光是看着这个，我都感觉他还在我身体里呢😳"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18896
 translate zh_Hans son_sissy_storyline_254_8c49dd7e:
 
     # nvlsson "{a=show:show_chat_media}{image=mikky_video_31_ns}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=mikky_video_31_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18900
 translate zh_Hans son_sissy_storyline_254_ee94a047:
 
     # nvlsson "And here… when he came in my mouth"
-    nvlsson "还有这里……当他把精华射进人家嘴里的时候……"
+    nvlsson "还有这里……当他把精华射进我嘴里的时候……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18902
 translate zh_Hans son_sissy_storyline_254_f32910a0:
 
     # nvlsson "I swallowed every drop ❤️"
-    nvlsson "人家把每一滴都乖乖地吞下去了呢❤️"
+    nvlsson "我把每一滴都乖乖地吞下去了呢❤️"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18904
 translate zh_Hans son_sissy_storyline_254_2fcc2dea:
@@ -37788,13 +37788,13 @@ translate zh_Hans son_sissy_storyline_254_3342ca10:
 translate zh_Hans son_sissy_storyline_254_0c73104b:
 
     # nvlsson "Like I’ve found what I was missing"
-    nvlsson "就像人家找到了缺失的那一部分。"
+    nvlsson "就像我找到了缺失的那一部分。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18916
 translate zh_Hans son_sissy_storyline_254_cb385161:
 
     # nvlsson "With him, I feel loved… and wanted"
-    nvlsson "和爸爸在一起，人家感觉被爱着……被渴望着。"
+    nvlsson "和爸爸在一起，我感觉被爱着……被渴望着。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18918
 translate zh_Hans son_sissy_storyline_254_bb906ad5:
@@ -37824,13 +37824,13 @@ translate zh_Hans son_sissy_storyline_254_b4bf0bbc:
 translate zh_Hans son_sissy_storyline_254_20f14d63:
 
     # nvlsson "I understand… but it’s hard"
-    nvlsson "人家明白……可是好难啊。"
+    nvlsson "我明白……可是好难啊。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18928
 translate zh_Hans son_sissy_storyline_254_791758af:
 
     # nvlsson "I love him, mistress"
-    nvlsson "人家爱他，主人。"
+    nvlsson "我爱他，主人。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18930
 translate zh_Hans son_sissy_storyline_254_d37c96f7:
@@ -37854,7 +37854,7 @@ translate zh_Hans son_sissy_storyline_254_0e905cb6:
 translate zh_Hans son_sissy_storyline_254_76134bae:
 
     # nvlsson "Thank you… I’ll make him mine too ❤️"
-    nvlsson "谢谢你……人家也要把他彻底变成人家的呢❤️"
+    nvlsson "谢谢你……我也要把他彻底变成我的呢❤️"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:18952
 translate zh_Hans son_sissy_storyline_254_53c71d7c:
@@ -37970,13 +37970,13 @@ translate zh_Hans son_sissy_storyline_255_0db2a9d4:
 translate zh_Hans son_sissy_storyline_255_26ef6e6c:
 
     # nvljohn "I don’t deny that…"
-    nvljohn "人家……人家确实不否认……"
+    nvljohn "我……我确实不否认……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19009
 translate zh_Hans son_sissy_storyline_255_0a26c8c5:
 
     # nvljohn "But it still feels strange to me"
-    nvljohn "可人家心里还是觉得好奇怪……"
+    nvljohn "可我心里还是觉得好奇怪……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19011
 translate zh_Hans son_sissy_storyline_255_46d0202c:
@@ -38098,7 +38098,7 @@ translate zh_Hans son_sissy_storyline_256_369a38e8:
 translate zh_Hans son_sissy_storyline_256_dd453c3e:
 
     # nvlsson "It’s been three days… feels like forever"
-    nvlsson "已经三天了……人家感觉像过了一个世纪那么久……"
+    nvlsson "已经三天了……我感觉像过了一个世纪那么久……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19084
 translate zh_Hans son_sissy_storyline_256_0de31048:
@@ -38122,7 +38122,7 @@ translate zh_Hans son_sissy_storyline_256_08f87e7c:
 translate zh_Hans son_sissy_storyline_256_9036a1f2:
 
     # nvlsson "I thought maybe you’d forgotten me already 😅"
-    nvlsson "人家还以为，你已经把人家忘掉了呢 😅"
+    nvlsson "我还以为，你已经把我忘掉了呢 😅"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19092
 translate zh_Hans son_sissy_storyline_256_fc5f582f:
@@ -38140,13 +38140,13 @@ translate zh_Hans son_sissy_storyline_256_5a62e593:
 translate zh_Hans son_sissy_storyline_256_2911afd2:
 
     # nvlsson "That makes me so happy…"
-    nvlsson "人家听了，心里好开心好开心……"
+    nvlsson "我听了，心里好开心好开心……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19098
 translate zh_Hans son_sissy_storyline_256_0a421e66:
 
     # nvlsson "I missed talking to you"
-    nvlsson "人家好想和你说话呀。"
+    nvlsson "我好想和你说话呀。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19100
 translate zh_Hans son_sissy_storyline_256_b194367e:
@@ -38158,7 +38158,7 @@ translate zh_Hans son_sissy_storyline_256_b194367e:
 translate zh_Hans son_sissy_storyline_256_61478626:
 
     # nvljohn "You’re making me blush here"
-    nvljohn "你这样说，人家都要脸红了啦……"
+    nvljohn "你这样说，我都要脸红了……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19104
 translate zh_Hans son_sissy_storyline_256_d7e876e5:
@@ -38194,13 +38194,13 @@ translate zh_Hans son_sissy_storyline_256_5696c52b:
 translate zh_Hans son_sissy_storyline_256_892e4771:
 
     # nvlsson "I like it too"
-    nvlsson "人家也喜欢呢~"
+    nvlsson "我也喜欢呢~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19116
 translate zh_Hans son_sissy_storyline_256_0fe3917f:
 
     # nvlsson "Feels like I can finally be myself with you"
-    nvlsson "在你面前，人家终于可以做回真正的自己了……"
+    nvlsson "在你面前，我终于可以做回真正的自己了……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19118
 translate zh_Hans son_sissy_storyline_256_84be151e:
@@ -38218,7 +38218,7 @@ translate zh_Hans son_sissy_storyline_256_f6f35f66:
 translate zh_Hans son_sissy_storyline_256_f499121f:
 
     # nvlsson "And I do…"
-    nvlsson "人家……人家确实感受到了……"
+    nvlsson "我……我确实感受到了……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19124
 translate zh_Hans son_sissy_storyline_256_11f9b562:
@@ -38230,7 +38230,7 @@ translate zh_Hans son_sissy_storyline_256_11f9b562:
 translate zh_Hans son_sissy_storyline_256_130105cb:
 
     # nvljohn "I should be, why?"
-    nvljohn "人家应该有空呀，怎么了？"
+    nvljohn "我应该有空呀，怎么了？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19128
 translate zh_Hans son_sissy_storyline_256_7c7ba51a:
@@ -38248,7 +38248,7 @@ translate zh_Hans son_sissy_storyline_256_84381275:
 translate zh_Hans son_sissy_storyline_256_85ef21aa:
 
     # nvljohn "Then it’s a date"
-    nvljohn "那……那就算人家和你的约会咯！"
+    nvljohn "那……那就算我和你的约会咯！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19134
 translate zh_Hans son_sissy_storyline_256_eda1b43a:
@@ -38260,13 +38260,13 @@ translate zh_Hans son_sissy_storyline_256_eda1b43a:
 translate zh_Hans son_sissy_storyline_256_8b4f5b27:
 
     # nvlsson "Thank you ❤️"
-    nvlsson "谢谢大人 ❤️"
+    nvlsson "谢谢爸爸 ❤️"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19138
 translate zh_Hans son_sissy_storyline_256_460c8b13:
 
     # nvlsson "You’re the best thing in my life right now"
-    nvlsson "你是人家现在生命里，最美好的一切了……"
+    nvlsson "你是我现在生命里，最美好的一切了……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19154
 translate zh_Hans son_sissy_storyline_256_53c71d7c:
@@ -38298,7 +38298,7 @@ translate zh_Hans son_sissy_storyline_257_db6a3049:
 translate zh_Hans son_sissy_storyline_257_57d70428:
 
     # nvlsson "Valerie… I need to tell you something"
-    nvlsson "瓦莱丽……人家有件事要告诉你……"
+    nvlsson "瓦莱丽……我有件事要告诉你……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19183
 translate zh_Hans son_sissy_storyline_257_55f9e460:
@@ -38310,7 +38310,7 @@ translate zh_Hans son_sissy_storyline_257_55f9e460:
 translate zh_Hans son_sissy_storyline_257_59a2264c:
 
     # nvlsson "It’s about [mc_name_is]… my dad"
-    nvlsson "是关于[mc_name_is]……人家的爸爸……"
+    nvlsson "是关于[mc_name_is]……我的爸爸……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19187
 translate zh_Hans son_sissy_storyline_257_22ca0164:
@@ -38340,7 +38340,7 @@ translate zh_Hans son_sissy_storyline_257_2acd915b:
 translate zh_Hans son_sissy_storyline_257_33d0f397:
 
     # nvlsson "And it was the most intense night of my life ❤️"
-    nvlsson "那可是人家这辈子最最销魂的一夜呢 ❤️"
+    nvlsson "那可是我这辈子最最销魂的一夜呢 ❤️"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19197
 translate zh_Hans son_sissy_storyline_257_f68b3c31:
@@ -38364,7 +38364,7 @@ translate zh_Hans son_sissy_storyline_257_6a152edb:
 translate zh_Hans son_sissy_storyline_257_34524efd:
 
     # nvlsson "Like I finally belonged somewhere"
-    nvlsson "感觉人家终于找到了归属"
+    nvlsson "感觉我终于找到了归属"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19205
 translate zh_Hans son_sissy_storyline_257_3d2cec95:
@@ -38400,19 +38400,19 @@ translate zh_Hans son_sissy_storyline_257_33f6c3a5:
 translate zh_Hans son_sissy_storyline_257_3ef1d0cb:
 
     # nvlsson "I love him, yes"
-    nvlsson "人家是爱他啦，没错"
+    nvlsson "我是爱他啦，没错"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19217
 translate zh_Hans son_sissy_storyline_257_ed132be8:
 
     # nvlsson "But I still enjoy living this lifestyle"
-    nvlsson "可人家还是好喜欢这种生活方式嘛"
+    nvlsson "可我还是好喜欢这种生活方式嘛"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19219
 translate zh_Hans son_sissy_storyline_257_a9d73c63:
 
     # nvlsson "For now, I’ll keep both worlds"
-    nvlsson "现在嘛，人家两个世界都要呢"
+    nvlsson "现在嘛，我两个世界都要呢"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19221
 translate zh_Hans son_sissy_storyline_257_b9d4feb9:
@@ -38430,7 +38430,7 @@ translate zh_Hans son_sissy_storyline_257_f2216591:
 translate zh_Hans son_sissy_storyline_257_245d915c:
 
     # nvlsson "You understand me then"
-    nvlsson "那你懂人家了呢"
+    nvlsson "那你懂我了呢"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19227
 translate zh_Hans son_sissy_storyline_257_b52b76b1:
@@ -38460,7 +38460,7 @@ translate zh_Hans son_sissy_storyline_257_907abff3:
 translate zh_Hans son_sissy_storyline_257_54f6416b:
 
     # nvlsson "I can handle it"
-    nvlsson "人家能应付得来啦"
+    nvlsson "我能应付得来啦"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19237
 translate zh_Hans son_sissy_storyline_257_df4db811:
@@ -38534,19 +38534,19 @@ translate zh_Hans son_sissy_storyline_258_dfb660e5:
 translate zh_Hans son_sissy_storyline_258_f58963f4:
 
     # nvlsson "I’m so happy for her!"
-    nvlsson "人家真替她开心呢！"
+    nvlsson "我真替她开心呢！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19294
 translate zh_Hans son_sissy_storyline_258_6f09ffa9:
 
     # nvlsson "Of course I’ll go with you!"
-    nvlsson "人家当然会陪你一起去啦！"
+    nvlsson "我当然会陪你一起去啦！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19296
 translate zh_Hans son_sissy_storyline_258_c1d32b23:
 
     # nvlsson "Should I wear something specific?"
-    nvlsson "人家要穿点特别的吗？"
+    nvlsson "我要穿点特别的吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19298
 translate zh_Hans son_sissy_storyline_258_91393c7b:
@@ -38576,19 +38576,19 @@ translate zh_Hans son_sissy_storyline_258_3ba8f4f6:
 translate zh_Hans son_sissy_storyline_258_8da43809:
 
     # nvlsson "A short dress… got it"
-    nvlsson "短裙啊……人家知道了"
+    nvlsson "短裙啊……我知道了"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19308
 translate zh_Hans son_sissy_storyline_258_b855ecb8:
 
     # nvlsson "I already feel excited about tomorrow"
-    nvlsson "人家已经对明天兴奋得身子酥麻了呢"
+    nvlsson "我已经对明天兴奋得身子酥麻了呢"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19310
 translate zh_Hans son_sissy_storyline_258_75009652:
 
     # nvlsson "Thank you for taking me with you ❤️"
-    nvlsson "谢谢你带人家一起去 ❤️"
+    nvlsson "谢谢你带我一起去 ❤️"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19312
 translate zh_Hans son_sissy_storyline_258_bbf644c4:
@@ -38606,19 +38606,19 @@ translate zh_Hans son_sissy_storyline_258_d23d9c5f:
 translate zh_Hans son_sissy_storyline_258_0b6500c9:
 
     # nvljenna "And make me proud, as always"
-    nvljenna "一如既往地，让爸爸为你骄傲"
+    nvljenna "一如既往地，让我为你骄傲"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19318
 translate zh_Hans son_sissy_storyline_258_97ce1cd1:
 
     # nvlsson "I will!"
-    nvlsson "人家会的！"
+    nvlsson "我会的！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19320
 translate zh_Hans son_sissy_storyline_258_28d4f3fe:
 
     # nvlsson "I can’t wait… I’m already counting the hours"
-    nvlsson "人家等不及了……人家已经在数着时间啦"
+    nvlsson "我等不及了……我已经在数着时间啦"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19322
 translate zh_Hans son_sissy_storyline_258_e0bcb20a:
@@ -38656,7 +38656,7 @@ translate zh_Hans son_sissy_storyline_259_b700f1e9:
 translate zh_Hans son_sissy_storyline_259_5bef5779:
 
     # nvlsson "I did, still thinking about tonight"
-    nvlsson "人家睡得可好了，可心里还在想着今晚呢"
+    nvlsson "我睡得可好了，可心里还在想着今晚呢"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19367
 translate zh_Hans son_sissy_storyline_259_270c02f6:
@@ -38692,13 +38692,13 @@ translate zh_Hans son_sissy_storyline_259_d4bec80d:
 translate zh_Hans son_sissy_storyline_259_81bc28ae:
 
     # nvlsson "Really??"
-    nvlsson "真的吗？？人家……人家有那么好吗？"
+    nvlsson "真的吗？？我……我有那么好吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19379
 translate zh_Hans son_sissy_storyline_259_9d90aade:
 
     # nvlsson "That’s exciting, I’d love to meet them!"
-    nvlsson "天呐，人家身子都酥麻了，好想去见见她们！"
+    nvlsson "天呐，我身子都酥麻了，好想去见见她们！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19381
 translate zh_Hans son_sissy_storyline_259_33afe24b:
@@ -38728,7 +38728,7 @@ translate zh_Hans son_sissy_storyline_259_17d7b33d:
 translate zh_Hans son_sissy_storyline_259_b2b47254:
 
     # nvlsson "That makes me even more curious now 😍"
-    nvlsson "这让人家更、更、更想去了呢！😍"
+    nvlsson "这让我更、更、更想去了呢！😍"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19391
 translate zh_Hans son_sissy_storyline_259_7fb0cf27:
@@ -38740,13 +38740,13 @@ translate zh_Hans son_sissy_storyline_259_7fb0cf27:
 translate zh_Hans son_sissy_storyline_259_03765b98:
 
     # nvljenna "Send me a nude right now"
-    nvljenna "现在，立刻给人家发一张裸照"
+    nvljenna "现在，立刻给我发一张裸照"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19395
 translate zh_Hans son_sissy_storyline_259_26de038e:
 
     # nvljenna "I want to show you off in the group"
-    nvljenna "人家要把你展示给群里的人看"
+    nvljenna "我要把你展示给群里的人看"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19397
 translate zh_Hans son_sissy_storyline_259_067f3372:
@@ -38764,7 +38764,7 @@ translate zh_Hans son_sissy_storyline_259_9ac7ff29:
 translate zh_Hans son_sissy_storyline_259_09ce2fae:
 
     # nvlsson "{a=show:show_chat_media}{image=mikky_pic_73}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=mikky_pic_73}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19407
 translate zh_Hans son_sissy_storyline_259_e25b8be9:
@@ -38788,7 +38788,7 @@ translate zh_Hans son_sissy_storyline_259_3eb77f8b:
 translate zh_Hans son_sissy_storyline_259_be2849db:
 
     # nvljenna "I’ll take care of the rest"
-    nvljenna "剩下的就交给人家吧"
+    nvljenna "剩下的就交给我吧"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19415
 translate zh_Hans son_sissy_storyline_259_abe5b24b:
@@ -38814,7 +38814,7 @@ translate zh_Hans son_sissy_storyline_260_6b409f29:
     # nvl clear
     # nvljenna "I’m almost at your place"
     nvl clear
-    nvljenna "人家快到你家了"
+    nvljenna "我快到你家了"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19456
 translate zh_Hans son_sissy_storyline_260_7a7f33bb:
@@ -38826,7 +38826,7 @@ translate zh_Hans son_sissy_storyline_260_7a7f33bb:
 translate zh_Hans son_sissy_storyline_260_0c0d8f20:
 
     # nvlsson "Yes, mistress! All dressed up and waiting ❤️"
-    nvlsson "是的，主人！人家已经穿戴整齐，乖乖等着你了呢❤️"
+    nvlsson "是的，主人！我已经穿戴整齐，乖乖等着你了呢❤️"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19460
 translate zh_Hans son_sissy_storyline_260_33afe24b:
@@ -38838,19 +38838,19 @@ translate zh_Hans son_sissy_storyline_260_33afe24b:
 translate zh_Hans son_sissy_storyline_260_97c5b8dd:
 
     # nvljenna "Send me a quick video showing what you’re wearing"
-    nvljenna "发个小视频，让人家看看你穿了什么"
+    nvljenna "发个小视频，让我看看你穿了什么"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19464
 translate zh_Hans son_sissy_storyline_260_f52a3cfb:
 
     # nvlsson "Give me one second…"
-    nvlsson "给人家一秒钟嘛……"
+    nvlsson "给我一秒钟嘛……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19468
 translate zh_Hans son_sissy_storyline_260_d122e7d5:
 
     # nvlsson "{a=show:show_chat_media}{image=mikky_video_32_ns}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=mikky_video_32_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19472
 translate zh_Hans son_sissy_storyline_260_f103e98a:
@@ -38904,7 +38904,7 @@ translate zh_Hans son_sissy_storyline_260_da6c70fc:
 translate zh_Hans son_sissy_storyline_260_12c014dc:
 
     # nvlsson "I’ll change right now!"
-    nvlsson "人家这就去换！"
+    nvlsson "我这就去换！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19490
 translate zh_Hans son_sissy_storyline_260_948b460d:
@@ -38922,7 +38922,7 @@ translate zh_Hans son_sissy_storyline_260_e451b0ab:
 translate zh_Hans son_sissy_storyline_260_c87357f3:
 
     # nvlsson "I’ll be ready before you knock on the door 😉"
-    nvlsson "在你敲门之前，人家一定会准备好的😉"
+    nvlsson "在你敲门之前，我一定会准备好的😉"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19496
 translate zh_Hans son_sissy_storyline_260_2da5edb1:
@@ -38940,7 +38940,7 @@ translate zh_Hans son_sissy_storyline_260_04189e4a:
 translate zh_Hans son_sissy_storyline_260_1e5379ae:
 
     # nvlsson "I can’t wait ❤️"
-    nvlsson "人家等不及了呢❤️"
+    nvlsson "我等不及了呢❤️"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19516
 translate zh_Hans son_sissy_storyline_260_53c71d7c:
@@ -38966,7 +38966,7 @@ translate zh_Hans son_sissy_storyline_261_52f883fb:
 translate zh_Hans son_sissy_storyline_261_0f52ce2a:
 
     # nvljenna "There was a moment I couldn’t find you anymore"
-    nvljenna "中间有一段时间，人家都找不到你了呢"
+    nvljenna "中间有一段时间，我都找不到你了呢"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19543
 translate zh_Hans son_sissy_storyline_261_a5a5acfd:
@@ -38978,19 +38978,19 @@ translate zh_Hans son_sissy_storyline_261_a5a5acfd:
 translate zh_Hans son_sissy_storyline_261_fa02b9a7:
 
     # nvlsson "It was incredible… unforgettable"
-    nvlsson "简直是……太不可思议了……让人家永生难忘"
+    nvlsson "简直是……太不可思议了……让我永生难忘"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19547
 translate zh_Hans son_sissy_storyline_261_56de53c1:
 
     # nvljenna "Unforgettable, huh? Tell me more"
-    nvljenna "永生难忘？快跟人家说说"
+    nvljenna "永生难忘？快跟我说说"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19549
 translate zh_Hans son_sissy_storyline_261_de48bba5:
 
     # nvlsson "I made friends with a few sissies there"
-    nvlsson "人家在那里认识了好几个小骚货姐妹"
+    nvlsson "我在那里认识了好几个小骚货姐妹"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19551
 translate zh_Hans son_sissy_storyline_261_baab0d51:
@@ -39032,7 +39032,7 @@ translate zh_Hans son_sissy_storyline_261_0239cfde:
 translate zh_Hans son_sissy_storyline_261_632e2c84:
 
     # nvlsson "I’ve never experienced anything like that before"
-    nvlsson "人家以前从未体验过如此极致的快感呢……"
+    nvlsson "我以前从未体验过如此极致的快感呢……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19565
 translate zh_Hans son_sissy_storyline_261_0b89a54e:
@@ -39050,7 +39050,7 @@ translate zh_Hans son_sissy_storyline_261_bb8bbe98:
 translate zh_Hans son_sissy_storyline_261_35757282:
 
     # nvlsson "{a=show:show_chat_media}{image=mikky_video_33_ns}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=mikky_video_33_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19575
 translate zh_Hans son_sissy_storyline_261_ad692089:
@@ -39092,7 +39092,7 @@ translate zh_Hans son_sissy_storyline_261_662662d5:
 translate zh_Hans son_sissy_storyline_261_662cbaa9:
 
     # nvlsson "I only want to make you proud"
-    nvlsson "人家只想让主人感到骄傲呢。"
+    nvlsson "我只想让主人感到骄傲呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19589
 translate zh_Hans son_sissy_storyline_261_4a8a8e08:
@@ -39110,7 +39110,7 @@ translate zh_Hans son_sissy_storyline_261_0490bf2d:
 translate zh_Hans son_sissy_storyline_261_292b73e2:
 
     # nvlsson "I won’t 😘"
-    nvlsson "人家不会的 😘"
+    nvlsson "我不会的 😘"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19609
 translate zh_Hans son_sissy_storyline_261_53c71d7c:
@@ -39148,7 +39148,7 @@ translate zh_Hans son_sissy_storyline_262_dd85a6a9:
 translate zh_Hans son_sissy_storyline_262_ef39e8d7:
 
     # nvlsson "At the party with Jenna… I ended up in a room upstairs"
-    nvlsson "在和珍娜的派对上……人家最后去了楼上的一个房间。"
+    nvlsson "在和珍娜的派对上……我最后去了楼上的一个房间。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19640
 translate zh_Hans son_sissy_storyline_262_bbcdd561:
@@ -39202,13 +39202,13 @@ translate zh_Hans son_sissy_storyline_262_8e6739ac:
 translate zh_Hans son_sissy_storyline_262_04e3a0a8:
 
     # nvlsson "I’ll prove it"
-    nvlsson "人家会证明的。"
+    nvlsson "我会证明的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19660
 translate zh_Hans son_sissy_storyline_262_35757282:
 
     # nvlsson "{a=show:show_chat_media}{image=mikky_video_33_ns}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=mikky_video_33_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19664
 translate zh_Hans son_sissy_storyline_262_09315c53:
@@ -39220,7 +39220,7 @@ translate zh_Hans son_sissy_storyline_262_09315c53:
 translate zh_Hans son_sissy_storyline_262_d7c0e1bc:
 
     # nvlvalerie "😳"
-    nvlvalerie ""
+    nvlvalerie "😳|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19668
 translate zh_Hans son_sissy_storyline_262_ca65d72c:
@@ -39280,7 +39280,7 @@ translate zh_Hans son_sissy_storyline_262_95275825:
 translate zh_Hans son_sissy_storyline_262_921a4e96:
 
     # nvlsson "I feel like I’ve crossed another line… and I liked it"
-    nvlsson "人家感觉自己又跨越了一条界限……而且人家喜欢这种感觉呢。"
+    nvlsson "我感觉自己又跨越了一条界限……而且我喜欢这种感觉呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19688
 translate zh_Hans son_sissy_storyline_262_abe06fe2:
@@ -39312,49 +39312,49 @@ translate zh_Hans son_sissy_storyline_263_369a38e8:
 translate zh_Hans son_sissy_storyline_263_7f70a696:
 
     # nvlsson "It’s been a little while since we last saw each other…"
-    nvlsson "人家和大人上次见面，已经有一小段时间了呢……"
+    nvlsson "我和爸爸上次见面，已经有一小段时间了呢……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19731
 translate zh_Hans son_sissy_storyline_263_8b328e0e:
 
     # nvlsson "I miss you"
-    nvlsson "人家好想你呀。"
+    nvlsson "我好想你呀。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19733
 translate zh_Hans son_sissy_storyline_263_003fe42b:
 
     # nvlsson "Can we do something together soon?"
-    nvlsson "人家好想和大人快点一起做些什么呢？"
+    nvlsson "我好想和爸爸快点一起做些什么呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19735
 translate zh_Hans son_sissy_storyline_263_fe783823:
 
     # nvljohn "I miss you too, sweetheart"
-    nvljohn "大人也想你呢，甜心。"
+    nvljohn "我也想你呢，甜心。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19737
 translate zh_Hans son_sissy_storyline_263_3a17c1df:
 
     # nvljohn "What do you have in mind?"
-    nvljohn "你有什么想让大人做的吗？"
+    nvljohn "你有什么想让我做的吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19739
 translate zh_Hans son_sissy_storyline_263_aca4c65c:
 
     # nvlsson "Anything… I just want to be with you"
-    nvlsson "什么都好……人家只是想和大人在一起。"
+    nvlsson "什么都好……我只是想和爸爸在一起。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19741
 translate zh_Hans son_sissy_storyline_263_f3fa898a:
 
     # nvljohn "How about this time I come to your place?"
-    nvljohn "这次大人去你那里怎么样？"
+    nvljohn "这次我去你那里怎么样？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19743
 translate zh_Hans son_sissy_storyline_263_803309b0:
 
     # nvljohn "I’ll bring some snacks and we can watch something new"
-    nvljohn "大人会带些零食，我们可以看些新东西。"
+    nvljohn "我会带些零食，我们可以看些新东西。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19745
 translate zh_Hans son_sissy_storyline_263_e45ccb0f:
@@ -39366,25 +39366,25 @@ translate zh_Hans son_sissy_storyline_263_e45ccb0f:
 translate zh_Hans son_sissy_storyline_263_e4a99d2d:
 
     # nvlsson "That sounds perfect!"
-    nvlsson "那听起来简直是人家梦寐以求的呢！"
+    nvlsson "那听起来简直是我梦寐以求的呢！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19749
 translate zh_Hans son_sissy_storyline_263_ae5065cd:
 
     # nvlsson "Could you pick me up at work when I’m done?"
-    nvlsson "大人能来人家下班的地方接人家吗？"
+    nvlsson "爸爸能来我下班的地方接我吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19751
 translate zh_Hans son_sissy_storyline_263_4fd3a5e9:
 
     # nvlsson "Then we can head to my place together"
-    nvlsson "然后我们就可以一起去人家那里了。"
+    nvlsson "然后我们就可以一起去我那里了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19753
 translate zh_Hans son_sissy_storyline_263_f42453b3:
 
     # nvljohn "Of course I can"
-    nvljohn "你的好米基当然可以啦！"
+    nvljohn "当然可以。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19755
 translate zh_Hans son_sissy_storyline_263_e07153d3:
@@ -39396,19 +39396,19 @@ translate zh_Hans son_sissy_storyline_263_e07153d3:
 translate zh_Hans son_sissy_storyline_263_8c42c3c6:
 
     # nvlsson "Thank you 🥰"
-    nvlsson "谢谢大人~ 🥰"
+    nvlsson "谢谢爸爸~ 🥰"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19759
 translate zh_Hans son_sissy_storyline_263_8c53a902:
 
     # nvlsson "I can’t wait!"
-    nvlsson "人家已经等不及了呢！好想快点见到大人！"
+    nvlsson "我已经等不及了呢！好想快点见到爸爸！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19761
 translate zh_Hans son_sissy_storyline_263_0a7e7e19:
 
     # nvlsson "But I need to get back to work now"
-    nvlsson "可是人家现在得回去工作了啦~"
+    nvlsson "可是我现在得回去工作了啦~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19763
 translate zh_Hans son_sissy_storyline_263_95e87bbd:
@@ -39470,13 +39470,13 @@ translate zh_Hans son_sissy_storyline_264_8a2f27b8:
 translate zh_Hans son_sissy_storyline_264_7ec15d5e:
 
     # nvlsson "I’ve been addicted to Doritos lately"
-    nvlsson "人家最近超爱吃多力多滋的。"
+    nvlsson "我最近超爱吃多力多滋的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19816
 translate zh_Hans son_sissy_storyline_264_55a087dc:
 
     # nvlsson "Could you get me some?"
-    nvlsson "大人能给人家带一些吗？人家好想吃呢~"
+    nvlsson "爸爸能给我带一些吗？我好想吃呢~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19818
 translate zh_Hans son_sissy_storyline_264_d0ab30da:
@@ -39500,7 +39500,7 @@ translate zh_Hans son_sissy_storyline_264_de5bae6b:
 translate zh_Hans son_sissy_storyline_264_79aee144:
 
     # nvlsson "Women can’t live without chocolate"
-    nvlsson "女孩子家家，怎么能没有巧克力呢~ 人家好喜欢巧克力的味道呀！"
+    nvlsson "女孩子家家，怎么能没有巧克力呢~ 我好喜欢巧克力的味道呀！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19826
 translate zh_Hans son_sissy_storyline_264_310e3e3b:
@@ -39518,13 +39518,13 @@ translate zh_Hans son_sissy_storyline_264_e2db099e:
 translate zh_Hans son_sissy_storyline_264_de6acc79:
 
     # nvlsson "You’re the best ❤️"
-    nvlsson "大人最好了！❤️ 人家爱你~"
+    nvlsson "爸爸最好了！❤️ 我爱你~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19832
 translate zh_Hans son_sissy_storyline_264_7d0c2a24:
 
     # nvlsson "Thank youuu"
-    nvlsson "谢谢大人~"
+    nvlsson "谢谢爸爸~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19834
 translate zh_Hans son_sissy_storyline_264_6b9947dd:
@@ -39548,7 +39548,7 @@ translate zh_Hans son_sissy_storyline_264_508e4cc8:
 translate zh_Hans son_sissy_storyline_264_55b7dee8:
 
     # nvlsson "I’ll be waiting, all excited 🥰"
-    nvlsson "人家会乖乖等着，身子都酥麻了呢~ 好想快点融化在大人的怀里呀 🥰"
+    nvlsson "我会乖乖等着，身子都酥麻了呢~ 好想快点融化在爸爸的怀里呀 🥰"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19842
 translate zh_Hans son_sissy_storyline_264_eff5c07f:
@@ -39604,13 +39604,13 @@ translate zh_Hans son_sissy_storyline_265_c4f702f4:
 translate zh_Hans son_sissy_storyline_265_94a35716:
 
     # nvlsson "Not really. Why?"
-    nvlsson "不太忙呢。怎么啦？大人有什么吩咐吗？"
+    nvlsson "不太忙呢。怎么啦？爸爸有什么吩咐吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19902
 translate zh_Hans son_sissy_storyline_265_bcd2273d:
 
     # nvljenna "I want to introduce you to someone"
-    nvljenna "人家想给你介绍一个人"
+    nvljenna "我想给你介绍一个人"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19904
 translate zh_Hans son_sissy_storyline_265_717f79fe:
@@ -39634,7 +39634,7 @@ translate zh_Hans son_sissy_storyline_265_afea1c9d:
 translate zh_Hans son_sissy_storyline_265_2dc6bdc7:
 
     # nvlsson "😊"
-    nvlsson ""
+    nvlsson "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19912
 translate zh_Hans son_sissy_storyline_265_f7d164fd:
@@ -39646,7 +39646,7 @@ translate zh_Hans son_sissy_storyline_265_f7d164fd:
 translate zh_Hans son_sissy_storyline_265_3280b9e1:
 
     # nvlsson "What should I wear?"
-    nvlsson "人家该穿什么呢？大人喜欢人家穿什么呀？"
+    nvlsson "我该穿什么呢？爸爸喜欢我穿什么呀？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19916
 translate zh_Hans son_sissy_storyline_265_6ff93de6:
@@ -39708,7 +39708,7 @@ translate zh_Hans son_sissy_storyline_266_b9557f0e:
 translate zh_Hans son_sissy_storyline_266_d5c8eef8:
 
     # nvlsson "No, you're not"
-    nvlsson "没有呢，你没有打扰到人家啦。"
+    nvlsson "没有呢，你没有打扰到我啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19971
 translate zh_Hans son_sissy_storyline_266_e33f98c1:
@@ -39756,13 +39756,13 @@ translate zh_Hans son_sissy_storyline_266_0cf3fefd:
 translate zh_Hans son_sissy_storyline_266_263eaa48:
 
     # nvlsson "😘"
-    nvlsson "人家被夸得脸都红了呢~"
+    nvlsson "我被夸得脸都红了呢~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19987
 translate zh_Hans son_sissy_storyline_266_bec46d21:
 
     # nvlsson "That's really nice to hear"
-    nvlsson "能听到这些，人家真的好开心呀。"
+    nvlsson "能听到这些，我真的好开心呀。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:19989
 translate zh_Hans son_sissy_storyline_266_01ecd860:
@@ -39798,7 +39798,7 @@ translate zh_Hans son_sissy_storyline_266_6b048e02:
 translate zh_Hans son_sissy_storyline_266_ca21f6af:
 
     # nvlsson "It's okay, I get what you mean 😊"
-    nvlsson "没关系啦，人家明白你的意思的 😊"
+    nvlsson "没关系啦，我明白你的意思的 😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20001
 translate zh_Hans son_sissy_storyline_266_e33f98c1_1:
@@ -39858,7 +39858,7 @@ translate zh_Hans son_sissy_storyline_266_02c7b217:
 translate zh_Hans son_sissy_storyline_266_2dc6bdc7:
 
     # nvlsson "😊"
-    nvlsson ""
+    nvlsson "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20021
 translate zh_Hans son_sissy_storyline_266_7c3969df:
@@ -39870,7 +39870,7 @@ translate zh_Hans son_sissy_storyline_266_7c3969df:
 translate zh_Hans son_sissy_storyline_266_29156e6f:
 
     # nvlsson "Yeah. I'm already ready."
-    nvlsson "嗯。人家早就准备好了。"
+    nvlsson "嗯。我早就准备好了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20025
 translate zh_Hans son_sissy_storyline_266_559e1384:
@@ -39918,13 +39918,13 @@ translate zh_Hans son_sissy_storyline_266_83171acc:
 translate zh_Hans son_sissy_storyline_266_95f29355:
 
     # nvlsson "I'm all for it."
-    nvlsson "人家完全没问题！"
+    nvlsson "我完全没问题！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20041
 translate zh_Hans son_sissy_storyline_266_a9d62989:
 
     # nvlsson "I'd really love to spend time with you."
-    nvlsson "人家真的好想和你一起度过时光。"
+    nvlsson "我真的好想和你一起度过时光。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20043
 translate zh_Hans son_sissy_storyline_266_42545386:
@@ -39936,7 +39936,7 @@ translate zh_Hans son_sissy_storyline_266_42545386:
 translate zh_Hans son_sissy_storyline_266_057f327f:
 
     # nvlsson "I'll be waiting."
-    nvlsson "人家会乖乖等你的。"
+    nvlsson "我会乖乖等你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20047
 translate zh_Hans son_sissy_storyline_266_ed856610:
@@ -39960,7 +39960,7 @@ translate zh_Hans son_sissy_storyline_266_8657eb31:
 translate zh_Hans son_sissy_storyline_266_a041ca9b:
 
     # nvlsson "{a=show:show_chat_media}{image=son_pic_2}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=son_pic_2}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20059
 translate zh_Hans son_sissy_storyline_266_91fa5e74:
@@ -39990,7 +39990,7 @@ translate zh_Hans son_sissy_storyline_266_e49741a2:
 translate zh_Hans son_sissy_storyline_266_a449e553:
 
     # nvlsson "😉"
-    nvlsson ""
+    nvlsson "😉|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20083
 translate zh_Hans son_sissy_storyline_266_53c71d7c:
@@ -40022,7 +40022,7 @@ translate zh_Hans son_sissy_storyline_267_5911e8c1:
 translate zh_Hans son_sissy_storyline_267_4bef176e:
 
     # nvlsson "I'm great."
-    nvlsson "人家很好。"
+    nvlsson "我很好。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20112
 translate zh_Hans son_sissy_storyline_267_ebeb3b5f:
@@ -40052,7 +40052,7 @@ translate zh_Hans son_sissy_storyline_267_b018497d:
 translate zh_Hans son_sissy_storyline_267_52336409:
 
     # nvlsson "Oh, you missed me, Daddy? 😊"
-    nvlsson "哦，爸爸，你是想人家了吗？😊"
+    nvlsson "哦，爸爸，你是想我了吗？😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20122
 translate zh_Hans son_sissy_storyline_267_b8bf3a00:
@@ -40070,13 +40070,13 @@ translate zh_Hans son_sissy_storyline_267_9a1265fb:
 translate zh_Hans son_sissy_storyline_267_39ef994f:
 
     # nvlsson "How could I refuse such an offer?"
-    nvlsson "人家怎么能拒绝这样的邀请呢？"
+    nvlsson "我怎么能拒绝这样的邀请呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20128
 translate zh_Hans son_sissy_storyline_267_3b64cd69:
 
     # nvlsson "When do you want me to come?"
-    nvlsson "你想让人家什么时候过去呢？"
+    nvlsson "你想让我什么时候过去呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20130
 translate zh_Hans son_sissy_storyline_267_ceac6e84:
@@ -40094,7 +40094,7 @@ translate zh_Hans son_sissy_storyline_267_cb561b94:
 translate zh_Hans son_sissy_storyline_267_9976b6f0:
 
     # nvlsson "Should I prepare my arse?"
-    nvlsson "人家需要准备好屁股吗？"
+    nvlsson "我需要准备好屁股吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20136
 translate zh_Hans son_sissy_storyline_267_18a277ac:
@@ -40112,13 +40112,13 @@ translate zh_Hans son_sissy_storyline_267_4c0d0992:
 translate zh_Hans son_sissy_storyline_267_4be6d82f:
 
     # nvlsson "Okay, I get it."
-    nvlsson "好的，人家明白了。"
+    nvlsson "好的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20142
 translate zh_Hans son_sissy_storyline_267_ae66aead:
 
     # nvlsson "I'll be ready for your dick."
-    nvlsson "人家会为你的肉棒准备好的。"
+    nvlsson "我会为你的肉棒准备好的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20144
 translate zh_Hans son_sissy_storyline_267_a1aa7621:
@@ -40142,7 +40142,7 @@ translate zh_Hans son_sissy_storyline_267_9a1265fb_1:
 translate zh_Hans son_sissy_storyline_267_ecf8dbf2:
 
     # nvlsson "I want it too."
-    nvlsson "人家也想要。"
+    nvlsson "我也想要。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20152
 translate zh_Hans son_sissy_storyline_267_7bc3bc91:
@@ -40192,13 +40192,13 @@ translate zh_Hans son_sissy_storyline_268_9dca38a3:
     # nvl clear
     # nvlsson "That was incredible."
     nvl clear
-    nvlsson "那感觉真是太美妙了，人家都酥了呢。"
+    nvlsson "那感觉真是太美妙了，我都酥了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20201
 translate zh_Hans son_sissy_storyline_268_dd89641f:
 
     # nvlsson "It felt so good with you."
-    nvlsson "和你在一起，人家身子都软了，好舒服，好想融化在你的温度里。"
+    nvlsson "和你在一起，我身子都软了，好舒服，好想融化在你的温度里。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20203
 translate zh_Hans son_sissy_storyline_268_883c8998:
@@ -40210,37 +40210,37 @@ translate zh_Hans son_sissy_storyline_268_883c8998:
 translate zh_Hans son_sissy_storyline_268_669d98fe:
 
     # nvljohn "Last night was insanely good."
-    nvljohn "昨晚真是好得让人家魂儿都飞了呢，人家身子湿热得不行。"
+    nvljohn "昨晚真的太棒了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20207
 translate zh_Hans son_sissy_storyline_268_6fc3f866:
 
     # nvlsson "When I think about how you fucked me, I get such strange sensations in my ass..."
-    nvlsson "一想到你昨晚是怎样狠狠地疼爱人家的，人家的小屁股就泛起一阵阵奇怪的酥麻感……好想再被你填满。"
+    nvlsson "一想到你昨晚是怎样狠狠地疼爱我的，我的小屁股就泛起一阵阵奇怪的酥麻感……好想再被你填满。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20209
 translate zh_Hans son_sissy_storyline_268_e597dd51:
 
     # nvlsson "It tickles in my lower belly."
-    nvlsson "人家的小腹也跟着酥痒起来了呢，想要大人的疼爱。"
+    nvlsson "我的小腹也跟着酥痒起来了呢，想要爸爸的疼爱。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20211
 translate zh_Hans son_sissy_storyline_268_c966a8cf:
 
     # nvlsson "I want to do it again."
-    nvlsson "人家好想再来一次，好想被你狠狠地占有。"
+    nvlsson "我好想再来一次，好想被你狠狠地占有。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20213
 translate zh_Hans son_sissy_storyline_268_b79f8369:
 
     # nvlsson "I want you to put your dick in my ass again."
-    nvlsson "人家好想让你的大肉棒再狠狠地插进人家的小穴里，把人家的小屁股填得满满的。"
+    nvlsson "我好想让你的大肉棒再狠狠地插进我的小穴里，把我的小屁股填得满满的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20215
 translate zh_Hans son_sissy_storyline_268_f0247082:
 
     # nvljohn "Uuuh!"
-    nvljohn "嗯……啊！人家要……"
+    nvljohn "嗯……啊！我要……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20217
 translate zh_Hans son_sissy_storyline_268_24219e3f:
@@ -40258,13 +40258,13 @@ translate zh_Hans son_sissy_storyline_268_30ef8d13:
 translate zh_Hans son_sissy_storyline_268_85513fa4:
 
     # nvljohn "{a=show:show_chat_media}{image=mikky_video_34_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=mikky_video_34_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20229
 translate zh_Hans son_sissy_storyline_268_bdcd3c9e:
 
     # nvljohn "Maybe we can meet tonight?"
-    nvljohn "今晚人家能再见到你吗？人家好想你。"
+    nvljohn "也许我们今晚还能见面？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20231
 translate zh_Hans son_sissy_storyline_268_88a349c5:
@@ -40276,13 +40276,13 @@ translate zh_Hans son_sissy_storyline_268_88a349c5:
 translate zh_Hans son_sissy_storyline_268_a6929923:
 
     # nvlsson "Come."
-    nvlsson "你快来嘛！人家等不及了。"
+    nvlsson "你快来嘛！我等不及了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20235
 translate zh_Hans son_sissy_storyline_268_c9a225b1:
 
     # nvlsson "I'll be only happy."
-    nvlsson "人家会很开心的，能见到你就什么都值了。"
+    nvlsson "我会很开心的，能见到你就什么都值了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20237
 translate zh_Hans son_sissy_storyline_268_d592325e:
@@ -40294,13 +40294,13 @@ translate zh_Hans son_sissy_storyline_268_d592325e:
 translate zh_Hans son_sissy_storyline_268_5475eff1:
 
     # nvlsson "Perfect."
-    nvlsson "太完美了！人家爱你！"
+    nvlsson "太完美了！我爱你！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20241
 translate zh_Hans son_sissy_storyline_268_58cddd52:
 
     # nvlsson "Waiting for you ❤️"
-    nvlsson "人家等着你哦 ❤️ 你的好米基。"
+    nvlsson "我等着你哦 ❤️ 你的好米基。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20257
 translate zh_Hans son_sissy_storyline_268_53c71d7c:
@@ -40398,7 +40398,7 @@ translate zh_Hans son_sissy_storyline_269_ccb52566:
 translate zh_Hans son_sissy_storyline_269_27c108a5:
 
     # nvlsson "I’m not offended by you, Greg."
-    nvlsson "人家没有生你的气啦，格雷格。"
+    nvlsson "我没有生你的气啦，格雷格。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20308
 translate zh_Hans son_sissy_storyline_269_5bd31bb2:
@@ -40410,7 +40410,7 @@ translate zh_Hans son_sissy_storyline_269_5bd31bb2:
 translate zh_Hans son_sissy_storyline_269_aa2ddd47:
 
     # nvlsson "Yes, you behaved like an asshole, but I don’t know how I would’ve behaved in such a case."
-    nvlsson "是啊，你表现得像个混蛋，但人家也不知道在这种情况下自己会怎么做呢。"
+    nvlsson "是啊，你表现得像个混蛋，但我也不知道在这种情况下自己会怎么做呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20312
 translate zh_Hans son_sissy_storyline_269_8091dd09:
@@ -40422,7 +40422,7 @@ translate zh_Hans son_sissy_storyline_269_8091dd09:
 translate zh_Hans son_sissy_storyline_269_97d9108d:
 
     # nvlsson "Maybe I would also think only about sex."
-    nvlsson "也许人家也会只想着做爱吧，毕竟那种感觉……"
+    nvlsson "也许我也会只想着做爱吧，毕竟那种感觉……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20316
 translate zh_Hans son_sissy_storyline_269_d88e80bf:
@@ -40440,7 +40440,7 @@ translate zh_Hans son_sissy_storyline_269_0efb06b7:
 translate zh_Hans son_sissy_storyline_269_b468f117:
 
     # nvlsson "No, I’m not."
-    nvlsson "不，人家没有啦。"
+    nvlsson "不，我没有啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20322
 translate zh_Hans son_sissy_storyline_269_63e0baf1:
@@ -40482,7 +40482,7 @@ translate zh_Hans son_sissy_storyline_269_bb26d8b9:
 translate zh_Hans son_sissy_storyline_269_295687c8:
 
     # nvlgreg "😊"
-    nvlgreg ""
+    nvlgreg "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20336
 translate zh_Hans son_sissy_storyline_269_642c26c0:
@@ -40494,19 +40494,19 @@ translate zh_Hans son_sissy_storyline_269_642c26c0:
 translate zh_Hans son_sissy_storyline_269_8a8b959b:
 
     # nvlsson "No, I won’t."
-    nvlsson "不，人家不会介意的。"
+    nvlsson "不，我不会介意的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20340
 translate zh_Hans son_sissy_storyline_269_c87b10de:
 
     # nvlsson "You can text me if you want 😊"
-    nvlsson "你想人家了，随时都可以给人家发消息哦😊"
+    nvlsson "你想我了，随时都可以给我发消息哦😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20342
 translate zh_Hans son_sissy_storyline_269_43a6fc05:
 
     # nvlgreg "You text me too if you get bored."
-    nvlgreg "你要是觉得无聊了，也可以给人家发消息嘛。"
+    nvlgreg "你要是觉得无聊了，也可以给我发消息嘛。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20344
 translate zh_Hans son_sissy_storyline_269_d002e90d:
@@ -40518,7 +40518,7 @@ translate zh_Hans son_sissy_storyline_269_d002e90d:
 translate zh_Hans son_sissy_storyline_269_4fd4a496:
 
     # nvlgreg "I don’t know what else to write."
-    nvlgreg "人家也不知道该写些什么了啦。"
+    nvlgreg "我也不知道该写些什么了啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20348
 translate zh_Hans son_sissy_storyline_269_97ac2f55:
@@ -40530,13 +40530,13 @@ translate zh_Hans son_sissy_storyline_269_97ac2f55:
 translate zh_Hans son_sissy_storyline_269_6f24c2f0:
 
     # nvlgreg "And also I’ve got tons of things to do."
-    nvlgreg "而且人家还有好多好多事情要做呢。"
+    nvlgreg "而且我还有好多好多事情要做呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20352
 translate zh_Hans son_sissy_storyline_269_5bdf7f15:
 
     # nvlsson "We’ll meet when you’re freer 😉"
-    nvlsson "等你有空了，人家再和你见面嘛😉"
+    nvlsson "等你有空了，我再和你见面嘛😉"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20354
 translate zh_Hans son_sissy_storyline_269_98b702c1:
@@ -40548,7 +40548,7 @@ translate zh_Hans son_sissy_storyline_269_98b702c1:
 translate zh_Hans son_sissy_storyline_269_feb34a9b:
 
     # nvlgreg "I’ll message you then."
-    nvlgreg "那人家就给你发消息咯。"
+    nvlgreg "那我就给你发消息咯。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20358
 translate zh_Hans son_sissy_storyline_269_9cc67dbd:
@@ -40580,25 +40580,25 @@ translate zh_Hans son_sissy_storyline_270_0a0cf96a:
 translate zh_Hans son_sissy_storyline_270_93aec578:
 
     # nvlsson "Yes, I’m at work."
-    nvlsson "嗯，人家在上班呢。"
+    nvlsson "嗯，我在上班呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20401
 translate zh_Hans son_sissy_storyline_270_27eeb5e1:
 
     # nvlsson "I’m not doing anything tonight. I’m free."
-    nvlsson "人家今晚什么事都没有，空闲得很呢。"
+    nvlsson "我今晚什么事都没有，空闲得很呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20403
 translate zh_Hans son_sissy_storyline_270_c1eafee6:
 
     # nvlsson "Do you want to drag me somewhere again? 😊"
-    nvlsson "你又想把人家带到哪里去玩呀？😊"
+    nvlsson "你又想把我带到哪里去玩呀？😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20405
 translate zh_Hans son_sissy_storyline_270_4f860c95:
 
     # nvljenna "I want to go shopping."
-    nvljenna "人家想去逛街。"
+    nvljenna "我想去逛街。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20407
 translate zh_Hans son_sissy_storyline_270_179f64e5:
@@ -40610,7 +40610,7 @@ translate zh_Hans son_sissy_storyline_270_179f64e5:
 translate zh_Hans son_sissy_storyline_270_ccbf1455:
 
     # nvljenna "Will you come with me?"
-    nvljenna "你愿意陪人家一起去吗？"
+    nvljenna "你愿意陪我一起去吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20411
 translate zh_Hans son_sissy_storyline_270_34837630:
@@ -40622,7 +40622,7 @@ translate zh_Hans son_sissy_storyline_270_34837630:
 translate zh_Hans son_sissy_storyline_270_9f35f2d8:
 
     # nvljenna "Then I’ll pick you up at 8"
-    nvljenna "那人家八点去接你哦。"
+    nvljenna "那我八点去接你哦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20415
 translate zh_Hans son_sissy_storyline_270_eeb61fd7:
@@ -40634,7 +40634,7 @@ translate zh_Hans son_sissy_storyline_270_eeb61fd7:
 translate zh_Hans son_sissy_storyline_270_1c0e5140:
 
     # nvlsson "I’ll be waiting."
-    nvlsson "人家会乖乖等你的。"
+    nvlsson "我会乖乖等你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20433
 translate zh_Hans son_sissy_storyline_270_53c71d7c:
@@ -40660,7 +40660,7 @@ translate zh_Hans son_sissy_storyline_271_7e992743:
 translate zh_Hans son_sissy_storyline_271_eb2efc0c:
 
     # nvlsson "Though I thought we were going to buy clothes, not party in a bar."
-    nvlsson "不过人家还以为是要去买衣服，结果却是在酒吧里玩疯了呢。"
+    nvlsson "不过我还以为是要去买衣服，结果却是在酒吧里玩疯了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20460
 translate zh_Hans son_sissy_storyline_271_968513f0:
@@ -40672,7 +40672,7 @@ translate zh_Hans son_sissy_storyline_271_968513f0:
 translate zh_Hans son_sissy_storyline_271_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20464
 translate zh_Hans son_sissy_storyline_271_f33275d8:
@@ -40696,7 +40696,7 @@ translate zh_Hans son_sissy_storyline_271_ea3d45f7:
 translate zh_Hans son_sissy_storyline_271_30c4e177:
 
     # nvlsson "I liked it 😊"
-    nvlsson "人家喜欢呀😊"
+    nvlsson "我喜欢呀😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20472
 translate zh_Hans son_sissy_storyline_271_922cfd1c:
@@ -40708,13 +40708,13 @@ translate zh_Hans son_sissy_storyline_271_922cfd1c:
 translate zh_Hans son_sissy_storyline_271_d55ea2a7:
 
     # nvljenna "Oh, that’s my specialty."
-    nvljenna "哦，那可是人家的拿手好戏呢。"
+    nvljenna "哦，那可是我的拿手好戏呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20476
 translate zh_Hans son_sissy_storyline_271_5ce220e8:
 
     # nvlsson "Yeah, I’ve noticed."
-    nvlsson "是呀，人家已经注意到了。"
+    nvlsson "是呀，我已经注意到了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20478
 translate zh_Hans son_sissy_storyline_271_2d9fca33:
@@ -40744,7 +40744,7 @@ translate zh_Hans son_sissy_storyline_271_db085846:
 translate zh_Hans son_sissy_storyline_271_6312b3e5:
 
     # nvljenna "Decided to blow one handsome guy."
-    nvljenna "人家决定去给一个帅哥口交了呢。"
+    nvljenna "我决定去给一个帅哥口交了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20488
 translate zh_Hans son_sissy_storyline_271_0092adcf:
@@ -40762,7 +40762,7 @@ translate zh_Hans son_sissy_storyline_271_9c9974ed:
 translate zh_Hans son_sissy_storyline_271_22fdf781:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_pic_861}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_pic_861}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20500
 translate zh_Hans son_sissy_storyline_271_082df36b:
@@ -40780,7 +40780,7 @@ translate zh_Hans son_sissy_storyline_271_617cb85c:
 translate zh_Hans son_sissy_storyline_271_1d550b79:
 
     # nvljenna "By the way, I forgot to ask you yesterday."
-    nvljenna "对了，人家昨天忘记问你了。"
+    nvljenna "对了，我昨天忘记问你了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20506
 translate zh_Hans son_sissy_storyline_271_967f3580:
@@ -40792,7 +40792,7 @@ translate zh_Hans son_sissy_storyline_271_967f3580:
 translate zh_Hans son_sissy_storyline_271_858443fd:
 
     # nvlsson "Weeell. It’s good, I think."
-    nvlsson "嗯……挺好的吧，人家觉得。"
+    nvlsson "嗯……挺好的吧，我觉得。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20510
 translate zh_Hans son_sissy_storyline_271_63f836e1:
@@ -40822,7 +40822,7 @@ translate zh_Hans son_sissy_storyline_271_d1952a3d:
 translate zh_Hans son_sissy_storyline_271_c9fd1f79:
 
     # nvlsson "I still feel kinda weird when it happens."
-    nvlsson "每次发生的时候，人家还是会觉得有点怪怪的。"
+    nvlsson "每次发生的时候，我还是会觉得有点怪怪的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20520
 translate zh_Hans son_sissy_storyline_271_15f9f592:
@@ -40840,19 +40840,19 @@ translate zh_Hans son_sissy_storyline_271_0aa52d51:
 translate zh_Hans son_sissy_storyline_271_61baacf2:
 
     # nvlsson "I don’t know."
-    nvlsson "人家……人家也不知道该怎么说呢。"
+    nvlsson "我……我也不知道该怎么说呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20526
 translate zh_Hans son_sissy_storyline_271_3e969e2a:
 
     # nvlsson "It’s just… when I realise my own father is fucking me…"
-    nvlsson "只是……当人家意识到，是自己的爸爸在疼爱人家的时候……"
+    nvlsson "只是……当我意识到，是自己的爸爸在疼爱我的时候……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20528
 translate zh_Hans son_sissy_storyline_271_a4da0893:
 
     # nvlsson "It turns me on like crazy, but also scares me at the same time."
-    nvlsson "人家身子湿热得不行，酥麻得好想融化，可心里又有点怕怕的呢。"
+    nvlsson "我身子湿热得不行，酥麻得好想融化，可心里又有点怕怕的呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20530
 translate zh_Hans son_sissy_storyline_271_132cc50f:
@@ -40900,7 +40900,7 @@ translate zh_Hans son_sissy_storyline_271_43d7fd11:
 translate zh_Hans son_sissy_storyline_271_9fc63d62:
 
     # nvlsson "Yeah, I’m glad too."
-    nvlsson "嗯，人家也觉得好开心呢。"
+    nvlsson "嗯，我也觉得好开心呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20546
 translate zh_Hans son_sissy_storyline_271_13df0890:
@@ -40918,7 +40918,7 @@ translate zh_Hans son_sissy_storyline_271_5923ddec:
 translate zh_Hans son_sissy_storyline_271_db2ad33c:
 
     # nvlsson "Hehe. I’m not planning to stop."
-    nvlsson "嘿嘿。人家才不打算停下来呢，要一直被爸爸疼爱呢。"
+    nvlsson "嘿嘿。我才不打算停下来呢，要一直被爸爸疼爱呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20552
 translate zh_Hans son_sissy_storyline_271_d73dc35b:
@@ -41070,7 +41070,7 @@ translate zh_Hans son_sissy_storyline_272_e90be548:
 translate zh_Hans son_sissy_storyline_272_293bb6bb:
 
     # nvlsson "But I’m not sure yet if I’ll have time for a club."
-    nvlsson "不过人家还不确定有没有时间去俱乐部呢。"
+    nvlsson "不过我还不确定有没有时间去俱乐部呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20635
 translate zh_Hans son_sissy_storyline_272_638cf337:
@@ -41088,7 +41088,7 @@ translate zh_Hans son_sissy_storyline_272_a93f9e63:
 translate zh_Hans son_sissy_storyline_272_547c9575:
 
     # nvlvalerie "{a=show:show_chat_media}{image=valerie_pic_16}"
-    nvlvalerie ""
+    nvlvalerie "{a=show:show_chat_media}{image=valerie_pic_16}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20647
 translate zh_Hans son_sissy_storyline_272_3a8c7b29:
@@ -41100,7 +41100,7 @@ translate zh_Hans son_sissy_storyline_272_3a8c7b29:
 translate zh_Hans son_sissy_storyline_272_cadba727:
 
     # nvlsson "Okay, I’ll text you closer to the weekend."
-    nvlsson "好哒，人家周末快到的时候再发消息给你吧。"
+    nvlsson "好哒，我周末快到的时候再发消息给你吧。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20651
 translate zh_Hans son_sissy_storyline_272_a050f4db:
@@ -41168,7 +41168,7 @@ translate zh_Hans son_sissy_storyline_274_76b2fe88:
 translate zh_Hans son_sissy_storyline_274_a9cd4c42:
 
     # nvljim "{a=show:show_chat_media}{image=mikky_pic_74}"
-    nvljim ""
+    nvljim "{a=show:show_chat_media}{image=mikky_pic_74}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20741
 translate zh_Hans son_sissy_storyline_274_7e5c9a7f:
@@ -41186,19 +41186,19 @@ translate zh_Hans son_sissy_storyline_274_b9454d54:
 translate zh_Hans son_sissy_storyline_274_d0f29c73:
 
     # nvlsson "As you say, Jim."
-    nvlsson "吉姆说什么，人家都听你的，好想被你疼爱呢。"
+    nvlsson "吉姆说什么，我都听你的，好想被你疼爱呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20747
 translate zh_Hans son_sissy_storyline_274_31cb524e:
 
     # nvlsson "What else can I say?"
-    nvlsson "人家还能说什么呢？"
+    nvlsson "我还能说什么呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20749
 translate zh_Hans son_sissy_storyline_274_5061e3aa:
 
     # nvljim "Oh, come on."
-    nvljim "哎呀，你就别逗人家了嘛。"
+    nvljim "哎呀，你就别逗我了嘛。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20751
 translate zh_Hans son_sissy_storyline_274_eea0c0e1:
@@ -41222,7 +41222,7 @@ translate zh_Hans son_sissy_storyline_274_2a00fca5:
 translate zh_Hans son_sissy_storyline_274_9fc3d0b4:
 
     # nvlsson "Maybe I need the money?"
-    nvlsson "也许……人家只是需要钱呢？"
+    nvlsson "也许……我只是需要钱呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20759
 translate zh_Hans son_sissy_storyline_274_d7461fc6:
@@ -41314,7 +41314,7 @@ translate zh_Hans son_sissy_storyline_275_b251f18d:
 translate zh_Hans son_sissy_storyline_275_1ccfc097:
 
     # nvlsson "Then I’d better not go."
-    nvlsson "那人家还是别去了吧。"
+    nvlsson "那我还是别去了吧。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20820
 translate zh_Hans son_sissy_storyline_275_12f4e7df:
@@ -41326,13 +41326,13 @@ translate zh_Hans son_sissy_storyline_275_12f4e7df:
 translate zh_Hans son_sissy_storyline_275_61c52594:
 
     # nvlsson "I don’t think anything good will come out of it."
-    nvlsson "人家觉得，去了也不会有什么好事发生。"
+    nvlsson "我觉得，去了也不会有什么好事发生。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20824
 translate zh_Hans son_sissy_storyline_275_6810b8fd:
 
     # nvlsson "When everyone sees me the way I am now..."
-    nvlsson "当大家看到人家现在这副样子……"
+    nvlsson "当大家看到我现在这副样子……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20826
 translate zh_Hans son_sissy_storyline_275_25e65e5d:
@@ -41344,13 +41344,13 @@ translate zh_Hans son_sissy_storyline_275_25e65e5d:
 translate zh_Hans son_sissy_storyline_275_c6566bfb:
 
     # nvlsson "They’ll give me weird looks."
-    nvlsson "他们会用奇怪的眼神看人家的。"
+    nvlsson "他们会用奇怪的眼神看我的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20830
 translate zh_Hans son_sissy_storyline_275_7f3462d1:
 
     # nvlsson "I don’t want that."
-    nvlsson "人家不想要那样。"
+    nvlsson "我不想要那样。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20832
 translate zh_Hans son_sissy_storyline_275_970e456f:
@@ -41362,7 +41362,7 @@ translate zh_Hans son_sissy_storyline_275_970e456f:
 translate zh_Hans son_sissy_storyline_275_b29c15e0:
 
     # nvlsson "Yeah. I’m sure."
-    nvlsson "嗯。人家很确定。"
+    nvlsson "嗯。我很确定。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20836
 translate zh_Hans son_sissy_storyline_275_da5bf2b9:
@@ -41386,7 +41386,7 @@ translate zh_Hans son_sissy_storyline_275_4a599159:
 translate zh_Hans son_sissy_storyline_275_cc159d5d:
 
     # nvlsson "Okay, I’ll think about it."
-    nvlsson "好吧，人家会考虑的。"
+    nvlsson "好吧，我会考虑的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20844
 translate zh_Hans son_sissy_storyline_275_134f5a57:
@@ -41418,7 +41418,7 @@ translate zh_Hans son_sissy_storyline_276_02052fea:
 translate zh_Hans son_sissy_storyline_276_9fe2b6b7:
 
     # nvlkanye "It’s me again."
-    nvlkanye "是人家啦。"
+    nvlkanye "是我啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20885
 translate zh_Hans son_sissy_storyline_276_554b7f5a:
@@ -41442,19 +41442,19 @@ translate zh_Hans son_sissy_storyline_276_c7a721f3:
 translate zh_Hans son_sissy_storyline_276_a050ee83:
 
     # nvlkanye "Nah, I haven’t gone anywhere."
-    nvlkanye "才没有呢，人家哪儿也没去。"
+    nvlkanye "才没有呢，我哪儿也没去。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20893
 translate zh_Hans son_sissy_storyline_276_0c7bc8a1:
 
     # nvlkanye "Just had a lot of work. Only just got back."
-    nvlkanye "只是工作有点多啦。人家也是刚回来。"
+    nvlkanye "只是工作有点多啦。我也是刚回来。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20895
 translate zh_Hans son_sissy_storyline_276_af92dadb:
 
     # nvlsson "I see 😊"
-    nvlsson "人家知道了呢~"
+    nvlsson "我知道了呢~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20897
 translate zh_Hans son_sissy_storyline_276_aa93446e:
@@ -41484,13 +41484,13 @@ translate zh_Hans son_sissy_storyline_276_3e7edaf2:
 translate zh_Hans son_sissy_storyline_276_ee6c4002:
 
     # nvlsson "No, no plans."
-    nvlsson "没有，人家没有安排。"
+    nvlsson "没有，我没有安排。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20907
 translate zh_Hans son_sissy_storyline_276_f39e0254:
 
     # nvlsson "We can meet 😊"
-    nvlsson "人家可以和你见面哦 😊"
+    nvlsson "我可以和你见面哦 😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20909
 translate zh_Hans son_sissy_storyline_276_c5c30c10:
@@ -41508,7 +41508,7 @@ translate zh_Hans son_sissy_storyline_276_8c4841fb:
 translate zh_Hans son_sissy_storyline_276_c9a0f692:
 
     # nvlsson "I’ll be free at 8."
-    nvlsson "人家八点就空下来了。"
+    nvlsson "我八点就空下来了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20915
 translate zh_Hans son_sissy_storyline_276_4f1e4eaa:
@@ -41540,7 +41540,7 @@ translate zh_Hans son_sissy_storyline_277_3402c1e1:
 translate zh_Hans son_sissy_storyline_277_9cf2a35d:
 
     # nvlsson "Sorry, I was just so hungry..."
-    nvlsson "对不起嘛，人家当时就是太饿了……"
+    nvlsson "对不起嘛，我当时就是太饿了……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20958
 translate zh_Hans son_sissy_storyline_277_9679de68:
@@ -41558,7 +41558,7 @@ translate zh_Hans son_sissy_storyline_277_9a7332a3:
 translate zh_Hans son_sissy_storyline_277_548c7658:
 
     # nvlsson "Couple days without sex."
-    nvlsson "人家好几天没做爱了。"
+    nvlsson "我好几天没做爱了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20964
 translate zh_Hans son_sissy_storyline_277_834d7ad7:
@@ -41576,13 +41576,13 @@ translate zh_Hans son_sissy_storyline_277_7f4f814b:
 translate zh_Hans son_sissy_storyline_277_f71153ba:
 
     # nvlsson "I love it."
-    nvlsson "人家好喜欢呢。"
+    nvlsson "我好喜欢呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20970
 translate zh_Hans son_sissy_storyline_277_8d439b7a:
 
     # nvlsson "You can’t even imagine how much I enjoy making someone feel good with my mouth."
-    nvlsson "你根本无法想象，人家用这张小嘴儿伺候别人时，心里有多么欢愉呢。"
+    nvlsson "你根本无法想象，我用这张小嘴儿伺候别人时，心里有多么欢愉呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20972
 translate zh_Hans son_sissy_storyline_277_9455c69c:
@@ -41594,7 +41594,7 @@ translate zh_Hans son_sissy_storyline_277_9455c69c:
 translate zh_Hans son_sissy_storyline_277_2ad7152c:
 
     # nvlkanye "{a=show:show_chat_media}{image=mikky_video_35_ns}"
-    nvlkanye ""
+    nvlkanye "{a=show:show_chat_media}{image=mikky_video_35_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20982
 translate zh_Hans son_sissy_storyline_277_c9515f26:
@@ -41618,7 +41618,7 @@ translate zh_Hans son_sissy_storyline_277_d607d15b:
 translate zh_Hans son_sissy_storyline_277_d5e820d8:
 
     # nvlkanye "Well, that urge to suck cock. I don’t know how else to put it."
-    nvlkanye "嗯……就是那种，好想含弄的冲动啦。人家也不知道该怎么形容才好。"
+    nvlkanye "嗯……就是那种，好想含弄的冲动啦。我也不知道该怎么形容才好。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:20990
 translate zh_Hans son_sissy_storyline_277_c8f80917:
@@ -41654,13 +41654,13 @@ translate zh_Hans son_sissy_storyline_277_c15283aa:
 translate zh_Hans son_sissy_storyline_277_2164c7d0:
 
     # nvlsson "I don’t know. I've never tried that."
-    nvlsson "人家不知道呢。人家从来没试过那个。"
+    nvlsson "我不知道呢。我从来没试过那个。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21002
 translate zh_Hans son_sissy_storyline_277_e115fb64:
 
     # nvlsson "Not really feeling like it, to be honest."
-    nvlsson "说实话，人家不太想尝试呢。"
+    nvlsson "说实话，我不太想尝试呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21004
 translate zh_Hans son_sissy_storyline_277_79a8f069:
@@ -41720,7 +41720,7 @@ translate zh_Hans son_sissy_storyline_277_ddf2c9e7:
 translate zh_Hans son_sissy_storyline_277_a6a2794d:
 
     # nvlsson "Alright, then I’ll wait for your message."
-    nvlsson "好哒，那人家就等着你的消息啦。"
+    nvlsson "好哒，那我就等着你的消息啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21024
 translate zh_Hans son_sissy_storyline_277_fdcf9513:
@@ -41732,7 +41732,7 @@ translate zh_Hans son_sissy_storyline_277_fdcf9513:
 translate zh_Hans son_sissy_storyline_277_a449e553:
 
     # nvlsson "😉"
-    nvlsson ""
+    nvlsson "😉|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21042
 translate zh_Hans son_sissy_storyline_277_53c71d7c:
@@ -41746,7 +41746,7 @@ translate zh_Hans son_sissy_storyline_278_45779fbb:
     # nvl clear
     # nvlsson "I gave Kanye a blowjob."
     nvl clear
-    nvlsson "人家给坎耶含弄了呢。"
+    nvlsson "我给坎耶含弄了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21065
 translate zh_Hans son_sissy_storyline_278_1f9a3558:
@@ -41770,7 +41770,7 @@ translate zh_Hans son_sissy_storyline_278_54a37187:
 translate zh_Hans son_sissy_storyline_278_8b9883ff:
 
     # nvlsson "Just couldn’t resist. Haha."
-    nvlsson "人家就是忍不住嘛。哈哈。"
+    nvlsson "我就是忍不住嘛。哈哈。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21073
 translate zh_Hans son_sissy_storyline_278_a5b1d091:
@@ -41788,7 +41788,7 @@ translate zh_Hans son_sissy_storyline_278_b36c7589:
 translate zh_Hans son_sissy_storyline_278_9620b87c:
 
     # nvlsson "Yeah, I really liked it."
-    nvlsson "嗯，人家真的好喜欢呢。"
+    nvlsson "嗯，我真的好喜欢呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21079
 translate zh_Hans son_sissy_storyline_278_a05c4983:
@@ -41812,7 +41812,7 @@ translate zh_Hans son_sissy_storyline_278_a5a98826:
 translate zh_Hans son_sissy_storyline_278_ca978d18:
 
     # nvlsson "He suggested we go for a walk after work. And after the walk, while driving me home, I blew him."
-    nvlsson "他建议我们下班后去散步。散完步，他送人家回家的时候，人家就在车里给他含弄了。"
+    nvlsson "他建议我们下班后去散步。散完步，他送我回家的时候，我就在车里给他含弄了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21087
 translate zh_Hans son_sissy_storyline_278_48846609:
@@ -41866,7 +41866,7 @@ translate zh_Hans son_sissy_storyline_278_41ecb223:
 translate zh_Hans son_sissy_storyline_278_c77c4b6e:
 
     # nvlsson "No, we haven’t had sex yet."
-    nvlsson "没有呢，人家还没和他发生关系。"
+    nvlsson "没有呢，我还没和他发生关系。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21105
 translate zh_Hans son_sissy_storyline_278_413b9116:
@@ -41884,7 +41884,7 @@ translate zh_Hans son_sissy_storyline_278_75adb810:
 translate zh_Hans son_sissy_storyline_278_300f60fa:
 
     # nvlsson "I’d let him fuck me."
-    nvlsson "人家好想让他疼爱人家呢。"
+    nvlsson "我好想让他疼爱我呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21111
 translate zh_Hans son_sissy_storyline_278_a0c9f743:
@@ -41914,7 +41914,7 @@ translate zh_Hans son_sissy_storyline_278_eccba78d:
 translate zh_Hans son_sissy_storyline_278_bd55dd28:
 
     # nvlsson "You think I should do that?"
-    nvlsson "你觉得人家应该这么做吗？"
+    nvlsson "你觉得我应该这么做吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21121
 translate zh_Hans son_sissy_storyline_278_3da1de17:
@@ -41938,7 +41938,7 @@ translate zh_Hans son_sissy_storyline_278_23b13f29:
 translate zh_Hans son_sissy_storyline_278_39fcef2c:
 
     # nvlsson "No, I don’t."
-    nvlsson "不，人家当然不希望。"
+    nvlsson "不，我当然不希望。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21129
 translate zh_Hans son_sissy_storyline_278_cd2a259b:
@@ -41956,7 +41956,7 @@ translate zh_Hans son_sissy_storyline_278_db085846:
 translate zh_Hans son_sissy_storyline_278_b3218025:
 
     # nvlsson "Honestly, I’ve been so horny lately."
-    nvlsson "说真的，人家最近身子好湿热，总是想要……"
+    nvlsson "说真的，我最近身子好湿热，总是想要……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21135
 translate zh_Hans son_sissy_storyline_278_331fb9fc:
@@ -41980,7 +41980,7 @@ translate zh_Hans son_sissy_storyline_278_85c3d121:
 translate zh_Hans son_sissy_storyline_278_81363444:
 
     # nvljenna "I’ve lived like that my whole life, haha."
-    nvljenna "人家这辈子都是这么过来的，呵呵。"
+    nvljenna "我这辈子都是这么过来的，呵呵。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21143
 translate zh_Hans son_sissy_storyline_278_44cde265:
@@ -41998,7 +41998,7 @@ translate zh_Hans son_sissy_storyline_278_eb6b004f:
 translate zh_Hans son_sissy_storyline_278_b93dd313:
 
     # nvljenna "I want to fuck all the time."
-    nvljenna "人家无时无刻都好想被你狠狠疼爱。"
+    nvljenna "我无时无刻都好想被你狠狠疼爱。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21149
 translate zh_Hans son_sissy_storyline_278_dcf89bc6:
@@ -42028,7 +42028,7 @@ translate zh_Hans son_sissy_storyline_278_57c32f02:
 translate zh_Hans son_sissy_storyline_278_bcd73eb2:
 
     # nvlsson "Alright, I get it."
-    nvlsson "好吧，人家明白了。"
+    nvlsson "好吧，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21159
 translate zh_Hans son_sissy_storyline_278_eabea355:
@@ -42058,7 +42058,7 @@ translate zh_Hans son_sissy_storyline_278_8400fb69:
 translate zh_Hans son_sissy_storyline_278_fe1f5b9c:
 
     # nvlsson "Hehe. I’ll try."
-    nvlsson "呵呵。人家会努力的。"
+    nvlsson "呵呵。我会努力的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21183
 translate zh_Hans son_sissy_storyline_278_53c71d7c:
@@ -42078,7 +42078,7 @@ translate zh_Hans son_sissy_storyline_279_79230ec5:
 translate zh_Hans son_sissy_storyline_279_f68b1a06:
 
     # nvlsson "Am I bothering you?"
-    nvlsson "人家是不是打扰到你了？"
+    nvlsson "我是不是打扰到你了？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21208
 translate zh_Hans son_sissy_storyline_279_c3a1f5ee:
@@ -42108,7 +42108,7 @@ translate zh_Hans son_sissy_storyline_279_6a0e5168:
 translate zh_Hans son_sissy_storyline_279_84d73a3e:
 
     # nvlsson "I missed you and wanna come over 🙈👀"
-    nvlsson "人家好想你，想过来找你玩儿 🙈👀"
+    nvlsson "我好想你，想过来找你玩儿 🙈👀"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21218
 translate zh_Hans son_sissy_storyline_279_a1595d62:
@@ -42126,19 +42126,19 @@ translate zh_Hans son_sissy_storyline_279_23c66285:
 translate zh_Hans son_sissy_storyline_279_4f9983b6:
 
     # nvlsson "Then I’ll be there at 9."
-    nvlsson "那人家九点到你那儿。"
+    nvlsson "那我九点到你那儿。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21228
 translate zh_Hans son_sissy_storyline_279_0327d7cb:
 
     # nvlsson "{a=show:show_chat_media}{image=mikky_pic_75}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=mikky_pic_75}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21232
 translate zh_Hans son_sissy_storyline_279_51ea3405:
 
     # nvlsson "Fully ready!"
-    nvlsson "人家已经完全准备好了！"
+    nvlsson "我已经完全准备好了！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21234
 translate zh_Hans son_sissy_storyline_279_722834d0:
@@ -42150,7 +42150,7 @@ translate zh_Hans son_sissy_storyline_279_722834d0:
 translate zh_Hans son_sissy_storyline_279_9dee7480:
 
     # nvljohn "{a=show:show_chat_media}{image=mc_pic_77}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=mc_pic_77}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21244
 translate zh_Hans son_sissy_storyline_279_f0e4e53e:
@@ -42162,7 +42162,7 @@ translate zh_Hans son_sissy_storyline_279_f0e4e53e:
 translate zh_Hans son_sissy_storyline_279_e051ce62:
 
     # nvlsson "😍"
-    nvlsson ""
+    nvlsson "😍|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21262
 translate zh_Hans son_sissy_storyline_279_53c71d7c:
@@ -42176,13 +42176,13 @@ translate zh_Hans son_sissy_storyline_280_90b30c57:
     # nvl clear
     # nvlsson "I’m coming over again today, daddy."
     nvl clear
-    nvlsson "爸爸，人家今天又要过来找你了。"
+    nvlsson "爸爸，我今天又要过来找你了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21285
 translate zh_Hans son_sissy_storyline_280_c355f02f:
 
     # nvlsson "I want you to fuck me again."
-    nvlsson "人家好想你再狠狠地疼爱人家一次。"
+    nvlsson "我好想你再狠狠地疼爱我一次。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21287
 translate zh_Hans son_sissy_storyline_280_290a3722:
@@ -42200,13 +42200,13 @@ translate zh_Hans son_sissy_storyline_280_426b32ca:
 translate zh_Hans son_sissy_storyline_280_f09495f1:
 
     # nvlsson "I want more."
-    nvlsson "人家还想要更多。"
+    nvlsson "我还想要更多。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21293
 translate zh_Hans son_sissy_storyline_280_56122de6:
 
     # nvlsson "It’s never enough with you."
-    nvlsson "和你在一起，人家永远都觉得不够。"
+    nvlsson "和你在一起，我永远都觉得不够。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21295
 translate zh_Hans son_sissy_storyline_280_01bb2499:
@@ -42224,7 +42224,7 @@ translate zh_Hans son_sissy_storyline_280_9a3f9b24:
 translate zh_Hans son_sissy_storyline_280_f7362e90:
 
     # nvlsson "I can be at your place by 8."
-    nvlsson "人家八点就能到你那儿了。"
+    nvlsson "我八点就能到你那儿了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21301
 translate zh_Hans son_sissy_storyline_280_d9d81cef:
@@ -42242,7 +42242,7 @@ translate zh_Hans son_sissy_storyline_280_59e7218b:
 translate zh_Hans son_sissy_storyline_280_a3b59755:
 
     # nvlsson "Love how you fuck me."
-    nvlsson "人家好爱你疼爱人家的样子。"
+    nvlsson "我好爱你疼爱我的样子。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21307
 translate zh_Hans son_sissy_storyline_280_fc81be97:
@@ -42254,13 +42254,13 @@ translate zh_Hans son_sissy_storyline_280_fc81be97:
 translate zh_Hans son_sissy_storyline_280_890bb124:
 
     # nvlsson "Will you send me the video from yesterday?"
-    nvlsson "你能把昨天的视频发给人家吗？"
+    nvlsson "你能把昨天的视频发给我吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21311
 translate zh_Hans son_sissy_storyline_280_bf42f57e:
 
     # nvlsson "I want to watch you fucking my arse."
-    nvlsson "人家想看你狠狠地操弄人家的小穴。"
+    nvlsson "我想看你狠狠地操弄我的小穴。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21313
 translate zh_Hans son_sissy_storyline_280_2c22e70b:
@@ -42272,7 +42272,7 @@ translate zh_Hans son_sissy_storyline_280_2c22e70b:
 translate zh_Hans son_sissy_storyline_280_b18592ee:
 
     # nvljohn "{a=show:show_chat_media}{image=mikky_video_36_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=mikky_video_36_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21323
 translate zh_Hans son_sissy_storyline_280_c9515f26:
@@ -42296,7 +42296,7 @@ translate zh_Hans son_sissy_storyline_280_386428b2:
 translate zh_Hans son_sissy_storyline_280_53f1e676:
 
     # nvlsson "{a=show:show_chat_media}{image=mikky_video_37_ns}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=mikky_video_37_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21337
 translate zh_Hans son_sissy_storyline_280_acacc449:
@@ -42308,7 +42308,7 @@ translate zh_Hans son_sissy_storyline_280_acacc449:
 translate zh_Hans son_sissy_storyline_280_f0f4bdd8:
 
     # nvljohn "I didn’t know you had toys like that."
-    nvljohn "人家都不知道你还有这种小玩具呢。"
+    nvljohn "我都不知道你还有这种玩具。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21341
 translate zh_Hans son_sissy_storyline_280_d8a4d0ca:
@@ -42332,7 +42332,7 @@ translate zh_Hans son_sissy_storyline_280_f295378b:
 translate zh_Hans son_sissy_storyline_280_a449e553:
 
     # nvlsson "😉"
-    nvlsson ""
+    nvlsson "😉|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21349
 translate zh_Hans son_sissy_storyline_280_075ef574:
@@ -42344,7 +42344,7 @@ translate zh_Hans son_sissy_storyline_280_075ef574:
 translate zh_Hans son_sissy_storyline_280_21756500:
 
     # nvljohn "I think we’re good as is, don’t you?"
-    nvljohn "人家觉得我们现在这样就很好啦，你说呢？"
+    nvljohn "我觉得我们现在这样就很好，你说呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21353
 translate zh_Hans son_sissy_storyline_280_b89d0155:
@@ -42386,7 +42386,7 @@ translate zh_Hans son_sissy_storyline_281_76b2fe88:
 translate zh_Hans son_sissy_storyline_281_fcb8faed:
 
     # nvljim "{a=show:show_chat_media}{image=valerie_video_26_ns}"
-    nvljim ""
+    nvljim "{a=show:show_chat_media}{image=valerie_video_26_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21404
 translate zh_Hans son_sissy_storyline_281_9e288b50:
@@ -42410,7 +42410,7 @@ translate zh_Hans son_sissy_storyline_281_d27469fd:
 translate zh_Hans son_sissy_storyline_281_ec6fc1ff:
 
     # nvlsson "Why are you sending me this?"
-    nvlsson "你为什么要发这个给人看呀？"
+    nvlsson "你为什么要发这个给我看呀？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21412
 translate zh_Hans son_sissy_storyline_281_cf664cc4:
@@ -42458,7 +42458,7 @@ translate zh_Hans son_sissy_storyline_281_bad8892a:
 translate zh_Hans son_sissy_storyline_281_09f0d49f:
 
     # nvlsson "Yes, it’s clear."
-    nvlsson "是，人家明白了。"
+    nvlsson "是，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21428
 translate zh_Hans son_sissy_storyline_281_301977db:
@@ -42488,7 +42488,7 @@ translate zh_Hans son_sissy_storyline_281_c97d371a:
 translate zh_Hans son_sissy_storyline_281_dd974339:
 
     # nvlsson "Okay, I’ll stay."
-    nvlsson "好的，人家会留下的。"
+    nvlsson "好的，我会留下的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21438
 translate zh_Hans son_sissy_storyline_281_a66674d4:
@@ -42574,7 +42574,7 @@ translate zh_Hans son_sissy_storyline_282_548e0dcb:
 translate zh_Hans son_sissy_storyline_282_bf676608:
 
     # nvlvalerie "I told him not to show that fucking video to anyone."
-    nvlvalerie "人家明明跟他说过，不许把那个该死的视频给任何人看的！"
+    nvlvalerie "我明明跟他说过，不许把那个该死的视频给任何人看的！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21499
 translate zh_Hans son_sissy_storyline_282_f16a1886:
@@ -42926,7 +42926,7 @@ translate zh_Hans son_sissy_storyline_284_599a5d55:
 translate zh_Hans son_sissy_storyline_284_29e3cfcb:
 
     # nvljohn "What do you want?"
-    nvljohn "你……你想要人家做什么？"
+    nvljohn "你……你想要我做什么？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21681
 translate zh_Hans son_sissy_storyline_284_cb4bbe30:
@@ -42950,7 +42950,7 @@ translate zh_Hans son_sissy_storyline_284_1d5b9e1b:
 translate zh_Hans son_sissy_storyline_284_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21689
 translate zh_Hans son_sissy_storyline_284_bdb2dd28:
@@ -43070,7 +43070,7 @@ translate zh_Hans son_sissy_storyline_284_076d80b9:
 translate zh_Hans son_sissy_storyline_284_9c6393a0:
 
     # nvljohn "I don’t know."
-    nvljohn "人家……人家也不知道该怎么说呢。"
+    nvljohn "我不知道。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21729
 translate zh_Hans son_sissy_storyline_284_579677d7:
@@ -43144,7 +43144,7 @@ translate zh_Hans son_sissy_storyline_285_6e78d8d5:
 translate zh_Hans son_sissy_storyline_285_2dc6bdc7:
 
     # nvlsson "😊"
-    nvlsson ""
+    nvlsson "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21786
 translate zh_Hans son_sissy_storyline_285_9a165f7d:
@@ -43228,7 +43228,7 @@ translate zh_Hans son_sissy_storyline_285_13f29563:
 translate zh_Hans son_sissy_storyline_285_28290d6f:
 
     # nvlgreg "{a=show:show_chat_media}{image=kirely_video_53_ns}"
-    nvlgreg ""
+    nvlgreg "{a=show:show_chat_media}{image=kirely_video_53_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21820
 translate zh_Hans son_sissy_storyline_285_9c78af9a:
@@ -43294,7 +43294,7 @@ translate zh_Hans son_sissy_storyline_285_9113858a:
 translate zh_Hans son_sissy_storyline_285_6288d213:
 
     # nvlgreg "{a=show:show_chat_media}{image=kirely_video_54_ns}"
-    nvlgreg ""
+    nvlgreg "{a=show:show_chat_media}{image=kirely_video_54_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21848
 translate zh_Hans son_sissy_storyline_285_e862d4c7:
@@ -43422,7 +43422,7 @@ translate zh_Hans son_sissy_storyline_286_96125d43:
 translate zh_Hans son_sissy_storyline_286_1c0e5140:
 
     # nvlsson "I’ll be waiting."
-    nvlsson "人家会乖乖等你的。"
+    nvlsson "我会乖乖等你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21923
 translate zh_Hans son_sissy_storyline_286_354714df:
@@ -43454,7 +43454,7 @@ translate zh_Hans son_sissy_storyline_287_2afbe1ff:
 translate zh_Hans son_sissy_storyline_287_ad5cb540:
 
     # nvlsson "I’ve never been to such expensive places before."
-    nvlsson "人家以前从没去过那么奢华的地方呢。"
+    nvlsson "我以前从没去过那么奢华的地方呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21966
 translate zh_Hans son_sissy_storyline_287_2d884d35:
@@ -43508,13 +43508,13 @@ translate zh_Hans son_sissy_storyline_287_8ef84a1b:
 translate zh_Hans son_sissy_storyline_287_b225d503:
 
     # nvlsson "I tried to please you as much as possible."
-    nvlsson "人家努力想让你尽兴呢。"
+    nvlsson "我努力想让你尽兴呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21984
 translate zh_Hans son_sissy_storyline_287_17e60977:
 
     # nvlsson "As a thank-you for such a great evening."
-    nvlsson "就当是感谢你带人家度过了一个美妙的夜晚。"
+    nvlsson "就当是感谢你带我度过了一个美妙的夜晚。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21986
 translate zh_Hans son_sissy_storyline_287_d1489c9c:
@@ -43526,7 +43526,7 @@ translate zh_Hans son_sissy_storyline_287_d1489c9c:
 translate zh_Hans son_sissy_storyline_287_295d3c3c:
 
     # nvlkanye "{a=show:show_chat_media}{image=mikky_video_38_ns}"
-    nvlkanye ""
+    nvlkanye "{a=show:show_chat_media}{image=mikky_video_38_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:21996
 translate zh_Hans son_sissy_storyline_287_b246f99d:
@@ -43550,7 +43550,7 @@ translate zh_Hans son_sissy_storyline_287_9608c5e7:
 translate zh_Hans son_sissy_storyline_287_78909f16:
 
     # nvlsson "Hehehe. Glad to hear that."
-    nvlsson "嘿嘿嘿。人家听了真高兴。"
+    nvlsson "嘿嘿嘿。我听了真高兴。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22004
 translate zh_Hans son_sissy_storyline_287_ef37688f:
@@ -43586,7 +43586,7 @@ translate zh_Hans son_sissy_storyline_287_4d109b29:
 translate zh_Hans son_sissy_storyline_287_8e242476:
 
     # nvlsson "I’m just curious what it’s like to live like that."
-    nvlsson "人家只是好奇，过那种生活是什么样的。"
+    nvlsson "我只是好奇，过那种生活是什么样的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22016
 translate zh_Hans son_sissy_storyline_287_17089aeb:
@@ -43646,7 +43646,7 @@ translate zh_Hans son_sissy_storyline_287_4b74872f:
 translate zh_Hans son_sissy_storyline_287_2427f21a:
 
     # nvlsson "I’ll be waiting for you 😘😘😘"
-    nvlsson "人家会乖乖等你的😘😘😘"
+    nvlsson "我会乖乖等你的😘😘😘"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22050
 translate zh_Hans son_sissy_storyline_287_53c71d7c:
@@ -43666,7 +43666,7 @@ translate zh_Hans son_sissy_storyline_288_b0cd76d6:
 translate zh_Hans son_sissy_storyline_288_6e7d70f8:
 
     # nvljim "{a=show:show_chat_media}{image=dick_pic_20}"
-    nvljim ""
+    nvljim "{a=show:show_chat_media}{image=dick_pic_20}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22081
 translate zh_Hans son_sissy_storyline_288_cb442e8d:
@@ -43684,13 +43684,13 @@ translate zh_Hans son_sissy_storyline_288_66c35a09:
 translate zh_Hans son_sissy_storyline_288_cc73b531:
 
     # nvlsson "I’m coming now."
-    nvlsson "人家这就过去。"
+    nvlsson "我这就过去。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22087
 translate zh_Hans son_sissy_storyline_288_5f217c97:
 
     # nvljim "I’ll be waiting."
-    nvljim "人家会乖乖等你的。"
+    nvljim "我会乖乖等你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22103
 translate zh_Hans son_sissy_storyline_288_53c71d7c:
@@ -43728,7 +43728,7 @@ translate zh_Hans son_sissy_storyline_289_95139d68:
 translate zh_Hans son_sissy_storyline_289_96dfaf40:
 
     # nvljim "{a=show:show_chat_media}{image=mikky_pic_76}"
-    nvljim ""
+    nvljim "{a=show:show_chat_media}{image=mikky_pic_76}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22140
 translate zh_Hans son_sissy_storyline_289_789c2b4a:
@@ -43770,7 +43770,7 @@ translate zh_Hans son_sissy_storyline_289_bb49ea57:
 translate zh_Hans son_sissy_storyline_289_aff53f66:
 
     # nvlsson "You were the one who asked me to."
-    nvlsson "是你让人家这么做的呀。"
+    nvlsson "是你让我这么做的呀。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22154
 translate zh_Hans son_sissy_storyline_289_7870d2ca:
@@ -43836,7 +43836,7 @@ translate zh_Hans son_sissy_storyline_289_2b3fb779:
 translate zh_Hans son_sissy_storyline_289_b25c654b:
 
     # nvljim "I’ll talk to her myself."
-    nvljim "人家会亲自去跟她说的。"
+    nvljim "我会亲自去跟她说的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22176
 translate zh_Hans son_sissy_storyline_289_1f2624dc:
@@ -43862,7 +43862,7 @@ translate zh_Hans son_sissy_storyline_290_78b86f0c:
 translate zh_Hans son_sissy_storyline_290_fb4084a7:
 
     # nvlvalerie "Want to hit the club this weekend?"
-    nvlvalerie "这个周末，人家想去夜店玩，你要一起吗？"
+    nvlvalerie "这个周末，我想去夜店玩，你要一起吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22217
 translate zh_Hans son_sissy_storyline_290_b82c0b54:
@@ -43880,13 +43880,13 @@ translate zh_Hans son_sissy_storyline_290_e47145bd:
 translate zh_Hans son_sissy_storyline_290_cceeb840:
 
     # nvlsson "Sure, I’m in 😊"
-    nvlsson "当然啦，人家很乐意呢😊"
+    nvlsson "当然啦，我很乐意呢😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22223
 translate zh_Hans son_sissy_storyline_290_eeea1d98:
 
     # nvlsson "No plans for the weekend anyway."
-    nvlsson "反正人家周末也没什么安排啦。"
+    nvlsson "反正我周末也没什么安排啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22225
 translate zh_Hans son_sissy_storyline_290_d15fc0f3:
@@ -43904,13 +43904,13 @@ translate zh_Hans son_sissy_storyline_290_2be4e9a7:
 translate zh_Hans son_sissy_storyline_290_a449e553:
 
     # nvlsson "😉"
-    nvlsson ""
+    nvlsson "😉|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22231
 translate zh_Hans son_sissy_storyline_290_4cbc8701:
 
     # nvlsson "Always ready, haha."
-    nvlsson "人家随时都准备好啦，哈哈。"
+    nvlsson "我随时都准备好啦，哈哈。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22233
 translate zh_Hans son_sissy_storyline_290_f08fa9de:
@@ -43922,43 +43922,43 @@ translate zh_Hans son_sissy_storyline_290_f08fa9de:
 translate zh_Hans son_sissy_storyline_290_79701476:
 
     # nvlsson "By the way, has Jim talked to you?"
-    nvlsson "对了，吉姆跟人家说过什么吗？"
+    nvlsson "对了，吉姆跟我说过什么吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22237
 translate zh_Hans son_sissy_storyline_290_500b7d38:
 
     # nvlvalerie "No, he hasn’t. Why?"
-    nvlvalerie "没有呢，他没跟人家说过。怎么啦？"
+    nvlvalerie "没有呢，他没跟我说过。怎么啦？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22239
 translate zh_Hans son_sissy_storyline_290_74ac5702:
 
     # nvlvalerie "Was he supposed to?"
-    nvlvalerie "他应该跟人家说吗？"
+    nvlvalerie "他应该跟我说吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22241
 translate zh_Hans son_sissy_storyline_290_5a97df38:
 
     # nvlsson "Nah. Just asking."
-    nvlsson "没有啦。人家就是随便问问。"
+    nvlsson "没有啦。我就是随便问问。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22243
 translate zh_Hans son_sissy_storyline_290_6cbd7817:
 
     # nvlsson "I mean, he said he wanted to talk to you about something."
-    nvlsson "人家是说，他说他想跟你谈点事情。"
+    nvlsson "我是说，他说他想跟你谈点事情。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22245
 translate zh_Hans son_sissy_storyline_290_bac7dcb9:
 
     # nvlsson "Probably nothing important."
-    nvlsson "可能没什么重要的事吧，人家猜的。"
+    nvlsson "可能没什么重要的事吧，我猜的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22247
 translate zh_Hans son_sissy_storyline_290_df946f9c:
 
     # nvlvalerie "Well, he hasn’t told me anything."
-    nvlvalerie "嗯，他确实什么都没跟人家说呢。"
+    nvlvalerie "嗯，他确实什么都没跟我说呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22249
 translate zh_Hans son_sissy_storyline_290_a924a32a:
@@ -43978,13 +43978,13 @@ translate zh_Hans son_sissy_storyline_291_97198fdd:
     # nvl clear
     # nvljenna "I've been feeling so bored lately."
     nvl clear
-    nvljenna "人家最近觉得好无聊哦。"
+    nvljenna "我最近觉得好无聊哦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22288
 translate zh_Hans son_sissy_storyline_291_4c65dc67:
 
     # nvljenna "Wanna go out somewhere?"
-    nvljenna "想不想跟人家一起出去玩呀？"
+    nvljenna "想不想跟我一起出去玩呀？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22290
 translate zh_Hans son_sissy_storyline_291_9d0fd604:
@@ -43996,7 +43996,7 @@ translate zh_Hans son_sissy_storyline_291_9d0fd604:
 translate zh_Hans son_sissy_storyline_291_0ee20f37:
 
     # nvljenna "I don’t know."
-    nvljenna "人家……人家也不知道该怎么说呢。"
+    nvljenna "我……我也不知道该怎么说呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22294
 translate zh_Hans son_sissy_storyline_291_9e4839da:
@@ -44014,7 +44014,7 @@ translate zh_Hans son_sissy_storyline_291_8163fdf4:
 translate zh_Hans son_sissy_storyline_291_47993b48:
 
     # nvlsson "I’m going to a club with a friend."
-    nvlsson "人家要跟朋友一起去夜店呢。"
+    nvlsson "我要跟朋友一起去夜店呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22300
 translate zh_Hans son_sissy_storyline_291_132cc50f:
@@ -44026,7 +44026,7 @@ translate zh_Hans son_sissy_storyline_291_132cc50f:
 translate zh_Hans son_sissy_storyline_291_da096dda:
 
     # nvljenna "Hah. Can I come too?"
-    nvljenna "哈。人家能一起去吗？"
+    nvljenna "哈。我能一起去吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22304
 translate zh_Hans son_sissy_storyline_291_491c86e1:
@@ -44038,13 +44038,13 @@ translate zh_Hans son_sissy_storyline_291_491c86e1:
 translate zh_Hans son_sissy_storyline_291_6be2adb8:
 
     # nvlsson "If you wanna come, just join us."
-    nvlsson "如果你想来，就直接跟人家们一起好啦。"
+    nvlsson "如果你想来，就直接跟我们一起好啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22308
 translate zh_Hans son_sissy_storyline_291_4fdbdd89:
 
     # nvlsson "I don’t think Valerie would mind."
-    nvlsson "人家觉得瓦莱丽应该不会介意啦。"
+    nvlsson "我觉得瓦莱丽应该不会介意啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22310
 translate zh_Hans son_sissy_storyline_291_82ebff07:
@@ -44062,13 +44062,13 @@ translate zh_Hans son_sissy_storyline_291_e7e7c2e0:
 translate zh_Hans son_sissy_storyline_291_8b4a6b2c:
 
     # nvlsson "We work together at the café."
-    nvlsson "人家们在咖啡馆一起工作啦。"
+    nvlsson "我们在咖啡馆一起工作啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22316
 translate zh_Hans son_sissy_storyline_291_f356abe8:
 
     # nvljenna "Ah, got it now."
-    nvljenna "啊，人家现在明白了。"
+    nvljenna "啊，我现在明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22318
 translate zh_Hans son_sissy_storyline_291_e2adeb8b:
@@ -44092,7 +44092,7 @@ translate zh_Hans son_sissy_storyline_291_eee3c0f1:
 translate zh_Hans son_sissy_storyline_291_dd3e2831:
 
     # nvljenna "I was thinking Saturday too."
-    nvljenna "人家本来也想着周六去呢。"
+    nvljenna "我本来也想着周六去呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22326
 translate zh_Hans son_sissy_storyline_291_658a9e61:
@@ -44104,19 +44104,19 @@ translate zh_Hans son_sissy_storyline_291_658a9e61:
 translate zh_Hans son_sissy_storyline_291_06976e9c:
 
     # nvlsson "Haven’t decided yet."
-    nvlsson "人家们还没决定好呢。"
+    nvlsson "我们还没决定好呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22330
 translate zh_Hans son_sissy_storyline_291_82c7d548:
 
     # nvljenna "I know a good one, if anything. We can go there."
-    nvljenna "如果还没定，人家知道一个不错的呢。人家们可以去那里呀。"
+    nvljenna "如果还没定，我知道一个不错的呢。我们可以去那里呀。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22332
 translate zh_Hans son_sissy_storyline_291_fbf933e2:
 
     # nvlsson "We’ll probably decide on the spot."
-    nvlsson "人家们大概会到时候再决定啦。"
+    nvlsson "我们大概会到时候再决定啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22334
 translate zh_Hans son_sissy_storyline_291_78d6c7f9:
@@ -44128,7 +44128,7 @@ translate zh_Hans son_sissy_storyline_291_78d6c7f9:
 translate zh_Hans son_sissy_storyline_291_4e17f4ee:
 
     # nvljenna "Okay. Then I’ll be looking forward to the weekend 😊"
-    nvljenna "好啦。那人家就期待周末啦😊"
+    nvljenna "好啦。那我就期待周末啦😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22352
 translate zh_Hans son_sissy_storyline_291_53c71d7c:
@@ -44142,7 +44142,7 @@ translate zh_Hans son_sissy_storyline_292_c88cc55c:
     # nvl clear
     # nvljenna "I’m almost at your place."
     nvl clear
-    nvljenna "人家快到你家了。"
+    nvljenna "我快到你家了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22375
 translate zh_Hans son_sissy_storyline_292_f6ec20fb:
@@ -44154,7 +44154,7 @@ translate zh_Hans son_sissy_storyline_292_f6ec20fb:
 translate zh_Hans son_sissy_storyline_292_ee4f24fc:
 
     # nvlsson "Alright, waiting."
-    nvlsson "好啦，人家等着呢。"
+    nvlsson "好啦，我等着呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22379
 translate zh_Hans son_sissy_storyline_292_8b04704d:
@@ -44172,7 +44172,7 @@ translate zh_Hans son_sissy_storyline_292_cfc25480:
 translate zh_Hans son_sissy_storyline_292_f5e450e0:
 
     # nvlsson "I’ll text her now."
-    nvlsson "人家现在就给她发消息去。"
+    nvlsson "我现在就给她发消息去。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22385
 translate zh_Hans son_sissy_storyline_292_17801d60:
@@ -44190,7 +44190,7 @@ translate zh_Hans son_sissy_storyline_292_264f12b6:
 translate zh_Hans son_sissy_storyline_292_ffeab951:
 
     # nvlsson "Valerie said we can go to the one you suggested."
-    nvlsson "瓦莱丽说，人家们可以去你建议的那家呢。"
+    nvlsson "瓦莱丽说，我们可以去你建议的那家呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22391
 translate zh_Hans son_sissy_storyline_292_8e7e9518:
@@ -44202,7 +44202,7 @@ translate zh_Hans son_sissy_storyline_292_8e7e9518:
 translate zh_Hans son_sissy_storyline_292_fa3fa67a:
 
     # nvljenna "I promise you both won’t regret it."
-    nvljenna "人家保证，你和XTAG0X都不会后悔的，嗯~"
+    nvljenna "我保证，你和XTAG0X都不会后悔的，嗯~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22409
 translate zh_Hans son_sissy_storyline_292_53c71d7c:
@@ -44216,25 +44216,25 @@ translate zh_Hans son_sissy_storyline_293_9f4b2576:
     # nvl clear
     # nvlsson "You on your way?"
     nvl clear
-    nvlsson "你在路上了吗？人家都等不及了呢~"
+    nvlsson "你在路上了吗？我都等不及了呢~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22432
 translate zh_Hans son_sissy_storyline_293_b54f66d3:
 
     # nvlvalerie "Yeah, I’m already at your place."
-    nvlvalerie "嗯，人家已经到你家门口了，好想快点见到你~"
+    nvlvalerie "嗯，我已经到你家门口了，好想快点见到你~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22434
 translate zh_Hans son_sissy_storyline_293_0cb88129:
 
     # nvlvalerie "Five minutes."
-    nvlvalerie "再有五分钟，人家就能见到你了，心都要跳出来了呢。"
+    nvlvalerie "再有五分钟，我就能见到你了，心都要跳出来了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22436
 translate zh_Hans son_sissy_storyline_293_5475eff1:
 
     # nvlsson "Perfect."
-    nvlsson "太完美了！人家爱你！"
+    nvlsson "太完美了！我爱你！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22438
 translate zh_Hans son_sissy_storyline_293_10fb5035:
@@ -44258,7 +44258,7 @@ translate zh_Hans son_sissy_storyline_293_cc5e1319:
 translate zh_Hans son_sissy_storyline_293_7ea9821f:
 
     # nvlsson "We’re planning to drink and have fun."
-    nvlsson "人家们打算好好喝一杯，尽情玩乐呢。"
+    nvlsson "我们打算好好喝一杯，尽情玩乐呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22446
 translate zh_Hans son_sissy_storyline_293_43f36178:
@@ -44276,25 +44276,25 @@ translate zh_Hans son_sissy_storyline_293_d8cfa19f:
 translate zh_Hans son_sissy_storyline_293_c6bda503:
 
     # nvlsson "Alright then, I’ll wait for both of you."
-    nvlsson "好吧，那人家就在这里等你们两个咯。"
+    nvlsson "好吧，那我就在这里等你们两个咯。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22452
 translate zh_Hans son_sissy_storyline_293_86633626:
 
     # nvlsson "Can’t wait to hit the dancefloor."
-    nvlsson "人家已经迫不及待想去舞池里扭动身子了呢~"
+    nvlsson "我已经迫不及待想去舞池里扭动身子了呢~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22454
 translate zh_Hans son_sissy_storyline_293_37ab5b4b:
 
     # nvlvalerie "Can you come out and meet me?"
-    nvlvalerie "你能出来接人家一下吗？人家好想你~"
+    nvlvalerie "你能出来接我一下吗？我好想你~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22456
 translate zh_Hans son_sissy_storyline_293_db3213c0:
 
     # nvlsson "Yeah, coming now."
-    nvlsson "嗯，人家这就出来，马上就到你身边了哦~"
+    nvlsson "嗯，我这就出来，马上就到你身边了哦~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22472
 translate zh_Hans son_sissy_storyline_293_53c71d7c:
@@ -44308,37 +44308,37 @@ translate zh_Hans son_sissy_storyline_294_da63c84a:
     # nvl clear
     # nvlgreg "Didn’t expect to see you at the club last night 😊"
     nvl clear
-    nvlgreg "昨晚在夜店见到你，人家真的好惊喜呢😊"
+    nvlgreg "昨晚在夜店见到你，我真的好惊喜呢😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22495
 translate zh_Hans son_sissy_storyline_294_4213cbbe:
 
     # nvlsson "Yeah, same here."
-    nvlsson "嗯，人家也是呢。"
+    nvlsson "嗯，我也是呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22497
 translate zh_Hans son_sissy_storyline_294_58c69117:
 
     # nvlsson "I thought you were going to let me know when you’d be free."
-    nvlsson "人家还以为你会告诉人家什么时候有空呢。"
+    nvlsson "我还以为你会告诉我什么时候有空呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22499
 translate zh_Hans son_sissy_storyline_294_4eedc105:
 
     # nvlsson "You kinda said we’d go hang out."
-    nvlsson "你不是说好要带人家出去玩的吗？"
+    nvlsson "你不是说好要带我出去玩的吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22501
 translate zh_Hans son_sissy_storyline_294_a8091046:
 
     # nvlgreg "Yeah, I remember."
-    nvlgreg "嗯，人家记得呢。"
+    nvlgreg "嗯，我记得呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22503
 translate zh_Hans son_sissy_storyline_294_3f719075:
 
     # nvlgreg "Yesterday some friends invited me to the club. Couldn't say no."
-    nvlgreg "昨天有朋友约人家去夜店，人家不好意思拒绝嘛。"
+    nvlgreg "昨天有朋友约我去夜店，我不好意思拒绝嘛。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22505
 translate zh_Hans son_sissy_storyline_294_eeb077dd:
@@ -44350,13 +44350,13 @@ translate zh_Hans son_sissy_storyline_294_eeb077dd:
 translate zh_Hans son_sissy_storyline_294_73632d36:
 
     # nvlgreg "But hey, the important thing is we finally saw each other."
-    nvlgreg "不过呀，最重要的是人家们终于见面了呢！"
+    nvlgreg "不过呀，最重要的是我们终于见面了呢！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22509
 translate zh_Hans son_sissy_storyline_294_66532122:
 
     # nvlgreg "And I have to say, you’ve become even more stunning than before."
-    nvlgreg "而且人家必须说，你现在比以前更迷人了呢，让人家心跳加速~"
+    nvlgreg "而且我必须说，你现在比以前更迷人了呢，让我心跳加速~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22511
 translate zh_Hans son_sissy_storyline_294_559e1384:
@@ -44374,49 +44374,49 @@ translate zh_Hans son_sissy_storyline_294_b8ca8d0a:
 translate zh_Hans son_sissy_storyline_294_ee1a0406:
 
     # nvlgreg "No, really."
-    nvlgreg "不，人家是说真的呢。"
+    nvlgreg "不，我是说真的呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22517
 translate zh_Hans son_sissy_storyline_294_f64defbb:
 
     # nvlgreg "You’re like a goddess now."
-    nvlgreg "你现在简直就像个女神一样，让人家好想把你藏起来~"
+    nvlgreg "你现在简直就像个女神一样，让我好想把你藏起来~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22519
 translate zh_Hans son_sissy_storyline_294_ad2d5c0f:
 
     # nvlgreg "You don’t even stand out next to your girlfriends."
-    nvlgreg "在你的那些女朋友身边，你都显得那么与众不同，让人家移不开眼。"
+    nvlgreg "在你的那些女朋友身边，你都显得那么与众不同，让我移不开眼。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22521
 translate zh_Hans son_sissy_storyline_294_86119298:
 
     # nvlgreg "You’re just like them—a real girl."
-    nvlgreg "你就像她们一样——一个真正的女孩子，让人家好想疼爱你。"
+    nvlgreg "你就像她们一样——一个真正的女孩子，让我好想疼爱你。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22523
 translate zh_Hans son_sissy_storyline_294_2dc6bdc7:
 
     # nvlsson "😊"
-    nvlsson ""
+    nvlsson "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22525
 translate zh_Hans son_sissy_storyline_294_bd56dddb:
 
     # nvlgreg "Too bad you didn’t want to come over to my place."
-    nvlgreg "可惜你昨晚不肯来人家这里，人家好寂寞呢。"
+    nvlgreg "可惜你昨晚不肯来我这里，我好寂寞呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22527
 translate zh_Hans son_sissy_storyline_294_fe1236a4:
 
     # nvlsson "Maybe another time."
-    nvlsson "也许下次吧，人家会乖乖等你的。"
+    nvlsson "也许下次吧，我会乖乖等你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22529
 translate zh_Hans son_sissy_storyline_294_b45864d6:
 
     # nvlsson "If you behave yourself. Haha."
-    nvlsson "如果你乖乖听话的话，人家就考虑考虑哦，嘻嘻~"
+    nvlsson "如果你乖乖听话的话，我就考虑考虑哦，嘻嘻~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22531
 translate zh_Hans son_sissy_storyline_294_b026d0d0:
@@ -44428,7 +44428,7 @@ translate zh_Hans son_sissy_storyline_294_b026d0d0:
 translate zh_Hans son_sissy_storyline_294_dfad6eb9:
 
     # nvlgreg "I’ll be extra well-behaved so you’ll say yes next time."
-    nvlgreg "人家一定会特别乖巧的，这样你下次就一定会答应人家了，对不对？"
+    nvlgreg "我一定会特别乖巧的，这样你下次就一定会答应我了，对不对？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22535
 translate zh_Hans son_sissy_storyline_294_beb2d5bf:
@@ -44446,7 +44446,7 @@ translate zh_Hans son_sissy_storyline_294_f6c21b91:
 translate zh_Hans son_sissy_storyline_294_2f0b12ab:
 
     # nvlsson "Not telling."
-    nvlsson "人家才不告诉你呢。"
+    nvlsson "我才不告诉你呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22541
 translate zh_Hans son_sissy_storyline_294_cc75ad0c:
@@ -44464,13 +44464,13 @@ translate zh_Hans son_sissy_storyline_294_5522a7c2:
 translate zh_Hans son_sissy_storyline_294_e0782787:
 
     # nvlsson "Because I don’t want to."
-    nvlsson "因为人家就是不想说嘛。"
+    nvlsson "因为我就是不想说嘛。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22547
 translate zh_Hans son_sissy_storyline_294_08ed6efc:
 
     # nvlsson "And if you’re interested in her, then maybe just don’t message me anymore."
-    nvlsson "如果你对她感兴趣的话，那以后就别再给人家发消息了哦。"
+    nvlsson "如果你对她感兴趣的话，那以后就别再给我发消息了哦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22549
 translate zh_Hans son_sissy_storyline_294_822e9624:
@@ -44482,13 +44482,13 @@ translate zh_Hans son_sissy_storyline_294_822e9624:
 translate zh_Hans son_sissy_storyline_294_6695797f:
 
     # nvlgreg "Alright, alright, I get it."
-    nvlgreg "好啦好啦，人家知道了嘛。"
+    nvlgreg "好啦好啦，我知道了嘛。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22553
 translate zh_Hans son_sissy_storyline_294_bfd84f51:
 
     # nvlgreg "Not another word about your friends."
-    nvlgreg "不许再提你的朋友了哦，人家会吃醋的。"
+    nvlgreg "不许再提你的朋友了哦，我会吃醋的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22555
 translate zh_Hans son_sissy_storyline_294_0503e047:
@@ -44512,7 +44512,7 @@ translate zh_Hans son_sissy_storyline_294_5608d804:
 translate zh_Hans son_sissy_storyline_294_6fb81bd8:
 
     # nvlsson "Don’t know yet."
-    nvlsson "人家现在还不知道呢。"
+    nvlsson "我现在还不知道呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22563
 translate zh_Hans son_sissy_storyline_294_e90be548:
@@ -44524,19 +44524,19 @@ translate zh_Hans son_sissy_storyline_294_e90be548:
 translate zh_Hans son_sissy_storyline_294_21081be1:
 
     # nvlgreg "I’ll probably be free."
-    nvlgreg "人家大概会有空的吧。"
+    nvlgreg "我大概会有空的吧。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22567
 translate zh_Hans son_sissy_storyline_294_1c276299:
 
     # nvlgreg "We could go out somewhere."
-    nvlgreg "人家们可以一起出去玩呀。"
+    nvlgreg "我们可以一起出去玩呀。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22569
 translate zh_Hans son_sissy_storyline_294_a9a3d7be:
 
     # nvlsson "I’ll think about it. I’ll text you closer to the weekend."
-    nvlsson "人家会考虑一下的。等快到周末的时候再告诉你吧。"
+    nvlsson "我会考虑一下的。等快到周末的时候再告诉你吧。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22571
 translate zh_Hans son_sissy_storyline_294_ef52a956:
@@ -44562,7 +44562,7 @@ translate zh_Hans son_sissy_storyline_295_937b2110:
 translate zh_Hans son_sissy_storyline_295_11fa9ac3:
 
     # nvljenna "I imagined her differently for some reason."
-    nvljenna "人家也不知道为什么，之前把她想得不一样。"
+    nvljenna "我也不知道为什么，之前把她想得不一样。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22612
 translate zh_Hans son_sissy_storyline_295_7208380e:
@@ -44580,13 +44580,13 @@ translate zh_Hans son_sissy_storyline_295_bb5df53b:
 translate zh_Hans son_sissy_storyline_295_eb3e1f2e:
 
     # nvljenna "I thought you said she was shy."
-    nvljenna "人家还以为你说她很害羞呢。"
+    nvljenna "我还以为你说她很害羞呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22618
 translate zh_Hans son_sissy_storyline_295_365eba7d:
 
     # nvljenna "But she’s not shy at all."
-    nvljenna "可是人家觉得她一点都不害羞呢。"
+    nvljenna "可是我觉得她一点都不害羞呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22620
 translate zh_Hans son_sissy_storyline_295_99cca8d4:
@@ -44646,7 +44646,7 @@ translate zh_Hans son_sissy_storyline_295_8f43147a:
 translate zh_Hans son_sissy_storyline_295_de1a799d:
 
     # nvljenna "I accidentally spilled her secret."
-    nvljenna "人家不小心把她的秘密说漏嘴了呢。"
+    nvljenna "我不小心把她的秘密说漏嘴了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22640
 translate zh_Hans son_sissy_storyline_295_61a27410:
@@ -44664,7 +44664,7 @@ translate zh_Hans son_sissy_storyline_295_4404dc69:
 translate zh_Hans son_sissy_storyline_295_ad35b49d:
 
     # nvljenna "{a=show:show_chat_media}{image=valerie_video_27_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=valerie_video_27_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22652
 translate zh_Hans son_sissy_storyline_295_96370821:
@@ -44676,7 +44676,7 @@ translate zh_Hans son_sissy_storyline_295_96370821:
 translate zh_Hans son_sissy_storyline_295_ddebf091:
 
     # nvlsson "When did that happen? Where was I?"
-    nvlsson "那是什么时候的事呀？人家当时在哪里呢？"
+    nvlsson "那是什么时候的事呀？我当时在哪里呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22656
 translate zh_Hans son_sissy_storyline_295_9c70000c:
@@ -44688,7 +44688,7 @@ translate zh_Hans son_sissy_storyline_295_9c70000c:
 translate zh_Hans son_sissy_storyline_295_4d3e5aa9:
 
     # nvljenna "Valerie and I went for a little walk."
-    nvljenna "瓦莱丽和人家去散了会儿步。"
+    nvljenna "瓦莱丽和我去散了会儿步。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22660
 translate zh_Hans son_sissy_storyline_295_7df59179:
@@ -44718,13 +44718,13 @@ translate zh_Hans son_sissy_storyline_295_72eb3ae8_1:
 translate zh_Hans son_sissy_storyline_295_6e8fe4fe:
 
     # nvlsson "I’m not looking to get close to him right now."
-    nvlsson "人家现在可不想和他走太近呢。"
+    nvlsson "我现在可不想和他走太近呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22670
 translate zh_Hans son_sissy_storyline_295_88b0fbb1:
 
     # nvlsson "Not after what he did to me..."
-    nvlsson "他那样对人家之后……"
+    nvlsson "他那样对我之后……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22672
 translate zh_Hans son_sissy_storyline_295_92ebfd76:
@@ -44742,7 +44742,7 @@ translate zh_Hans son_sissy_storyline_295_212931ca:
 translate zh_Hans son_sissy_storyline_295_1e9592ba:
 
     # nvljenna "You shouldn’t hold it against him."
-    nvljenna "人家不应该因此记恨他呢。"
+    nvljenna "我不应该因此记恨他呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22678
 translate zh_Hans son_sissy_storyline_295_11559fcd:
@@ -44760,7 +44760,7 @@ translate zh_Hans son_sissy_storyline_295_58903def:
 translate zh_Hans son_sissy_storyline_295_4c50661b:
 
     # nvljenna "If he were Black, being mad at him for something like that would be silly."
-    nvljenna "要是他是黑人，人家为那种事生他的气就太傻了呢。"
+    nvljenna "要是他是黑人，我为那种事生他的气就太傻了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22684
 translate zh_Hans son_sissy_storyline_295_94e01825:
@@ -44790,13 +44790,13 @@ translate zh_Hans son_sissy_storyline_295_5ae0e771:
 translate zh_Hans son_sissy_storyline_295_713c215c:
 
     # nvljenna "If you don’t want to make up with him, just tell him to buzz off."
-    nvljenna "要是人家不想和他和好，就直接叫他滚开好啦。"
+    nvljenna "要是我不想和他和好，就直接叫他滚开好啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22694
 translate zh_Hans son_sissy_storyline_295_800224da:
 
     # nvljenna "Besides, you’ve got Kanye."
-    nvljenna "再说，人家还有坎耶呢。"
+    nvljenna "再说，我还有坎耶呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22696
 translate zh_Hans son_sissy_storyline_295_abbead5e:
@@ -44820,19 +44820,19 @@ translate zh_Hans son_sissy_storyline_295_534785c4:
 translate zh_Hans son_sissy_storyline_295_3a598624:
 
     # nvlsson "Mhm. I think so too."
-    nvlsson "嗯哼。人家也这么觉得呢。"
+    nvlsson "嗯哼。我也这么觉得呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22704
 translate zh_Hans son_sissy_storyline_295_d81677c1:
 
     # nvljenna "😉"
-    nvljenna ""
+    nvljenna "😉|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22706
 translate zh_Hans son_sissy_storyline_295_ba8aa0bb:
 
     # nvljenna "You should get closer to Kanye."
-    nvljenna "人家应该和坎耶走得更近一点呢。"
+    nvljenna "我应该和坎耶走得更近一点呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22708
 translate zh_Hans son_sissy_storyline_295_7b703143:
@@ -44844,13 +44844,13 @@ translate zh_Hans son_sissy_storyline_295_7b703143:
 translate zh_Hans son_sissy_storyline_295_2dc6bdc7:
 
     # nvlsson "😊"
-    nvlsson ""
+    nvlsson "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22712
 translate zh_Hans son_sissy_storyline_295_7f20dc36:
 
     # nvljenna "And I’d love to party with Valerie again sometime."
-    nvljenna "人家也好想再和瓦莱丽一起去派对呢。"
+    nvljenna "我也好想再和瓦莱丽一起去派对呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22714
 translate zh_Hans son_sissy_storyline_295_29d33267:
@@ -44862,7 +44862,7 @@ translate zh_Hans son_sissy_storyline_295_29d33267:
 translate zh_Hans son_sissy_storyline_295_3beaa1de:
 
     # nvlsson "If we plan to go out again, I’ll definitely invite you."
-    nvlsson "要是人家再打算出去玩，肯定会邀请你的呢。"
+    nvlsson "要是我再打算出去玩，肯定会邀请你的呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22718
 translate zh_Hans son_sissy_storyline_295_292d7438:
@@ -44882,7 +44882,7 @@ translate zh_Hans son_sissy_storyline_296_6b65e7cb:
     # nvl clear
     # nvljim "In the near future, you two will have additional duties at work."
     nvl clear
-    nvljim "爸爸说，不久的将来，人家和瓦莱丽在工作上会有额外的任务呢。"
+    nvljim "他说，不久的将来，我和瓦莱丽在工作上会有额外的任务呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22757
 translate zh_Hans son_sissy_storyline_296_39573c9c:
@@ -44894,13 +44894,13 @@ translate zh_Hans son_sissy_storyline_296_39573c9c:
 translate zh_Hans son_sissy_storyline_296_9372b671:
 
     # nvljim "You’ll be servicing clients."
-    nvljim "你说，人家会去‘服务’客户呢。"
+    nvljim "你说，我会去‘服务’客户呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22761
 translate zh_Hans son_sissy_storyline_296_b5fea384:
 
     # nvlsson "And what are we doing now?"
-    nvlsson "那人家现在在做什么呢？"
+    nvlsson "那我现在在做什么呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22763
 translate zh_Hans son_sissy_storyline_296_2aad66ef:
@@ -44912,7 +44912,7 @@ translate zh_Hans son_sissy_storyline_296_2aad66ef:
 translate zh_Hans son_sissy_storyline_296_1fb86def:
 
     # nvljim "With your mouths."
-    nvljim "用……用人家的嘴巴呢。"
+    nvljim "用……用我的嘴巴呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22767
 translate zh_Hans son_sissy_storyline_296_546b9289:
@@ -44942,7 +44942,7 @@ translate zh_Hans son_sissy_storyline_296_4f8bf78a:
 translate zh_Hans son_sissy_storyline_296_3c1a6770:
 
     # nvljim "I’ll try to find more girls for this, but for now you’ll be doing everything together."
-    nvljim "爸爸会努力再找些女孩子来，不过眼下，你们两个要一起把所有的事情都做好哦。"
+    nvljim "我会努力再找些女孩子来，不过眼下，你们两个要一起把所有的事情都做好哦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22777
 translate zh_Hans son_sissy_storyline_296_cd0df34f:
@@ -44954,13 +44954,13 @@ translate zh_Hans son_sissy_storyline_296_cd0df34f:
 translate zh_Hans son_sissy_storyline_296_f7c32475:
 
     # nvljim "No, I’m not joking."
-    nvljim "不，爸爸没有开玩笑。"
+    nvljim "不，我没有开玩笑。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22781
 translate zh_Hans son_sissy_storyline_296_bf7f3812:
 
     # nvlsson "And what if I don’t agree to do this?"
-    nvlsson "那……如果人家不答应做这些呢？"
+    nvlsson "那……如果我不答应做这些呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22783
 translate zh_Hans son_sissy_storyline_296_d5ef3e6a:
@@ -44978,13 +44978,13 @@ translate zh_Hans son_sissy_storyline_296_d27469fd:
 translate zh_Hans son_sissy_storyline_296_f26e6b65:
 
     # nvljim "I don’t need disobedient ones."
-    nvljim "爸爸不需要不听话的孩子。"
+    nvljim "我不需要不听话的孩子。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22789
 translate zh_Hans son_sissy_storyline_296_d760fdc4:
 
     # nvljim "I thought you understood that by now."
-    nvljim "爸爸以为，你现在应该已经明白了呢。"
+    nvljim "我以为，你现在应该已经明白了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22791
 translate zh_Hans son_sissy_storyline_296_a580bf03:
@@ -45002,7 +45002,7 @@ translate zh_Hans son_sissy_storyline_296_6041638b:
 translate zh_Hans son_sissy_storyline_296_3da524c7:
 
     # nvlsson "Okay, I understand."
-    nvlsson "嗯，人家明白了。"
+    nvlsson "嗯，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22797
 translate zh_Hans son_sissy_storyline_296_301977db:
@@ -45064,13 +45064,13 @@ translate zh_Hans son_sissy_storyline_297_187d50e7:
 translate zh_Hans son_sissy_storyline_297_9f781132:
 
     # nvlvalerie "Honestly? I don’t know yet."
-    nvlvalerie "说实话？人家现在也不知道呢。"
+    nvlvalerie "说实话？我现在也不知道呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22850
 translate zh_Hans son_sissy_storyline_297_ce310544:
 
     # nvlvalerie "I’ll probably quit."
-    nvlvalerie "人家大概会辞职吧。"
+    nvlvalerie "我大概会辞职吧。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22852
 translate zh_Hans son_sissy_storyline_297_d27a2b2f:
@@ -45082,7 +45082,7 @@ translate zh_Hans son_sissy_storyline_297_d27a2b2f:
 translate zh_Hans son_sissy_storyline_297_3f13e631:
 
     # nvlvalerie "I’m not really eager to suck random dicks in a bathroom."
-    nvlvalerie "人家可不想在洗手间里，去伺候那些陌生人的下面呢。"
+    nvlvalerie "我可不想在洗手间里，去伺候那些陌生人的下面呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22856
 translate zh_Hans son_sissy_storyline_297_a5517a24:
@@ -45100,7 +45100,7 @@ translate zh_Hans son_sissy_storyline_297_c8a8a632:
 translate zh_Hans son_sissy_storyline_297_3d43fed8:
 
     # nvlsson "I’ll probably quit too."
-    nvlsson "人家大概也会辞职的。"
+    nvlsson "我大概也会辞职的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22862
 translate zh_Hans son_sissy_storyline_297_05235fc1:
@@ -45124,7 +45124,7 @@ translate zh_Hans son_sissy_storyline_297_423d98a4:
 translate zh_Hans son_sissy_storyline_297_2dc6bdc7:
 
     # nvlsson "😊"
-    nvlsson ""
+    nvlsson "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22870
 translate zh_Hans son_sissy_storyline_297_fbe6537e:
@@ -45136,7 +45136,7 @@ translate zh_Hans son_sissy_storyline_297_fbe6537e:
 translate zh_Hans son_sissy_storyline_297_f25a35f2:
 
     # nvlvalerie "It was awesome. I really liked it."
-    nvlvalerie "那次太棒了。人家真的很喜欢呢。"
+    nvlvalerie "那次太棒了。我真的很喜欢呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22874
 translate zh_Hans son_sissy_storyline_297_132cc50f:
@@ -45148,7 +45148,7 @@ translate zh_Hans son_sissy_storyline_297_132cc50f:
 translate zh_Hans son_sissy_storyline_297_2651a884:
 
     # nvlsson "Jenna told me the same thing a couple days ago."
-    nvlsson "珍娜几天前也和人家说了同样的话。"
+    nvlsson "珍娜几天前也和我说了同样的话。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22878
 translate zh_Hans son_sissy_storyline_297_0943eb7e:
@@ -45172,13 +45172,13 @@ translate zh_Hans son_sissy_storyline_297_2b8697d6:
 translate zh_Hans son_sissy_storyline_297_4ef9f6fb:
 
     # nvlvalerie "I probably can’t this week."
-    nvlvalerie "人家这周可能不行呢。"
+    nvlvalerie "我这周可能不行呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22886
 translate zh_Hans son_sissy_storyline_297_697dd2ac:
 
     # nvlvalerie "I already made plans to meet someone."
-    nvlvalerie "人家已经和别人约好了。"
+    nvlvalerie "我已经和别人约好了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22888
 translate zh_Hans son_sissy_storyline_297_9c761dbf:
@@ -45214,7 +45214,7 @@ translate zh_Hans son_sissy_storyline_297_56eb5ebb:
 translate zh_Hans son_sissy_storyline_297_971e79a0:
 
     # nvlsson "Yeah, I’ll talk to her. I’ll text you afterwards."
-    nvlsson "嗯，人家会和她说的。之后再发信息给你。"
+    nvlsson "嗯，我会和她说的。之后再发信息给你。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22900
 translate zh_Hans son_sissy_storyline_297_a050f4db:
@@ -45234,7 +45234,7 @@ translate zh_Hans son_sissy_storyline_298_0826308a:
     # nvl clear
     # nvlsson "You won’t believe what’s happening at my job. 😊"
     nvl clear
-    nvlsson "你绝对不会相信人家工作上发生了什么事。😊"
+    nvlsson "你绝对不会相信我工作上发生了什么事。😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22939
 translate zh_Hans son_sissy_storyline_298_ebe0f620:
@@ -45246,13 +45246,13 @@ translate zh_Hans son_sissy_storyline_298_ebe0f620:
 translate zh_Hans son_sissy_storyline_298_8fe423c9:
 
     # nvlsson "My boss decided to set up a gloryhole right in the café bathroom."
-    nvlsson "人家的老板竟然决定，要在咖啡馆的洗手间里弄一个‘快乐洞’。"
+    nvlsson "我的老板竟然决定，要在咖啡馆的洗手间里弄一个‘快乐洞’。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22943
 translate zh_Hans son_sissy_storyline_298_7a7ef75b:
 
     # nvlsson "And he said that Valerie and I will be working there in turns."
-    nvlsson "他还说，以后人家和瓦莱丽要轮流在那里‘工作’。"
+    nvlsson "他还说，以后我和瓦莱丽要轮流在那里‘工作’。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22945
 translate zh_Hans son_sissy_storyline_298_ce26059c:
@@ -45276,7 +45276,7 @@ translate zh_Hans son_sissy_storyline_298_d002e90d:
 translate zh_Hans son_sissy_storyline_298_6dcd0785:
 
     # nvlsson "So now we’re not just waitresses, but also cock-suckers."
-    nvlsson "所以现在，人家和瓦莱丽不只是服务员了，还要用小嘴去取悦那些客人呢。"
+    nvlsson "所以现在，我和瓦莱丽不只是服务员了，还要用小嘴去取悦那些客人呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22953
 translate zh_Hans son_sissy_storyline_298_282db1f8:
@@ -45288,7 +45288,7 @@ translate zh_Hans son_sissy_storyline_298_282db1f8:
 translate zh_Hans son_sissy_storyline_298_8fda1d40:
 
     # nvljenna "I don’t even know what to say."
-    nvljenna "人家都不知道该说什么好了。"
+    nvljenna "我都不知道该说什么好了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22957
 translate zh_Hans son_sissy_storyline_298_bada9c04:
@@ -45300,7 +45300,7 @@ translate zh_Hans son_sissy_storyline_298_bada9c04:
 translate zh_Hans son_sissy_storyline_298_283a8886:
 
     # nvlsson "I’m thinking about what to do now."
-    nvlsson "人家正在想，现在该怎么办呢。"
+    nvlsson "我正在想，现在该怎么办呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22961
 translate zh_Hans son_sissy_storyline_298_1a488d30:
@@ -45324,19 +45324,19 @@ translate zh_Hans son_sissy_storyline_298_e51bef89:
 translate zh_Hans son_sissy_storyline_298_b5f36485:
 
     # nvlsson "Then I’d rather go stand on the street and be a prostitute."
-    nvlsson "那人家还不如去街边当个风尘女子呢。"
+    nvlsson "那我还不如去街边当个风尘女子呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22969
 translate zh_Hans son_sissy_storyline_298_c778c772:
 
     # nvlsson "Because I doubt Jim will pay anything normal for me sucking off the customers."
-    nvlsson "因为人家怀疑吉姆根本不会给人家伺候客人的小嘴，支付什么正常的报酬。"
+    nvlsson "因为我怀疑吉姆根本不会给我伺候客人的小嘴，支付什么正常的报酬。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22971
 translate zh_Hans son_sissy_storyline_298_30a7ede1:
 
     # nvlsson "I think mine and Valerie’s salaries won’t change at all."
-    nvlsson "人家觉得，人家和瓦莱丽的工资根本就不会有任何变化。"
+    nvlsson "我觉得，我和瓦莱丽的工资根本就不会有任何变化。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22973
 translate zh_Hans son_sissy_storyline_298_d30bdd23:
@@ -45396,7 +45396,7 @@ translate zh_Hans son_sissy_storyline_298_5ecb8f7d:
 translate zh_Hans son_sissy_storyline_298_1c0e5140:
 
     # nvlsson "I’ll be waiting."
-    nvlsson "人家会乖乖等你的。"
+    nvlsson "我会乖乖等你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:22993
 translate zh_Hans son_sissy_storyline_298_7317eae7:
@@ -45446,7 +45446,7 @@ translate zh_Hans son_sissy_storyline_299_0fc12697:
 translate zh_Hans son_sissy_storyline_299_79df7b21:
 
     # nvljohn "Also great."
-    nvljohn "人家也很好呢~"
+    nvljohn "我也很好。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23042
 translate zh_Hans son_sissy_storyline_299_358a567d:
@@ -45506,19 +45506,19 @@ translate zh_Hans son_sissy_storyline_299_17b1203e:
 translate zh_Hans son_sissy_storyline_299_18632e7f:
 
     # nvlsson "No, I didn’t have any."
-    nvlsson "没有呢，人家今晚没有安排。"
+    nvlsson "没有呢，我今晚没有安排。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23062
 translate zh_Hans son_sissy_storyline_299_f39e0254:
 
     # nvlsson "We can meet 😊"
-    nvlsson "人家可以和你见面哦 😊"
+    nvlsson "我可以和你见面哦 😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23064
 translate zh_Hans son_sissy_storyline_299_425f8f58:
 
     # nvljohn "What time should I pick you up?"
-    nvljohn "我几点去接你呢？"
+    nvljohn "我几点去接你？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23066
 translate zh_Hans son_sissy_storyline_299_1b767f77:
@@ -45554,19 +45554,19 @@ translate zh_Hans son_sissy_storyline_299_f9375bdd:
 translate zh_Hans son_sissy_storyline_299_eae4280d:
 
     # nvlsson "Mmmmmm. With pleasure, daddy."
-    nvlsson "嗯嗯嗯嗯嗯~ 爹地，人家乐意极了呢~"
+    nvlsson "嗯嗯嗯嗯嗯~ 爹地，我乐意极了呢~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23078
 translate zh_Hans son_sissy_storyline_299_5fabc023:
 
     # nvlsson "I’ll show you everything I have."
-    nvlsson "人家会把所有的一切都展示给你的。"
+    nvlsson "我会把所有的一切都展示给你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23080
 translate zh_Hans son_sissy_storyline_299_c4c7ec17:
 
     # nvlsson "I’ll show them in action."
-    nvlsson "人家还会亲身为你演示它们是如何被使用的呢~"
+    nvlsson "我还会亲身为你演示它们是如何被使用的呢~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23082
 translate zh_Hans son_sissy_storyline_299_30d05147:
@@ -45598,13 +45598,13 @@ translate zh_Hans son_sissy_storyline_300_61bca8b7:
     # nvl clear
     # nvlsson "My butt still hurts after yesterday."
     nvl clear
-    nvlsson "爹地，人家的小屁屁昨天被你弄得现在还疼呢。"
+    nvlsson "爹地，我的小屁屁昨天被你弄得现在还疼呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23125
 translate zh_Hans son_sissy_storyline_300_b7e3e8e4:
 
     # nvlsson "You were very rough with me yesterday."
-    nvlsson "你昨天对人家可真是粗暴呢。"
+    nvlsson "你昨天对我可真是粗暴呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23127
 translate zh_Hans son_sissy_storyline_300_b7870e58:
@@ -45622,19 +45622,19 @@ translate zh_Hans son_sissy_storyline_300_401d1244:
 translate zh_Hans son_sissy_storyline_300_39043ee8:
 
     # nvlsson "No need to apologise. I liked it."
-    nvlsson "爹地不用道歉啦~ 人家喜欢得很呢。"
+    nvlsson "爹地不用道歉啦~ 我喜欢得很呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23137
 translate zh_Hans son_sissy_storyline_300_7977d4be:
 
     # nvlsson "{a=show:show_chat_media}{image=mikky_video_39_ns}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=mikky_video_39_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23141
 translate zh_Hans son_sissy_storyline_300_50df691f:
 
     # nvlsson "I’d like you to fuck me like that more often."
-    nvlsson "人家好想爹地能更经常地这样狠狠地疼爱人家呢。"
+    nvlsson "我好想爹地能更经常地这样狠狠地疼爱我呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23143
 translate zh_Hans son_sissy_storyline_300_8f0a3f53:
@@ -45652,31 +45652,31 @@ translate zh_Hans son_sissy_storyline_300_fb0b5da3:
 translate zh_Hans son_sissy_storyline_300_5d7e579f:
 
     # nvlsson "Yessss. I liked it a lot."
-    nvlsson "嗯嗯嗯嗯嗯~ 人家喜欢极了呢！"
+    nvlsson "嗯嗯嗯嗯嗯~ 我喜欢极了呢！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23149
 translate zh_Hans son_sissy_storyline_300_e75c0b24:
 
     # nvlsson "I like it when you’re a bit rough with me."
-    nvlsson "人家就是喜欢爹地对人家粗鲁一点呢。"
+    nvlsson "我就是喜欢爹地对我粗鲁一点呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23151
 translate zh_Hans son_sissy_storyline_300_4b745568:
 
     # nvlsson "When you fuck my butt and don’t think about whether it hurts me or not."
-    nvlsson "当爹地狠狠地肏弄人家的后穴，完全不顾人家会不会疼的时候，人家就觉得好兴奋好刺激呢。"
+    nvlsson "当爹地狠狠地肏弄我的后穴，完全不顾我会不会疼的时候，我就觉得好兴奋好刺激呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23153
 translate zh_Hans son_sissy_storyline_300_a6b2a598:
 
     # nvlsson "In those moments I feel like a real slut."
-    nvlsson "在那些时刻，人家觉得自己就像个真正的荡妇一样，完全被爹地占有了呢。"
+    nvlsson "在那些时刻，我觉得自己就像个真正的荡妇一样，完全被爹地占有了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23155
 translate zh_Hans son_sissy_storyline_300_58f1ac28:
 
     # nvlsson "And it turns me on so much."
-    nvlsson "那种感觉让人家身子湿热酥麻，好想融化在你的温度里呢。"
+    nvlsson "那种感觉让我身子湿热酥麻，好想融化在你的温度里呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23157
 translate zh_Hans son_sissy_storyline_300_90e1af96:
@@ -45688,7 +45688,7 @@ translate zh_Hans son_sissy_storyline_300_90e1af96:
 translate zh_Hans son_sissy_storyline_300_bee4ff8f:
 
     # nvlsson "I wanted you to figure it out on your own."
-    nvlsson "人家是想让大人自己明白呢。"
+    nvlsson "我是想让爸爸自己明白呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23161
 translate zh_Hans son_sissy_storyline_300_8ef84a1b:
@@ -45700,7 +45700,7 @@ translate zh_Hans son_sissy_storyline_300_8ef84a1b:
 translate zh_Hans son_sissy_storyline_300_718feb91:
 
     # nvlsson "And you figured it out 😉"
-    nvlsson "大人果然聪明，都猜到啦 😉"
+    nvlsson "爸爸果然聪明，都猜到啦 😉"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23165
 translate zh_Hans son_sissy_storyline_300_510babee:
@@ -45730,13 +45730,13 @@ translate zh_Hans son_sissy_storyline_300_83b90e6d:
 translate zh_Hans son_sissy_storyline_300_21673e08:
 
     # nvlsson "After words like that I want only one thing."
-    nvlsson "大人说了这样的话，人家就只想要一件事了。"
+    nvlsson "爸爸说了这样的话，我就只想要一件事了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23175
 translate zh_Hans son_sissy_storyline_300_8db66fff:
 
     # nvlsson "To meet you and feel your cock inside my butt."
-    nvlsson "就是想快点见到大人，感受你的巨物在人家的屁股里进出。"
+    nvlsson "就是想快点见到爸爸，感受你的巨物在我的屁股里进出。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23177
 translate zh_Hans son_sissy_storyline_300_fddc0d73:
@@ -45748,7 +45748,7 @@ translate zh_Hans son_sissy_storyline_300_fddc0d73:
 translate zh_Hans son_sissy_storyline_300_fd28ac40:
 
     # nvljohn "I’ll try to be free tomorrow or the day after."
-    nvljohn "人家明天或者后天会努力腾出时间的。"
+    nvljohn "我明天或者后天会努力腾出时间的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23181
 translate zh_Hans son_sissy_storyline_300_0f70a02f:
@@ -45766,13 +45766,13 @@ translate zh_Hans son_sissy_storyline_300_56327848:
 translate zh_Hans son_sissy_storyline_300_744c0d4a:
 
     # nvljohn "Perfect, baby."
-    nvljohn "太棒了，大人。"
+    nvljohn "太棒了，宝贝。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23187
 translate zh_Hans son_sissy_storyline_300_f955d97b:
 
     # nvljohn "I’m all for it."
-    nvljohn "人家完全同意呢。"
+    nvljohn "我完全同意。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23189
 translate zh_Hans son_sissy_storyline_300_200d893b:
@@ -45784,13 +45784,13 @@ translate zh_Hans son_sissy_storyline_300_200d893b:
 translate zh_Hans son_sissy_storyline_300_ac73d2da:
 
     # nvlsson "Then I’m definitely coming."
-    nvlsson "那人家就一定来！"
+    nvlsson "那我就一定来！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23193
 translate zh_Hans son_sissy_storyline_300_a84df8a3:
 
     # nvlsson "I’ll be at your place around 10."
-    nvlsson "人家大概十点左右到大人那里。"
+    nvlsson "我大概十点左右到爸爸那里。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23195
 translate zh_Hans son_sissy_storyline_300_230e39bb:
@@ -45822,7 +45822,7 @@ translate zh_Hans son_sissy_storyline_301_0fbe0f35:
 translate zh_Hans son_sissy_storyline_301_4f51f867:
 
     # nvlsson "I’m doing great."
-    nvlsson "人家好得很呢。"
+    nvlsson "我好得很呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23238
 translate zh_Hans son_sissy_storyline_301_8d80b71b:
@@ -45852,7 +45852,7 @@ translate zh_Hans son_sissy_storyline_301_ed6607b6:
 translate zh_Hans son_sissy_storyline_301_1dd6cae8:
 
     # nvlsson "I agree."
-    nvlsson "人家同意！"
+    nvlsson "我同意！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23248
 translate zh_Hans son_sissy_storyline_301_fb1c5a10:
@@ -45870,13 +45870,13 @@ translate zh_Hans son_sissy_storyline_301_c8015f04:
 translate zh_Hans son_sissy_storyline_301_b0d10d09:
 
     # nvlsson "I don’t care. 😊"
-    nvlsson "人家才不在乎呢。😊"
+    nvlsson "我才不在乎呢。😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23254
 translate zh_Hans son_sissy_storyline_301_759d3573:
 
     # nvlsson "With you I’m ready to go anywhere."
-    nvlsson "只要是大人，人家就愿意去任何地方。"
+    nvlsson "只要是爸爸，我就愿意去任何地方。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23256
 translate zh_Hans son_sissy_storyline_301_7746b109:
@@ -45894,7 +45894,7 @@ translate zh_Hans son_sissy_storyline_301_ccc2c19d:
 translate zh_Hans son_sissy_storyline_301_3cc986be:
 
     # nvlsson "I don’t have dresses that aren’t sexual."
-    nvlsson "人家没有不性感的裙子呀。"
+    nvlsson "我没有不性感的裙子呀。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23262
 translate zh_Hans son_sissy_storyline_301_94359658:
@@ -45944,7 +45944,7 @@ translate zh_Hans son_sissy_storyline_302_abe63e42:
 translate zh_Hans son_sissy_storyline_302_791cd819:
 
     # nvlsson "I felt so good with you."
-    nvlsson "人家和大人在一起，感觉好舒服、好满足呢。"
+    nvlsson "我和爸爸在一起，感觉好舒服、好满足呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23311
 translate zh_Hans son_sissy_storyline_302_6639a22b:
@@ -45962,13 +45962,13 @@ translate zh_Hans son_sissy_storyline_302_d7429814:
 translate zh_Hans son_sissy_storyline_302_d3bb28c0:
 
     # nvlsson "I thought you didn’t want one."
-    nvlsson "人家以为大人不想要呢。"
+    nvlsson "我以为爸爸不想要呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23317
 translate zh_Hans son_sissy_storyline_302_20682b2a:
 
     # nvlsson "You seemed distracted. And you kept talking only about business."
-    nvlsson "大人看起来心不在焉的。而且一直只谈工作。"
+    nvlsson "爸爸看起来心不在焉的。而且一直只谈工作。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23319
 translate zh_Hans son_sissy_storyline_302_fa5a0e09:
@@ -46004,13 +46004,13 @@ translate zh_Hans son_sissy_storyline_302_acf82d1e:
 translate zh_Hans son_sissy_storyline_302_323f019e:
 
     # nvlsson "And what if not only with my lips? 😉"
-    nvlsson "那如果不仅限于人家的唇呢？😉"
+    nvlsson "那如果不仅限于我的唇呢？😉"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23331
 translate zh_Hans son_sissy_storyline_302_bb78ad35:
 
     # nvlsson "What if I want more."
-    nvlsson "如果人家想要更多呢。"
+    nvlsson "如果我想要更多呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23333
 translate zh_Hans son_sissy_storyline_302_e54af2e4:
@@ -46040,7 +46040,7 @@ translate zh_Hans son_sissy_storyline_302_71319a92:
 translate zh_Hans son_sissy_storyline_302_eceb39a7:
 
     # nvlsson "Whatever you say 😊"
-    nvlsson "大人说什么，人家都听你的😊"
+    nvlsson "爸爸说什么，我都听你的😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23343
 translate zh_Hans son_sissy_storyline_302_758965f0:
@@ -46058,7 +46058,7 @@ translate zh_Hans son_sissy_storyline_302_8d10c73b:
 translate zh_Hans son_sissy_storyline_302_b455dfa7:
 
     # nvlkanye "You could make very good money working for me."
-    nvlkanye "跟着爸爸，宝贝，你能赚到好多好多钱呢。"
+    nvlkanye "跟着我，宝贝，你能赚到好多好多钱呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23349
 translate zh_Hans son_sissy_storyline_302_de0fe3f5:
@@ -46070,25 +46070,25 @@ translate zh_Hans son_sissy_storyline_302_de0fe3f5:
 translate zh_Hans son_sissy_storyline_302_f1865b3e:
 
     # nvlsson "Sounds kind of suspicious, honestly."
-    nvlsson "人家觉得……听起来有点可疑呢，真的啦。"
+    nvlsson "我觉得……听起来有点可疑呢，真的啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23353
 translate zh_Hans son_sissy_storyline_302_2ca169c2:
 
     # nvlkanye "You don’t trust me?"
-    nvlkanye "宝贝不相信爸爸吗？"
+    nvlkanye "宝贝不相信我吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23355
 translate zh_Hans son_sissy_storyline_302_512c35ee:
 
     # nvlsson "I do trust you."
-    nvlsson "人家当然相信你啦。"
+    nvlsson "我当然相信你啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23357
 translate zh_Hans son_sissy_storyline_302_95a9bb35:
 
     # nvlsson "It’s just the way you say it."
-    nvlsson "只是你说的方式……让人家有点不安嘛。"
+    nvlsson "只是你说的方式……让我有点不安嘛。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23359
 translate zh_Hans son_sissy_storyline_302_591449ec:
@@ -46106,7 +46106,7 @@ translate zh_Hans son_sissy_storyline_302_e4fb3fd6:
 translate zh_Hans son_sissy_storyline_302_fa15d6b4:
 
     # nvlkanye "Well, I'm definitely not a scammer 😊"
-    nvlkanye "嗯哼，爸爸可绝对不是骗子哦😊"
+    nvlkanye "嗯哼，我可绝对不是骗子哦😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23365
 translate zh_Hans son_sissy_storyline_302_f15240e3:
@@ -46118,19 +46118,19 @@ translate zh_Hans son_sissy_storyline_302_f15240e3:
 translate zh_Hans son_sissy_storyline_302_d37c8ca9:
 
     # nvlsson "I’ll think about it."
-    nvlsson "人家会好好考虑的啦。"
+    nvlsson "我会好好考虑的啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23369
 translate zh_Hans son_sissy_storyline_302_9f2cc6a2:
 
     # nvlsson "I still need to figure out what to do with my current job."
-    nvlsson "人家现在的工作，还需要处理一下下呢。"
+    nvlsson "我现在的工作，还需要处理一下下呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23371
 translate zh_Hans son_sissy_storyline_302_9a506e69:
 
     # nvlsson "When I quit, I’ll text you, okay?"
-    nvlsson "等人家辞职了，就给你发消息，好不好嘛？"
+    nvlsson "等我辞职了，就给你发消息，好不好嘛？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23373
 translate zh_Hans son_sissy_storyline_302_987bc0c8:
@@ -46148,25 +46148,25 @@ translate zh_Hans son_sissy_storyline_302_82505648:
 translate zh_Hans son_sissy_storyline_302_91ac8e28:
 
     # nvlkanye "Just don’t take too long."
-    nvlkanye "可别让爸爸等太久哦。"
+    nvlkanye "可别让我等太久哦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23379
 translate zh_Hans son_sissy_storyline_302_c40b3dbd:
 
     # nvlkanye "I need workers now, and if you think too long, it’ll be easier for me to hire someone else."
-    nvlkanye "爸爸现在就需要人手，宝贝要是考虑太久，爸爸就只能找别人了呢。"
+    nvlkanye "我现在就需要人手，宝贝要是考虑太久，我就只能找别人了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23381
 translate zh_Hans son_sissy_storyline_302_4a2c900e:
 
     # nvlsson "Yeah, I understand."
-    nvlsson "嗯，人家明白的啦。"
+    nvlsson "嗯，我明白的啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23383
 translate zh_Hans son_sissy_storyline_302_b6a17e0b:
 
     # nvlsson "I’ll let you know when I decide."
-    nvlsson "等人家决定好了，就告诉你哦。"
+    nvlsson "等我决定好了，就告诉你哦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23399
 translate zh_Hans son_sissy_storyline_302_53c71d7c:
@@ -46192,7 +46192,7 @@ translate zh_Hans son_sissy_storyline_303_51a77eb5:
 translate zh_Hans son_sissy_storyline_303_fdef3313:
 
     # nvlsson "I need your advice."
-    nvlsson "人家需要你的建议啦。"
+    nvlsson "我需要你的建议啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23426
 translate zh_Hans son_sissy_storyline_303_49294e4f:
@@ -46204,7 +46204,7 @@ translate zh_Hans son_sissy_storyline_303_49294e4f:
 translate zh_Hans son_sissy_storyline_303_b9fac8a1:
 
     # nvlsson "Kanye is offering me to work for him."
-    nvlsson "Kanye他想让人家去给他工作呢。"
+    nvlsson "Kanye他想让我去给他工作呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23430
 translate zh_Hans son_sissy_storyline_303_78098ff4:
@@ -46222,7 +46222,7 @@ translate zh_Hans son_sissy_storyline_303_8c8ab463:
 translate zh_Hans son_sissy_storyline_303_5beeddb1:
 
     # nvlsson "But I don’t know if I should agree or not..."
-    nvlsson "可是人家不知道该不该答应他啦……"
+    nvlsson "可是我不知道该不该答应他啦……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23436
 translate zh_Hans son_sissy_storyline_303_4d41cb14:
@@ -46246,13 +46246,13 @@ translate zh_Hans son_sissy_storyline_303_d422209c:
 translate zh_Hans son_sissy_storyline_303_5faf7e02:
 
     # nvlsson "No, I don’t want to work in a gloryhole."
-    nvlsson "才不要呢，人家才不想在炮洞里工作啦。"
+    nvlsson "才不要呢，我才不想在炮洞里工作啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23444
 translate zh_Hans son_sissy_storyline_303_11432ecc:
 
     # nvlsson "I’m thinking about quitting and finding something else."
-    nvlsson "人家在想辞职，然后找点别的事情做。"
+    nvlsson "我在想辞职，然后找点别的事情做。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23446
 translate zh_Hans son_sissy_storyline_303_f98097af:
@@ -46276,7 +46276,7 @@ translate zh_Hans son_sissy_storyline_303_b7d0d8ad:
 translate zh_Hans son_sissy_storyline_303_3bef0a7f:
 
     # nvlsson "So you think I should accept and work for him?"
-    nvlsson "所以你觉得人家应该答应他，去给他工作吗？"
+    nvlsson "所以你觉得我应该答应他，去给他工作吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23454
 translate zh_Hans son_sissy_storyline_303_3ce598fc:
@@ -46294,7 +46294,7 @@ translate zh_Hans son_sissy_storyline_303_87f541e5:
 translate zh_Hans son_sissy_storyline_303_ec6006f2:
 
     # nvlsson "But then I’ll have to leave the country."
-    nvlsson "可是那样人家就要离开这个国家了呀。"
+    nvlsson "可是那样我就要离开这个国家了呀。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23460
 translate zh_Hans son_sissy_storyline_303_eb17f0a2:
@@ -46318,7 +46318,7 @@ translate zh_Hans son_sissy_storyline_303_61c6304f:
 translate zh_Hans son_sissy_storyline_303_e5a8b231:
 
     # nvlsson "Then I guess agreeing is the best choice."
-    nvlsson "那人家想，答应他就是最好的选择了吧。"
+    nvlsson "那我想，答应他就是最好的选择了吧。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23468
 translate zh_Hans son_sissy_storyline_303_55b1ea67:
@@ -46378,13 +46378,13 @@ translate zh_Hans son_sissy_storyline_303_e4fb3fd6:
 translate zh_Hans son_sissy_storyline_303_07c56f4a:
 
     # nvlsson "Okay. I promise."
-    nvlsson "好啦，人家保证。"
+    nvlsson "好啦，我保证。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23488
 translate zh_Hans son_sissy_storyline_303_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23504
 translate zh_Hans son_sissy_storyline_303_53c71d7c:
@@ -46416,7 +46416,7 @@ translate zh_Hans son_sissy_storyline_304_00f8bc89:
 translate zh_Hans son_sissy_storyline_304_37a90c15:
 
     # nvlsson "I'm at work."
-    nvlsson "人家在工作呢。"
+    nvlsson "我在工作呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23533
 translate zh_Hans son_sissy_storyline_304_75ebcaa1:
@@ -46428,13 +46428,13 @@ translate zh_Hans son_sissy_storyline_304_75ebcaa1:
 translate zh_Hans son_sissy_storyline_304_587cf9b5:
 
     # nvlgreg "Do you want to grab some coffee after work?"
-    nvlgreg "下班后要不要和爸爸一起去喝杯咖啡呀？"
+    nvlgreg "下班后要不要和我一起去喝杯咖啡呀？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23537
 translate zh_Hans son_sissy_storyline_304_2b34b862:
 
     # nvlsson "Sure. I'd love to."
-    nvlsson "当然啦，人家可喜欢了。"
+    nvlsson "当然啦，我可喜欢了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23539
 translate zh_Hans son_sissy_storyline_304_bcccf0cf:
@@ -46496,13 +46496,13 @@ translate zh_Hans son_sissy_storyline_305_d7a39d58:
 translate zh_Hans son_sissy_storyline_305_bc0b77df:
 
     # nvlsson "We've never hung out like that before."
-    nvlsson "人家以前可从来没和你那样玩过呢。"
+    nvlsson "我以前可从来没和你那样玩过呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23592
 translate zh_Hans son_sissy_storyline_305_1711af2b:
 
     # nvlsson "I don't remember a single night where you kept touching my butt and my tits the whole time."
-    nvlsson "人家可不记得有哪一晚，你一直不停地摸人家的小屁股和胸口呢。"
+    nvlsson "我可不记得有哪一晚，你一直不停地摸我的小屁股和胸口呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23594
 translate zh_Hans son_sissy_storyline_305_ec76b24c:
@@ -46556,7 +46556,7 @@ translate zh_Hans son_sissy_storyline_305_e8fbae82:
 translate zh_Hans son_sissy_storyline_305_7ac6b38b:
 
     # nvlsson "So you're saying it was my fault?"
-    nvlsson "所以你是说，是人家勾引的错吗？"
+    nvlsson "所以你是说，是我勾引的错吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23612
 translate zh_Hans son_sissy_storyline_305_1bcb65a3:
@@ -46580,13 +46580,13 @@ translate zh_Hans son_sissy_storyline_305_525437c3:
 translate zh_Hans son_sissy_storyline_305_a60d3d71:
 
     # nvlsson "Relax, I'm joking."
-    nvlsson "放松啦，人家开玩笑的。"
+    nvlsson "放松啦，我开玩笑的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23620
 translate zh_Hans son_sissy_storyline_305_ea8afba0:
 
     # nvlsson "I don't mind being touched."
-    nvlsson "人家不介意被你触碰的。"
+    nvlsson "我不介意被你触碰的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23622
 translate zh_Hans son_sissy_storyline_305_99424938:
@@ -46616,7 +46616,7 @@ translate zh_Hans son_sissy_storyline_305_50aa1588:
 translate zh_Hans son_sissy_storyline_305_d6f29607:
 
     # nvlsson "I highly doubt you could ever change, Greg."
-    nvlsson "人家才不信你能改变呢，格雷格。"
+    nvlsson "我才不信你能改变呢，格雷格。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23632
 translate zh_Hans son_sissy_storyline_305_5c4d5856:
@@ -46634,7 +46634,7 @@ translate zh_Hans son_sissy_storyline_305_d906deec:
 translate zh_Hans son_sissy_storyline_305_2dc6bdc7:
 
     # nvlsson "😊"
-    nvlsson ""
+    nvlsson "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23638
 translate zh_Hans son_sissy_storyline_305_95b30d8d:
@@ -46658,7 +46658,7 @@ translate zh_Hans son_sissy_storyline_305_f43dfab5:
 translate zh_Hans son_sissy_storyline_305_30c9e71f:
 
     # nvlgreg "😘"
-    nvlgreg "人家被夸得脸都红了呢~"
+    nvlgreg "我被夸得脸都红了呢~"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23646
 translate zh_Hans son_sissy_storyline_305_45b0fa25:
@@ -46688,7 +46688,7 @@ translate zh_Hans son_sissy_storyline_305_361f2f9a:
 translate zh_Hans son_sissy_storyline_305_3d559b94:
 
     # nvlgreg "I have a lot of free time right now, just so you know."
-    nvlgreg "人家现在可有很多空闲时间呢，你知道的哦。"
+    nvlgreg "我现在可有很多空闲时间呢，你知道的哦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23656
 translate zh_Hans son_sissy_storyline_305_77cd77c4:
@@ -46720,13 +46720,13 @@ translate zh_Hans son_sissy_storyline_306_79bd5a3d:
 translate zh_Hans son_sissy_storyline_306_65a46b6c:
 
     # nvlsson "No, my evening is free. 😊"
-    nvlsson "不呀，人家今晚可空闲着呢。😊"
+    nvlsson "不呀，我今晚可空闲着呢。😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23699
 translate zh_Hans son_sissy_storyline_306_9a1605c3:
 
     # nvlsson "We can go somewhere if you want."
-    nvlsson "如果你想的话，人家可以陪你去任何地方哦。"
+    nvlsson "如果你想的话，我可以陪你去任何地方哦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23701
 translate zh_Hans son_sissy_storyline_306_36192080:
@@ -46782,7 +46782,7 @@ translate zh_Hans son_sissy_storyline_307_a8ced816:
     # nvl clear
     # nvlsson "Will you send me the video, Daddy?"
     nvl clear
-    nvlsson "爸爸，你会把视频发给人家的，对吗？"
+    nvlsson "爸爸，你会把视频发给我的，对吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23752
 translate zh_Hans son_sissy_storyline_307_57020112:
@@ -46794,13 +46794,13 @@ translate zh_Hans son_sissy_storyline_307_57020112:
 translate zh_Hans son_sissy_storyline_307_62a0bd78:
 
     # nvljohn "{a=show:show_chat_media}{image=mikky_video_40_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=mikky_video_40_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23762
 translate zh_Hans son_sissy_storyline_307_1e1de822:
 
     # nvlsson "Thanks. 😘"
-    nvlsson "谢谢大人。😘"
+    nvlsson "谢谢爸爸。😘"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23764
 translate zh_Hans son_sissy_storyline_307_72185508:
@@ -46818,7 +46818,7 @@ translate zh_Hans son_sissy_storyline_307_e60f174c:
 translate zh_Hans son_sissy_storyline_307_f72b4b92:
 
     # nvlsson "Still hurts a little, but it’s the nice kind of pain."
-    nvlsson "还有点点疼呢，不过是那种让人家身子酥酥麻麻的，好舒服的疼……"
+    nvlsson "还有点点疼呢，不过是那种让我身子酥酥麻麻的，好舒服的疼……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23770
 translate zh_Hans son_sissy_storyline_307_2b6531ad:
@@ -46836,13 +46836,13 @@ translate zh_Hans son_sissy_storyline_307_db085846:
 translate zh_Hans son_sissy_storyline_307_14d6b23c:
 
     # nvlsson "I wanted to ask you something."
-    nvlsson "人家想问大人一件事。"
+    nvlsson "我想问爸爸一件事。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23776
 translate zh_Hans son_sissy_storyline_307_030cd889:
 
     # nvlsson "I wanted to tell you yesterday, but it just didn’t happen."
-    nvlsson "昨天就想告诉大人了，可是一直没找到机会。"
+    nvlsson "昨天就想告诉爸爸了，可是一直没找到机会。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23778
 translate zh_Hans son_sissy_storyline_307_ca7674dd:
@@ -46854,7 +46854,7 @@ translate zh_Hans son_sissy_storyline_307_ca7674dd:
 translate zh_Hans son_sissy_storyline_307_cbd3b7f2:
 
     # nvlsson "I got a job offer."
-    nvlsson "人家收到了一份工作邀请。"
+    nvlsson "我收到了一份工作邀请。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23782
 translate zh_Hans son_sissy_storyline_307_3cab17a5:
@@ -46878,7 +46878,7 @@ translate zh_Hans son_sissy_storyline_307_87b925da:
 translate zh_Hans son_sissy_storyline_307_dab06a9a:
 
     # nvlsson "But I’ll have to work abroad."
-    nvlsson "可是人家可能要去国外工作。"
+    nvlsson "可是我可能要去国外工作。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23790
 translate zh_Hans son_sissy_storyline_307_0c88946a:
@@ -46902,7 +46902,7 @@ translate zh_Hans son_sissy_storyline_307_d002e90d:
 translate zh_Hans son_sissy_storyline_307_4c3657cd:
 
     # nvlsson "And I don’t know what the right thing to do is."
-    nvlsson "人家也不知道该怎么办才好。"
+    nvlsson "我也不知道该怎么办才好。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23798
 translate zh_Hans son_sissy_storyline_307_396a75dd:
@@ -46944,7 +46944,7 @@ translate zh_Hans son_sissy_storyline_307_725706ba:
 translate zh_Hans son_sissy_storyline_307_ba913470:
 
     # nvlsson "So you think I should say yes, yeah?"
-    nvlsson "所以大人是觉得，人家应该答应吗？"
+    nvlsson "所以爸爸是觉得，我应该答应吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23812
 translate zh_Hans son_sissy_storyline_307_5d6a4791:
@@ -46968,13 +46968,13 @@ translate zh_Hans son_sissy_storyline_307_e232f104:
 translate zh_Hans son_sissy_storyline_307_2ce3b63d:
 
     # nvljohn "So I guess I’m leaning toward saying yes."
-    nvljohn "那人家想，也许会倾向于答应吧。"
+    nvljohn "那我想，也许会倾向于答应吧。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23820
 translate zh_Hans son_sissy_storyline_307_309bc0fb:
 
     # nvlsson "Are you going to miss me?"
-    nvlsson "大人会想人家吗？"
+    nvlsson "爸爸会想我吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23822
 translate zh_Hans son_sissy_storyline_307_18a277ac:
@@ -46998,7 +46998,7 @@ translate zh_Hans son_sissy_storyline_307_de7f64ed:
 translate zh_Hans son_sissy_storyline_307_f440444d:
 
     # nvlsson "I’ll miss you a lot too."
-    nvlsson "人家也会很想大人的。"
+    nvlsson "我也会很想爸爸的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23830
 translate zh_Hans son_sissy_storyline_307_d7a935b9:
@@ -47028,7 +47028,7 @@ translate zh_Hans son_sissy_storyline_307_db085846_1:
 translate zh_Hans son_sissy_storyline_307_3c258b99:
 
     # nvlsson "But I still need to think about it."
-    nvlsson "可是人家还是需要再好好想想。"
+    nvlsson "可是我还是需要再好好想想。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23840
 translate zh_Hans son_sissy_storyline_307_ea072b22:
@@ -47052,7 +47052,7 @@ translate zh_Hans son_sissy_storyline_307_fbb29c79:
 translate zh_Hans son_sissy_storyline_307_1f58491a:
 
     # nvlsson "You’ll be the first to know."
-    nvlsson "大人会是第一个知道的。"
+    nvlsson "爸爸会是第一个知道的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23862
 translate zh_Hans son_sissy_storyline_307_53c71d7c:
@@ -47174,7 +47174,7 @@ translate zh_Hans son_sissy_storyline_308_6e6db94a:
 translate zh_Hans son_sissy_storyline_308_58fef5d8:
 
     # nvlvalerie "Me neither."
-    nvlvalerie "人家也没有呢。"
+    nvlvalerie "我也没有呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23935
 translate zh_Hans son_sissy_storyline_308_fd0bf351:
@@ -47186,7 +47186,7 @@ translate zh_Hans son_sissy_storyline_308_fd0bf351:
 translate zh_Hans son_sissy_storyline_308_367949ea:
 
     # nvlvalerie "But it feels like there’s absolutely nothing to find."
-    nvlvalerie "可是人家觉得好像什么都找不到呢。"
+    nvlvalerie "可是我觉得好像什么都找不到呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23939
 translate zh_Hans son_sissy_storyline_308_890673a3:
@@ -47198,13 +47198,13 @@ translate zh_Hans son_sissy_storyline_308_890673a3:
 translate zh_Hans son_sissy_storyline_308_9a861ebc:
 
     # nvlvalerie "{a=show:show_chat_media}{image=valerie_pic_17}"
-    nvlvalerie ""
+    nvlvalerie "{a=show:show_chat_media}{image=valerie_pic_17}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23949
 translate zh_Hans son_sissy_storyline_308_d3dfdf80:
 
     # nvlvalerie "I’m sitting here, being sad."
-    nvlvalerie "人家坐在这里，好伤心哦。"
+    nvlvalerie "我坐在这里，好伤心哦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23951
 translate zh_Hans son_sissy_storyline_308_bf9975bd:
@@ -47222,19 +47222,19 @@ translate zh_Hans son_sissy_storyline_308_f89f0c15:
 translate zh_Hans son_sissy_storyline_308_3cbde67e:
 
     # nvlsson "Well, one job was offered to me."
-    nvlsson "嗯，人家倒是收到一个工作邀约呢。"
+    nvlsson "嗯，我倒是收到一个工作邀约呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23957
 translate zh_Hans son_sissy_storyline_308_9d8e9892:
 
     # nvlsson "But I’d have to fly to another country."
-    nvlsson "可是人家得飞到别的国家去呢。"
+    nvlsson "可是我得飞到别的国家去呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23959
 translate zh_Hans son_sissy_storyline_308_4704287b:
 
     # nvlsson "And it’s not really clear what exactly I’ll have to do."
-    nvlsson "而且人家也不是很清楚具体要做什么呢。"
+    nvlsson "而且我也不是很清楚具体要做什么呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23961
 translate zh_Hans son_sissy_storyline_308_5917e185:
@@ -47252,13 +47252,13 @@ translate zh_Hans son_sissy_storyline_308_d002e90d:
 translate zh_Hans son_sissy_storyline_308_685d2135:
 
     # nvlsson "But I can’t say which one exactly."
-    nvlsson "可是人家还不能说具体是哪个呢。"
+    nvlsson "可是我还不能说具体是哪个呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23967
 translate zh_Hans son_sissy_storyline_308_8b4d4dd5:
 
     # nvlsson "Since I don’t know myself yet."
-    nvlsson "因为人家自己也还不清楚呢。"
+    nvlsson "因为我自己也还不清楚呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23969
 translate zh_Hans son_sissy_storyline_308_aa69ae02:
@@ -47282,7 +47282,7 @@ translate zh_Hans son_sissy_storyline_308_3cc42dcc:
 translate zh_Hans son_sissy_storyline_308_31d46ef5:
 
     # nvlsson "I’m still thinking."
-    nvlsson "人家还在考虑呢。"
+    nvlsson "我还在考虑呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23977
 translate zh_Hans son_sissy_storyline_308_6fbe12b6:
@@ -47294,7 +47294,7 @@ translate zh_Hans son_sissy_storyline_308_6fbe12b6:
 translate zh_Hans son_sissy_storyline_308_8f9c2d71:
 
     # nvlvalerie "If there’s a chance, could you put in a word for me too?"
-    nvlvalerie "如果有可能的话，你也能帮人家美言几句吗？"
+    nvlvalerie "如果有可能的话，你也能帮我美言几句吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23981
 translate zh_Hans son_sissy_storyline_308_d1823696:
@@ -47318,7 +47318,7 @@ translate zh_Hans son_sissy_storyline_308_3f3acc2e:
 translate zh_Hans son_sissy_storyline_308_7fb962e4:
 
     # nvlvalerie "I’ve been dreaming for a long time about working in another country."
-    nvlvalerie "人家早就梦想着去别的国家工作了呢。"
+    nvlvalerie "我早就梦想着去别的国家工作了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23989
 translate zh_Hans son_sissy_storyline_308_f342d5b2:
@@ -47330,7 +47330,7 @@ translate zh_Hans son_sissy_storyline_308_f342d5b2:
 translate zh_Hans son_sissy_storyline_308_212e9ce9:
 
     # nvlsson "Alright, I’ll talk to this person."
-    nvlsson "好吧，人家会去和这个人谈谈的。"
+    nvlsson "好吧，我会去和这个人谈谈的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23993
 translate zh_Hans son_sissy_storyline_308_a98706c2:
@@ -47342,7 +47342,7 @@ translate zh_Hans son_sissy_storyline_308_a98706c2:
 translate zh_Hans son_sissy_storyline_308_3544069c:
 
     # nvlsson "So most likely he’ll only be happy when I tell him about you."
-    nvlsson "所以人家告诉他关于你的时候，他多半会很高兴的。"
+    nvlsson "所以我告诉他关于你的时候，他多半会很高兴的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:23997
 translate zh_Hans son_sissy_storyline_308_b1100c74:
@@ -47354,13 +47354,13 @@ translate zh_Hans son_sissy_storyline_308_b1100c74:
 translate zh_Hans son_sissy_storyline_308_55be3bac:
 
     # nvlvalerie "I’ll be grateful to you for the rest of my life if you help me get a job abroad."
-    nvlvalerie "如果你能帮人家在国外找到工作，人家这辈子都会感激你的。"
+    nvlvalerie "如果你能帮我在国外找到工作，我这辈子都会感激你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24001
 translate zh_Hans son_sissy_storyline_308_c86f4563:
 
     # nvlsson "I’ll try. 😊"
-    nvlsson "人家会尽力的。😊"
+    nvlsson "我会尽力的。😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24017
 translate zh_Hans son_sissy_storyline_308_53c71d7c:
@@ -47392,13 +47392,13 @@ translate zh_Hans son_sissy_storyline_309_0fbe0f35:
 translate zh_Hans son_sissy_storyline_309_35ea44f8:
 
     # nvlsson "I’m doing well. Thanks."
-    nvlsson "人家很好呢，谢谢大人。"
+    nvlsson "我很好呢，谢谢爸爸。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24046
 translate zh_Hans son_sissy_storyline_309_e6f77b11:
 
     # nvlsson "I wanted to ask you something about the job."
-    nvlsson "人家想问大人一些关于工作的事情呢。"
+    nvlsson "我想问爸爸一些关于工作的事情呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24048
 translate zh_Hans son_sissy_storyline_309_3deffd2d:
@@ -47410,13 +47410,13 @@ translate zh_Hans son_sissy_storyline_309_3deffd2d:
 translate zh_Hans son_sissy_storyline_309_ce409624:
 
     # nvlsson "I told my friend about your offer. And she said she’d also like to work like that."
-    nvlsson "人家把大人的提议告诉了人家朋友。她说她也想做这样的工作呢。"
+    nvlsson "我把爸爸的提议告诉了我朋友。她说她也想做这样的工作呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24052
 translate zh_Hans son_sissy_storyline_309_e0dae34a:
 
     # nvlsson "Could you take both of us?"
-    nvlsson "大人能把我们两个都收下吗？人家好想和大人一起，被大人疼爱呢。"
+    nvlsson "爸爸能把我们两个都收下吗？我好想和爸爸一起，被爸爸疼爱呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24054
 translate zh_Hans son_sissy_storyline_309_2effc4d0:
@@ -47440,19 +47440,19 @@ translate zh_Hans son_sissy_storyline_309_5ad4a053:
 translate zh_Hans son_sissy_storyline_309_5c57d20d:
 
     # nvlkanye "I can find a spot for her too."
-    nvlkanye "人家也能给她找个位置。"
+    nvlkanye "我也能给她找个位置。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24062
 translate zh_Hans son_sissy_storyline_309_387c6998:
 
     # nvlkanye "But I need to see her first."
-    nvlkanye "可是人家需要先看看她呢。"
+    nvlkanye "可是我需要先看看她呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24064
 translate zh_Hans son_sissy_storyline_309_e4071638:
 
     # nvlsson "Yeah, of course. I can talk to her and arrange a meeting for you two."
-    nvlsson "嗯，当然可以。人家可以和她谈谈，为大人和她安排一次见面呢。人家什么都听大人的呢。"
+    nvlsson "嗯，当然可以。我可以和她谈谈，为爸爸和她安排一次见面呢。我什么都听爸爸的呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24066
 translate zh_Hans son_sissy_storyline_309_7058762a:
@@ -47464,13 +47464,13 @@ translate zh_Hans son_sissy_storyline_309_7058762a:
 translate zh_Hans son_sissy_storyline_309_71c54c1e:
 
     # nvlkanye "I just need to see what she looks like."
-    nvlkanye "人家只是需要看看她长什么样子呢。"
+    nvlkanye "我只是需要看看她长什么样子呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24072
 translate zh_Hans son_sissy_storyline_309_2809f58f:
 
     # nvlsson "{a=show:show_chat_media}{image=valerie_pic_3}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=valerie_pic_3}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24074
 translate zh_Hans son_sissy_storyline_309_c006c8c4:
@@ -47482,7 +47482,7 @@ translate zh_Hans son_sissy_storyline_309_c006c8c4:
 translate zh_Hans son_sissy_storyline_309_30f9a695:
 
     # nvlsson "{a=show:show_chat_media}{image=valerie_pic_4}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=valerie_pic_4}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24080
 translate zh_Hans son_sissy_storyline_309_0ad84922:
@@ -47494,13 +47494,13 @@ translate zh_Hans son_sissy_storyline_309_0ad84922:
 translate zh_Hans son_sissy_storyline_309_2022aeef:
 
     # nvlsson "I hope she won’t kill me for this later."
-    nvlsson "人家希望她以后不会因为这个杀了人家呢。大人会保护人家的，对吗？"
+    nvlsson "我希望她以后不会因为这个杀了我呢。爸爸会保护我的，对吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24086
 translate zh_Hans son_sissy_storyline_309_9ac34d7f:
 
     # nvlsson "{a=show:show_chat_media}{image=valerie_pic_8}"
-    nvlsson ""
+    nvlsson "{a=show:show_chat_media}{image=valerie_pic_8}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24088
 translate zh_Hans son_sissy_storyline_309_bd8429a3:
@@ -47512,19 +47512,19 @@ translate zh_Hans son_sissy_storyline_309_bd8429a3:
 translate zh_Hans son_sissy_storyline_309_f14efdbe:
 
     # nvlkanye "I think she’ll be suitable for the job."
-    nvlkanye "人家觉得她会适合这份工作的。"
+    nvlkanye "我觉得她会适合这份工作的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24092
 translate zh_Hans son_sissy_storyline_309_f3d6e98c:
 
     # nvlsson "And why did you need to see her?"
-    nvlsson "大人，你为什么需要看看她呢？人家好想知道大人在想什么呢，是不是想把人家和朋友都一起纳入大人的羽翼下呢？"
+    nvlsson "爸爸，你为什么需要看看她呢？我好想知道爸爸在想什么呢，是不是想把我和朋友都一起纳入爸爸的羽翼下呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24094
 translate zh_Hans son_sissy_storyline_309_cef2a1f2:
 
     # nvlsson "Is appearance important for the job?"
-    nvlsson "大人，这份差事……人家是不是要长得好看才行呀？"
+    nvlsson "爸爸，这份差事……我是不是要长得好看才行呀？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24096
 translate zh_Hans son_sissy_storyline_309_374476ca:
@@ -47536,19 +47536,19 @@ translate zh_Hans son_sissy_storyline_309_374476ca:
 translate zh_Hans son_sissy_storyline_309_f3828b18:
 
     # nvlkanye "I just prefer choosing beautiful workers for myself. 😊"
-    nvlkanye "人家只是更喜欢为自己挑选漂亮的人儿罢了。😊"
+    nvlkanye "我只是更喜欢为自己挑选漂亮的人儿罢了。😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24100
 translate zh_Hans son_sissy_storyline_309_4a86cac2:
 
     # nvlsson "Aaaaah. Got it 😊"
-    nvlsson "啊……人家明白了呢。😊"
+    nvlsson "啊……我明白了呢。😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24102
 translate zh_Hans son_sissy_storyline_309_ad3f1a73:
 
     # nvlkanye "Anyway, you can tell her I’ll take her if you agree too."
-    nvlkanye "总之，如果你也同意的话，你可以告诉她，人家会收下她的。"
+    nvlkanye "总之，如果你也同意的话，你可以告诉她，我会收下她的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24104
 translate zh_Hans son_sissy_storyline_309_c5ec924a:
@@ -47560,13 +47560,13 @@ translate zh_Hans son_sissy_storyline_309_c5ec924a:
 translate zh_Hans son_sissy_storyline_309_b9b85723:
 
     # nvlsson "No, I haven’t decided yet."
-    nvlsson "不，人家还没决定呢。"
+    nvlsson "不，我还没决定呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24108
 translate zh_Hans son_sissy_storyline_309_81adcb5e:
 
     # nvlsson "Still thinking."
-    nvlsson "人家还在想呢。"
+    nvlsson "我还在想呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24110
 translate zh_Hans son_sissy_storyline_309_ca9deec6:
@@ -47578,7 +47578,7 @@ translate zh_Hans son_sissy_storyline_309_ca9deec6:
 translate zh_Hans son_sissy_storyline_309_3380da13:
 
     # nvlkanye "I advise you to hurry."
-    nvlkanye "人家劝你快些。"
+    nvlkanye "我劝你快些。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24114
 translate zh_Hans son_sissy_storyline_309_83bdb7da:
@@ -47608,7 +47608,7 @@ translate zh_Hans son_sissy_storyline_309_d4557106:
 translate zh_Hans son_sissy_storyline_309_81a53183:
 
     # nvlsson "Alright. I’ll try to make a decision soon."
-    nvlsson "好吧。人家会尽快做出决定的。"
+    nvlsson "好吧。我会尽快做出决定的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24138
 translate zh_Hans son_sissy_storyline_309_53c71d7c:
@@ -47622,7 +47622,7 @@ translate zh_Hans son_sissy_storyline_310_ba3cfc8c:
     # nvl clear
     # nvlsson "I talked to my acquaintance."
     nvl clear
-    nvlsson "人家已经和人家那位熟人谈过了。"
+    nvlsson "我已经和我那位熟人谈过了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24161
 translate zh_Hans son_sissy_storyline_310_c77e0094:
@@ -47634,7 +47634,7 @@ translate zh_Hans son_sissy_storyline_310_c77e0094:
 translate zh_Hans son_sissy_storyline_310_88bcef25:
 
     # nvlsson "He said he can take both of us for the job."
-    nvlsson "他说，他可以把人家和你都收下，一起做这份差事。"
+    nvlsson "他说，他可以把我和你都收下，一起做这份差事。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24165
 translate zh_Hans son_sissy_storyline_310_0943eb7e:
@@ -47658,19 +47658,19 @@ translate zh_Hans son_sissy_storyline_310_7b9a0010:
 translate zh_Hans son_sissy_storyline_310_ac9d3d80:
 
     # nvlvalerie "I'm so happy."
-    nvlvalerie "人家好开心呀。"
+    nvlvalerie "我好开心呀。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24173
 translate zh_Hans son_sissy_storyline_310_1de6918c:
 
     # nvlvalerie "I've been dreaming about this for so long."
-    nvlvalerie "人家早就盼着这一天了呢。"
+    nvlvalerie "我早就盼着这一天了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24175
 translate zh_Hans son_sissy_storyline_310_2dc6bdc7:
 
     # nvlsson "😊"
-    nvlsson ""
+    nvlsson "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24177
 translate zh_Hans son_sissy_storyline_310_93a1e94a:
@@ -47706,13 +47706,13 @@ translate zh_Hans son_sissy_storyline_310_87cfa55d:
 translate zh_Hans son_sissy_storyline_310_a9caf38c:
 
     # nvlvalerie "He's already told me like twenty times that soon I'll be sucking dicks in the gloryhole."
-    nvlvalerie "他都跟人家说了不下二十遍了，说人家很快就要去那个洞里……用嘴巴取悦别人了。"
+    nvlvalerie "他都跟我说了不下二十遍了，说我很快就要去那个洞里……用嘴巴取悦别人了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24189
 translate zh_Hans son_sissy_storyline_310_e5b65c0f:
 
     # nvlvalerie "He teases me with it every day."
-    nvlvalerie "他每天都拿这个来取笑人家。"
+    nvlvalerie "他每天都拿这个来取笑我。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24191
 translate zh_Hans son_sissy_storyline_310_ab278f8d:
@@ -47724,37 +47724,37 @@ translate zh_Hans son_sissy_storyline_310_ab278f8d:
 translate zh_Hans son_sissy_storyline_310_3699f20c:
 
     # nvlsson "Seriously? He hasn't told me anything since that time."
-    nvlsson "真的吗？他从那以后就没跟大人提过这事了。"
+    nvlsson "真的吗？他从那以后就没跟爸爸提过这事了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24195
 translate zh_Hans son_sissy_storyline_310_b3960b48:
 
     # nvlvalerie "He won't leave me alone."
-    nvlvalerie "他就是不肯放过人家。"
+    nvlvalerie "他就是不肯放过我。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24197
 translate zh_Hans son_sissy_storyline_310_fc274643:
 
     # nvlvalerie "Smirks at me every chance he gets."
-    nvlvalerie "他一有机会就对人家坏笑。"
+    nvlvalerie "他一有机会就对我坏笑。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24199
 translate zh_Hans son_sissy_storyline_310_cd787920:
 
     # nvlvalerie "I hate him."
-    nvlvalerie "人家讨厌死他了。"
+    nvlvalerie "我讨厌死他了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24201
 translate zh_Hans son_sissy_storyline_310_18237ccd:
 
     # nvlvalerie "I'm so glad this crap will end soon."
-    nvlvalerie "人家真高兴这糟心事儿很快就要结束了。"
+    nvlvalerie "我真高兴这糟心事儿很快就要结束了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24203
 translate zh_Hans son_sissy_storyline_310_8ab55ddd:
 
     # nvlvalerie "And that I won't have to work for him anymore."
-    nvlvalerie "而且人家再也不用为他做事了。"
+    nvlvalerie "而且我再也不用为他做事了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24205
 translate zh_Hans son_sissy_storyline_310_d002e90d:
@@ -47784,19 +47784,19 @@ translate zh_Hans son_sissy_storyline_310_efeb17db:
 translate zh_Hans son_sissy_storyline_310_cc49d76c:
 
     # nvlsson "But I think it'll be soon."
-    nvlsson "不过大人觉得应该很快了。"
+    nvlsson "不过爸爸觉得应该很快了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24215
 translate zh_Hans son_sissy_storyline_310_27e2bbf1:
 
     # nvlsson "Because he's rushing me to decide."
-    nvlsson "因为他一直在催大人做决定。"
+    nvlsson "因为他一直在催爸爸做决定。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24217
 translate zh_Hans son_sissy_storyline_310_5217b79c:
 
     # nvlsson "Says he'll take someone else instead of me if I don’t give him an answer."
-    nvlsson "他说，如果大人不给他答复，他就会找别人来代替大人。"
+    nvlsson "他说，如果爸爸不给他答复，他就会找别人来代替爸爸。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24219
 translate zh_Hans son_sissy_storyline_310_7d2a36bb:
@@ -47808,19 +47808,19 @@ translate zh_Hans son_sissy_storyline_310_7d2a36bb:
 translate zh_Hans son_sissy_storyline_310_93c63c5d:
 
     # nvlsson "I don't know."
-    nvlsson "人家不知道呢。"
+    nvlsson "我不知道呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24223
 translate zh_Hans son_sissy_storyline_310_28c2a920:
 
     # nvlsson "I'm just still thinking."
-    nvlsson "人家只是还在想。"
+    nvlsson "我只是还在想。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24225
 translate zh_Hans son_sissy_storyline_310_435a8d32:
 
     # nvlsson "Leaving somewhere far away isn’t something I really want."
-    nvlsson "离开这里去那么远的地方，人家其实不太想呢。"
+    nvlsson "离开这里去那么远的地方，我其实不太想呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24227
 translate zh_Hans son_sissy_storyline_310_e79eb64b:
@@ -47844,7 +47844,7 @@ translate zh_Hans son_sissy_storyline_310_e90be548:
 translate zh_Hans son_sissy_storyline_310_9e02129b:
 
     # nvlsson "But it's better to think everything through in advance so I won’t regret it later."
-    nvlsson "可是，人家还是觉得最好提前把一切都想清楚，免得以后后悔嘛。"
+    nvlsson "可是，我还是觉得最好提前把一切都想清楚，免得以后后悔嘛。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24235
 translate zh_Hans son_sissy_storyline_310_d1bbce2f:
@@ -47856,7 +47856,7 @@ translate zh_Hans son_sissy_storyline_310_d1bbce2f:
 translate zh_Hans son_sissy_storyline_310_a521e353:
 
     # nvlvalerie "But if he won’t take me because of you..."
-    nvlvalerie "可是，如果他因为你的缘故，不肯收下人家了怎么办呢……"
+    nvlvalerie "可是，如果他因为你的缘故，不肯收下我了怎么办呢……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24239
 translate zh_Hans son_sissy_storyline_310_e4fb3fd6:
@@ -47868,7 +47868,7 @@ translate zh_Hans son_sissy_storyline_310_e4fb3fd6:
 translate zh_Hans son_sissy_storyline_310_810d6cbd:
 
     # nvlvalerie "😊"
-    nvlvalerie ""
+    nvlvalerie "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24257
 translate zh_Hans son_sissy_storyline_310_53c71d7c:
@@ -47888,7 +47888,7 @@ translate zh_Hans son_sissy_storyline_311_cc3fd50a:
 translate zh_Hans son_sissy_storyline_311_37ba63a8:
 
     # nvljenna "Am I bothering you?"
-    nvljenna "人家是不是打扰到你了？"
+    nvljenna "我是不是打扰到你了？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24282
 translate zh_Hans son_sissy_storyline_311_fb03fe22:
@@ -47906,13 +47906,13 @@ translate zh_Hans son_sissy_storyline_311_b90ad0dc:
 translate zh_Hans son_sissy_storyline_311_32852468:
 
     # nvljohn "Did you want something?"
-    nvljohn "你、你是想找人家做什么吗？"
+    nvljohn "你、你是想找我做什么吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24288
 translate zh_Hans son_sissy_storyline_311_0ffbe3c7:
 
     # nvljenna "I just felt like chatting."
-    nvljenna "人家只是想和大人聊聊天嘛。"
+    nvljenna "我只是想和大人聊聊天嘛。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24290
 translate zh_Hans son_sissy_storyline_311_3fb8715e:
@@ -47936,7 +47936,7 @@ translate zh_Hans son_sissy_storyline_311_75fbd6d3:
 translate zh_Hans son_sissy_storyline_311_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24298
 translate zh_Hans son_sissy_storyline_311_043f2d60:
@@ -48020,7 +48020,7 @@ translate zh_Hans son_sissy_storyline_311_1a2c503a:
 translate zh_Hans son_sissy_storyline_311_e53b9372:
 
     # nvljohn "No, I’m not."
-    nvljohn "不，人家没有啦。"
+    nvljohn "不，我没有。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24326
 translate zh_Hans son_sissy_storyline_311_d7d571f8:
@@ -48140,7 +48140,7 @@ translate zh_Hans son_sissy_storyline_311_e1a1da9a:
 translate zh_Hans son_sissy_storyline_311_fbc8fe60_1:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24366
 translate zh_Hans son_sissy_storyline_311_0bba6e79:
@@ -48238,7 +48238,7 @@ translate zh_Hans son_sissy_storyline_312_f8ce42bc:
 translate zh_Hans son_sissy_storyline_312_f9e3d786:
 
     # nvlsson "Yeah? About what exactly?"
-    nvlsson "嗯？大人想问人家什么呢？"
+    nvlsson "嗯？爸爸想问我什么呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24445
 translate zh_Hans son_sissy_storyline_312_59b46a7e:
@@ -48262,7 +48262,7 @@ translate zh_Hans son_sissy_storyline_312_fc365938:
 translate zh_Hans son_sissy_storyline_312_2adee2dc:
 
     # nvlsson "Honestly, I don’t know myself."
-    nvlsson "说实话，人家自己也不知道呢。"
+    nvlsson "说实话，我自己也不知道呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24453
 translate zh_Hans son_sissy_storyline_312_a3f83f90:
@@ -48274,19 +48274,19 @@ translate zh_Hans son_sissy_storyline_312_a3f83f90:
 translate zh_Hans son_sissy_storyline_312_625bde82:
 
     # nvlsson "I did ask. But they didn’t answer me."
-    nvlsson "人家问了呀。可是他们就是不肯告诉人家。"
+    nvlsson "我问了呀。可是他们就是不肯告诉我。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24457
 translate zh_Hans son_sissy_storyline_312_c9998ff9:
 
     # nvlsson "They said I’ll find everything out later."
-    nvlsson "他们说，等人家到了那里，自然就知道了。"
+    nvlsson "他们说，等我到了那里，自然就知道了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24459
 translate zh_Hans son_sissy_storyline_312_110c2f77:
 
     # nvlsson "When I arrive."
-    nvlsson "等人家一到。"
+    nvlsson "等我一到。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24461
 translate zh_Hans son_sissy_storyline_312_52ca4c24:
@@ -48304,7 +48304,7 @@ translate zh_Hans son_sissy_storyline_312_88026f64:
 translate zh_Hans son_sissy_storyline_312_ead0fff1:
 
     # nvljohn "That they can’t tell you what you’ll have to do."
-    nvljohn "就是他们不肯告诉你，人家到底要做什么呀。"
+    nvljohn "就是他们不肯告诉你，我到底要做什么呀。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24467
 translate zh_Hans son_sissy_storyline_312_79b3824a:
@@ -48316,7 +48316,7 @@ translate zh_Hans son_sissy_storyline_312_79b3824a:
 translate zh_Hans son_sissy_storyline_312_d9d5af9d:
 
     # nvljohn "Usually people don’t do that. If there’s nothing to hide, of course."
-    nvljohn "通常人家不会这样做的。除非有什么不可告人的秘密，对吧？"
+    nvljohn "通常我不会这样做的。除非有什么不可告人的秘密，对吧？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24471
 translate zh_Hans son_sissy_storyline_312_c77ac725:
@@ -48364,7 +48364,7 @@ translate zh_Hans son_sissy_storyline_312_146fe9fb:
 translate zh_Hans son_sissy_storyline_312_f99df26b:
 
     # nvlsson "I didn’t even think about it."
-    nvlsson "人家之前根本没想过这些。"
+    nvlsson "我之前根本没想过这些。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24487
 translate zh_Hans son_sissy_storyline_312_05363dd2:
@@ -48376,13 +48376,13 @@ translate zh_Hans son_sissy_storyline_312_05363dd2:
 translate zh_Hans son_sissy_storyline_312_38408960:
 
     # nvlsson "Yeah, I’ll talk to him."
-    nvlsson "嗯，人家会去问他的。"
+    nvlsson "嗯，我会去问他的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24491
 translate zh_Hans son_sissy_storyline_312_0b0994ce:
 
     # nvlsson "Thanks for telling me about all this."
-    nvlsson "谢谢你告诉人家这些。"
+    nvlsson "谢谢你告诉我这些。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24507
 translate zh_Hans son_sissy_storyline_312_53c71d7c:
@@ -48426,13 +48426,13 @@ translate zh_Hans son_sissy_storyline_313_f1b29982:
 translate zh_Hans son_sissy_storyline_313_9cd143f6:
 
     # nvlsson "I wanted to know more about what kind of job it even is."
-    nvlsson "人家想多了解一下，这到底是什么样的工作。"
+    nvlsson "我想多了解一下，这到底是什么样的工作。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24540
 translate zh_Hans son_sissy_storyline_313_c00d34da:
 
     # nvlsson "Before I agree to anything, it would be nice to know what’s expected of me."
-    nvlsson "在人家答应任何事情之前，最好能知道人家需要做什么。"
+    nvlsson "在我答应任何事情之前，最好能知道我需要做什么。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24542
 translate zh_Hans son_sissy_storyline_313_d0f1128b:
@@ -48462,13 +48462,13 @@ translate zh_Hans son_sissy_storyline_313_382c66b1:
 translate zh_Hans son_sissy_storyline_313_c9fa7bdf:
 
     # nvlsson "Why can’t you just tell me what I’ll need to do?"
-    nvlsson "你为什么就不能直接告诉人家，人家到底要做什么呀？"
+    nvlsson "你为什么就不能直接告诉我，我到底要做什么呀？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24552
 translate zh_Hans son_sissy_storyline_313_0a90faae:
 
     # nvlsson "I don’t really get it, to be honest."
-    nvlsson "说实话，人家真的不太明白。"
+    nvlsson "说实话，我真的不太明白。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24554
 translate zh_Hans son_sissy_storyline_313_7f84ffd7:
@@ -48486,7 +48486,7 @@ translate zh_Hans son_sissy_storyline_313_fbadede5:
 translate zh_Hans son_sissy_storyline_313_b5ba17d3:
 
     # nvlsson "I just want to know what I’ll need to do..."
-    nvlsson "人家只是想知道人家要做什么嘛……"
+    nvlsson "我只是想知道我要做什么嘛……"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24560
 translate zh_Hans son_sissy_storyline_313_9a6fb8be:
@@ -48504,19 +48504,19 @@ translate zh_Hans son_sissy_storyline_313_c02a71c2:
 translate zh_Hans son_sissy_storyline_313_2be763c9:
 
     # nvlsson "I do trust you... It just all feels a bit strange."
-    nvlsson "人家当然信任你……只是这一切都让人家觉得有点奇怪。"
+    nvlsson "我当然信任你……只是这一切都让我觉得有点奇怪。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24566
 translate zh_Hans son_sissy_storyline_313_e7b942b7:
 
     # nvlsson "I don’t know. I’ve never seen a job like this before."
-    nvlsson "人家也不知道。人家从来没见过这样的工作。"
+    nvlsson "我也不知道。我从来没见过这样的工作。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24568
 translate zh_Hans son_sissy_storyline_313_4a28805b:
 
     # nvlsson "I mean where you agree to everything without knowing what the job even is."
-    nvlsson "人家是说，在完全不知道工作内容的情况下，就答应所有事情。"
+    nvlsson "我是说，在完全不知道工作内容的情况下，就答应所有事情。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24570
 translate zh_Hans son_sissy_storyline_313_f2e73983:
@@ -48558,7 +48558,7 @@ translate zh_Hans son_sissy_storyline_313_cd988fa6:
 translate zh_Hans son_sissy_storyline_313_d53e6257:
 
     # nvlsson "Give me a bit more time."
-    nvlsson "请再给人家一点时间嘛。"
+    nvlsson "请再给我一点时间嘛。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24584
 translate zh_Hans son_sissy_storyline_313_c7db910a:
@@ -48602,7 +48602,7 @@ translate zh_Hans son_sissy_storyline_314_67b6eb68:
 translate zh_Hans son_sissy_storyline_314_67e12e3c:
 
     # nvljim "{a=show:show_chat_media}{image=valerie_video_28_ns}"
-    nvljim ""
+    nvljim "{a=show:show_chat_media}{image=valerie_video_28_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24637
 translate zh_Hans son_sissy_storyline_314_589c8794:
@@ -48620,7 +48620,7 @@ translate zh_Hans son_sissy_storyline_314_8408c928:
 translate zh_Hans son_sissy_storyline_314_9b782287:
 
     # nvljim "And you'll be making money for me."
-    nvljim "你会为人家赚到好多钱钱的呢。"
+    nvljim "你会为我赚到好多钱钱的呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24643
 translate zh_Hans son_sissy_storyline_314_d27469fd:
@@ -48632,7 +48632,7 @@ translate zh_Hans son_sissy_storyline_314_d27469fd:
 translate zh_Hans son_sissy_storyline_314_ec6fc1ff:
 
     # nvlsson "Why are you sending me this?"
-    nvlsson "你为什么要发这个给人看呀？"
+    nvlsson "你为什么要发这个给我看呀？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24647
 translate zh_Hans son_sissy_storyline_314_128229c8:
@@ -48644,25 +48644,25 @@ translate zh_Hans son_sissy_storyline_314_128229c8:
 translate zh_Hans son_sissy_storyline_314_b4ce2285:
 
     # nvlsson "I'm not interested in watching her suck cocks."
-    nvlsson "人家对看她那样可一点兴趣都没有呢。"
+    nvlsson "我对看她那样可一点兴趣都没有呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24651
 translate zh_Hans son_sissy_storyline_314_6410d668:
 
     # nvljim "Come on. I know that's not true."
-    nvljim "哎呀，人家知道那不是真的啦。"
+    nvljim "哎呀，我知道那不是真的啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24653
 translate zh_Hans son_sissy_storyline_314_45f63b9d:
 
     # nvlsson "Don't send me stuff like this again."
-    nvlsson "别再给人家发这种东西了啦。"
+    nvlsson "别再给我发这种东西了啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24655
 translate zh_Hans son_sissy_storyline_314_d561bd0d:
 
     # nvljim "Well, that's for me to decide."
-    nvljim "嗯，那得由人家来决定呢。"
+    nvljim "嗯，那得由我来决定呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24657
 translate zh_Hans son_sissy_storyline_314_8ec39c0a:
@@ -48698,7 +48698,7 @@ translate zh_Hans son_sissy_storyline_314_70b192ae:
 translate zh_Hans son_sissy_storyline_314_e9f1d627:
 
     # nvljim "We'll talk later."
-    nvljim "人家们晚点再聊吧。"
+    nvljim "我们晚点再聊吧。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24683
 translate zh_Hans son_sissy_storyline_314_53c71d7c:
@@ -48712,13 +48712,13 @@ translate zh_Hans son_sissy_storyline_315_3c868fd3:
     # nvl clear
     # nvlvalerie "So, any news?"
     nvl clear
-    nvlvalerie "那么，有什么新消息吗？人家好期待呢。"
+    nvlvalerie "那么，有什么新消息吗？我好期待呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24706
 translate zh_Hans son_sissy_storyline_315_317cd74a:
 
     # nvlvalerie "When will we be able to start working?"
-    nvlvalerie "人家们什么时候才能开始工作呢？"
+    nvlvalerie "我们什么时候才能开始工作呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24708
 translate zh_Hans son_sissy_storyline_315_e4c3c60c:
@@ -48730,7 +48730,7 @@ translate zh_Hans son_sissy_storyline_315_e4c3c60c:
 translate zh_Hans son_sissy_storyline_315_5ec7a4a3:
 
     # nvlsson "I'm still thinking."
-    nvlsson "人家还在想呢。"
+    nvlsson "我还在想呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24712
 translate zh_Hans son_sissy_storyline_315_2c2ab9ff:
@@ -48742,7 +48742,7 @@ translate zh_Hans son_sissy_storyline_315_2c2ab9ff:
 translate zh_Hans son_sissy_storyline_315_8373e3e2:
 
     # nvlvalerie "We could’ve already flown out and started a new life."
-    nvlvalerie "人家们早就该飞出去，开始新的生活了呢。"
+    nvlvalerie "我们早就该飞出去，开始新的生活了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24716
 translate zh_Hans son_sissy_storyline_315_4e636659:
@@ -48754,7 +48754,7 @@ translate zh_Hans son_sissy_storyline_315_4e636659:
 translate zh_Hans son_sissy_storyline_315_61baacf2:
 
     # nvlsson "I don’t know."
-    nvlsson "人家……人家也不知道该怎么说呢。"
+    nvlsson "我……我也不知道该怎么说呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24720
 translate zh_Hans son_sissy_storyline_315_772ec9e6:
@@ -48772,13 +48772,13 @@ translate zh_Hans son_sissy_storyline_315_f9c65a39:
 translate zh_Hans son_sissy_storyline_315_aa48384e:
 
     # nvlsson "That we know so little about what we’ll actually have to do."
-    nvlsson "人家们对到底要做什么，知道得太少了呢。"
+    nvlsson "我们对到底要做什么，知道得太少了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24726
 translate zh_Hans son_sissy_storyline_315_cb859761:
 
     # nvlsson "And the guy doesn’t want to tell me anything."
-    nvlsson "而且那个人家，什么都不肯告诉人家呢。"
+    nvlsson "而且那个我，什么都不肯告诉我呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24728
 translate zh_Hans son_sissy_storyline_315_53f10687:
@@ -48796,25 +48796,25 @@ translate zh_Hans son_sissy_storyline_315_05d6ebbf:
 translate zh_Hans son_sissy_storyline_315_486e5de2:
 
     # nvlvalerie "And I don’t think you want that."
-    nvlvalerie "人家想你也不想那样吧？"
+    nvlvalerie "我想你也不想那样吧？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24734
 translate zh_Hans son_sissy_storyline_315_00d8cfde:
 
     # nvlvalerie "Same as me."
-    nvlvalerie "人家也一样呢。"
+    nvlvalerie "我也一样呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24736
 translate zh_Hans son_sissy_storyline_315_1b666b99:
 
     # nvlvalerie "And honestly, if you refuse, you’ll ruin not just your life but mine too."
-    nvlvalerie "说真的，如果你拒绝了，毁掉的可不只是你自己的生活，还有人家们的呢。"
+    nvlvalerie "说真的，如果你拒绝了，毁掉的可不只是你自己的生活，还有我们的呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24738
 translate zh_Hans son_sissy_storyline_315_98160f0a:
 
     # nvlvalerie "I’m already tired of slaving away at this shitty job."
-    nvlvalerie "人家已经受够了这份讨厌的工作了呢。"
+    nvlvalerie "我已经受够了这份讨厌的工作了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24740
 translate zh_Hans son_sissy_storyline_315_2aa4c90d:
@@ -48826,13 +48826,13 @@ translate zh_Hans son_sissy_storyline_315_2aa4c90d:
 translate zh_Hans son_sissy_storyline_315_28a7601b:
 
     # nvlvalerie "I want to break out of here and start a normal life."
-    nvlvalerie "人家好想摆脱这里，开始正常的生活呢。"
+    nvlvalerie "我好想摆脱这里，开始正常的生活呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24744
 translate zh_Hans son_sissy_storyline_315_16c350c7:
 
     # nvlsson "And what if something happens to us over there?"
-    nvlsson "要是人家们到了那边，出了什么事怎么办呢？"
+    nvlsson "要是我们到了那边，出了什么事怎么办呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24746
 translate zh_Hans son_sissy_storyline_315_c439106b:
@@ -48856,25 +48856,25 @@ translate zh_Hans son_sissy_storyline_315_d1b56532:
 translate zh_Hans son_sissy_storyline_315_077a9205:
 
     # nvlvalerie "Say yes already. Text the guy that we’re ready."
-    nvlvalerie "快点答应下来嘛。给那个人家发消息说人家们准备好了呢。"
+    nvlvalerie "快点答应下来嘛。给那个我发消息说我们准备好了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24754
 translate zh_Hans son_sissy_storyline_315_47aae81c:
 
     # nvlvalerie "Let them take us out of here and carry us toward a happy life."
-    nvlvalerie "让他们把人家们带离这里，带向幸福的生活吧。"
+    nvlvalerie "让他们把我们带离这里，带向幸福的生活吧。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24756
 translate zh_Hans son_sissy_storyline_315_2dc6bdc7:
 
     # nvlsson "😊"
-    nvlsson ""
+    nvlsson "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24758
 translate zh_Hans son_sissy_storyline_315_8d4e6c09:
 
     # nvlsson "Alright, I’ll talk to him."
-    nvlsson "好吧，人家会去跟他说说的呢。"
+    nvlsson "好吧，我会去跟他说说的呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24760
 translate zh_Hans son_sissy_storyline_315_718dcf53:
@@ -48886,7 +48886,7 @@ translate zh_Hans son_sissy_storyline_315_718dcf53:
 translate zh_Hans son_sissy_storyline_315_abf1afc5:
 
     # nvlvalerie "Then tell me what I’ll need to do."
-    nvlvalerie "那你告诉人家，人家需要做些什么呢？"
+    nvlvalerie "那你告诉我，我需要做些什么呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24764
 translate zh_Hans son_sissy_storyline_315_491c86e1:
@@ -48942,13 +48942,13 @@ translate zh_Hans son_sissy_storyline_316_14745804:
 translate zh_Hans son_sissy_storyline_316_a0ebfc92:
 
     # nvlsson "I haven't told him I'm agreeing yet."
-    nvlsson "人家还没告诉他人家同意呢。"
+    nvlsson "我还没告诉他我同意呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24815
 translate zh_Hans son_sissy_storyline_316_81adcb5e:
 
     # nvlsson "Still thinking."
-    nvlsson "人家还在想呢。"
+    nvlsson "我还在想呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24817
 translate zh_Hans son_sissy_storyline_316_4d75742a:
@@ -48966,7 +48966,7 @@ translate zh_Hans son_sissy_storyline_316_44b4386c:
 translate zh_Hans son_sissy_storyline_316_e24277ed:
 
     # nvlsson "Listen, could you find out from him what kind of job it actually is?"
-    nvlsson "听着，你能帮人家问问他，那到底是什么样的工作吗？"
+    nvlsson "听着，你能帮我问问他，那到底是什么样的工作吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24823
 translate zh_Hans son_sissy_storyline_316_260782a3:
@@ -49216,7 +49216,7 @@ translate zh_Hans son_sissy_storyline_318_c8d2fdc4:
 translate zh_Hans son_sissy_storyline_318_19ab1fba:
 
     # nvlsson "Glad you texted. How are you?"
-    nvlsson "人家好开心你还记得人家呢。你好吗？"
+    nvlsson "我好开心你还记得我呢。你好吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24985
 translate zh_Hans son_sissy_storyline_318_d9a64b45:
@@ -49246,7 +49246,7 @@ translate zh_Hans son_sissy_storyline_318_ea0d9156:
 translate zh_Hans son_sissy_storyline_318_931cb20f:
 
     # nvlsson "I don’t understand anything."
-    nvlsson "人家什么都听不懂了啦，大人。"
+    nvlsson "我什么都听不懂了啦，爸爸。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24995
 translate zh_Hans son_sissy_storyline_318_da63829b:
@@ -49258,13 +49258,13 @@ translate zh_Hans son_sissy_storyline_318_da63829b:
 translate zh_Hans son_sissy_storyline_318_614c5a3a:
 
     # nvlsson "Hahahahaha."
-    nvlsson "哈哈哈，大人你在开玩笑吗？"
+    nvlsson "哈哈哈，爸爸你在开玩笑吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:24999
 translate zh_Hans son_sissy_storyline_318_f5294fa4:
 
     # nvlsson "Are you serious right now? Sexual slavery?"
-    nvlsson "大人你是认真的吗？人家会被卖去做玩物吗？"
+    nvlsson "爸爸你是认真的吗？我会被卖去做玩物吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25001
 translate zh_Hans son_sissy_storyline_318_c1839d59:
@@ -49288,13 +49288,13 @@ translate zh_Hans son_sissy_storyline_318_2765ef90:
 translate zh_Hans son_sissy_storyline_318_cd8d07a4:
 
     # nvlsson "Nothing will happen to me."
-    nvlsson "人家才不会有事呢，大人别担心。"
+    nvlsson "我才不会有事呢，爸爸别担心。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25009
 translate zh_Hans son_sissy_storyline_318_323e374e:
 
     # nvlsson "And I’m more than sure that everything you were told is a lie."
-    nvlsson "人家敢肯定，大人你听到的那些都是骗人的啦。"
+    nvlsson "我敢肯定，爸爸你听到的那些都是骗人的啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25011
 translate zh_Hans son_sissy_storyline_318_c504b518:
@@ -49306,13 +49306,13 @@ translate zh_Hans son_sissy_storyline_318_c504b518:
 translate zh_Hans son_sissy_storyline_318_4be6d82f:
 
     # nvlsson "Okay, I get it."
-    nvlsson "好的，人家明白了。"
+    nvlsson "好的，我明白了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25015
 translate zh_Hans son_sissy_storyline_318_d221fcbc:
 
     # nvlsson "I’ll be more careful."
-    nvlsson "人家会乖乖的，更小心一点的啦。"
+    nvlsson "我会乖乖的，更小心一点的啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25017
 translate zh_Hans son_sissy_storyline_318_24a8c4f8:
@@ -49344,13 +49344,13 @@ translate zh_Hans son_sissy_storyline_319_2a5886a6:
     # nvl clear
     # nvlsson "I can’t do this."
     nvl clear
-    nvlsson "人家做不到啦。"
+    nvlsson "我做不到啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25060
 translate zh_Hans son_sissy_storyline_319_c7677a0d:
 
     # nvlsson "I can’t agree to a job I know nothing about."
-    nvlsson "人家不能答应一份自己一无所知的工作呀。"
+    nvlsson "我不能答应一份自己一无所知的工作呀。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25062
 translate zh_Hans son_sissy_storyline_319_556c4063:
@@ -49374,7 +49374,7 @@ translate zh_Hans son_sissy_storyline_319_796bcb0b:
 translate zh_Hans son_sissy_storyline_319_c29674db:
 
     # nvlsson "And the contract? I need to look at the employment contract."
-    nvlsson "还有合同呢？人家需要看看雇佣合同的。"
+    nvlsson "还有合同呢？我需要看看雇佣合同的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25070
 translate zh_Hans son_sissy_storyline_319_ceac6a58:
@@ -49386,7 +49386,7 @@ translate zh_Hans son_sissy_storyline_319_ceac6a58:
 translate zh_Hans son_sissy_storyline_319_0309ee82:
 
     # nvlsson "On what site? At least tell me where we’ll be flying."
-    nvlsson "什么现场嘛？至少告诉人家我们要飞去哪里呀。"
+    nvlsson "什么现场嘛？至少告诉我我们要飞去哪里呀。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25074
 translate zh_Hans son_sissy_storyline_319_3896d09c:
@@ -49430,37 +49430,37 @@ translate zh_Hans son_sissy_storyline_320_8cd0582d:
 translate zh_Hans son_sissy_storyline_320_056692bf:
 
     # nvlkanye "To be honest, I’d be glad to tell you everything."
-    nvlkanye "说实话，人家也很想把一切都告诉你的。"
+    nvlkanye "说实话，我也很想把一切都告诉你的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25121
 translate zh_Hans son_sissy_storyline_320_67d0b0bf:
 
     # nvlkanye "But I can’t."
-    nvlkanye "可是人家不能呀。"
+    nvlkanye "可是我不能呀。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25123
 translate zh_Hans son_sissy_storyline_320_cf9c87c6:
 
     # nvlkanye "I told you everything I could."
-    nvlkanye "人家已经把能说的都告诉你了。"
+    nvlkanye "我已经把能说的都告诉你了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25125
 translate zh_Hans son_sissy_storyline_320_4a2c900e:
 
     # nvlsson "Yeah, I understand."
-    nvlsson "嗯，人家明白的啦。"
+    nvlsson "嗯，我明白的啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25127
 translate zh_Hans son_sissy_storyline_320_d63c3210:
 
     # nvlsson "Overall, now I roughly understand what will be required of me."
-    nvlsson "总的来说，人家现在大致明白需要人家做什么了。"
+    nvlsson "总的来说，我现在大致明白需要我做什么了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25129
 translate zh_Hans son_sissy_storyline_320_5d49505e:
 
     # nvlsson "I’d like to know everything, of course. But alright."
-    nvlsson "人家当然想知道一切啦。不过，好吧。"
+    nvlsson "我当然想知道一切啦。不过，好吧。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25131
 translate zh_Hans son_sissy_storyline_320_f4490cc6:
@@ -49472,67 +49472,67 @@ translate zh_Hans son_sissy_storyline_320_f4490cc6:
 translate zh_Hans son_sissy_storyline_320_2dc6bdc7:
 
     # nvlsson "😊"
-    nvlsson ""
+    nvlsson "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25135
 translate zh_Hans son_sissy_storyline_320_9a290bdf:
 
     # nvlkanye "By the way, your blowjob was magnificent."
-    nvlkanye "对了，你刚才的口活真是太棒了，把爸爸伺候得欲仙欲死。"
+    nvlkanye "对了，你刚才的口活真是太棒了，把我伺候得欲仙欲死。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25137
 translate zh_Hans son_sissy_storyline_320_b73f6a48:
 
     # nvlkanye "I missed it so much."
-    nvlkanye "爸爸真是太想念了。"
+    nvlkanye "我真是太想念了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25143
 translate zh_Hans son_sissy_storyline_320_f0b8ed16:
 
     # nvlkanye "{a=show:show_chat_media}{image=mikky_video_41_ns}"
-    nvlkanye ""
+    nvlkanye "{a=show:show_chat_media}{image=mikky_video_41_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25147
 translate zh_Hans son_sissy_storyline_320_5ab9181a:
 
     # nvlkanye "You were incredible as always!"
-    nvlkanye "你一如既往地把爸爸伺候得欲仙欲死！"
+    nvlkanye "你一如既往地把我伺候得欲仙欲死！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25149
 translate zh_Hans son_sissy_storyline_320_feee3b47:
 
     # nvlkanye "You really pleased me."
-    nvlkanye "你真是把爸爸伺候得欲罢不能。"
+    nvlkanye "你真是把我伺候得欲罢不能。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25151
 translate zh_Hans son_sissy_storyline_320_b1975926:
 
     # nvlsson "I’m very glad to hear that."
-    nvlsson "人家听了真是心花怒放呢。"
+    nvlsson "我听了真是心花怒放呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25153
 translate zh_Hans son_sissy_storyline_320_097b72ea:
 
     # nvlkanye "And I think next time we can finally move on to sex."
-    nvlkanye "人家觉得下次我们终于可以更进一步，彻底融为一体了。"
+    nvlkanye "我觉得下次我们终于可以更进一步，彻底融为一体了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25155
 translate zh_Hans son_sissy_storyline_320_d819bbf2:
 
     # nvlkanye "I can’t wait anymore."
-    nvlkanye "人家再也等不及了啦。"
+    nvlkanye "我再也等不及了啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25157
 translate zh_Hans son_sissy_storyline_320_c0c3cece:
 
     # nvlkanye "Today, when you were sucking me, I was thinking about fucking you."
-    nvlkanye "今天，当你把爸爸伺候得欲仙欲死时，爸爸满脑子想的都是要狠狠地占有你，把你操弄得哭着求饶。"
+    nvlkanye "今天，当你把我伺候得欲仙欲死时，我满脑子想的都是要狠狠地占有你，把你操弄得哭着求饶。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25159
 translate zh_Hans son_sissy_storyline_320_4e088404:
 
     # nvlkanye "I want to feel your holes with my cock."
-    nvlkanye "爸爸想用自己的肉棒，好好地填满你每一寸湿热的穴口。"
+    nvlkanye "我想用自己的肉棒，好好地填满你每一寸湿热的穴口。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25161
 translate zh_Hans son_sissy_storyline_320_8ef84a1b:
@@ -49544,7 +49544,7 @@ translate zh_Hans son_sissy_storyline_320_8ef84a1b:
 translate zh_Hans son_sissy_storyline_320_7e629ea0:
 
     # nvlsson "I want that too."
-    nvlsson "人家也想要呢。"
+    nvlsson "我也想要呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25165
 translate zh_Hans son_sissy_storyline_320_f6dfe968:
@@ -49556,19 +49556,19 @@ translate zh_Hans son_sissy_storyline_320_f6dfe968:
 translate zh_Hans son_sissy_storyline_320_0d174c74:
 
     # nvlsson "And for a long time already."
-    nvlsson "而且，人家早就渴望已久了。"
+    nvlsson "而且，我早就渴望已久了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25169
 translate zh_Hans son_sissy_storyline_320_8c098685:
 
     # nvlkanye "I want our first time to be there, where we’re flying."
-    nvlkanye "人家希望我们的第一次，就在我们要飞去的地方发生。"
+    nvlkanye "我希望我们的第一次，就在我们要飞去的地方发生。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25171
 translate zh_Hans son_sissy_storyline_320_6ae08d67:
 
     # nvlkanye "I want us to sort out all the formalities and then have hot sex."
-    nvlkanye "人家想等我们把所有事情都办妥了，然后就尽情地享受一场火热的性爱，让身子彻底融化在你的怀里。"
+    nvlkanye "我想等我们把所有事情都办妥了，然后就尽情地享受一场火热的性爱，让身子彻底融化在你的怀里。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25173
 translate zh_Hans son_sissy_storyline_320_c9515f26:
@@ -49580,7 +49580,7 @@ translate zh_Hans son_sissy_storyline_320_c9515f26:
 translate zh_Hans son_sissy_storyline_320_3a8858d1:
 
     # nvlsson "I like your idea. Hehe."
-    nvlsson "爸爸喜欢你的主意。呵呵。"
+    nvlsson "我喜欢你的主意。呵呵。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25177
 translate zh_Hans son_sissy_storyline_320_ba0853b3:
@@ -49624,7 +49624,7 @@ translate zh_Hans son_sissy_storyline_321_e73f8cc8:
 translate zh_Hans son_sissy_storyline_321_86b7440c:
 
     # nvlsson "Hi. I’m fine, thanks."
-    nvlsson "嗨。人家很好，谢谢你。"
+    nvlsson "嗨。我很好，谢谢你。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25224
 translate zh_Hans son_sissy_storyline_321_64d9221b:
@@ -49642,13 +49642,13 @@ translate zh_Hans son_sissy_storyline_321_e6c9ac41:
 translate zh_Hans son_sissy_storyline_321_2e39ba53:
 
     # nvljenna "So, I talked to Kanye."
-    nvljenna "所以，人家和坎耶谈过了。"
+    nvljenna "所以，我和坎耶谈过了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25230
 translate zh_Hans son_sissy_storyline_321_d6e6fd9a:
 
     # nvljenna "He didn’t really tell me anything."
-    nvljenna "他其实什么都没告诉人家呢。"
+    nvljenna "他其实什么都没告诉我呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25232
 translate zh_Hans son_sissy_storyline_321_8e346996:
@@ -49672,13 +49672,13 @@ translate zh_Hans son_sissy_storyline_321_1485df27:
 translate zh_Hans son_sissy_storyline_321_c15a86df:
 
     # nvlsson "Yeah, I talked to him too."
-    nvlsson "是啊，爸爸也和他谈过了。"
+    nvlsson "是啊，我也和他谈过了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25240
 translate zh_Hans son_sissy_storyline_321_fc6d8e5f:
 
     # nvlsson "He told me pretty much the same thing 😊"
-    nvlsson "他告诉爸爸的也差不多是这些呢 😊"
+    nvlsson "他告诉我的也差不多是这些呢 😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25242
 translate zh_Hans son_sissy_storyline_321_c88f81c6:
@@ -49696,7 +49696,7 @@ translate zh_Hans son_sissy_storyline_321_2e3d66da:
 translate zh_Hans son_sissy_storyline_321_38c102bf:
 
     # nvljenna "I think that’s the most important thing."
-    nvljenna "爸爸觉得那才是最重要的。"
+    nvljenna "我觉得那才是最重要的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25248
 translate zh_Hans son_sissy_storyline_321_db085846:
@@ -49720,25 +49720,25 @@ translate zh_Hans son_sissy_storyline_321_d49fb554:
 translate zh_Hans son_sissy_storyline_321_4aab815e:
 
     # nvljenna "You have nothing to lose anyway."
-    nvljenna "反正人家也什么都没有了呢。"
+    nvljenna "反正我也什么都没有了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25256
 translate zh_Hans son_sissy_storyline_321_03aca549:
 
     # nvlsson "Yeah, I’ve been thinking about that too."
-    nvlsson "嗯，人家也一直在想这个呢。"
+    nvlsson "嗯，我也一直在想这个呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25258
 translate zh_Hans son_sissy_storyline_321_07aec707:
 
     # nvlsson "That I can always return if the job doesn’t suit me."
-    nvlsson "如果这份工作不合人家心意，人家随时都可以回来嘛。"
+    nvlsson "如果这份工作不合我心意，我随时都可以回来嘛。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25260
 translate zh_Hans son_sissy_storyline_321_b1d3de4a:
 
     # nvljenna "Before you leave, we need to go to the club."
-    nvljenna "在人家离开之前，人家想和你去俱乐部呢。"
+    nvljenna "在我离开之前，我想和你去俱乐部呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25262
 translate zh_Hans son_sissy_storyline_321_158fe287:
@@ -49756,19 +49756,19 @@ translate zh_Hans son_sissy_storyline_321_214ce2c4:
 translate zh_Hans son_sissy_storyline_321_d7b55688:
 
     # nvlsson "I’m all for it."
-    nvlsson "人家完全同意呢。"
+    nvlsson "我完全同意呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25268
 translate zh_Hans son_sissy_storyline_321_3d2fe5fa:
 
     # nvljenna "Then I’ll take care of it. Since I think you’re leaving soon already."
-    nvljenna "那人家就来安排吧。毕竟人家觉得你很快就要离开了呢。"
+    nvljenna "那我就来安排吧。毕竟我觉得你很快就要离开了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25270
 translate zh_Hans son_sissy_storyline_321_2dc6bdc7:
 
     # nvlsson "😊"
-    nvlsson ""
+    nvlsson "😊|"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25286
 translate zh_Hans son_sissy_storyline_321_53c71d7c:
@@ -49788,7 +49788,7 @@ translate zh_Hans son_sissy_storyline_322_32ce222a:
 translate zh_Hans son_sissy_storyline_322_e90f462e:
 
     # nvljim "I want to talk to you."
-    nvljim "人家想和你说说话呢。"
+    nvljim "我想和你说说话呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25311
 translate zh_Hans son_sissy_storyline_322_2b34f55b:
@@ -49808,43 +49808,43 @@ translate zh_Hans son_sissy_storyline_323_2fd9f345:
     # nvl clear
     # nvljim "Your arse is still just as perfect, slut."
     nvl clear
-    nvljim "你说人家的屁股还是一样完美，真是个小荡妇呢。"
+    nvljim "你说我的屁股还是一样完美，真是个小荡妇呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25350
 translate zh_Hans son_sissy_storyline_323_a59938b8:
 
     # nvljim "Even Valerie’s arse can’t compare."
-    nvljim "连瓦莱丽的屁股都比不上人家呢。"
+    nvljim "连瓦莱丽的屁股都比不上我呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25352
 translate zh_Hans son_sissy_storyline_323_551f1d88:
 
     # nvljim "I don’t know why, but fucking you feels way better than fucking her."
-    nvljim "人家也不知道为什么，但你说，操人家比操她感觉好多了呢。"
+    nvljim "我也不知道为什么，但你说，操我比操她感觉好多了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25354
 translate zh_Hans son_sissy_storyline_323_d858524f:
 
     # nvljim "Too bad you don’t have a pussy."
-    nvljim "可惜人家没有小穴呢。"
+    nvljim "可惜我没有小穴呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25356
 translate zh_Hans son_sissy_storyline_323_b1b32b75:
 
     # nvljim "I’d fuck that too 😉"
-    nvljim "你说，如果人家有的话，你也会操人家的呢 😉"
+    nvljim "你说，如果我有的话，你也会操我的呢 😉"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25358
 translate zh_Hans son_sissy_storyline_323_653a0fdb:
 
     # nvlsson "I don’t doubt that."
-    nvlsson "人家一点都不怀疑呢。"
+    nvlsson "我一点都不怀疑呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25360
 translate zh_Hans son_sissy_storyline_323_d419420a:
 
     # nvljim "Want me to send you the video?"
-    nvljim "你问人家，要不要把视频发给人家呢？"
+    nvljim "你问我，要不要把视频发给我呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25362
 translate zh_Hans son_sissy_storyline_323_cf6a2940:
@@ -49856,49 +49856,49 @@ translate zh_Hans son_sissy_storyline_323_cf6a2940:
 translate zh_Hans son_sissy_storyline_323_04977bbd:
 
     # nvljim "I’ll send it anyway."
-    nvljim "你说，你还是会发给人家的呢。"
+    nvljim "你说，你还是会发给我的呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25370
 translate zh_Hans son_sissy_storyline_323_607b930e:
 
     # nvljim "{a=show:show_chat_media}{image=mikky_video_42_ns}"
-    nvljim ""
+    nvljim "{a=show:show_chat_media}{image=mikky_video_42_ns}"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25374
 translate zh_Hans son_sissy_storyline_323_ac32f279:
 
     # nvljim "So you can have it as a memory."
-    nvljim "这样人家就可以留作纪念了呢。"
+    nvljim "这样我就可以留作纪念了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25376
 translate zh_Hans son_sissy_storyline_323_64062018:
 
     # nvlsson "Then why even ask if you’re going to send it anyway?"
-    nvlsson "那你既然都要发给人家的，又何必问人家呢？"
+    nvlsson "那你既然都要发给我的，又何必问我呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25378
 translate zh_Hans son_sissy_storyline_323_aff450c8:
 
     # nvljim "Wanted to tease you."
-    nvljim "你说，是想逗逗人家呢。"
+    nvljim "你说，是想逗逗我呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25380
 translate zh_Hans son_sissy_storyline_323_f719c4c7:
 
     # nvljim "By the way, starting next week you’ll join Valerie and suck cocks in my gloryhole."
-    nvljim "对了，你说下周开始，人家就要和瓦莱丽一起，在你的偷窥孔里含弄那些肉棒了呢。"
+    nvljim "对了，你说下周开始，我就要和瓦莱丽一起，在你的偷窥孔里含弄那些肉棒了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25382
 translate zh_Hans son_sissy_storyline_323_fd8b0fff:
 
     # nvljim "I think I already told you, but I’m reminding you just in case."
-    nvljim "你说你觉得已经告诉过人家了，但还是提醒人家一下，以防万一呢。"
+    nvljim "你说你觉得已经告诉过我了，但还是提醒我一下，以防万一呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25384
 translate zh_Hans son_sissy_storyline_323_a935ab7c:
 
     # nvlsson "I think I’ll find another job by then."
-    nvlsson "人家想，到时候人家会找到另一份工作的呢。"
+    nvlsson "我想，到时候我会找到另一份工作的呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25386
 translate zh_Hans son_sissy_storyline_323_baad34f1:
@@ -49916,19 +49916,19 @@ translate zh_Hans son_sissy_storyline_323_0919a2e3:
 translate zh_Hans son_sissy_storyline_323_f58e3757:
 
     # nvljim "I really doubt you’ll leave me."
-    nvljim "你说，你真的怀疑人家会离开你呢。"
+    nvljim "你说，你真的怀疑我会离开你呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25392
 translate zh_Hans son_sissy_storyline_323_356e34a6:
 
     # nvljim "You like it, slut."
-    nvljim "你说，人家喜欢这样，人家是个荡妇呢。"
+    nvljim "你说，我喜欢这样，我是个荡妇呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25394
 translate zh_Hans son_sissy_storyline_323_66eed75e:
 
     # nvljim "This is exactly the kind of job you dreamed of."
-    nvljim "你说，这正是人家梦寐以求的工作呢。"
+    nvljim "你说，这正是我梦寐以求的工作呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25396
 translate zh_Hans son_sissy_storyline_323_9f56e8f7:
@@ -49940,19 +49940,19 @@ translate zh_Hans son_sissy_storyline_323_9f56e8f7:
 translate zh_Hans son_sissy_storyline_323_656fec8f:
 
     # nvljim "Alright, we’ll see how you try to leave me."
-    nvljim "你说，好吧，那咱们就看看人家怎么离开你吧。"
+    nvljim "你说，好吧，那咱们就看看我怎么离开你吧。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25400
 translate zh_Hans son_sissy_storyline_323_6a34cf16:
 
     # nvljim "I’m more than sure that next week you’ll obediently go to the bathroom and start sucking cocks through the hole, just like your friend."
-    nvljim "你说，你非常确定下周人家会乖乖地去浴室，像人家的朋友一样，透过那个洞开始含弄肉棒呢。"
+    nvljim "你说，你非常确定下周我会乖乖地去浴室，像我的朋友一样，透过那个洞开始含弄肉棒呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25402
 translate zh_Hans son_sissy_storyline_323_7db53f4e:
 
     # nvljim "Because you’re just as much of a slut as she is."
-    nvljim "因为你说，人家和她一样，都是个荡妇呢。"
+    nvljim "因为你说，我和她一样，都是个荡妇呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25418
 translate zh_Hans son_sissy_storyline_323_53c71d7c:
@@ -49984,13 +49984,13 @@ translate zh_Hans son_sissy_storyline_324_b8832c0d:
 translate zh_Hans son_sissy_storyline_324_1f161353:
 
     # nvlvalerie "How long?"
-    nvlvalerie "瓦莱丽问人家，还要等多久呢？"
+    nvlvalerie "瓦莱丽问我，还要等多久呢？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25447
 translate zh_Hans son_sissy_storyline_324_01b6a693:
 
     # nvlvalerie "I can’t wait anymore."
-    nvlvalerie "人家再也等不及了啦。"
+    nvlvalerie "我再也等不及了啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25449
 translate zh_Hans son_sissy_storyline_324_0ab67d1b:
@@ -50014,7 +50014,7 @@ translate zh_Hans son_sissy_storyline_324_1ff87c41:
 translate zh_Hans son_sissy_storyline_324_dd6fe529:
 
     # nvlsson "My acquaintance said he’ll buy the tickets soon."
-    nvlsson "人家认识的人说，他很快就会买票了呢。"
+    nvlsson "我认识的人说，他很快就会买票了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25457
 translate zh_Hans son_sissy_storyline_324_b515b5f3:
@@ -50026,7 +50026,7 @@ translate zh_Hans son_sissy_storyline_324_b515b5f3:
 translate zh_Hans son_sissy_storyline_324_9261f8b4:
 
     # nvlsson "And I think we can already quit working for Jim."
-    nvlsson "人家觉得，咱们现在就可以辞掉吉姆那里的工作了呢。"
+    nvlsson "我觉得，咱们现在就可以辞掉吉姆那里的工作了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25461
 translate zh_Hans son_sissy_storyline_324_c512d37d:
@@ -50044,7 +50044,7 @@ translate zh_Hans son_sissy_storyline_324_83984168:
 translate zh_Hans son_sissy_storyline_324_73900512:
 
     # nvlvalerie "So, you agreed and now we’re waiting for him to buy the tickets?"
-    nvlvalerie "瓦莱丽问人家，所以你同意了，现在咱们就等着他买票了是吗？"
+    nvlvalerie "瓦莱丽问我，所以你同意了，现在咱们就等着他买票了是吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25467
 translate zh_Hans son_sissy_storyline_324_49a9da7f:
@@ -50094,7 +50094,7 @@ translate zh_Hans son_sissy_storyline_325_1ffb2314:
 translate zh_Hans son_sissy_storyline_325_fdef3313:
 
     # nvlsson "I need your advice."
-    nvlsson "人家需要你的建议啦。"
+    nvlsson "我需要你的建议啦。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25516
 translate zh_Hans son_sissy_storyline_325_fb03fe22:
@@ -50112,13 +50112,13 @@ translate zh_Hans son_sissy_storyline_325_5d4da459:
 translate zh_Hans son_sissy_storyline_325_7aa4eab2:
 
     # nvlsson "I'm completely confused about this whole job thing."
-    nvlsson "人家对这份工作的事情完全搞不清楚了呢。"
+    nvlsson "我对这份工作的事情完全搞不清楚了呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25522
 translate zh_Hans son_sissy_storyline_325_d5ef360b:
 
     # nvlsson "So I decided to do whatever you tell me to do."
-    nvlsson "所以人家决定了，大人说什么，人家就乖乖照做。"
+    nvlsson "所以我决定了，爸爸说什么，我就乖乖照做。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25526
 translate zh_Hans son_sissy_storyline_325_d35c47f1:
@@ -50142,13 +50142,13 @@ translate zh_Hans son_sissy_storyline_325_67a20e0d:
 translate zh_Hans son_sissy_storyline_325_6964d5eb:
 
     # nvlsson "You don’t want to let me go?"
-    nvlsson "你……你舍不得人家走吗？"
+    nvlsson "你……你舍不得我走吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25536
 translate zh_Hans son_sissy_storyline_325_b413b967:
 
     # nvljohn "No, I don’t."
-    nvljohn "不，人家当然不希望。"
+    nvljohn "不，我当然不希望。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25538
 translate zh_Hans son_sissy_storyline_325_c02594f4:
@@ -50172,7 +50172,7 @@ translate zh_Hans son_sissy_storyline_325_83b774e9:
 translate zh_Hans son_sissy_storyline_325_52e6bdfb:
 
     # nvlsson "Then I’ll stay with you."
-    nvlsson "那人家就乖乖地，永远留在大人的身边。"
+    nvlsson "那我就乖乖地，永远留在爸爸的身边。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25546
 translate zh_Hans son_sissy_storyline_325_b5571112:
@@ -50184,13 +50184,13 @@ translate zh_Hans son_sissy_storyline_325_b5571112:
 translate zh_Hans son_sissy_storyline_325_c048af7e:
 
     # nvlsson "Oh, that would be great!"
-    nvlsson "噢，那真是太好了！人家好喜欢！"
+    nvlsson "噢，那真是太好了！我好喜欢！"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25550
 translate zh_Hans son_sissy_storyline_325_84b29055:
 
     # nvlsson "I’ve always dreamed of working with my daddy."
-    nvlsson "人家一直都梦想着，能和大人一起工作呢。"
+    nvlsson "我一直都梦想着，能和爸爸一起工作呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25552
 translate zh_Hans son_sissy_storyline_325_75fea402:
@@ -50202,7 +50202,7 @@ translate zh_Hans son_sissy_storyline_325_75fea402:
 translate zh_Hans son_sissy_storyline_325_7e218c56:
 
     # nvlsson "Yeah. 😊"
-    nvlsson "嗯，人家听你的。😊"
+    nvlsson "嗯，我听你的。😊"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25562
 translate zh_Hans son_sissy_storyline_325_754c2aa8:
@@ -50220,7 +50220,7 @@ translate zh_Hans son_sissy_storyline_325_64746b87:
 translate zh_Hans son_sissy_storyline_325_bfd368ce:
 
     # nvlsson "So you think I should fly there?"
-    nvlsson "所以大人觉得，人家应该飞过去吗？"
+    nvlsson "所以爸爸觉得，我应该飞过去吗？"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25568
 translate zh_Hans son_sissy_storyline_325_1e4d61f0:
@@ -50244,19 +50244,19 @@ translate zh_Hans son_sissy_storyline_325_cd81cc5d:
 translate zh_Hans son_sissy_storyline_325_d065a310:
 
     # nvlsson "Yes, I’ve already made sure."
-    nvlsson "嗯，人家已经确认过了。"
+    nvlsson "嗯，我已经确认过了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25576
 translate zh_Hans son_sissy_storyline_325_bdfc7f4d:
 
     # nvlsson "I talked to Kanye, and he told me everything."
-    nvlsson "人家和Kanye聊过了，他把一切都告诉人家了。"
+    nvlsson "我和Kanye聊过了，他把一切都告诉我了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25578
 translate zh_Hans son_sissy_storyline_325_b3219bcc:
 
     # nvlsson "So everything is fine in that regard."
-    nvlsson "所以在这方面，大人可以放心，一切都好好的。"
+    nvlsson "所以在这方面，爸爸可以放心，一切都好好的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25580
 translate zh_Hans son_sissy_storyline_325_a58b7281:
@@ -50280,13 +50280,13 @@ translate zh_Hans son_sissy_storyline_325_f958968e:
 translate zh_Hans son_sissy_storyline_325_c0a0478b:
 
     # nvlsson "I think it might be better to try, probably."
-    nvlsson "人家觉得，也许还是去试试比较好呢。"
+    nvlsson "我觉得，也许还是去试试比较好呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25594
 translate zh_Hans son_sissy_storyline_325_9fe1df9d:
 
     # nvlsson "So I won’t regret it later."
-    nvlsson "这样人家以后才不会后悔嘛。"
+    nvlsson "这样我以后才不会后悔嘛。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25596
 translate zh_Hans son_sissy_storyline_325_71309fab:
@@ -50316,19 +50316,19 @@ translate zh_Hans son_sissy_storyline_325_cd81cc5d_1:
 translate zh_Hans son_sissy_storyline_325_d065a310_1:
 
     # nvlsson "Yes, I’ve already made sure."
-    nvlsson "嗯，人家已经确认过了。"
+    nvlsson "嗯，我已经确认过了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25606
 translate zh_Hans son_sissy_storyline_325_bdfc7f4d_1:
 
     # nvlsson "I talked to Kanye, and he told me everything."
-    nvlsson "人家和Kanye聊过了，他把一切都告诉人家了。"
+    nvlsson "我和Kanye聊过了，他把一切都告诉我了。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25608
 translate zh_Hans son_sissy_storyline_325_b3219bcc_1:
 
     # nvlsson "So everything is fine in that regard."
-    nvlsson "所以在这方面，大人可以放心，一切都好好的。"
+    nvlsson "所以在这方面，爸爸可以放心，一切都好好的。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25610
 translate zh_Hans son_sissy_storyline_325_a58b7281_1:
@@ -50340,19 +50340,19 @@ translate zh_Hans son_sissy_storyline_325_a58b7281_1:
 translate zh_Hans son_sissy_storyline_325_a7a7b013:
 
     # nvlsson "Thank you."
-    nvlsson "谢谢大人。"
+    nvlsson "谢谢爸爸。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25617
 translate zh_Hans son_sissy_storyline_325_357563c4:
 
     # nvlsson "Without you, I would never have made a decision."
-    nvlsson "没有大人，人家根本就不知道该怎么做决定呢。"
+    nvlsson "没有爸爸，我根本就不知道该怎么做决定呢。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25619
 translate zh_Hans son_sissy_storyline_325_a51bdd93:
 
     # nvlsson "And now I feel like I made the right choice."
-    nvlsson "现在人家觉得，自己做了最正确的选择。"
+    nvlsson "现在我觉得，自己做了最正确的选择。"
 
 # game/scripts/dialogues/son/son_sissy_storyline.rpy:25621
 translate zh_Hans son_sissy_storyline_325_78169a91:

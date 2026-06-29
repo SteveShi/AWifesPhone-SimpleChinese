@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-29 09:30
+# TODO: Translation updated at 2026-06-29 09:30
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:68
 translate zh_Hans gianna_cuck_storyline_1_5daf5f65:
@@ -450,7 +450,7 @@ translate zh_Hans gianna_cuck_storyline_4_39ec4d6e:
 translate zh_Hans gianna_cuck_storyline_4_a48f4e17:
 
     # nvljohn "😳"
-    nvljohn ""
+    nvljohn "😳|"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:317
 translate zh_Hans gianna_cuck_storyline_4_069b9586:
@@ -528,13 +528,13 @@ translate zh_Hans gianna_cuck_storyline_4_f858953c:
 translate zh_Hans gianna_cuck_storyline_4_bdfa4055:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_5}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_5}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:346
 translate zh_Hans gianna_cuck_storyline_4_fa18c77d:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_6}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_6}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:349
 translate zh_Hans gianna_cuck_storyline_4_648a1453:
@@ -704,13 +704,13 @@ translate zh_Hans gianna_cuck_storyline_5_15c5eef9:
 translate zh_Hans gianna_cuck_storyline_5_506ee001:
 
     # nvljohn "{a=show:show_chat_media}{image=gianna_pic_5}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=gianna_pic_5}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:442
 translate zh_Hans gianna_cuck_storyline_5_88e76971:
 
     # nvljohn "{a=show:show_chat_media}{image=gianna_pic_6}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=gianna_pic_6}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:444
 translate zh_Hans gianna_cuck_storyline_5_8d0e74b3:
@@ -782,13 +782,13 @@ translate zh_Hans gianna_cuck_storyline_5_3455a719:
 translate zh_Hans gianna_cuck_storyline_5_1db9a951:
 
     # nvljustin2 "{a=show:show_chat_media}{image=bbc_pic_222}"
-    nvljustin2 ""
+    nvljustin2 "{a=show:show_chat_media}{image=bbc_pic_222}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:471
 translate zh_Hans gianna_cuck_storyline_5_a0b98143:
 
     # nvljustin2 "{a=show:show_chat_media}{image=bbc_pic_176}"
-    nvljustin2 ""
+    nvljustin2 "{a=show:show_chat_media}{image=bbc_pic_176}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:474
 translate zh_Hans gianna_cuck_storyline_5_ffc4a441:
@@ -892,13 +892,13 @@ translate zh_Hans gianna_cuck_storyline_6_bd7904f3:
 translate zh_Hans gianna_cuck_storyline_6_44ee7635:
 
     # nvljohn "{a=show:show_chat_media}{image=bbc_pic_222}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=bbc_pic_222}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:543
 translate zh_Hans gianna_cuck_storyline_6_70b4afc8:
 
     # nvljohn "{a=show:show_chat_media}{image=bbc_pic_176}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=bbc_pic_176}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:545
 translate zh_Hans gianna_cuck_storyline_6_d887d3ab:
@@ -1258,7 +1258,7 @@ translate zh_Hans gianna_cuck_storyline_9_40fecaf3:
 translate zh_Hans gianna_cuck_storyline_9_8db51a6e:
 
     # nvljohn "😘"
-    nvljohn ""
+    nvljohn "😘|"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:776
 translate zh_Hans gianna_cuck_storyline_9_53c71d7c:
@@ -1418,7 +1418,7 @@ translate zh_Hans gianna_cuck_storyline_11_19622f63:
 translate zh_Hans gianna_cuck_storyline_11_47b96657:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_video_7_ns}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_video_7_ns}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:882
 translate zh_Hans gianna_cuck_storyline_11_6243725c:
@@ -1570,7 +1570,7 @@ translate zh_Hans gianna_cuck_storyline_12_07511a92:
 translate zh_Hans gianna_cuck_storyline_12_4705a5ce:
 
     # nvljustin2 "{a=show:show_chat_media}{image=wife_video_276_ns}"
-    nvljustin2 ""
+    nvljustin2 "{a=show:show_chat_media}{image=wife_video_276_ns}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:967
 translate zh_Hans gianna_cuck_storyline_12_11ae566a:
@@ -1680,7 +1680,7 @@ translate zh_Hans gianna_cuck_storyline_13_cefc33e1:
 translate zh_Hans gianna_cuck_storyline_13_f00d16b9:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_276_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=wife_video_276_ns}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:1037
 translate zh_Hans gianna_cuck_storyline_13_e9c53a11:
@@ -1870,7 +1870,7 @@ translate zh_Hans gianna_cuck_storyline_15_391b62d5:
 translate zh_Hans gianna_cuck_storyline_15_5410aa78:
 
     # nvljohn "{a=show:show_chat_media}{image=mc_pic_75}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=mc_pic_75}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:1167
 translate zh_Hans gianna_cuck_storyline_15_b0db3ddf:
@@ -2192,7 +2192,7 @@ translate zh_Hans gianna_cuck_storyline_17_18a277ac:
 translate zh_Hans gianna_cuck_storyline_17_7cb9f1d6:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_video_8_ns}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_video_8_ns}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:1341
 translate zh_Hans gianna_cuck_storyline_17_765185ea:
@@ -2334,7 +2334,7 @@ translate zh_Hans gianna_cuck_storyline_19_c7ee35a4:
 translate zh_Hans gianna_cuck_storyline_19_85c6d853:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_7}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_7}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:1455
 translate zh_Hans gianna_cuck_storyline_19_72379277:
@@ -2402,7 +2402,7 @@ translate zh_Hans gianna_cuck_storyline_20_f63c790e:
 translate zh_Hans gianna_cuck_storyline_20_be5ae0be:
 
     # nvljohn "{a=show:show_chat_media}{image=gianna_pic_7}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=gianna_pic_7}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:1511
 translate zh_Hans gianna_cuck_storyline_20_72a062b3:
@@ -2500,7 +2500,7 @@ translate zh_Hans gianna_cuck_storyline_21_3a09981f:
 translate zh_Hans gianna_cuck_storyline_21_eadaeb07:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_video_26_ns}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_video_26_ns}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:1580
 translate zh_Hans gianna_cuck_storyline_21_1b7d79dd:
@@ -2554,7 +2554,7 @@ translate zh_Hans gianna_cuck_storyline_21_35cb25a2:
 translate zh_Hans gianna_cuck_storyline_21_59b1cb6a:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_21}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_21}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:1600
 translate zh_Hans gianna_cuck_storyline_21_2ea1050d:
@@ -3016,7 +3016,7 @@ translate zh_Hans gianna_cuck_storyline_24_fedabdc3:
 translate zh_Hans gianna_cuck_storyline_24_a81ca994:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_22}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_22}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:1853
 translate zh_Hans gianna_cuck_storyline_24_10475d2b:
@@ -3028,7 +3028,7 @@ translate zh_Hans gianna_cuck_storyline_24_10475d2b:
 translate zh_Hans gianna_cuck_storyline_24_eff79bab:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_23}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_23}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:1859
 translate zh_Hans gianna_cuck_storyline_24_f7bbc5a4:
@@ -3064,7 +3064,7 @@ translate zh_Hans gianna_cuck_storyline_24_652b75ec:
 translate zh_Hans gianna_cuck_storyline_24_a81ca994_1:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_22}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_22}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:1882
 translate zh_Hans gianna_cuck_storyline_24_652b75ec_1:
@@ -3076,7 +3076,7 @@ translate zh_Hans gianna_cuck_storyline_24_652b75ec_1:
 translate zh_Hans gianna_cuck_storyline_24_eff79bab_1:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_23}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_23}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:1892
 translate zh_Hans gianna_cuck_storyline_24_a8728390:
@@ -3726,7 +3726,7 @@ translate zh_Hans gianna_cuck_storyline_28_662ff4f3:
 translate zh_Hans gianna_cuck_storyline_28_d19cff69:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_24}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_24}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:2240
 translate zh_Hans gianna_cuck_storyline_28_1c91f3a1:
@@ -4048,7 +4048,7 @@ translate zh_Hans gianna_cuck_storyline_30_43443d7f:
 translate zh_Hans gianna_cuck_storyline_30_010868ef:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_video_27_ns}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_video_27_ns}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:2414
 translate zh_Hans gianna_cuck_storyline_30_25ce8e64:
@@ -4078,7 +4078,7 @@ translate zh_Hans gianna_cuck_storyline_30_a40f9859:
 translate zh_Hans gianna_cuck_storyline_30_b341928b:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_25}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_25}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:2426
 translate zh_Hans gianna_cuck_storyline_30_c72d6c87:
@@ -5068,7 +5068,7 @@ translate zh_Hans gianna_cuck_storyline_36_5f3c9e2c:
 translate zh_Hans gianna_cuck_storyline_36_094c3415:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_26}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_26}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:2952
 translate zh_Hans gianna_cuck_storyline_36_b0b209dd:
@@ -5396,7 +5396,7 @@ translate zh_Hans gianna_cuck_storyline_38_ea652fe9:
 translate zh_Hans gianna_cuck_storyline_38_9d9062cc:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_video_28_ns}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_video_28_ns}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:3128
 translate zh_Hans gianna_cuck_storyline_38_e78d9fc1:
@@ -5444,7 +5444,7 @@ translate zh_Hans gianna_cuck_storyline_38_f5818903:
 translate zh_Hans gianna_cuck_storyline_38_1a6f0665:
 
     # nvljohn "{a=show:show_chat_media}{image=gianna_video_29_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=gianna_video_29_ns}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:3146
 translate zh_Hans gianna_cuck_storyline_38_b8727cd2:
@@ -5742,7 +5742,7 @@ translate zh_Hans gianna_cuck_storyline_40_a64078da:
 translate zh_Hans gianna_cuck_storyline_40_cb03eb22:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_27}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_27}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:3312
 translate zh_Hans gianna_cuck_storyline_40_481c4783:
@@ -5766,7 +5766,7 @@ translate zh_Hans gianna_cuck_storyline_40_3dacc1fc:
 translate zh_Hans gianna_cuck_storyline_40_7b52f543:
 
     # nvljohn "{a=show:show_chat_media}{image=mc_pic_105}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=mc_pic_105}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:3322
 translate zh_Hans gianna_cuck_storyline_40_49de8e31:
@@ -6038,7 +6038,7 @@ translate zh_Hans gianna_cuck_storyline_41_39abba82:
 translate zh_Hans gianna_cuck_storyline_41_b7723317:
 
     # nvljohn "{a=show:show_chat_media}{image=gianna_video_30_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=gianna_video_30_ns}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:3447
 translate zh_Hans gianna_cuck_storyline_41_6dae2e89:
@@ -6608,7 +6608,7 @@ translate zh_Hans gianna_cuck_storyline_44_cc516c44:
 translate zh_Hans gianna_cuck_storyline_44_f1cc4625:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_video_31_ns}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_video_31_ns}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:3736
 translate zh_Hans gianna_cuck_storyline_44_ca5f8924:
@@ -7082,7 +7082,7 @@ translate zh_Hans gianna_cuck_storyline_47_23847b07:
 translate zh_Hans gianna_cuck_storyline_47_2dce3169:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_28}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_28}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:3993
 translate zh_Hans gianna_cuck_storyline_47_eef8a429:
@@ -7598,7 +7598,7 @@ translate zh_Hans gianna_cuck_storyline_50_3b8a23c2:
 translate zh_Hans gianna_cuck_storyline_50_c6d13466:
 
     # nvljohn "{a=show:show_chat_media}{image=gianna_video_32_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=gianna_video_32_ns}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:4264
 translate zh_Hans gianna_cuck_storyline_50_e0c4e6a6:
@@ -8066,7 +8066,7 @@ translate zh_Hans gianna_cuck_storyline_53_13e95e2f:
 translate zh_Hans gianna_cuck_storyline_53_86664410:
 
     # nvljohn "{a=show:show_chat_media}{image=gianna_video_33_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=gianna_video_33_ns}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:4521
 translate zh_Hans gianna_cuck_storyline_53_7848aba0:
@@ -8096,7 +8096,7 @@ translate zh_Hans gianna_cuck_storyline_53_727702e3:
 translate zh_Hans gianna_cuck_storyline_53_83ccdbba:
 
     # nvljohn "{a=show:show_chat_media}{image=gianna_video_34_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=gianna_video_34_ns}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:4533
 translate zh_Hans gianna_cuck_storyline_53_d240c4e4:
@@ -8150,13 +8150,13 @@ translate zh_Hans gianna_cuck_storyline_53_e4310d48:
 translate zh_Hans gianna_cuck_storyline_53_8bed360a:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_34}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_34}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:4554
 translate zh_Hans gianna_cuck_storyline_53_caca08b4:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_35}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_35}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:4557
 translate zh_Hans gianna_cuck_storyline_53_96a789bd:
@@ -9116,7 +9116,7 @@ translate zh_Hans gianna_cuck_storyline_59_9f83b850:
 translate zh_Hans gianna_cuck_storyline_59_d1b86101:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_36}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_36}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:5073
 translate zh_Hans gianna_cuck_storyline_59_9d8e649b:
@@ -9360,7 +9360,7 @@ translate zh_Hans gianna_cuck_storyline_61_18a277ac:
 translate zh_Hans gianna_cuck_storyline_61_859b8088:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_video_35_ns}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_video_35_ns}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:5223
 translate zh_Hans gianna_cuck_storyline_61_807b0783:
@@ -9402,7 +9402,7 @@ translate zh_Hans gianna_cuck_storyline_61_e79bfac6:
 translate zh_Hans gianna_cuck_storyline_61_17a442b1:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_video_36_ns}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_video_36_ns}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:5241
 translate zh_Hans gianna_cuck_storyline_61_bebfbcee:
@@ -9560,7 +9560,7 @@ translate zh_Hans gianna_cuck_storyline_62_fc1b7786:
 translate zh_Hans gianna_cuck_storyline_62_85de1564:
 
     # nvljustin2 "{a=show:show_chat_media}{image=gianna_video_37_ns}"
-    nvljustin2 ""
+    nvljustin2 "{a=show:show_chat_media}{image=gianna_video_37_ns}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:5330
 translate zh_Hans gianna_cuck_storyline_62_e78d9fc1:
@@ -9942,7 +9942,7 @@ translate zh_Hans gianna_cuck_storyline_64_6ca4be59:
 translate zh_Hans gianna_cuck_storyline_64_a68cb5b1:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_37}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_37}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:5526
 translate zh_Hans gianna_cuck_storyline_64_e8277bba:
@@ -10154,19 +10154,19 @@ translate zh_Hans gianna_cuck_storyline_65_94c42ad0:
 translate zh_Hans gianna_cuck_storyline_65_896926a2:
 
     # nvljohn "{a=show:show_chat_media}{image=gianna_video_38_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=gianna_video_38_ns}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:5649
 translate zh_Hans gianna_cuck_storyline_65_c9810162:
 
     # nvljohn "{a=show:show_chat_media}{image=gianna_video_39_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=gianna_video_39_ns}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:5655
 translate zh_Hans gianna_cuck_storyline_65_8346a42b:
 
     # nvljohn "{a=show:show_chat_media}{image=gianna_video_40_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=gianna_video_40_ns}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:5659
 translate zh_Hans gianna_cuck_storyline_65_7d968032:
@@ -10390,7 +10390,7 @@ translate zh_Hans gianna_cuck_storyline_66_e65a1678:
 translate zh_Hans gianna_cuck_storyline_66_fd480d4c:
 
     # nvljustin2 "{a=show:show_chat_media}{image=gianna_video_41_ns}"
-    nvljustin2 ""
+    nvljustin2 "{a=show:show_chat_media}{image=gianna_video_41_ns}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:5770
 translate zh_Hans gianna_cuck_storyline_66_77732e18:
@@ -11694,7 +11694,7 @@ translate zh_Hans gianna_cuck_storyline_73_28632ed9:
 translate zh_Hans gianna_cuck_storyline_73_8ca9f37f:
 
     # nvljustin2 "{a=show:show_chat_media}{image=gianna_video_42_ns}"
-    nvljustin2 ""
+    nvljustin2 "{a=show:show_chat_media}{image=gianna_video_42_ns}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:6448
 translate zh_Hans gianna_cuck_storyline_73_e78d9fc1:
@@ -12058,19 +12058,19 @@ translate zh_Hans gianna_cuck_storyline_75_def60e80:
 translate zh_Hans gianna_cuck_storyline_75_15d965af:
 
     # nvljohn "{a=show:show_chat_media}{image=gianna_video_43_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=gianna_video_43_ns}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:6640
 translate zh_Hans gianna_cuck_storyline_75_d9d5116b:
 
     # nvljohn "{a=show:show_chat_media}{image=gianna_video_44_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=gianna_video_44_ns}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:6646
 translate zh_Hans gianna_cuck_storyline_75_071d780a:
 
     # nvljohn "{a=show:show_chat_media}{image=gianna_video_45_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=gianna_video_45_ns}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:6650
 translate zh_Hans gianna_cuck_storyline_75_143603ac:
@@ -12974,7 +12974,7 @@ translate zh_Hans gianna_cuck_storyline_80_c4b1d340:
 translate zh_Hans gianna_cuck_storyline_80_065fd2c8:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_38}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_38}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:7154
 translate zh_Hans gianna_cuck_storyline_80_a329bff8:
@@ -13218,7 +13218,7 @@ translate zh_Hans gianna_cuck_storyline_82_653f7025:
 translate zh_Hans gianna_cuck_storyline_82_97487c90:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_39}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_39}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:7304
 translate zh_Hans gianna_cuck_storyline_82_96d9ec04:
@@ -13340,7 +13340,7 @@ translate zh_Hans gianna_cuck_storyline_83_fc96df42:
 translate zh_Hans gianna_cuck_storyline_83_6e6caba2:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_40}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_40}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:7381
 translate zh_Hans gianna_cuck_storyline_83_f7a82cd2:
@@ -13426,7 +13426,7 @@ translate zh_Hans gianna_cuck_storyline_84_ee57a18f:
 translate zh_Hans gianna_cuck_storyline_84_561f62c3:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_41}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_41}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:7446
 translate zh_Hans gianna_cuck_storyline_84_5f8ac833:
@@ -13530,7 +13530,7 @@ translate zh_Hans gianna_cuck_storyline_85_b0b3d627:
 translate zh_Hans gianna_cuck_storyline_85_86d6391b:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_42}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_42}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:7517
 translate zh_Hans gianna_cuck_storyline_85_f2bae5e4:
@@ -13768,7 +13768,7 @@ translate zh_Hans gianna_cuck_storyline_87_40509367:
 translate zh_Hans gianna_cuck_storyline_87_bc2e16de:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_video_46_ns}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_video_46_ns}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:7665
 translate zh_Hans gianna_cuck_storyline_87_efcaaf90:
@@ -14152,7 +14152,7 @@ translate zh_Hans gianna_cuck_storyline_90_f53c41dd:
 translate zh_Hans gianna_cuck_storyline_90_63708baa:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_video_47_ns}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_video_47_ns}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:7894
 translate zh_Hans gianna_cuck_storyline_90_eda328a9:
@@ -14316,7 +14316,7 @@ translate zh_Hans gianna_cuck_storyline_91_31db9d7d:
 translate zh_Hans gianna_cuck_storyline_91_d8f761f4:
 
     # nvljohn "{a=show:show_chat_media}{image=gianna_video_48_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=gianna_video_48_ns}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:7985
 translate zh_Hans gianna_cuck_storyline_91_8d2f698d:
@@ -14328,7 +14328,7 @@ translate zh_Hans gianna_cuck_storyline_91_8d2f698d:
 translate zh_Hans gianna_cuck_storyline_91_7c8722da:
 
     # nvljohn "{a=show:show_chat_media}{image=gianna_video_49_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=gianna_video_49_ns}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:7993
 translate zh_Hans gianna_cuck_storyline_91_e3ab38f2:
@@ -14340,7 +14340,7 @@ translate zh_Hans gianna_cuck_storyline_91_e3ab38f2:
 translate zh_Hans gianna_cuck_storyline_91_7d8d1cf7:
 
     # nvljohn "{a=show:show_chat_media}{image=gianna_video_50_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=gianna_video_50_ns}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:8001
 translate zh_Hans gianna_cuck_storyline_91_86375e01:
@@ -14382,7 +14382,7 @@ translate zh_Hans gianna_cuck_storyline_91_69011cd3:
 translate zh_Hans gianna_cuck_storyline_91_199aebd0:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_43}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_43}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:8019
 translate zh_Hans gianna_cuck_storyline_91_5f7647ef:
@@ -14814,7 +14814,7 @@ translate zh_Hans gianna_cuck_storyline_94_91823120:
 translate zh_Hans gianna_cuck_storyline_94_73a1e00e:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_44}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_44}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:8264
 translate zh_Hans gianna_cuck_storyline_94_100732cc:
@@ -15344,7 +15344,7 @@ translate zh_Hans gianna_cuck_storyline_98_443713c2:
 translate zh_Hans gianna_cuck_storyline_98_ff2e905d:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_video_51_ns}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_video_51_ns}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:8587
 translate zh_Hans gianna_cuck_storyline_98_8eb2225e:
@@ -15392,7 +15392,7 @@ translate zh_Hans gianna_cuck_storyline_98_76644d21:
 translate zh_Hans gianna_cuck_storyline_98_eb365089:
 
     # nvljohn "{a=show:show_chat_media}{image=mc_video_47_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=mc_video_47_ns}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:8607
 translate zh_Hans gianna_cuck_storyline_98_750d7a51:
@@ -15538,7 +15538,7 @@ translate zh_Hans gianna_cuck_storyline_99_3b03adc7:
 translate zh_Hans gianna_cuck_storyline_99_cf97d181:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_45}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_45}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:8692
 translate zh_Hans gianna_cuck_storyline_99_1112e9a7:
@@ -16188,7 +16188,7 @@ translate zh_Hans gianna_cuck_storyline_103_d6314193:
 translate zh_Hans gianna_cuck_storyline_103_191ec08c:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_46}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_46}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:9042
 translate zh_Hans gianna_cuck_storyline_103_2609e135:
@@ -16746,7 +16746,7 @@ translate zh_Hans gianna_cuck_storyline_106_c8c44492:
 translate zh_Hans gianna_cuck_storyline_106_ad8c791b:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_47}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_47}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:9331
 translate zh_Hans gianna_cuck_storyline_106_b7acce2a:
@@ -17228,7 +17228,7 @@ translate zh_Hans gianna_cuck_storyline_110_5243b635:
 translate zh_Hans gianna_cuck_storyline_110_7b5adfa7:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_video_52_ns}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_video_52_ns}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:9629
 translate zh_Hans gianna_cuck_storyline_110_3c83d1d3:
@@ -17704,7 +17704,7 @@ translate zh_Hans gianna_cuck_storyline_114_d37c769c:
 translate zh_Hans gianna_cuck_storyline_114_0e21822a:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_video_53_ns}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_video_53_ns}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:9924
 translate zh_Hans gianna_cuck_storyline_114_c6604c66:
@@ -17776,7 +17776,7 @@ translate zh_Hans gianna_cuck_storyline_114_f0d82412:
 translate zh_Hans gianna_cuck_storyline_114_c1035c58:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_48}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_48}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:9952
 translate zh_Hans gianna_cuck_storyline_114_a924e68c:
@@ -18002,7 +18002,7 @@ translate zh_Hans gianna_cuck_storyline_116_e04b8197:
 translate zh_Hans gianna_cuck_storyline_116_df2ec5fd:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_video_54_ns}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_video_54_ns}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:10097
 translate zh_Hans gianna_cuck_storyline_116_afb24982:
@@ -18136,7 +18136,7 @@ translate zh_Hans gianna_cuck_storyline_117_c8b39c58:
 translate zh_Hans gianna_cuck_storyline_117_43dc920f:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_video_55_ns}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_video_55_ns}"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:10179
 translate zh_Hans gianna_cuck_storyline_117_09826591:

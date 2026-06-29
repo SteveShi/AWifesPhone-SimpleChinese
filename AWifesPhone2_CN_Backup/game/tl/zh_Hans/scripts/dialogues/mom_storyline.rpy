@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-29 09:30
+# TODO: Translation updated at 2026-06-29 09:30
 
 # game/scripts/dialogues/mom_storyline.rpy:210
 translate zh_Hans mom_storyline_0_2be31742:
@@ -676,7 +676,7 @@ translate zh_Hans mom_storyline_2_c26a221d:
 translate zh_Hans mom_storyline_2_caa31f77:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_pic_1}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=mom_pic_1}"
 
 # game/scripts/dialogues/mom_storyline.rpy:502
 translate zh_Hans mom_storyline_2_8d4d3e5c:
@@ -694,7 +694,7 @@ translate zh_Hans mom_storyline_2_734ce254:
 translate zh_Hans mom_storyline_2_33c768b9:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_pic_2}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=mom_pic_2}"
 
 # game/scripts/dialogues/mom_storyline.rpy:512
 translate zh_Hans mom_storyline_2_c4029c2f:
@@ -2500,7 +2500,7 @@ translate zh_Hans mom_storyline_8_53b7bedf:
 translate zh_Hans mom_storyline_8_ee73a2c8:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_pic_3}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=mom_pic_3}"
 
 # game/scripts/dialogues/mom_storyline.rpy:1315
 translate zh_Hans mom_storyline_8_03973e08:
@@ -2854,7 +2854,7 @@ translate zh_Hans mom_storyline_8_32b7c380:
 translate zh_Hans mom_storyline_8_ee73a2c8_1:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_pic_3}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=mom_pic_3}"
 
 # game/scripts/dialogues/mom_storyline.rpy:1439
 translate zh_Hans mom_storyline_8_03973e08_1:
@@ -4448,7 +4448,7 @@ translate zh_Hans mom_storyline_13_53615b7b:
 translate zh_Hans mom_storyline_13_9098c3df:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_4}"
-    nvlmom ""
+    nvlmom "{a=show:show_chat_media}{image=mom_pic_4}"
 
 # game/scripts/dialogues/mom_storyline.rpy:2167
 translate zh_Hans mom_storyline_13_18ce17d7:
@@ -5020,7 +5020,7 @@ translate zh_Hans mom_storyline_14_89a029cd:
 translate zh_Hans mom_storyline_14_bb5fb48e:
 
     # nvlunknown "{a=show:show_chat_media}{image=mom_pic_5}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=mom_pic_5}"
 
 # game/scripts/dialogues/mom_storyline.rpy:2392
 translate zh_Hans mom_storyline_14_43bf73b7:
@@ -5038,7 +5038,7 @@ translate zh_Hans mom_storyline_14_b783ac00:
 translate zh_Hans mom_storyline_14_dee9b337:
 
     # nvlunknown "{a=show:show_chat_media}{image=mom_pic_6}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=mom_pic_6}"
 
 # game/scripts/dialogues/mom_storyline.rpy:2402
 translate zh_Hans mom_storyline_14_9a45956c:
@@ -7558,7 +7558,7 @@ translate zh_Hans mom_storyline_23_62915f62:
 translate zh_Hans mom_storyline_23_203d96a2:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_7}"
-    nvlmom ""
+    nvlmom "{a=show:show_chat_media}{image=mom_pic_7}"
 
 # game/scripts/dialogues/mom_storyline.rpy:3573
 translate zh_Hans mom_storyline_23_575f3c24:
@@ -7600,7 +7600,7 @@ translate zh_Hans mom_storyline_23_0f5ea05c:
 translate zh_Hans mom_storyline_23_354bac14:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_8}"
-    nvlmom ""
+    nvlmom "{a=show:show_chat_media}{image=mom_pic_8}"
 
 # game/scripts/dialogues/mom_storyline.rpy:3591
 translate zh_Hans mom_storyline_23_25033661:
@@ -7702,7 +7702,7 @@ translate zh_Hans mom_storyline_23_80536d72:
 translate zh_Hans mom_storyline_23_d2edc332:
 
     # nvlaaron "{a=show:show_chat_media}{image=mom_pic_7}"
-    nvlaaron ""
+    nvlaaron "{a=show:show_chat_media}{image=mom_pic_7}"
 
 # game/scripts/dialogues/mom_storyline.rpy:3627
 translate zh_Hans mom_storyline_23_76a6f3fb:
@@ -8196,7 +8196,7 @@ translate zh_Hans mom_storyline_24_12edec94:
 translate zh_Hans mom_storyline_24_696590ed:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_9}"
-    nvlmom ""
+    nvlmom "{a=show:show_chat_media}{image=mom_pic_9}"
 
 # game/scripts/dialogues/mom_storyline.rpy:3841
 translate zh_Hans mom_storyline_24_ae2a90d7:
@@ -8270,7 +8270,7 @@ translate zh_Hans mom_storyline_25_12edec94:
 translate zh_Hans mom_storyline_25_c5f11c42:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_10}"
-    nvlmom ""
+    nvlmom "{a=show:show_chat_media}{image=mom_pic_10}"
 
 # game/scripts/dialogues/mom_storyline.rpy:3900
 translate zh_Hans mom_storyline_25_ac9a8fb0:
@@ -8414,7 +8414,7 @@ translate zh_Hans mom_storyline_25_7d749bc7:
 translate zh_Hans mom_storyline_25_d7f5b0ec:
 
     # nvlgerard "{a=show:show_chat_media}{image=white_pic_5}"
-    nvlgerard ""
+    nvlgerard "{a=show:show_chat_media}{image=white_pic_5}"
 
 # game/scripts/dialogues/mom_storyline.rpy:3952
 translate zh_Hans mom_storyline_25_d2956fd4:
@@ -9362,7 +9362,7 @@ translate zh_Hans mom_storyline_28_75125a60:
 translate zh_Hans mom_storyline_28_59f1b9b9:
 
     # nvlgerard "{a=show:show_chat_media}{image=white_pic_6}"
-    nvlgerard ""
+    nvlgerard "{a=show:show_chat_media}{image=white_pic_6}"
 
 # game/scripts/dialogues/mom_storyline.rpy:4374
 translate zh_Hans mom_storyline_28_dd493bbb:
@@ -9530,7 +9530,7 @@ translate zh_Hans mom_storyline_28_12edec94:
 translate zh_Hans mom_storyline_28_a677d15d:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_11}"
-    nvlmom ""
+    nvlmom "{a=show:show_chat_media}{image=mom_pic_11}"
 
 # game/scripts/dialogues/mom_storyline.rpy:4434
 translate zh_Hans mom_storyline_28_9ad00ad3:
@@ -10570,7 +10570,7 @@ translate zh_Hans mom_storyline_32_672c2bae:
 translate zh_Hans mom_storyline_32_314a681c:
 
     # nvlgerard "{a=show:show_chat_media}{image=mom_pic_12}"
-    nvlgerard ""
+    nvlgerard "{a=show:show_chat_media}{image=mom_pic_12}"
 
 # game/scripts/dialogues/mom_storyline.rpy:4919
 translate zh_Hans mom_storyline_32_b9710d12:
@@ -10588,7 +10588,7 @@ translate zh_Hans mom_storyline_32_93720131:
 translate zh_Hans mom_storyline_32_0c0ec04f:
 
     # nvlgerard "{a=show:show_chat_media}{image=mom_pic_13}"
-    nvlgerard ""
+    nvlgerard "{a=show:show_chat_media}{image=mom_pic_13}"
 
 # game/scripts/dialogues/mom_storyline.rpy:4929
 translate zh_Hans mom_storyline_32_b2853ab4:
@@ -12542,7 +12542,7 @@ translate zh_Hans mom_storyline_36_98b55294:
 translate zh_Hans mom_storyline_36_fd3bd64a:
 
     # nvlaaron "{a=show:show_chat_media}{image=mom_pic_14}"
-    nvlaaron ""
+    nvlaaron "{a=show:show_chat_media}{image=mom_pic_14}"
 
 # game/scripts/dialogues/mom_storyline.rpy:5842
 translate zh_Hans mom_storyline_36_b06cccfa:
@@ -12572,7 +12572,7 @@ translate zh_Hans mom_storyline_36_6e09a9d7:
 translate zh_Hans mom_storyline_36_fcf2e321:
 
     # nvlaaron "{a=show:show_chat_media}{image=mom_pic_15}"
-    nvlaaron ""
+    nvlaaron "{a=show:show_chat_media}{image=mom_pic_15}"
 
 # game/scripts/dialogues/mom_storyline.rpy:5856
 translate zh_Hans mom_storyline_36_a526ab22:
@@ -12826,7 +12826,7 @@ translate zh_Hans mom_storyline_37_d780ce03:
 translate zh_Hans mom_storyline_37_a3f665cf:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_16}"
-    nvlmom ""
+    nvlmom "{a=show:show_chat_media}{image=mom_pic_16}"
 
 # game/scripts/dialogues/mom_storyline.rpy:5975
 translate zh_Hans mom_storyline_37_a8909e71:
@@ -12862,7 +12862,7 @@ translate zh_Hans mom_storyline_37_d2430a5c:
 translate zh_Hans mom_storyline_37_582f4a64:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_17}"
-    nvlmom ""
+    nvlmom "{a=show:show_chat_media}{image=mom_pic_17}"
 
 # game/scripts/dialogues/mom_storyline.rpy:5991
 translate zh_Hans mom_storyline_37_9502a236:
@@ -12898,7 +12898,7 @@ translate zh_Hans mom_storyline_37_d76d887a:
 translate zh_Hans mom_storyline_37_1b16e672:
 
     # nvlgerard "{a=show:show_chat_media}{image=white_pic_7}"
-    nvlgerard ""
+    nvlgerard "{a=show:show_chat_media}{image=white_pic_7}"
 
 # game/scripts/dialogues/mom_storyline.rpy:6007
 translate zh_Hans mom_storyline_37_11fc5a99:
@@ -12952,7 +12952,7 @@ translate zh_Hans mom_storyline_37_6bfd0f04:
 translate zh_Hans mom_storyline_37_d144695c:
 
     # nvlgerard "{a=show:show_chat_media}{image=mom_pic_18}"
-    nvlgerard ""
+    nvlgerard "{a=show:show_chat_media}{image=mom_pic_18}"
 
 # game/scripts/dialogues/mom_storyline.rpy:6029
 translate zh_Hans mom_storyline_37_3c20e8ac:
@@ -13006,7 +13006,7 @@ translate zh_Hans mom_storyline_37_1a0cf832:
 translate zh_Hans mom_storyline_37_33f6d87d:
 
     # nvlgerard "{a=show:show_chat_media}{image=white_pic_8}"
-    nvlgerard ""
+    nvlgerard "{a=show:show_chat_media}{image=white_pic_8}"
 
 # game/scripts/dialogues/mom_storyline.rpy:6051
 translate zh_Hans mom_storyline_37_ff0c5f71:
@@ -13236,7 +13236,7 @@ translate zh_Hans mom_storyline_38_521c7406:
 translate zh_Hans mom_storyline_38_547ebfb4:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_19}"
-    nvlmom ""
+    nvlmom "{a=show:show_chat_media}{image=mom_pic_19}"
 
 # game/scripts/dialogues/mom_storyline.rpy:6167
 translate zh_Hans mom_storyline_38_3a063a4e:
@@ -13376,7 +13376,7 @@ translate zh_Hans mom_storyline_39_cd37c784:
 translate zh_Hans mom_storyline_39_41df139c:
 
     # nvlunknown "{a=show:show_chat_media}{image=mom_pic_20}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=mom_pic_20}"
 
 # game/scripts/dialogues/mom_storyline.rpy:6248
 translate zh_Hans mom_storyline_39_f1e4d7f3:
@@ -13400,7 +13400,7 @@ translate zh_Hans mom_storyline_39_0507751c:
 translate zh_Hans mom_storyline_39_10b211ce:
 
     # nvlunknown "{a=show:show_chat_media}{image=mom_pic_21}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=mom_pic_21}"
 
 # game/scripts/dialogues/mom_storyline.rpy:6260
 translate zh_Hans mom_storyline_39_8e2d9b54:
@@ -13424,7 +13424,7 @@ translate zh_Hans mom_storyline_39_480f475c:
 translate zh_Hans mom_storyline_39_9b675cb9:
 
     # nvlunknown "{a=show:show_chat_media}{image=mom_pic_22}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=mom_pic_22}"
 
 # game/scripts/dialogues/mom_storyline.rpy:6272
 translate zh_Hans mom_storyline_39_a24ca968:
@@ -13610,7 +13610,7 @@ translate zh_Hans mom_storyline_40_76b2fe88:
 translate zh_Hans mom_storyline_40_9f12256a:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_23}"
-    nvlmom ""
+    nvlmom "{a=show:show_chat_media}{image=mom_pic_23}"
 
 # game/scripts/dialogues/mom_storyline.rpy:6381
 translate zh_Hans mom_storyline_40_3ba57baf:
@@ -13960,7 +13960,7 @@ translate zh_Hans mom_storyline_41_2715b274:
 translate zh_Hans mom_storyline_41_fb216a0f:
 
     # nvlgerard "{a=show:show_chat_media}{image=mom_pic_24}"
-    nvlgerard ""
+    nvlgerard "{a=show:show_chat_media}{image=mom_pic_24}"
 
 # game/scripts/dialogues/mom_storyline.rpy:6532
 translate zh_Hans mom_storyline_41_0fc9006d:
@@ -14032,7 +14032,7 @@ translate zh_Hans mom_storyline_42_76b2fe88:
 translate zh_Hans mom_storyline_42_ceb496d8:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_25}"
-    nvlmom ""
+    nvlmom "{a=show:show_chat_media}{image=mom_pic_25}"
 
 # game/scripts/dialogues/mom_storyline.rpy:6589
 translate zh_Hans mom_storyline_42_4b95386a:
@@ -14230,7 +14230,7 @@ translate zh_Hans mom_storyline_42_edc4658b:
 translate zh_Hans mom_storyline_42_20aa8280:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_26}"
-    nvlmom ""
+    nvlmom "{a=show:show_chat_media}{image=mom_pic_26}"
 
 # game/scripts/dialogues/mom_storyline.rpy:6659
 translate zh_Hans mom_storyline_42_9616e15c:
@@ -14388,7 +14388,7 @@ translate zh_Hans mom_storyline_43_91d6de6a:
 translate zh_Hans mom_storyline_43_43ec7d92:
 
     # nvlgerard "{a=show:show_chat_media}{image=mom_pic_27}"
-    nvlgerard ""
+    nvlgerard "{a=show:show_chat_media}{image=mom_pic_27}"
 
 # game/scripts/dialogues/mom_storyline.rpy:6746
 translate zh_Hans mom_storyline_43_1ca631f1:
@@ -15432,7 +15432,7 @@ translate zh_Hans mom_storyline_46_f66bb802:
 translate zh_Hans mom_storyline_46_69c25d8a:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_28}"
-    nvlmom ""
+    nvlmom "{a=show:show_chat_media}{image=mom_pic_28}"
 
 # game/scripts/dialogues/mom_storyline.rpy:7194
 translate zh_Hans mom_storyline_46_b24084e4:
@@ -18076,7 +18076,7 @@ translate zh_Hans mom_storyline_57_71cb97d7:
 translate zh_Hans mom_storyline_57_cfaad82f:
 
     # nvlgerard "{a=show:show_chat_media}{image=mom_video_4_ns}"
-    nvlgerard ""
+    nvlgerard "{a=show:show_chat_media}{image=mom_video_4_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:8490
 translate zh_Hans mom_storyline_57_e0275d68:
@@ -19540,7 +19540,7 @@ translate zh_Hans mom_storyline_63_db7f7a12:
 translate zh_Hans mom_storyline_63_a199482d:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_pic_29}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=mom_pic_29}"
 
 # game/scripts/dialogues/mom_storyline.rpy:9204
 translate zh_Hans mom_storyline_63_1000507b:
@@ -19636,7 +19636,7 @@ translate zh_Hans mom_storyline_63_ceb462f4:
 translate zh_Hans mom_storyline_63_9528b3a7:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_pic_30}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=mom_pic_30}"
 
 # game/scripts/dialogues/mom_storyline.rpy:9240
 translate zh_Hans mom_storyline_63_205bf150:
@@ -20114,7 +20114,7 @@ translate zh_Hans mom_storyline_65_60bb5741_1:
 translate zh_Hans mom_storyline_65_6e7220c7:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_pic_31}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=mom_pic_31}"
 
 # game/scripts/dialogues/mom_storyline.rpy:9464
 translate zh_Hans mom_storyline_65_0ebdc02c:
@@ -20246,7 +20246,7 @@ translate zh_Hans mom_storyline_65_8dea85fa:
 translate zh_Hans mom_storyline_65_d4bd9875:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_pic_32}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=mom_pic_32}"
 
 # game/scripts/dialogues/mom_storyline.rpy:9512
 translate zh_Hans mom_storyline_65_375ced0b:
@@ -20584,7 +20584,7 @@ translate zh_Hans mom_storyline_66_6485e9a8:
 translate zh_Hans mom_storyline_66_039a426a:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_33}"
-    nvlmom ""
+    nvlmom "{a=show:show_chat_media}{image=mom_pic_33}"
 
 # game/scripts/dialogues/mom_storyline.rpy:9659
 translate zh_Hans mom_storyline_66_8a11afd4:
@@ -20602,7 +20602,7 @@ translate zh_Hans mom_storyline_66_c81ff403_1:
 translate zh_Hans mom_storyline_66_ecb658ae:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_34}"
-    nvlmom ""
+    nvlmom "{a=show:show_chat_media}{image=mom_pic_34}"
 
 # game/scripts/dialogues/mom_storyline.rpy:9669
 translate zh_Hans mom_storyline_66_6494aa13:
@@ -20668,7 +20668,7 @@ translate zh_Hans mom_storyline_66_fdadbdef:
 translate zh_Hans mom_storyline_66_d39a35f7:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_35}"
-    nvlmom ""
+    nvlmom "{a=show:show_chat_media}{image=mom_pic_35}"
 
 # game/scripts/dialogues/mom_storyline.rpy:9695
 translate zh_Hans mom_storyline_66_ce8d1183:
@@ -21020,7 +21020,7 @@ translate zh_Hans mom_storyline_68_c7601f37:
 translate zh_Hans mom_storyline_68_d833a232:
 
     # nvlgerard "{a=show:show_chat_media}{image=mom_pic_36}"
-    nvlgerard ""
+    nvlgerard "{a=show:show_chat_media}{image=mom_pic_36}"
 
 # game/scripts/dialogues/mom_storyline.rpy:9891
 translate zh_Hans mom_storyline_68_29f11356:
@@ -21160,7 +21160,7 @@ translate zh_Hans mom_storyline_69_389c9a86:
 translate zh_Hans mom_storyline_69_b196839f:
 
     # nvlgerard "{a=show:show_chat_media}{image=mom_pic_37}"
-    nvlgerard ""
+    nvlgerard "{a=show:show_chat_media}{image=mom_pic_37}"
 
 # game/scripts/dialogues/mom_storyline.rpy:9972
 translate zh_Hans mom_storyline_69_5a65d1b7:
@@ -22020,7 +22020,7 @@ translate zh_Hans mom_storyline_73_efc26d00:
 translate zh_Hans mom_storyline_73_bf0b2407:
 
     # nvlunknown "{a=show:show_chat_media}{image=mom_video_5_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=mom_video_5_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:10398
 translate zh_Hans mom_storyline_73_a900fa90:
@@ -22188,7 +22188,7 @@ translate zh_Hans mom_storyline_74_76b2fe88:
 translate zh_Hans mom_storyline_74_2b65d850:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_38}"
-    nvlmom ""
+    nvlmom "{a=show:show_chat_media}{image=mom_pic_38}"
 
 # game/scripts/dialogues/mom_storyline.rpy:10501
 translate zh_Hans mom_storyline_74_9c7bcb60:
@@ -22556,7 +22556,7 @@ translate zh_Hans mom_storyline_75_9341c523:
 translate zh_Hans mom_storyline_75_b58b705c:
 
     # nvlmark "{a=show:show_chat_media}{image=mom_pic_39}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=mom_pic_39}"
 
 # game/scripts/dialogues/mom_storyline.rpy:10656
 translate zh_Hans mom_storyline_75_cecdea06:
@@ -22658,7 +22658,7 @@ translate zh_Hans mom_storyline_76_76b2fe88:
 translate zh_Hans mom_storyline_76_d70b7fbf:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_40}"
-    nvlmom ""
+    nvlmom "{a=show:show_chat_media}{image=mom_pic_40}"
 
 # game/scripts/dialogues/mom_storyline.rpy:10728
 translate zh_Hans mom_storyline_76_c32a151e:
@@ -22942,7 +22942,7 @@ translate zh_Hans mom_storyline_77_e2a165ce:
 translate zh_Hans mom_storyline_77_d70b7fbf:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_40}"
-    nvlmom ""
+    nvlmom "{a=show:show_chat_media}{image=mom_pic_40}"
 
 # game/scripts/dialogues/mom_storyline.rpy:10855
 translate zh_Hans mom_storyline_77_dd504b1c:
@@ -23226,7 +23226,7 @@ translate zh_Hans mom_storyline_78_83558d4d:
 translate zh_Hans mom_storyline_78_bdd2309c:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_pic_42}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=mom_pic_42}"
 
 # game/scripts/dialogues/mom_storyline.rpy:10984
 translate zh_Hans mom_storyline_78_7e781e5d:
@@ -23244,7 +23244,7 @@ translate zh_Hans mom_storyline_78_2e9d73dc:
 translate zh_Hans mom_storyline_78_3361e169:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_pic_41}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=mom_pic_41}"
 
 # game/scripts/dialogues/mom_storyline.rpy:10994
 translate zh_Hans mom_storyline_78_a87ebd51:
@@ -23560,7 +23560,7 @@ translate zh_Hans mom_storyline_80_5679c260:
 translate zh_Hans mom_storyline_80_35d8ad64:
 
     # nvlgerard "{a=show:show_chat_media}{image=mom_pic_43}"
-    nvlgerard ""
+    nvlgerard "{a=show:show_chat_media}{image=mom_pic_43}"
 
 # game/scripts/dialogues/mom_storyline.rpy:11164
 translate zh_Hans mom_storyline_80_cd75b5a4:
@@ -23578,7 +23578,7 @@ translate zh_Hans mom_storyline_80_801bbeeb:
 translate zh_Hans mom_storyline_80_d51dde38:
 
     # nvlgerard "{a=show:show_chat_media}{image=mom_pic_44}"
-    nvlgerard ""
+    nvlgerard "{a=show:show_chat_media}{image=mom_pic_44}"
 
 # game/scripts/dialogues/mom_storyline.rpy:11174
 translate zh_Hans mom_storyline_80_60bb5741:
@@ -23850,7 +23850,7 @@ translate zh_Hans mom_storyline_81_5cb6d8b7:
 translate zh_Hans mom_storyline_81_b28be05d:
 
     # nvlmomboss "{a=show:show_chat_media}{image=mom_pic_45}"
-    nvlmomboss ""
+    nvlmomboss "{a=show:show_chat_media}{image=mom_pic_45}"
 
 # game/scripts/dialogues/mom_storyline.rpy:11299
 translate zh_Hans mom_storyline_81_5345c601:
@@ -24184,13 +24184,13 @@ translate zh_Hans mom_storyline_83_400a3db7:
 translate zh_Hans mom_storyline_83_6f7cdc6f:
 
     # nvlunknown "{a=show:show_chat_media}{image=mom_pic_46}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=mom_pic_46}"
 
 # game/scripts/dialogues/mom_storyline.rpy:11477
 translate zh_Hans mom_storyline_83_fc2b0251:
 
     # nvlunknown "{a=show:show_chat_media}{image=mom_pic_47}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=mom_pic_47}"
 
 # game/scripts/dialogues/mom_storyline.rpy:11481
 translate zh_Hans mom_storyline_83_a17c96e9:
@@ -24214,7 +24214,7 @@ translate zh_Hans mom_storyline_83_dec48f71:
 translate zh_Hans mom_storyline_83_079b0b80:
 
     # nvlunknown "{a=show:show_chat_media}{image=mom_pic_48}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=mom_pic_48}"
 
 # game/scripts/dialogues/mom_storyline.rpy:11493
 translate zh_Hans mom_storyline_83_1591aa79:
@@ -24226,7 +24226,7 @@ translate zh_Hans mom_storyline_83_1591aa79:
 translate zh_Hans mom_storyline_83_8a80dcbc:
 
     # nvlunknown "{a=show:show_chat_media}{image=mom_pic_49}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=mom_pic_49}"
 
 # game/scripts/dialogues/mom_storyline.rpy:11501
 translate zh_Hans mom_storyline_83_556c5df8:
@@ -24654,7 +24654,7 @@ translate zh_Hans mom_storyline_85_76b2fe88:
 translate zh_Hans mom_storyline_85_ef4890a2:
 
     # nvlgerard "{a=show:show_chat_media}{image=mom_pic_50}"
-    nvlgerard ""
+    nvlgerard "{a=show:show_chat_media}{image=mom_pic_50}"
 
 # game/scripts/dialogues/mom_storyline.rpy:11716
 translate zh_Hans mom_storyline_85_f4f8cc23:
@@ -24672,7 +24672,7 @@ translate zh_Hans mom_storyline_85_c7601f37:
 translate zh_Hans mom_storyline_85_7ecccea3:
 
     # nvlgerard "{a=show:show_chat_media}{image=mom_pic_51}"
-    nvlgerard ""
+    nvlgerard "{a=show:show_chat_media}{image=mom_pic_51}"
 
 # game/scripts/dialogues/mom_storyline.rpy:11726
 translate zh_Hans mom_storyline_85_60bb5741:
@@ -24786,7 +24786,7 @@ translate zh_Hans mom_storyline_85_e2fb7e9b:
 translate zh_Hans mom_storyline_85_901f79cb:
 
     # nvlgerard "{a=show:show_chat_media}{image=mom_pic_52}"
-    nvlgerard ""
+    nvlgerard "{a=show:show_chat_media}{image=mom_pic_52}"
 
 # game/scripts/dialogues/mom_storyline.rpy:11768
 translate zh_Hans mom_storyline_85_505d5f58:
@@ -25400,7 +25400,7 @@ translate zh_Hans mom_storyline_89_27e1a511:
 translate zh_Hans mom_storyline_89_ca0a59f3:
 
     # nvljenna "{a=show:show_chat_media}{image=bbc_pic_9}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=bbc_pic_9}"
 
 # game/scripts/dialogues/mom_storyline.rpy:12140
 translate zh_Hans mom_storyline_89_214ce2c4:
@@ -25898,7 +25898,7 @@ translate zh_Hans mom_storyline_92_b3bd1436:
 translate zh_Hans mom_storyline_92_697a6233:
 
     # nvljenna "{a=show:show_chat_media}{image=bbc_pic_10}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=bbc_pic_10}"
 
 # game/scripts/dialogues/mom_storyline.rpy:12416
 translate zh_Hans mom_storyline_92_a5f46349:
@@ -26678,7 +26678,7 @@ translate zh_Hans mom_storyline_95_b99ae658:
 translate zh_Hans mom_storyline_95_4ab5846a:
 
     # nvlgerard "{a=show:show_chat_media}{image=mom_pic_53}"
-    nvlgerard ""
+    nvlgerard "{a=show:show_chat_media}{image=mom_pic_53}"
 
 # game/scripts/dialogues/mom_storyline.rpy:12798
 translate zh_Hans mom_storyline_95_db4192a3:
@@ -26866,7 +26866,7 @@ translate zh_Hans mom_storyline_96_cb42eb98:
 translate zh_Hans mom_storyline_96_70a94a3f:
 
     # nvldad "{a=show:show_chat_media}{image=mom_pic_54}"
-    nvldad ""
+    nvldad "{a=show:show_chat_media}{image=mom_pic_54}"
 
 # game/scripts/dialogues/mom_storyline.rpy:12910
 translate zh_Hans mom_storyline_96_c5e0881a:
@@ -27758,7 +27758,7 @@ translate zh_Hans mom_storyline_101_423dd700:
 translate zh_Hans mom_storyline_101_f5e4abd7:
 
     # nvlgerard "{a=show:show_chat_media}{image=mom_pic_55}"
-    nvlgerard ""
+    nvlgerard "{a=show:show_chat_media}{image=mom_pic_55}"
 
 # game/scripts/dialogues/mom_storyline.rpy:13396
 translate zh_Hans mom_storyline_101_a9e2f7c8:
@@ -28604,7 +28604,7 @@ translate zh_Hans mom_storyline_104_e9d0521e:
 translate zh_Hans mom_storyline_104_55cc1587:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_video_6_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=mom_video_6_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:13787
 translate zh_Hans mom_storyline_104_0a693179:
@@ -28840,7 +28840,7 @@ translate zh_Hans mom_storyline_105_15e5c570:
 translate zh_Hans mom_storyline_105_3dbab3f0:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_56}"
-    nvlmom ""
+    nvlmom "{a=show:show_chat_media}{image=mom_pic_56}"
 
 # game/scripts/dialogues/mom_storyline.rpy:13913
 translate zh_Hans mom_storyline_105_99545d08:
@@ -29436,7 +29436,7 @@ translate zh_Hans mom_storyline_107_3e0e7df9:
 translate zh_Hans mom_storyline_107_60206b10:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_9_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_9_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:14181
 translate zh_Hans mom_storyline_107_88825694:
@@ -29696,7 +29696,7 @@ translate zh_Hans mom_storyline_108_9d2f39fa:
 translate zh_Hans mom_storyline_108_6dc14147:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_57}"
-    nvlmom ""
+    nvlmom "{a=show:show_chat_media}{image=mom_pic_57}"
 
 # game/scripts/dialogues/mom_storyline.rpy:14317
 translate zh_Hans mom_storyline_108_9bc04ff3:
@@ -30680,7 +30680,7 @@ translate zh_Hans mom_storyline_111_d30e2c11:
 translate zh_Hans mom_storyline_111_dffe622c:
 
     # nvlsalim "{a=show:show_chat_media}{image=mom_video_7_ns}"
-    nvlsalim ""
+    nvlsalim "{a=show:show_chat_media}{image=mom_video_7_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:14768
 translate zh_Hans mom_storyline_111_8e1ad021:
@@ -31648,7 +31648,7 @@ translate zh_Hans mom_storyline_115_734cc876:
 translate zh_Hans mom_storyline_115_2ef90d30:
 
     # nvlwife "{a=show:show_chat_media}{image=mom_pic_58}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=mom_pic_58}"
 
 # game/scripts/dialogues/mom_storyline.rpy:15228
 translate zh_Hans mom_storyline_115_a67645c0:
@@ -31666,7 +31666,7 @@ translate zh_Hans mom_storyline_115_1603dc43:
 translate zh_Hans mom_storyline_115_7c08efa6:
 
     # nvlwife "{a=show:show_chat_media}{image=mom_pic_59}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=mom_pic_59}"
 
 # game/scripts/dialogues/mom_storyline.rpy:15238
 translate zh_Hans mom_storyline_115_8db012fc:
@@ -31744,7 +31744,7 @@ translate zh_Hans mom_storyline_115_b9d22dcd:
 translate zh_Hans mom_storyline_115_3a5433bb:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_10_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_10_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:15268
 translate zh_Hans mom_storyline_115_755f52f4:
@@ -33406,7 +33406,7 @@ translate zh_Hans mom_storyline_124_044f96f3:
 translate zh_Hans mom_storyline_124_9a1c7cc2:
 
     # nvlaaron "{a=show:show_chat_media}{image=wife_video_11_ns}"
-    nvlaaron ""
+    nvlaaron "{a=show:show_chat_media}{image=wife_video_11_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:16137
 translate zh_Hans mom_storyline_124_360d5e37:
@@ -33552,7 +33552,7 @@ translate zh_Hans mom_storyline_125_8f43bce0:
 translate zh_Hans mom_storyline_125_e2eeed96:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_842}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_842}"
 
 # game/scripts/dialogues/mom_storyline.rpy:16220
 translate zh_Hans mom_storyline_125_88825694:
@@ -33600,7 +33600,7 @@ translate zh_Hans mom_storyline_125_588353d0:
 translate zh_Hans mom_storyline_125_ea3d9387:
 
     # nvlwife "{a=show:show_chat_media}{image=mom_pic_60}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=mom_pic_60}"
 
 # game/scripts/dialogues/mom_storyline.rpy:16240
 translate zh_Hans mom_storyline_125_b630702c:
@@ -33872,7 +33872,7 @@ translate zh_Hans mom_storyline_126_34c01289:
 translate zh_Hans mom_storyline_126_4fb876bf:
 
     # nvltyrone "{a=show:show_chat_media}{image=mom_pic_61}"
-    nvltyrone ""
+    nvltyrone "{a=show:show_chat_media}{image=mom_pic_61}"
 
 # game/scripts/dialogues/mom_storyline.rpy:16367
 translate zh_Hans mom_storyline_126_3c4078e0:
@@ -34628,7 +34628,7 @@ translate zh_Hans mom_storyline_130_c270f57e:
 translate zh_Hans mom_storyline_130_c43458cc:
 
     # nvlwife "{a=show:show_chat_media}{image=mom_pic_62}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=mom_pic_62}"
 
 # game/scripts/dialogues/mom_storyline.rpy:16778
 translate zh_Hans mom_storyline_130_af112411:
@@ -35050,7 +35050,7 @@ translate zh_Hans mom_storyline_131_1ea94fad:
 translate zh_Hans mom_storyline_131_8e4f7f0a:
 
     # nvltyrone "{a=show:show_chat_media}{image=mom_video_8_ns}"
-    nvltyrone ""
+    nvltyrone "{a=show:show_chat_media}{image=mom_video_8_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:16953
 translate zh_Hans mom_storyline_131_7502bb4f:
@@ -35728,7 +35728,7 @@ translate zh_Hans mom_storyline_134_07013abc:
 translate zh_Hans mom_storyline_134_3fa95060:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_pic_63}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=mom_pic_63}"
 
 # game/scripts/dialogues/mom_storyline.rpy:17287
 translate zh_Hans mom_storyline_134_fb069b7b:
@@ -35952,7 +35952,7 @@ translate zh_Hans mom_storyline_135_3cd21b55:
 translate zh_Hans mom_storyline_135_b27dbbfe:
 
     # nvltyrone "{a=show:show_chat_media}{image=mom_pic_64}"
-    nvltyrone ""
+    nvltyrone "{a=show:show_chat_media}{image=mom_pic_64}"
 
 # game/scripts/dialogues/mom_storyline.rpy:17396
 translate zh_Hans mom_storyline_135_0d8c266b:
@@ -35970,7 +35970,7 @@ translate zh_Hans mom_storyline_135_abaec794:
 translate zh_Hans mom_storyline_135_cea28cc4:
 
     # nvltyrone "{a=show:show_chat_media}{image=mom_pic_65}"
-    nvltyrone ""
+    nvltyrone "{a=show:show_chat_media}{image=mom_pic_65}"
 
 # game/scripts/dialogues/mom_storyline.rpy:17406
 translate zh_Hans mom_storyline_135_2f30a95a:
@@ -35988,7 +35988,7 @@ translate zh_Hans mom_storyline_135_c41aa6e9:
 translate zh_Hans mom_storyline_135_19d7523d:
 
     # nvltyrone "{a=show:show_chat_media}{image=mom_pic_66}"
-    nvltyrone ""
+    nvltyrone "{a=show:show_chat_media}{image=mom_pic_66}"
 
 # game/scripts/dialogues/mom_storyline.rpy:17416
 translate zh_Hans mom_storyline_135_79fe4b4d:
@@ -36320,7 +36320,7 @@ translate zh_Hans mom_storyline_136_c068535f:
 translate zh_Hans mom_storyline_136_0970cacc:
 
     # nvlsalim "{a=show:show_chat_media}{image=mom_video_9_ns}"
-    nvlsalim ""
+    nvlsalim "{a=show:show_chat_media}{image=mom_video_9_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:17561
 translate zh_Hans mom_storyline_136_f0886110:
@@ -36580,7 +36580,7 @@ translate zh_Hans mom_storyline_137_11b22f57:
 translate zh_Hans mom_storyline_137_6e02b8a5:
 
     # nvlaaron "{a=show:show_chat_media}{image=mom_pic_67}"
-    nvlaaron ""
+    nvlaaron "{a=show:show_chat_media}{image=mom_pic_67}"
 
 # game/scripts/dialogues/mom_storyline.rpy:17695
 translate zh_Hans mom_storyline_137_e6ab8f35:
@@ -36720,7 +36720,7 @@ translate zh_Hans mom_storyline_138_740e085b:
 translate zh_Hans mom_storyline_138_bd8bb7be:
 
     # nvlwife "{a=show:show_chat_media}{image=mom_video_10_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=mom_video_10_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:17776
 translate zh_Hans mom_storyline_138_04dc10c1:
@@ -38416,7 +38416,7 @@ translate zh_Hans mom_storyline_143_eb38d760:
 translate zh_Hans mom_storyline_143_3414c49c:
 
     # nvlaaron "{a=show:show_chat_media}{image=mom_video_12_ns}"
-    nvlaaron ""
+    nvlaaron "{a=show:show_chat_media}{image=mom_video_12_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:18556
 translate zh_Hans mom_storyline_143_6889f958:
@@ -38658,7 +38658,7 @@ translate zh_Hans mom_storyline_144_0e565f41:
 translate zh_Hans mom_storyline_144_27455e38:
 
     # nvlwife "{a=show:show_chat_media}{image=mom_pic_70}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=mom_pic_70}"
 
 # game/scripts/dialogues/mom_storyline.rpy:18671
 translate zh_Hans mom_storyline_144_19e8b970:
@@ -39094,7 +39094,7 @@ translate zh_Hans mom_storyline_146_8634cf15:
 translate zh_Hans mom_storyline_146_1937af2e:
 
     # nvlmomboss "{a=show:show_chat_media}{image=mom_video_13_ns}"
-    nvlmomboss ""
+    nvlmomboss "{a=show:show_chat_media}{image=mom_video_13_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:18885
 translate zh_Hans mom_storyline_146_3e78bb3f:
@@ -39964,7 +39964,7 @@ translate zh_Hans mom_storyline_149_d1378fb4:
 translate zh_Hans mom_storyline_149_52a882e1:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_12_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_12_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:19274
 translate zh_Hans mom_storyline_149_3e358b0f:
@@ -39994,7 +39994,7 @@ translate zh_Hans mom_storyline_149_a70796c3:
 translate zh_Hans mom_storyline_149_f521d4c3:
 
     # nvlwife "{a=show:show_chat_media}{image=mom_video_14_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=mom_video_14_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:19288
 translate zh_Hans mom_storyline_149_026f9e5a:
@@ -40326,7 +40326,7 @@ translate zh_Hans mom_storyline_150_7d1d6f3c:
 translate zh_Hans mom_storyline_150_334cf2d3:
 
     # nvltyrone "{a=show:show_chat_media}{image=mom_video_15_ns}"
-    nvltyrone ""
+    nvltyrone "{a=show:show_chat_media}{image=mom_video_15_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:19446
 translate zh_Hans mom_storyline_150_00cc76db:
@@ -41472,7 +41472,7 @@ translate zh_Hans mom_storyline_154_5bcd1b63:
 translate zh_Hans mom_storyline_154_f682da96:
 
     # nvltyrone "{a=show:show_chat_media}{image=mom_video_16_ns}"
-    nvltyrone ""
+    nvltyrone "{a=show:show_chat_media}{image=mom_video_16_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:19972
 translate zh_Hans mom_storyline_154_e4eb16b9:
@@ -41902,7 +41902,7 @@ translate zh_Hans mom_storyline_156_412230d6:
 translate zh_Hans mom_storyline_156_48ff7025:
 
     # nvlwife "{a=show:show_chat_media}{image=mom_video_17_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=mom_video_17_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:20182
 translate zh_Hans mom_storyline_156_2b441ec7:
@@ -42652,7 +42652,7 @@ translate zh_Hans mom_storyline_159_60bb5741:
 translate zh_Hans mom_storyline_159_6b36e246:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_video_18_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=mom_video_18_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:20548
 translate zh_Hans mom_storyline_159_399afdd8:
@@ -43100,7 +43100,7 @@ translate zh_Hans mom_storyline_161_508960a4:
 translate zh_Hans mom_storyline_161_3775eda4:
 
     # nvlwife "{a=show:show_chat_media}{image=mom_video_19_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=mom_video_19_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:20768
 translate zh_Hans mom_storyline_161_1ac5b9c5:
@@ -44404,7 +44404,7 @@ translate zh_Hans mom_storyline_165_86aafd21:
 translate zh_Hans mom_storyline_165_2faeb115:
 
     # nvlwife "{a=show:show_chat_media}{image=mom_video_20_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=mom_video_20_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:21360
 translate zh_Hans mom_storyline_165_7ec3e2e3:
@@ -46058,7 +46058,7 @@ translate zh_Hans mom_storyline_170_c8cb96e7:
 translate zh_Hans mom_storyline_170_f0bdbfd7:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_video_21_ns}"
-    nvlmom ""
+    nvlmom "{a=show:show_chat_media}{image=mom_video_21_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:22100
 translate zh_Hans mom_storyline_170_c9e648b4:
@@ -46702,7 +46702,7 @@ translate zh_Hans mom_storyline_174_3fdf8be6:
 translate zh_Hans mom_storyline_174_78cbd9d5:
 
     # nvlmomboss "{a=show:show_chat_media}{image=mom_video_22_ns}"
-    nvlmomboss ""
+    nvlmomboss "{a=show:show_chat_media}{image=mom_video_22_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:22448
 translate zh_Hans mom_storyline_174_01ee8a98:
@@ -47092,7 +47092,7 @@ translate zh_Hans mom_storyline_177_c94e6704:
 translate zh_Hans mom_storyline_177_b3142821:
 
     # nvltyrone "{a=show:show_chat_media}{image=mom_video_23_ns}"
-    nvltyrone ""
+    nvltyrone "{a=show:show_chat_media}{image=mom_video_23_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:22679
 translate zh_Hans mom_storyline_177_04702f51:
@@ -48068,7 +48068,7 @@ translate zh_Hans mom_storyline_182_8fbe606d:
 translate zh_Hans mom_storyline_182_6347c5aa:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_pic_18}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=mom_pic_18}"
 
 # game/scripts/dialogues/mom_storyline.rpy:23180
 translate zh_Hans mom_storyline_182_29f38a44:
@@ -48240,7 +48240,7 @@ translate zh_Hans mom_storyline_184_e4671e66:
 translate zh_Hans mom_storyline_184_4950a3f3:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_71}"
-    nvlmom ""
+    nvlmom "{a=show:show_chat_media}{image=mom_pic_71}"
 
 # game/scripts/dialogues/mom_storyline.rpy:23307
 translate zh_Hans mom_storyline_184_cafe8a4e:
@@ -48502,13 +48502,13 @@ translate zh_Hans mom_storyline_186_aa3daaf9:
 translate zh_Hans mom_storyline_186_23841e61:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_308_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_308_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:23469
 translate zh_Hans mom_storyline_186_6799d822:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_323_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_323_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:23473
 translate zh_Hans mom_storyline_186_1c9ace4d:
@@ -49092,7 +49092,7 @@ translate zh_Hans mom_storyline_190_7a9a67aa:
 translate zh_Hans mom_storyline_190_945ebcd8:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_870}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_870}"
 
 # game/scripts/dialogues/mom_storyline.rpy:23799
 translate zh_Hans mom_storyline_190_7a4c43af:
@@ -49360,7 +49360,7 @@ translate zh_Hans mom_storyline_192_63503772:
 translate zh_Hans mom_storyline_192_2c3e0282:
 
     # nvlmomboss "{a=show:show_chat_media}{image=mom_video_24_ns}"
-    nvlmomboss ""
+    nvlmomboss "{a=show:show_chat_media}{image=mom_video_24_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:23957
 translate zh_Hans mom_storyline_192_18017214:
@@ -50146,7 +50146,7 @@ translate zh_Hans mom_storyline_198_348d88d9:
 translate zh_Hans mom_storyline_198_2e4134af:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_324_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_324_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:24417
 translate zh_Hans mom_storyline_198_19a05cc5:
@@ -50262,7 +50262,7 @@ translate zh_Hans mom_storyline_199_a77917fc:
 translate zh_Hans mom_storyline_199_4a46450c:
 
     # nvltyrone "{a=show:show_chat_media}{image=mom_video_25_ns}"
-    nvltyrone ""
+    nvltyrone "{a=show:show_chat_media}{image=mom_video_25_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:24492
 translate zh_Hans mom_storyline_199_cfb08e16:
@@ -50348,7 +50348,7 @@ translate zh_Hans mom_storyline_200_32bc1510:
 translate zh_Hans mom_storyline_200_a9031e51:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_72}"
-    nvlmom ""
+    nvlmom "{a=show:show_chat_media}{image=mom_pic_72}"
 
 # game/scripts/dialogues/mom_storyline.rpy:24557
 translate zh_Hans mom_storyline_200_a08d959b:
@@ -51222,13 +51222,13 @@ translate zh_Hans mom_storyline_208_6a88c112:
 translate zh_Hans mom_storyline_208_232ff153:
 
     # nvlmomboss "{a=show:show_chat_media}{image=mom_video_26_ns}"
-    nvlmomboss ""
+    nvlmomboss "{a=show:show_chat_media}{image=mom_video_26_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:25111
 translate zh_Hans mom_storyline_208_1a612593:
 
     # nvlmomboss "{a=show:show_chat_media}{image=mom_video_27_ns}"
-    nvlmomboss ""
+    nvlmomboss "{a=show:show_chat_media}{image=mom_video_27_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:25114
 translate zh_Hans mom_storyline_208_b2a52d7c:
@@ -51410,13 +51410,13 @@ translate zh_Hans mom_storyline_209_0a57da77:
 translate zh_Hans mom_storyline_209_9375c0d2:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_video_26_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=mom_video_26_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:25209
 translate zh_Hans mom_storyline_209_21139732:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_video_27_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=mom_video_27_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:25211
 translate zh_Hans mom_storyline_209_43374dae:
@@ -51550,13 +51550,13 @@ translate zh_Hans mom_storyline_210_79ecd777:
 translate zh_Hans mom_storyline_210_7622cf72:
 
     # nvljohn "{a=show:show_chat_media}{image=mom_video_26_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=mom_video_26_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:25291
 translate zh_Hans mom_storyline_210_68ff9aeb:
 
     # nvljohn "{a=show:show_chat_media}{image=mom_video_27_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=mom_video_27_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:25293
 translate zh_Hans mom_storyline_210_9050b599:
@@ -52600,7 +52600,7 @@ translate zh_Hans mom_storyline_217_673be979:
 translate zh_Hans mom_storyline_217_18d7e162:
 
     # nvlmom "{a=show:show_chat_media}{image=mom_pic_73}"
-    nvlmom ""
+    nvlmom "{a=show:show_chat_media}{image=mom_pic_73}"
 
 # game/scripts/dialogues/mom_storyline.rpy:25871
 translate zh_Hans mom_storyline_217_86568055:
@@ -52872,7 +52872,7 @@ translate zh_Hans mom_storyline_218_a7c333ca:
 translate zh_Hans mom_storyline_218_d343b803:
 
     # nvlwife "{a=show:show_chat_media}{image=mom_video_28_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=mom_video_28_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:26012
 translate zh_Hans mom_storyline_218_146245fd:
@@ -52902,7 +52902,7 @@ translate zh_Hans mom_storyline_218_cbdbcd26:
 translate zh_Hans mom_storyline_218_c2c70880:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_352_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_352_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:26024
 translate zh_Hans mom_storyline_218_32deb5d1:
@@ -52994,7 +52994,7 @@ translate zh_Hans mom_storyline_219_ae11a588:
 translate zh_Hans mom_storyline_219_cb31765b:
 
     # nvlmom "😅"
-    nvlmom ""
+    nvlmom "😅|"
 
 # game/scripts/dialogues/mom_storyline.rpy:26089
 translate zh_Hans mom_storyline_219_00309fc8:
@@ -53146,7 +53146,7 @@ translate zh_Hans mom_storyline_220_7b70b971:
 translate zh_Hans mom_storyline_220_aa178d68:
 
     # nvlmomboss "{a=show:show_chat_media}{image=mom_pic_74}"
-    nvlmomboss ""
+    nvlmomboss "{a=show:show_chat_media}{image=mom_pic_74}"
 
 # game/scripts/dialogues/mom_storyline.rpy:26174
 translate zh_Hans mom_storyline_220_05160db7:
@@ -53176,7 +53176,7 @@ translate zh_Hans mom_storyline_220_0c33fa51:
 translate zh_Hans mom_storyline_220_22ed8304:
 
     # nvlmomboss "{a=show:show_chat_media}{image=mom_pic_75}"
-    nvlmomboss ""
+    nvlmomboss "{a=show:show_chat_media}{image=mom_pic_75}"
 
 # game/scripts/dialogues/mom_storyline.rpy:26186
 translate zh_Hans mom_storyline_220_06eac168:
@@ -54708,7 +54708,7 @@ translate zh_Hans mom_storyline_230_7a0af881:
 translate zh_Hans mom_storyline_230_73d9f6ce:
 
     # nvlwife "{a=show:show_chat_media}{image=mom_pic_76}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=mom_pic_76}"
 
 # game/scripts/dialogues/mom_storyline.rpy:27037
 translate zh_Hans mom_storyline_230_512c0616:
@@ -54756,7 +54756,7 @@ translate zh_Hans mom_storyline_230_07156f47:
 translate zh_Hans mom_storyline_230_2a34e5dd:
 
     # nvlwife "{a=show:show_chat_media}{image=mom_pic_77}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=mom_pic_77}"
 
 # game/scripts/dialogues/mom_storyline.rpy:27055
 translate zh_Hans mom_storyline_230_60398795:
@@ -54810,7 +54810,7 @@ translate zh_Hans mom_storyline_230_80cee448:
 translate zh_Hans mom_storyline_230_951c7c90:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_886}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_886}"
 
 # game/scripts/dialogues/mom_storyline.rpy:27075
 translate zh_Hans mom_storyline_230_494d90e3:
@@ -54852,7 +54852,7 @@ translate zh_Hans mom_storyline_230_3a04a3c1:
 translate zh_Hans mom_storyline_230_a36706b8:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_887}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_887}"
 
 # game/scripts/dialogues/mom_storyline.rpy:27091
 translate zh_Hans mom_storyline_230_ec59c8c9:
@@ -55126,7 +55126,7 @@ translate zh_Hans mom_storyline_232_bb4d628a:
 translate zh_Hans mom_storyline_232_2ccfa2fd:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_pic_858}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_pic_858}"
 
 # game/scripts/dialogues/mom_storyline.rpy:27249
 translate zh_Hans mom_storyline_232_8c37abed:
@@ -55418,7 +55418,7 @@ translate zh_Hans mom_storyline_234_829e0457:
 translate zh_Hans mom_storyline_234_bb8fa019:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_video_29_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=mom_video_29_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:27413
 translate zh_Hans mom_storyline_234_9b69f92a:
@@ -55448,7 +55448,7 @@ translate zh_Hans mom_storyline_234_d10d87df:
 translate zh_Hans mom_storyline_234_238841c7:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_video_30_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=mom_video_30_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:27425
 translate zh_Hans mom_storyline_234_d633ba11:
@@ -55484,7 +55484,7 @@ translate zh_Hans mom_storyline_234_2fe794c3:
 translate zh_Hans mom_storyline_234_ab96a530:
 
     # nvljenna "{a=show:show_chat_media}{image=mom_video_31_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=mom_video_31_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:27439
 translate zh_Hans mom_storyline_234_526c6027:
@@ -55648,7 +55648,7 @@ translate zh_Hans mom_storyline_235_08dd5152:
 translate zh_Hans mom_storyline_235_c93b03ad:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_353_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_353_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:27528
 translate zh_Hans mom_storyline_235_30912af0:
@@ -58292,13 +58292,13 @@ translate zh_Hans mom_storyline_249_af0035b3:
 translate zh_Hans mom_storyline_249_d75f4d88:
 
     # nvlronald "{a=show:show_chat_media}{image=mom_video_32_ns}"
-    nvlronald ""
+    nvlronald "{a=show:show_chat_media}{image=mom_video_32_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:28879
 translate zh_Hans mom_storyline_249_904d3ddf:
 
     # nvlronald "{a=show:show_chat_media}{image=mom_video_33_ns}"
-    nvlronald ""
+    nvlronald "{a=show:show_chat_media}{image=mom_video_33_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:28882
 translate zh_Hans mom_storyline_249_9e98ad16:
@@ -59420,7 +59420,7 @@ translate zh_Hans mom_storyline_255_8bde8939:
 translate zh_Hans mom_storyline_255_f9ab85fc:
 
     # nvlronald "{a=show:show_chat_media}{image=mom_video_34_ns}"
-    nvlronald ""
+    nvlronald "{a=show:show_chat_media}{image=mom_video_34_ns}"
 
 # game/scripts/dialogues/mom_storyline.rpy:29464
 translate zh_Hans mom_storyline_255_30c136c7:

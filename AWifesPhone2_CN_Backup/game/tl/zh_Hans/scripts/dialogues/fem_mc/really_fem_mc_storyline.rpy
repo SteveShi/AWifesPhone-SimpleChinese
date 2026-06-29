@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-29 09:30
+# TODO: Translation updated at 2026-06-29 09:30
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:88
 translate zh_Hans fem_mc_storyline_10000_76b2fe88:
@@ -210,7 +210,7 @@ translate zh_Hans fem_mc_storyline_10001_3daedd13:
 translate zh_Hans fem_mc_storyline_10001_a0a4c7c0:
 
     # nvljohn_f "{a=show:show_chat_media}{image=mc_pic_106}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=mc_pic_106}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:197
 translate zh_Hans fem_mc_storyline_10001_860b4474:
@@ -392,7 +392,7 @@ translate zh_Hans fem_mc_storyline_10003_76b2fe88:
 translate zh_Hans fem_mc_storyline_10003_fbe6d943:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_405_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_405_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:325
 translate zh_Hans fem_mc_storyline_10003_ae71a3b4:
@@ -458,7 +458,7 @@ translate zh_Hans fem_mc_storyline_10003_1711f123:
 translate zh_Hans fem_mc_storyline_10003_10befb9c:
 
     # nvlwife "😊"
-    nvlwife ""
+    nvlwife "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:347
 translate zh_Hans fem_mc_storyline_10003_57534271:
@@ -640,7 +640,7 @@ translate zh_Hans fem_mc_storyline_10004_1c0e3682:
 translate zh_Hans fem_mc_storyline_10004_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:440
 translate zh_Hans fem_mc_storyline_10004_adda0d59:
@@ -936,7 +936,7 @@ translate zh_Hans fem_mc_storyline_10005_06c45ea1:
 translate zh_Hans fem_mc_storyline_10005_652836f7:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_35_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_video_35_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:577
 translate zh_Hans fem_mc_storyline_10005_9bd94aeb:
@@ -1014,7 +1014,7 @@ translate zh_Hans fem_mc_storyline_10005_8f3c0108:
 translate zh_Hans fem_mc_storyline_10005_3daed2b9:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_36_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_video_36_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:610
 translate zh_Hans fem_mc_storyline_10005_204fe610:
@@ -1026,7 +1026,7 @@ translate zh_Hans fem_mc_storyline_10005_204fe610:
 translate zh_Hans fem_mc_storyline_10005_0cf2d1f9:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_37_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_video_37_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:620
 translate zh_Hans fem_mc_storyline_10005_764a4bb8:
@@ -1630,7 +1630,7 @@ translate zh_Hans fem_mc_storyline_10007_547cfc65:
 translate zh_Hans fem_mc_storyline_10007_c86a68df:
 
     # nvlgeorge "😊"
-    nvlgeorge ""
+    nvlgeorge "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:898
 translate zh_Hans fem_mc_storyline_10007_41576ff4:
@@ -1766,7 +1766,7 @@ translate zh_Hans fem_mc_storyline_10009_845ed758:
 translate zh_Hans fem_mc_storyline_10009_4d2b7d12:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_204}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_204}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:1014
 translate zh_Hans fem_mc_storyline_10009_731155a9:
@@ -1820,7 +1820,7 @@ translate zh_Hans fem_mc_storyline_10009_6753637a:
 translate zh_Hans fem_mc_storyline_10009_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:1032
 translate zh_Hans fem_mc_storyline_10009_cecb0d6c:
@@ -1924,7 +1924,7 @@ translate zh_Hans fem_mc_storyline_10010_86802e7d:
 translate zh_Hans fem_mc_storyline_10010_1e150056:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_38_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_video_38_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:1105
 translate zh_Hans fem_mc_storyline_10010_214ce2c4:
@@ -1954,7 +1954,7 @@ translate zh_Hans fem_mc_storyline_10010_8062d55d:
 translate zh_Hans fem_mc_storyline_10010_b2cb22e3:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_39_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_video_39_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:1121
 translate zh_Hans fem_mc_storyline_10010_6d870abe:
@@ -1996,7 +1996,7 @@ translate zh_Hans fem_mc_storyline_10010_d5247814:
 translate zh_Hans fem_mc_storyline_10010_1d80f946:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_40_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_video_40_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:1141
 translate zh_Hans fem_mc_storyline_10010_dae57568:
@@ -2074,7 +2074,7 @@ translate zh_Hans fem_mc_storyline_10010_33b413e8:
 translate zh_Hans fem_mc_storyline_10010_fcae287a:
 
     # nvljenna "{a=show:show_chat_media}{image=h_bimbo_1_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_bimbo_1_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:1169
 translate zh_Hans fem_mc_storyline_10010_5b24fc6f:
@@ -2086,7 +2086,7 @@ translate zh_Hans fem_mc_storyline_10010_5b24fc6f:
 translate zh_Hans fem_mc_storyline_10010_4a48f1e7:
 
     # nvljenna "{a=show:show_chat_media}{image=h_bbc_2_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_bbc_2_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:1176
 translate zh_Hans fem_mc_storyline_10010_c472cc35:
@@ -2098,7 +2098,7 @@ translate zh_Hans fem_mc_storyline_10010_c472cc35:
 translate zh_Hans fem_mc_storyline_10010_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:1180
 translate zh_Hans fem_mc_storyline_10010_41922bc6:
@@ -2172,7 +2172,7 @@ translate zh_Hans fem_mc_storyline_10011_c3cf9e4d:
 translate zh_Hans fem_mc_storyline_10011_18c0ec02:
 
     # nvlwife "{a=show:show_chat_media}{image=w_mc_pic_205}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=w_mc_pic_205}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:1243
 translate zh_Hans fem_mc_storyline_10011_40518271:
@@ -2456,7 +2456,7 @@ translate zh_Hans fem_mc_storyline_10012_d198724f:
 translate zh_Hans fem_mc_storyline_10012_017d1933:
 
     # nvljohn_f "😏"
-    nvljohn_f ""
+    nvljohn_f "😏|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:1370
 translate zh_Hans fem_mc_storyline_10012_6357f13c:
@@ -2480,7 +2480,7 @@ translate zh_Hans fem_mc_storyline_10012_d7fda06b:
 translate zh_Hans fem_mc_storyline_10012_28bba050:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_206}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_206}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:1384
 translate zh_Hans fem_mc_storyline_10012_e306d4ba:
@@ -2516,7 +2516,7 @@ translate zh_Hans fem_mc_storyline_10012_adab7cf2:
 translate zh_Hans fem_mc_storyline_10012_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:1396
 translate zh_Hans fem_mc_storyline_10012_404928f5:
@@ -2942,7 +2942,7 @@ translate zh_Hans fem_mc_storyline_10015_3c0066b3:
 translate zh_Hans fem_mc_storyline_10015_950178af:
 
     # nvlchristina "😊"
-    nvlchristina ""
+    nvlchristina "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:1647
 translate zh_Hans fem_mc_storyline_10015_a4bf979b:
@@ -3038,7 +3038,7 @@ translate zh_Hans fem_mc_storyline_10015_ce611d39:
 translate zh_Hans fem_mc_storyline_10015_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:1679
 translate zh_Hans fem_mc_storyline_10015_341fb79b:
@@ -3092,7 +3092,7 @@ translate zh_Hans fem_mc_storyline_10015_b25e41c4:
 translate zh_Hans fem_mc_storyline_10015_2b0b9af6:
 
     # nvlchristina "😉"
-    nvlchristina ""
+    nvlchristina "😉|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:1711
 translate zh_Hans fem_mc_storyline_10015_53c71d7c:
@@ -3504,7 +3504,7 @@ translate zh_Hans fem_mc_storyline_10017_e073e3d7:
 translate zh_Hans fem_mc_storyline_10017_f4d08c5a:
 
     # nvljenna "{a=show:show_chat_media}{image=w_mc_video_49_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=w_mc_video_49_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:1917
 translate zh_Hans fem_mc_storyline_10017_0313a428:
@@ -3516,7 +3516,7 @@ translate zh_Hans fem_mc_storyline_10017_0313a428:
 translate zh_Hans fem_mc_storyline_10017_d81677c1:
 
     # nvljenna "😉"
-    nvljenna ""
+    nvljenna "😉|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:1921
 translate zh_Hans fem_mc_storyline_10017_c9bca4a2:
@@ -4430,7 +4430,7 @@ translate zh_Hans fem_mc_storyline_10021_6c609246:
 translate zh_Hans fem_mc_storyline_10021_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:2388
 translate zh_Hans fem_mc_storyline_10021_3f818f7d:
@@ -4442,7 +4442,7 @@ translate zh_Hans fem_mc_storyline_10021_3f818f7d:
 translate zh_Hans fem_mc_storyline_10021_dc822cd0:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_234_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=wife_video_234_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:2396
 translate zh_Hans fem_mc_storyline_10021_e32034dd:
@@ -4640,7 +4640,7 @@ translate zh_Hans fem_mc_storyline_10021_096b7db8:
 translate zh_Hans fem_mc_storyline_10021_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:2462
 translate zh_Hans fem_mc_storyline_10021_eb85d181:
@@ -4658,7 +4658,7 @@ translate zh_Hans fem_mc_storyline_10021_803d5a9b:
 translate zh_Hans fem_mc_storyline_10021_cf46ebaa:
 
     # nvljenna "{a=show:show_chat_media}{image=bbc_video_43_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=bbc_video_43_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:2472
 translate zh_Hans fem_mc_storyline_10021_7c7ff74a:
@@ -5082,7 +5082,7 @@ translate zh_Hans fem_mc_storyline_10023_8cc74326:
 translate zh_Hans fem_mc_storyline_10023_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:2692
 translate zh_Hans fem_mc_storyline_10023_de9f32a3:
@@ -5124,7 +5124,7 @@ translate zh_Hans fem_mc_storyline_10023_613ac43f:
 translate zh_Hans fem_mc_storyline_10023_a53d7547:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_24}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_24}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:2710
 translate zh_Hans fem_mc_storyline_10023_c6983105:
@@ -5160,7 +5160,7 @@ translate zh_Hans fem_mc_storyline_10023_39747563:
 translate zh_Hans fem_mc_storyline_10023_cdb0f4b1:
 
     # nvlted "{a=show:show_chat_media}{image=bbc_pic_14}"
-    nvlted ""
+    nvlted "{a=show:show_chat_media}{image=bbc_pic_14}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:2726
 translate zh_Hans fem_mc_storyline_10023_48260492:
@@ -5204,7 +5204,7 @@ translate zh_Hans fem_mc_storyline_10024_ffbdf139:
 translate zh_Hans fem_mc_storyline_10024_651514ea:
 
     # nvlraul "{a=show:show_chat_media}{image=w_mc_pic_96}"
-    nvlraul ""
+    nvlraul "{a=show:show_chat_media}{image=w_mc_pic_96}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:2777
 translate zh_Hans fem_mc_storyline_10024_ae1b0a8d:
@@ -5246,7 +5246,7 @@ translate zh_Hans fem_mc_storyline_10024_69cd1359:
 translate zh_Hans fem_mc_storyline_10024_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:2791
 translate zh_Hans fem_mc_storyline_10024_aedac82c:
@@ -5332,7 +5332,7 @@ translate zh_Hans fem_mc_storyline_10025_27d7a353:
 translate zh_Hans fem_mc_storyline_10025_1f4aa74b:
 
     # nvlted "{a=show:show_chat_media}{image=w_mc_video_33_ns}"
-    nvlted ""
+    nvlted "{a=show:show_chat_media}{image=w_mc_video_33_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:2856
 translate zh_Hans fem_mc_storyline_10025_91bb01bf:
@@ -5434,7 +5434,7 @@ translate zh_Hans fem_mc_storyline_10025_b239a54b:
 translate zh_Hans fem_mc_storyline_10025_411f7865:
 
     # nvlted "😈"
-    nvlted ""
+    nvlted "😈|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:2890
 translate zh_Hans fem_mc_storyline_10025_8e9bb3b3:
@@ -5532,7 +5532,7 @@ translate zh_Hans fem_mc_storyline_10026_aa1fca5d:
 translate zh_Hans fem_mc_storyline_10026_e7b1aab0:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_712}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_712}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:2973
 translate zh_Hans fem_mc_storyline_10026_4e438d3c:
@@ -5610,7 +5610,7 @@ translate zh_Hans fem_mc_storyline_10026_139c89e7:
 translate zh_Hans fem_mc_storyline_10026_b1e6a513:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_789}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_789}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3003
 translate zh_Hans fem_mc_storyline_10026_764a4bb8:
@@ -5744,7 +5744,7 @@ translate zh_Hans fem_mc_storyline_10027_3350015d:
 translate zh_Hans fem_mc_storyline_10027_e30063c4:
 
     # nvljax "{a=show:show_chat_media}{image=w_mc_video_2_ns}"
-    nvljax ""
+    nvljax "{a=show:show_chat_media}{image=w_mc_video_2_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3088
 translate zh_Hans fem_mc_storyline_10027_0313a428:
@@ -5890,7 +5890,7 @@ translate zh_Hans fem_mc_storyline_10028_f446a0e7:
 translate zh_Hans fem_mc_storyline_10028_85b627e0:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_884}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_884}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3173
 translate zh_Hans fem_mc_storyline_10028_bb89932d:
@@ -5932,7 +5932,7 @@ translate zh_Hans fem_mc_storyline_10028_3bfde51d:
 translate zh_Hans fem_mc_storyline_10028_d84526f0:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_127_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_127_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3191
 translate zh_Hans fem_mc_storyline_10028_73496baa:
@@ -5992,7 +5992,7 @@ translate zh_Hans fem_mc_storyline_10028_dda15dcf:
 translate zh_Hans fem_mc_storyline_10028_10befb9c:
 
     # nvlwife "😊"
-    nvlwife ""
+    nvlwife "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3211
 translate zh_Hans fem_mc_storyline_10028_d19a119f:
@@ -6010,7 +6010,7 @@ translate zh_Hans fem_mc_storyline_10028_b0a447fb:
 translate zh_Hans fem_mc_storyline_10028_4e9ef4e8:
 
     # nvlwife "😍"
-    nvlwife ""
+    nvlwife "😍|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3217
 translate zh_Hans fem_mc_storyline_10028_9ad6234d:
@@ -6082,7 +6082,7 @@ translate zh_Hans fem_mc_storyline_10028_868a61ef:
 translate zh_Hans fem_mc_storyline_10028_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3241
 translate zh_Hans fem_mc_storyline_10028_69a7419f:
@@ -6252,7 +6252,7 @@ translate zh_Hans fem_mc_storyline_10029_194cc083:
 translate zh_Hans fem_mc_storyline_10029_028c9f3d:
 
     # nvlraul "{a=show:show_chat_media}{image=w_mc_pic_97}"
-    nvlraul ""
+    nvlraul "{a=show:show_chat_media}{image=w_mc_pic_97}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3334
 translate zh_Hans fem_mc_storyline_10029_5b4a67de:
@@ -6566,7 +6566,7 @@ translate zh_Hans fem_mc_storyline_10030_fd7b7f70:
 translate zh_Hans fem_mc_storyline_10030_1c88b20d:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_pic_788}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=wife_pic_788}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3475
 translate zh_Hans fem_mc_storyline_10030_02e1d9a3:
@@ -7024,7 +7024,7 @@ translate zh_Hans fem_mc_storyline_10031_7eb1cea4:
 translate zh_Hans fem_mc_storyline_10031_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3691
 translate zh_Hans fem_mc_storyline_10031_ba5b2c04:
@@ -7102,7 +7102,7 @@ translate zh_Hans fem_mc_storyline_10031_3e39cdcd:
 translate zh_Hans fem_mc_storyline_10031_fd408538_1:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3717
 translate zh_Hans fem_mc_storyline_10031_e8b05ad9:
@@ -7258,7 +7258,7 @@ translate zh_Hans fem_mc_storyline_10031_abaa7988:
 translate zh_Hans fem_mc_storyline_10031_d61a7d98:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_98}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_98}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3773
 translate zh_Hans fem_mc_storyline_10031_649b37c3:
@@ -7398,7 +7398,7 @@ translate zh_Hans fem_mc_storyline_10032_7109efaf:
 translate zh_Hans fem_mc_storyline_10032_daf6a3dc:
 
     # nvlted "{a=show:show_chat_media}{image=bbc_pic_56}"
-    nvlted ""
+    nvlted "{a=show:show_chat_media}{image=bbc_pic_56}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3856
 translate zh_Hans fem_mc_storyline_10032_c37da0fd:
@@ -7410,7 +7410,7 @@ translate zh_Hans fem_mc_storyline_10032_c37da0fd:
 translate zh_Hans fem_mc_storyline_10032_4ca4f764:
 
     # nvljohn_f "😍"
-    nvljohn_f ""
+    nvljohn_f "😍|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3874
 translate zh_Hans fem_mc_storyline_10032_53c71d7c:
@@ -7508,7 +7508,7 @@ translate zh_Hans fem_mc_storyline_10033_3fb878d3:
 translate zh_Hans fem_mc_storyline_10033_4afd11f2:
 
     # nvlted "{a=show:show_chat_media}{image=w_mc_video_27_ns}"
-    nvlted ""
+    nvlted "{a=show:show_chat_media}{image=w_mc_video_27_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3943
 translate zh_Hans fem_mc_storyline_10033_91bb01bf:
@@ -7550,7 +7550,7 @@ translate zh_Hans fem_mc_storyline_10033_15a603c8:
 translate zh_Hans fem_mc_storyline_10033_722d0996:
 
     # nvlted "{a=show:show_chat_media}{image=w_mc_video_25_ns}"
-    nvlted ""
+    nvlted "{a=show:show_chat_media}{image=w_mc_video_25_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3961
 translate zh_Hans fem_mc_storyline_10033_0d6b2902:
@@ -7658,7 +7658,7 @@ translate zh_Hans fem_mc_storyline_10033_35eef937:
 translate zh_Hans fem_mc_storyline_10033_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3997
 translate zh_Hans fem_mc_storyline_10033_778ce7a7:
@@ -8464,7 +8464,7 @@ translate zh_Hans fem_mc_storyline_10037_00077bb9:
 translate zh_Hans fem_mc_storyline_10037_409fce75:
 
     # nvltyrone "😊"
-    nvltyrone ""
+    nvltyrone "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:4412
 translate zh_Hans fem_mc_storyline_10037_1abb393c:
@@ -8664,7 +8664,7 @@ translate zh_Hans fem_mc_storyline_10038_8f99a810:
 translate zh_Hans fem_mc_storyline_10038_3522e80e:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_61}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_61}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:4529
 translate zh_Hans fem_mc_storyline_10038_ebaf19f9:
@@ -8688,7 +8688,7 @@ translate zh_Hans fem_mc_storyline_10038_a59f819b:
 translate zh_Hans fem_mc_storyline_10038_f0aaea76:
 
     # nvltyrone "{a=show:show_chat_media}{image=w_mc_pic_65}"
-    nvltyrone ""
+    nvltyrone "{a=show:show_chat_media}{image=w_mc_pic_65}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:4541
 translate zh_Hans fem_mc_storyline_10038_adb5ce40:
@@ -9220,7 +9220,7 @@ translate zh_Hans fem_mc_storyline_10040_315de4d7:
 translate zh_Hans fem_mc_storyline_10040_7633828e:
 
     # nvljohn "😊"
-    nvljohn ""
+    nvljohn "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:4783
 translate zh_Hans fem_mc_storyline_10040_b3cfb0db:
@@ -9514,7 +9514,7 @@ translate zh_Hans fem_mc_storyline_10043_da70636b:
 translate zh_Hans fem_mc_storyline_10043_93983d1e:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_19_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_video_19_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:4982
 translate zh_Hans fem_mc_storyline_10043_5ac8e25f:
@@ -9532,7 +9532,7 @@ translate zh_Hans fem_mc_storyline_10043_18c69ccb:
 translate zh_Hans fem_mc_storyline_10043_fcb67b2a:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_22_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_video_22_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:4992
 translate zh_Hans fem_mc_storyline_10043_2ce7c94a:
@@ -9586,7 +9586,7 @@ translate zh_Hans fem_mc_storyline_10043_f725658b:
 translate zh_Hans fem_mc_storyline_10043_fbfcbd68:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_video_1_ns}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_video_1_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:5014
 translate zh_Hans fem_mc_storyline_10043_9c030a04:
@@ -9742,7 +9742,7 @@ translate zh_Hans fem_mc_storyline_10043_81dcf779:
 translate zh_Hans fem_mc_storyline_10043_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:5066
 translate zh_Hans fem_mc_storyline_10043_af2e09ae:
@@ -9984,7 +9984,7 @@ translate zh_Hans fem_mc_storyline_10044_aac479fa:
 translate zh_Hans fem_mc_storyline_10044_a670fec4:
 
     # nvlemily "{a=show:show_chat_media}{image=emily_pic_2}"
-    nvlemily ""
+    nvlemily "{a=show:show_chat_media}{image=emily_pic_2}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:5187
 translate zh_Hans fem_mc_storyline_10044_92bfed59:
@@ -10176,7 +10176,7 @@ translate zh_Hans fem_mc_storyline_10044_330847d5:
 translate zh_Hans fem_mc_storyline_10044_a3ad7f8d:
 
     # nvlelsa "{a=show:show_chat_media}{image=elsa_pic_1}"
-    nvlelsa ""
+    nvlelsa "{a=show:show_chat_media}{image=elsa_pic_1}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:5255
 translate zh_Hans fem_mc_storyline_10044_544c3e30:
@@ -10338,7 +10338,7 @@ translate zh_Hans fem_mc_storyline_10044_bf906a69:
 translate zh_Hans fem_mc_storyline_10044_8fa33aee:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_15}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_15}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:5313
 translate zh_Hans fem_mc_storyline_10044_ec057ddd:
@@ -10374,7 +10374,7 @@ translate zh_Hans fem_mc_storyline_10044_2d4548cd_1:
 translate zh_Hans fem_mc_storyline_10044_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:5325
 translate zh_Hans fem_mc_storyline_10044_d14751a1:
@@ -10488,13 +10488,13 @@ translate zh_Hans fem_mc_storyline_10044_64b25358:
 translate zh_Hans fem_mc_storyline_10044_c5d82b7d:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_29}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_29}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:5366
 translate zh_Hans fem_mc_storyline_10044_61b6317c:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_30}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_30}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:5369
 translate zh_Hans fem_mc_storyline_10044_6a6c74a4:
@@ -10846,7 +10846,7 @@ translate zh_Hans fem_mc_storyline_10046_d53fde2f:
 translate zh_Hans fem_mc_storyline_10046_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:5551
 translate zh_Hans fem_mc_storyline_10046_d9ebd4e5:
@@ -10918,7 +10918,7 @@ translate zh_Hans fem_mc_storyline_10046_4501f65a:
 translate zh_Hans fem_mc_storyline_10046_dd847a4b:
 
     # nvlwife "😉"
-    nvlwife ""
+    nvlwife "😉|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:5575
 translate zh_Hans fem_mc_storyline_10046_511e6924:
@@ -11028,7 +11028,7 @@ translate zh_Hans fem_mc_storyline_10047_fbb98209:
 translate zh_Hans fem_mc_storyline_10047_7143a762:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_12}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_12}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:5648
 translate zh_Hans fem_mc_storyline_10047_5151bdad:
@@ -11144,7 +11144,7 @@ translate zh_Hans fem_mc_storyline_10048_ffbdf139:
 translate zh_Hans fem_mc_storyline_10048_1f83d8eb:
 
     # nvlted "{a=show:show_chat_media}{image=w_mc_video_39_ns}"
-    nvlted ""
+    nvlted "{a=show:show_chat_media}{image=w_mc_video_39_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:5723
 translate zh_Hans fem_mc_storyline_10048_de8cb151:
@@ -11168,7 +11168,7 @@ translate zh_Hans fem_mc_storyline_10048_ff2a6674:
 translate zh_Hans fem_mc_storyline_10048_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:5731
 translate zh_Hans fem_mc_storyline_10048_4ced475f:
@@ -11204,7 +11204,7 @@ translate zh_Hans fem_mc_storyline_10048_372ae85f:
 translate zh_Hans fem_mc_storyline_10048_7ea97791:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_13}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_13}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:5747
 translate zh_Hans fem_mc_storyline_10048_c6bdca4c:
@@ -11258,7 +11258,7 @@ translate zh_Hans fem_mc_storyline_10048_7325a929:
 translate zh_Hans fem_mc_storyline_10048_1e2f5ea6:
 
     # nvljohn_f "😉"
-    nvljohn_f ""
+    nvljohn_f "😉|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:5779
 translate zh_Hans fem_mc_storyline_10048_53c71d7c:
@@ -11350,7 +11350,7 @@ translate zh_Hans fem_mc_storyline_10049_2203c934:
 translate zh_Hans fem_mc_storyline_10049_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:5828
 translate zh_Hans fem_mc_storyline_10049_927740ed:
@@ -11374,7 +11374,7 @@ translate zh_Hans fem_mc_storyline_10049_648b4920:
 translate zh_Hans fem_mc_storyline_10049_f9fe82b9:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_647}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_647}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:5840
 translate zh_Hans fem_mc_storyline_10049_7df4f96c:
@@ -11428,7 +11428,7 @@ translate zh_Hans fem_mc_storyline_10049_77dc017d:
 translate zh_Hans fem_mc_storyline_10049_465468dd:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_video_39_ns}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_video_39_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:5860
 translate zh_Hans fem_mc_storyline_10049_731155a9:
@@ -11574,7 +11574,7 @@ translate zh_Hans fem_mc_storyline_10050_dc46b3bc:
 translate zh_Hans fem_mc_storyline_10050_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:5941
 translate zh_Hans fem_mc_storyline_10050_a462c425:
@@ -11840,7 +11840,7 @@ translate zh_Hans fem_mc_storyline_10051_a41a2031:
 translate zh_Hans fem_mc_storyline_10051_762e7522:
 
     # nvlsimon "{a=show:show_chat_media}{image=w_mc_pic_96}"
-    nvlsimon ""
+    nvlsimon "{a=show:show_chat_media}{image=w_mc_pic_96}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:6066
 translate zh_Hans fem_mc_storyline_10051_22c1d96e:
@@ -11990,7 +11990,7 @@ translate zh_Hans fem_mc_storyline_10051_26d03c39:
 translate zh_Hans fem_mc_storyline_10051_02b7354c:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_95}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_95}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:6120
 translate zh_Hans fem_mc_storyline_10051_fa08dc3c:
@@ -12086,7 +12086,7 @@ translate zh_Hans fem_mc_storyline_10051_5bb1b0f8:
 translate zh_Hans fem_mc_storyline_10051_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:6152
 translate zh_Hans fem_mc_storyline_10051_b083a412:
@@ -12472,7 +12472,7 @@ translate zh_Hans fem_mc_storyline_10052_2eae2036:
 translate zh_Hans fem_mc_storyline_10052_d6d4af7f:
 
     # nvljohn_f "{a=show:show_chat_media}{image=wife_video_171_ns}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=wife_video_171_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:6331
 translate zh_Hans fem_mc_storyline_10052_75ec65f0:
@@ -12508,7 +12508,7 @@ translate zh_Hans fem_mc_storyline_10052_0b2ee1ec:
 translate zh_Hans fem_mc_storyline_10052_2bb76e95:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_41_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_video_41_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:6349
 translate zh_Hans fem_mc_storyline_10052_8bb9d1c8:
@@ -12526,7 +12526,7 @@ translate zh_Hans fem_mc_storyline_10052_9155aa3a:
 translate zh_Hans fem_mc_storyline_10052_f2310c69:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_42_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_video_42_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:6361
 translate zh_Hans fem_mc_storyline_10052_9a67c887:
@@ -12586,7 +12586,7 @@ translate zh_Hans fem_mc_storyline_10052_426a080e:
 translate zh_Hans fem_mc_storyline_10052_a9e6e01a:
 
     # nvljenna "😘"
-    nvljenna ""
+    nvljenna "😘|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:6381
 translate zh_Hans fem_mc_storyline_10052_6cae7dbb:
@@ -12666,7 +12666,7 @@ translate zh_Hans fem_mc_storyline_10053_d56ef595:
 translate zh_Hans fem_mc_storyline_10053_ad56ec17:
 
     # nvlemily "{a=show:show_chat_media}{image=emily_pic_1}"
-    nvlemily ""
+    nvlemily "{a=show:show_chat_media}{image=emily_pic_1}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:6444
 translate zh_Hans fem_mc_storyline_10053_f9c03590:
@@ -12684,7 +12684,7 @@ translate zh_Hans fem_mc_storyline_10053_65ed7a89:
 translate zh_Hans fem_mc_storyline_10053_f005aeba:
 
     # nvlmay "{a=show:show_chat_media}{image=may_pic_2}"
-    nvlmay ""
+    nvlmay "{a=show:show_chat_media}{image=may_pic_2}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:6454
 translate zh_Hans fem_mc_storyline_10053_7f7b714c:
@@ -12888,7 +12888,7 @@ translate zh_Hans fem_mc_storyline_10053_abd53ef5:
 translate zh_Hans fem_mc_storyline_10053_7c300d6e:
 
     # nvlasa "{a=show:show_chat_media}{image=asa_pic_3}"
-    nvlasa ""
+    nvlasa "{a=show:show_chat_media}{image=asa_pic_3}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:6526
 translate zh_Hans fem_mc_storyline_10053_a76077c9:
@@ -12936,7 +12936,7 @@ translate zh_Hans fem_mc_storyline_10053_21b5c616:
 translate zh_Hans fem_mc_storyline_10053_1e0b1911:
 
     # nvlasa "{a=show:show_chat_media}{image=asa_pic_4}"
-    nvlasa ""
+    nvlasa "{a=show:show_chat_media}{image=asa_pic_4}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:6546
 translate zh_Hans fem_mc_storyline_10053_d5b861ea:
@@ -13104,7 +13104,7 @@ translate zh_Hans fem_mc_storyline_10053_12d360b5:
 translate zh_Hans fem_mc_storyline_10053_f90ef91c:
 
     # nvlabella "{a=show:show_chat_media}{image=abella_pic_24}"
-    nvlabella ""
+    nvlabella "{a=show:show_chat_media}{image=abella_pic_24}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:6606
 translate zh_Hans fem_mc_storyline_10053_dfc42ab0:
@@ -13128,7 +13128,7 @@ translate zh_Hans fem_mc_storyline_10053_74fc8c1e:
 translate zh_Hans fem_mc_storyline_10053_84cdf212:
 
     # nvlemily "{a=show:show_chat_media}{image=emily_pic_3}"
-    nvlemily ""
+    nvlemily "{a=show:show_chat_media}{image=emily_pic_3}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:6618
 translate zh_Hans fem_mc_storyline_10053_a24bce8c:
@@ -13212,7 +13212,7 @@ translate zh_Hans fem_mc_storyline_10053_1418aa52:
 translate zh_Hans fem_mc_storyline_10053_a9c6be80:
 
     # nvlchristina "{a=show:show_chat_media}{image=christina_pic_3}"
-    nvlchristina ""
+    nvlchristina "{a=show:show_chat_media}{image=christina_pic_3}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:6650
 translate zh_Hans fem_mc_storyline_10053_9eb8bbd6:
@@ -13230,7 +13230,7 @@ translate zh_Hans fem_mc_storyline_10053_c5d121c8:
 translate zh_Hans fem_mc_storyline_10053_950178af:
 
     # nvlchristina "😊"
-    nvlchristina ""
+    nvlchristina "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:6656
 translate zh_Hans fem_mc_storyline_10053_a129af49:
@@ -13332,7 +13332,7 @@ translate zh_Hans fem_mc_storyline_10053_50224853:
 translate zh_Hans fem_mc_storyline_10053_9d8ea618:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_31}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_31}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:6692
 translate zh_Hans fem_mc_storyline_10053_c8eaa5d9:
@@ -13350,7 +13350,7 @@ translate zh_Hans fem_mc_storyline_10053_209b4d95:
 translate zh_Hans fem_mc_storyline_10053_1ab09356:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_32}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_32}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:6700
 translate zh_Hans fem_mc_storyline_10053_456eaf3a:
@@ -13458,7 +13458,7 @@ translate zh_Hans fem_mc_storyline_10053_8f517215:
 translate zh_Hans fem_mc_storyline_10053_1b9218c3:
 
     # nvlgianna "😊"
-    nvlgianna ""
+    nvlgianna "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:6736
 translate zh_Hans fem_mc_storyline_10053_2868e3ab:
@@ -13562,7 +13562,7 @@ translate zh_Hans fem_mc_storyline_10054_e8ba25ce:
 translate zh_Hans fem_mc_storyline_10054_11878f80:
 
     # nvlraul "{a=show:show_chat_media}{image=w_mc_pic_60}"
-    nvlraul ""
+    nvlraul "{a=show:show_chat_media}{image=w_mc_pic_60}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:6807
 translate zh_Hans fem_mc_storyline_10054_d9d1e41f:
@@ -13750,7 +13750,7 @@ translate zh_Hans fem_mc_storyline_10055_0e243aa3:
 translate zh_Hans fem_mc_storyline_10055_760c57b7:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_9}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_9}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:6906
 translate zh_Hans fem_mc_storyline_10055_0ef55cd6:
@@ -13786,7 +13786,7 @@ translate zh_Hans fem_mc_storyline_10055_08022dbc:
 translate zh_Hans fem_mc_storyline_10055_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:6918
 translate zh_Hans fem_mc_storyline_10055_a16d36ae:
@@ -13828,7 +13828,7 @@ translate zh_Hans fem_mc_storyline_10055_aff9df97:
 translate zh_Hans fem_mc_storyline_10055_943a0392:
 
     # nvlraul "{a=show:show_chat_media}{image=dick_pic_12}"
-    nvlraul ""
+    nvlraul "{a=show:show_chat_media}{image=dick_pic_12}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:6936
 translate zh_Hans fem_mc_storyline_10055_91bb01bf:
@@ -14026,7 +14026,7 @@ translate zh_Hans fem_mc_storyline_10055_54535436:
 translate zh_Hans fem_mc_storyline_10055_fd408538_1:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:7016
 translate zh_Hans fem_mc_storyline_10055_53c71d7c:
@@ -14262,7 +14262,7 @@ translate zh_Hans fem_mc_storyline_10056_ae875d75:
 translate zh_Hans fem_mc_storyline_10056_a8d2bb13:
 
     # nvljohn_f "😘"
-    nvljohn_f ""
+    nvljohn_f "😘|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:7127
 translate zh_Hans fem_mc_storyline_10056_653e368b:
@@ -14522,7 +14522,7 @@ translate zh_Hans fem_mc_storyline_10057_9c215a60:
 translate zh_Hans fem_mc_storyline_10057_0a51f48f:
 
     # nvlcole "😊"
-    nvlcole ""
+    nvlcole "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:7250
 translate zh_Hans fem_mc_storyline_10057_e616382a:
@@ -14564,7 +14564,7 @@ translate zh_Hans fem_mc_storyline_10057_6c11a34a:
 translate zh_Hans fem_mc_storyline_10057_fd8849d5:
 
     # nvlcole "{a=show:show_chat_media}{image=w_mc_video_6_ns}"
-    nvlcole ""
+    nvlcole "{a=show:show_chat_media}{image=w_mc_video_6_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:7268
 translate zh_Hans fem_mc_storyline_10057_e16f2a49:
@@ -15070,7 +15070,7 @@ translate zh_Hans fem_mc_storyline_10061_ba9f6224:
 translate zh_Hans fem_mc_storyline_10061_48f6bf82:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_207}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_207}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:7604
 translate zh_Hans fem_mc_storyline_10061_40518271:
@@ -15160,7 +15160,7 @@ translate zh_Hans fem_mc_storyline_10061_ce5d97d3:
 translate zh_Hans fem_mc_storyline_10061_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:7634
 translate zh_Hans fem_mc_storyline_10061_49d9c633:
@@ -15262,7 +15262,7 @@ translate zh_Hans fem_mc_storyline_10061_e137754b:
 translate zh_Hans fem_mc_storyline_10061_a8d2bb13:
 
     # nvljohn_f "😘"
-    nvljohn_f ""
+    nvljohn_f "😘|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:7668
 translate zh_Hans fem_mc_storyline_10061_e3d75df1:
@@ -15606,7 +15606,7 @@ translate zh_Hans fem_mc_storyline_10062_f26ebc3b:
 translate zh_Hans fem_mc_storyline_10062_10befb9c:
 
     # nvlwife "😊"
-    nvlwife ""
+    nvlwife "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:7829
 translate zh_Hans fem_mc_storyline_10062_e8961e80:
@@ -15756,7 +15756,7 @@ translate zh_Hans fem_mc_storyline_10062_91292258:
 translate zh_Hans fem_mc_storyline_10062_34b208d5:
 
     # nvlwife "😘"
-    nvlwife ""
+    nvlwife "😘|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:7879
 translate zh_Hans fem_mc_storyline_10062_95e1801f:
@@ -16030,7 +16030,7 @@ translate zh_Hans fem_mc_storyline_10064_7580fa4d:
 translate zh_Hans fem_mc_storyline_10064_bc11701f:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_30_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_30_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:8039
 translate zh_Hans fem_mc_storyline_10064_dae57568:
@@ -16060,7 +16060,7 @@ translate zh_Hans fem_mc_storyline_10064_613430e9:
 translate zh_Hans fem_mc_storyline_10064_8e09ae8e:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_44_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_44_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:8053
 translate zh_Hans fem_mc_storyline_10064_4afbbdcd:
@@ -16090,7 +16090,7 @@ translate zh_Hans fem_mc_storyline_10064_f1a5645f:
 translate zh_Hans fem_mc_storyline_10064_c332e26c:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_226_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_226_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:8067
 translate zh_Hans fem_mc_storyline_10064_59bd3a8c:
@@ -16138,7 +16138,7 @@ translate zh_Hans fem_mc_storyline_10064_ecb4416b:
 translate zh_Hans fem_mc_storyline_10064_8cfbd5eb:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_227_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_227_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:8087
 translate zh_Hans fem_mc_storyline_10064_91bb01bf:
@@ -16168,7 +16168,7 @@ translate zh_Hans fem_mc_storyline_10064_f032d921:
 translate zh_Hans fem_mc_storyline_10064_a1122db3:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_861}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_861}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:8103
 translate zh_Hans fem_mc_storyline_10064_dae57568_1:
@@ -16186,7 +16186,7 @@ translate zh_Hans fem_mc_storyline_10064_995ab7a3:
 translate zh_Hans fem_mc_storyline_10064_34b208d5:
 
     # nvlwife "😘"
-    nvlwife ""
+    nvlwife "😘|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:8109
 translate zh_Hans fem_mc_storyline_10064_35eb0a3a:
@@ -16222,7 +16222,7 @@ translate zh_Hans fem_mc_storyline_10064_68aa45e1:
 translate zh_Hans fem_mc_storyline_10064_10befb9c:
 
     # nvlwife "😊"
-    nvlwife ""
+    nvlwife "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:8121
 translate zh_Hans fem_mc_storyline_10064_0456f081:
@@ -16356,7 +16356,7 @@ translate zh_Hans fem_mc_storyline_10065_0bbf4bf9:
 translate zh_Hans fem_mc_storyline_10065_3f3aeb14:
 
     # nvleric "😊"
-    nvleric ""
+    nvleric "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:8200
 translate zh_Hans fem_mc_storyline_10065_a63f9133:
@@ -16452,7 +16452,7 @@ translate zh_Hans fem_mc_storyline_10065_107c1ad0:
 translate zh_Hans fem_mc_storyline_10065_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:8232
 translate zh_Hans fem_mc_storyline_10065_69d3beb1:
@@ -16712,7 +16712,7 @@ translate zh_Hans fem_mc_storyline_10066_09ee59a2:
 translate zh_Hans fem_mc_storyline_10066_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:8351
 translate zh_Hans fem_mc_storyline_10066_b83a05cb:
@@ -16930,7 +16930,7 @@ translate zh_Hans fem_mc_storyline_10067_126e99cd:
 translate zh_Hans fem_mc_storyline_10067_fb416262:
 
     # nvleric "{a=show:show_chat_media}{image=w_mc_video_23_ns}"
-    nvleric ""
+    nvleric "{a=show:show_chat_media}{image=w_mc_video_23_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:8460
 translate zh_Hans fem_mc_storyline_10067_34c41c5b:
@@ -16948,7 +16948,7 @@ translate zh_Hans fem_mc_storyline_10067_a2fc62fb:
 translate zh_Hans fem_mc_storyline_10067_e251f1f9:
 
     # nvleric "{a=show:show_chat_media}{image=w_mc_video_24_ns}"
-    nvleric ""
+    nvleric "{a=show:show_chat_media}{image=w_mc_video_24_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:8470
 translate zh_Hans fem_mc_storyline_10067_cd888144:
@@ -17196,13 +17196,13 @@ translate zh_Hans fem_mc_storyline_10068_1c5b237e:
 translate zh_Hans fem_mc_storyline_10068_b771db9e:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_video_23_ns}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_video_23_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:8590
 translate zh_Hans fem_mc_storyline_10068_326d42f4:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_video_24_ns}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_video_24_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:8593
 translate zh_Hans fem_mc_storyline_10068_731155a9:
@@ -17238,7 +17238,7 @@ translate zh_Hans fem_mc_storyline_10068_41b71f60:
 translate zh_Hans fem_mc_storyline_10068_42248ff3:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_705}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_705}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:8609
 translate zh_Hans fem_mc_storyline_10068_072929db:
@@ -17396,7 +17396,7 @@ translate zh_Hans fem_mc_storyline_10069_215ae915:
 translate zh_Hans fem_mc_storyline_10069_501a4bb7:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_38}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_38}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:8698
 translate zh_Hans fem_mc_storyline_10069_c8d10959:
@@ -17512,7 +17512,7 @@ translate zh_Hans fem_mc_storyline_10070_eaae40b6:
 translate zh_Hans fem_mc_storyline_10070_501a4bb7:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_38}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_38}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:8771
 translate zh_Hans fem_mc_storyline_10070_7713d124:
@@ -17626,7 +17626,7 @@ translate zh_Hans fem_mc_storyline_10071_76b2fe88:
 translate zh_Hans fem_mc_storyline_10071_60206b10:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_9_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_9_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:8844
 translate zh_Hans fem_mc_storyline_10071_6b0911bb:
@@ -17680,7 +17680,7 @@ translate zh_Hans fem_mc_storyline_10071_7e2408d6:
 translate zh_Hans fem_mc_storyline_10071_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:8862
 translate zh_Hans fem_mc_storyline_10071_29501cca:
@@ -17776,7 +17776,7 @@ translate zh_Hans fem_mc_storyline_10071_7078d454:
 translate zh_Hans fem_mc_storyline_10071_a8d2bb13:
 
     # nvljohn_f "😘"
-    nvljohn_f ""
+    nvljohn_f "😘|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:8894
 translate zh_Hans fem_mc_storyline_10071_8dbd7efa:
@@ -17874,7 +17874,7 @@ translate zh_Hans fem_mc_storyline_10072_cf3d7416:
 translate zh_Hans fem_mc_storyline_10072_8320f2be:
 
     # nvlbull "{a=show:show_chat_media}{image=wife_video_59_ns}"
-    nvlbull ""
+    nvlbull "{a=show:show_chat_media}{image=wife_video_59_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:8965
 translate zh_Hans fem_mc_storyline_10072_c13608eb:
@@ -17922,7 +17922,7 @@ translate zh_Hans fem_mc_storyline_10072_2ff3a443:
 translate zh_Hans fem_mc_storyline_10072_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:8981
 translate zh_Hans fem_mc_storyline_10072_eaf956b2:
@@ -17958,7 +17958,7 @@ translate zh_Hans fem_mc_storyline_10072_afd51108:
 translate zh_Hans fem_mc_storyline_10072_9e0e70d5:
 
     # nvlbull "{a=show:show_chat_media}{image=bbc_pic_4}"
-    nvlbull ""
+    nvlbull "{a=show:show_chat_media}{image=bbc_pic_4}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:8997
 translate zh_Hans fem_mc_storyline_10072_d054880e:
@@ -18230,7 +18230,7 @@ translate zh_Hans fem_mc_storyline_10073_03340048:
 translate zh_Hans fem_mc_storyline_10073_9193b231:
 
     # nvlbull "{a=show:show_chat_media}{image=w_mc_video_3_ns}"
-    nvlbull ""
+    nvlbull "{a=show:show_chat_media}{image=w_mc_video_3_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:9138
 translate zh_Hans fem_mc_storyline_10073_0313a428:
@@ -18550,13 +18550,13 @@ translate zh_Hans fem_mc_storyline_10074_44bdb73f:
 translate zh_Hans fem_mc_storyline_10074_c6bb77a0:
 
     # nvlelsa "{a=show:show_chat_media}{image=elsa_pic_2}"
-    nvlelsa ""
+    nvlelsa "{a=show:show_chat_media}{image=elsa_pic_2}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:9283
 translate zh_Hans fem_mc_storyline_10074_b42b9fee:
 
     # nvlelsa "{a=show:show_chat_media}{image=elsa_pic_3}"
-    nvlelsa ""
+    nvlelsa "{a=show:show_chat_media}{image=elsa_pic_3}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:9287
 translate zh_Hans fem_mc_storyline_10074_1e17abb2:
@@ -18736,7 +18736,7 @@ translate zh_Hans fem_mc_storyline_10074_eaaf9f7b:
 translate zh_Hans fem_mc_storyline_10074_d2ebcaf4:
 
     # nvlgianna "{a=show:show_chat_media}{image=gianna_pic_33}"
-    nvlgianna ""
+    nvlgianna "{a=show:show_chat_media}{image=gianna_pic_33}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:9349
 translate zh_Hans fem_mc_storyline_10074_bd57a98e:
@@ -18820,7 +18820,7 @@ translate zh_Hans fem_mc_storyline_10074_d7561ef7:
 translate zh_Hans fem_mc_storyline_10074_a9febca0:
 
     # nvlasa "{a=show:show_chat_media}{image=asa_pic_5}"
-    nvlasa ""
+    nvlasa "{a=show:show_chat_media}{image=asa_pic_5}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:9381
 translate zh_Hans fem_mc_storyline_10074_23690bbb:
@@ -18976,19 +18976,19 @@ translate zh_Hans fem_mc_storyline_10074_6d281442:
 translate zh_Hans fem_mc_storyline_10074_6e3b0275:
 
     # nvlriley "{a=show:show_chat_media}{image=riley_pic_1}"
-    nvlriley ""
+    nvlriley "{a=show:show_chat_media}{image=riley_pic_1}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:9439
 translate zh_Hans fem_mc_storyline_10074_29ff01ce:
 
     # nvlriley "{a=show:show_chat_media}{image=riley_pic_2}"
-    nvlriley ""
+    nvlriley "{a=show:show_chat_media}{image=riley_pic_2}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:9445
 translate zh_Hans fem_mc_storyline_10074_88b36b6e:
 
     # nvlriley "{a=show:show_chat_media}{image=riley_pic_3}"
-    nvlriley ""
+    nvlriley "{a=show:show_chat_media}{image=riley_pic_3}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:9449
 translate zh_Hans fem_mc_storyline_10074_4fcacfec:
@@ -19042,7 +19042,7 @@ translate zh_Hans fem_mc_storyline_10074_a827ba80:
 translate zh_Hans fem_mc_storyline_10074_d5c73361:
 
     # nvlriley "{a=show:show_chat_media}{image=riley_pic_4}"
-    nvlriley ""
+    nvlriley "{a=show:show_chat_media}{image=riley_pic_4}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:9471
 translate zh_Hans fem_mc_storyline_10074_2c67169c:
@@ -19484,7 +19484,7 @@ translate zh_Hans fem_mc_storyline_10076_6cee92e4:
 translate zh_Hans fem_mc_storyline_10076_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:9696
 translate zh_Hans fem_mc_storyline_10076_c477d260:
@@ -19556,7 +19556,7 @@ translate zh_Hans fem_mc_storyline_10076_360f0be9:
 translate zh_Hans fem_mc_storyline_10076_8c5e6d8d:
 
     # nvlraul "{a=show:show_chat_media}{image=w_mc_pic_154}"
-    nvlraul ""
+    nvlraul "{a=show:show_chat_media}{image=w_mc_pic_154}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:9724
 translate zh_Hans fem_mc_storyline_10076_f906b1dc:
@@ -20076,7 +20076,7 @@ translate zh_Hans fem_mc_storyline_10078_f02efb1c:
 translate zh_Hans fem_mc_storyline_10078_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:9985
 translate zh_Hans fem_mc_storyline_10078_2cd7ada4:
@@ -20112,7 +20112,7 @@ translate zh_Hans fem_mc_storyline_10078_1d676a44:
 translate zh_Hans fem_mc_storyline_10078_c86a68df:
 
     # nvlgeorge "😊"
-    nvlgeorge ""
+    nvlgeorge "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:10027
 translate zh_Hans fem_mc_storyline_10078_after_735b2bb3:
@@ -20354,7 +20354,7 @@ translate zh_Hans fem_mc_storyline_10079_198faa35:
 translate zh_Hans fem_mc_storyline_10079_bcc4bba5:
 
     # nvlraul "{a=show:show_chat_media}{image=w_mc_video_29_ns}"
-    nvlraul ""
+    nvlraul "{a=show:show_chat_media}{image=w_mc_video_29_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:10130
 translate zh_Hans fem_mc_storyline_10079_3448dc68:
@@ -20504,7 +20504,7 @@ translate zh_Hans fem_mc_storyline_10080_76b2fe88:
 translate zh_Hans fem_mc_storyline_10080_81e31ea7:
 
     # nvlraul "{a=show:show_chat_media}{image=w_mc_video_50_ns}"
-    nvlraul ""
+    nvlraul "{a=show:show_chat_media}{image=w_mc_video_50_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:10240
 translate zh_Hans fem_mc_storyline_10080_53c1717d:
@@ -20576,7 +20576,7 @@ translate zh_Hans fem_mc_storyline_10080_2f0829f1:
 translate zh_Hans fem_mc_storyline_10080_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:10264
 translate zh_Hans fem_mc_storyline_10080_64d44800:
@@ -20660,13 +20660,13 @@ translate zh_Hans fem_mc_storyline_10080_85ad9aed:
 translate zh_Hans fem_mc_storyline_10080_8c3694db:
 
     # nvlraul "😘"
-    nvlraul ""
+    nvlraul "😘|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:10292
 translate zh_Hans fem_mc_storyline_10080_a8d2bb13:
 
     # nvljohn_f "😘"
-    nvljohn_f ""
+    nvljohn_f "😘|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:10308
 translate zh_Hans fem_mc_storyline_10080_53c71d7c:
@@ -20770,7 +20770,7 @@ translate zh_Hans fem_mc_storyline_10081_e2dcb4fc:
 translate zh_Hans fem_mc_storyline_10081_dd1e60a9:
 
     # nvljenna "{a=show:show_chat_media}{image=h_bimbo_3_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_bimbo_3_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:10363
 translate zh_Hans fem_mc_storyline_10081_28494dcb:
@@ -20794,7 +20794,7 @@ translate zh_Hans fem_mc_storyline_10081_bfb4bca1:
 translate zh_Hans fem_mc_storyline_10081_a8d2bb13:
 
     # nvljohn_f "😘"
-    nvljohn_f ""
+    nvljohn_f "😘|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:10385
 translate zh_Hans fem_mc_storyline_10081_53c71d7c:
@@ -20892,7 +20892,7 @@ translate zh_Hans fem_mc_storyline_10082_a686bf23:
 translate zh_Hans fem_mc_storyline_10082_9b49f8e2:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_119}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_119}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:10440
 translate zh_Hans fem_mc_storyline_10082_05191471:
@@ -21026,7 +21026,7 @@ translate zh_Hans fem_mc_storyline_10083_349aaa46:
 translate zh_Hans fem_mc_storyline_10083_a9e6e01a:
 
     # nvljenna "😘"
-    nvljenna ""
+    nvljenna "😘|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:10517
 translate zh_Hans fem_mc_storyline_10083_a41a2031:
@@ -21104,7 +21104,7 @@ translate zh_Hans fem_mc_storyline_10083_14a428b4:
 translate zh_Hans fem_mc_storyline_10083_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:10543
 translate zh_Hans fem_mc_storyline_10083_68d2f35d:
@@ -21196,13 +21196,13 @@ translate zh_Hans fem_mc_storyline_10084_af801aa3:
 translate zh_Hans fem_mc_storyline_10084_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:10610
 translate zh_Hans fem_mc_storyline_10084_8cf6cb67:
 
     # nvlcole "{a=show:show_chat_media}{image=w_mc_video_51_ns}"
-    nvlcole ""
+    nvlcole "{a=show:show_chat_media}{image=w_mc_video_51_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:10614
 translate zh_Hans fem_mc_storyline_10084_add13f1b:
@@ -21280,7 +21280,7 @@ translate zh_Hans fem_mc_storyline_10084_bdf4dab9:
 translate zh_Hans fem_mc_storyline_10084_a8d2bb13:
 
     # nvljohn_f "😘"
-    nvljohn_f ""
+    nvljohn_f "😘|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:10654
 translate zh_Hans fem_mc_storyline_10084_53c71d7c:
@@ -21562,7 +21562,7 @@ translate zh_Hans fem_mc_storyline_10087_3aea059a:
 translate zh_Hans fem_mc_storyline_10087_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:10845
 translate zh_Hans fem_mc_storyline_10087_53c71d7c:
@@ -21606,7 +21606,7 @@ translate zh_Hans fem_mc_storyline_10088_beae8cb3:
 translate zh_Hans fem_mc_storyline_10088_1edc848b:
 
     # nvlsalim "{a=show:show_chat_media}{image=w_mc_pic_73}"
-    nvlsalim ""
+    nvlsalim "{a=show:show_chat_media}{image=w_mc_pic_73}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:10882
 translate zh_Hans fem_mc_storyline_10088_9b86aad0:
@@ -21732,7 +21732,7 @@ translate zh_Hans fem_mc_storyline_10088_3b569b47:
 translate zh_Hans fem_mc_storyline_10088_a686776f:
 
     # nvlsalim "😊"
-    nvlsalim ""
+    nvlsalim "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:10924
 translate zh_Hans fem_mc_storyline_10088_bd75a427:
@@ -22402,7 +22402,7 @@ translate zh_Hans fem_mc_storyline_10090_a197b18e:
 translate zh_Hans fem_mc_storyline_10090_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11234
 translate zh_Hans fem_mc_storyline_10090_c1af8e91:
@@ -22680,7 +22680,7 @@ translate zh_Hans fem_mc_storyline_10092_76b2fe88:
 translate zh_Hans fem_mc_storyline_10092_9b92d94c:
 
     # nvlraul "{a=show:show_chat_media}{image=w_mc_video_52_ns}"
-    nvlraul ""
+    nvlraul "{a=show:show_chat_media}{image=w_mc_video_52_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11422
 translate zh_Hans fem_mc_storyline_10092_dfce58b1:
@@ -22800,7 +22800,7 @@ translate zh_Hans fem_mc_storyline_10092_ade969b4:
 translate zh_Hans fem_mc_storyline_10092_e38b0d5a:
 
     # nvlraul "😉"
-    nvlraul ""
+    nvlraul "😉|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11476
 translate zh_Hans fem_mc_storyline_10092_53c71d7c:
@@ -22820,7 +22820,7 @@ translate zh_Hans fem_mc_storyline_10093_ef217123:
 translate zh_Hans fem_mc_storyline_10093_2c13fbf1:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_140}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_140}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11515
 translate zh_Hans fem_mc_storyline_10093_fa7416b3:
@@ -22898,7 +22898,7 @@ translate zh_Hans fem_mc_storyline_10093_ea4ebc55:
 translate zh_Hans fem_mc_storyline_10093_c86a68df:
 
     # nvlgeorge "😊"
-    nvlgeorge ""
+    nvlgeorge "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11541
 translate zh_Hans fem_mc_storyline_10093_758bdb61:
@@ -23274,7 +23274,7 @@ translate zh_Hans fem_mc_storyline_10095_ff81e9aa:
 translate zh_Hans fem_mc_storyline_10095_5db77b77:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_video_53_ns}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_video_53_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11737
 translate zh_Hans fem_mc_storyline_10095_b15c0eb3_1:
@@ -23514,7 +23514,7 @@ translate zh_Hans fem_mc_storyline_10095_6b6192d4:
 translate zh_Hans fem_mc_storyline_10095_a9e6e01a:
 
     # nvljenna "😘"
-    nvljenna ""
+    nvljenna "😘|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11831
 translate zh_Hans fem_mc_storyline_10095_53c71d7c:
@@ -23738,7 +23738,7 @@ translate zh_Hans fem_mc_storyline_10096_0c01019a:
 translate zh_Hans fem_mc_storyline_10096_d4201f4a:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_163}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_163}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11928
 translate zh_Hans fem_mc_storyline_10096_f6ea6fd4:
@@ -23992,7 +23992,7 @@ translate zh_Hans fem_mc_storyline_10097_9bd1101a:
 translate zh_Hans fem_mc_storyline_10097_2438172f:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_594}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_594}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12049
 translate zh_Hans fem_mc_storyline_10097_aacc655b:
@@ -24070,7 +24070,7 @@ translate zh_Hans fem_mc_storyline_10097_4971cb20:
 translate zh_Hans fem_mc_storyline_10097_d0dd5c89:
 
     # nvlwife "😂"
-    nvlwife ""
+    nvlwife "😂|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12075
 translate zh_Hans fem_mc_storyline_10097_5677f8f3:
@@ -24114,7 +24114,7 @@ translate zh_Hans fem_mc_storyline_10098_b69035db:
 translate zh_Hans fem_mc_storyline_10098_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12122
 translate zh_Hans fem_mc_storyline_10098_1cf3f831:
@@ -24138,7 +24138,7 @@ translate zh_Hans fem_mc_storyline_10098_8a57213c:
 translate zh_Hans fem_mc_storyline_10098_8558b5f3:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_150}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_150}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12134
 translate zh_Hans fem_mc_storyline_10098_1386971f:
@@ -24328,7 +24328,7 @@ translate zh_Hans fem_mc_storyline_10100_7b0c2cea:
 translate zh_Hans fem_mc_storyline_10100_36d6aa13:
 
     # nvlsalim "{a=show:show_chat_media}{image=w_mc_pic_52}"
-    nvlsalim ""
+    nvlsalim "{a=show:show_chat_media}{image=w_mc_pic_52}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12276
 translate zh_Hans fem_mc_storyline_10100_fce1372c:
@@ -24682,7 +24682,7 @@ translate zh_Hans fem_mc_storyline_10101_01811f35:
 translate zh_Hans fem_mc_storyline_10101_e736dea4:
 
     # nvlgeorge "{a=show:show_chat_media}{image=w_mc_video_30_ns}"
-    nvlgeorge ""
+    nvlgeorge "{a=show:show_chat_media}{image=w_mc_video_30_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12448
 translate zh_Hans fem_mc_storyline_10101_a6cdf1ce:
@@ -24760,7 +24760,7 @@ translate zh_Hans fem_mc_storyline_10101_7cca5bd9:
 translate zh_Hans fem_mc_storyline_10101_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12474
 translate zh_Hans fem_mc_storyline_10101_835b7e17:
@@ -24838,7 +24838,7 @@ translate zh_Hans fem_mc_storyline_10101_3da71d7c:
 translate zh_Hans fem_mc_storyline_10101_a8d2bb13:
 
     # nvljohn_f "😘"
-    nvljohn_f ""
+    nvljohn_f "😘|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12500
 translate zh_Hans fem_mc_storyline_10101_e3475a43:
@@ -24954,7 +24954,7 @@ translate zh_Hans fem_mc_storyline_10102_7659117d:
 translate zh_Hans fem_mc_storyline_10102_a8d2bb13:
 
     # nvljohn_f "😘"
-    nvljohn_f ""
+    nvljohn_f "😘|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12574
 translate zh_Hans fem_mc_storyline_10102_75d4bf76:
@@ -24984,7 +24984,7 @@ translate zh_Hans fem_mc_storyline_10102_37622b02:
 translate zh_Hans fem_mc_storyline_10102_405d34f1:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_208}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_208}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12590
 translate zh_Hans fem_mc_storyline_10102_d4048324:
@@ -25026,7 +25026,7 @@ translate zh_Hans fem_mc_storyline_10102_4042ca69:
 translate zh_Hans fem_mc_storyline_10102_8eee4c61:
 
     # nvlsalim "{a=show:show_chat_media}{image=w_mc_video_42_ns}"
-    nvlsalim ""
+    nvlsalim "{a=show:show_chat_media}{image=w_mc_video_42_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12608
 translate zh_Hans fem_mc_storyline_10102_14e61a29:
@@ -25264,7 +25264,7 @@ translate zh_Hans fem_mc_storyline_10104_c852c6b5_1:
 translate zh_Hans fem_mc_storyline_10104_0fe1aa3b:
 
     # nvljenna "{a=show:show_chat_media}{image=w_mc_pic_131}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=w_mc_pic_131}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12756
 translate zh_Hans fem_mc_storyline_10104_a73e3142:
@@ -25330,7 +25330,7 @@ translate zh_Hans fem_mc_storyline_10104_b11b70fe:
 translate zh_Hans fem_mc_storyline_10104_3e23ecb4:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_6_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_video_6_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12784
 translate zh_Hans fem_mc_storyline_10104_4afbbdcd:
@@ -25360,7 +25360,7 @@ translate zh_Hans fem_mc_storyline_10104_454a356a:
 translate zh_Hans fem_mc_storyline_10104_dda3c44e:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_7_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_video_7_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12800
 translate zh_Hans fem_mc_storyline_10104_45f45ebc:
@@ -25414,13 +25414,13 @@ translate zh_Hans fem_mc_storyline_10104_613ab85f:
 translate zh_Hans fem_mc_storyline_10104_172a925d:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_8_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_video_8_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12825
 translate zh_Hans fem_mc_storyline_10104_f9fb9c97:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_9_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_video_9_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12830
 translate zh_Hans fem_mc_storyline_10104_bb89932d:
@@ -25462,7 +25462,7 @@ translate zh_Hans fem_mc_storyline_10104_3f645e7d:
 translate zh_Hans fem_mc_storyline_10104_b76abf65:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_video_8_ns}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_video_8_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12848
 translate zh_Hans fem_mc_storyline_10104_2f12e72d:
@@ -25510,7 +25510,7 @@ translate zh_Hans fem_mc_storyline_10104_1943698f:
 translate zh_Hans fem_mc_storyline_10104_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12864
 translate zh_Hans fem_mc_storyline_10104_295fb6c6:
@@ -25982,7 +25982,7 @@ translate zh_Hans fem_mc_storyline_10106_0c01019a:
 translate zh_Hans fem_mc_storyline_10106_d4201f4a:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_163}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_163}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:13114
 translate zh_Hans fem_mc_storyline_10106_f6ea6fd4:
@@ -26164,7 +26164,7 @@ translate zh_Hans fem_mc_storyline_10107_63daf8d6:
 translate zh_Hans fem_mc_storyline_10107_886fd350:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_406_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_406_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:13213
 translate zh_Hans fem_mc_storyline_10107_fb2fd168:
@@ -26924,7 +26924,7 @@ translate zh_Hans fem_mc_storyline_10109_93f0e7b2:
 translate zh_Hans fem_mc_storyline_10109_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:13527
 translate zh_Hans fem_mc_storyline_10109_4f850cee:
@@ -27050,7 +27050,7 @@ translate zh_Hans fem_mc_storyline_10109_26be8960:
 translate zh_Hans fem_mc_storyline_10109_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:13569
 translate zh_Hans fem_mc_storyline_10109_4b19425e:
@@ -27094,7 +27094,7 @@ translate zh_Hans fem_mc_storyline_10110_c3dabfdd:
 translate zh_Hans fem_mc_storyline_10110_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:13614
 translate zh_Hans fem_mc_storyline_10110_db307a84:
@@ -27364,7 +27364,7 @@ translate zh_Hans fem_mc_storyline_10110_7d1ce70b:
 translate zh_Hans fem_mc_storyline_10110_a8d2bb13:
 
     # nvljohn_f "😘"
-    nvljohn_f ""
+    nvljohn_f "😘|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:13716
 translate zh_Hans fem_mc_storyline_10110_53c71d7c:
@@ -28024,7 +28024,7 @@ translate zh_Hans fem_mc_storyline_10113_ddc3610f:
 translate zh_Hans fem_mc_storyline_10113_be52b6df:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_407_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_407_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:14039
 translate zh_Hans fem_mc_storyline_10113_31c27ecb:
@@ -28290,7 +28290,7 @@ translate zh_Hans fem_mc_storyline_10114_91cedd1c:
 translate zh_Hans fem_mc_storyline_10114_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:14160
 translate zh_Hans fem_mc_storyline_10114_a6b8f12e:
@@ -28392,7 +28392,7 @@ translate zh_Hans fem_mc_storyline_10114_e7b74b62:
 translate zh_Hans fem_mc_storyline_10114_1e2f5ea6:
 
     # nvljohn_f "😉"
-    nvljohn_f ""
+    nvljohn_f "😉|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:14194
 translate zh_Hans fem_mc_storyline_10114_1aeeb088:
@@ -28422,7 +28422,7 @@ translate zh_Hans fem_mc_storyline_10114_ad40a914:
 translate zh_Hans fem_mc_storyline_10114_6a062901:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_43_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_video_43_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:14210
 translate zh_Hans fem_mc_storyline_10114_73227fb1:
@@ -28660,7 +28660,7 @@ translate zh_Hans fem_mc_storyline_10116_d91d299e:
 translate zh_Hans fem_mc_storyline_10116_eb379aed:
 
     # nvlraul "{a=show:show_chat_media}{image=dick_pic_21}"
-    nvlraul ""
+    nvlraul "{a=show:show_chat_media}{image=dick_pic_21}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:14356
 translate zh_Hans fem_mc_storyline_10116_9225af50:
@@ -28758,7 +28758,7 @@ translate zh_Hans fem_mc_storyline_10117_24111519:
 translate zh_Hans fem_mc_storyline_10117_e3022ef0:
 
     # nvlraul "{a=show:show_chat_media}{image=w_mc_video_54_ns}"
-    nvlraul ""
+    nvlraul "{a=show:show_chat_media}{image=w_mc_video_54_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:14432
 translate zh_Hans fem_mc_storyline_10117_5e97581e:
@@ -29038,7 +29038,7 @@ translate zh_Hans fem_mc_storyline_10119_7659117d:
 translate zh_Hans fem_mc_storyline_10119_a8d2bb13:
 
     # nvljohn_f "😘"
-    nvljohn_f ""
+    nvljohn_f "😘|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:14600
 translate zh_Hans fem_mc_storyline_10119_d0007430:
@@ -29056,7 +29056,7 @@ translate zh_Hans fem_mc_storyline_10119_4a8334ac:
 translate zh_Hans fem_mc_storyline_10119_d6ebdaa2:
 
     # nvlsalim "{a=show:show_chat_media}{image=w_mc_video_55_ns}"
-    nvlsalim ""
+    nvlsalim "{a=show:show_chat_media}{image=w_mc_video_55_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:14612
 translate zh_Hans fem_mc_storyline_10119_b3e6f143:
@@ -29116,7 +29116,7 @@ translate zh_Hans fem_mc_storyline_10119_1a730dbf:
 translate zh_Hans fem_mc_storyline_10119_574adc19:
 
     # nvlsalim "{a=show:show_chat_media}{image=w_mc_video_56_ns}"
-    nvlsalim ""
+    nvlsalim "{a=show:show_chat_media}{image=w_mc_video_56_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:14638
 translate zh_Hans fem_mc_storyline_10119_fe45afc3:
@@ -29220,7 +29220,7 @@ translate zh_Hans fem_mc_storyline_10120_43768ce9:
 translate zh_Hans fem_mc_storyline_10120_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:14703
 translate zh_Hans fem_mc_storyline_10120_7cb912e7:
@@ -29352,7 +29352,7 @@ translate zh_Hans fem_mc_storyline_10121_76b2fe88:
 translate zh_Hans fem_mc_storyline_10121_50f6e47e:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_44_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_video_44_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:14784
 translate zh_Hans fem_mc_storyline_10121_80779501:
@@ -29508,7 +29508,7 @@ translate zh_Hans fem_mc_storyline_10121_4c73f702:
 translate zh_Hans fem_mc_storyline_10121_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:14836
 translate zh_Hans fem_mc_storyline_10121_c91b622b:
@@ -29606,13 +29606,13 @@ translate zh_Hans fem_mc_storyline_10122_12a3d0d7:
 translate zh_Hans fem_mc_storyline_10122_18501eb6:
 
     # nvlcole "{a=show:show_chat_media}{image=w_mc_video_29_ns}"
-    nvlcole ""
+    nvlcole "{a=show:show_chat_media}{image=w_mc_video_29_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:14905
 translate zh_Hans fem_mc_storyline_10122_9fb825e3:
 
     # nvlcole "{a=show:show_chat_media}{image=w_mc_video_50_ns}"
-    nvlcole ""
+    nvlcole "{a=show:show_chat_media}{image=w_mc_video_50_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:14907
 translate zh_Hans fem_mc_storyline_10122_40518271:
@@ -29708,7 +29708,7 @@ translate zh_Hans fem_mc_storyline_10122_31094f0f:
 translate zh_Hans fem_mc_storyline_10122_0a51f48f:
 
     # nvlcole "😊"
-    nvlcole ""
+    nvlcole "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:14939
 translate zh_Hans fem_mc_storyline_10122_cff00681:
@@ -30756,7 +30756,7 @@ translate zh_Hans fem_mc_storyline_10127_2ad243ef:
 translate zh_Hans fem_mc_storyline_10127_4be9e7b0:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_video_57_ns}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_video_57_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:15508
 translate zh_Hans fem_mc_storyline_10127_f5d689c7:
@@ -30834,7 +30834,7 @@ translate zh_Hans fem_mc_storyline_10127_885d03d2:
 translate zh_Hans fem_mc_storyline_10127_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:15534
 translate zh_Hans fem_mc_storyline_10127_0e674a6c:
@@ -31516,7 +31516,7 @@ translate zh_Hans fem_mc_storyline_10132_246866f2:
 translate zh_Hans fem_mc_storyline_10132_92925d2b:
 
     # nvlsalim "{a=show:show_chat_media}{image=w_mc_video_58_ns}"
-    nvlsalim ""
+    nvlsalim "{a=show:show_chat_media}{image=w_mc_video_58_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:15933
 translate zh_Hans fem_mc_storyline_10132_f708a1b7:
@@ -31576,7 +31576,7 @@ translate zh_Hans fem_mc_storyline_10132_34223e0c:
 translate zh_Hans fem_mc_storyline_10132_a686776f:
 
     # nvlsalim "😊"
-    nvlsalim ""
+    nvlsalim "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:15953
 translate zh_Hans fem_mc_storyline_10132_bb64b2f1:
@@ -31690,7 +31690,7 @@ translate zh_Hans fem_mc_storyline_10132_d62d90f9:
 translate zh_Hans fem_mc_storyline_10132_a8d2bb13:
 
     # nvljohn_f "😘"
-    nvljohn_f ""
+    nvljohn_f "😘|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:15991
 translate zh_Hans fem_mc_storyline_10132_301dafe7:
@@ -32300,7 +32300,7 @@ translate zh_Hans fem_mc_storyline_10134_5465c101:
 translate zh_Hans fem_mc_storyline_10134_51d7be89:
 
     # nvlabella "{a=show:show_chat_media}{image=abella_pic_25}"
-    nvlabella ""
+    nvlabella "{a=show:show_chat_media}{image=abella_pic_25}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:16276
 translate zh_Hans fem_mc_storyline_10134_9bd733a3:
@@ -32312,7 +32312,7 @@ translate zh_Hans fem_mc_storyline_10134_9bd733a3:
 translate zh_Hans fem_mc_storyline_10134_43b9b18b:
 
     # nvlabella "{a=show:show_chat_media}{image=abella_pic_26}"
-    nvlabella ""
+    nvlabella "{a=show:show_chat_media}{image=abella_pic_26}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:16284
 translate zh_Hans fem_mc_storyline_10134_f3b6b36e:
@@ -32492,7 +32492,7 @@ translate zh_Hans fem_mc_storyline_10134_3ef122b3:
 translate zh_Hans fem_mc_storyline_10134_ee1e5600:
 
     # nvlasa "{a=show:show_chat_media}{image=asa_pic_6}"
-    nvlasa ""
+    nvlasa "{a=show:show_chat_media}{image=asa_pic_6}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:16348
 translate zh_Hans fem_mc_storyline_10134_fce9db4f:
@@ -32914,7 +32914,7 @@ translate zh_Hans fem_mc_storyline_10135_492036c9:
 translate zh_Hans fem_mc_storyline_10135_a8d2bb13:
 
     # nvljohn_f "😘"
-    nvljohn_f ""
+    nvljohn_f "😘|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:16521
 translate zh_Hans fem_mc_storyline_10135_17ce9906:
@@ -33448,7 +33448,7 @@ translate zh_Hans fem_mc_storyline_10138_ab074c36:
 translate zh_Hans fem_mc_storyline_10138_ada6a72b:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_408_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_408_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:16800
 translate zh_Hans fem_mc_storyline_10138_033ac9af:
@@ -33496,7 +33496,7 @@ translate zh_Hans fem_mc_storyline_10138_39e8b0f3:
 translate zh_Hans fem_mc_storyline_10138_136f7540:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_907}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_907}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:16822
 translate zh_Hans fem_mc_storyline_10138_8039f71d:
@@ -34116,7 +34116,7 @@ translate zh_Hans fem_mc_storyline_10142_5f707a9a:
 translate zh_Hans fem_mc_storyline_10142_a8d2bb13:
 
     # nvljohn_f "😘"
-    nvljohn_f ""
+    nvljohn_f "😘|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:17186
 translate zh_Hans fem_mc_storyline_10142_53c71d7c:
@@ -34134,7 +34134,7 @@ translate zh_Hans fem_mc_storyline_10143_76b2fe88:
 translate zh_Hans fem_mc_storyline_10143_2edaa1fd:
 
     # nvlmaxwell "{a=show:show_chat_media}{image=w_mc_video_59_ns}"
-    nvlmaxwell ""
+    nvlmaxwell "{a=show:show_chat_media}{image=w_mc_video_59_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:17215
 translate zh_Hans fem_mc_storyline_10143_3eb5d985:
@@ -34170,7 +34170,7 @@ translate zh_Hans fem_mc_storyline_10143_6cf1557e:
 translate zh_Hans fem_mc_storyline_10143_0b5c8a89:
 
     # nvlmaxwell "{a=show:show_chat_media}{image=w_mc_video_60_ns}"
-    nvlmaxwell ""
+    nvlmaxwell "{a=show:show_chat_media}{image=w_mc_video_60_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:17233
 translate zh_Hans fem_mc_storyline_10143_948bc29d:
@@ -34188,7 +34188,7 @@ translate zh_Hans fem_mc_storyline_10143_ef0b1159:
 translate zh_Hans fem_mc_storyline_10143_b14b70cf:
 
     # nvlmaxwell "{a=show:show_chat_media}{image=wife_video_409_ns}"
-    nvlmaxwell ""
+    nvlmaxwell "{a=show:show_chat_media}{image=wife_video_409_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:17245
 translate zh_Hans fem_mc_storyline_10143_fa430490:
@@ -34290,7 +34290,7 @@ translate zh_Hans fem_mc_storyline_10143_9f13bca5:
 translate zh_Hans fem_mc_storyline_10143_11169576:
 
     # nvlmaxwell "{a=show:show_chat_media}{image=w_mc_pic_209}"
-    nvlmaxwell ""
+    nvlmaxwell "{a=show:show_chat_media}{image=w_mc_pic_209}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:17285
 translate zh_Hans fem_mc_storyline_10143_390cfd13:
@@ -34358,7 +34358,7 @@ translate zh_Hans fem_mc_storyline_10144_c90125a8:
 translate zh_Hans fem_mc_storyline_10144_10befb9c:
 
     # nvlwife "😊"
-    nvlwife ""
+    nvlwife "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:17340
 translate zh_Hans fem_mc_storyline_10144_72c2cc57:
@@ -34752,13 +34752,13 @@ translate zh_Hans fem_mc_storyline_10146_e851bc10:
 translate zh_Hans fem_mc_storyline_10146_a8d2bb13:
 
     # nvljohn_f "😘"
-    nvljohn_f ""
+    nvljohn_f "😘|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:17557
 translate zh_Hans fem_mc_storyline_10146_18534e15:
 
     # nvlgeorge "😘"
-    nvlgeorge ""
+    nvlgeorge "😘|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:17559
 translate zh_Hans fem_mc_storyline_10146_afb93455:
@@ -35002,7 +35002,7 @@ translate zh_Hans fem_mc_storyline_10148_c7919061:
 translate zh_Hans fem_mc_storyline_10148_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:17708
 translate zh_Hans fem_mc_storyline_10148_c0892b2b:
@@ -35044,7 +35044,7 @@ translate zh_Hans fem_mc_storyline_10148_424cfd12:
 translate zh_Hans fem_mc_storyline_10148_a8d2bb13:
 
     # nvljohn_f "😘"
-    nvljohn_f ""
+    nvljohn_f "😘|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:17745
 translate zh_Hans fem_mc_storyline_10148_53c71d7c:
@@ -35106,7 +35106,7 @@ translate zh_Hans fem_mc_storyline_10149_45b6a5f8:
 translate zh_Hans fem_mc_storyline_10149_42c28b36:
 
     # nvlsalim "{a=show:show_chat_media}{image=w_mc_video_61_ns}"
-    nvlsalim ""
+    nvlsalim "{a=show:show_chat_media}{image=w_mc_video_61_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:17790
 translate zh_Hans fem_mc_storyline_10149_137ce51f:
@@ -35148,13 +35148,13 @@ translate zh_Hans fem_mc_storyline_10149_85dedc8e:
 translate zh_Hans fem_mc_storyline_10149_a686776f:
 
     # nvlsalim "😊"
-    nvlsalim ""
+    nvlsalim "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:17808
 translate zh_Hans fem_mc_storyline_10149_57eb1026:
 
     # nvlsalim "{a=show:show_chat_media}{image=w_mc_video_62_ns}"
-    nvlsalim ""
+    nvlsalim "{a=show:show_chat_media}{image=w_mc_video_62_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:17812
 translate zh_Hans fem_mc_storyline_10149_66f5cc13:
@@ -35336,7 +35336,7 @@ translate zh_Hans fem_mc_storyline_10150_fc1f0576:
 translate zh_Hans fem_mc_storyline_10150_caeffbf8:
 
     # nvlgeorge "{a=show:show_chat_media}{image=w_mc_video_63_ns}"
-    nvlgeorge ""
+    nvlgeorge "{a=show:show_chat_media}{image=w_mc_video_63_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:17909
 translate zh_Hans fem_mc_storyline_10150_fc9b4109:
@@ -35348,7 +35348,7 @@ translate zh_Hans fem_mc_storyline_10150_fc9b4109:
 translate zh_Hans fem_mc_storyline_10150_1e2f5ea6:
 
     # nvljohn_f "😉"
-    nvljohn_f ""
+    nvljohn_f "😉|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:17913
 translate zh_Hans fem_mc_storyline_10150_1a94b489:
@@ -35474,7 +35474,7 @@ translate zh_Hans fem_mc_storyline_10150_73a84889:
 translate zh_Hans fem_mc_storyline_10150_c86a68df:
 
     # nvlgeorge "😊"
-    nvlgeorge ""
+    nvlgeorge "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:17955
 translate zh_Hans fem_mc_storyline_10150_7c3ff2a2:
@@ -35522,7 +35522,7 @@ translate zh_Hans fem_mc_storyline_10150_4dd05083:
 translate zh_Hans fem_mc_storyline_10150_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:17971
 translate zh_Hans fem_mc_storyline_10150_cf9d2a90:
@@ -35766,7 +35766,7 @@ translate zh_Hans fem_mc_storyline_10152_7121d635:
 translate zh_Hans fem_mc_storyline_10152_13221ac8:
 
     # nvlalbert "{a=show:show_chat_media}{image=w_mc_video_64_ns}"
-    nvlalbert ""
+    nvlalbert "{a=show:show_chat_media}{image=w_mc_video_64_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:18123
 translate zh_Hans fem_mc_storyline_10152_c6a69a8f:
@@ -36112,7 +36112,7 @@ translate zh_Hans fem_mc_storyline_10154_a67dbaad:
 translate zh_Hans fem_mc_storyline_10154_fd408538:
 
     # nvljohn_f "😊"
-    nvljohn_f ""
+    nvljohn_f "😊|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:18316
 translate zh_Hans fem_mc_storyline_10154_7b03efda:
@@ -36238,7 +36238,7 @@ translate zh_Hans fem_mc_storyline_10154_1c41065d:
 translate zh_Hans fem_mc_storyline_10154_a9e6e01a:
 
     # nvljenna "😘"
-    nvljenna ""
+    nvljenna "😘|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:18358
 translate zh_Hans fem_mc_storyline_10154_d54858b6:
@@ -36286,7 +36286,7 @@ translate zh_Hans fem_mc_storyline_10154_7f64af67:
 translate zh_Hans fem_mc_storyline_10154_1e2f5ea6:
 
     # nvljohn_f "😉"
-    nvljohn_f ""
+    nvljohn_f "😉|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:18388
 translate zh_Hans fem_mc_storyline_10154_53c71d7c:
@@ -36324,7 +36324,7 @@ translate zh_Hans fem_mc_storyline_10155_7f5396d1:
 translate zh_Hans fem_mc_storyline_10155_8c6a97e1:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_132_3}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_132_3}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:18425
 translate zh_Hans fem_mc_storyline_10155_5ecd73cc:
@@ -36458,7 +36458,7 @@ translate zh_Hans fem_mc_storyline_10156_dbf4eec8:
 translate zh_Hans fem_mc_storyline_10156_eacab97b:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_45_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_video_45_ns}"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:18508
 translate zh_Hans fem_mc_storyline_10156_acdb3797:
@@ -36548,7 +36548,7 @@ translate zh_Hans fem_mc_storyline_10156_ad8d7fcc:
 translate zh_Hans fem_mc_storyline_10156_a9e6e01a:
 
     # nvljenna "😘"
-    nvljenna ""
+    nvljenna "😘|"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:18548
 translate zh_Hans fem_mc_storyline_10156_53c71d7c:

@@ -760,7 +760,7 @@ translate zh_Hans son_ahat_storyline_13_2b16c870:
 translate zh_Hans son_ahat_storyline_13_8c48867a:
 
     # nvljenna "{a=show:show_chat_media}{image=blowjob_pic_5}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=blowjob_pic_5}"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:351
 translate zh_Hans son_ahat_storyline_13_09174af9:
@@ -784,7 +784,7 @@ translate zh_Hans son_ahat_storyline_13_0cc598e4:
 translate zh_Hans son_ahat_storyline_13_14ba7a53:
 
     # nvljenna "{a=show:show_chat_media}{image=blowjob_pic_6}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=blowjob_pic_6}"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:363
 translate zh_Hans son_ahat_storyline_13_5f3a95a6:
@@ -1698,7 +1698,7 @@ translate zh_Hans son_ahat_storyline_17_ce13745f:
 translate zh_Hans son_ahat_storyline_17_2f55e220:
 
     # nvlunknown "{a=show:show_chat_media}{image=mikky_video_17_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=mikky_video_17_ns}"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:786
 translate zh_Hans son_ahat_storyline_17_60bb5741_1:
@@ -3020,7 +3020,7 @@ translate zh_Hans son_ahat_storyline_21_e642e31b:
 translate zh_Hans son_ahat_storyline_21_1969b31a:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_12_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_video_12_ns}"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:1347
 translate zh_Hans son_ahat_storyline_21_aca1a864:
@@ -3352,7 +3352,7 @@ translate zh_Hans son_ahat_storyline_22_2e614c66:
 translate zh_Hans son_ahat_storyline_22_697f6ba1:
 
     # nvlahat "{a=show:show_chat_media}{image=bbc_pic_117}"
-    nvlahat ""
+    nvlahat "{a=show:show_chat_media}{image=bbc_pic_117}"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:1491
 translate zh_Hans son_ahat_storyline_22_7c67ff6f:
@@ -3594,7 +3594,7 @@ translate zh_Hans son_ahat_storyline_23_2b6b45e5:
 translate zh_Hans son_ahat_storyline_23_ed369806:
 
     # nvlahat "{a=show:show_chat_media}{image=bbc_pic_118}"
-    nvlahat ""
+    nvlahat "{a=show:show_chat_media}{image=bbc_pic_118}"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:1605
 translate zh_Hans son_ahat_storyline_23_98667e48:
@@ -3722,7 +3722,7 @@ translate zh_Hans son_ahat_storyline_24_14698399:
 translate zh_Hans son_ahat_storyline_24_fe694bde:
 
     # nvlahat "{a=show:show_chat_media}{image=mikky_video_18_ns}"
-    nvlahat ""
+    nvlahat "{a=show:show_chat_media}{image=mikky_video_18_ns}"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:1681
 translate zh_Hans son_ahat_storyline_24_3615a7c9:
@@ -4246,7 +4246,7 @@ translate zh_Hans son_ahat_storyline_25_81c42c3e:
 translate zh_Hans son_ahat_storyline_25_4b0df9f7:
 
     # nvlahat "{a=show:show_chat_media}{image=bbc_pic_119}"
-    nvlahat ""
+    nvlahat "{a=show:show_chat_media}{image=bbc_pic_119}"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:1888
 translate zh_Hans son_ahat_storyline_25_c3171c49:

@@ -132,7 +132,7 @@ translate zh_Hans wife_fuckstagram_storyline_0_4b751fbb:
 translate zh_Hans wife_fuckstagram_storyline_0_ec565452:
 
     # nvlwife "{a=show:show_chat_media}{image=dick_pic_18}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=dick_pic_18}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:106
 translate zh_Hans wife_fuckstagram_storyline_0_461e17f9:
@@ -150,19 +150,19 @@ translate zh_Hans wife_fuckstagram_storyline_0_a6edaf2b_1:
 translate zh_Hans wife_fuckstagram_storyline_0_25b4261a:
 
     # nvlwife "{a=show:show_chat_media}{image=dick_pic_16}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=dick_pic_16}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:118
 translate zh_Hans wife_fuckstagram_storyline_0_0a66706f:
 
     # nvlwife "{a=show:show_chat_media}{image=bbc_pic_8}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=bbc_pic_8}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:124
 translate zh_Hans wife_fuckstagram_storyline_0_2868f47d:
 
     # nvlwife "{a=show:show_chat_media}{image=bbc_pic_21}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=bbc_pic_21}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:128
 translate zh_Hans wife_fuckstagram_storyline_0_3071d1d9:
@@ -204,7 +204,7 @@ translate zh_Hans wife_fuckstagram_storyline_0_c479715e:
 translate zh_Hans wife_fuckstagram_storyline_0_2e99b8af:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_310}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_310}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:146
 translate zh_Hans wife_fuckstagram_storyline_0_8bbe0104:
@@ -222,7 +222,7 @@ translate zh_Hans wife_fuckstagram_storyline_0_860b4474_1:
 translate zh_Hans wife_fuckstagram_storyline_0_86039862:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_311}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_311}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:156
 translate zh_Hans wife_fuckstagram_storyline_0_9eb8e3fe:
@@ -240,13 +240,13 @@ translate zh_Hans wife_fuckstagram_storyline_0_99ed34df:
 translate zh_Hans wife_fuckstagram_storyline_0_13bb167e:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_315}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_315}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:168
 translate zh_Hans wife_fuckstagram_storyline_0_9efd7518:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_316}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_316}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:172
 translate zh_Hans wife_fuckstagram_storyline_0_60781078:
@@ -728,7 +728,7 @@ translate zh_Hans wife_fuckstagram_storyline_1_4decdf31:
 translate zh_Hans wife_fuckstagram_storyline_1_a6eec281:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_792}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_792}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:392
 translate zh_Hans wife_fuckstagram_storyline_1_5ae631e2:
@@ -1988,7 +1988,7 @@ translate zh_Hans wife_fuckstagram_storyline_4_5df4761c:
 translate zh_Hans wife_fuckstagram_storyline_4_4586ed86:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_793}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_793}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:939
 translate zh_Hans wife_fuckstagram_storyline_4_e4cce94e:
@@ -4078,7 +4078,7 @@ translate zh_Hans wife_fuckstagram_storyline_11_a5231280:
 translate zh_Hans wife_fuckstagram_storyline_11_4d2ecc10:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_713}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_713}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:1936
 translate zh_Hans wife_fuckstagram_storyline_11_ce85bebb:
@@ -5112,7 +5112,7 @@ translate zh_Hans wife_fuckstagram_storyline_15_dc8a3a2e:
 translate zh_Hans wife_fuckstagram_storyline_15_e85c7ed9:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_795}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_795}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:2428
 translate zh_Hans wife_fuckstagram_storyline_15_acacc449:
@@ -5124,7 +5124,7 @@ translate zh_Hans wife_fuckstagram_storyline_15_acacc449:
 translate zh_Hans wife_fuckstagram_storyline_15_d0743a64:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_796}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_796}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:2436
 translate zh_Hans wife_fuckstagram_storyline_15_743e682d:
@@ -5462,7 +5462,7 @@ translate zh_Hans wife_fuckstagram_storyline_16_a63a836b:
 translate zh_Hans wife_fuckstagram_storyline_16_49089cd4:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_709}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_709}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:2587
 translate zh_Hans wife_fuckstagram_storyline_16_95110ee8:
@@ -5522,7 +5522,7 @@ translate zh_Hans wife_fuckstagram_storyline_16_6753637a:
 translate zh_Hans wife_fuckstagram_storyline_16_d42a145c:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_719}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_719}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:2611
 translate zh_Hans wife_fuckstagram_storyline_16_30b0f392:
@@ -5618,7 +5618,7 @@ translate zh_Hans wife_fuckstagram_storyline_16_d91c0ad1:
 translate zh_Hans wife_fuckstagram_storyline_16_8b87a790:
 
     # nvlmike2 "{a=show:show_chat_media}{image=bbc_pic_270}"
-    nvlmike2 ""
+    nvlmike2 "{a=show:show_chat_media}{image=bbc_pic_270}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:2651
 translate zh_Hans wife_fuckstagram_storyline_16_1f3ea1a9:
@@ -6250,7 +6250,7 @@ translate zh_Hans wife_fuckstagram_storyline_17_70ee0a7e:
 translate zh_Hans wife_fuckstagram_storyline_17_0ff8a05f:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_797}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_797}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:2901
 translate zh_Hans wife_fuckstagram_storyline_17_e09bb8e2:
@@ -6768,7 +6768,7 @@ translate zh_Hans wife_fuckstagram_storyline_18_2ec9bc1d:
 translate zh_Hans wife_fuckstagram_storyline_18_62e5298e:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_798}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_798}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:3112
 translate zh_Hans wife_fuckstagram_storyline_18_3f4c114a:
@@ -7286,7 +7286,7 @@ translate zh_Hans wife_fuckstagram_storyline_19_1df9aee1:
 translate zh_Hans wife_fuckstagram_storyline_19_564618ea:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_641}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_641}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:3328
 translate zh_Hans wife_fuckstagram_storyline_19_dd847a4b:
@@ -7352,7 +7352,7 @@ translate zh_Hans wife_fuckstagram_storyline_19_c8d9cb73:
 translate zh_Hans wife_fuckstagram_storyline_19_c21cebe5:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_642}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_642}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:3354
 translate zh_Hans wife_fuckstagram_storyline_19_cccfe72e:
@@ -7778,7 +7778,7 @@ translate zh_Hans wife_fuckstagram_storyline_19_778e0db2:
 translate zh_Hans wife_fuckstagram_storyline_19_7d98fa48:
 
     # nvlmike2 "{a=show:show_chat_media}{image=bbc_pic_271}"
-    nvlmike2 ""
+    nvlmike2 "{a=show:show_chat_media}{image=bbc_pic_271}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:3507
 translate zh_Hans wife_fuckstagram_storyline_19_b6b15163:
@@ -7856,7 +7856,7 @@ translate zh_Hans wife_fuckstagram_storyline_19_9179ebb0:
 translate zh_Hans wife_fuckstagram_storyline_19_1ce6ad77:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_221}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_221}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:3537
 translate zh_Hans wife_fuckstagram_storyline_19_c3605d77:
@@ -8544,7 +8544,7 @@ translate zh_Hans wife_fuckstagram_storyline_21_495aa72f:
 translate zh_Hans wife_fuckstagram_storyline_21_fed29b8a:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_353}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_353}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:3841
 translate zh_Hans wife_fuckstagram_storyline_21_1b2eb8d1:
@@ -8840,7 +8840,7 @@ translate zh_Hans wife_fuckstagram_storyline_22_07f4c457:
 translate zh_Hans wife_fuckstagram_storyline_22_163d65c8:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_323}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_323}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:3983
 translate zh_Hans wife_fuckstagram_storyline_22_7ec3e2e3:
@@ -8858,7 +8858,7 @@ translate zh_Hans wife_fuckstagram_storyline_22_aa7a8f6a:
 translate zh_Hans wife_fuckstagram_storyline_22_326a8f66:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_322}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_322}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:3993
 translate zh_Hans wife_fuckstagram_storyline_22_a54dceaf:
@@ -8876,7 +8876,7 @@ translate zh_Hans wife_fuckstagram_storyline_22_0a57a7e1:
 translate zh_Hans wife_fuckstagram_storyline_22_4090e1aa:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_435}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_435}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:4003
 translate zh_Hans wife_fuckstagram_storyline_22_6a84f5c5:
@@ -8900,7 +8900,7 @@ translate zh_Hans wife_fuckstagram_storyline_22_7ec3e2e3_1:
 translate zh_Hans wife_fuckstagram_storyline_22_d698c821:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_442}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_442}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:4015
 translate zh_Hans wife_fuckstagram_storyline_22_7020ec3c:
@@ -9208,7 +9208,7 @@ translate zh_Hans wife_fuckstagram_storyline_23_9a841067:
 translate zh_Hans wife_fuckstagram_storyline_23_444f85c4:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_445}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_445}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:4156
 translate zh_Hans wife_fuckstagram_storyline_23_d73a7597:
@@ -9360,7 +9360,7 @@ translate zh_Hans wife_fuckstagram_storyline_24_26475575:
 translate zh_Hans wife_fuckstagram_storyline_24_c260e4d8:
 
     # nvlniko "{a=show:show_chat_media}{image=dick_pic_5}"
-    nvlniko ""
+    nvlniko "{a=show:show_chat_media}{image=dick_pic_5}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:4245
 translate zh_Hans wife_fuckstagram_storyline_24_619b5736:
@@ -9408,7 +9408,7 @@ translate zh_Hans wife_fuckstagram_storyline_24_e649f8a0:
 translate zh_Hans wife_fuckstagram_storyline_24_50245953:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_58}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_58}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:4265
 translate zh_Hans wife_fuckstagram_storyline_24_c3605d77:
@@ -9438,7 +9438,7 @@ translate zh_Hans wife_fuckstagram_storyline_24_5208437a:
 translate zh_Hans wife_fuckstagram_storyline_24_7611dda5:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_60}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_60}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:4279
 translate zh_Hans wife_fuckstagram_storyline_24_d6db99a8:
@@ -9618,7 +9618,7 @@ translate zh_Hans wife_fuckstagram_storyline_24_c59011b1:
 translate zh_Hans wife_fuckstagram_storyline_24_82f5d8b8:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_83}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_83}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:4343
 translate zh_Hans wife_fuckstagram_storyline_24_2e897b01:
@@ -10008,7 +10008,7 @@ translate zh_Hans wife_fuckstagram_storyline_24_63ce471e:
 translate zh_Hans wife_fuckstagram_storyline_24_fc0b3512:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_90}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_90}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:4477
 translate zh_Hans wife_fuckstagram_storyline_24_3ebfc39a:
@@ -10286,7 +10286,7 @@ translate zh_Hans wife_fuckstagram_storyline_25_aff00f2f:
 translate zh_Hans wife_fuckstagram_storyline_25_2f5a99be:
 
     # nvlbarsik "{a=show:show_chat_media}{image=bbc_pic_272}"
-    nvlbarsik ""
+    nvlbarsik "{a=show:show_chat_media}{image=bbc_pic_272}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:4634
 translate zh_Hans wife_fuckstagram_storyline_25_d97eb7d7:
@@ -10748,7 +10748,7 @@ translate zh_Hans wife_fuckstagram_storyline_25_b885b3d9:
 translate zh_Hans wife_fuckstagram_storyline_25_339a0701:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_799}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_799}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:4807
 translate zh_Hans wife_fuckstagram_storyline_25_9240ba0f:
@@ -11002,7 +11002,7 @@ translate zh_Hans wife_fuckstagram_storyline_26_a5bedfac:
 translate zh_Hans wife_fuckstagram_storyline_26_3f2938c7:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_236_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_236_ns}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:4928
 translate zh_Hans wife_fuckstagram_storyline_26_a6edaf2b:
@@ -11226,7 +11226,7 @@ translate zh_Hans wife_fuckstagram_storyline_27_69276e73:
 translate zh_Hans wife_fuckstagram_storyline_27_1841e4e7:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_335}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_335}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:5041
 translate zh_Hans wife_fuckstagram_storyline_27_c83ad650:
@@ -11762,7 +11762,7 @@ translate zh_Hans wife_fuckstagram_storyline_28_d2c53324:
 translate zh_Hans wife_fuckstagram_storyline_28_d6c4d8a2:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_357}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_357}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:5257
 translate zh_Hans wife_fuckstagram_storyline_28_fe096102:
@@ -11962,7 +11962,7 @@ translate zh_Hans wife_fuckstagram_storyline_29_b6710a09:
 translate zh_Hans wife_fuckstagram_storyline_29_30ce9992:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_237_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_237_ns}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:5360
 translate zh_Hans wife_fuckstagram_storyline_29_4e365a39:
@@ -13712,7 +13712,7 @@ translate zh_Hans wife_fuckstagram_storyline_31_bfc823df:
 translate zh_Hans wife_fuckstagram_storyline_31_0ceae350:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_462}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_462}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:6045
 translate zh_Hans wife_fuckstagram_storyline_31_3bc4a2a1:
@@ -13730,7 +13730,7 @@ translate zh_Hans wife_fuckstagram_storyline_31_5ee42537:
 translate zh_Hans wife_fuckstagram_storyline_31_b36d4561:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_463}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_463}"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:6055
 translate zh_Hans wife_fuckstagram_storyline_31_dc38ae07:

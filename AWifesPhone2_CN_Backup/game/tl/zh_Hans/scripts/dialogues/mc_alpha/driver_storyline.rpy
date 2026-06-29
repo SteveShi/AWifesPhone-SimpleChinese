@@ -1208,7 +1208,7 @@ translate zh_Hans driver_storyline_10_a1931681:
 translate zh_Hans driver_storyline_10_81e30ed6:
 
     # nvlkaia "{a=show:show_chat_media}{image=driver_pic_1}"
-    nvlkaia ""
+    nvlkaia "{a=show:show_chat_media}{image=driver_pic_1}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:774
 translate zh_Hans driver_storyline_10_288dd768:
@@ -1390,7 +1390,7 @@ translate zh_Hans driver_storyline_11_8c470fe8:
 translate zh_Hans driver_storyline_11_d887213d:
 
     # nvlkaia "{a=show:show_chat_media}{image=driver_pic_2}"
-    nvlkaia ""
+    nvlkaia "{a=show:show_chat_media}{image=driver_pic_2}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:913
 translate zh_Hans driver_storyline_11_ae5c1282:
@@ -1772,7 +1772,7 @@ translate zh_Hans driver_storyline_13_9b6a9ddd:
 translate zh_Hans driver_storyline_13_4e4d6295:
 
     # nvlunknown "{a=show:show_chat_media}{image=driver_video_1_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=driver_video_1_ns}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1111
 translate zh_Hans driver_storyline_13_f612f736:
@@ -1796,7 +1796,7 @@ translate zh_Hans driver_storyline_13_c779b304:
 translate zh_Hans driver_storyline_13_142bbe2d:
 
     # nvlunknown "{a=show:show_chat_media}{image=driver_video_2_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=driver_video_2_ns}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1123
 translate zh_Hans driver_storyline_13_1751e569:
@@ -1868,7 +1868,7 @@ translate zh_Hans driver_storyline_13_66c2e585:
 translate zh_Hans driver_storyline_13_4e4d6295_1:
 
     # nvlunknown "{a=show:show_chat_media}{image=driver_video_1_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=driver_video_1_ns}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1154
 translate zh_Hans driver_storyline_13_dc6a261a:
@@ -1892,7 +1892,7 @@ translate zh_Hans driver_storyline_13_c779b304_1:
 translate zh_Hans driver_storyline_13_142bbe2d_1:
 
     # nvlunknown "{a=show:show_chat_media}{image=driver_video_2_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=driver_video_2_ns}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1166
 translate zh_Hans driver_storyline_13_ae8b3320:
@@ -2412,7 +2412,7 @@ translate zh_Hans driver_storyline_15_f932cf0d:
 translate zh_Hans driver_storyline_15_3e99142d:
 
     # nvljohn "{a=show:show_chat_media}{image=mc_pic_72}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=mc_pic_72}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1455
 translate zh_Hans driver_storyline_15_85eac29b:
@@ -3284,7 +3284,7 @@ translate zh_Hans driver_storyline_22_ec041f73:
 translate zh_Hans driver_storyline_22_ea82ba59:
 
     # nvlalisha "{a=show:show_chat_media}{image=driver_pic_5}"
-    nvlalisha ""
+    nvlalisha "{a=show:show_chat_media}{image=driver_pic_5}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:2024
 translate zh_Hans driver_storyline_22_a7b5d958:
@@ -3344,7 +3344,7 @@ translate zh_Hans driver_storyline_22_b40f431a:
 translate zh_Hans driver_storyline_22_f0ac52d5:
 
     # nvljohn "{a=show:show_chat_media}{image=driver_pic_6}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=driver_pic_6}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:2048
 translate zh_Hans driver_storyline_22_9af28ca9:
@@ -3368,7 +3368,7 @@ translate zh_Hans driver_storyline_22_7874d76c:
 translate zh_Hans driver_storyline_22_a559f525:
 
     # nvljohn "{a=show:show_chat_media}{image=driver_pic_7}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=driver_pic_7}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:2060
 translate zh_Hans driver_storyline_22_c73af44a:
@@ -3854,7 +3854,7 @@ translate zh_Hans driver_storyline_25_6bc9ac4e:
 translate zh_Hans driver_storyline_25_32365eeb:
 
     # nvlunknown "{a=show:show_chat_media}{image=driver_video_4_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=driver_video_4_ns}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:2337
 translate zh_Hans driver_storyline_25_7cb61296:
@@ -3902,7 +3902,7 @@ translate zh_Hans driver_storyline_25_5ffa81c3:
 translate zh_Hans driver_storyline_25_32365eeb_1:
 
     # nvlunknown "{a=show:show_chat_media}{image=driver_video_4_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=driver_video_4_ns}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:2359
 translate zh_Hans driver_storyline_25_35d1abfc:
@@ -5162,7 +5162,7 @@ translate zh_Hans driver_storyline_34_c4ba21d5:
 translate zh_Hans driver_storyline_34_27a6ddc0:
 
     # nvlkaia "{a=show:show_chat_media}{image=driver_video_5_ns}"
-    nvlkaia ""
+    nvlkaia "{a=show:show_chat_media}{image=driver_video_5_ns}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3130
 translate zh_Hans driver_storyline_34_7f36deae:
@@ -5222,7 +5222,7 @@ translate zh_Hans driver_storyline_34_ddcbfb82:
 translate zh_Hans driver_storyline_34_f6ad9d9b:
 
     # nvlkaia "{a=show:show_chat_media}{image=driver_video_6_ns}"
-    nvlkaia ""
+    nvlkaia "{a=show:show_chat_media}{image=driver_video_6_ns}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3154
 translate zh_Hans driver_storyline_34_1646da90:
@@ -5270,7 +5270,7 @@ translate zh_Hans driver_storyline_34_b6d194fe:
 translate zh_Hans driver_storyline_34_35717ce4:
 
     # nvljohn "{a=show:show_chat_media}{image=mc_pic_62}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=mc_pic_62}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3174
 translate zh_Hans driver_storyline_34_3c25133e:
@@ -5408,7 +5408,7 @@ translate zh_Hans driver_storyline_35_76b2fe88:
 translate zh_Hans driver_storyline_35_52faae3a:
 
     # nvllalisa "{a=show:show_chat_media}{image=driver_pic_8}"
-    nvllalisa ""
+    nvllalisa "{a=show:show_chat_media}{image=driver_pic_8}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3255
 translate zh_Hans driver_storyline_35_6b7cc83a:
@@ -5552,7 +5552,7 @@ translate zh_Hans driver_storyline_36_76b2fe88:
 translate zh_Hans driver_storyline_36_458d3254:
 
     # nvllalisa "{a=show:show_chat_media}{image=driver_pic_9}"
-    nvllalisa ""
+    nvllalisa "{a=show:show_chat_media}{image=driver_pic_9}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3338
 translate zh_Hans driver_storyline_36_ce1017f6:
@@ -5588,13 +5588,13 @@ translate zh_Hans driver_storyline_36_b7ebd518:
 translate zh_Hans driver_storyline_36_dd6a9be0:
 
     # nvllalisa "{a=show:show_chat_media}{image=driver_pic_10}"
-    nvllalisa ""
+    nvllalisa "{a=show:show_chat_media}{image=driver_pic_10}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3356
 translate zh_Hans driver_storyline_36_a7ba611d:
 
     # nvllalisa "{a=show:show_chat_media}{image=driver_pic_11}"
-    nvllalisa ""
+    nvllalisa "{a=show:show_chat_media}{image=driver_pic_11}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3360
 translate zh_Hans driver_storyline_36_1419cc17:
@@ -5618,19 +5618,19 @@ translate zh_Hans driver_storyline_36_59757f4f:
 translate zh_Hans driver_storyline_36_2b16fbe0:
 
     # nvllalisa "{a=show:show_chat_media}{image=driver_pic_12}"
-    nvllalisa ""
+    nvllalisa "{a=show:show_chat_media}{image=driver_pic_12}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3374
 translate zh_Hans driver_storyline_36_b94c8b2c:
 
     # nvllalisa "{a=show:show_chat_media}{image=driver_pic_13}"
-    nvllalisa ""
+    nvllalisa "{a=show:show_chat_media}{image=driver_pic_13}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3380
 translate zh_Hans driver_storyline_36_751ddb56:
 
     # nvllalisa "{a=show:show_chat_media}{image=driver_pic_14}"
-    nvllalisa ""
+    nvllalisa "{a=show:show_chat_media}{image=driver_pic_14}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3384
 translate zh_Hans driver_storyline_36_9d27219b:
@@ -5860,7 +5860,7 @@ translate zh_Hans driver_storyline_38_76b2fe88:
 translate zh_Hans driver_storyline_38_bf0903f1:
 
     # nvllalisa "{a=show:show_chat_media}{image=driver_pic_15}"
-    nvllalisa ""
+    nvllalisa "{a=show:show_chat_media}{image=driver_pic_15}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3542
 translate zh_Hans driver_storyline_38_40d5e3a5:
@@ -6726,7 +6726,7 @@ translate zh_Hans driver_storyline_45_3161c99c:
 translate zh_Hans driver_storyline_45_a8e8b501:
 
     # nvlkaia "{a=show:show_chat_media}{image=driver_video_7_ns}"
-    nvlkaia ""
+    nvlkaia "{a=show:show_chat_media}{image=driver_video_7_ns}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4080
 translate zh_Hans driver_storyline_45_611b4796:
@@ -6792,7 +6792,7 @@ translate zh_Hans driver_storyline_45_70245562:
 translate zh_Hans driver_storyline_45_9dee7480:
 
     # nvljohn "{a=show:show_chat_media}{image=mc_pic_77}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=mc_pic_77}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4106
 translate zh_Hans driver_storyline_45_23921a9d:
@@ -7250,7 +7250,7 @@ translate zh_Hans driver_storyline_49_9e81b203:
 translate zh_Hans driver_storyline_49_27a71011:
 
     # nvlemilia "{a=show:show_chat_media}{image=driver_pic_16}"
-    nvlemilia ""
+    nvlemilia "{a=show:show_chat_media}{image=driver_pic_16}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4413
 translate zh_Hans driver_storyline_49_d6da1c8f:
@@ -7426,19 +7426,19 @@ translate zh_Hans driver_storyline_50_32cb790f:
 translate zh_Hans driver_storyline_50_ecf777bc:
 
     # nvlemilia "{a=show:show_chat_media}{image=driver_pic_17}"
-    nvlemilia ""
+    nvlemilia "{a=show:show_chat_media}{image=driver_pic_17}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4510
 translate zh_Hans driver_storyline_50_23aec70e:
 
     # nvlemilia "{a=show:show_chat_media}{image=driver_pic_18}"
-    nvlemilia ""
+    nvlemilia "{a=show:show_chat_media}{image=driver_pic_18}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4516
 translate zh_Hans driver_storyline_50_5777bd9c:
 
     # nvlemilia "{a=show:show_chat_media}{image=driver_pic_19}"
-    nvlemilia ""
+    nvlemilia "{a=show:show_chat_media}{image=driver_pic_19}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4520
 translate zh_Hans driver_storyline_50_76b574db:
@@ -7480,7 +7480,7 @@ translate zh_Hans driver_storyline_50_7d35fe6d:
 translate zh_Hans driver_storyline_50_ecf777bc_1:
 
     # nvlemilia "{a=show:show_chat_media}{image=driver_pic_17}"
-    nvlemilia ""
+    nvlemilia "{a=show:show_chat_media}{image=driver_pic_17}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4540
 translate zh_Hans driver_storyline_50_067cf603:
@@ -7528,13 +7528,13 @@ translate zh_Hans driver_storyline_50_775399b5:
 translate zh_Hans driver_storyline_50_23aec70e_1:
 
     # nvlemilia "{a=show:show_chat_media}{image=driver_pic_18}"
-    nvlemilia ""
+    nvlemilia "{a=show:show_chat_media}{image=driver_pic_18}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4566
 translate zh_Hans driver_storyline_50_5777bd9c_1:
 
     # nvlemilia "{a=show:show_chat_media}{image=driver_pic_19}"
-    nvlemilia ""
+    nvlemilia "{a=show:show_chat_media}{image=driver_pic_19}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4571
 translate zh_Hans driver_storyline_50_873ae5ba:
@@ -7552,7 +7552,7 @@ translate zh_Hans driver_storyline_50_790402c3:
 translate zh_Hans driver_storyline_50_23aec70e_2:
 
     # nvlemilia "{a=show:show_chat_media}{image=driver_pic_18}"
-    nvlemilia ""
+    nvlemilia "{a=show:show_chat_media}{image=driver_pic_18}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4583
 translate zh_Hans driver_storyline_50_3a3cd148:
@@ -7564,7 +7564,7 @@ translate zh_Hans driver_storyline_50_3a3cd148:
 translate zh_Hans driver_storyline_50_5777bd9c_2:
 
     # nvlemilia "{a=show:show_chat_media}{image=driver_pic_19}"
-    nvlemilia ""
+    nvlemilia "{a=show:show_chat_media}{image=driver_pic_19}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4591
 translate zh_Hans driver_storyline_50_93594785:
@@ -7680,7 +7680,7 @@ translate zh_Hans driver_storyline_51_41803e81:
 translate zh_Hans driver_storyline_51_09cb3bec:
 
     # nvlunknown "{a=show:show_chat_media}{image=driver_video_8_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=driver_video_8_ns}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4685
 translate zh_Hans driver_storyline_51_2fab4786:
@@ -7966,7 +7966,7 @@ translate zh_Hans driver_storyline_53_c4e46330:
 translate zh_Hans driver_storyline_53_5b89db9f:
 
     # nvlunknown "{a=show:show_chat_media}{image=driver_video_9_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=driver_video_9_ns}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4861
 translate zh_Hans driver_storyline_53_1287f56a:
@@ -8540,7 +8540,7 @@ translate zh_Hans driver_storyline_58_567f13ba:
 translate zh_Hans driver_storyline_58_837ad8fb:
 
     # nvljohn "{a=show:show_chat_media}{image=driver_video_10_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=driver_video_10_ns}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:5241
 translate zh_Hans driver_storyline_58_94b1328a:
@@ -8570,7 +8570,7 @@ translate zh_Hans driver_storyline_58_df090101:
 translate zh_Hans driver_storyline_58_ed277fc8:
 
     # nvljohn "{a=show:show_chat_media}{image=driver_video_11_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=driver_video_11_ns}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:5255
 translate zh_Hans driver_storyline_58_32ee1022:
@@ -9012,7 +9012,7 @@ translate zh_Hans driver_storyline_60_9f69be91:
 translate zh_Hans driver_storyline_60_1573d027:
 
     # nvlemilia "{a=show:show_chat_media}{image=driver_pic_20}"
-    nvlemilia ""
+    nvlemilia "{a=show:show_chat_media}{image=driver_pic_20}"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:5479
 translate zh_Hans driver_storyline_60_097e2ceb:

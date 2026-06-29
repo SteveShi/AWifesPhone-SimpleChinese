@@ -6340,7 +6340,7 @@ translate zh_Hans messager_stage2_1a11e3f5:
 translate zh_Hans messager_stage2_e75f5627:
 
     # nvlwife "So, which outfit should I choose?" nointeract
-    nvlwife "So, which outfit should I choose?" nointeract
+    nvlwife "那么，我应该选哪套衣服呢？" nointeract
 
 # script.rpy:9239
 translate zh_Hans messager_stage2_1e2948a3:
@@ -7000,7 +7000,7 @@ translate zh_Hans messager_stage9_87f5b643:
 translate zh_Hans messager_stage9_c8630bdf:
 
     # nvlwife "If you tell me to stop sending you such photos, I won't do it again" nointeract
-    nvlwife "If you tell me to stop sending you such photos, I won't do it again" nointeract
+    nvlwife "如果你让我别再给你发这样的照片，我就再也不发了" nointeract
 
 # script.rpy:9734
 translate zh_Hans messager_stage9_30e3f9ae:
@@ -7174,7 +7174,7 @@ translate zh_Hans messager_stage9_37505097:
 translate zh_Hans messager_stage9_e514fdc1:
 
     # nvlwife "I'm trying to figure out where I should go today..." nointeract
-    nvlwife "I'm trying to figure out where I should go today..." nointeract
+    nvlwife "我正想着今天该去哪家面试……" nointeract
 
 # script.rpy:9834
 translate zh_Hans messager_stage9_9a216a08:
@@ -7438,7 +7438,7 @@ translate zh_Hans messager_stage11_3f9d85f9:
 translate zh_Hans messager_stage11_7ca7c871:
 
     # nvljohn "{image=wink_emoji.png}"
-    nvljohn ""
+    nvljohn "{image=wink_emoji.png}"
 
 # script.rpy:10034
 translate zh_Hans messager_stage11_256a741c:
@@ -7720,7 +7720,7 @@ translate zh_Hans messager_stage14_fd124e6f:
 translate zh_Hans messager_stage14_a59664d2:
 
     # nvlgeorge "So, do you know what it means?" nointeract
-    nvlgeorge "So, do you know what it means?" nointeract
+    nvlgeorge "所以，你知道它是什么意思吗？" nointeract
 
 # script.rpy:10293
 translate zh_Hans messager_stage14_6d26c462:
@@ -8092,7 +8092,7 @@ translate zh_Hans messager_stage15_9d770c03:
 translate zh_Hans messager_stage15_e4d8594b:
 
     # nvljenna "Do you like what you see?" nointeract
-    nvljenna "Do you like what you see?" nointeract
+    nvljenna "你喜欢你看到的吗？" nointeract
 
 # script.rpy:10535
 translate zh_Hans messager_stage15_08e8d15f:
@@ -8224,7 +8224,7 @@ translate zh_Hans messager_stage15_2cb79aff:
 translate zh_Hans messager_stage15_bb228789:
 
     # nvljenna "Shall I come to your office right away, boss?" nointeract
-    nvljenna "Shall I come to your office right away, boss?" nointeract
+    nvljenna "我这就去你的办公室吗，老板？" nointeract
 
 # script.rpy:10622
 translate zh_Hans messager_stage15_c53fb6b4:
@@ -8404,7 +8404,7 @@ translate zh_Hans messager_stage15_c1b513af:
 translate zh_Hans messager_stage15_57a58230:
 
     # nvljenna "Now, I have work to do" nointeract
-    nvljenna "Now, I have work to do" nointeract
+    nvljenna "现在，我有工作要做了" nointeract
 
 # script.rpy:10733
 translate zh_Hans messager_stage15_f49e8f44:
@@ -8620,7 +8620,7 @@ translate zh_Hans messager_stage17_ed0089d2:
 translate zh_Hans messager_stage17_50304879:
 
     # nvljenna "While Mark was away, his acquaintance came to see him..." nointeract
-    nvljenna "While Mark was away, his acquaintance came to see him..." nointeract
+    nvljenna "当马克不在的时候，他的一个熟人来找他……" nointeract
 
 # script.rpy:10880
 translate zh_Hans messager_stage17_9d97a112:
@@ -8656,7 +8656,7 @@ translate zh_Hans messager_stage17_0f5cf9a5:
 translate zh_Hans messager_stage17_a84a25ac:
 
     # nvljenna "Now, I have work to do..." nointeract
-    nvljenna "Now, I have work to do..." nointeract
+    nvljenna "现在，我有工作要做了……" nointeract
 
 # script.rpy:10905
 translate zh_Hans messager_stage17_2884f774:
@@ -9004,7 +9004,7 @@ translate zh_Hans messager_stage18_c5fc10af:
 translate zh_Hans messager_stage18_635201a8:
 
     # nvlwife "Well, I gotta run... I'm a busy woman now" nointeract
-    nvlwife "Well, I gotta run... I'm a busy woman now" nointeract
+    nvlwife "好吧，我得走了……我现在是个忙碌的女人了" nointeract
 
 # script.rpy:11121
 translate zh_Hans messager_stage18_76ef54ea:
@@ -9418,7 +9418,7 @@ translate zh_Hans messager_stage21_77e4b3f7:
 translate zh_Hans messager_stage21_3404b624:
 
     # nvljenna "Well, that's just my opinion, Mr [mc_name_is]" nointeract
-    nvljenna "Well, that's just my opinion, Mr [mc_name_is]" nointeract
+    nvljenna "好吧，这只是我个人意见，[mc_name_is]先生" nointeract
 
 # script.rpy:11339
 translate zh_Hans messager_stage21_0763c580:
@@ -9616,7 +9616,7 @@ translate zh_Hans messager_stage22_628ec6a2:
 translate zh_Hans messager_stage22_72746950:
 
     # nvlwife "Have a nice day, honey." nointeract
-    nvlwife "Have a nice day, honey." nointeract
+    nvlwife "今天过得开心，亲爱的。" nointeract
 
 # script.rpy:11493
 translate zh_Hans messager_stage22_66adbaf5:
@@ -9976,7 +9976,7 @@ translate zh_Hans messager_stage24_bc0544fa:
 translate zh_Hans messager_stage24_fdaa311c:
 
     # nvlkeiran "{color=#000}Babe?" nointeract
-    nvlkeiran "{color=#000}Babe?" nointeract
+    nvlkeiran "{color=#000}宝贝？" nointeract
 
 # script.rpy:11703
 translate zh_Hans messager_stage24_1020b929:
@@ -10030,7 +10030,7 @@ translate zh_Hans messager_stage24_bc0544fa_1:
 translate zh_Hans messager_stage24_b05bfa8e:
 
     # nvlkeiran "{color=#000}You're so sexy..." nointeract
-    nvlkeiran "{color=#000}You're so sexy..." nointeract
+    nvlkeiran "{color=#000}你太骚气逼人了……" nointeract
 
 # script.rpy:11730
 translate zh_Hans messager_stage24_617ef8f4:
@@ -10084,7 +10084,7 @@ translate zh_Hans messager_stage24_bc0544fa_2:
 translate zh_Hans messager_stage24_93120fc1:
 
     # nvlkeiran "{color=#000}Do you want to see what you're doing to me?" nointeract
-    nvlkeiran "{color=#000}Do you want to see what you're doing to me?" nointeract
+    nvlkeiran "{color=#000}你想看看你把我变成什么样了吗？" nointeract
 
 # script.rpy:11762
 translate zh_Hans messager_stage24_607be2ab:
@@ -10138,7 +10138,7 @@ translate zh_Hans messager_stage24_bc0544fa_3:
 translate zh_Hans messager_stage24_5d95f592:
 
     # nvlwife "{color=#000}Weeeell..." nointeract
-    nvlwife "{color=#000}Weeeell..." nointeract
+    nvlwife "{color=#000}额……" nointeract
 
 # script.rpy:11807
 translate zh_Hans messager_stage24_3f250e41:
@@ -10222,7 +10222,7 @@ translate zh_Hans messager_stage24_bc0544fa_4:
 translate zh_Hans messager_stage24_abc6dc15:
 
     # nvlkeiran "{color=#000}Baby???" nointeract
-    nvlkeiran "{color=#000}Baby???" nointeract
+    nvlkeiran "{color=#000}宝贝？？？" nointeract
 
 # script.rpy:11862
 translate zh_Hans messager_stage24_2326d465:
@@ -10276,7 +10276,7 @@ translate zh_Hans messager_stage24_bc0544fa_5:
 translate zh_Hans messager_stage24_370bfdae:
 
     # nvlkeiran "{color=#000}Shit, you're so amazing! I just..." nointeract
-    nvlkeiran "{color=#000}Shit, you're so amazing! I just..." nointeract
+    nvlkeiran "{color=#000}该死，你太迷人了！我只是……" nointeract
 
 # script.rpy:11892
 translate zh_Hans messager_stage24_d7c573ad:
@@ -10462,7 +10462,7 @@ translate zh_Hans messager_stage24_bc0544fa_7:
 translate zh_Hans messager_stage24_3f8b43c4:
 
     # nvlgreg "{color=#000}Ah, I see. What are you doing tonight?" nointeract
-    nvlgreg "{color=#000}Ah, I see. What are you doing tonight?" nointeract
+    nvlgreg "{color=#000}啊，我懂了。你今晚打算干嘛？" nointeract
 
 # script.rpy:11991
 translate zh_Hans messager_stage24_89e2de95:
@@ -10510,7 +10510,7 @@ translate zh_Hans messager_stage24_bc0544fa_8:
 translate zh_Hans messager_stage24_dbade58d:
 
     # nvlgreg "{color=#000}I just want to get to know you better and imagine what you're like" nointeract
-    nvlgreg "{color=#000}I just want to get to know you better and imagine what you're like" nointeract
+    nvlgreg "{color=#000}我只是想多了解你一点，好想象你是什么样的人" nointeract
 
 # script.rpy:12014
 translate zh_Hans messager_stage24_c8290b52:
@@ -10636,7 +10636,7 @@ translate zh_Hans messager_stage24_b6680298:
 translate zh_Hans messager_stage24_86e79856:
 
     # nvlgreg "{color=#000}We could exchange photos if you're interested. What do you say?" nointeract
-    nvlgreg "{color=#000}We could exchange photos if you're interested. What do you say?" nointeract
+    nvlgreg "{color=#000}如果你感兴趣，我们可以互换照片。你觉得呢？" nointeract
 
 # script.rpy:12070
 translate zh_Hans messager_stage24_6cd5e3f9:
@@ -10876,7 +10876,7 @@ translate zh_Hans messager_stage24_5c680c15:
 translate zh_Hans messager_stage24_a34a75e2:
 
     # nvlgreg "{color=#000}What do you say?" nointeract
-    nvlgreg "{color=#000}What do you say?" nointeract
+    nvlgreg "{color=#000}你怎么说？" nointeract
 
 # script.rpy:12203
 translate zh_Hans messager_stage24_1cf1fa2f:
@@ -10954,7 +10954,7 @@ translate zh_Hans messager_stage24_bc0544fa_11:
 translate zh_Hans messager_stage24_ba769acb:
 
     # nvlgreg "{color=#000}Weeell... there is something..." nointeract
-    nvlgreg "{color=#000}Weeell... there is something..." nointeract
+    nvlgreg "{color=#000}额……确实有点事……" nointeract
 
 # script.rpy:12239
 translate zh_Hans messager_stage24_31c56626:
@@ -11410,7 +11410,7 @@ translate zh_Hans messager_stage25_682dee06:
 translate zh_Hans messager_stage25_d73736e7:
 
     # nvljenna "So, do you want me to come to you?" nointeract
-    nvljenna "So, do you want me to come to you?" nointeract
+    nvljenna "所以，您想让我过去您那里吗？" nointeract
 
 # script.rpy:12520
 translate zh_Hans messager_stage25_c4ae6718:
@@ -11452,7 +11452,7 @@ translate zh_Hans messager_stage25_31458778:
 translate zh_Hans messager_stage25_69b1c468:
 
     # nvljenna "Please, Mr [mc_name_is]" nointeract
-    nvljenna "Please, Mr [mc_name_is]" nointeract
+    nvljenna "求您了，[mc_name_is]先生" nointeract
 
 # script.rpy:12547
 translate zh_Hans messager_stage25_3ea5664e:
@@ -13336,7 +13336,7 @@ translate zh_Hans messager_stage33_b0aae7e8:
 translate zh_Hans messager_stage33_185a14e5:
 
     # nvljohn "I..." nointeract
-    nvljohn "I..." nointeract
+    nvljohn "我……" nointeract
 
 # script.rpy:13679
 translate zh_Hans messager_stage33_41d84cf9:
@@ -13354,7 +13354,7 @@ translate zh_Hans messager_stage33_8deb50c2:
 translate zh_Hans messager_stage33_e28c79bb:
 
     # nvlkirely "Is there anything I can do for you? Is there anything you want to talk to me about?" nointeract
-    nvlkirely "Is there anything I can do for you? Is there anything you want to talk to me about?" nointeract
+    nvlkirely "有什么我可以帮你的吗？有什么你想和我谈谈的吗？" nointeract
 
 # script.rpy:13688
 translate zh_Hans messager_stage33_9e48712c:
@@ -13390,7 +13390,7 @@ translate zh_Hans messager_stage33_898db7d8:
 translate zh_Hans messager_stage33_53be12a2:
 
     # nvlkirely "Just to say that?" nointeract
-    nvlkirely "Just to say that?" nointeract
+    nvlkirely "就为了说这个？" nointeract
 
 # script.rpy:13703
 translate zh_Hans messager_stage33_bd48107a:
@@ -13576,7 +13576,7 @@ translate zh_Hans messager_stage33_a2a1023f:
 translate zh_Hans messager_stage33_a96db78d:
 
     # nvlkirely "Ah, Edwin told me about you." nointeract
-    nvlkirely "Ah, Edwin told me about you." nointeract
+    nvlkirely "啊，埃德温跟我提起过你。" nointeract
 
 # script.rpy:13776
 translate zh_Hans messager_stage33_aaa2afdf:
@@ -13612,7 +13612,7 @@ translate zh_Hans messager_stage33_898db7d8_1:
 translate zh_Hans messager_stage33_53be12a2_1:
 
     # nvlkirely "Just to say that?" nointeract
-    nvlkirely "Just to say that?" nointeract
+    nvlkirely "就为了说这个？" nointeract
 
 # script.rpy:13792
 translate zh_Hans messager_stage33_bd48107a_1:
@@ -13882,7 +13882,7 @@ translate zh_Hans messager_stage33_898db7d8_2:
 translate zh_Hans messager_stage33_53be12a2_2:
 
     # nvlkirely "Just to say that?" nointeract
-    nvlkirely "Just to say that?" nointeract
+    nvlkirely "就为了说这个？" nointeract
 
 # script.rpy:13899
 translate zh_Hans messager_stage33_bd48107a_2:
@@ -14428,7 +14428,7 @@ translate zh_Hans messager_stage39_80f0c9cc:
 translate zh_Hans messager_stage39_d415c15d:
 
     # nvljohn "Hm..." nointeract
-    nvljohn "Hm..." nointeract
+    nvljohn "嗯……" nointeract
 
 # script.rpy:14178
 translate zh_Hans messager_stage39_5d841824:

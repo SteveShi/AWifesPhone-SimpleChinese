@@ -192,7 +192,7 @@ translate zh_Hans wife_mark_cuck_storyline_2_d4561157:
 translate zh_Hans wife_mark_cuck_storyline_2_184d7b6b:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_304_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=wife_video_304_ns}"
 
 # game/scripts/dialogues/wife/wife_mark_cuck_storyline.rpy:133
 translate zh_Hans wife_mark_cuck_storyline_2_b373f8bf:
@@ -1390,7 +1390,7 @@ translate zh_Hans wife_mark_cuck_storyline_6_f01be0ab:
 translate zh_Hans wife_mark_cuck_storyline_6_9d84a9e7:
 
     # nvljohn "{a=show:show_chat_media}{image=cuckold_pic_1}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=cuckold_pic_1}"
 
 # game/scripts/dialogues/wife/wife_mark_cuck_storyline.rpy:664
 translate zh_Hans wife_mark_cuck_storyline_6_c45d3303:
@@ -1492,7 +1492,7 @@ translate zh_Hans wife_mark_cuck_storyline_6_045d8ae8:
 translate zh_Hans wife_mark_cuck_storyline_6_58e872fb:
 
     # nvlmark "{a=show:show_chat_media}{image=wife_video_305_ns}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=wife_video_305_ns}"
 
 # game/scripts/dialogues/wife/wife_mark_cuck_storyline.rpy:705
 translate zh_Hans wife_mark_cuck_storyline_6_d453ea07:
@@ -2516,7 +2516,7 @@ translate zh_Hans wife_mark_cuck_storyline_10_f01be0ab:
 translate zh_Hans wife_mark_cuck_storyline_10_9d84a9e7:
 
     # nvljohn "{a=show:show_chat_media}{image=cuckold_pic_1}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=cuckold_pic_1}"
 
 # game/scripts/dialogues/wife/wife_mark_cuck_storyline.rpy:1178
 translate zh_Hans wife_mark_cuck_storyline_10_c45d3303:
@@ -2618,7 +2618,7 @@ translate zh_Hans wife_mark_cuck_storyline_10_045d8ae8:
 translate zh_Hans wife_mark_cuck_storyline_10_58e872fb:
 
     # nvlmark "{a=show:show_chat_media}{image=wife_video_305_ns}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=wife_video_305_ns}"
 
 # game/scripts/dialogues/wife/wife_mark_cuck_storyline.rpy:1219
 translate zh_Hans wife_mark_cuck_storyline_10_d453ea07:
@@ -4062,37 +4062,37 @@ translate zh_Hans wife_mark_cuck_storyline_15_74ff0316:
 translate zh_Hans wife_mark_cuck_storyline_15_aae0012c:
 
     # nvljohn "{a=show:show_chat_media}{image=my_video_305_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=my_video_305_ns}"
 
 # game/scripts/dialogues/wife/wife_mark_cuck_storyline.rpy:1960
 translate zh_Hans wife_mark_cuck_storyline_15_53061392:
 
     # nvljohn "{a=show:show_chat_media}{image=my_video_306_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=my_video_306_ns}"
 
 # game/scripts/dialogues/wife/wife_mark_cuck_storyline.rpy:1966
 translate zh_Hans wife_mark_cuck_storyline_15_4516b367:
 
     # nvljohn "{a=show:show_chat_media}{image=my_video_307_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=my_video_307_ns}"
 
 # game/scripts/dialogues/wife/wife_mark_cuck_storyline.rpy:1972
 translate zh_Hans wife_mark_cuck_storyline_15_a0ecd743:
 
     # nvljohn "{a=show:show_chat_media}{image=my_video_308_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=my_video_308_ns}"
 
 # game/scripts/dialogues/wife/wife_mark_cuck_storyline.rpy:1978
 translate zh_Hans wife_mark_cuck_storyline_15_d9350f89:
 
     # nvljohn "{a=show:show_chat_media}{image=my_video_309_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=my_video_309_ns}"
 
 # game/scripts/dialogues/wife/wife_mark_cuck_storyline.rpy:1984
 translate zh_Hans wife_mark_cuck_storyline_15_0eed7ddd:
 
     # nvljohn "{a=show:show_chat_media}{image=my_video_310_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=my_video_310_ns}"
 
 # game/scripts/dialogues/wife/wife_mark_cuck_storyline.rpy:1988
 translate zh_Hans wife_mark_cuck_storyline_15_0fa99715:

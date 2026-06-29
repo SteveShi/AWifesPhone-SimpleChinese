@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-29 09:30
+# TODO: Translation updated at 2026-06-29 09:30
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:62
 translate zh_Hans wife_job_storyline_212_b7dddd46:
@@ -1096,7 +1096,7 @@ translate zh_Hans wife_job_storyline_214_c08fddd6:
 translate zh_Hans wife_job_storyline_214_a5df105b:
 
     # nvlwboss "{a=show:show_chat_media}{image=wife_pic_553}"
-    nvlwboss ""
+    nvlwboss "{a=show:show_chat_media}{image=wife_pic_553}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:585
 translate zh_Hans wife_job_storyline_214_45a41980:
@@ -1538,7 +1538,7 @@ translate zh_Hans wife_job_storyline_214_4af13414:
 translate zh_Hans wife_job_storyline_214_c9d16318:
 
     # nvlwboss "{a=show:show_chat_media}{image=wife_pic_554}"
-    nvlwboss ""
+    nvlwboss "{a=show:show_chat_media}{image=wife_pic_554}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:789
 translate zh_Hans wife_job_storyline_214_de11f2fe:
@@ -1598,7 +1598,7 @@ translate zh_Hans wife_job_storyline_214_7ca1e7f9:
 translate zh_Hans wife_job_storyline_214_69fac79f:
 
     # nvlwboss "{a=show:show_chat_media}{image=wife_pic_555}"
-    nvlwboss ""
+    nvlwboss "{a=show:show_chat_media}{image=wife_pic_555}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:813
 translate zh_Hans wife_job_storyline_214_dddf99a9:
@@ -1924,7 +1924,7 @@ translate zh_Hans wife_job_storyline_214_ea56ce3e:
 translate zh_Hans wife_job_storyline_214_224a8193:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_556}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_556}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:963
 translate zh_Hans wife_job_storyline_214_acda56c1:
@@ -2250,7 +2250,7 @@ translate zh_Hans wife_job_storyline_214_a92af58b:
 translate zh_Hans wife_job_storyline_214_5ac73856:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_pic_557}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=wife_pic_557}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:1098
 translate zh_Hans wife_job_storyline_214_214ce2c4:
@@ -2618,13 +2618,13 @@ translate zh_Hans wife_job_storyline_214_8bb1f715:
 translate zh_Hans wife_job_storyline_214_6cfa842c:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_558}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_558}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:1255
 translate zh_Hans wife_job_storyline_214_6dc4e4e8:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_559}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_559}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:1259
 translate zh_Hans wife_job_storyline_214_0ebd4a02:
@@ -2660,7 +2660,7 @@ translate zh_Hans wife_job_storyline_214_e00b105e:
 translate zh_Hans wife_job_storyline_214_452abf03:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_560}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_560}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:1275
 translate zh_Hans wife_job_storyline_214_2d5df025:
@@ -2882,13 +2882,13 @@ translate zh_Hans wife_job_storyline_214_76b2fe88:
 translate zh_Hans wife_job_storyline_214_51d323ea:
 
     # nvlwboss "{a=show:show_chat_media}{image=wife_pic_561}"
-    nvlwboss ""
+    nvlwboss "{a=show:show_chat_media}{image=wife_pic_561}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:1390
 translate zh_Hans wife_job_storyline_214_c9f8256e:
 
     # nvlwboss "{a=show:show_chat_media}{image=wife_pic_562}"
-    nvlwboss ""
+    nvlwboss "{a=show:show_chat_media}{image=wife_pic_562}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:1394
 translate zh_Hans wife_job_storyline_214_fa68b1e2:
@@ -4056,13 +4056,13 @@ translate zh_Hans wife_job_storyline_214_5d1723f8:
 translate zh_Hans wife_job_storyline_214_9e953c62:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_pic_563}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=wife_pic_563}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:1875
 translate zh_Hans wife_job_storyline_214_0ba93037:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_pic_564}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=wife_pic_564}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:1879
 translate zh_Hans wife_job_storyline_214_7e781e5d:
@@ -4104,7 +4104,7 @@ translate zh_Hans wife_job_storyline_214_bec01b55:
 translate zh_Hans wife_job_storyline_214_4d3c4e90:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_pic_565}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=wife_pic_565}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:1897
 translate zh_Hans wife_job_storyline_214_04eb6e77:
@@ -4508,7 +4508,7 @@ translate zh_Hans wife_job_storyline_214_1f7ffbf7:
 translate zh_Hans wife_job_storyline_214_84aa7a15:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_566}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_566}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:2064
 translate zh_Hans wife_job_storyline_214_dc9871aa:
@@ -4562,7 +4562,7 @@ translate zh_Hans wife_job_storyline_214_9b1fb6d0_1:
 translate zh_Hans wife_job_storyline_214_a7037eab:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_567}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_567}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:2086
 translate zh_Hans wife_job_storyline_214_e941cac1:
@@ -4790,7 +4790,7 @@ translate zh_Hans wife_job_storyline_214_5625df0c:
 translate zh_Hans wife_job_storyline_214_072159db:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_568}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_568}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:2166
 translate zh_Hans wife_job_storyline_214_88825694:
@@ -4808,7 +4808,7 @@ translate zh_Hans wife_job_storyline_214_efee7d09:
 translate zh_Hans wife_job_storyline_214_1f144db4:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_569}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_569}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:2176
 translate zh_Hans wife_job_storyline_214_ddc28209:
@@ -5152,7 +5152,7 @@ translate zh_Hans wife_job_storyline_214_15d79998:
 translate zh_Hans wife_job_storyline_214_5e76a620:
 
     # nvlwboss "{a=show:show_chat_media}{image=wife_pic_570}"
-    nvlwboss ""
+    nvlwboss "{a=show:show_chat_media}{image=wife_pic_570}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:2331
 translate zh_Hans wife_job_storyline_214_7e5342b9:
@@ -5194,13 +5194,13 @@ translate zh_Hans wife_job_storyline_214_b84da36f_1:
 translate zh_Hans wife_job_storyline_214_00ff9608:
 
     # nvlwboss "{a=show:show_chat_media}{image=wife_pic_571}"
-    nvlwboss ""
+    nvlwboss "{a=show:show_chat_media}{image=wife_pic_571}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:2351
 translate zh_Hans wife_job_storyline_214_107ed20b:
 
     # nvlwboss "{a=show:show_chat_media}{image=wife_pic_572}"
-    nvlwboss ""
+    nvlwboss "{a=show:show_chat_media}{image=wife_pic_572}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:2355
 translate zh_Hans wife_job_storyline_214_4100fc8a:
@@ -5248,7 +5248,7 @@ translate zh_Hans wife_job_storyline_214_fef9ad5b:
 translate zh_Hans wife_job_storyline_214_16fd0778:
 
     # nvlwboss "{a=show:show_chat_media}{image=wife_pic_573}"
-    nvlwboss ""
+    nvlwboss "{a=show:show_chat_media}{image=wife_pic_573}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:2375
 translate zh_Hans wife_job_storyline_214_f3094330:
@@ -5718,7 +5718,7 @@ translate zh_Hans wife_job_storyline_214_975050dc_3:
 translate zh_Hans wife_job_storyline_214_83ee0a6f:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_pic_96}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_pic_96}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:2558
 translate zh_Hans wife_job_storyline_214_5df4761c:
@@ -5784,7 +5784,7 @@ translate zh_Hans wife_job_storyline_214_4ceb3c25_1:
 translate zh_Hans wife_job_storyline_214_4d5f88fd:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_pic_97}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_pic_97}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:2584
 translate zh_Hans wife_job_storyline_214_32360d37:
@@ -5826,7 +5826,7 @@ translate zh_Hans wife_job_storyline_214_6dca8cc5:
 translate zh_Hans wife_job_storyline_214_ab9c448b:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_pic_98}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_pic_98}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:2602
 translate zh_Hans wife_job_storyline_214_7f6b4e7e:
@@ -5910,19 +5910,19 @@ translate zh_Hans wife_job_storyline_214_4ceb3c25_2:
 translate zh_Hans wife_job_storyline_214_ce8e48cd:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_588}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_588}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:2636
 translate zh_Hans wife_job_storyline_214_be7ab2e2:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_586}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_586}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:2642
 translate zh_Hans wife_job_storyline_214_73f7e076:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_587}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_587}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:2646
 translate zh_Hans wife_job_storyline_214_89bc3c8f:
@@ -5964,7 +5964,7 @@ translate zh_Hans wife_job_storyline_214_c4b2865b:
 translate zh_Hans wife_job_storyline_214_a70302da:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_584}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_584}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:2666
 translate zh_Hans wife_job_storyline_214_6ae9b6c1:
@@ -9384,13 +9384,13 @@ translate zh_Hans wife_job_storyline_216_e7ef4faa:
 translate zh_Hans wife_job_storyline_216_d28568c0:
 
     # nvlwife "{a=show:show_chat_media}{image=khalifa_pic_62}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=khalifa_pic_62}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:4063
 translate zh_Hans wife_job_storyline_216_d3d8014b:
 
     # nvlwife "{a=show:show_chat_media}{image=khalifa_pic_63}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=khalifa_pic_63}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:4067
 translate zh_Hans wife_job_storyline_216_e66762e4:
@@ -9420,7 +9420,7 @@ translate zh_Hans wife_job_storyline_216_0b4850e1:
 translate zh_Hans wife_job_storyline_216_9d23b4f1:
 
     # nvlwife "{a=show:show_chat_media}{image=khalifa_pic_64}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=khalifa_pic_64}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:4081
 translate zh_Hans wife_job_storyline_216_8f48a1cd:
@@ -9824,13 +9824,13 @@ translate zh_Hans wife_job_storyline_217_c50bed2c:
 translate zh_Hans wife_job_storyline_217_2bd12a81:
 
     # nvlwboss "{a=show:show_chat_media}{image=khalifa_pic_65}"
-    nvlwboss ""
+    nvlwboss "{a=show:show_chat_media}{image=khalifa_pic_65}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:4252
 translate zh_Hans wife_job_storyline_217_a5d336fe:
 
     # nvlwboss "{a=show:show_chat_media}{image=khalifa_pic_66}"
-    nvlwboss ""
+    nvlwboss "{a=show:show_chat_media}{image=khalifa_pic_66}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:4256
 translate zh_Hans wife_job_storyline_217_bc82cfb6:
@@ -9908,7 +9908,7 @@ translate zh_Hans wife_job_storyline_217_acb03633:
 translate zh_Hans wife_job_storyline_217_582af4f6:
 
     # nvlwboss "{a=show:show_chat_media}{image=aria_video_4_ns}"
-    nvlwboss ""
+    nvlwboss "{a=show:show_chat_media}{image=aria_video_4_ns}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:4288
 translate zh_Hans wife_job_storyline_217_c375c056:
@@ -9932,7 +9932,7 @@ translate zh_Hans wife_job_storyline_217_043e4c23:
 translate zh_Hans wife_job_storyline_217_b9218a93:
 
     # nvlwboss "{a=show:show_chat_media}{image=aria_video_5_ns}"
-    nvlwboss ""
+    nvlwboss "{a=show:show_chat_media}{image=aria_video_5_ns}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:4300
 translate zh_Hans wife_job_storyline_217_72d226a1:
@@ -10174,13 +10174,13 @@ translate zh_Hans wife_job_storyline_218_f9c4b284:
 translate zh_Hans wife_job_storyline_218_8ab031c3:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_118_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=wife_video_118_ns}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:4418
 translate zh_Hans wife_job_storyline_218_c235b5b0:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_119_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=wife_video_119_ns}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:4422
 translate zh_Hans wife_job_storyline_218_8861cb24:
@@ -10252,13 +10252,13 @@ translate zh_Hans wife_job_storyline_218_60bb5741_1:
 translate zh_Hans wife_job_storyline_218_a6be3cea:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_120_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=wife_video_120_ns}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:4452
 translate zh_Hans wife_job_storyline_218_9d2e5b5d:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_121_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=wife_video_121_ns}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:4456
 translate zh_Hans wife_job_storyline_218_d5a57631:
@@ -11322,13 +11322,13 @@ translate zh_Hans wife_job_storyline_222_483a9542:
 translate zh_Hans wife_job_storyline_222_9f5fd203:
 
     # nvlhalifa "{a=show:show_chat_media}{image=khalifa_pic_60}"
-    nvlhalifa ""
+    nvlhalifa "{a=show:show_chat_media}{image=khalifa_pic_60}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:4938
 translate zh_Hans wife_job_storyline_222_10d65929:
 
     # nvlhalifa "{a=show:show_chat_media}{image=khalifa_pic_61}"
-    nvlhalifa ""
+    nvlhalifa "{a=show:show_chat_media}{image=khalifa_pic_61}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:4942
 translate zh_Hans wife_job_storyline_222_76bd4789:
@@ -13014,13 +13014,13 @@ translate zh_Hans wife_job_storyline_228_9cf16c1d:
 translate zh_Hans wife_job_storyline_228_f592f7d5:
 
     # nvlwboss "{a=show:show_chat_media}{image=wife_pic_591}"
-    nvlwboss ""
+    nvlwboss "{a=show:show_chat_media}{image=wife_pic_591}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:5705
 translate zh_Hans wife_job_storyline_228_7ef2e786:
 
     # nvlwboss "{a=show:show_chat_media}{image=wife_pic_592}"
-    nvlwboss ""
+    nvlwboss "{a=show:show_chat_media}{image=wife_pic_592}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:5709
 translate zh_Hans wife_job_storyline_228_c3437947:
@@ -13068,7 +13068,7 @@ translate zh_Hans wife_job_storyline_228_69b4c58f:
 translate zh_Hans wife_job_storyline_228_db2efab5:
 
     # nvlwboss "{a=show:show_chat_media}{image=khalifa_pic_67}"
-    nvlwboss ""
+    nvlwboss "{a=show:show_chat_media}{image=khalifa_pic_67}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:5729
 translate zh_Hans wife_job_storyline_228_050152f3:
@@ -14944,7 +14944,7 @@ translate zh_Hans wife_job_storyline_233_b9285908:
 translate zh_Hans wife_job_storyline_233_49a2ad86:
 
     # nvlhalifa "{a=show:show_chat_media}{image=wife_video_122_ns}"
-    nvlhalifa ""
+    nvlhalifa "{a=show:show_chat_media}{image=wife_video_122_ns}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:6510
 translate zh_Hans wife_job_storyline_233_3dfe8ce1:
@@ -14968,7 +14968,7 @@ translate zh_Hans wife_job_storyline_233_695378a6:
 translate zh_Hans wife_job_storyline_233_d6afa2a9:
 
     # nvlwife "{a=show:show_chat_media}{image=khalifa_video_1_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=khalifa_video_1_ns}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:6522
 translate zh_Hans wife_job_storyline_233_a2a25814:
@@ -15384,7 +15384,7 @@ translate zh_Hans wife_job_storyline_234_34833e2c:
 translate zh_Hans wife_job_storyline_234_27a7a46d:
 
     # nvlwboss "{a=show:show_chat_media}{image=khalifa_pic_68}"
-    nvlwboss ""
+    nvlwboss "{a=show:show_chat_media}{image=khalifa_pic_68}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:6695
 translate zh_Hans wife_job_storyline_234_3281d8bb:
@@ -16078,19 +16078,19 @@ translate zh_Hans wife_job_storyline_236_69b91f46:
 translate zh_Hans wife_job_storyline_236_229191d3:
 
     # nvljenna "{a=show:show_chat_media}{image=bbc_pic_199}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=bbc_pic_199}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:6993
 translate zh_Hans wife_job_storyline_236_5a9d7496:
 
     # nvljenna "{a=show:show_chat_media}{image=bbc_pic_200}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=bbc_pic_200}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:6999
 translate zh_Hans wife_job_storyline_236_5c6020d6:
 
     # nvljenna "{a=show:show_chat_media}{image=bbc_pic_201}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=bbc_pic_201}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:7003
 translate zh_Hans wife_job_storyline_236_bb45e62a:
@@ -16186,7 +16186,7 @@ translate zh_Hans wife_job_storyline_236_596b6720:
 translate zh_Hans wife_job_storyline_236_cf46ebaa:
 
     # nvljenna "{a=show:show_chat_media}{image=bbc_video_43_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=bbc_video_43_ns}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:7039
 translate zh_Hans wife_job_storyline_236_8cb211b3:
@@ -16946,19 +16946,19 @@ translate zh_Hans wife_job_storyline_238_b1629cd2:
 translate zh_Hans wife_job_storyline_238_d5a1b543:
 
     # nvljohn "{a=show:show_chat_media}{image=bbc_video_44_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=bbc_video_44_ns}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:7369
 translate zh_Hans wife_job_storyline_238_f8a7d263:
 
     # nvljohn "{a=show:show_chat_media}{image=bbc_video_45_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=bbc_video_45_ns}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:7375
 translate zh_Hans wife_job_storyline_238_aca00c9e:
 
     # nvljohn "{a=show:show_chat_media}{image=bbc_video_46_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=bbc_video_46_ns}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:7379
 translate zh_Hans wife_job_storyline_238_d813ba41:
@@ -17852,7 +17852,7 @@ translate zh_Hans wife_job_storyline_241_294e6181:
 translate zh_Hans wife_job_storyline_241_a8fa4b4d:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_pic_593}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=wife_pic_593}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:7772
 translate zh_Hans wife_job_storyline_241_70c85c1f:
@@ -18522,7 +18522,7 @@ translate zh_Hans wife_job_storyline_243_f9aa47cb:
 translate zh_Hans wife_job_storyline_243_d657e91c:
 
     # nvlsalim "{a=show:show_chat_media}{image=wife_pic_594}"
-    nvlsalim ""
+    nvlsalim "{a=show:show_chat_media}{image=wife_pic_594}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:8062
 translate zh_Hans wife_job_storyline_243_c24911e7:
@@ -19366,7 +19366,7 @@ translate zh_Hans wife_job_storyline_246_76b2fe88:
 translate zh_Hans wife_job_storyline_246_f94c6951:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_pic_595}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=wife_pic_595}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:8451
 translate zh_Hans wife_job_storyline_246_9155f814:
@@ -19710,7 +19710,7 @@ translate zh_Hans wife_job_storyline_253_8a3ad266:
 translate zh_Hans wife_job_storyline_253_d8e775e8:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_893}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_893}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:8609
 translate zh_Hans wife_job_storyline_253_d6c4f826:
@@ -21478,7 +21478,7 @@ translate zh_Hans wife_job_storyline_264_1b24d116:
 translate zh_Hans wife_job_storyline_264_1a415cd1:
 
     # nvlsalim "{a=show:show_chat_media}{image=wife_video_359_ns}"
-    nvlsalim ""
+    nvlsalim "{a=show:show_chat_media}{image=wife_video_359_ns}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:9570
 translate zh_Hans wife_job_storyline_264_467f0222:
@@ -21838,7 +21838,7 @@ translate zh_Hans wife_job_storyline_267_af2d218a:
 translate zh_Hans wife_job_storyline_267_4e7a2f68:
 
     # nvlwboss "{a=show:show_chat_media}{image=wife_video_360_ns}"
-    nvlwboss ""
+    nvlwboss "{a=show:show_chat_media}{image=wife_video_360_ns}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:9791
 translate zh_Hans wife_job_storyline_267_b9572c1b:
@@ -22032,7 +22032,7 @@ translate zh_Hans wife_job_storyline_268_71c1583b:
 translate zh_Hans wife_job_storyline_268_cad593a6:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_360_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_360_ns}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:9890
 translate zh_Hans wife_job_storyline_268_cd57c80c:
@@ -22356,7 +22356,7 @@ translate zh_Hans wife_job_storyline_271_f2045995:
 translate zh_Hans wife_job_storyline_271_d4f3e0e4:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_361_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=wife_video_361_ns}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:10099
 translate zh_Hans wife_job_storyline_271_ec72bb80:
@@ -22460,7 +22460,7 @@ translate zh_Hans wife_job_storyline_272_fc6ee1a0:
 translate zh_Hans wife_job_storyline_272_12219ccf:
 
     # nvlwife "{a=show:show_chat_media}{image=khalifa_video_3_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=khalifa_video_3_ns}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:10170
 translate zh_Hans wife_job_storyline_272_55afe611:
@@ -22588,7 +22588,7 @@ translate zh_Hans wife_job_storyline_273_c21f674b:
 translate zh_Hans wife_job_storyline_273_12219ccf:
 
     # nvlwife "{a=show:show_chat_media}{image=khalifa_video_3_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=khalifa_video_3_ns}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:10247
 translate zh_Hans wife_job_storyline_273_e105d576:
@@ -23614,7 +23614,7 @@ translate zh_Hans wife_job_storyline_279_2217ed99:
 translate zh_Hans wife_job_storyline_279_026752af:
 
     # nvlwife "😏"
-    nvlwife ""
+    nvlwife "😏|"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:10783
 translate zh_Hans wife_job_storyline_279_63b675b2:
@@ -23820,7 +23820,7 @@ translate zh_Hans wife_job_storyline_280_81fbff06:
 translate zh_Hans wife_job_storyline_280_370180d0:
 
     # nvlwife "{a=show:show_chat_media}{image=khalifa_video_4_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=khalifa_video_4_ns}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:10888
 translate zh_Hans wife_job_storyline_280_9591dd35:
@@ -23972,7 +23972,7 @@ translate zh_Hans wife_job_storyline_281_051b98b4:
 translate zh_Hans wife_job_storyline_281_ee59b326:
 
     # nvlwboss "{a=show:show_chat_media}{image=wife_video_362_ns}"
-    nvlwboss ""
+    nvlwboss "{a=show:show_chat_media}{image=wife_video_362_ns}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:10975
 translate zh_Hans wife_job_storyline_281_17bbbcfa:
@@ -25066,7 +25066,7 @@ translate zh_Hans wife_job_storyline_288_0840c066:
 translate zh_Hans wife_job_storyline_288_a9d47af0:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_889}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_889}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:11570
 translate zh_Hans wife_job_storyline_288_adaa756e:
@@ -25102,7 +25102,7 @@ translate zh_Hans wife_job_storyline_288_adbc2cb1:
 translate zh_Hans wife_job_storyline_288_83a8d5ce:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_890}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_890}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:11586
 translate zh_Hans wife_job_storyline_288_55e37c5e:
@@ -25308,7 +25308,7 @@ translate zh_Hans wife_job_storyline_289_466eb6e1:
 translate zh_Hans wife_job_storyline_289_a9d47af0:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_889}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_889}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:11691
 translate zh_Hans wife_job_storyline_289_1b4374e6:
@@ -26352,7 +26352,7 @@ translate zh_Hans wife_job_storyline_295_835c43b1:
 translate zh_Hans wife_job_storyline_295_8757cfe6:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_363_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_363_ns}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:12237
 translate zh_Hans wife_job_storyline_295_3468eee7:
@@ -26480,7 +26480,7 @@ translate zh_Hans wife_job_storyline_296_f098e38b:
 translate zh_Hans wife_job_storyline_296_8757cfe6:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_363_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_363_ns}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:12316
 translate zh_Hans wife_job_storyline_296_222113ed:
@@ -26686,7 +26686,7 @@ translate zh_Hans wife_job_storyline_297_193e6bfc:
 translate zh_Hans wife_job_storyline_297_8757cfe6:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_363_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_363_ns}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:12421
 translate zh_Hans wife_job_storyline_297_e63190fa:
@@ -27536,7 +27536,7 @@ translate zh_Hans wife_job_storyline_302_b431ba28:
 translate zh_Hans wife_job_storyline_302_25194b14:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_364_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_364_ns}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:12870
 translate zh_Hans wife_job_storyline_302_783482d6:
@@ -27560,7 +27560,7 @@ translate zh_Hans wife_job_storyline_302_69adc43b:
 translate zh_Hans wife_job_storyline_302_7ddecab4:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_365_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_365_ns}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:12882
 translate zh_Hans wife_job_storyline_302_3a2b739f:
@@ -27584,7 +27584,7 @@ translate zh_Hans wife_job_storyline_302_3f7fcb6f:
 translate zh_Hans wife_job_storyline_302_49274f02:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_891}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_891}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:12894
 translate zh_Hans wife_job_storyline_302_8717710f:
@@ -28046,7 +28046,7 @@ translate zh_Hans wife_job_storyline_305_3aba16d5:
 translate zh_Hans wife_job_storyline_305_eb6155b3:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_892}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_892}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:13149
 translate zh_Hans wife_job_storyline_305_de29ea27:
@@ -28458,7 +28458,7 @@ translate zh_Hans wife_job_storyline_307_c026a5d9:
 translate zh_Hans wife_job_storyline_307_47d6d827:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_366_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_366_ns}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:13355
 translate zh_Hans wife_job_storyline_307_eadc0725:
@@ -28512,7 +28512,7 @@ translate zh_Hans wife_job_storyline_307_e6c8ba00:
 translate zh_Hans wife_job_storyline_307_b494d4a7:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_367_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_367_ns}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:13377
 translate zh_Hans wife_job_storyline_307_77627d96:
@@ -28780,7 +28780,7 @@ translate zh_Hans wife_job_storyline_309_7e484936:
 translate zh_Hans wife_job_storyline_309_b494d4a7:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_367_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_367_ns}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:13535
 translate zh_Hans wife_job_storyline_309_04198a20:
@@ -29144,7 +29144,7 @@ translate zh_Hans wife_job_storyline_311_5a7eb847:
 translate zh_Hans wife_job_storyline_311_a8fdccb2:
 
     # nvlhalifa "{a=show:show_chat_media}{image=khalifa_pic_72}"
-    nvlhalifa ""
+    nvlhalifa "{a=show:show_chat_media}{image=khalifa_pic_72}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:13725
 translate zh_Hans wife_job_storyline_311_d43afefc:
@@ -29508,7 +29508,7 @@ translate zh_Hans wife_job_storyline_313_be7cdb80:
 translate zh_Hans wife_job_storyline_313_7b33658d:
 
     # nvlwife "{a=show:show_chat_media}{image=khalifa_video_5_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=khalifa_video_5_ns}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:13915
 translate zh_Hans wife_job_storyline_313_76008d80:
@@ -29544,7 +29544,7 @@ translate zh_Hans wife_job_storyline_313_62b4d869:
 translate zh_Hans wife_job_storyline_313_724b9630:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_368_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_368_ns}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:13931
 translate zh_Hans wife_job_storyline_313_21e8954f:
@@ -29696,7 +29696,7 @@ translate zh_Hans wife_job_storyline_314_018d55fe:
 translate zh_Hans wife_job_storyline_314_7b33658d:
 
     # nvlwife "{a=show:show_chat_media}{image=khalifa_video_5_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=khalifa_video_5_ns}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:14018
 translate zh_Hans wife_job_storyline_314_d6c9acaf:
@@ -29726,7 +29726,7 @@ translate zh_Hans wife_job_storyline_314_b1954f4b:
 translate zh_Hans wife_job_storyline_314_724b9630:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_368_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_368_ns}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:14032
 translate zh_Hans wife_job_storyline_314_92b512f1:
@@ -31882,7 +31882,7 @@ translate zh_Hans wife_job_storyline_327_5ccedecc:
 translate zh_Hans wife_job_storyline_327_6c2076c2:
 
     # nvlhalifa "{a=show:show_chat_media}{image=khalifa_video_6_ns}"
-    nvlhalifa ""
+    nvlhalifa "{a=show:show_chat_media}{image=khalifa_video_6_ns}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:15199
 translate zh_Hans wife_job_storyline_327_60934ab9:
@@ -32144,7 +32144,7 @@ translate zh_Hans wife_job_storyline_329_f824f8b4:
 translate zh_Hans wife_job_storyline_329_0cdf1167:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_371_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_371_ns}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:15355
 translate zh_Hans wife_job_storyline_329_7b429596:
@@ -32442,7 +32442,7 @@ translate zh_Hans wife_job_storyline_331_052944ef:
 translate zh_Hans wife_job_storyline_331_d6a9721d:
 
     # nvlhalifa "{a=show:show_chat_media}{image=khalifa_video_7_ns}"
-    nvlhalifa ""
+    nvlhalifa "{a=show:show_chat_media}{image=khalifa_video_7_ns}"
 
 # game/scripts/dialogues/wife/wife_job_storyline.rpy:15523
 translate zh_Hans wife_job_storyline_331_1df39a0a:

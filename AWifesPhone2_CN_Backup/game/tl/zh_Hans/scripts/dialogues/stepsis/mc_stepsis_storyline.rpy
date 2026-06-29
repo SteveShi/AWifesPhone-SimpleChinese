@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-29 09:30
+# TODO: Translation updated at 2026-06-29 09:30
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:26
 translate zh_Hans mc_stepsis_storyline_10_76b2fe88:
@@ -268,7 +268,7 @@ translate zh_Hans mc_stepsis_storyline_10_2752c7fb:
 translate zh_Hans mc_stepsis_storyline_10_e0b8c43f:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_6}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_6}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:124
 translate zh_Hans mc_stepsis_storyline_10_f68eaf59:
@@ -286,7 +286,7 @@ translate zh_Hans mc_stepsis_storyline_10_acb41838:
 translate zh_Hans mc_stepsis_storyline_10_facca20e:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_7}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_7}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:134
 translate zh_Hans mc_stepsis_storyline_10_326658b5:
@@ -304,7 +304,7 @@ translate zh_Hans mc_stepsis_storyline_10_504e6a07:
 translate zh_Hans mc_stepsis_storyline_10_58cc2820:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_20}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_20}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:144
 translate zh_Hans mc_stepsis_storyline_10_2397cae3:
@@ -456,7 +456,7 @@ translate zh_Hans mc_stepsis_storyline_11_ffc97d0c:
 translate zh_Hans mc_stepsis_storyline_11_c83c6eb4:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_13}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_13}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:230
 translate zh_Hans mc_stepsis_storyline_11_a3d8fd49:
@@ -788,7 +788,7 @@ translate zh_Hans mc_stepsis_storyline_12_501ba24d:
 translate zh_Hans mc_stepsis_storyline_12_f0bfd3fc:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_45}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_45}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:374
 translate zh_Hans mc_stepsis_storyline_12_0b0d3412:
@@ -920,7 +920,7 @@ translate zh_Hans mc_stepsis_storyline_13_76b2fe88:
 translate zh_Hans mc_stepsis_storyline_13_04083cfa:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_15}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_15}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:450
 translate zh_Hans mc_stepsis_storyline_13_c16c91cc:
@@ -1196,7 +1196,7 @@ translate zh_Hans mc_stepsis_storyline_14_b01c8df2:
 translate zh_Hans mc_stepsis_storyline_14_31aa8552:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_44}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_44}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:581
 translate zh_Hans mc_stepsis_storyline_14_dbd69aa0:
@@ -1244,7 +1244,7 @@ translate zh_Hans mc_stepsis_storyline_14_c948dbd2:
 translate zh_Hans mc_stepsis_storyline_14_56666cec:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_46}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_46}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:601
 translate zh_Hans mc_stepsis_storyline_14_dd36725b:
@@ -1298,7 +1298,7 @@ translate zh_Hans mc_stepsis_storyline_14_185b8297:
 translate zh_Hans mc_stepsis_storyline_14_31aa8552_1:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_44}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_44}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:623
 translate zh_Hans mc_stepsis_storyline_14_f4164060:
@@ -3876,7 +3876,7 @@ translate zh_Hans mc_stepsis_storyline_22_76b2fe88:
 translate zh_Hans mc_stepsis_storyline_22_592f1ddd:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_24}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_24}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:1984
 translate zh_Hans mc_stepsis_storyline_22_9060b23a:
@@ -4038,7 +4038,7 @@ translate zh_Hans mc_stepsis_storyline_22_5d2b4283:
 translate zh_Hans mc_stepsis_storyline_22_30a99aae:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_35}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_35}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:2042
 translate zh_Hans mc_stepsis_storyline_22_133ce5d4:
@@ -4160,7 +4160,7 @@ translate zh_Hans mc_stepsis_storyline_23_2e15a374:
 translate zh_Hans mc_stepsis_storyline_23_a4929334:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_154}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_154}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:2119
 translate zh_Hans mc_stepsis_storyline_23_de6ab2aa:
@@ -4340,7 +4340,7 @@ translate zh_Hans mc_stepsis_storyline_23_309e8f2a:
 translate zh_Hans mc_stepsis_storyline_23_7c04909f:
 
     # nvlstepsis "😳"
-    nvlstepsis ""
+    nvlstepsis "😳|"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:2179
 translate zh_Hans mc_stepsis_storyline_23_45b87f84:
@@ -4498,7 +4498,7 @@ translate zh_Hans mc_stepsis_storyline_24_6bb1c60c:
 translate zh_Hans mc_stepsis_storyline_24_a96d14c3:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_155}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_155}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:2266
 translate zh_Hans mc_stepsis_storyline_24_4056de49:
@@ -4922,7 +4922,7 @@ translate zh_Hans mc_stepsis_storyline_26_4162fea5:
 translate zh_Hans mc_stepsis_storyline_26_2fd8498b:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_156}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_156}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:2476
 translate zh_Hans mc_stepsis_storyline_26_4bbf5937:
@@ -4994,7 +4994,7 @@ translate zh_Hans mc_stepsis_storyline_26_ef193ca8:
 translate zh_Hans mc_stepsis_storyline_26_4b1677c7:
 
     # nvljohn "{a=show:show_chat_media}{image=sis_video_47_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sis_video_47_ns}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:2504
 translate zh_Hans mc_stepsis_storyline_26_a1459a2e:
@@ -5134,7 +5134,7 @@ translate zh_Hans mc_stepsis_storyline_27_7ab08bcc:
 translate zh_Hans mc_stepsis_storyline_27_aa97cc6a:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_157}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_157}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:2587
 translate zh_Hans mc_stepsis_storyline_27_e1b1f7a5:
@@ -5976,7 +5976,7 @@ translate zh_Hans mc_stepsis_storyline_31_5622404d:
 translate zh_Hans mc_stepsis_storyline_31_a9e6e01a:
 
     # nvljenna "😘"
-    nvljenna ""
+    nvljenna "😘|"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:3023
 translate zh_Hans mc_stepsis_storyline_31_53c71d7c:
@@ -7128,7 +7128,7 @@ translate zh_Hans mc_stepsis_storyline_37_045afafe:
 translate zh_Hans mc_stepsis_storyline_37_82614cdd:
 
     # nvljenna "{a=show:show_chat_media}{image=sis_pic_158}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=sis_pic_158}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:3614
 translate zh_Hans mc_stepsis_storyline_37_8f289ba9:
@@ -7564,7 +7564,7 @@ translate zh_Hans mc_stepsis_storyline_39_63913765:
 translate zh_Hans mc_stepsis_storyline_39_0a70141a:
 
     # nvlunknown "{a=show:show_chat_media}{image=sis_video_48_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=sis_video_48_ns}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:3828
 translate zh_Hans mc_stepsis_storyline_39_60bb5741:
@@ -8114,7 +8114,7 @@ translate zh_Hans mc_stepsis_storyline_41_9e685154:
 translate zh_Hans mc_stepsis_storyline_41_13392885:
 
     # nvljohn "{a=show:show_chat_media}{image=sis_video_48_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sis_video_48_ns}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:4090
 translate zh_Hans mc_stepsis_storyline_41_60ffdf58:
@@ -8660,7 +8660,7 @@ translate zh_Hans mc_stepsis_storyline_44_d0df7cc2:
 translate zh_Hans mc_stepsis_storyline_44_480ca151:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_159}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_159}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:4373
 translate zh_Hans mc_stepsis_storyline_44_9f3d7702:
@@ -8684,7 +8684,7 @@ translate zh_Hans mc_stepsis_storyline_44_2a083772:
 translate zh_Hans mc_stepsis_storyline_44_20b4afa4:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_160}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_160}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:4385
 translate zh_Hans mc_stepsis_storyline_44_49368463:
@@ -9740,7 +9740,7 @@ translate zh_Hans mc_stepsis_storyline_50_f5bb1138:
 translate zh_Hans mc_stepsis_storyline_50_658d3e9f:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_161}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_161}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:4964
 translate zh_Hans mc_stepsis_storyline_50_bbb8db07:
@@ -9922,7 +9922,7 @@ translate zh_Hans mc_stepsis_storyline_51_06104787:
 translate zh_Hans mc_stepsis_storyline_51_4e4a093c:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_162}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_162}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:5061
 translate zh_Hans mc_stepsis_storyline_51_e8ad8f0b:
@@ -11206,7 +11206,7 @@ translate zh_Hans mc_stepsis_storyline_57_533517a3:
 translate zh_Hans mc_stepsis_storyline_57_81ff03a7:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_163}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_163}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:5741
 translate zh_Hans mc_stepsis_storyline_57_2fe704a7:
@@ -11698,7 +11698,7 @@ translate zh_Hans mc_stepsis_storyline_60_e619e97d:
 translate zh_Hans mc_stepsis_storyline_60_0ab7c5bb:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_164}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_164}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:6020
 translate zh_Hans mc_stepsis_storyline_60_d0f30d6e:
@@ -11710,7 +11710,7 @@ translate zh_Hans mc_stepsis_storyline_60_d0f30d6e:
 translate zh_Hans mc_stepsis_storyline_60_c0482553:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_165}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_165}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:6028
 translate zh_Hans mc_stepsis_storyline_60_7774a39b:
@@ -11722,7 +11722,7 @@ translate zh_Hans mc_stepsis_storyline_60_7774a39b:
 translate zh_Hans mc_stepsis_storyline_60_329eb01f:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_166}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_166}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:6036
 translate zh_Hans mc_stepsis_storyline_60_1b44e846:
@@ -11746,7 +11746,7 @@ translate zh_Hans mc_stepsis_storyline_60_04c43cf4:
 translate zh_Hans mc_stepsis_storyline_60_5aa7e3ab:
 
     # nvljohn "{a=show:show_chat_media}{image=sis_pic_164}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sis_pic_164}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:6050
 translate zh_Hans mc_stepsis_storyline_60_551a9614:
@@ -11764,7 +11764,7 @@ translate zh_Hans mc_stepsis_storyline_60_04c43cf4_1:
 translate zh_Hans mc_stepsis_storyline_60_5418b790:
 
     # nvljohn "{a=show:show_chat_media}{image=sis_pic_165}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sis_pic_165}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:6060
 translate zh_Hans mc_stepsis_storyline_60_551a9614_1:
@@ -11782,7 +11782,7 @@ translate zh_Hans mc_stepsis_storyline_60_04c43cf4_2:
 translate zh_Hans mc_stepsis_storyline_60_065f5960:
 
     # nvljohn "{a=show:show_chat_media}{image=sis_pic_166}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sis_pic_166}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:6070
 translate zh_Hans mc_stepsis_storyline_60_551a9614_2:
@@ -11812,7 +11812,7 @@ translate zh_Hans mc_stepsis_storyline_60_8818f4cd:
 translate zh_Hans mc_stepsis_storyline_60_0144f12b:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_167}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_167}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:6084
 translate zh_Hans mc_stepsis_storyline_60_ff543ab6:
@@ -12672,7 +12672,7 @@ translate zh_Hans mc_stepsis_storyline_67_6ad2e266:
 translate zh_Hans mc_stepsis_storyline_67_df3796d5:
 
     # nvljohn "{a=show:show_chat_media}{image=sis_video_49_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sis_video_49_ns}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:6601
 translate zh_Hans mc_stepsis_storyline_67_1c182542:
@@ -13320,7 +13320,7 @@ translate zh_Hans mc_stepsis_storyline_70_de4d8082:
 translate zh_Hans mc_stepsis_storyline_70_7c04909f:
 
     # nvlstepsis "😳"
-    nvlstepsis ""
+    nvlstepsis "😳|"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:6914
 translate zh_Hans mc_stepsis_storyline_70_ca316566:
@@ -14266,7 +14266,7 @@ translate zh_Hans mc_stepsis_storyline_76_105494c4:
 translate zh_Hans mc_stepsis_storyline_76_7e2799f1:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_video_52_ns}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_video_52_ns}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:7448
 translate zh_Hans mc_stepsis_storyline_76_1e52975e:
@@ -14558,7 +14558,7 @@ translate zh_Hans mc_stepsis_storyline_78_78a2e3fb:
 translate zh_Hans mc_stepsis_storyline_78_f74242c7:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_171}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_171}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:7614
 translate zh_Hans mc_stepsis_storyline_78_60398795:
@@ -14668,7 +14668,7 @@ translate zh_Hans mc_stepsis_storyline_79_8119d869:
 translate zh_Hans mc_stepsis_storyline_79_8dc4a9e6:
 
     # nvljohn "{a=show:show_chat_media}{image=sis_video_53_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sis_video_53_ns}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:7687
 translate zh_Hans mc_stepsis_storyline_79_800c74d4:
@@ -15670,7 +15670,7 @@ translate zh_Hans mc_stepsis_storyline_83_614315ca:
 translate zh_Hans mc_stepsis_storyline_83_9734f7fc:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_172}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_172}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:8167
 translate zh_Hans mc_stepsis_storyline_83_6876a18b:
@@ -15694,7 +15694,7 @@ translate zh_Hans mc_stepsis_storyline_83_cfa9a844:
 translate zh_Hans mc_stepsis_storyline_83_2759c4e4:
 
     # nvljohn "{a=show:show_chat_media}{image=mc_pic_82}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=mc_pic_82}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:8179
 translate zh_Hans mc_stepsis_storyline_83_04d4f4bc:
@@ -15706,7 +15706,7 @@ translate zh_Hans mc_stepsis_storyline_83_04d4f4bc:
 translate zh_Hans mc_stepsis_storyline_83_7c04909f:
 
     # nvlstepsis "😳"
-    nvlstepsis ""
+    nvlstepsis "😳|"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:8183
 translate zh_Hans mc_stepsis_storyline_83_db3651b6:
@@ -16246,7 +16246,7 @@ translate zh_Hans mc_stepsis_storyline_86_9a4bf3b9:
 translate zh_Hans mc_stepsis_storyline_86_7c04909f:
 
     # nvlstepsis "😳"
-    nvlstepsis ""
+    nvlstepsis "😳|"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:8460
 translate zh_Hans mc_stepsis_storyline_86_538fb830:
@@ -16422,7 +16422,7 @@ translate zh_Hans mc_stepsis_storyline_87_dcfd99af:
 translate zh_Hans mc_stepsis_storyline_87_f6920395:
 
     # nvljohn "{a=show:show_chat_media}{image=sis_video_54_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sis_video_54_ns}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:8555
 translate zh_Hans mc_stepsis_storyline_87_5c8cfbd6:
@@ -16476,7 +16476,7 @@ translate zh_Hans mc_stepsis_storyline_87_c99d4745:
 translate zh_Hans mc_stepsis_storyline_87_079380a0:
 
     # nvljohn "{a=show:show_chat_media}{image=sis_video_55_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sis_video_55_ns}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:8577
 translate zh_Hans mc_stepsis_storyline_87_3a08a298:
@@ -17032,7 +17032,7 @@ translate zh_Hans mc_stepsis_storyline_90_031297f6:
 translate zh_Hans mc_stepsis_storyline_90_8f09865f:
 
     # nvljohn "{a=show:show_chat_media}{image=sis_pic_173}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sis_pic_173}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:8864
 translate zh_Hans mc_stepsis_storyline_90_c9f57f96:
@@ -17068,7 +17068,7 @@ translate zh_Hans mc_stepsis_storyline_90_c23caf33:
 translate zh_Hans mc_stepsis_storyline_90_4455c492:
 
     # nvljohn "{a=show:show_chat_media}{image=sis_pic_174}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sis_pic_174}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:8880
 translate zh_Hans mc_stepsis_storyline_90_a0fecf61:
@@ -17402,7 +17402,7 @@ translate zh_Hans mc_stepsis_storyline_92_dc9323fc:
 translate zh_Hans mc_stepsis_storyline_92_007d2b49:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_video_56_ns}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_video_56_ns}"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:9060
 translate zh_Hans mc_stepsis_storyline_92_c57974d6:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-29 09:30
+# TODO: Translation updated at 2026-06-29 09:30
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:96
 translate zh_Hans aria_storyline_0_b56bde17:
@@ -816,7 +816,7 @@ translate zh_Hans aria_storyline_3_47a67e07:
 translate zh_Hans aria_storyline_3_ca5303f3:
 
     # nvlaria "{a=show:show_chat_media}{image=aria_pic_19}"
-    nvlaria ""
+    nvlaria "{a=show:show_chat_media}{image=aria_pic_19}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:465
 translate zh_Hans aria_storyline_3_d59d6316:
@@ -1002,7 +1002,7 @@ translate zh_Hans aria_storyline_4_76b2fe88:
 translate zh_Hans aria_storyline_4_b4738603:
 
     # nvlaria "{a=show:show_chat_media}{image=aria_pic_20}"
-    nvlaria ""
+    nvlaria "{a=show:show_chat_media}{image=aria_pic_20}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:560
 translate zh_Hans aria_storyline_4_7ec3e2e3:
@@ -2370,7 +2370,7 @@ translate zh_Hans aria_storyline_7_b48b3601_1:
 translate zh_Hans aria_storyline_7_8ea6364a:
 
     # nvlaria "{a=show:show_chat_media}{image=aria_pic_21}"
-    nvlaria ""
+    nvlaria "{a=show:show_chat_media}{image=aria_pic_21}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:1111
 translate zh_Hans aria_storyline_7_a9e77baa:
@@ -3662,13 +3662,13 @@ translate zh_Hans aria_storyline_11_ee634f87:
 translate zh_Hans aria_storyline_11_8fb92e0d:
 
     # nvlunknown "{a=show:show_chat_media}{image=aria_video_2_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=aria_video_2_ns}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:1669
 translate zh_Hans aria_storyline_11_3f2d221d:
 
     # nvlunknown "{a=show:show_chat_media}{image=aria_video_3_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=aria_video_3_ns}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:1673
 translate zh_Hans aria_storyline_11_5a208d79:
@@ -4306,7 +4306,7 @@ translate zh_Hans aria_storyline_12_6e2020f6:
 translate zh_Hans aria_storyline_12_47145256:
 
     # nvlaria "{a=show:show_chat_media}{image=aria_pic_22}"
-    nvlaria ""
+    nvlaria "{a=show:show_chat_media}{image=aria_pic_22}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:1920
 translate zh_Hans aria_storyline_12_087aa79f:
@@ -4602,7 +4602,7 @@ translate zh_Hans aria_storyline_13_98c259dc:
 translate zh_Hans aria_storyline_13_5d3c821b:
 
     # nvlangeline "{a=show:show_chat_media}{image=angeline_pic_1}"
-    nvlangeline ""
+    nvlangeline "{a=show:show_chat_media}{image=angeline_pic_1}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:2057
 translate zh_Hans aria_storyline_13_1462c41b:
@@ -4890,7 +4890,7 @@ translate zh_Hans aria_storyline_14_76b2fe88:
 translate zh_Hans aria_storyline_14_0f8a1a46:
 
     # nvlaria "{a=show:show_chat_media}{image=aria_pic_23}"
-    nvlaria ""
+    nvlaria "{a=show:show_chat_media}{image=aria_pic_23}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:2200
 translate zh_Hans aria_storyline_14_f4248b5c:
@@ -4956,7 +4956,7 @@ translate zh_Hans aria_storyline_14_b9da00db:
 translate zh_Hans aria_storyline_14_207975b8:
 
     # nvlaria "{a=show:show_chat_media}{image=aria_pic_24}"
-    nvlaria ""
+    nvlaria "{a=show:show_chat_media}{image=aria_pic_24}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:2226
 translate zh_Hans aria_storyline_14_c6f20a26:
@@ -5004,7 +5004,7 @@ translate zh_Hans aria_storyline_14_6ad865f9:
 translate zh_Hans aria_storyline_14_3303cd74:
 
     # nvlaria "{a=show:show_chat_media}{image=aria_pic_25}"
-    nvlaria ""
+    nvlaria "{a=show:show_chat_media}{image=aria_pic_25}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:2246
 translate zh_Hans aria_storyline_14_acacc449:
@@ -5136,7 +5136,7 @@ translate zh_Hans aria_storyline_14_5b7ca2a9:
 translate zh_Hans aria_storyline_14_d8d7073d:
 
     # nvlaria "{a=show:show_chat_media}{image=aria_pic_26}"
-    nvlaria ""
+    nvlaria "{a=show:show_chat_media}{image=aria_pic_26}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:2294
 translate zh_Hans aria_storyline_14_e61775c1:
@@ -5148,7 +5148,7 @@ translate zh_Hans aria_storyline_14_e61775c1:
 translate zh_Hans aria_storyline_14_6b13d5ae:
 
     # nvlaria "{a=show:show_chat_media}{image=aria_pic_27}"
-    nvlaria ""
+    nvlaria "{a=show:show_chat_media}{image=aria_pic_27}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:2302
 translate zh_Hans aria_storyline_14_a2b0bee4:
@@ -5342,7 +5342,7 @@ translate zh_Hans aria_storyline_15_fd493a50:
 translate zh_Hans aria_storyline_15_7d01cc14:
 
     # nvlaria "{a=show:show_chat_media}{image=aria_pic_28}"
-    nvlaria ""
+    nvlaria "{a=show:show_chat_media}{image=aria_pic_28}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:2401
 translate zh_Hans aria_storyline_15_8490e038:
@@ -5408,7 +5408,7 @@ translate zh_Hans aria_storyline_15_87b7f7f6:
 translate zh_Hans aria_storyline_15_02ce7fcb:
 
     # nvlaria "{a=show:show_chat_media}{image=aria_pic_29}"
-    nvlaria ""
+    nvlaria "{a=show:show_chat_media}{image=aria_pic_29}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:2427
 translate zh_Hans aria_storyline_15_d5636fe6:
@@ -5426,7 +5426,7 @@ translate zh_Hans aria_storyline_15_0d3b0416:
 translate zh_Hans aria_storyline_15_41748c2d:
 
     # nvlaria "{a=show:show_chat_media}{image=aria_pic_30}"
-    nvlaria ""
+    nvlaria "{a=show:show_chat_media}{image=aria_pic_30}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:2437
 translate zh_Hans aria_storyline_15_195020ec:
@@ -5480,13 +5480,13 @@ translate zh_Hans aria_storyline_15_29cca28c:
 translate zh_Hans aria_storyline_15_560ea8c7:
 
     # nvlaria "{a=show:show_chat_media}{image=aria_pic_31}"
-    nvlaria ""
+    nvlaria "{a=show:show_chat_media}{image=aria_pic_31}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:2461
 translate zh_Hans aria_storyline_15_d9728ec9:
 
     # nvlaria "{a=show:show_chat_media}{image=aria_pic_32}"
-    nvlaria ""
+    nvlaria "{a=show:show_chat_media}{image=aria_pic_32}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:2465
 translate zh_Hans aria_storyline_15_c3eb75d7:
@@ -6606,7 +6606,7 @@ translate zh_Hans aria_storyline_18_76b2fe88:
 translate zh_Hans aria_storyline_18_39d2c2ee:
 
     # nvlangeline "{a=show:show_chat_media}{image=angeline_pic_2}"
-    nvlangeline ""
+    nvlangeline "{a=show:show_chat_media}{image=angeline_pic_2}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:2932
 translate zh_Hans aria_storyline_18_ed05ba06:
@@ -7082,7 +7082,7 @@ translate zh_Hans aria_storyline_19_de0e3f9e:
 translate zh_Hans aria_storyline_19_4e1ef806:
 
     # nvlangeline "{a=show:show_chat_media}{image=angeline_pic_3}"
-    nvlangeline ""
+    nvlangeline "{a=show:show_chat_media}{image=angeline_pic_3}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:3125
 translate zh_Hans aria_storyline_19_1ac03432:
@@ -7100,7 +7100,7 @@ translate zh_Hans aria_storyline_19_f7d2ec97:
 translate zh_Hans aria_storyline_19_ee4644d6:
 
     # nvlangeline "{a=show:show_chat_media}{image=angeline_pic_4}"
-    nvlangeline ""
+    nvlangeline "{a=show:show_chat_media}{image=angeline_pic_4}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:3135
 translate zh_Hans aria_storyline_19_00c6b21b:
@@ -7124,7 +7124,7 @@ translate zh_Hans aria_storyline_19_ddec9725:
 translate zh_Hans aria_storyline_19_d6d2e4ea:
 
     # nvlangeline "{a=show:show_chat_media}{image=angeline_pic_5}"
-    nvlangeline ""
+    nvlangeline "{a=show:show_chat_media}{image=angeline_pic_5}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:3147
 translate zh_Hans aria_storyline_19_2df444ad:
@@ -7148,7 +7148,7 @@ translate zh_Hans aria_storyline_19_c92394d1:
 translate zh_Hans aria_storyline_19_ec52c33c:
 
     # nvlangeline "{a=show:show_chat_media}{image=angeline_pic_6}"
-    nvlangeline ""
+    nvlangeline "{a=show:show_chat_media}{image=angeline_pic_6}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:3159
 translate zh_Hans aria_storyline_19_f90764e8:
@@ -7166,7 +7166,7 @@ translate zh_Hans aria_storyline_19_150f0f7f:
 translate zh_Hans aria_storyline_19_bf57919c:
 
     # nvlangeline "{a=show:show_chat_media}{image=angeline_pic_7}"
-    nvlangeline ""
+    nvlangeline "{a=show:show_chat_media}{image=angeline_pic_7}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:3169
 translate zh_Hans aria_storyline_19_a5b17ec9:
@@ -7262,7 +7262,7 @@ translate zh_Hans aria_storyline_19_1a5ff063:
 translate zh_Hans aria_storyline_19_c98b8d3a:
 
     # nvlangeline "{a=show:show_chat_media}{image=angeline_pic_8}"
-    nvlangeline ""
+    nvlangeline "{a=show:show_chat_media}{image=angeline_pic_8}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:3205
 translate zh_Hans aria_storyline_19_a50f65b7:
@@ -10154,7 +10154,7 @@ translate zh_Hans aria_storyline_32_70e57221:
 translate zh_Hans aria_storyline_32_d5e70ffc:
 
     # nvlangeline "{a=show:show_chat_media}{image=angeline_pic_17}"
-    nvlangeline ""
+    nvlangeline "{a=show:show_chat_media}{image=angeline_pic_17}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:4628
 translate zh_Hans aria_storyline_32_c599fc3b:
@@ -10354,7 +10354,7 @@ translate zh_Hans aria_storyline_33_b0d38c72:
 translate zh_Hans aria_storyline_33_c1fdeb84:
 
     # nvlangeline "😏"
-    nvlangeline ""
+    nvlangeline "😏|"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:4725
 translate zh_Hans aria_storyline_33_5911e8c1:
@@ -10530,13 +10530,13 @@ translate zh_Hans aria_storyline_34_3a5c8b59:
 translate zh_Hans aria_storyline_34_6abb3e6d:
 
     # nvlangeline "{a=show:show_chat_media}{image=angeline_pic_18}"
-    nvlangeline ""
+    nvlangeline "{a=show:show_chat_media}{image=angeline_pic_18}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:4818
 translate zh_Hans aria_storyline_34_b729fbf5:
 
     # nvlangeline "😘"
-    nvlangeline ""
+    nvlangeline "😘|"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:4820
 translate zh_Hans aria_storyline_34_e7705031:
@@ -10900,7 +10900,7 @@ translate zh_Hans aria_storyline_36_d92ff64e:
 translate zh_Hans aria_storyline_36_52120239:
 
     # nvlangeline "{a=show:show_chat_media}{image=angeline_pic_19}"
-    nvlangeline ""
+    nvlangeline "{a=show:show_chat_media}{image=angeline_pic_19}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:5006
 translate zh_Hans aria_storyline_36_dcde137d:
@@ -10918,7 +10918,7 @@ translate zh_Hans aria_storyline_36_92cff4b5:
 translate zh_Hans aria_storyline_36_b729fbf5:
 
     # nvlangeline "😘"
-    nvlangeline ""
+    nvlangeline "😘|"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:5012
 translate zh_Hans aria_storyline_36_f46fa1df:
@@ -11452,7 +11452,7 @@ translate zh_Hans aria_storyline_39_cd86dcdf:
 translate zh_Hans aria_storyline_39_97548f59:
 
     # nvlangeline "{a=show:show_chat_media}{image=angeline_pic_21}"
-    nvlangeline ""
+    nvlangeline "{a=show:show_chat_media}{image=angeline_pic_21}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:5289
 translate zh_Hans aria_storyline_39_99a3bdb5:
@@ -11578,7 +11578,7 @@ translate zh_Hans aria_storyline_39_611b4796:
 translate zh_Hans aria_storyline_39_55e9f600:
 
     # nvlangeline "{a=show:show_chat_media}{image=angeline_pic_20}"
-    nvlangeline ""
+    nvlangeline "{a=show:show_chat_media}{image=angeline_pic_20}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:5335
 translate zh_Hans aria_storyline_39_7f36deae:
@@ -11614,7 +11614,7 @@ translate zh_Hans aria_storyline_39_4af791b7:
 translate zh_Hans aria_storyline_39_b729fbf5:
 
     # nvlangeline "😘"
-    nvlangeline ""
+    nvlangeline "😘|"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:5347
 translate zh_Hans aria_storyline_39_4494cf49:
@@ -11748,7 +11748,7 @@ translate zh_Hans aria_storyline_40_0046512a:
 translate zh_Hans aria_storyline_40_d48f1741:
 
     # nvlaria "{a=show:show_chat_media}{image=aria_pic_33}"
-    nvlaria ""
+    nvlaria "{a=show:show_chat_media}{image=aria_pic_33}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:5426
 translate zh_Hans aria_storyline_40_3af045ed:
@@ -11948,7 +11948,7 @@ translate zh_Hans aria_storyline_41_6073163b:
 translate zh_Hans aria_storyline_41_129a53e9:
 
     # nvlangeline "{a=show:show_chat_media}{image=angeline_video_2_ns}"
-    nvlangeline ""
+    nvlangeline "{a=show:show_chat_media}{image=angeline_video_2_ns}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:5527
 translate zh_Hans aria_storyline_41_6d343a8b:
@@ -12100,7 +12100,7 @@ translate zh_Hans aria_storyline_42_7dd8272b:
 translate zh_Hans aria_storyline_42_336097a0:
 
     # nvlunknown5 "{a=show:show_chat_media}{image=angeline_video_3_ns}"
-    nvlunknown5 ""
+    nvlunknown5 "{a=show:show_chat_media}{image=angeline_video_3_ns}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:5616
 translate zh_Hans aria_storyline_42_4d484038:
@@ -12532,7 +12532,7 @@ translate zh_Hans aria_storyline_45_19e36535:
 translate zh_Hans aria_storyline_45_be427561:
 
     # nvlangeline "{a=show:show_chat_media}{image=angeline_pic_22}"
-    nvlangeline ""
+    nvlangeline "{a=show:show_chat_media}{image=angeline_pic_22}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:5859
 translate zh_Hans aria_storyline_45_4e32419d:
@@ -12768,7 +12768,7 @@ translate zh_Hans aria_storyline_46_90bc0761:
 translate zh_Hans aria_storyline_46_b9a00925:
 
     # nvlaria "{a=show:show_chat_media}{image=angeline_pic_23}"
-    nvlaria ""
+    nvlaria "{a=show:show_chat_media}{image=angeline_pic_23}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:5974
 translate zh_Hans aria_storyline_46_763236fc:
@@ -13070,7 +13070,7 @@ translate zh_Hans aria_storyline_47_4bad5134:
 translate zh_Hans aria_storyline_47_7d3ae7ac:
 
     # nvlangeline "{a=show:show_chat_media}{image=angeline_pic_24}"
-    nvlangeline ""
+    nvlangeline "{a=show:show_chat_media}{image=angeline_pic_24}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:6111
 translate zh_Hans aria_storyline_47_4f013634:
@@ -13244,7 +13244,7 @@ translate zh_Hans aria_storyline_47_521c7406:
 translate zh_Hans aria_storyline_47_b729fbf5:
 
     # nvlangeline "😘"
-    nvlangeline ""
+    nvlangeline "😘|"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:6181
 translate zh_Hans aria_storyline_47_53c71d7c:
@@ -13554,7 +13554,7 @@ translate zh_Hans aria_storyline_49_6a0b7c72:
 translate zh_Hans aria_storyline_49_1cd82f45:
 
     # nvlangeline "{a=show:show_chat_media}{image=angeline_pic_25}"
-    nvlangeline ""
+    nvlangeline "{a=show:show_chat_media}{image=angeline_pic_25}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:6345
 translate zh_Hans aria_storyline_49_507c4613:
@@ -13810,7 +13810,7 @@ translate zh_Hans aria_storyline_51_429c8453:
 translate zh_Hans aria_storyline_51_c152a141:
 
     # nvlunknown5 "{a=show:show_chat_media}{image=angeline_video_4_ns}"
-    nvlunknown5 ""
+    nvlunknown5 "{a=show:show_chat_media}{image=angeline_video_4_ns}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:6499
 translate zh_Hans aria_storyline_51_17635f7c:
@@ -14238,7 +14238,7 @@ translate zh_Hans aria_storyline_52_72071cd2:
 translate zh_Hans aria_storyline_52_2aca2db2:
 
     # nvlangeline "{a=show:show_chat_media}{image=angeline_pic_26}"
-    nvlangeline ""
+    nvlangeline "{a=show:show_chat_media}{image=angeline_pic_26}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:6690
 translate zh_Hans aria_storyline_52_bbf93a27:
@@ -14486,7 +14486,7 @@ translate zh_Hans aria_storyline_53_1eec3953:
 translate zh_Hans aria_storyline_53_361e5a69:
 
     # nvlaria "{a=show:show_chat_media}{image=aria_pic_34}"
-    nvlaria ""
+    nvlaria "{a=show:show_chat_media}{image=aria_pic_34}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:6821
 translate zh_Hans aria_storyline_53_fb2d279e:
@@ -14504,7 +14504,7 @@ translate zh_Hans aria_storyline_53_7bcb9c8f:
 translate zh_Hans aria_storyline_53_228d360a:
 
     # nvlaria "😘"
-    nvlaria ""
+    nvlaria "😘|"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:6827
 translate zh_Hans aria_storyline_53_57478d4e:
@@ -14650,7 +14650,7 @@ translate zh_Hans aria_storyline_54_39587be5:
 translate zh_Hans aria_storyline_54_d545dc95:
 
     # nvlangeline "{a=show:show_chat_media}{image=angeline_pic_27}"
-    nvlangeline ""
+    nvlangeline "{a=show:show_chat_media}{image=angeline_pic_27}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:6910
 translate zh_Hans aria_storyline_54_d401e78e:
@@ -14862,7 +14862,7 @@ translate zh_Hans aria_storyline_55_c6151aaf:
 translate zh_Hans aria_storyline_55_bdc2171c:
 
     # nvlunknown5 "{a=show:show_chat_media}{image=angeline_pic_28}"
-    nvlunknown5 ""
+    nvlunknown5 "{a=show:show_chat_media}{image=angeline_pic_28}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:7015
 translate zh_Hans aria_storyline_55_4e936a4b:
@@ -15050,7 +15050,7 @@ translate zh_Hans aria_storyline_56_3b315733:
 translate zh_Hans aria_storyline_56_bdc2171c:
 
     # nvlunknown5 "{a=show:show_chat_media}{image=angeline_pic_28}"
-    nvlunknown5 ""
+    nvlunknown5 "{a=show:show_chat_media}{image=angeline_pic_28}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:7110
 translate zh_Hans aria_storyline_56_f8a0ef67:
@@ -15486,7 +15486,7 @@ translate zh_Hans aria_storyline_58_7915006d:
 translate zh_Hans aria_storyline_58_f44d9fde:
 
     # nvlunknown5 "{a=show:show_chat_media}{image=angeline_video_5_ns}"
-    nvlunknown5 ""
+    nvlunknown5 "{a=show:show_chat_media}{image=angeline_video_5_ns}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:7320
 translate zh_Hans aria_storyline_58_bd666cf8:
@@ -15612,7 +15612,7 @@ translate zh_Hans aria_storyline_59_76b2fe88:
 translate zh_Hans aria_storyline_59_e2679b1d:
 
     # nvljohn "{a=show:show_chat_media}{image=angeline_video_5_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=angeline_video_5_ns}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:7393
 translate zh_Hans aria_storyline_59_eb82524f:
@@ -16562,7 +16562,7 @@ translate zh_Hans aria_storyline_64_8f68899c:
 translate zh_Hans aria_storyline_64_ec339546:
 
     # nvlangeline "{a=show:show_chat_media}{image=angeline_video_6_ns}"
-    nvlangeline ""
+    nvlangeline "{a=show:show_chat_media}{image=angeline_video_6_ns}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:7878
 translate zh_Hans aria_storyline_64_4ecb352c:
@@ -16836,7 +16836,7 @@ translate zh_Hans aria_storyline_67_96462a54:
 translate zh_Hans aria_storyline_67_a7a9467a:
 
     # nvlangeline "{a=show:show_chat_media}{image=angeline_pic_31}"
-    nvlangeline ""
+    nvlangeline "{a=show:show_chat_media}{image=angeline_pic_31}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:8039
 translate zh_Hans aria_storyline_67_2b4e36cf:
@@ -16860,7 +16860,7 @@ translate zh_Hans aria_storyline_67_1fb574eb:
 translate zh_Hans aria_storyline_67_085389b6:
 
     # nvlangeline "{a=show:show_chat_media}{image=angeline_video_7_ns}"
-    nvlangeline ""
+    nvlangeline "{a=show:show_chat_media}{image=angeline_video_7_ns}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:8051
 translate zh_Hans aria_storyline_67_d91ece9b:
@@ -17254,7 +17254,7 @@ translate zh_Hans aria_storyline_69_76074658:
 translate zh_Hans aria_storyline_69_604c211b:
 
     # nvlangeline "{a=show:show_chat_media}{image=angeline_video_8_ns}"
-    nvlangeline ""
+    nvlangeline "{a=show:show_chat_media}{image=angeline_video_8_ns}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:8251
 translate zh_Hans aria_storyline_69_6d0a95c4:
@@ -17648,7 +17648,7 @@ translate zh_Hans aria_storyline_71_711c60e8:
 translate zh_Hans aria_storyline_71_6056cbb4:
 
     # nvlunknown5 "{a=show:show_chat_media}{image=angeline_pic_34}"
-    nvlunknown5 ""
+    nvlunknown5 "{a=show:show_chat_media}{image=angeline_pic_34}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:8464
 translate zh_Hans aria_storyline_71_28a108c7:
@@ -18000,7 +18000,7 @@ translate zh_Hans aria_storyline_73_41a53a4e:
 translate zh_Hans aria_storyline_73_86a3b667:
 
     # nvlangeline "{a=show:show_chat_media}{image=angeline_pic_32}"
-    nvlangeline ""
+    nvlangeline "{a=show:show_chat_media}{image=angeline_pic_32}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:8663
 translate zh_Hans aria_storyline_73_60bb5741:
@@ -18024,7 +18024,7 @@ translate zh_Hans aria_storyline_73_c7a3de4f:
 translate zh_Hans aria_storyline_73_7f4427e5:
 
     # nvlangeline "{a=show:show_chat_media}{image=angeline_pic_33}"
-    nvlangeline ""
+    nvlangeline "{a=show:show_chat_media}{image=angeline_pic_33}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:8675
 translate zh_Hans aria_storyline_73_780e5c2d:
@@ -18784,7 +18784,7 @@ translate zh_Hans aria_storyline_78_add9920c:
 translate zh_Hans aria_storyline_78_e78e30d3:
 
     # nvlangeline "😳"
-    nvlangeline ""
+    nvlangeline "😳|"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:9090
 translate zh_Hans aria_storyline_78_0d667ea5:
@@ -19044,7 +19044,7 @@ translate zh_Hans aria_storyline_79_ce0a60ce:
 translate zh_Hans aria_storyline_79_d2f9648e:
 
     # nvlunknown5 "😂"
-    nvlunknown5 ""
+    nvlunknown5 "😂|"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:9221
 translate zh_Hans aria_storyline_79_49b0f035:
@@ -19154,7 +19154,7 @@ translate zh_Hans aria_storyline_80_c0806932:
 translate zh_Hans aria_storyline_80_b69f90b5:
 
     # nvlunknown5 "{a=show:show_chat_media}{image=angeline_video_9_ns}"
-    nvlunknown5 ""
+    nvlunknown5 "{a=show:show_chat_media}{image=angeline_video_9_ns}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:9294
 translate zh_Hans aria_storyline_80_05751f6c:
@@ -19848,7 +19848,7 @@ translate zh_Hans aria_storyline_82_2407a55c:
 translate zh_Hans aria_storyline_82_f49e1e86:
 
     # nvlaria "{a=show:show_chat_media}{image=aria_pic_36}"
-    nvlaria ""
+    nvlaria "{a=show:show_chat_media}{image=aria_pic_36}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:9606
 translate zh_Hans aria_storyline_82_cb8fd063:
@@ -20060,7 +20060,7 @@ translate zh_Hans aria_storyline_83_980053bf:
 translate zh_Hans aria_storyline_83_1ce679ed:
 
     # nvlaria "{a=show:show_chat_media}{image=aria_pic_37}"
-    nvlaria ""
+    nvlaria "{a=show:show_chat_media}{image=aria_pic_37}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:9713
 translate zh_Hans aria_storyline_83_fa9b6773:
@@ -20316,7 +20316,7 @@ translate zh_Hans aria_storyline_85_a580b125:
 translate zh_Hans aria_storyline_85_18d09d3b:
 
     # nvljohn "{a=show:show_chat_media}{image=aria_video_6_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=aria_video_6_ns}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:9867
 translate zh_Hans aria_storyline_85_2f899b21:
@@ -20328,7 +20328,7 @@ translate zh_Hans aria_storyline_85_2f899b21:
 translate zh_Hans aria_storyline_85_2e727b56:
 
     # nvlaria "😂"
-    nvlaria ""
+    nvlaria "😂|"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:9871
 translate zh_Hans aria_storyline_85_56afc227:
@@ -21502,7 +21502,7 @@ translate zh_Hans aria_storyline_90_a75625b4:
 translate zh_Hans aria_storyline_90_009fb7c7:
 
     # nvlaria "{a=show:show_chat_media}{image=aria_pic_38}"
-    nvlaria ""
+    nvlaria "{a=show:show_chat_media}{image=aria_pic_38}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:10428
 translate zh_Hans aria_storyline_90_ec14b89f:
@@ -21932,7 +21932,7 @@ translate zh_Hans aria_storyline_92_bdbd4eed:
 translate zh_Hans aria_storyline_92_47d1e683:
 
     # nvljohn "{a=show:show_chat_media}{image=aria_video_7_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=aria_video_7_ns}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:10640
 translate zh_Hans aria_storyline_92_93e2cb71:
@@ -21968,7 +21968,7 @@ translate zh_Hans aria_storyline_92_848d62c3:
 translate zh_Hans aria_storyline_92_e837a32e:
 
     # nvljohn "{a=show:show_chat_media}{image=aria_video_8_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=aria_video_8_ns}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:10656
 translate zh_Hans aria_storyline_92_d06fbe93:
@@ -22774,7 +22774,7 @@ translate zh_Hans aria_storyline_96_b03f01a0:
 translate zh_Hans aria_storyline_96_761b75c9:
 
     # nvlaria "{a=show:show_chat_media}{image=aria_pic_39}"
-    nvlaria ""
+    nvlaria "{a=show:show_chat_media}{image=aria_pic_39}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:11073
 translate zh_Hans aria_storyline_96_c02e49a4:
@@ -22968,7 +22968,7 @@ translate zh_Hans aria_storyline_97_a6a955b0:
 translate zh_Hans aria_storyline_97_8e3629ef:
 
     # nvljohn "{a=show:show_chat_media}{image=aria_video_9_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=aria_video_9_ns}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:11174
 translate zh_Hans aria_storyline_97_f2ec10c5:
@@ -23478,7 +23478,7 @@ translate zh_Hans aria_storyline_100_cf46dcfe:
 translate zh_Hans aria_storyline_100_ed11cf89:
 
     # nvljohn "{a=show:show_chat_media}{image=aria_video_10_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=aria_video_10_ns}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:11445
 translate zh_Hans aria_storyline_100_582791a7:
@@ -24226,7 +24226,7 @@ translate zh_Hans aria_storyline_108_5c75e598:
 translate zh_Hans aria_storyline_108_6bdc9399:
 
     # nvlangeline "{a=show:show_chat_media}{image=angeline_pic_35}"
-    nvlangeline ""
+    nvlangeline "{a=show:show_chat_media}{image=angeline_pic_35}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:11959
 translate zh_Hans aria_storyline_108_9e68d720:
@@ -24674,7 +24674,7 @@ translate zh_Hans aria_storyline_113_48555698:
 translate zh_Hans aria_storyline_113_73536ba0:
 
     # nvlangeline "{a=show:show_chat_media}{image=angeline_video_10_ns}"
-    nvlangeline ""
+    nvlangeline "{a=show:show_chat_media}{image=angeline_video_10_ns}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:12274
 translate zh_Hans aria_storyline_113_87858750:
@@ -24790,7 +24790,7 @@ translate zh_Hans aria_storyline_114_ca8ff73e:
 translate zh_Hans aria_storyline_114_dfeae8e9:
 
     # nvlaria "{a=show:show_chat_media}{image=aria_pic_40}"
-    nvlaria ""
+    nvlaria "{a=show:show_chat_media}{image=aria_pic_40}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:12349
 translate zh_Hans aria_storyline_114_8fb338a2:
@@ -24840,7 +24840,7 @@ translate zh_Hans aria_storyline_115_5a985f4f:
 translate zh_Hans aria_storyline_115_448ef0d6:
 
     # nvlaria "{a=show:show_chat_media}{image=aria_video_11_ns}"
-    nvlaria ""
+    nvlaria "{a=show:show_chat_media}{image=aria_video_11_ns}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:12402
 translate zh_Hans aria_storyline_115_2a847e28:
@@ -25300,7 +25300,7 @@ translate zh_Hans aria_storyline_120_7992f49b:
 translate zh_Hans aria_storyline_120_74f91083:
 
     # nvlangeline "{a=show:show_chat_media}{image=angeline_pic_36}"
-    nvlangeline ""
+    nvlangeline "{a=show:show_chat_media}{image=angeline_pic_36}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:12721
 translate zh_Hans aria_storyline_120_037a87bd:
@@ -26574,7 +26574,7 @@ translate zh_Hans aria_storyline_133_d2a3504e:
 translate zh_Hans aria_storyline_133_9b7779e9:
 
     # nvlangeline "{a=show:show_chat_media}{image=angeline_pic_37}"
-    nvlangeline ""
+    nvlangeline "{a=show:show_chat_media}{image=angeline_pic_37}"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:13572
 translate zh_Hans aria_storyline_133_a55dd408:

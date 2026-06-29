@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-29 09:30
+# TODO: Translation updated at 2026-06-29 09:30
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:89
 translate zh_Hans chee_storyline_1_c589a165:
@@ -598,7 +598,7 @@ translate zh_Hans chee_storyline_3_73f157e7:
 translate zh_Hans chee_storyline_3_13859fb9:
 
     # nvlchee "{a=show:show_chat_media}{image=chee_pic_1}"
-    nvlchee ""
+    nvlchee "{a=show:show_chat_media}{image=chee_pic_1}"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:370
 translate zh_Hans chee_storyline_3_559d80b5:
@@ -1046,19 +1046,19 @@ translate zh_Hans chee_storyline_5_83f1017f:
 translate zh_Hans chee_storyline_5_5ba1ec6f:
 
     # nvlchee "{a=show:show_chat_media}{image=chee_pic_2}"
-    nvlchee ""
+    nvlchee "{a=show:show_chat_media}{image=chee_pic_2}"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:587
 translate zh_Hans chee_storyline_5_3591a6f9:
 
     # nvlchee "{a=show:show_chat_media}{image=chee_pic_3}"
-    nvlchee ""
+    nvlchee "{a=show:show_chat_media}{image=chee_pic_3}"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:591
 translate zh_Hans chee_storyline_5_381a6a04:
 
     # nvlchee "{a=show:show_chat_media}{image=chee_pic_4}"
-    nvlchee ""
+    nvlchee "{a=show:show_chat_media}{image=chee_pic_4}"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:594
 translate zh_Hans chee_storyline_5_028f0643:
@@ -1094,19 +1094,19 @@ translate zh_Hans chee_storyline_5_fef7dc2d:
 translate zh_Hans chee_storyline_5_23f6069c:
 
     # nvljohn "{a=show:show_chat_media}{image=chee_pic_2}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=chee_pic_2}"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:614
 translate zh_Hans chee_storyline_5_3591a6f9_1:
 
     # nvlchee "{a=show:show_chat_media}{image=chee_pic_3}"
-    nvlchee ""
+    nvlchee "{a=show:show_chat_media}{image=chee_pic_3}"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:619
 translate zh_Hans chee_storyline_5_381a6a04_1:
 
     # nvlchee "{a=show:show_chat_media}{image=chee_pic_4}"
-    nvlchee ""
+    nvlchee "{a=show:show_chat_media}{image=chee_pic_4}"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:621
 translate zh_Hans chee_storyline_5_7c019873:
@@ -1284,7 +1284,7 @@ translate zh_Hans chee_storyline_7_4a450a9d:
 translate zh_Hans chee_storyline_7_455729dd:
 
     # nvlchee "{a=show:show_chat_media}{image=chee_pic_5}"
-    nvlchee ""
+    nvlchee "{a=show:show_chat_media}{image=chee_pic_5}"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:747
 translate zh_Hans chee_storyline_7_fa18276a:
@@ -1374,7 +1374,7 @@ translate zh_Hans chee_storyline_7_72c5b9ed:
 translate zh_Hans chee_storyline_7_2759c4e4:
 
     # nvljohn "{a=show:show_chat_media}{image=mc_pic_82}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=mc_pic_82}"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:779
 translate zh_Hans chee_storyline_7_2cf44650:
@@ -2442,7 +2442,7 @@ translate zh_Hans chee_storyline_13_911474f6:
 translate zh_Hans chee_storyline_13_c37d31a2:
 
     # nvlchee "{a=show:show_chat_media}{image=chee_pic_6}"
-    nvlchee ""
+    nvlchee "{a=show:show_chat_media}{image=chee_pic_6}"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:1331
 translate zh_Hans chee_storyline_13_cdae9357:
@@ -3086,7 +3086,7 @@ translate zh_Hans chee_storyline_17_804eb06d:
 translate zh_Hans chee_storyline_17_7aee2f93:
 
     # nvlunknown "{a=show:show_chat_media}{image=chee_video_1}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=chee_video_1}"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:1677
 translate zh_Hans chee_storyline_17_df1b65dd:
@@ -4524,7 +4524,7 @@ translate zh_Hans chee_storyline_25_f72202b8:
 translate zh_Hans chee_storyline_25_ff723ab2:
 
     # nvlchee "{a=show:show_chat_media}{image=chee_pic_7}"
-    nvlchee ""
+    nvlchee "{a=show:show_chat_media}{image=chee_pic_7}"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:2455
 translate zh_Hans chee_storyline_25_8f45c0c9:
@@ -5726,7 +5726,7 @@ translate zh_Hans chee_storyline_32_3de6a3f6:
 translate zh_Hans chee_storyline_32_fa3c4ae9:
 
     # nvljohn "{a=show:show_chat_media}{image=chee_video_2_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=chee_video_2_ns}"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:3086
 translate zh_Hans chee_storyline_32_5b095aa8:
@@ -6240,7 +6240,7 @@ translate zh_Hans chee_storyline_34_88f388a8:
 translate zh_Hans chee_storyline_34_39081aea:
 
     # nvlchee "{a=show:show_chat_media}{image=chee_pic_8}"
-    nvlchee ""
+    nvlchee "{a=show:show_chat_media}{image=chee_pic_8}"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:3326
 translate zh_Hans chee_storyline_34_5ca23ac9:
@@ -6398,7 +6398,7 @@ translate zh_Hans chee_storyline_35_18a277ac:
 translate zh_Hans chee_storyline_35_e8b5a633:
 
     # nvljohn "{a=show:show_chat_media}{image=chee_video_3_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=chee_video_3_ns}"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:3415
 translate zh_Hans chee_storyline_35_0c57a8df:
@@ -7470,19 +7470,19 @@ translate zh_Hans chee_storyline_40_08ba45a6:
 translate zh_Hans chee_storyline_40_0bcc58e5:
 
     # nvlchee "🥰"
-    nvlchee ""
+    nvlchee "🥰|"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:3936
 translate zh_Hans chee_storyline_40_525f4239:
 
     # nvlchee "{a=show:show_chat_media}{image=chee_pic_9}"
-    nvlchee ""
+    nvlchee "{a=show:show_chat_media}{image=chee_pic_9}"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:3940
 translate zh_Hans chee_storyline_40_a8afece1:
 
     # nvlchee "{a=show:show_chat_media}{image=chee_pic_10}"
-    nvlchee ""
+    nvlchee "{a=show:show_chat_media}{image=chee_pic_10}"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:3943
 translate zh_Hans chee_storyline_40_b5d8e443:
@@ -7500,7 +7500,7 @@ translate zh_Hans chee_storyline_40_40f76fd3:
 translate zh_Hans chee_storyline_40_955e35d4:
 
     # nvlchee "{a=show:show_chat_media}{image=chee_pic_11}"
-    nvlchee ""
+    nvlchee "{a=show:show_chat_media}{image=chee_pic_11}"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:3951
 translate zh_Hans chee_storyline_40_a1f640b8:
@@ -7640,7 +7640,7 @@ translate zh_Hans chee_storyline_41_9129e03c:
 translate zh_Hans chee_storyline_41_2ac52a25:
 
     # nvlchee "{a=show:show_chat_media}{image=chee_pic_12}"
-    nvlchee ""
+    nvlchee "{a=show:show_chat_media}{image=chee_pic_12}"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:4035
 translate zh_Hans chee_storyline_41_4316591d:
@@ -7986,7 +7986,7 @@ translate zh_Hans chee_storyline_43_eb138cc3:
 translate zh_Hans chee_storyline_43_2510644c:
 
     # nvlchee "{a=show:show_chat_media}{image=chee_pic_13}"
-    nvlchee ""
+    nvlchee "{a=show:show_chat_media}{image=chee_pic_13}"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:4219
 translate zh_Hans chee_storyline_43_f5f1dd3c:
@@ -8198,7 +8198,7 @@ translate zh_Hans chee_storyline_44_38357304:
 translate zh_Hans chee_storyline_44_5806f1e9:
 
     # nvljohn "{a=show:show_chat_media}{image=chee_video_4_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=chee_video_4_ns}"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:4326
 translate zh_Hans chee_storyline_44_2562898b:
@@ -8264,7 +8264,7 @@ translate zh_Hans chee_storyline_44_c261f9ee:
 translate zh_Hans chee_storyline_44_0f7cce37:
 
     # nvlchee "{a=show:show_chat_media}{image=chee_pic_14}"
-    nvlchee ""
+    nvlchee "{a=show:show_chat_media}{image=chee_pic_14}"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:4352
 translate zh_Hans chee_storyline_44_028725d2:
@@ -8646,7 +8646,7 @@ translate zh_Hans chee_storyline_46_2b2e7fb2:
 translate zh_Hans chee_storyline_46_9a1f346e:
 
     # nvlchee "{a=show:show_chat_media}{image=chee_pic_15}"
-    nvlchee ""
+    nvlchee "{a=show:show_chat_media}{image=chee_pic_15}"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:4548
 translate zh_Hans chee_storyline_46_fe208116:
@@ -9430,7 +9430,7 @@ translate zh_Hans chee_storyline_51_13af7136:
 translate zh_Hans chee_storyline_51_3921e0f9:
 
     # nvlchee "{a=show:show_chat_media}{image=chee_pic_16}"
-    nvlchee ""
+    nvlchee "{a=show:show_chat_media}{image=chee_pic_16}"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:4975
 translate zh_Hans chee_storyline_51_9cb000f0:
@@ -9636,7 +9636,7 @@ translate zh_Hans chee_storyline_52_5cb006f4:
 translate zh_Hans chee_storyline_52_24189826:
 
     # nvljohn "{a=show:show_chat_media}{image=chee_video_5_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=chee_video_5_ns}"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:5080
 translate zh_Hans chee_storyline_52_dc976342:
@@ -9660,7 +9660,7 @@ translate zh_Hans chee_storyline_52_921d2206:
 translate zh_Hans chee_storyline_52_1a3c2ad2:
 
     # nvljohn "{a=show:show_chat_media}{image=chee_video_6_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=chee_video_6_ns}"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:5092
 translate zh_Hans chee_storyline_52_a8be1207:
@@ -11800,7 +11800,7 @@ translate zh_Hans chee_storyline_66_842f12c8:
 translate zh_Hans chee_storyline_66_d8d11a17:
 
     # nvlchee "{a=show:show_chat_media}{image=chee_pic_20}"
-    nvlchee ""
+    nvlchee "{a=show:show_chat_media}{image=chee_pic_20}"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:6282
 translate zh_Hans chee_storyline_66_ef92d18a:
@@ -12050,7 +12050,7 @@ translate zh_Hans chee_storyline_68_93bdceeb:
 translate zh_Hans chee_storyline_68_6c710564:
 
     # nvlchee "{a=show:show_chat_media}{image=chee_video_9_ns}"
-    nvlchee ""
+    nvlchee "{a=show:show_chat_media}{image=chee_video_9_ns}"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:6434
 translate zh_Hans chee_storyline_68_19d4d35f:

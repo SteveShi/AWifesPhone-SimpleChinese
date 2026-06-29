@@ -3678,7 +3678,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_9_dd961705:
 translate zh_Hans fem_mc_fuckstagram_storyline_9_bfc287b5:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_99}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_99}"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1666
 translate zh_Hans fem_mc_fuckstagram_storyline_9_d3a0642a:
@@ -4548,7 +4548,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_12_2dd7a182:
 translate zh_Hans fem_mc_fuckstagram_storyline_12_2676765d:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_100}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_100}"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:2058
 translate zh_Hans fem_mc_fuckstagram_storyline_12_e35fbf89:
@@ -4838,7 +4838,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_13_ccdb0b72:
 translate zh_Hans fem_mc_fuckstagram_storyline_13_e380044d:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_pic_790}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=wife_pic_790}"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:2188
 translate zh_Hans fem_mc_fuckstagram_storyline_13_40518271_1:
@@ -4970,7 +4970,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_13_4a61252d:
 translate zh_Hans fem_mc_fuckstagram_storyline_13_87675572:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_pic_108}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_pic_108}"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:2236
 translate zh_Hans fem_mc_fuckstagram_storyline_13_f57ed292:
@@ -5628,7 +5628,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_15_efc20cf8:
 translate zh_Hans fem_mc_fuckstagram_storyline_15_a6433c00:
 
     # nvltuck "{a=show:show_chat_media}{image=bbc_pic_268}"
-    nvltuck ""
+    nvltuck "{a=show:show_chat_media}{image=bbc_pic_268}"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:2542
 translate zh_Hans fem_mc_fuckstagram_storyline_15_2e058d0e:
@@ -5778,7 +5778,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_15_0e44f555:
 translate zh_Hans fem_mc_fuckstagram_storyline_15_df12cf4f:
 
     # nvltuck "{a=show:show_chat_media}{image=bbc_video_63_ns}"
-    nvltuck ""
+    nvltuck "{a=show:show_chat_media}{image=bbc_video_63_ns}"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:2596
 translate zh_Hans fem_mc_fuckstagram_storyline_15_8526f8d9:
@@ -5808,7 +5808,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_15_1facb020:
 translate zh_Hans fem_mc_fuckstagram_storyline_15_87d59dd1:
 
     # nvltuck "{a=show:show_chat_media}{image=bbc_video_64_ns}"
-    nvltuck ""
+    nvltuck "{a=show:show_chat_media}{image=bbc_video_64_ns}"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:2610
 translate zh_Hans fem_mc_fuckstagram_storyline_15_330ac286:
@@ -6574,7 +6574,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_17_e3ec37d4:
 translate zh_Hans fem_mc_fuckstagram_storyline_17_b135645d:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_101}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_101}"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:2953
 translate zh_Hans fem_mc_fuckstagram_storyline_17_bf7737de:
@@ -6688,7 +6688,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_17_705bda7c:
 translate zh_Hans fem_mc_fuckstagram_storyline_17_a40eeb94:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_102}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_102}"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:2995
 translate zh_Hans fem_mc_fuckstagram_storyline_17_876d3a22:
@@ -8714,7 +8714,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_22_46aa69a4:
 translate zh_Hans fem_mc_fuckstagram_storyline_22_8cd09198:
 
     # nvlbarsik "{a=show:show_chat_media}{image=bbc_pic_56}"
-    nvlbarsik ""
+    nvlbarsik "{a=show:show_chat_media}{image=bbc_pic_56}"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:3878
 translate zh_Hans fem_mc_fuckstagram_storyline_22_b034560c:
@@ -8938,7 +8938,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_23_a2be37b6:
 translate zh_Hans fem_mc_fuckstagram_storyline_23_e358ffef:
 
     # nvlbarsik "{a=show:show_chat_media}{image=bbc_video_66_ns}"
-    nvlbarsik ""
+    nvlbarsik "{a=show:show_chat_media}{image=bbc_video_66_ns}"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:3987
 translate zh_Hans fem_mc_fuckstagram_storyline_23_3952d725:
@@ -8962,7 +8962,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_23_09eaf055:
 translate zh_Hans fem_mc_fuckstagram_storyline_23_72fa5647:
 
     # nvlbarsik "{a=show:show_chat_media}{image=bbc_video_67_ns}"
-    nvlbarsik ""
+    nvlbarsik "{a=show:show_chat_media}{image=bbc_video_67_ns}"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:3999
 translate zh_Hans fem_mc_fuckstagram_storyline_23_17a0e79f:
@@ -9944,7 +9944,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_25_ef5c3aa4:
 translate zh_Hans fem_mc_fuckstagram_storyline_25_8b1467fd:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_pic_109}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_pic_109}"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:4433
 translate zh_Hans fem_mc_fuckstagram_storyline_25_24f72432:
@@ -10596,7 +10596,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_27_24243ded:
 translate zh_Hans fem_mc_fuckstagram_storyline_27_c680d593:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_104}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_104}"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:4717
 translate zh_Hans fem_mc_fuckstagram_storyline_27_d39bd4bc:
@@ -10752,7 +10752,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_27_752a4ddc:
 translate zh_Hans fem_mc_fuckstagram_storyline_27_b9aec15d:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_105}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_105}"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:4773
 translate zh_Hans fem_mc_fuckstagram_storyline_27_05757848:
@@ -11402,7 +11402,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_28_66c336a5:
 translate zh_Hans fem_mc_fuckstagram_storyline_28_4996b2fe:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_106}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_106}"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:5043
 translate zh_Hans fem_mc_fuckstagram_storyline_28_4d613654:
@@ -11728,7 +11728,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_29_7e671abf:
 translate zh_Hans fem_mc_fuckstagram_storyline_29_8c2ac36a:
 
     # nvlchad "{a=show:show_chat_media}{image=dick_pic_19}"
-    nvlchad ""
+    nvlchad "{a=show:show_chat_media}{image=dick_pic_19}"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:5186
 translate zh_Hans fem_mc_fuckstagram_storyline_29_e16fac16:
@@ -11980,7 +11980,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_29_ba2ad062:
 translate zh_Hans fem_mc_fuckstagram_storyline_29_e424774d:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_107}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_107}"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:5274
 translate zh_Hans fem_mc_fuckstagram_storyline_29_834ea08f:
@@ -12022,7 +12022,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_29_4b6b4868:
 translate zh_Hans fem_mc_fuckstagram_storyline_29_7245efe6:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_108}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_108}"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:5292
 translate zh_Hans fem_mc_fuckstagram_storyline_29_cfba2d07:
@@ -12058,7 +12058,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_29_af648c49:
 translate zh_Hans fem_mc_fuckstagram_storyline_29_797209e0:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_109}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_109}"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:5308
 translate zh_Hans fem_mc_fuckstagram_storyline_29_8c8d464e:
@@ -12624,7 +12624,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_30_5bcbb369:
 translate zh_Hans fem_mc_fuckstagram_storyline_30_03377883:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_110}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_110}"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:5548
 translate zh_Hans fem_mc_fuckstagram_storyline_30_7b67b096:
@@ -13076,7 +13076,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_31_c9829a9f:
 translate zh_Hans fem_mc_fuckstagram_storyline_31_fbab6a82:
 
     # nvljenna "{a=show:show_chat_media}{image=w_mc_pic_111}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=w_mc_pic_111}"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:5734
 translate zh_Hans fem_mc_fuckstagram_storyline_31_2c8eb52f:
@@ -13516,7 +13516,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_32_723cd881:
 translate zh_Hans fem_mc_fuckstagram_storyline_32_b6a286be:
 
     # nvlsteve2 "{a=show:show_chat_media}{image=bbc_pic_269}"
-    nvlsteve2 ""
+    nvlsteve2 "{a=show:show_chat_media}{image=bbc_pic_269}"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:5923
 translate zh_Hans fem_mc_fuckstagram_storyline_32_f1fb815c:
@@ -14396,7 +14396,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_34_5aca3c60:
 translate zh_Hans fem_mc_fuckstagram_storyline_34_69b63533:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_112}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_112}"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:6302
 translate zh_Hans fem_mc_fuckstagram_storyline_34_f2893513:
@@ -15046,7 +15046,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_35_95aea8ed:
 translate zh_Hans fem_mc_fuckstagram_storyline_35_ba72a798:
 
     # nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_113}"
-    nvljohn_f ""
+    nvljohn_f "{a=show:show_chat_media}{image=w_mc_pic_113}"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:6570
 translate zh_Hans fem_mc_fuckstagram_storyline_35_a5231280:

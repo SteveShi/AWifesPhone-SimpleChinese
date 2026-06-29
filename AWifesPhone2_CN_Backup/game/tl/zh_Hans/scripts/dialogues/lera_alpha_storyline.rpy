@@ -308,13 +308,13 @@ translate zh_Hans lera_storyline_2_996440df:
 translate zh_Hans lera_storyline_2_1f05ca97:
 
     # nvllera "{a=show:show_chat_media}{image=valerie_pic_4}"
-    nvllera ""
+    nvllera "{a=show:show_chat_media}{image=valerie_pic_4}"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:206
 translate zh_Hans lera_storyline_2_b0e935ca:
 
     # nvllera "{a=show:show_chat_media}{image=valerie_pic_5}"
-    nvllera ""
+    nvllera "{a=show:show_chat_media}{image=valerie_pic_5}"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:209
 translate zh_Hans lera_storyline_2_3fd79a58:
@@ -456,7 +456,7 @@ translate zh_Hans lera_storyline_4_be348a35:
 translate zh_Hans lera_storyline_4_7ac26420:
 
     # nvllera "{a=show:show_chat_media}{image=valerie_video_11_ns}"
-    nvllera ""
+    nvllera "{a=show:show_chat_media}{image=valerie_video_11_ns}"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:323
 translate zh_Hans lera_storyline_4_a25c6ce6:
@@ -682,7 +682,7 @@ translate zh_Hans lera_storyline_6_8cf2816c:
 translate zh_Hans lera_storyline_6_b90e8833:
 
     # nvllera "{a=show:show_chat_media}{image=valerie_video_12_ns}"
-    nvllera ""
+    nvllera "{a=show:show_chat_media}{image=valerie_video_12_ns}"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:465
 translate zh_Hans lera_storyline_6_a6eb2745:
@@ -870,7 +870,7 @@ translate zh_Hans lera_storyline_7_acc67972:
 translate zh_Hans lera_storyline_7_1802ab73:
 
     # nvlunknown "{a=show:show_chat_media}{image=valerie_video_13_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=valerie_video_13_ns}"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:562
 translate zh_Hans lera_storyline_7_d0d5b436:
@@ -1260,7 +1260,7 @@ translate zh_Hans lera_storyline_10_932d77f1:
 translate zh_Hans lera_storyline_10_8a7559dd:
 
     # nvllera "{a=show:show_chat_media}{image=valerie_video_14_ns}"
-    nvllera ""
+    nvllera "{a=show:show_chat_media}{image=valerie_video_14_ns}"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:803
 translate zh_Hans lera_storyline_10_4d58d101:
@@ -2330,7 +2330,7 @@ translate zh_Hans lera_storyline_17_eb712627:
 translate zh_Hans lera_storyline_17_35717ce4:
 
     # nvljohn "{a=show:show_chat_media}{image=mc_pic_62}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=mc_pic_62}"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:1397
 translate zh_Hans lera_storyline_17_a16b46bc:
@@ -2466,7 +2466,7 @@ translate zh_Hans lera_storyline_19_99d1a032:
 translate zh_Hans lera_storyline_19_378c258e:
 
     # nvljohn "{a=show:show_chat_media}{image=valerie_video_18_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=valerie_video_18_ns}"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:1509
 translate zh_Hans lera_storyline_19_405b3877:
@@ -3008,7 +3008,7 @@ translate zh_Hans lera_storyline_23_3336763a:
 translate zh_Hans lera_storyline_23_0546dafc:
 
     # nvllera "{a=show:show_chat_media}{image=valerie_pic_8}"
-    nvllera ""
+    nvllera "{a=show:show_chat_media}{image=valerie_pic_8}"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:1825
 translate zh_Hans lera_storyline_23_a96c4d0b:
@@ -3240,7 +3240,7 @@ translate zh_Hans lera_storyline_25_477a0410:
 translate zh_Hans lera_storyline_25_39818c3e:
 
     # nvllera "{a=show:show_chat_media}{image=valerie_pic_9}"
-    nvllera ""
+    nvllera "{a=show:show_chat_media}{image=valerie_pic_9}"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:1969
 translate zh_Hans lera_storyline_25_a64a7e98:
@@ -3560,7 +3560,7 @@ translate zh_Hans lera_storyline_26_f0f8a71f:
 translate zh_Hans lera_storyline_26_1643707f:
 
     # nvllera "{a=show:show_chat_media}{image=valerie_pic_10}"
-    nvllera ""
+    nvllera "{a=show:show_chat_media}{image=valerie_pic_10}"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:2128
 translate zh_Hans lera_storyline_26_53c71d7c:
@@ -3604,7 +3604,7 @@ translate zh_Hans lera_storyline_27_139e8f48:
 translate zh_Hans lera_storyline_27_aee27383:
 
     # nvllera "{a=show:show_chat_media}{image=valerie_video_20_ns}"
-    nvllera ""
+    nvllera "{a=show:show_chat_media}{image=valerie_video_20_ns}"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:2163
 translate zh_Hans lera_storyline_27_079c7504:
@@ -3756,7 +3756,7 @@ translate zh_Hans lera_storyline_28_f39c7542:
 translate zh_Hans lera_storyline_28_f964a00f:
 
     # nvllera "{a=show:show_chat_media}{image=valerie_pic_11}"
-    nvllera ""
+    nvllera "{a=show:show_chat_media}{image=valerie_pic_11}"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:2250
 translate zh_Hans lera_storyline_28_cb0084e5:
@@ -3992,7 +3992,7 @@ translate zh_Hans lera_storyline_29_18ea18fc:
 translate zh_Hans lera_storyline_29_85ba5bf0:
 
     # nvllera "{a=show:show_chat_media}{image=valerie_pic_12}"
-    nvllera ""
+    nvllera "{a=show:show_chat_media}{image=valerie_pic_12}"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:2365
 translate zh_Hans lera_storyline_29_b1abba2d:
@@ -4248,7 +4248,7 @@ translate zh_Hans lera_storyline_31_e016a819:
 translate zh_Hans lera_storyline_31_63d5471c:
 
     # nvllera "{a=show:show_chat_media}{image=valerie_pic_13}"
-    nvllera ""
+    nvllera "{a=show:show_chat_media}{image=valerie_pic_13}"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:2517
 translate zh_Hans lera_storyline_31_43b74364:
@@ -4328,7 +4328,7 @@ translate zh_Hans lera_storyline_32_e4bb3068:
 translate zh_Hans lera_storyline_32_e2d3f2ac:
 
     # nvllera "{a=show:show_chat_media}{image=valerie_video_21_ns}"
-    nvllera ""
+    nvllera "{a=show:show_chat_media}{image=valerie_video_21_ns}"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:2578
 translate zh_Hans lera_storyline_32_d72f9e6b:
@@ -5052,7 +5052,7 @@ translate zh_Hans lera_storyline_37_e73df61f:
 translate zh_Hans lera_storyline_37_74fd1fe3:
 
     # nvljohn "{a=show:show_chat_media}{image=valerie_video_22_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=valerie_video_22_ns}"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:2983
 translate zh_Hans lera_storyline_37_0203cc72:
@@ -5208,7 +5208,7 @@ translate zh_Hans lera_storyline_37_32752beb:
 translate zh_Hans lera_storyline_37_f7698526:
 
     # nvljohn "{a=show:show_chat_media}{image=valerie_video_23_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=valerie_video_23_ns}"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:3037
 translate zh_Hans lera_storyline_37_9b6c646f:
@@ -5694,7 +5694,7 @@ translate zh_Hans lera_storyline_40_e225f660:
 translate zh_Hans lera_storyline_40_ebf35c14:
 
     # nvllera "{a=show:show_chat_media}{image=valerie_pic_14}"
-    nvllera ""
+    nvllera "{a=show:show_chat_media}{image=valerie_pic_14}"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:3300
 translate zh_Hans lera_storyline_40_ccb46e48:
@@ -6010,7 +6010,7 @@ translate zh_Hans lera_storyline_43_673be979:
 translate zh_Hans lera_storyline_43_3aa74900:
 
     # nvljohn "{a=show:show_chat_media}{image=valerie_video_24_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=valerie_video_24_ns}"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:3503
 translate zh_Hans lera_storyline_43_eafbf8b0:
@@ -6762,7 +6762,7 @@ translate zh_Hans lera_storyline_47_397888fa:
 translate zh_Hans lera_storyline_47_1d68c229:
 
     # nvllera "{a=show:show_chat_media}{image=valerie_pic_15}"
-    nvllera ""
+    nvllera "{a=show:show_chat_media}{image=valerie_pic_15}"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:3901
 translate zh_Hans lera_storyline_47_cbfe0edf:
@@ -6970,7 +6970,7 @@ translate zh_Hans lera_storyline_49_6a1e8567:
 translate zh_Hans lera_storyline_49_e65de002:
 
     # nvljohn "{a=show:show_chat_media}{image=valerie_video_25_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=valerie_video_25_ns}"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:4037
 translate zh_Hans lera_storyline_49_5d62c54d:

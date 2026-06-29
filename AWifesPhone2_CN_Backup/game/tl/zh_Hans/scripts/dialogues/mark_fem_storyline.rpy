@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-29 09:30
+# TODO: Translation updated at 2026-06-29 09:30
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:138
 translate zh_Hans mark_fem_storyline_0_51f56748:
@@ -12,7 +12,7 @@ translate zh_Hans mark_fem_storyline_0_51f56748:
 translate zh_Hans mark_fem_storyline_0_d61d1da8:
 
     # nvljohn "Hello"
-    nvljohn "你好……哥哥……"
+    nvljohn "你好……弟弟……"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:144
 translate zh_Hans mark_fem_storyline_0_341a3fd0:
@@ -24,7 +24,7 @@ translate zh_Hans mark_fem_storyline_0_341a3fd0:
 translate zh_Hans mark_fem_storyline_0_564d9626:
 
     # nvljohn "I'm good"
-    nvljohn "你说你很好……哥哥……"
+    nvljohn "你很好就好……弟弟。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:148
 translate zh_Hans mark_fem_storyline_0_7dc1aff8:
@@ -36,7 +36,7 @@ translate zh_Hans mark_fem_storyline_0_7dc1aff8:
 translate zh_Hans mark_fem_storyline_0_32852468:
 
     # nvljohn "Did you want something?"
-    nvljohn "哥哥……你是不是想要什么……"
+    nvljohn "弟弟……你是不是想要什么……"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:152
 translate zh_Hans mark_fem_storyline_0_896bfec5:
@@ -54,7 +54,7 @@ translate zh_Hans mark_fem_storyline_0_b89226a2:
 translate zh_Hans mark_fem_storyline_0_ba8c927d:
 
     # nvljohn "What?"
-    nvljohn "什么？哥哥……"
+    nvljohn "什么？弟弟……"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:158
 translate zh_Hans mark_fem_storyline_0_42aeaddc:
@@ -72,7 +72,7 @@ translate zh_Hans mark_fem_storyline_0_b2d362fc:
 translate zh_Hans mark_fem_storyline_0_a3be9836:
 
     # nvljohn "Settle things? Do you mean pay off my debt?"
-    nvljohn "解决事情？哥哥……你是说……还清我的债务吗？"
+    nvljohn "解决事情？你是说……还清我的债务吗？"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:164
 translate zh_Hans mark_fem_storyline_0_7b890f07:
@@ -96,7 +96,7 @@ translate zh_Hans mark_fem_storyline_0_7958c1ae:
 translate zh_Hans mark_fem_storyline_0_a50d9752:
 
     # nvljohn "How much?"
-    nvljohn "多少钱？哥哥？"
+    nvljohn "多少钱？弟弟？"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:172
 translate zh_Hans mark_fem_storyline_0_f2c0c86b:
@@ -108,13 +108,13 @@ translate zh_Hans mark_fem_storyline_0_f2c0c86b:
 translate zh_Hans mark_fem_storyline_0_31e09cd4:
 
     # nvljohn "$20m??"
-    nvljohn "两千万？！哥哥？！"
+    nvljohn "两千万？！弟弟？！"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:176
 translate zh_Hans mark_fem_storyline_0_b4fdd0a9:
 
     # nvljohn "I don't believe you"
-    nvljohn "哥哥……我不相信……"
+    nvljohn "弟弟……我不相信……"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:178
 translate zh_Hans mark_fem_storyline_0_2f562f67:
@@ -132,7 +132,7 @@ translate zh_Hans mark_fem_storyline_0_998ef3e0:
 translate zh_Hans mark_fem_storyline_0_804f077e:
 
     # nvljohn "No, but I doubt there's any job worth $20m"
-    nvljohn "哥哥……你说……不，但你不相信有任何工作值两千万……"
+    nvljohn "不，但我不相信有什么工作值两千万……"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:184
 translate zh_Hans mark_fem_storyline_0_696405dd:
@@ -162,7 +162,7 @@ translate zh_Hans mark_fem_storyline_0_5838e412:
 translate zh_Hans mark_fem_storyline_0_05da97bc:
 
     # nvljohn "And what do I have to do?"
-    nvljohn "哥哥……你问……我需要做什么？"
+    nvljohn "那我需要做什么？"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:194
 translate zh_Hans mark_fem_storyline_0_1a71d0c3:
@@ -174,7 +174,7 @@ translate zh_Hans mark_fem_storyline_0_1a71d0c3:
 translate zh_Hans mark_fem_storyline_0_54f21278:
 
     # nvljohn "What do you mean?"
-    nvljohn "哥哥……你问……他们是什么意思？"
+    nvljohn "他们是什么意思？"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:198
 translate zh_Hans mark_fem_storyline_0_7ddc4e18:
@@ -192,13 +192,13 @@ translate zh_Hans mark_fem_storyline_0_c0811265:
 translate zh_Hans mark_fem_storyline_0_60bb5741:
 
     # nvljohn "..."
-    nvljohn "哥哥……你……你沉默了……"
+    nvljohn "……"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:204
 translate zh_Hans mark_fem_storyline_0_a41cd023:
 
     # nvljohn "Is this some kind of joke?"
-    nvljohn "哥哥……你问……这是某种玩笑吗？"
+    nvljohn "这是某种玩笑吗？"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:206
 translate zh_Hans mark_fem_storyline_0_28ac54cc:
@@ -216,7 +216,7 @@ translate zh_Hans mark_fem_storyline_0_d0aafe7a:
 translate zh_Hans mark_fem_storyline_0_0e0dbdc4:
 
     # nvljohn "You're offering me $20m to turn Mark into a woman?"
-    nvljohn "哥哥……你问他们……他们要给你两千万……就为了把我变成女人？"
+    nvljohn "他们要给你两千万……就为了把我变成女人？"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:212
 translate zh_Hans mark_fem_storyline_0_078b6e7c:
@@ -228,7 +228,7 @@ translate zh_Hans mark_fem_storyline_0_078b6e7c:
 translate zh_Hans mark_fem_storyline_0_f87770c5:
 
     # nvljohn "I'm not going to do that"
-    nvljohn "哥哥……你说……你不会那么做……"
+    nvljohn "我不会那么做。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:216
 translate zh_Hans mark_fem_storyline_0_29a8913c:
@@ -240,7 +240,7 @@ translate zh_Hans mark_fem_storyline_0_29a8913c:
 translate zh_Hans mark_fem_storyline_0_24b9e3dd:
 
     # nvljohn "Yes, I'm sure"
-    nvljohn "哥哥……你说……你确定……"
+    nvljohn "我确定。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:220
 translate zh_Hans mark_fem_storyline_0_ee6bd794:
@@ -264,19 +264,19 @@ translate zh_Hans mark_fem_storyline_0_445dd428:
 translate zh_Hans mark_fem_storyline_0_f16e42ac:
 
     # nvljohn "No"
-    nvljohn "哥哥……你说……不……"
+    nvljohn "不。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:228
 translate zh_Hans mark_fem_storyline_0_f87770c5_1:
 
     # nvljohn "I'm not going to do that"
-    nvljohn "哥哥……你说……你不会那么做……"
+    nvljohn "我不会那么做。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:230
 translate zh_Hans mark_fem_storyline_0_ccc371bf:
 
     # nvljohn "I'm not turning my brother into a woman"
-    nvljohn "哥哥……你说……你不会把我变成女人……"
+    nvljohn "我不会把自己的弟弟变成女人。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:232
 translate zh_Hans mark_fem_storyline_0_cb6bd685:
@@ -306,7 +306,7 @@ translate zh_Hans mark_fem_storyline_0_e4683751:
 translate zh_Hans mark_fem_storyline_0_6f655458:
 
     # nvljohn "I don't need time to think"
-    nvljohn "哥哥……你说……你不需要时间考虑……"
+    nvljohn "我不需要时间考虑。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:242
 translate zh_Hans mark_fem_storyline_0_a9b28dbd:
@@ -380,7 +380,7 @@ translate zh_Hans mark_fem_storyline_1_51f56748:
 translate zh_Hans mark_fem_storyline_1_d61d1da8:
 
     # nvljohn "Hello"
-    nvljohn "你好……哥哥……"
+    nvljohn "你好……弟弟……"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:315
 translate zh_Hans mark_fem_storyline_1_39fd97f2:
@@ -404,7 +404,7 @@ translate zh_Hans mark_fem_storyline_1_bd4a9687:
 translate zh_Hans mark_fem_storyline_1_f16e42ac:
 
     # nvljohn "No"
-    nvljohn "哥哥……你说……不……"
+    nvljohn "不。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:323
 translate zh_Hans mark_fem_storyline_1_a3b8f7af:
@@ -452,13 +452,13 @@ translate zh_Hans mark_fem_storyline_1_cc9280d9:
 translate zh_Hans mark_fem_storyline_1_a686776f:
 
     # nvlsalim "😊"
-    nvlsalim ""
+    nvlsalim "😊|"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:341
 translate zh_Hans mark_fem_storyline_1_33b9dad5:
 
     # nvlsalim "{a=show:show_chat_media}{image=marina_pic_1}"
-    nvlsalim ""
+    nvlsalim "{a=show:show_chat_media}{image=marina_pic_1}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:345
 translate zh_Hans mark_fem_storyline_1_57cf4683:
@@ -1070,7 +1070,7 @@ translate zh_Hans mark_fem_storyline_4_70deb762:
 translate zh_Hans mark_fem_storyline_4_6062e62e:
 
     # nvljohn "Oh?"
-    nvljohn "哦？哥哥你说什么呢？"
+    nvljohn "哦？弟弟你说什么呢？"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:640
 translate zh_Hans mark_fem_storyline_4_48dfda58:
@@ -1082,13 +1082,13 @@ translate zh_Hans mark_fem_storyline_4_48dfda58:
 translate zh_Hans mark_fem_storyline_4_292b6a9b:
 
     # nvljohn "Oh, I get it now"
-    nvljohn "哦……哥哥，我明白了。"
+    nvljohn "哦……我明白了。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:644
 translate zh_Hans mark_fem_storyline_4_3f3fb57f:
 
     # nvljohn "Haha"
-    nvljohn "哈哈……哥哥……"
+    nvljohn "哈哈……弟弟……"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:646
 translate zh_Hans mark_fem_storyline_4_83796958:
@@ -1214,13 +1214,13 @@ translate zh_Hans mark_fem_storyline_4_5432ccc6:
 translate zh_Hans mark_fem_storyline_4_e377f7d5:
 
     # nvljohn "I wouldn't say that"
-    nvljohn "哥哥，我可不这么认为。"
+    nvljohn "我可不这么认为。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:690
 translate zh_Hans mark_fem_storyline_4_ecb879bc:
 
     # nvljohn "{a=show:show_chat_media}{image=marina_pic_1}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=marina_pic_1}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:692
 translate zh_Hans mark_fem_storyline_4_798ee9d5:
@@ -1238,7 +1238,7 @@ translate zh_Hans mark_fem_storyline_4_1e422e65:
 translate zh_Hans mark_fem_storyline_4_56b53b6c:
 
     # nvljohn "But this is roughly how I saw myself in the dream"
-    nvljohn "但哥哥，我在梦里大概就是这个样子。"
+    nvljohn "但我在梦里大概就是这个样子。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:698
 translate zh_Hans mark_fem_storyline_4_3be2423c:
@@ -1262,7 +1262,7 @@ translate zh_Hans mark_fem_storyline_4_c111e53a:
 translate zh_Hans mark_fem_storyline_4_ddc58b0c:
 
     # nvljohn "I really don't"
-    nvljohn "哥哥，我真的不知道。"
+    nvljohn "我真的不知道。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:706
 translate zh_Hans mark_fem_storyline_4_501506e9:
@@ -1274,7 +1274,7 @@ translate zh_Hans mark_fem_storyline_4_501506e9:
 translate zh_Hans mark_fem_storyline_4_3f3fb57f_1:
 
     # nvljohn "Haha"
-    nvljohn "哈哈……哥哥……"
+    nvljohn "哈哈……弟弟……"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:710
 translate zh_Hans mark_fem_storyline_4_8e9348f8:
@@ -1298,7 +1298,7 @@ translate zh_Hans mark_fem_storyline_4_feeec447:
 translate zh_Hans mark_fem_storyline_4_7633828e:
 
     # nvljohn "😊"
-    nvljohn ""
+    nvljohn "😊|"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:718
 translate zh_Hans mark_fem_storyline_4_8d0df115:
@@ -1316,7 +1316,7 @@ translate zh_Hans mark_fem_storyline_4_0ee0c78f:
 translate zh_Hans mark_fem_storyline_4_b2869a0c:
 
     # nvljohn "How so?"
-    nvljohn "哥哥，怎么说？"
+    nvljohn "怎么说？"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:724
 translate zh_Hans mark_fem_storyline_4_936c2202:
@@ -1334,7 +1334,7 @@ translate zh_Hans mark_fem_storyline_4_eb83c41f:
 translate zh_Hans mark_fem_storyline_4_e2a453e8:
 
     # nvljohn "You used to be different too"
-    nvljohn "哥哥你以前也不一样啊。"
+    nvljohn "你以前也不一样啊。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:730
 translate zh_Hans mark_fem_storyline_4_83f8ad39:
@@ -1346,7 +1346,7 @@ translate zh_Hans mark_fem_storyline_4_83f8ad39:
 translate zh_Hans mark_fem_storyline_4_8751177b:
 
     # nvljohn "A lot has changed in my life"
-    nvljohn "哥哥，我生活中发生了很多事。"
+    nvljohn "我的生活中发生了很多事。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:734
 translate zh_Hans mark_fem_storyline_4_702bb59d:
@@ -1364,7 +1364,7 @@ translate zh_Hans mark_fem_storyline_4_58382719:
 translate zh_Hans mark_fem_storyline_4_242c2aee:
 
     # nvljohn "I'd like to see how you'd be if your life changed like mine"
-    nvljohn "哥哥，我倒想看看，如果你的生活也像我这样变了，你会怎么样。"
+    nvljohn "我倒想看看，如果你的生活也像我这样变了，你会怎么样。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:740
 translate zh_Hans mark_fem_storyline_4_c025a4da:
@@ -1394,7 +1394,7 @@ translate zh_Hans mark_fem_storyline_4_8af17ef5:
 translate zh_Hans mark_fem_storyline_4_827aa9a0:
 
     # nvljohn "I'll be free this weekend"
-    nvljohn "哥哥，这个周末我有空。"
+    nvljohn "这个周末我有空。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:750
 translate zh_Hans mark_fem_storyline_4_68a38c39:
@@ -1412,7 +1412,7 @@ translate zh_Hans mark_fem_storyline_4_6cbb18de:
 translate zh_Hans mark_fem_storyline_4_8d5886d3:
 
     # nvljohn "I'm okay with that"
-    nvljohn "哥哥，我没问题。"
+    nvljohn "我没问题。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:756
 translate zh_Hans mark_fem_storyline_4_cbc94da1:
@@ -1588,7 +1588,7 @@ translate zh_Hans mark_fem_storyline_5_261f20d6:
 translate zh_Hans mark_fem_storyline_5_d61d1da8:
 
     # nvljohn "Hello"
-    nvljohn "你好……哥哥……"
+    nvljohn "你好……弟弟……"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:859
 translate zh_Hans mark_fem_storyline_5_4b93fdf8:
@@ -1648,7 +1648,7 @@ translate zh_Hans mark_fem_storyline_5_229402f8:
 translate zh_Hans mark_fem_storyline_5_e9fbfae3:
 
     # nvljohn "I don't want to do something bad to my brother"
-    nvljohn "我不想对哥哥做这种坏事。"
+    nvljohn "我不想对自己的弟弟做这种坏事。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:879
 translate zh_Hans mark_fem_storyline_5_d118eaba:
@@ -2536,7 +2536,7 @@ translate zh_Hans mark_fem_storyline_8_62196983:
 translate zh_Hans mark_fem_storyline_8_f16e42ac:
 
     # nvljohn "No"
-    nvljohn "哥哥……你说……不……"
+    nvljohn "不。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:1320
 translate zh_Hans mark_fem_storyline_8_c13bbc43:
@@ -2670,7 +2670,7 @@ translate zh_Hans mark_fem_storyline_9_6b4ce096:
 translate zh_Hans mark_fem_storyline_9_86f975ee:
 
     # nvljohn "Why do you ask?"
-    nvljohn "怎么了，哥哥？"
+    nvljohn "怎么了，弟弟？"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:1401
 translate zh_Hans mark_fem_storyline_9_784cdf24:
@@ -2924,7 +2924,7 @@ translate zh_Hans mark_fem_storyline_10_d8c56841:
 translate zh_Hans mark_fem_storyline_10_5b2b0c46:
 
     # nvlmark "{a=show:show_chat_media}{image=marina_pic_2}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=marina_pic_2}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:1520
 translate zh_Hans mark_fem_storyline_10_132f7485:
@@ -3256,7 +3256,7 @@ translate zh_Hans mark_fem_storyline_11_ff63ca7d:
 translate zh_Hans mark_fem_storyline_11_60bb5741:
 
     # nvljohn "..."
-    nvljohn "哥哥……你……你沉默了……"
+    nvljohn "……"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:1661
 translate zh_Hans mark_fem_storyline_11_d5921fea:
@@ -3456,7 +3456,7 @@ translate zh_Hans mark_fem_storyline_12_f01ddbcb:
 translate zh_Hans mark_fem_storyline_12_b9927e3c:
 
     # nvlmark "{a=show:show_chat_media}{image=marina_pic_3}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=marina_pic_3}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:1762
 translate zh_Hans mark_fem_storyline_12_75519b78:
@@ -3564,7 +3564,7 @@ translate zh_Hans mark_fem_storyline_12_c81f5145:
 translate zh_Hans mark_fem_storyline_12_3f3fb57f:
 
     # nvljohn "Haha"
-    nvljohn "哈哈……哥哥……"
+    nvljohn "哈哈……弟弟……"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:1798
 translate zh_Hans mark_fem_storyline_12_a85fb055:
@@ -3860,7 +3860,7 @@ translate zh_Hans mark_fem_storyline_14_76b2fe88:
 translate zh_Hans mark_fem_storyline_14_2ea6e77e:
 
     # nvljohn "{a=show:show_chat_media}{image=marina_pic_4}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=marina_pic_4}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:1960
 translate zh_Hans mark_fem_storyline_14_40a31fa8:
@@ -4288,13 +4288,13 @@ translate zh_Hans mark_fem_storyline_15_eebecdcf:
 translate zh_Hans mark_fem_storyline_15_521c7406:
 
     # nvljohn "Okay"
-    nvljohn "好的，哥哥。"
+    nvljohn "好的，弟弟。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2137
 translate zh_Hans mark_fem_storyline_15_239f4850:
 
     # nvlmark "{a=show:show_chat_media}{image=marina_pic_5}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=marina_pic_5}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2141
 translate zh_Hans mark_fem_storyline_15_25a2ef95:
@@ -4410,7 +4410,7 @@ translate zh_Hans mark_fem_storyline_16_de7004f9:
 translate zh_Hans mark_fem_storyline_16_5a543029:
 
     # nvljohn "??"
-    nvljohn "哥哥，什么事啊？"
+    nvljohn "弟弟，什么事啊？"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2210
 translate zh_Hans mark_fem_storyline_16_2591cc8b:
@@ -4434,7 +4434,7 @@ translate zh_Hans mark_fem_storyline_16_214ce2c4:
 translate zh_Hans mark_fem_storyline_16_f87770c5:
 
     # nvljohn "I'm not going to do that"
-    nvljohn "哥哥……你说……你不会那么做……"
+    nvljohn "我不会那么做。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2218
 translate zh_Hans mark_fem_storyline_16_b4b69a2f:
@@ -4518,7 +4518,7 @@ translate zh_Hans mark_fem_storyline_16_d5f340ef:
 translate zh_Hans mark_fem_storyline_16_15789300:
 
     # nvljohn "I'm not going to suggest it to him"
-    nvljohn "我才不会向哥哥提议呢。"
+    nvljohn "我才不会向他提议呢。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2246
 translate zh_Hans mark_fem_storyline_16_5f1a54c8:
@@ -4536,7 +4536,7 @@ translate zh_Hans mark_fem_storyline_16_7bdfaa94:
 translate zh_Hans mark_fem_storyline_16_02b92377:
 
     # nvljohn "You don't need to talk to him"
-    nvljohn "你不需要跟哥哥说。"
+    nvljohn "你不需要跟他说。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2252
 translate zh_Hans mark_fem_storyline_16_81455b56:
@@ -4560,7 +4560,7 @@ translate zh_Hans mark_fem_storyline_16_c032f560:
 translate zh_Hans mark_fem_storyline_16_c30d8b6e:
 
     # nvljohn "He won't agree anyway"
-    nvljohn "反正哥哥也不会同意的。"
+    nvljohn "反正他也不会同意的。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2260
 translate zh_Hans mark_fem_storyline_16_b912c484:
@@ -4592,7 +4592,7 @@ translate zh_Hans mark_fem_storyline_17_ddc66e04:
 translate zh_Hans mark_fem_storyline_17_c1066d6b:
 
     # nvljohn "Hey"
-    nvljohn "哥哥。"
+    nvljohn "弟弟。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2300
 translate zh_Hans mark_fem_storyline_17_1c38b7bb:
@@ -4646,7 +4646,7 @@ translate zh_Hans mark_fem_storyline_17_b7902402:
 translate zh_Hans mark_fem_storyline_17_3f3fb57f:
 
     # nvljohn "Haha"
-    nvljohn "哈哈……哥哥……"
+    nvljohn "哈哈……弟弟……"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2318
 translate zh_Hans mark_fem_storyline_17_3071d1d9:
@@ -4844,7 +4844,7 @@ translate zh_Hans mark_fem_storyline_17_7387e589:
 translate zh_Hans mark_fem_storyline_17_87b0c250:
 
     # nvljohn "How are you feeling?"
-    nvljohn "哥哥，你感觉怎么样？"
+    nvljohn "弟弟，你感觉怎么样？"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2384
 translate zh_Hans mark_fem_storyline_17_18772119:
@@ -4910,7 +4910,7 @@ translate zh_Hans mark_fem_storyline_17_ca0f560e:
 translate zh_Hans mark_fem_storyline_17_0448e6f7:
 
     # nvljohn "That's the spirit 😊"
-    nvljohn "哥哥，你真有精神！😊"
+    nvljohn "弟弟，你真有精神！😊"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2406
 translate zh_Hans mark_fem_storyline_17_9197f1b8:
@@ -4928,7 +4928,7 @@ translate zh_Hans mark_fem_storyline_17_bc2896b0:
 translate zh_Hans mark_fem_storyline_17_521c7406:
 
     # nvljohn "Okay"
-    nvljohn "好的，哥哥。"
+    nvljohn "好的，弟弟。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2426
 translate zh_Hans mark_fem_storyline_17_53c71d7c:
@@ -4948,13 +4948,13 @@ translate zh_Hans mark_fem_storyline_18_653f3992:
 translate zh_Hans mark_fem_storyline_18_0801555d:
 
     # nvljohn "Not much, just relaxing"
-    nvljohn "没做什么，哥哥，只是放松一下。"
+    nvljohn "没做什么，弟弟，只是放松一下。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2451
 translate zh_Hans mark_fem_storyline_18_8121298e:
 
     # nvljohn "And you?"
-    nvljohn "哥哥你呢？"
+    nvljohn "弟弟你呢？"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2453
 translate zh_Hans mark_fem_storyline_18_25074f25:
@@ -4978,7 +4978,7 @@ translate zh_Hans mark_fem_storyline_18_79095c84:
 translate zh_Hans mark_fem_storyline_18_7066b5cb:
 
     # nvljohn "Where do you want to go?"
-    nvljohn "哥哥，你想去哪里？"
+    nvljohn "弟弟，你想去哪里？"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2461
 translate zh_Hans mark_fem_storyline_18_583f2b8c:
@@ -5002,7 +5002,7 @@ translate zh_Hans mark_fem_storyline_18_a1662be4:
 translate zh_Hans mark_fem_storyline_18_e29cc234:
 
     # nvljohn "Aren't you afraid? 😊"
-    nvljohn "哥哥，你不害怕吗？😊"
+    nvljohn "弟弟，你不害怕吗？😊"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2469
 translate zh_Hans mark_fem_storyline_18_d5f5819b:
@@ -5032,7 +5032,7 @@ translate zh_Hans mark_fem_storyline_18_5e68edd8:
 translate zh_Hans mark_fem_storyline_18_13f40906:
 
     # nvljohn "You want to go tonight?"
-    nvljohn "哥哥，你今晚就想去吗？"
+    nvljohn "弟弟，你今晚就想去吗？"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2479
 translate zh_Hans mark_fem_storyline_18_8279ce8a:
@@ -5044,13 +5044,13 @@ translate zh_Hans mark_fem_storyline_18_8279ce8a:
 translate zh_Hans mark_fem_storyline_18_19198a30:
 
     # nvljohn "Alright, let's go then"
-    nvljohn "那好吧，哥哥，我们走吧。"
+    nvljohn "那好吧，弟弟，我们走吧。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2483
 translate zh_Hans mark_fem_storyline_18_e80fcc8e:
 
     # nvljohn "Since you want to go out that much"
-    nvljohn "既然我那么想出去，哥哥……"
+    nvljohn "既然我那么想出去，弟弟……"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2485
 translate zh_Hans mark_fem_storyline_18_ce372597:
@@ -5062,13 +5062,13 @@ translate zh_Hans mark_fem_storyline_18_ce372597:
 translate zh_Hans mark_fem_storyline_18_fcae3e01:
 
     # nvljohn "No, I don't mind"
-    nvljohn "不，哥哥，我不介意。"
+    nvljohn "不，我不介意。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2489
 translate zh_Hans mark_fem_storyline_18_37d32a9c:
 
     # nvljohn "I have nothing else to do anyway"
-    nvljohn "反正我也没有别的事情可做，哥哥。"
+    nvljohn "反正我也没有别的事情可做。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2491
 translate zh_Hans mark_fem_storyline_18_8f89e21c:
@@ -5098,7 +5098,7 @@ translate zh_Hans mark_fem_storyline_18_76c34ab6:
 translate zh_Hans mark_fem_storyline_18_3c79178a:
 
     # nvljohn "Okay 😊"
-    nvljohn "好的，哥哥😊"
+    nvljohn "好的，弟弟😊"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2515
 translate zh_Hans mark_fem_storyline_18_53c71d7c:
@@ -5130,7 +5130,7 @@ translate zh_Hans mark_fem_storyline_19_26473cba:
 translate zh_Hans mark_fem_storyline_19_af902ba3:
 
     # nvljohn "It's all fine"
-    nvljohn "哥哥，没事的。"
+    nvljohn "弟弟，没事的。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2544
 translate zh_Hans mark_fem_storyline_19_0f898a14:
@@ -5166,13 +5166,13 @@ translate zh_Hans mark_fem_storyline_19_c1165e02:
 translate zh_Hans mark_fem_storyline_19_c56d2ed9:
 
     # nvljohn "I said it's all fine"
-    nvljohn "哥哥，我说没事的。"
+    nvljohn "我说没事的。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2556
 translate zh_Hans mark_fem_storyline_19_c5c79b1a:
 
     # nvljohn "Don't worry about it"
-    nvljohn "哥哥，别担心了。"
+    nvljohn "弟弟，别担心了。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2558
 translate zh_Hans mark_fem_storyline_19_baf143f4:
@@ -5184,13 +5184,13 @@ translate zh_Hans mark_fem_storyline_19_baf143f4:
 translate zh_Hans mark_fem_storyline_19_f9ee63af:
 
     # nvljohn "I'm telling you the truth"
-    nvljohn "哥哥，我跟你说的是实话。"
+    nvljohn "我跟你说的是实话。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2562
 translate zh_Hans mark_fem_storyline_19_2dd57cb3:
 
     # nvljohn "Nothing bad happened, it's all fine"
-    nvljohn "哥哥，没发生什么不好的事，一切都好。"
+    nvljohn "弟弟，没发生什么不好的事，一切都好。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2564
 translate zh_Hans mark_fem_storyline_19_29fb8a73:
@@ -5256,7 +5256,7 @@ translate zh_Hans mark_fem_storyline_19_38eccf1b:
 translate zh_Hans mark_fem_storyline_19_5a7e972d:
 
     # nvljohn "Let's not talk about that"
-    nvljohn "哥哥，我们别提那个了。"
+    nvljohn "弟弟，我们别提那个了。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2586
 translate zh_Hans mark_fem_storyline_19_31967596:
@@ -5316,7 +5316,7 @@ translate zh_Hans mark_fem_storyline_19_6d9bc9ba:
 translate zh_Hans mark_fem_storyline_19_27794564:
 
     # nvljohn "{a=show:show_chat_media}{image=marina_pic_6}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=marina_pic_6}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2608
 translate zh_Hans mark_fem_storyline_19_a65d63ff:
@@ -5334,7 +5334,7 @@ translate zh_Hans mark_fem_storyline_19_9baca6cd:
 translate zh_Hans mark_fem_storyline_19_4df59052:
 
     # nvljohn "{a=show:show_chat_media}{image=marina_pic_7}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=marina_pic_7}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2616
 translate zh_Hans mark_fem_storyline_19_8f38600b:
@@ -5346,7 +5346,7 @@ translate zh_Hans mark_fem_storyline_19_8f38600b:
 translate zh_Hans mark_fem_storyline_19_ba8c927d:
 
     # nvljohn "What?"
-    nvljohn "什么？哥哥……"
+    nvljohn "什么？弟弟……"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2620
 translate zh_Hans mark_fem_storyline_19_6dee9d0c:
@@ -5370,7 +5370,7 @@ translate zh_Hans mark_fem_storyline_19_5432ccc6:
 translate zh_Hans mark_fem_storyline_19_4be7f6f8:
 
     # nvlmark "😊"
-    nvlmark ""
+    nvlmark "😊|"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2628
 translate zh_Hans mark_fem_storyline_19_f6fc8149:
@@ -5612,7 +5612,7 @@ translate zh_Hans mark_fem_storyline_20_e09fa047:
 translate zh_Hans mark_fem_storyline_20_fbc8fe60:
 
     # nvljenna "😊"
-    nvljenna ""
+    nvljenna "😊|"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2739
 translate zh_Hans mark_fem_storyline_20_09feaf71:
@@ -5648,13 +5648,13 @@ translate zh_Hans mark_fem_storyline_20_448bff36:
 translate zh_Hans mark_fem_storyline_20_949b57e5:
 
     # nvljenna "{a=show:show_chat_media}{image=bbc_pic_1}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=bbc_pic_1}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2755
 translate zh_Hans mark_fem_storyline_20_d81677c1:
 
     # nvljenna "😉"
-    nvljenna ""
+    nvljenna "😉|"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2757
 translate zh_Hans mark_fem_storyline_20_13d3907e:
@@ -5666,7 +5666,7 @@ translate zh_Hans mark_fem_storyline_20_13d3907e:
 translate zh_Hans mark_fem_storyline_20_977c493a:
 
     # nvljenna "{a=show:show_chat_media}{image=bbc_pic_2}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=bbc_pic_2}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2765
 translate zh_Hans mark_fem_storyline_20_f20e37ea_1:
@@ -5704,7 +5704,7 @@ translate zh_Hans mark_fem_storyline_21_b56bde17:
     # nvl clear
     # nvljohn "Hello"
     nvl clear
-    nvljohn "你好……哥哥……"
+    nvljohn "你好……弟弟……"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2808
 translate zh_Hans mark_fem_storyline_21_c1e53fd6:
@@ -5806,7 +5806,7 @@ translate zh_Hans mark_fem_storyline_21_b39f07d9:
 translate zh_Hans mark_fem_storyline_21_5a543029:
 
     # nvljohn "??"
-    nvljohn "哥哥，什么事啊？"
+    nvljohn "弟弟，什么事啊？"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:2842
 translate zh_Hans mark_fem_storyline_21_bdccc471:
@@ -6122,7 +6122,7 @@ translate zh_Hans mark_fem_storyline_23_ed9201f2:
 translate zh_Hans mark_fem_storyline_23_0801555d:
 
     # nvljohn "Not much, just relaxing"
-    nvljohn "没做什么，哥哥，只是放松一下。"
+    nvljohn "没做什么，弟弟，只是放松一下。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:3019
 translate zh_Hans mark_fem_storyline_23_d602ee41:
@@ -6140,7 +6140,7 @@ translate zh_Hans mark_fem_storyline_23_151f9eb9:
 translate zh_Hans mark_fem_storyline_23_8121298e:
 
     # nvljohn "And you?"
-    nvljohn "哥哥你呢？"
+    nvljohn "弟弟你呢？"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:3025
 translate zh_Hans mark_fem_storyline_23_67ce38f4:
@@ -6256,7 +6256,7 @@ translate zh_Hans mark_fem_storyline_24_1148b963:
 translate zh_Hans mark_fem_storyline_24_0fbcb088:
 
     # nvljohn "{a=show:show_chat_media}{image=marina_pic_8}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=marina_pic_8}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:3098
 translate zh_Hans mark_fem_storyline_24_e1ebb6bd:
@@ -6280,7 +6280,7 @@ translate zh_Hans mark_fem_storyline_24_db5e8f36:
 translate zh_Hans mark_fem_storyline_24_5dab337e:
 
     # nvljohn "Should I talk to him or what?"
-    nvljohn "哥哥，我该不该跟他谈谈啊？"
+    nvljohn "我该不该跟他谈谈啊？"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:3106
 translate zh_Hans mark_fem_storyline_24_ddbe6816:
@@ -6424,7 +6424,7 @@ translate zh_Hans mark_fem_storyline_24_593e3999:
 translate zh_Hans mark_fem_storyline_24_3c79178a:
 
     # nvljohn "Okay 😊"
-    nvljohn "好的，哥哥😊"
+    nvljohn "好的，弟弟😊"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:3154
 translate zh_Hans mark_fem_storyline_24_8a8aa71b:
@@ -7036,7 +7036,7 @@ translate zh_Hans mark_fem_storyline_27_7c2ee8b7:
 translate zh_Hans mark_fem_storyline_27_50bc5acc:
 
     # nvlmark "{a=show:show_chat_media}{image=marina_video_2_ns}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=marina_video_2_ns}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:3488
 translate zh_Hans mark_fem_storyline_27_a48a8322:
@@ -7314,7 +7314,7 @@ translate zh_Hans mark_fem_storyline_28_184dfd2c:
 translate zh_Hans mark_fem_storyline_28_e5724f5a:
 
     # nvljenna "{a=show:show_chat_media}{image=marina_video_3_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=marina_video_3_ns}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:3621
 translate zh_Hans mark_fem_storyline_28_d49a99c6:
@@ -7884,7 +7884,7 @@ translate zh_Hans mark_fem_storyline_31_5aea4d8c:
 translate zh_Hans mark_fem_storyline_31_3ae30a69:
 
     # nvlmark "{a=show:show_chat_media}{image=marina_pic_14}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=marina_pic_14}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:4010
 translate zh_Hans mark_fem_storyline_31_a734cbae:
@@ -7896,7 +7896,7 @@ translate zh_Hans mark_fem_storyline_31_a734cbae:
 translate zh_Hans mark_fem_storyline_31_7e05cba7:
 
     # nvlmark "{a=show:show_chat_media}{image=marina_pic_15}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=marina_pic_15}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:4018
 translate zh_Hans mark_fem_storyline_31_bf6c8bec:
@@ -7926,7 +7926,7 @@ translate zh_Hans mark_fem_storyline_31_b96f5713:
 translate zh_Hans mark_fem_storyline_31_01c25978:
 
     # nvljohn "{a=show:show_chat_media}{image=marina_pic_16}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=marina_pic_16}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:4032
 translate zh_Hans mark_fem_storyline_31_163c4f69:
@@ -8162,7 +8162,7 @@ translate zh_Hans mark_fem_storyline_32_50b7e77e:
 translate zh_Hans mark_fem_storyline_32_26fdf8ad:
 
     # nvlwife "{a=show:show_chat_media}{image=marina_pic_5}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=marina_pic_5}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:4159
 translate zh_Hans mark_fem_storyline_32_ee29cff4:
@@ -8786,7 +8786,7 @@ translate zh_Hans mark_fem_storyline_35_b26c5bc3:
 translate zh_Hans mark_fem_storyline_35_05915d86:
 
     # nvljohn "Haha, always gonna be your big bro."
-    nvljohn "哈哈，我永远都是你的大哥哥。"
+    nvljohn "哈哈，我永远都是你的哥哥。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:4462
 translate zh_Hans mark_fem_storyline_35_228b46fb:
@@ -8858,7 +8858,7 @@ translate zh_Hans mark_fem_storyline_35_1806d44d:
 translate zh_Hans mark_fem_storyline_35_45fd3c66:
 
     # nvljohn "{a=show:show_chat_media}{image=marina_pic_17}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=marina_pic_17}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:4490
 translate zh_Hans mark_fem_storyline_35_68e435c2:
@@ -8870,7 +8870,7 @@ translate zh_Hans mark_fem_storyline_35_68e435c2:
 translate zh_Hans mark_fem_storyline_35_86d2e4bd:
 
     # nvlmark "Oh, stop it, you’re gonna make me blush!"
-    nvlmark "哥哥，别说了，人家都要脸红了！"
+    nvlmark "哥哥，别说了，我都要脸红了！"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:4494
 translate zh_Hans mark_fem_storyline_35_fdffa91e:
@@ -9192,7 +9192,7 @@ translate zh_Hans mark_fem_storyline_37_2ab6752e:
 translate zh_Hans mark_fem_storyline_37_e07fa669:
 
     # nvlmark "{a=show:show_chat_media}{image=marina_pic_18}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=marina_pic_18}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:4670
 translate zh_Hans mark_fem_storyline_37_c5399ede:
@@ -9228,7 +9228,7 @@ translate zh_Hans mark_fem_storyline_37_0a2763fe:
 translate zh_Hans mark_fem_storyline_37_6b2b0547:
 
     # nvljohn "What kinda fun we talkin’ here?"
-    nvljohn "哥哥，你有什么主意吗？"
+    nvljohn "弟弟，你有什么主意吗？"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:4682
 translate zh_Hans mark_fem_storyline_37_ec920d67:
@@ -9276,7 +9276,7 @@ translate zh_Hans mark_fem_storyline_37_9c8093b9:
 translate zh_Hans mark_fem_storyline_37_24136985:
 
     # nvljohn "Clubs can get intense, especially now."
-    nvljohn "我是说，听起来很酷啦，但是……哥哥你确定吗？"
+    nvljohn "我是说，听起来很酷，但是……你确定吗？"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:4698
 translate zh_Hans mark_fem_storyline_37_0009a184:
@@ -9402,7 +9402,7 @@ translate zh_Hans mark_fem_storyline_37_e500d4b6:
 translate zh_Hans mark_fem_storyline_37_6f202e81:
 
     # nvljohn "Anytime."
-    nvljohn "谢谢哥哥。你最好了。"
+    nvljohn "不用谢。你最好了。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:4740
 translate zh_Hans mark_fem_storyline_37_f66ca269:
@@ -9536,7 +9536,7 @@ translate zh_Hans mark_fem_storyline_38_3ee38262:
 translate zh_Hans mark_fem_storyline_38_8ab50ff5:
 
     # nvlmark "{a=show:show_chat_media}{image=marina_video_4_ns}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=marina_video_4_ns}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:4833
 translate zh_Hans mark_fem_storyline_38_6ad7736b:
@@ -9656,7 +9656,7 @@ translate zh_Hans mark_fem_storyline_38_3e868db4:
 translate zh_Hans mark_fem_storyline_38_bdd0cf42:
 
     # nvljohn "Lol, yeah. My hot new sister."
-    nvljohn "哈哈，是啊。哥哥的新辣妹妹妹。"
+    nvljohn "哈哈，是啊。我的火辣新妹妹。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:4873
 translate zh_Hans mark_fem_storyline_38_353049ec:
@@ -9898,7 +9898,7 @@ translate zh_Hans mark_fem_storyline_39_3e8d58d8:
 translate zh_Hans mark_fem_storyline_39_54ce5fc7:
 
     # nvljenna "{a=show:show_chat_media}{image=marina_pic_19}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=marina_pic_19}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:5008
 translate zh_Hans mark_fem_storyline_39_88b7bbb0:
@@ -10170,13 +10170,13 @@ translate zh_Hans mark_fem_storyline_40_f85b8426:
 translate zh_Hans mark_fem_storyline_40_8a4712d0:
 
     # nvljohn "{a=show:show_chat_media}{image=marina_pic_18}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=marina_pic_18}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:5135
 translate zh_Hans mark_fem_storyline_40_5ada7ae6:
 
     # nvljohn "{a=show:show_chat_media}{image=marina_pic_15}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=marina_pic_15}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:5137
 translate zh_Hans mark_fem_storyline_40_dd42ef32:
@@ -10540,7 +10540,7 @@ translate zh_Hans mark_fem_storyline_42_d5fdb56d:
 translate zh_Hans mark_fem_storyline_42_c1066d6b:
 
     # nvljohn "Hey"
-    nvljohn "哥哥。"
+    nvljohn "弟弟。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:5325
 translate zh_Hans mark_fem_storyline_42_0cc77262:
@@ -10624,7 +10624,7 @@ translate zh_Hans mark_fem_storyline_42_a38b5bb2:
 translate zh_Hans mark_fem_storyline_42_dc64549d:
 
     # nvlmark "{a=show:show_chat_media}{image=marina_pic_20}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=marina_pic_20}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:5357
 translate zh_Hans mark_fem_storyline_42_7acb995e:
@@ -10702,7 +10702,7 @@ translate zh_Hans mark_fem_storyline_42_0ec4e73d:
 translate zh_Hans mark_fem_storyline_42_ce789bce:
 
     # nvljohn "Don’t be late."
-    nvljohn "哥哥可别迟到哦。"
+    nvljohn "弟弟可别迟到哦。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:5383
 translate zh_Hans mark_fem_storyline_42_b108c522:
@@ -11102,7 +11102,7 @@ translate zh_Hans mark_fem_storyline_44_4b2b0837:
 translate zh_Hans mark_fem_storyline_44_e4f30e4a:
 
     # nvljenna "{a=show:show_chat_media}{image=bbc_video_99_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=bbc_video_99_ns}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:5583
 translate zh_Hans mark_fem_storyline_44_ff05d26b:
@@ -11374,7 +11374,7 @@ translate zh_Hans mark_fem_storyline_45_5e677122:
 translate zh_Hans mark_fem_storyline_45_09df2ffc:
 
     # nvlmark "{a=show:show_chat_media}{image=marina_pic_21}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=marina_pic_21}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:5721
 translate zh_Hans mark_fem_storyline_45_be0670f5:
@@ -11670,7 +11670,7 @@ translate zh_Hans mark_fem_storyline_46_8a6121ca:
 translate zh_Hans mark_fem_storyline_46_71537531:
 
     # nvlsalim "{a=show:show_chat_media}{image=marina_pic_22}"
-    nvlsalim ""
+    nvlsalim "{a=show:show_chat_media}{image=marina_pic_22}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:5856
 translate zh_Hans mark_fem_storyline_46_d02df519:
@@ -11778,7 +11778,7 @@ translate zh_Hans mark_fem_storyline_46_7c2bfc65:
 translate zh_Hans mark_fem_storyline_46_ce789bce:
 
     # nvljohn "Don’t be late."
-    nvljohn "哥哥可别迟到哦。"
+    nvljohn "弟弟可别迟到哦。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:5892
 translate zh_Hans mark_fem_storyline_46_d5603c87:
@@ -11936,7 +11936,7 @@ translate zh_Hans mark_fem_storyline_47_c16a8fe6:
 translate zh_Hans mark_fem_storyline_47_76aaa1e8:
 
     # nvlmark "{a=show:show_chat_media}{image=marina_pic_23}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=marina_pic_23}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:5979
 translate zh_Hans mark_fem_storyline_47_a410fe86:
@@ -12098,7 +12098,7 @@ translate zh_Hans mark_fem_storyline_47_add2852f:
 translate zh_Hans mark_fem_storyline_47_74d2904f:
 
     # nvljohn "Yeah, later."
-    nvljohn "嗯，待会儿聊，哥哥。"
+    nvljohn "嗯，待会儿聊，弟弟。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:6033
 translate zh_Hans mark_fem_storyline_47_a11b7258:
@@ -12510,7 +12510,7 @@ translate zh_Hans mark_fem_storyline_49_e4fe697d:
 translate zh_Hans mark_fem_storyline_49_ee1a80be:
 
     # nvlmark "{a=show:show_chat_media}{image=marina_pic_24}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=marina_pic_24}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:6258
 translate zh_Hans mark_fem_storyline_49_60398795:
@@ -12600,7 +12600,7 @@ translate zh_Hans mark_fem_storyline_49_0ac1aeef:
 translate zh_Hans mark_fem_storyline_49_da371a79:
 
     # nvljohn "Depends on how wild *you* get."
-    nvljohn "看*哥哥*你有多疯了。"
+    nvljohn "看*弟弟*你有多疯了。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:6288
 translate zh_Hans mark_fem_storyline_49_d6914cc9:
@@ -13090,7 +13090,7 @@ translate zh_Hans mark_fem_storyline_51_71f5f0a9:
 translate zh_Hans mark_fem_storyline_51_3a86287e:
 
     # nvljohn "Gonna have to hug you more often now."
-    nvljohn "以后我可要多抱抱哥哥了。"
+    nvljohn "以后我可要多抱抱弟弟了。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:6531
 translate zh_Hans mark_fem_storyline_51_aa5a58ca:
@@ -13266,7 +13266,7 @@ translate zh_Hans mark_fem_storyline_52_728e9bee:
 translate zh_Hans mark_fem_storyline_52_cc8bf83e:
 
     # nvlsalim "{a=show:show_chat_media}{image=marina_pic_25}"
-    nvlsalim ""
+    nvlsalim "{a=show:show_chat_media}{image=marina_pic_25}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:6626
 translate zh_Hans mark_fem_storyline_52_23963f61:
@@ -13338,7 +13338,7 @@ translate zh_Hans mark_fem_storyline_52_90635797:
 translate zh_Hans mark_fem_storyline_52_18cdb079:
 
     # nvljohn "You paying? Shit, I’m there 😜"
-    nvljohn "哥哥请客？哇塞，那必须去啊 😜"
+    nvljohn "弟弟请客？哇塞，那必须去啊 😜"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:6650
 translate zh_Hans mark_fem_storyline_52_b17e340a:
@@ -13526,7 +13526,7 @@ translate zh_Hans mark_fem_storyline_53_09a3a3bf:
 translate zh_Hans mark_fem_storyline_53_6f202e81:
 
     # nvljohn "Anytime."
-    nvljohn "谢谢哥哥。你最好了。"
+    nvljohn "不用谢。你最好了。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:6745
 translate zh_Hans mark_fem_storyline_53_8cfb395c:
@@ -14302,7 +14302,7 @@ translate zh_Hans mark_fem_storyline_57_5fbb98de:
 translate zh_Hans mark_fem_storyline_57_c2900f72:
 
     # nvljenna "{a=show:show_chat_media}{image=bbc_video_96_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=bbc_video_96_ns}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:7135
 translate zh_Hans mark_fem_storyline_57_5f543c74:
@@ -14912,7 +14912,7 @@ translate zh_Hans mark_fem_storyline_59_0b35a449:
 translate zh_Hans mark_fem_storyline_59_0d277b6a:
 
     # nvlmark "And primp? Pfft, I’m a natural beauty 😎"
-    nvlmark "打扮？哼，人家可是天生丽质啦😎"
+    nvlmark "打扮？哼，我可是天生丽质啦😎"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:7413
 translate zh_Hans mark_fem_storyline_59_31f2f8c5:
@@ -14924,7 +14924,7 @@ translate zh_Hans mark_fem_storyline_59_31f2f8c5:
 translate zh_Hans mark_fem_storyline_59_534dc29b:
 
     # nvlmark "{a=show:show_chat_media}{image=marina_pic_26}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=marina_pic_26}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:7421
 translate zh_Hans mark_fem_storyline_59_a9bac697:
@@ -15232,7 +15232,7 @@ translate zh_Hans mark_fem_storyline_60_6e04445f:
 translate zh_Hans mark_fem_storyline_60_7b661c48:
 
     # nvlmark "{a=show:show_chat_media}{image=marina_pic_27}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=marina_pic_27}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:7583
 translate zh_Hans mark_fem_storyline_60_d05274dd:
@@ -15376,7 +15376,7 @@ translate zh_Hans mark_fem_storyline_60_5fe04a8c:
 translate zh_Hans mark_fem_storyline_60_6e1e24b1:
 
     # nvljohn "Hell yeah, I’m down"
-    nvljohn "当然啦，我没问题。"
+    nvljohn "当然，我没问题。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:7631
 translate zh_Hans mark_fem_storyline_60_0d9833e8:
@@ -15920,7 +15920,7 @@ translate zh_Hans mark_fem_storyline_62_b5724716:
 translate zh_Hans mark_fem_storyline_62_e882b0b4:
 
     # nvlmark "{a=show:show_chat_media}{image=marina_pic_28}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=marina_pic_28}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:7885
 translate zh_Hans mark_fem_storyline_62_60398795:
@@ -15950,13 +15950,13 @@ translate zh_Hans mark_fem_storyline_62_b93ad2e7:
 translate zh_Hans mark_fem_storyline_62_5fb6ab74:
 
     # nvljohn "Chill night with you? I’m sold"
-    nvljohn "和哥哥一起放松的夜晚？我当然乐意！"
+    nvljohn "和弟弟一起放松的夜晚？我当然乐意！"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:7895
 translate zh_Hans mark_fem_storyline_62_e744f8ed:
 
     # nvljohn "Gonna be a good one"
-    nvljohn "一定会很棒的，哥哥。"
+    nvljohn "一定会很棒的，弟弟。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:7897
 translate zh_Hans mark_fem_storyline_62_f8127fcf:
@@ -15980,13 +15980,13 @@ translate zh_Hans mark_fem_storyline_62_2c4e54c0:
 translate zh_Hans mark_fem_storyline_62_f56be324:
 
     # nvljohn "Haha, I got taste, relax"
-    nvljohn "哈哈，哥哥，我可是有品味的，放心吧。"
+    nvljohn "哈哈，我可是有品味的，放心吧。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:7905
 translate zh_Hans mark_fem_storyline_62_caf28d80:
 
     # nvljohn "I’ll get something you’ll love"
-    nvljohn "我会选你喜欢的，哥哥。"
+    nvljohn "我会选你喜欢的。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:7907
 translate zh_Hans mark_fem_storyline_62_d6f1d3c3:
@@ -16016,7 +16016,7 @@ translate zh_Hans mark_fem_storyline_62_395ba253:
 translate zh_Hans mark_fem_storyline_62_1e0662ea:
 
     # nvljohn "Maybe some of those fancy cheeses you’re into now"
-    nvljohn "也许再来点哥哥你现在喜欢的那种高级奶酪？"
+    nvljohn "也许再来点弟弟你现在喜欢的那种高级奶酪？"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:7917
 translate zh_Hans mark_fem_storyline_62_e414acc7:
@@ -16046,13 +16046,13 @@ translate zh_Hans mark_fem_storyline_62_c82facaa:
 translate zh_Hans mark_fem_storyline_62_d6d16db3:
 
     # nvljohn "Hell yeah, I’m pumped"
-    nvljohn "太棒了，哥哥，我超兴奋的！"
+    nvljohn "太棒了，弟弟，我超兴奋的！"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:7927
 translate zh_Hans mark_fem_storyline_62_9fd79f54:
 
     # nvljohn "See you Friday, don’t burn the place down"
-    nvljohn "哥哥，周五见，可别把地方烧了啊。"
+    nvljohn "弟弟，周五见，可别把地方烧了啊。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:7929
 translate zh_Hans mark_fem_storyline_62_c0e1b377:
@@ -16156,13 +16156,13 @@ translate zh_Hans mark_fem_storyline_63_6cc392ba:
 translate zh_Hans mark_fem_storyline_63_66bf494f:
 
     # nvlmark "{a=show:show_chat_media}{image=marina_video_5_ns}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=marina_video_5_ns}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:7998
 translate zh_Hans mark_fem_storyline_63_e7b4e155:
 
     # nvljohn "Wow, I didn't even see you recording this hahaha, it was really good, don't worry"
-    nvljohn "哇，哥哥你录的时候我都没发现，哈哈哈，真的很好，别担心。"
+    nvljohn "哇，弟弟你录的时候我都没发现，哈哈哈，真的很好，别担心。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:8000
 translate zh_Hans mark_fem_storyline_63_ee74c4df:
@@ -16518,7 +16518,7 @@ translate zh_Hans mark_fem_storyline_64_2ff9c660:
 translate zh_Hans mark_fem_storyline_64_29b17e11:
 
     # nvljohn "Depends on how wild you get 😎"
-    nvljohn "那要看哥哥有多疯狂咯 😎"
+    nvljohn "那要看弟弟有多疯狂咯 😎"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:8149
 translate zh_Hans mark_fem_storyline_64_5880bac2:
@@ -17098,7 +17098,7 @@ translate zh_Hans mark_fem_storyline_66_98c06b31:
 translate zh_Hans mark_fem_storyline_66_baf5449e:
 
     # nvljohn "You pick. I trust your taste"
-    nvljohn "哥哥你来选吧。我信得过你的品味。"
+    nvljohn "弟弟你来选吧。我信得过你的品味。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:8425
 translate zh_Hans mark_fem_storyline_66_febf20ae:
@@ -17630,7 +17630,7 @@ translate zh_Hans mark_fem_storyline_68_bde65b00:
 translate zh_Hans mark_fem_storyline_68_8d2baef1:
 
     # nvljohn "Take it easy"
-    nvljohn "哥哥，保重。"
+    nvljohn "弟弟，保重。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:8667
 translate zh_Hans mark_fem_storyline_68_63edeeb2:
@@ -18254,7 +18254,7 @@ translate zh_Hans mark_fem_storyline_71_92f71d7c:
 translate zh_Hans mark_fem_storyline_71_a4e40cd4:
 
     # nvljohn "You’re my closest person too, you know"
-    nvljohn "哥哥，你也是我最亲近的人，你知道的。"
+    nvljohn "你也是我最亲近的人，你知道的。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:8972
 translate zh_Hans mark_fem_storyline_71_1b8bf619:
@@ -18278,7 +18278,7 @@ translate zh_Hans mark_fem_storyline_71_515951aa:
 translate zh_Hans mark_fem_storyline_71_42d08eb3:
 
     # nvlmark "{a=show:show_chat_media}{image=marina_pic_29}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=marina_pic_29}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:8984
 translate zh_Hans mark_fem_storyline_71_67e74b83:
@@ -18472,7 +18472,7 @@ translate zh_Hans mark_fem_storyline_72_1ee1d345:
 translate zh_Hans mark_fem_storyline_72_ee54f36f:
 
     # nvljohn "Like, after you’re done with work"
-    nvljohn "就是哥哥你下班以后。"
+    nvljohn "就是弟弟你下班以后。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9083
 translate zh_Hans mark_fem_storyline_72_9dc05df2:
@@ -18532,7 +18532,7 @@ translate zh_Hans mark_fem_storyline_72_d154a418:
 translate zh_Hans mark_fem_storyline_72_a84c8f2c:
 
     # nvlmark "{a=show:show_chat_media}{image=marina_pic_30}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=marina_pic_30}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9107
 translate zh_Hans mark_fem_storyline_72_e1bca6b6:
@@ -18634,7 +18634,7 @@ translate zh_Hans mark_fem_storyline_72_0f0f66b1:
 translate zh_Hans mark_fem_storyline_72_f201e4b0:
 
     # nvljohn "You bringing any good ones?"
-    nvljohn "哥哥你呢？有什么好故事吗？"
+    nvljohn "弟弟你呢？有什么好故事吗？"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9141
 translate zh_Hans mark_fem_storyline_72_3a4e6171:
@@ -18664,7 +18664,7 @@ translate zh_Hans mark_fem_storyline_72_54e3c7cb:
 translate zh_Hans mark_fem_storyline_72_8507cbc7:
 
     # nvljohn "Don’t work too hard"
-    nvljohn "哥哥别太辛苦了。"
+    nvljohn "弟弟别太辛苦了。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9151
 translate zh_Hans mark_fem_storyline_72_a4151c7b:
@@ -18828,7 +18828,7 @@ translate zh_Hans mark_fem_storyline_73_17391f63:
 translate zh_Hans mark_fem_storyline_73_65b311e7:
 
     # nvljohn "Life’s wild, that’s how"
-    nvljohn "生活就是这么出人意料嘛，哥哥。"
+    nvljohn "生活就是这么出人意料嘛，弟弟。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9238
 translate zh_Hans mark_fem_storyline_73_3081cccb:
@@ -18858,7 +18858,7 @@ translate zh_Hans mark_fem_storyline_73_242282d0:
 translate zh_Hans mark_fem_storyline_73_437d34d3:
 
     # nvlmark "{a=show:show_chat_media}{image=marina_pic_31}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=marina_pic_31}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9252
 translate zh_Hans mark_fem_storyline_73_a0079f33:
@@ -18888,7 +18888,7 @@ translate zh_Hans mark_fem_storyline_73_5cab9d63:
 translate zh_Hans mark_fem_storyline_73_6e1e24b1:
 
     # nvljohn "Hell yeah, I’m down"
-    nvljohn "当然啦，我没问题。"
+    nvljohn "当然，我没问题。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9262
 translate zh_Hans mark_fem_storyline_73_3701d3aa:
@@ -19016,7 +19016,7 @@ translate zh_Hans mark_fem_storyline_74_67707663:
 translate zh_Hans mark_fem_storyline_74_ec05dedc:
 
     # nvljenna "{a=show:show_chat_media}{image=bbc_video_100_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=bbc_video_100_ns}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9339
 translate zh_Hans mark_fem_storyline_74_9ea4c567:
@@ -19264,7 +19264,7 @@ translate zh_Hans mark_fem_storyline_75_603263e6:
 translate zh_Hans mark_fem_storyline_75_4b3ec42b:
 
     # nvljohn "You free to hang out soon?"
-    nvljohn "哥哥，你最近有空出来玩吗？"
+    nvljohn "弟弟，你最近有空出来玩吗？"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9466
 translate zh_Hans mark_fem_storyline_75_8f7d0318:
@@ -19384,7 +19384,7 @@ translate zh_Hans mark_fem_storyline_75_b7f8d3c6:
 translate zh_Hans mark_fem_storyline_75_a011ddac:
 
     # nvlmark "{a=show:show_chat_media}{image=marina_video_6_ns}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=marina_video_6_ns}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9510
 translate zh_Hans mark_fem_storyline_75_04bd8293:
@@ -19468,7 +19468,7 @@ translate zh_Hans mark_fem_storyline_75_744e4d46:
 translate zh_Hans mark_fem_storyline_75_dd41ee16:
 
     # nvlmark "Haha, stop it, I’m blushing again!"
-    nvlmark "哥哥，别说了，人家又脸红了啦！"
+    nvlmark "哥哥，别说了，我又脸红了啦！"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9538
 translate zh_Hans mark_fem_storyline_75_54815b32:
@@ -19486,7 +19486,7 @@ translate zh_Hans mark_fem_storyline_75_7024758b:
 translate zh_Hans mark_fem_storyline_75_0abc098f:
 
     # nvljohn "Don’t work too hard, gorgeous"
-    nvljohn "哥哥，别太累了哦，你这个大美人。"
+    nvljohn "弟弟，别太累了哦，你这个大美人。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9544
 translate zh_Hans mark_fem_storyline_75_a4151c7b:
@@ -19506,19 +19506,19 @@ translate zh_Hans mark_fem_storyline_76_c6a444cc:
     # nvl clear
     # nvljohn "You up? 😏"
     nvl clear
-    nvljohn "哥哥，你醒了吗？😏"
+    nvljohn "弟弟，你醒了吗？😏"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9583
 translate zh_Hans mark_fem_storyline_76_cf9f58b9:
 
     # nvljohn "Can’t sleep, been thinking about you"
-    nvljohn "哥哥，我睡不着，一直在想你……"
+    nvljohn "弟弟，我睡不着，一直在想你……"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9585
 translate zh_Hans mark_fem_storyline_76_2704d51d:
 
     # nvljohn "You’re so damn beautiful, you know that?"
-    nvljohn "哥哥，你真是太好看了，你知道吗？"
+    nvljohn "弟弟，你真是太好看了，你知道吗？"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9587
 translate zh_Hans mark_fem_storyline_76_97e19e84:
@@ -19530,7 +19530,7 @@ translate zh_Hans mark_fem_storyline_76_97e19e84:
 translate zh_Hans mark_fem_storyline_76_c9d51648:
 
     # nvlmark "Beautiful? You’re gonna make me blush"
-    nvlmark "哥哥，美人？你这样说，人家会脸红的啦！"
+    nvlmark "哥哥，美人？你这样说，我会脸红的啦！"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9591
 translate zh_Hans mark_fem_storyline_76_1672b80b:
@@ -19542,19 +19542,19 @@ translate zh_Hans mark_fem_storyline_76_1672b80b:
 translate zh_Hans mark_fem_storyline_76_8287b9a7:
 
     # nvljohn "Just you, driving me crazy"
-    nvljohn "哥哥，还不是你，把我弄得心痒痒的……"
+    nvljohn "还不是你，把我弄得心痒痒的……"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9595
 translate zh_Hans mark_fem_storyline_76_f9ace709:
 
     # nvljohn "Sometimes I think about doing *all sorts* with you 😈"
-    nvljohn "哥哥，有时候我真想和你做各种各样的事情呢……😈"
+    nvljohn "有时候我真想和你做各种各样的事情呢……😈"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9597
 translate zh_Hans mark_fem_storyline_76_85c1e2de:
 
     # nvljohn "Can’t help it, you’re too hot"
-    nvljohn "哥哥，没办法，你太诱人了。"
+    nvljohn "弟弟，没办法，你太诱人了。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9599
 translate zh_Hans mark_fem_storyline_76_16f74a54:
@@ -19566,7 +19566,7 @@ translate zh_Hans mark_fem_storyline_76_16f74a54:
 translate zh_Hans mark_fem_storyline_76_7689a9ae:
 
     # nvlmark "But... I kinda like it 😘"
-    nvlmark "哥哥，可是……人家有点喜欢呢😘"
+    nvlmark "哥哥，可是……我有点喜欢呢😘"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9603
 translate zh_Hans mark_fem_storyline_76_1ce6f893:
@@ -19578,19 +19578,19 @@ translate zh_Hans mark_fem_storyline_76_1ce6f893:
 translate zh_Hans mark_fem_storyline_76_d17d2ffd:
 
     # nvljohn "Haha, you really wanna know?"
-    nvljohn "哥哥，哈哈，你真的想知道吗？"
+    nvljohn "弟弟，哈哈，你真的想知道吗？"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9607
 translate zh_Hans mark_fem_storyline_76_34cac7da:
 
     # nvljohn "Let’s just say I’d love to get you alone"
-    nvljohn "哥哥，这么说吧，我真想和你单独待在一起。"
+    nvljohn "弟弟，这么说吧，我真想和你单独待在一起。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9609
 translate zh_Hans mark_fem_storyline_76_b7cad900:
 
     # nvljohn "Show you how much you’re driving me wild"
-    nvljohn "哥哥，让你看看你把我弄得有多疯狂。"
+    nvljohn "让你看看你把我弄得有多疯狂。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9611
 translate zh_Hans mark_fem_storyline_76_3e4cf520:
@@ -19608,37 +19608,37 @@ translate zh_Hans mark_fem_storyline_76_601c928e:
 translate zh_Hans mark_fem_storyline_76_cf73ccda:
 
     # nvlmark "You’re making me think some naughty things too 😏"
-    nvlmark "哥哥，你都把人家也弄得想些坏坏的事情了呢😏"
+    nvlmark "哥哥，你都把我也弄得想些坏坏的事情了呢😏"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9617
 translate zh_Hans mark_fem_storyline_76_e318185c:
 
     # nvljohn "Oh, yeah? Like what?"
-    nvljohn "哥哥，哦，是吗？比如呢？"
+    nvljohn "弟弟，哦，是吗？比如呢？"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9619
 translate zh_Hans mark_fem_storyline_76_62ef9759:
 
     # nvljohn "Don’t leave me hanging"
-    nvljohn "哥哥，别吊人家胃口嘛。"
+    nvljohn "别吊我胃口嘛。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9621
 translate zh_Hans mark_fem_storyline_76_ab0fde60:
 
     # nvljohn "You want a preview?"
-    nvljohn "哥哥，你想先睹为快吗？"
+    nvljohn "弟弟，你想先睹为快吗？"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9623
 translate zh_Hans mark_fem_storyline_76_eef7ecef:
 
     # nvljohn "Check this out..."
-    nvljohn "哥哥，你看看这个……"
+    nvljohn "弟弟，你看看这个……"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9627
 translate zh_Hans mark_fem_storyline_76_35717ce4:
 
     # nvljohn "{a=show:show_chat_media}{image=mc_pic_62}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=mc_pic_62}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9631
 translate zh_Hans mark_fem_storyline_76_6b24cde8:
@@ -19668,7 +19668,7 @@ translate zh_Hans mark_fem_storyline_76_f313a4f5:
 translate zh_Hans mark_fem_storyline_76_ec7bdf00:
 
     # nvlmark "{a=show:show_chat_media}{image=marina_pic_32}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=marina_pic_32}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9645
 translate zh_Hans mark_fem_storyline_76_a62feead:
@@ -19680,19 +19680,19 @@ translate zh_Hans mark_fem_storyline_76_a62feead:
 translate zh_Hans mark_fem_storyline_76_ac783f63:
 
     # nvljohn "Fuck, Mark, you’re killing me!"
-    nvljohn "哥哥，天哪，马克，你真是要把我迷死了！"
+    nvljohn "弟弟，天哪，马克，你真是要把我迷死了！"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9649
 translate zh_Hans mark_fem_storyline_76_85eb5d09:
 
     # nvljohn "That’s so hot, I can’t even"
-    nvljohn "哥哥，那真是太火辣了，我简直受不了了。"
+    nvljohn "那真是太火辣了，我简直受不了了。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9651
 translate zh_Hans mark_fem_storyline_76_526b615e:
 
     # nvljohn "You’re making it real hard to behave"
-    nvljohn "哥哥，你这样，人家真的很难乖乖的。"
+    nvljohn "弟弟，你这样，我真的很难乖乖的。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9653
 translate zh_Hans mark_fem_storyline_76_f0e568df:
@@ -19710,19 +19710,19 @@ translate zh_Hans mark_fem_storyline_76_6a446f8a:
 translate zh_Hans mark_fem_storyline_76_4d007ab2:
 
     # nvlmark "But I’m getting all flustered"
-    nvlmark "哥哥，可是人家都快乱套了。"
+    nvlmark "哥哥，可是我都快乱套了。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9659
 translate zh_Hans mark_fem_storyline_76_c891a405:
 
     # nvljohn "Good, I like you flustered"
-    nvljohn "哥哥，好啊，我就喜欢你把我弄得手足无措的样子。"
+    nvljohn "好啊，我就喜欢你把我弄得手足无措的样子。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9661
 translate zh_Hans mark_fem_storyline_76_2c951d99:
 
     # nvljohn "Can’t wait to see you this weekend"
-    nvljohn "哥哥，等不及这个周末见到你了。"
+    nvljohn "弟弟，等不及这个周末见到你了。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9663
 translate zh_Hans mark_fem_storyline_76_7ebf6928:
@@ -19752,7 +19752,7 @@ translate zh_Hans mark_fem_storyline_76_54e3c7cb:
 translate zh_Hans mark_fem_storyline_76_be9b10ca:
 
     # nvljohn "Dream about me 😜"
-    nvljohn "哥哥，梦到我哦😜"
+    nvljohn "梦到我哦😜"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9673
 translate zh_Hans mark_fem_storyline_76_fc153ae4:
@@ -19772,19 +19772,19 @@ translate zh_Hans mark_fem_storyline_77_e1e1c8b0:
     # nvl clear
     # nvljohn "You ready for tonight? 😎"
     nvl clear
-    nvljohn "哥哥，今晚你准备好了吗？😎"
+    nvljohn "弟弟，今晚你准备好了吗？😎"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9712
 translate zh_Hans mark_fem_storyline_77_52e6a5b1:
 
     # nvljohn "Can’t wait to see you"
-    nvljohn "哥哥，等不及要见到你了。"
+    nvljohn "弟弟，等不及要见到你了。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9714
 translate zh_Hans mark_fem_storyline_77_09a598b4:
 
     # nvljohn "What’s the plan?"
-    nvljohn "哥哥，有什么计划吗？"
+    nvljohn "弟弟，有什么计划吗？"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9716
 translate zh_Hans mark_fem_storyline_77_9929774f:
@@ -19898,7 +19898,7 @@ translate zh_Hans mark_fem_storyline_77_5d37223b:
 translate zh_Hans mark_fem_storyline_77_da7b6824:
 
     # nvlmark "{a=show:show_chat_media}{image=marina_pic_33}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=marina_pic_33}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9758
 translate zh_Hans mark_fem_storyline_77_67e74b83:
@@ -20224,7 +20224,7 @@ translate zh_Hans mark_fem_storyline_78_34116bc0:
 translate zh_Hans mark_fem_storyline_78_2d7a91e7:
 
     # nvlmark "{a=show:show_chat_media}{image=marina_pic_34}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=marina_pic_34}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:9901
 translate zh_Hans mark_fem_storyline_78_368d5fc1:
@@ -20454,7 +20454,7 @@ translate zh_Hans mark_fem_storyline_500_af3842f3:
 translate zh_Hans mark_fem_storyline_500_bb1a663a:
 
     # nvlmark "{a=show:show_chat_media}{image=marina_pic_35}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=marina_pic_35}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:10032
 translate zh_Hans mark_fem_storyline_500_7e81797f:
@@ -21324,13 +21324,13 @@ translate zh_Hans mark_fem_storyline_503_2319ae89:
 translate zh_Hans mark_fem_storyline_503_47642d39:
 
     # nvljohn "Keep shining"
-    nvljohn "哥哥也要继续闪耀哦"
+    nvljohn "弟弟也要继续闪耀哦"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:10417
 translate zh_Hans mark_fem_storyline_503_4be7f6f8:
 
     # nvlmark "😊"
-    nvlmark ""
+    nvlmark "😊|"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:10433
 translate zh_Hans mark_fem_storyline_503_53c71d7c:
@@ -21362,7 +21362,7 @@ translate zh_Hans mark_fem_storyline_504_5cfc26fd:
 translate zh_Hans mark_fem_storyline_504_3e839c85:
 
     # nvljenna "{a=show:show_chat_media}{image=bbc_video_101_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=bbc_video_101_ns}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:10466
 translate zh_Hans mark_fem_storyline_504_cff39aae:
@@ -21942,7 +21942,7 @@ translate zh_Hans mark_fem_storyline_506_1489df4b:
 translate zh_Hans mark_fem_storyline_506_5d0613d0:
 
     # nvljohn "Where you thinking? Café, bar?"
-    nvljohn "哥哥想去哪儿？咖啡馆还是酒吧？"
+    nvljohn "弟弟想去哪儿？咖啡馆还是酒吧？"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:10741
 translate zh_Hans mark_fem_storyline_506_fef2eec6:
@@ -21996,7 +21996,7 @@ translate zh_Hans mark_fem_storyline_506_6a0bf840:
 translate zh_Hans mark_fem_storyline_506_1c5c803d:
 
     # nvljohn "Send me the address. I’ll be there."
-    nvljohn "哥哥把地址发给我吧，我一定到。"
+    nvljohn "把地址发给我吧，我一定到。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:10759
 translate zh_Hans mark_fem_storyline_506_e465fc67:
@@ -22086,7 +22086,7 @@ translate zh_Hans mark_fem_storyline_506_1db3b555:
 translate zh_Hans mark_fem_storyline_506_0c17650b:
 
     # nvljohn "Just looking forward to seeing you."
-    nvljohn "我只是很期待见到哥哥。"
+    nvljohn "我只是很期待见到弟弟。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:10789
 translate zh_Hans mark_fem_storyline_506_14796f41:
@@ -22172,7 +22172,7 @@ translate zh_Hans mark_fem_storyline_507_c8d839fc:
 translate zh_Hans mark_fem_storyline_507_9ca81005:
 
     # nvljohn "So, what’ve you been thinking?"
-    nvljohn "那哥哥，你都想了些什么呀？"
+    nvljohn "那弟弟，你都想了些什么呀？"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:10848
 translate zh_Hans mark_fem_storyline_507_3fd63164:
@@ -22462,7 +22462,7 @@ translate zh_Hans mark_fem_storyline_508_b0242c27:
 translate zh_Hans mark_fem_storyline_508_63c11f54:
 
     # nvljenna "{a=show:show_chat_media}{image=marina_video_7_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=marina_video_7_ns}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:10979
 translate zh_Hans mark_fem_storyline_508_fa4c62a0:
@@ -22800,7 +22800,7 @@ translate zh_Hans mark_fem_storyline_509_ebc9126b:
 translate zh_Hans mark_fem_storyline_509_a84c8f2c:
 
     # nvlmark "{a=show:show_chat_media}{image=marina_pic_30}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=marina_pic_30}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:11126
 translate zh_Hans mark_fem_storyline_509_dde4c3d0:
@@ -23194,7 +23194,7 @@ translate zh_Hans mark_fem_storyline_511_06e1f53e:
 translate zh_Hans mark_fem_storyline_511_fc533dcc:
 
     # nvljenna "{a=show:show_chat_media}{image=marina_pic_36}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=marina_pic_36}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:11326
 translate zh_Hans mark_fem_storyline_511_f761be2f:
@@ -23672,7 +23672,7 @@ translate zh_Hans mark_fem_storyline_513_8b3aea56:
 translate zh_Hans mark_fem_storyline_513_28d159e7:
 
     # nvlmark "{a=show:show_chat_media}{image=marina_pic_37}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=marina_pic_37}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:11576
 translate zh_Hans mark_fem_storyline_513_988fddc4:
@@ -23822,7 +23822,7 @@ translate zh_Hans mark_fem_storyline_513_83bda961:
 translate zh_Hans mark_fem_storyline_513_e127e070:
 
     # nvljohn "Tell me about it."
-    nvljohn "哥哥，你还说呢。"
+    nvljohn "你还说呢。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:11626
 translate zh_Hans mark_fem_storyline_513_a22b5a68:
@@ -23906,7 +23906,7 @@ translate zh_Hans mark_fem_storyline_513_3a1898e3:
 translate zh_Hans mark_fem_storyline_513_a88fce17:
 
     # nvlmark "😘"
-    nvlmark ""
+    nvlmark "😘|"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:11668
 translate zh_Hans mark_fem_storyline_513_53c71d7c:
@@ -24360,7 +24360,7 @@ translate zh_Hans mark_fem_storyline_515_d922afc5:
 translate zh_Hans mark_fem_storyline_515_73b31b31:
 
     # nvlmark "{a=show:show_chat_media}{image=marina_pic_38}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=marina_pic_38}"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:11889
 translate zh_Hans mark_fem_storyline_515_334fb88e:
@@ -24432,7 +24432,7 @@ translate zh_Hans mark_fem_storyline_515_45b4cc6a:
 translate zh_Hans mark_fem_storyline_515_e1c60c9d:
 
     # nvljohn "Keep slaying"
-    nvljohn "是啊，哥哥，我就继续这样‘惊艳’下去吧。"
+    nvljohn "是啊，弟弟，我就继续这样‘惊艳’下去吧。"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:11913
 translate zh_Hans mark_fem_storyline_515_dbb69648:

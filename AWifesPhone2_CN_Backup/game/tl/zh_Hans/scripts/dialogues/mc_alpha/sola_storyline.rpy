@@ -362,7 +362,7 @@ translate zh_Hans sola_storyline_51_b9a3784c:
 translate zh_Hans sola_storyline_51_8ac8ffff:
 
     # nvljohn "{a=show:show_chat_media}{image=sola_pic_77}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sola_pic_77}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:223
 translate zh_Hans sola_storyline_51_571e851c:
@@ -386,7 +386,7 @@ translate zh_Hans sola_storyline_51_4dd1ec00:
 translate zh_Hans sola_storyline_51_c28553ed:
 
     # nvljohn "{a=show:show_chat_media}{image=sola_pic_78}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sola_pic_78}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:239
 translate zh_Hans sola_storyline_51_4c26732b:
@@ -1008,7 +1008,7 @@ translate zh_Hans sola_storyline_53_2e8abfc1:
 translate zh_Hans sola_storyline_53_7afa5537:
 
     # nvlsola "{a=show:show_chat_media}{image=sola_pic_79}"
-    nvlsola ""
+    nvlsola "{a=show:show_chat_media}{image=sola_pic_79}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:531
 translate zh_Hans sola_storyline_53_28179061:
@@ -1026,7 +1026,7 @@ translate zh_Hans sola_storyline_53_4af7e31e:
 translate zh_Hans sola_storyline_53_f8dd90c1:
 
     # nvlsola "{a=show:show_chat_media}{image=sola_pic_80}"
-    nvlsola ""
+    nvlsola "{a=show:show_chat_media}{image=sola_pic_80}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:545
 translate zh_Hans sola_storyline_53_55818b25:
@@ -1226,7 +1226,7 @@ translate zh_Hans sola_storyline_54_10d05ad0:
 translate zh_Hans sola_storyline_54_4d3b7f3d:
 
     # nvlsola "{a=show:show_chat_media}{image=sola_pic_81}"
-    nvlsola ""
+    nvlsola "{a=show:show_chat_media}{image=sola_pic_81}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:648
 translate zh_Hans sola_storyline_54_b5bffa30:
@@ -1256,7 +1256,7 @@ translate zh_Hans sola_storyline_54_ec84f179:
 translate zh_Hans sola_storyline_54_ea4b5372:
 
     # nvlsola "{a=show:show_chat_media}{image=sola_pic_82}"
-    nvlsola ""
+    nvlsola "{a=show:show_chat_media}{image=sola_pic_82}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:662
 translate zh_Hans sola_storyline_54_536698c9:
@@ -1628,7 +1628,7 @@ translate zh_Hans sola_storyline_54_cbc12c0d:
 translate zh_Hans sola_storyline_54_40bb0a7f:
 
     # nvljohn "{a=show:show_chat_media}{image=dick_pic_12}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=dick_pic_12}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:790
 translate zh_Hans sola_storyline_54_f7c8ff54:
@@ -2424,7 +2424,7 @@ translate zh_Hans sola_storyline_56_ebf2b222:
 translate zh_Hans sola_storyline_56_b5f843fd:
 
     # nvljohn "{a=show:show_chat_media}{image=sola_pic_83}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sola_pic_83}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:1122
 translate zh_Hans sola_storyline_56_6bc4b88f:
@@ -2580,7 +2580,7 @@ translate zh_Hans sola_storyline_56_dc645139:
 translate zh_Hans sola_storyline_56_f20a42a0:
 
     # nvljohn "{a=show:show_chat_media}{image=sola_video_3_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sola_video_3_ns}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:1176
 translate zh_Hans sola_storyline_56_f2d9f2f4:
@@ -3220,7 +3220,7 @@ translate zh_Hans sola_storyline_58_95f3bf23:
 translate zh_Hans sola_storyline_58_c152733d:
 
     # nvlsola "{a=show:show_chat_media}{image=sola_pic_84}"
-    nvlsola ""
+    nvlsola "{a=show:show_chat_media}{image=sola_pic_84}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:1456
 translate zh_Hans sola_storyline_58_611b4796:
@@ -3414,7 +3414,7 @@ translate zh_Hans sola_storyline_59_0bd82c13:
 translate zh_Hans sola_storyline_59_40079c08:
 
     # nvlsola "{a=show:show_chat_media}{image=sola_pic_85}"
-    nvlsola ""
+    nvlsola "{a=show:show_chat_media}{image=sola_pic_85}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:1557
 translate zh_Hans sola_storyline_59_95aad4e4:
@@ -3432,7 +3432,7 @@ translate zh_Hans sola_storyline_59_ea068820:
 translate zh_Hans sola_storyline_59_24d15dc5:
 
     # nvlsola "{a=show:show_chat_media}{image=sola_pic_86}"
-    nvlsola ""
+    nvlsola "{a=show:show_chat_media}{image=sola_pic_86}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:1567
 translate zh_Hans sola_storyline_59_4a73facf:
@@ -3450,13 +3450,13 @@ translate zh_Hans sola_storyline_59_d6d0d1ca:
 translate zh_Hans sola_storyline_59_c38cd833:
 
     # nvlsola "{a=show:show_chat_media}{image=sola_pic_87}"
-    nvlsola ""
+    nvlsola "{a=show:show_chat_media}{image=sola_pic_87}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:1579
 translate zh_Hans sola_storyline_59_8b9d47b6:
 
     # nvlsola "{a=show:show_chat_media}{image=sola_pic_88}"
-    nvlsola ""
+    nvlsola "{a=show:show_chat_media}{image=sola_pic_88}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:1583
 translate zh_Hans sola_storyline_59_924ad1a7:
@@ -3474,13 +3474,13 @@ translate zh_Hans sola_storyline_59_4c26732b_2:
 translate zh_Hans sola_storyline_59_46c537bb:
 
     # nvlsola "{a=show:show_chat_media}{image=sola_pic_89}"
-    nvlsola ""
+    nvlsola "{a=show:show_chat_media}{image=sola_pic_89}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:1595
 translate zh_Hans sola_storyline_59_00bb008b:
 
     # nvlsola "{a=show:show_chat_media}{image=sola_pic_90}"
-    nvlsola ""
+    nvlsola "{a=show:show_chat_media}{image=sola_pic_90}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:1599
 translate zh_Hans sola_storyline_59_af2de7a4:
@@ -3756,7 +3756,7 @@ translate zh_Hans sola_storyline_59_8ea16963:
 translate zh_Hans sola_storyline_59_0908dd8f:
 
     # nvljohn "{a=show:show_chat_media}{image=sola_pic_91}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sola_pic_91}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:1695
 translate zh_Hans sola_storyline_59_a57f1483:
@@ -3780,7 +3780,7 @@ translate zh_Hans sola_storyline_59_eb7e4f5a:
 translate zh_Hans sola_storyline_59_fd3e9070:
 
     # nvljohn "{a=show:show_chat_media}{image=sola_pic_92}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sola_pic_92}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:1711
 translate zh_Hans sola_storyline_59_97457525:
@@ -3894,7 +3894,7 @@ translate zh_Hans sola_storyline_60_76b2fe88:
 translate zh_Hans sola_storyline_60_454944db:
 
     # nvlsola "{a=show:show_chat_media}{image=sola_video_6_ns}"
-    nvlsola ""
+    nvlsola "{a=show:show_chat_media}{image=sola_video_6_ns}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:1786
 translate zh_Hans sola_storyline_60_8ed32852:
@@ -4228,7 +4228,7 @@ translate zh_Hans sola_storyline_62_59dda461:
 translate zh_Hans sola_storyline_62_519007f4:
 
     # nvlsola "{a=show:show_chat_media}{image=sola_video_7_ns}"
-    nvlsola ""
+    nvlsola "{a=show:show_chat_media}{image=sola_video_7_ns}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:1968
 translate zh_Hans sola_storyline_62_7ec3e2e3:
@@ -5134,7 +5134,7 @@ translate zh_Hans sola_storyline_65_31d3f872:
 translate zh_Hans sola_storyline_65_40aed2aa:
 
     # nvlsola "{a=show:show_chat_media}{image=sola_pic_93}"
-    nvlsola ""
+    nvlsola "{a=show:show_chat_media}{image=sola_pic_93}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:2383
 translate zh_Hans sola_storyline_65_e140103a:
@@ -5158,7 +5158,7 @@ translate zh_Hans sola_storyline_65_d8d58365:
 translate zh_Hans sola_storyline_65_ca4b0a0d:
 
     # nvlsola "{a=show:show_chat_media}{image=sola_pic_94}"
-    nvlsola ""
+    nvlsola "{a=show:show_chat_media}{image=sola_pic_94}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:2395
 translate zh_Hans sola_storyline_65_cbbccead:
@@ -5182,7 +5182,7 @@ translate zh_Hans sola_storyline_65_571e851c:
 translate zh_Hans sola_storyline_65_661be209:
 
     # nvlsola "{a=show:show_chat_media}{image=sola_pic_95}"
-    nvlsola ""
+    nvlsola "{a=show:show_chat_media}{image=sola_pic_95}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:2407
 translate zh_Hans sola_storyline_65_e3743bd9:
@@ -5230,7 +5230,7 @@ translate zh_Hans sola_storyline_66_76b2fe88:
 translate zh_Hans sola_storyline_66_21e50495:
 
     # nvlsola "{a=show:show_chat_media}{image=sola_video_8_ns}"
-    nvlsola ""
+    nvlsola "{a=show:show_chat_media}{image=sola_video_8_ns}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:2460
 translate zh_Hans sola_storyline_66_db19bb6e:
@@ -5768,7 +5768,7 @@ translate zh_Hans sola_storyline_68_53b77024:
 translate zh_Hans sola_storyline_68_ee4e1888:
 
     # nvljohn "{a=show:show_chat_media}{image=sola_video_9_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sola_video_9_ns}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:2722
 translate zh_Hans sola_storyline_68_30d1ef0d:
@@ -5798,7 +5798,7 @@ translate zh_Hans sola_storyline_68_90b122fd:
 translate zh_Hans sola_storyline_68_14ee6c57:
 
     # nvljohn "{a=show:show_chat_media}{image=sola_video_10_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sola_video_10_ns}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:2740
 translate zh_Hans sola_storyline_68_ba02c43e:
@@ -6196,13 +6196,13 @@ translate zh_Hans sola_storyline_70_76b2fe88:
 translate zh_Hans sola_storyline_70_565a2cd5:
 
     # nvljohn "{a=show:show_chat_media}{image=sola_pic_96}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sola_pic_96}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:2942
 translate zh_Hans sola_storyline_70_d6928d93:
 
     # nvljohn "{a=show:show_chat_media}{image=sola_pic_97}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sola_pic_97}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:2946
 translate zh_Hans sola_storyline_70_21971050:
@@ -6268,13 +6268,13 @@ translate zh_Hans sola_storyline_70_d78825ca:
 translate zh_Hans sola_storyline_70_2eba1bf2:
 
     # nvljohn "{a=show:show_chat_media}{image=sola_video_11_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sola_video_11_ns}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:2974
 translate zh_Hans sola_storyline_70_1a968f94:
 
     # nvljohn "{a=show:show_chat_media}{image=sola_video_12_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sola_video_12_ns}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:2982
 translate zh_Hans sola_storyline_70_18bef39e:
@@ -6860,7 +6860,7 @@ translate zh_Hans sola_storyline_72_eba7daea:
 translate zh_Hans sola_storyline_72_5c4dbac9:
 
     # nvlsola "{a=show:show_chat_media}{image=sola_video_13_ns}"
-    nvlsola ""
+    nvlsola "{a=show:show_chat_media}{image=sola_video_13_ns}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:3244
 translate zh_Hans sola_storyline_72_4af7e31e:
@@ -6884,7 +6884,7 @@ translate zh_Hans sola_storyline_72_6d492fcb:
 translate zh_Hans sola_storyline_72_3ef877b3:
 
     # nvlsola "{a=show:show_chat_media}{image=sola_video_14_ns}"
-    nvlsola ""
+    nvlsola "{a=show:show_chat_media}{image=sola_video_14_ns}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:3260
 translate zh_Hans sola_storyline_72_9a3b538f:
@@ -7124,7 +7124,7 @@ translate zh_Hans sola_storyline_73_76b2fe88:
 translate zh_Hans sola_storyline_73_37008eb9:
 
     # nvlsola "{a=show:show_chat_media}{image=sola_pic_98}"
-    nvlsola ""
+    nvlsola "{a=show:show_chat_media}{image=sola_pic_98}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:3373
 translate zh_Hans sola_storyline_73_700dc507:
@@ -7148,13 +7148,13 @@ translate zh_Hans sola_storyline_73_6327e0be:
 translate zh_Hans sola_storyline_73_ad5210b1:
 
     # nvlsola "{a=show:show_chat_media}{image=sola_pic_99}"
-    nvlsola ""
+    nvlsola "{a=show:show_chat_media}{image=sola_pic_99}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:3387
 translate zh_Hans sola_storyline_73_1939554a:
 
     # nvlsola "{a=show:show_chat_media}{image=sola_pic_100}"
-    nvlsola ""
+    nvlsola "{a=show:show_chat_media}{image=sola_pic_100}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:3397
 translate zh_Hans sola_storyline_73_d008f0aa:
@@ -7994,13 +7994,13 @@ translate zh_Hans sola_storyline_76_e066625a:
 translate zh_Hans sola_storyline_76_86fc3bc5:
 
     # nvljohn "{a=show:show_chat_media}{image=sola_pic_101}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sola_pic_101}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:3778
 translate zh_Hans sola_storyline_76_7f6e1e3d:
 
     # nvljohn "{a=show:show_chat_media}{image=sola_pic_102}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sola_pic_102}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:3782
 translate zh_Hans sola_storyline_76_56f0f9d4:
@@ -8024,13 +8024,13 @@ translate zh_Hans sola_storyline_76_99d89f94:
 translate zh_Hans sola_storyline_76_f5053efe:
 
     # nvljohn "{a=show:show_chat_media}{image=sola_pic_103}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sola_pic_103}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:3796
 translate zh_Hans sola_storyline_76_870d47f8:
 
     # nvljohn "{a=show:show_chat_media}{image=sola_pic_104}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sola_pic_104}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:3800
 translate zh_Hans sola_storyline_76_516ddf6d:
@@ -8054,19 +8054,19 @@ translate zh_Hans sola_storyline_76_308f5ee6:
 translate zh_Hans sola_storyline_76_da4eb2e2:
 
     # nvljohn "{a=show:show_chat_media}{image=sola_pic_105}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sola_pic_105}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:3814
 translate zh_Hans sola_storyline_76_39449dfd:
 
     # nvljohn "{a=show:show_chat_media}{image=sola_pic_106}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sola_pic_106}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:3820
 translate zh_Hans sola_storyline_76_79f48a69:
 
     # nvljohn "{a=show:show_chat_media}{image=sola_pic_107}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sola_pic_107}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:3824
 translate zh_Hans sola_storyline_76_0c8ea1ba:
@@ -8650,13 +8650,13 @@ translate zh_Hans sola_storyline_77_b38b1da6:
 translate zh_Hans sola_storyline_77_86fc3bc5:
 
     # nvljohn "{a=show:show_chat_media}{image=sola_pic_101}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sola_pic_101}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:4055
 translate zh_Hans sola_storyline_77_7f6e1e3d:
 
     # nvljohn "{a=show:show_chat_media}{image=sola_pic_102}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sola_pic_102}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:4057
 translate zh_Hans sola_storyline_77_886c7bc3:
@@ -8674,13 +8674,13 @@ translate zh_Hans sola_storyline_77_c76bfa2b:
 translate zh_Hans sola_storyline_77_f5053efe:
 
     # nvljohn "{a=show:show_chat_media}{image=sola_pic_103}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sola_pic_103}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:4067
 translate zh_Hans sola_storyline_77_870d47f8:
 
     # nvljohn "{a=show:show_chat_media}{image=sola_pic_104}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sola_pic_104}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:4069
 translate zh_Hans sola_storyline_77_bb763f76:
@@ -8710,19 +8710,19 @@ translate zh_Hans sola_storyline_77_5d29b362:
 translate zh_Hans sola_storyline_77_da4eb2e2:
 
     # nvljohn "{a=show:show_chat_media}{image=sola_pic_105}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sola_pic_105}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:4083
 translate zh_Hans sola_storyline_77_39449dfd:
 
     # nvljohn "{a=show:show_chat_media}{image=sola_pic_106}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sola_pic_106}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:4087
 translate zh_Hans sola_storyline_77_79f48a69:
 
     # nvljohn "{a=show:show_chat_media}{image=sola_pic_107}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sola_pic_107}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:4089
 translate zh_Hans sola_storyline_77_377c5750:
@@ -8818,7 +8818,7 @@ translate zh_Hans sola_storyline_77_90949587:
 translate zh_Hans sola_storyline_77_17b20b14:
 
     # nvlkirely "{a=show:show_chat_media}{image=kirely_pic_56}"
-    nvlkirely ""
+    nvlkirely "{a=show:show_chat_media}{image=kirely_pic_56}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:4125
 translate zh_Hans sola_storyline_77_f9fd0a96:
@@ -9000,7 +9000,7 @@ translate zh_Hans sola_storyline_78_9bf1755f:
 translate zh_Hans sola_storyline_78_d039b3f9:
 
     # nvlsola "{a=show:show_chat_media}{image=kirely_pic_57}"
-    nvlsola ""
+    nvlsola "{a=show:show_chat_media}{image=kirely_pic_57}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:4220
 translate zh_Hans sola_storyline_78_a687bbe7:
@@ -9284,7 +9284,7 @@ translate zh_Hans sola_storyline_79_8ebed401:
 translate zh_Hans sola_storyline_79_8c857dab:
 
     # nvljohn "{a=show:show_chat_media}{image=sola_video_15_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sola_video_15_ns}"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:4351
 translate zh_Hans sola_storyline_79_c2e3a53e:

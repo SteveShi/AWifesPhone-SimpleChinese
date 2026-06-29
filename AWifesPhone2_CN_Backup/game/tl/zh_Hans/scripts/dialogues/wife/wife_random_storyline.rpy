@@ -260,7 +260,7 @@ translate zh_Hans wife_random_storyline_1_56f0f9d4:
 translate zh_Hans wife_random_storyline_1_1bff5d4b:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_144_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=wife_video_144_ns}"
 
 # game/scripts/dialogues/wife/wife_random_storyline.rpy:151
 translate zh_Hans wife_random_storyline_1_34cd4bbb:
@@ -1148,7 +1148,7 @@ translate zh_Hans wife_random_storyline_4_714ed041:
 translate zh_Hans wife_random_storyline_4_33aec741:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_145_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=wife_video_145_ns}"
 
 # game/scripts/dialogues/wife/wife_random_storyline.rpy:547
 translate zh_Hans wife_random_storyline_4_56f0f9d4:

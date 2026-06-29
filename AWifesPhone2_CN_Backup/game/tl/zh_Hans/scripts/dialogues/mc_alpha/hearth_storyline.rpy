@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-29 09:30
+# TODO: Translation updated at 2026-06-29 09:30
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:63
 translate zh_Hans hearth_storyline_29_cb9bce35:
@@ -12236,7 +12236,7 @@ translate zh_Hans hearth_storyline_78_6a1e247e:
 translate zh_Hans hearth_storyline_78_191d0580:
 
     # nvlhearth "{a=show:show_chat_media}{image=hearth_video_34_ns}"
-    nvlhearth ""
+    nvlhearth "{a=show:show_chat_media}{image=hearth_video_34_ns}"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:5840
 translate zh_Hans hearth_storyline_78_3b0d74f4:
@@ -12764,7 +12764,7 @@ translate zh_Hans hearth_storyline_81_3c984e02:
 translate zh_Hans hearth_storyline_81_e95cb652:
 
     # nvlhearth "{a=show:show_chat_media}{image=hearth_video_35_ns}"
-    nvlhearth ""
+    nvlhearth "{a=show:show_chat_media}{image=hearth_video_35_ns}"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:6117
 translate zh_Hans hearth_storyline_81_d7c47208:
@@ -12776,7 +12776,7 @@ translate zh_Hans hearth_storyline_81_d7c47208:
 translate zh_Hans hearth_storyline_81_9f9c320e:
 
     # nvlhearth "{a=show:show_chat_media}{image=hearth_video_36_ns}"
-    nvlhearth ""
+    nvlhearth "{a=show:show_chat_media}{image=hearth_video_36_ns}"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:6125
 translate zh_Hans hearth_storyline_81_889c6bc6:
@@ -13486,7 +13486,7 @@ translate zh_Hans hearth_storyline_85_6ef68fc0:
 translate zh_Hans hearth_storyline_85_2cda30b8:
 
     # nvljenna "{a=show:show_chat_media}{image=hearth_video_37_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=hearth_video_37_ns}"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:6495
 translate zh_Hans hearth_storyline_85_8b149a52:
@@ -15974,13 +15974,13 @@ translate zh_Hans hearth_storyline_99_fed565b5:
 translate zh_Hans hearth_storyline_99_ea48e04a:
 
     # nvlhearth "😳"
-    nvlhearth ""
+    nvlhearth "😳|"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:7790
 translate zh_Hans hearth_storyline_99_1ef87f60:
 
     # nvlhearth "{a=show:show_chat_media}{image=hearth_video_38_ns}"
-    nvlhearth ""
+    nvlhearth "{a=show:show_chat_media}{image=hearth_video_38_ns}"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:7794
 translate zh_Hans hearth_storyline_99_e4f1533e:
@@ -16016,13 +16016,13 @@ translate zh_Hans hearth_storyline_99_da736014:
 translate zh_Hans hearth_storyline_99_1cbdb3fe:
 
     # nvlhearth "{a=show:show_chat_media}{image=hearth_pic_84}"
-    nvlhearth ""
+    nvlhearth "{a=show:show_chat_media}{image=hearth_pic_84}"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:7812
 translate zh_Hans hearth_storyline_99_206e2a2e:
 
     # nvlhearth "{a=show:show_chat_media}{image=hearth_pic_85}"
-    nvlhearth ""
+    nvlhearth "{a=show:show_chat_media}{image=hearth_pic_85}"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:7816
 translate zh_Hans hearth_storyline_99_69310d84:
@@ -16234,7 +16234,7 @@ translate zh_Hans hearth_storyline_100_db029682:
 translate zh_Hans hearth_storyline_100_093698d5:
 
     # nvljenna "😈"
-    nvljenna ""
+    nvljenna "😈|"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:7929
 translate zh_Hans hearth_storyline_100_53c71d7c:
@@ -16404,7 +16404,7 @@ translate zh_Hans hearth_storyline_102_673be979:
 translate zh_Hans hearth_storyline_102_e1fb2d10:
 
     # nvljohn "{a=show:show_chat_media}{image=hearth_video_39_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=hearth_video_39_ns}"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:8039
 translate zh_Hans hearth_storyline_102_5d2947e1:
@@ -16738,7 +16738,7 @@ translate zh_Hans hearth_storyline_104_c31a217c:
 translate zh_Hans hearth_storyline_104_fe763cdd:
 
     # nvljohn "{a=show:show_chat_media}{image=hearth_video_40_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=hearth_video_40_ns}"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:8217
 translate zh_Hans hearth_storyline_104_bb14dfca:
@@ -16794,7 +16794,7 @@ translate zh_Hans hearth_storyline_105_e6e9ca44:
 translate zh_Hans hearth_storyline_105_72f7b173:
 
     # nvlhearth "{a=show:show_chat_media}{image=hearth_video_41_ns}"
-    nvlhearth ""
+    nvlhearth "{a=show:show_chat_media}{image=hearth_video_41_ns}"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:8272
 translate zh_Hans hearth_storyline_105_c7e4dc6b:
@@ -17086,7 +17086,7 @@ translate zh_Hans hearth_storyline_107_5cb2fe0e:
 translate zh_Hans hearth_storyline_107_5992709e:
 
     # nvlgeorge "😳"
-    nvlgeorge ""
+    nvlgeorge "😳|"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:8434
 translate zh_Hans hearth_storyline_107_85fdc06e:
@@ -17990,7 +17990,7 @@ translate zh_Hans hearth_storyline_112_c0255c9e:
 translate zh_Hans hearth_storyline_112_8c083e7d:
 
     # nvljohn "{a=show:show_chat_media}{image=hearth_video_42_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=hearth_video_42_ns}"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:8913
 translate zh_Hans hearth_storyline_112_808081ea:
@@ -18002,7 +18002,7 @@ translate zh_Hans hearth_storyline_112_808081ea:
 translate zh_Hans hearth_storyline_112_060e86d9:
 
     # nvljohn "{a=show:show_chat_media}{image=hearth_video_43_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=hearth_video_43_ns}"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:8921
 translate zh_Hans hearth_storyline_112_51bed454:
@@ -18428,7 +18428,7 @@ translate zh_Hans hearth_storyline_115_bccb640f:
 translate zh_Hans hearth_storyline_115_ea48e04a:
 
     # nvlhearth "😳"
-    nvlhearth ""
+    nvlhearth "😳|"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:9194
 translate zh_Hans hearth_storyline_115_ccfdb522:
@@ -18464,7 +18464,7 @@ translate zh_Hans hearth_storyline_115_8b8429c4:
 translate zh_Hans hearth_storyline_115_af5ea248:
 
     # nvlhearth "{a=show:show_chat_media}{image=hearth_pic_86}"
-    nvlhearth ""
+    nvlhearth "{a=show:show_chat_media}{image=hearth_pic_86}"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:9210
 translate zh_Hans hearth_storyline_115_2ce86153:
@@ -18688,7 +18688,7 @@ translate zh_Hans hearth_storyline_116_2a5e886b:
 translate zh_Hans hearth_storyline_116_5ee884b1:
 
     # nvlhearth "{a=show:show_chat_media}{image=hearth_pic_87}"
-    nvlhearth ""
+    nvlhearth "{a=show:show_chat_media}{image=hearth_pic_87}"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:9321
 translate zh_Hans hearth_storyline_116_3a25850e:
@@ -19022,7 +19022,7 @@ translate zh_Hans hearth_storyline_118_59f19214:
 translate zh_Hans hearth_storyline_118_da7f1290:
 
     # nvljohn "{a=show:show_chat_media}{image=hearth_video_44_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=hearth_video_44_ns}"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:9501
 translate zh_Hans hearth_storyline_118_1ab0c0dd:
@@ -22132,7 +22132,7 @@ translate zh_Hans hearth_storyline_304_bceccf4c:
 translate zh_Hans hearth_storyline_304_a91de2a5:
 
     # nvlhearth "{a=show:show_chat_media}{image=hearth_pic_88}"
-    nvlhearth ""
+    nvlhearth "{a=show:show_chat_media}{image=hearth_pic_88}"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:11093
 translate zh_Hans hearth_storyline_304_5e1dfd8e:
@@ -22212,13 +22212,13 @@ translate zh_Hans hearth_storyline_305_bd6abc26:
 translate zh_Hans hearth_storyline_305_7090b184:
 
     # nvlhearth "{a=show:show_chat_media}{image=hearth_video_48_ns}"
-    nvlhearth ""
+    nvlhearth "{a=show:show_chat_media}{image=hearth_video_48_ns}"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:11158
 translate zh_Hans hearth_storyline_305_ca5ae077:
 
     # nvlhearth "{a=show:show_chat_media}{image=hearth_video_49_ns}"
-    nvlhearth ""
+    nvlhearth "{a=show:show_chat_media}{image=hearth_video_49_ns}"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:11162
 translate zh_Hans hearth_storyline_305_7811712c:
@@ -23718,7 +23718,7 @@ translate zh_Hans hearth_storyline_314_8b53d99f:
 translate zh_Hans hearth_storyline_314_c03d22db:
 
     # nvljohn "{a=show:show_chat_media}{image=hearth_video_54_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=hearth_video_54_ns}"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:11973
 translate zh_Hans hearth_storyline_314_cd538bea:
@@ -23954,7 +23954,7 @@ translate zh_Hans hearth_storyline_315_5a55ca68:
 translate zh_Hans hearth_storyline_315_68bfba0e:
 
     # nvljohn "{a=show:show_chat_media}{image=hearth_video_55_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=hearth_video_55_ns}"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:12088
 translate zh_Hans hearth_storyline_315_e2e67925:

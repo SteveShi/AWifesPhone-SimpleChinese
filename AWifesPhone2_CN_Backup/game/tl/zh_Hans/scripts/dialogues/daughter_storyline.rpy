@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-29 09:30
+# TODO: Translation updated at 2026-06-29 09:30
 
 # game/scripts/dialogues/daughter_storyline.rpy:128
 translate zh_Hans daughter_storyline_85_27f47f30:
@@ -3360,7 +3360,7 @@ translate zh_Hans daughter_storyline_94_ad992fe2:
 translate zh_Hans daughter_storyline_94_7d8a2a9a:
 
     # nvljenna "{a=show:show_chat_media}{image=h_elsa_pic_34}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_elsa_pic_34}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1630
 translate zh_Hans daughter_storyline_94_b258b10b:
@@ -3432,7 +3432,7 @@ translate zh_Hans daughter_storyline_94_554e31a4:
 translate zh_Hans daughter_storyline_94_8970bca1:
 
     # nvljenna "{a=show:show_chat_media}{image=dick_pic_18}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=dick_pic_18}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1658
 translate zh_Hans daughter_storyline_94_307374f5:
@@ -4346,7 +4346,7 @@ translate zh_Hans daughter_storyline_98_79c5c02f:
 translate zh_Hans daughter_storyline_98_46552e6e:
 
     # nvljenna "{a=show:show_chat_media}{image=h_elsa_pic_35}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_elsa_pic_35}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:2122
 translate zh_Hans daughter_storyline_98_0ebdc02c:
@@ -5034,7 +5034,7 @@ translate zh_Hans daughter_storyline_100_b7ce4581:
 translate zh_Hans daughter_storyline_100_c363e350:
 
     # nvld "{a=show:show_chat_media}{image=d_pic_53}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_pic_53}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:2432
 translate zh_Hans daughter_storyline_100_bd717215:
@@ -5606,7 +5606,7 @@ translate zh_Hans daughter_storyline_101_80ebc362:
 translate zh_Hans daughter_storyline_101_b382cc07:
 
     # nvljenna "{a=show:show_chat_media}{image=d_video_9_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=d_video_9_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:2659
 translate zh_Hans daughter_storyline_101_6a6dbeee:
@@ -5728,7 +5728,7 @@ translate zh_Hans daughter_storyline_102_f964e761:
 translate zh_Hans daughter_storyline_102_b92cbdda:
 
     # nvlscott "{a=show:show_chat_media}{image=d_pic_54}"
-    nvlscott ""
+    nvlscott "{a=show:show_chat_media}{image=d_pic_54}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:2734
 translate zh_Hans daughter_storyline_102_5101f514:
@@ -6052,7 +6052,7 @@ translate zh_Hans daughter_storyline_102_c036fc10:
 translate zh_Hans daughter_storyline_102_d7269bb2:
 
     # nvlscott "{a=show:show_chat_media}{image=d_pic_55}"
-    nvlscott ""
+    nvlscott "{a=show:show_chat_media}{image=d_pic_55}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:2846
 translate zh_Hans daughter_storyline_102_fa327b48:
@@ -6216,7 +6216,7 @@ translate zh_Hans daughter_storyline_103_9fd7fc65:
 translate zh_Hans daughter_storyline_103_d11be1a0:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_elsa_pic_36}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=h_elsa_pic_36}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:2949
 translate zh_Hans daughter_storyline_103_9ad89310:
@@ -6252,7 +6252,7 @@ translate zh_Hans daughter_storyline_103_e7981acb:
 translate zh_Hans daughter_storyline_103_520ae841:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_elsa_pic_37}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=h_elsa_pic_37}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:2965
 translate zh_Hans daughter_storyline_103_a302e669:
@@ -6952,7 +6952,7 @@ translate zh_Hans daughter_storyline_105_86915507:
 translate zh_Hans daughter_storyline_105_d6596d13:
 
     # nvld "{a=show:show_chat_media}{image=d_video_10_ns}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_video_10_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:3280
 translate zh_Hans daughter_storyline_105_d61d1da8:
@@ -8430,13 +8430,13 @@ translate zh_Hans daughter_storyline_109_498924d8:
 translate zh_Hans daughter_storyline_109_7797f891:
 
     # nvlscott "{a=show:show_chat_media}{image=d_video_11_ns}"
-    nvlscott ""
+    nvlscott "{a=show:show_chat_media}{image=d_video_11_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:3928
 translate zh_Hans daughter_storyline_109_79ffffa3:
 
     # nvlscott "{a=show:show_chat_media}{image=d_video_12_ns}"
-    nvlscott ""
+    nvlscott "{a=show:show_chat_media}{image=d_video_12_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:3932
 translate zh_Hans daughter_storyline_109_aede23e5:
@@ -8778,7 +8778,7 @@ translate zh_Hans daughter_storyline_109_60d6c263:
 translate zh_Hans daughter_storyline_109_356723ec:
 
     # nvlscott "{a=show:show_chat_media}{image=bbc_pic_264}"
-    nvlscott ""
+    nvlscott "{a=show:show_chat_media}{image=bbc_pic_264}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:4050
 translate zh_Hans daughter_storyline_109_53fd46ea:
@@ -9242,7 +9242,7 @@ translate zh_Hans daughter_storyline_110_e7f77538:
 translate zh_Hans daughter_storyline_110_e0affe45:
 
     # nvljenna "{a=show:show_chat_media}{image=h_elsa_pic_38}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_elsa_pic_38}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:4239
 translate zh_Hans daughter_storyline_110_60bb5741_2:
@@ -9290,7 +9290,7 @@ translate zh_Hans daughter_storyline_111_76b2fe88:
 translate zh_Hans daughter_storyline_111_4a7dd166:
 
     # nvljenna "{a=show:show_chat_media}{image=h_elsa_pic_39}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_elsa_pic_39}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:4288
 translate zh_Hans daughter_storyline_111_7336c44c:
@@ -9616,7 +9616,7 @@ translate zh_Hans daughter_storyline_112_3b892685:
 translate zh_Hans daughter_storyline_112_42e85dd5:
 
     # nvld "{a=show:show_chat_media}{image=d_pic_56}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_pic_56}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:4433
 translate zh_Hans daughter_storyline_112_ea35bde4:
@@ -9694,7 +9694,7 @@ translate zh_Hans daughter_storyline_112_2c2d8588:
 translate zh_Hans daughter_storyline_112_8cd25ef0:
 
     # nvld "{a=show:show_chat_media}{image=d_pic_57}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_pic_57}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:4463
 translate zh_Hans daughter_storyline_112_06848252:
@@ -10008,7 +10008,7 @@ translate zh_Hans daughter_storyline_113_37a88ede:
 translate zh_Hans daughter_storyline_113_6db1cc5e:
 
     # nvljenna "{a=show:show_chat_media}{image=d_pic_58}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=d_pic_58}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:4604
 translate zh_Hans daughter_storyline_113_84bf6f32:
@@ -10032,7 +10032,7 @@ translate zh_Hans daughter_storyline_113_747488b6:
 translate zh_Hans daughter_storyline_113_48605227:
 
     # nvljenna "{a=show:show_chat_media}{image=d_pic_59}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=d_pic_59}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:4616
 translate zh_Hans daughter_storyline_113_e3da426a:
@@ -10322,7 +10322,7 @@ translate zh_Hans daughter_storyline_114_057d5049:
 translate zh_Hans daughter_storyline_114_f950ed9b:
 
     # nvlscott "{a=show:show_chat_media}{image=d_pic_60}"
-    nvlscott ""
+    nvlscott "{a=show:show_chat_media}{image=d_pic_60}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:4747
 translate zh_Hans daughter_storyline_114_092dda02:
@@ -10636,7 +10636,7 @@ translate zh_Hans daughter_storyline_115_23290042:
 translate zh_Hans daughter_storyline_115_bb74dd45:
 
     # nvljenna "{a=show:show_chat_media}{image=d_pic_61}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=d_pic_61}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:4899
 translate zh_Hans daughter_storyline_115_a4943c59:
@@ -10852,7 +10852,7 @@ translate zh_Hans daughter_storyline_115_d686e517:
 translate zh_Hans daughter_storyline_115_02b97c09:
 
     # nvljenna "{a=show:show_chat_media}{image=d_video_13_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=d_video_13_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:4975
 translate zh_Hans daughter_storyline_115_0108bc88:
@@ -11992,7 +11992,7 @@ translate zh_Hans daughter_storyline_118_2389d757:
 translate zh_Hans daughter_storyline_118_47ba5718:
 
     # nvljenna "{a=show:show_chat_media}{image=d_pic_62}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=d_pic_62}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:5476
 translate zh_Hans daughter_storyline_118_0ebdc02c:
@@ -12076,7 +12076,7 @@ translate zh_Hans daughter_storyline_118_59b80f5c:
 translate zh_Hans daughter_storyline_118_9ddf3633:
 
     # nvljenna "{a=show:show_chat_media}{image=d_pic_63}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=d_pic_63}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:5508
 translate zh_Hans daughter_storyline_118_24f72432_1:
@@ -12190,7 +12190,7 @@ translate zh_Hans daughter_storyline_118_c8755d06:
 translate zh_Hans daughter_storyline_118_e483dba6:
 
     # nvljenna "{a=show:show_chat_media}{image=d_video_14_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=d_video_14_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:5550
 translate zh_Hans daughter_storyline_118_3ba94e2f:
@@ -12208,7 +12208,7 @@ translate zh_Hans daughter_storyline_118_81a0d3d4:
 translate zh_Hans daughter_storyline_118_f1646846:
 
     # nvljenna "{a=show:show_chat_media}{image=d_video_15_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=d_video_15_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:5560
 translate zh_Hans daughter_storyline_118_659b28f6:
@@ -12390,7 +12390,7 @@ translate zh_Hans daughter_storyline_119_64071955:
 translate zh_Hans daughter_storyline_119_15371252:
 
     # nvlscott "{a=show:show_chat_media}{image=d_video_16_ns}"
-    nvlscott ""
+    nvlscott "{a=show:show_chat_media}{image=d_video_16_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:5668
 translate zh_Hans daughter_storyline_119_18ecc1c6:
@@ -12522,7 +12522,7 @@ translate zh_Hans daughter_storyline_119_4ef3f093:
 translate zh_Hans daughter_storyline_119_f9ca1ef2:
 
     # nvlscott "{a=show:show_chat_media}{image=d_pic_64}"
-    nvlscott ""
+    nvlscott "{a=show:show_chat_media}{image=d_pic_64}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:5716
 translate zh_Hans daughter_storyline_119_4cdc7732:
@@ -12762,7 +12762,7 @@ translate zh_Hans daughter_storyline_120_76b2fe88:
 translate zh_Hans daughter_storyline_120_1f45732f:
 
     # nvljenna "{a=show:show_chat_media}{image=h_elsa_pic_40}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_elsa_pic_40}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:5829
 translate zh_Hans daughter_storyline_120_9da45b07:
@@ -12834,7 +12834,7 @@ translate zh_Hans daughter_storyline_120_d8181d24:
 translate zh_Hans daughter_storyline_120_13dd9ed3:
 
     # nvljenna "{a=show:show_chat_media}{image=h_elsa_pic_41}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_elsa_pic_41}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:5857
 translate zh_Hans daughter_storyline_120_24f72432:
@@ -12852,7 +12852,7 @@ translate zh_Hans daughter_storyline_120_523a0c57:
 translate zh_Hans daughter_storyline_120_1100981f:
 
     # nvljenna "{a=show:show_chat_media}{image=h_elsa_pic_42}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_elsa_pic_42}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:5867
 translate zh_Hans daughter_storyline_120_1967f207:
@@ -12996,7 +12996,7 @@ translate zh_Hans daughter_storyline_120_68356ef2:
 translate zh_Hans daughter_storyline_120_2153d570:
 
     # nvljenna "{a=show:show_chat_media}{image=h_elsa_pic_43}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_elsa_pic_43}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:5919
 translate zh_Hans daughter_storyline_120_24f72432_1:
@@ -14352,7 +14352,7 @@ translate zh_Hans daughter_storyline_123_a1fdd090:
 translate zh_Hans daughter_storyline_123_b14ca381:
 
     # nvljenna "{a=show:show_chat_media}{image=d_pic_65}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=d_pic_65}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:6490
 translate zh_Hans daughter_storyline_123_aaf45dd5:
@@ -14418,7 +14418,7 @@ translate zh_Hans daughter_storyline_123_3e45145d:
 translate zh_Hans daughter_storyline_123_31f4058a:
 
     # nvljenna "{a=show:show_chat_media}{image=d_pic_66}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=d_pic_66}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:6516
 translate zh_Hans daughter_storyline_123_3b39a2bf:
@@ -14556,7 +14556,7 @@ translate zh_Hans daughter_storyline_123_3100088a:
 translate zh_Hans daughter_storyline_123_d16ba98e:
 
     # nvljenna "{a=show:show_chat_media}{image=d_pic_67}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=d_pic_67}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:6566
 translate zh_Hans daughter_storyline_123_cdc6afa1:
@@ -14642,7 +14642,7 @@ translate zh_Hans daughter_storyline_124_f6aea86a:
 translate zh_Hans daughter_storyline_124_0c326cc4:
 
     # nvlscott "{a=show:show_chat_media}{image=h_elsa_pic_45}"
-    nvlscott ""
+    nvlscott "{a=show:show_chat_media}{image=h_elsa_pic_45}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:6629
 translate zh_Hans daughter_storyline_124_3b23e955:
@@ -14690,7 +14690,7 @@ translate zh_Hans daughter_storyline_124_33ea7180:
 translate zh_Hans daughter_storyline_124_c26dadf6:
 
     # nvlscott "{a=show:show_chat_media}{image=h_elsa_pic_44}"
-    nvlscott ""
+    nvlscott "{a=show:show_chat_media}{image=h_elsa_pic_44}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:6649
 translate zh_Hans daughter_storyline_124_c2c35f9b:
@@ -14798,7 +14798,7 @@ translate zh_Hans daughter_storyline_124_def8ea30:
 translate zh_Hans daughter_storyline_124_c3587987:
 
     # nvlscott "{a=show:show_chat_media}{image=h_elsa_pic_46}"
-    nvlscott ""
+    nvlscott "{a=show:show_chat_media}{image=h_elsa_pic_46}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:6689
 translate zh_Hans daughter_storyline_124_c17922d1:
@@ -22232,7 +22232,7 @@ translate zh_Hans daughter_storyline_145_5a543029:
 translate zh_Hans daughter_storyline_145_86955a81:
 
     # nvld "{a=show:show_chat_media}{image=d_pic_74}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_pic_74}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:9930
 translate zh_Hans daughter_storyline_145_3cf3efd6:
@@ -22274,7 +22274,7 @@ translate zh_Hans daughter_storyline_145_708508f8:
 translate zh_Hans daughter_storyline_145_6b5a15ba:
 
     # nvld "{a=show:show_chat_media}{image=d_pic_75}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_pic_75}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:9948
 translate zh_Hans daughter_storyline_145_763321d1:
@@ -22328,7 +22328,7 @@ translate zh_Hans daughter_storyline_145_d267d238:
 translate zh_Hans daughter_storyline_145_c21ed930:
 
     # nvld "{a=show:show_chat_media}{image=d_pic_76}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_pic_76}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:9970
 translate zh_Hans daughter_storyline_145_10b53248:
@@ -22406,7 +22406,7 @@ translate zh_Hans daughter_storyline_145_82ffe521:
 translate zh_Hans daughter_storyline_145_3fa27183:
 
     # nvld "{a=show:show_chat_media}{image=d_pic_77}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_pic_77}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:10000
 translate zh_Hans daughter_storyline_145_06848252:
@@ -22520,7 +22520,7 @@ translate zh_Hans daughter_storyline_146_76b2fe88:
 translate zh_Hans daughter_storyline_146_c5c48061:
 
     # nvlhelsa "{a=show:show_chat_media}{image=h_elsa_pic_53}"
-    nvlhelsa ""
+    nvlhelsa "{a=show:show_chat_media}{image=h_elsa_pic_53}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:10071
 translate zh_Hans daughter_storyline_146_c9aa0347:
@@ -22886,7 +22886,7 @@ translate zh_Hans daughter_storyline_147_76b2fe88:
 translate zh_Hans daughter_storyline_147_9abcd6a0:
 
     # nvld "{a=show:show_chat_media}{image=d_pic_78}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_pic_78}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:10226
 translate zh_Hans daughter_storyline_147_d48523bb:
@@ -22964,7 +22964,7 @@ translate zh_Hans daughter_storyline_147_2944f2e8:
 translate zh_Hans daughter_storyline_147_076d4325:
 
     # nvld "{a=show:show_chat_media}{image=d_pic_79}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_pic_79}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:10256
 translate zh_Hans daughter_storyline_147_7f36deae:
@@ -24004,7 +24004,7 @@ translate zh_Hans daughter_storyline_151_4c31d69c:
 translate zh_Hans daughter_storyline_151_25199474:
 
     # nvljohn "{a=show:show_chat_media}{image=d_pic_80}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=d_pic_80}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:10732
 translate zh_Hans daughter_storyline_151_20bf6e45:
@@ -24028,7 +24028,7 @@ translate zh_Hans daughter_storyline_151_dc9c76a4:
 translate zh_Hans daughter_storyline_151_44d8fdb7:
 
     # nvljohn "{a=show:show_chat_media}{image=d_pic_81}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=d_pic_81}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:10744
 translate zh_Hans daughter_storyline_151_3260dcfc:
@@ -24046,7 +24046,7 @@ translate zh_Hans daughter_storyline_151_50ba0672:
 translate zh_Hans daughter_storyline_151_63ff04d3:
 
     # nvljohn "{a=show:show_chat_media}{image=d_pic_82}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=d_pic_82}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:10754
 translate zh_Hans daughter_storyline_151_5011be42:
@@ -24106,7 +24106,7 @@ translate zh_Hans daughter_storyline_151_3071d1d9:
 translate zh_Hans daughter_storyline_151_bb5ef3a0:
 
     # nvljohn "{a=show:show_chat_media}{image=d_pic_83}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=d_pic_83}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:10778
 translate zh_Hans daughter_storyline_151_0f7cfd12:
@@ -24408,7 +24408,7 @@ translate zh_Hans daughter_storyline_152_2450fb07:
 translate zh_Hans daughter_storyline_152_f787bb86:
 
     # nvlhelsa "{a=show:show_chat_media}{image=h_elsa_pic_54}"
-    nvlhelsa ""
+    nvlhelsa "{a=show:show_chat_media}{image=h_elsa_pic_54}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:10913
 translate zh_Hans daughter_storyline_152_7391aee2:
@@ -24474,7 +24474,7 @@ translate zh_Hans daughter_storyline_152_69ae7284:
 translate zh_Hans daughter_storyline_152_c4a2e216:
 
     # nvlhelsa "{a=show:show_chat_media}{image=h_elsa_pic_55}"
-    nvlhelsa ""
+    nvlhelsa "{a=show:show_chat_media}{image=h_elsa_pic_55}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:10939
 translate zh_Hans daughter_storyline_152_e011ea5a:
@@ -24932,7 +24932,7 @@ translate zh_Hans daughter_storyline_153_d63850bd:
 translate zh_Hans daughter_storyline_153_2be6b5c6:
 
     # nvld "{a=show:show_chat_media}{image=d_pic_84}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_pic_84}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:11126
 translate zh_Hans daughter_storyline_153_b66135a3:
@@ -25638,7 +25638,7 @@ translate zh_Hans daughter_storyline_155_1d70377c:
 translate zh_Hans daughter_storyline_155_8ea41c10:
 
     # nvljenna "{a=show:show_chat_media}{image=d_pic_85}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=d_pic_85}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:11426
 translate zh_Hans daughter_storyline_155_02a2ec69:
@@ -25656,7 +25656,7 @@ translate zh_Hans daughter_storyline_155_e140103a:
 translate zh_Hans daughter_storyline_155_4d4b7e37:
 
     # nvljenna "{a=show:show_chat_media}{image=d_pic_86}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=d_pic_86}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:11436
 translate zh_Hans daughter_storyline_155_9defd5d7:
@@ -26054,7 +26054,7 @@ translate zh_Hans daughter_storyline_156_5bf1d1c5:
 translate zh_Hans daughter_storyline_156_33140a9f:
 
     # nvld "{a=show:show_chat_media}{image=d_pic_87}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_pic_87}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:11603
 translate zh_Hans daughter_storyline_156_b0c15168:
@@ -26108,7 +26108,7 @@ translate zh_Hans daughter_storyline_156_ee0e5574:
 translate zh_Hans daughter_storyline_156_fbde9510:
 
     # nvld "{a=show:show_chat_media}{image=d_pic_88}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_pic_88}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:11625
 translate zh_Hans daughter_storyline_156_e140103a:
@@ -26736,7 +26736,7 @@ translate zh_Hans daughter_storyline_158_d77f25a7:
 translate zh_Hans daughter_storyline_158_943a8772:
 
     # nvlscott "{a=show:show_chat_media}{image=h_elsa_pic_56}"
-    nvlscott ""
+    nvlscott "{a=show:show_chat_media}{image=h_elsa_pic_56}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:11899
 translate zh_Hans daughter_storyline_158_3b23e955:
@@ -26754,7 +26754,7 @@ translate zh_Hans daughter_storyline_158_89249ab9:
 translate zh_Hans daughter_storyline_158_312bcb62:
 
     # nvlscott "{a=show:show_chat_media}{image=h_elsa_pic_57}"
-    nvlscott ""
+    nvlscott "{a=show:show_chat_media}{image=h_elsa_pic_57}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:11909
 translate zh_Hans daughter_storyline_158_4eb0e11b:
@@ -26820,7 +26820,7 @@ translate zh_Hans daughter_storyline_158_de74c5eb:
 translate zh_Hans daughter_storyline_158_ce26e426:
 
     # nvlscott "{a=show:show_chat_media}{image=h_elsa_pic_58}"
-    nvlscott ""
+    nvlscott "{a=show:show_chat_media}{image=h_elsa_pic_58}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:11935
 translate zh_Hans daughter_storyline_158_0cb5aebf:
@@ -27906,7 +27906,7 @@ translate zh_Hans daughter_storyline_162_76b2fe88:
 translate zh_Hans daughter_storyline_162_4f13ee75:
 
     # nvld "{a=show:show_chat_media}{image=d_video_17_ns}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_video_17_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:12425
 translate zh_Hans daughter_storyline_162_8ce85f58:
@@ -27948,7 +27948,7 @@ translate zh_Hans daughter_storyline_162_5926b3f9:
 translate zh_Hans daughter_storyline_162_6c5e9125:
 
     # nvld "{a=show:show_chat_media}{image=d_video_18_ns}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_video_18_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:12443
 translate zh_Hans daughter_storyline_162_06848252:
@@ -28278,7 +28278,7 @@ translate zh_Hans daughter_storyline_162_54f21278:
 translate zh_Hans daughter_storyline_162_4ea83176:
 
     # nvld "{a=show:show_chat_media}{image=d_pic_89}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_pic_89}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:12557
 translate zh_Hans daughter_storyline_162_50ce41d0:
@@ -30250,7 +30250,7 @@ translate zh_Hans daughter_storyline_167_338df687:
 translate zh_Hans daughter_storyline_167_467fa8dc:
 
     # nvld "{a=show:show_chat_media}{image=d_video_19_ns}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_video_19_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:13387
 translate zh_Hans daughter_storyline_167_3cf3efd6:
@@ -30388,7 +30388,7 @@ translate zh_Hans daughter_storyline_167_b5592d42:
 translate zh_Hans daughter_storyline_167_2893653a:
 
     # nvld "{a=show:show_chat_media}{image=d_pic_90}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_pic_90}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:13437
 translate zh_Hans daughter_storyline_167_9f89a45b:
@@ -31420,7 +31420,7 @@ translate zh_Hans daughter_storyline_170_c5dda327:
 translate zh_Hans daughter_storyline_170_5a2cdb99:
 
     # nvlscott "{a=show:show_chat_media}{image=h_elsa_video_6_ns}"
-    nvlscott ""
+    nvlscott "{a=show:show_chat_media}{image=h_elsa_video_6_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:13876
 translate zh_Hans daughter_storyline_170_53fd46ea:
@@ -31438,7 +31438,7 @@ translate zh_Hans daughter_storyline_170_bd3e9af7:
 translate zh_Hans daughter_storyline_170_ee1e5220:
 
     # nvlscott "{a=show:show_chat_media}{image=h_elsa_video_7_ns}"
-    nvlscott ""
+    nvlscott "{a=show:show_chat_media}{image=h_elsa_video_7_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:13886
 translate zh_Hans daughter_storyline_170_7ec3e2e3:
@@ -31794,7 +31794,7 @@ translate zh_Hans daughter_storyline_171_a9d99c32:
 translate zh_Hans daughter_storyline_171_6a3beca9:
 
     # nvld "{a=show:show_chat_media}{image=d_video_20_ns}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_video_20_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:14039
 translate zh_Hans daughter_storyline_171_8e0ddb66:
@@ -32444,7 +32444,7 @@ translate zh_Hans daughter_storyline_175_079a4b9d:
 translate zh_Hans daughter_storyline_175_5274915e:
 
     # nvld "{a=show:show_chat_media}{image=d_video_21_ns}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_video_21_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:14403
 translate zh_Hans daughter_storyline_175_01556638:
@@ -32578,19 +32578,19 @@ translate zh_Hans daughter_storyline_176_983a44ec:
 translate zh_Hans daughter_storyline_176_511598b3:
 
     # nvld "{a=show:show_chat_media}{image=d_pic_91}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_pic_91}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:14486
 translate zh_Hans daughter_storyline_176_e661a373:
 
     # nvld "{a=show:show_chat_media}{image=d_pic_92}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_pic_92}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:14492
 translate zh_Hans daughter_storyline_176_6be6d568:
 
     # nvld "{a=show:show_chat_media}{image=d_pic_93}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_pic_93}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:14497
 translate zh_Hans daughter_storyline_176_82fd843f:
@@ -32748,7 +32748,7 @@ translate zh_Hans daughter_storyline_177_b4e619c2:
 translate zh_Hans daughter_storyline_177_a993b095:
 
     # nvljenna "{a=show:show_chat_media}{image=h_elsa_video_8_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_elsa_video_8_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:14586
 translate zh_Hans daughter_storyline_177_10b53248:
@@ -32870,7 +32870,7 @@ translate zh_Hans daughter_storyline_178_cdb3898b:
 translate zh_Hans daughter_storyline_178_d4b4a529:
 
     # nvlscott "{a=show:show_chat_media}{image=h_elsa_pic_59}"
-    nvlscott ""
+    nvlscott "{a=show:show_chat_media}{image=h_elsa_pic_59}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:14663
 translate zh_Hans daughter_storyline_178_06885ee7:
@@ -32930,7 +32930,7 @@ translate zh_Hans daughter_storyline_178_d7077db0:
 translate zh_Hans daughter_storyline_178_8b5e6650:
 
     # nvlscott "{a=show:show_chat_media}{image=h_elsa_video_9_ns}"
-    nvlscott ""
+    nvlscott "{a=show:show_chat_media}{image=h_elsa_video_9_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:14687
 translate zh_Hans daughter_storyline_178_f55c4c85:
@@ -33500,19 +33500,19 @@ translate zh_Hans daughter_storyline_181_54d4d575:
 translate zh_Hans daughter_storyline_181_c941192f:
 
     # nvljenna "{a=show:show_chat_media}{image=qos_pic_6}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=qos_pic_6}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:14980
 translate zh_Hans daughter_storyline_181_457ea510:
 
     # nvljenna "{a=show:show_chat_media}{image=qos_pic_7}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=qos_pic_7}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:14986
 translate zh_Hans daughter_storyline_181_78865e52:
 
     # nvljenna "{a=show:show_chat_media}{image=qos_pic_8}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=qos_pic_8}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:14990
 translate zh_Hans daughter_storyline_181_984a8964:
@@ -33896,13 +33896,13 @@ translate zh_Hans daughter_storyline_184_403b0e17:
 translate zh_Hans daughter_storyline_184_ad8c9ffc:
 
     # nvlscott "{a=show:show_chat_media}{image=d_video_22_ns}"
-    nvlscott ""
+    nvlscott "{a=show:show_chat_media}{image=d_video_22_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:15221
 translate zh_Hans daughter_storyline_184_245868f6:
 
     # nvlscott "{a=show:show_chat_media}{image=d_video_23_ns}"
-    nvlscott ""
+    nvlscott "{a=show:show_chat_media}{image=d_video_23_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:15225
 translate zh_Hans daughter_storyline_184_408485f1:
@@ -34018,7 +34018,7 @@ translate zh_Hans daughter_storyline_185_94e0913c:
 translate zh_Hans daughter_storyline_185_67848d7c:
 
     # nvld "{a=show:show_chat_media}{image=d_pic_94}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_pic_94}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:15300
 translate zh_Hans daughter_storyline_185_22163379:
@@ -35334,7 +35334,7 @@ translate zh_Hans daughter_storyline_195_1e3eb10c:
 translate zh_Hans daughter_storyline_195_98b3ccb5:
 
     # nvld "{a=show:show_chat_media}{image=d_pic_95}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_pic_95}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:16079
 translate zh_Hans daughter_storyline_195_a4febdc5:
@@ -35742,7 +35742,7 @@ translate zh_Hans daughter_storyline_198_9069036e:
 translate zh_Hans daughter_storyline_198_e4801000:
 
     # nvld "{a=show:show_chat_media}{image=d_video_24_ns}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_video_24_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:16328
 translate zh_Hans daughter_storyline_198_1704204d:
@@ -35950,7 +35950,7 @@ translate zh_Hans daughter_storyline_200_48937876:
 translate zh_Hans daughter_storyline_200_0af40467:
 
     # nvljenna "{a=show:show_chat_media}{image=h_elsa_video_10_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_elsa_video_10_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:16466
 translate zh_Hans daughter_storyline_200_7e124777:
@@ -35974,7 +35974,7 @@ translate zh_Hans daughter_storyline_200_66b3e532:
 translate zh_Hans daughter_storyline_200_5cf3ac52:
 
     # nvljenna "{a=show:show_chat_media}{image=h_elsa_video_11_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_elsa_video_11_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:16478
 translate zh_Hans daughter_storyline_200_8bd276f9:
@@ -36108,7 +36108,7 @@ translate zh_Hans daughter_storyline_201_7c382ef8:
 translate zh_Hans daughter_storyline_201_5e72fed0:
 
     # nvld "{a=show:show_chat_media}{image=d_video_25_ns}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_video_25_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:16559
 translate zh_Hans daughter_storyline_201_fa2a1b99:
@@ -36170,7 +36170,7 @@ translate zh_Hans daughter_storyline_202_91542674:
 translate zh_Hans daughter_storyline_202_e19834fe:
 
     # nvlscott "{a=show:show_chat_media}{image=h_elsa_video_12_ns}"
-    nvlscott ""
+    nvlscott "{a=show:show_chat_media}{image=h_elsa_video_12_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:16616
 translate zh_Hans daughter_storyline_202_afb6393f:
@@ -36418,19 +36418,19 @@ translate zh_Hans daughter_storyline_203_41f52208:
 translate zh_Hans daughter_storyline_203_e407b2ed:
 
     # nvld "{a=show:show_chat_media}{image=d_pic_96}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_pic_96}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:16737
 translate zh_Hans daughter_storyline_203_406aa430:
 
     # nvld "{a=show:show_chat_media}{image=d_pic_97}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_pic_97}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:16743
 translate zh_Hans daughter_storyline_203_52f0683f:
 
     # nvld "{a=show:show_chat_media}{image=d_pic_98}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_pic_98}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:16747
 translate zh_Hans daughter_storyline_203_fef07d31:
@@ -36460,7 +36460,7 @@ translate zh_Hans daughter_storyline_203_5b38763f:
 translate zh_Hans daughter_storyline_203_221c9e48:
 
     # nvld "😘"
-    nvld ""
+    nvld "😘|"
 
 # game/scripts/dialogues/daughter_storyline.rpy:16771
 translate zh_Hans daughter_storyline_203_53c71d7c:
@@ -36718,7 +36718,7 @@ translate zh_Hans daughter_storyline_206_ece0fac1:
 translate zh_Hans daughter_storyline_206_d7e8741e:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_elsa_video_13_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=h_elsa_video_13_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:16944
 translate zh_Hans daughter_storyline_206_cd19736a:
@@ -36810,7 +36810,7 @@ translate zh_Hans daughter_storyline_207_a680e251:
 translate zh_Hans daughter_storyline_207_f4f53624:
 
     # nvljenna "{a=show:show_chat_media}{image=h_elsa_video_14_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_elsa_video_14_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:17011
 translate zh_Hans daughter_storyline_207_830ab82a:
@@ -36932,7 +36932,7 @@ translate zh_Hans daughter_storyline_208_5c6fbcbb:
 translate zh_Hans daughter_storyline_208_00ad49b3:
 
     # nvld "{a=show:show_chat_media}{image=d_video_26_ns}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_video_26_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:17088
 translate zh_Hans daughter_storyline_208_c58def7b:
@@ -37934,7 +37934,7 @@ translate zh_Hans daughter_storyline_214_90ceaf14:
 translate zh_Hans daughter_storyline_214_0c555668:
 
     # nvld "{a=show:show_chat_media}{image=d_video_27_ns}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_video_27_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:17626
 translate zh_Hans daughter_storyline_214_2e245686:
@@ -38328,7 +38328,7 @@ translate zh_Hans daughter_storyline_216_23dda991:
 translate zh_Hans daughter_storyline_216_b45ee473:
 
     # nvld "{a=show:show_chat_media}{image=d_pic_99}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_pic_99}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:17826
 translate zh_Hans daughter_storyline_216_997b0959:
@@ -38492,7 +38492,7 @@ translate zh_Hans daughter_storyline_217_7dbbb445:
 translate zh_Hans daughter_storyline_217_718962d6:
 
     # nvld "{a=show:show_chat_media}{image=d_pic_100}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_pic_100}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:17917
 translate zh_Hans daughter_storyline_217_da1e01a6:
@@ -38662,7 +38662,7 @@ translate zh_Hans daughter_storyline_218_5fdd8f11:
 translate zh_Hans daughter_storyline_218_9d1432c6:
 
     # nvld "{a=show:show_chat_media}{image=d_pic_101}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_pic_101}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:18010
 translate zh_Hans daughter_storyline_218_7e9510f8:
@@ -39020,7 +39020,7 @@ translate zh_Hans daughter_storyline_220_58b7646d:
 translate zh_Hans daughter_storyline_220_6172cb7f:
 
     # nvld "{a=show:show_chat_media}{image=d_video_28_ns}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_video_28_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:18198
 translate zh_Hans daughter_storyline_220_2ab71509:
@@ -39270,7 +39270,7 @@ translate zh_Hans daughter_storyline_222_613907ca:
 translate zh_Hans daughter_storyline_222_d0734898:
 
     # nvlscott "{a=show:show_chat_media}{image=h_elsa_video_15_ns}"
-    nvlscott ""
+    nvlscott "{a=show:show_chat_media}{image=h_elsa_video_15_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:18350
 translate zh_Hans daughter_storyline_222_3bd9a757:
@@ -39894,7 +39894,7 @@ translate zh_Hans daughter_storyline_225_98a1ac2f:
 translate zh_Hans daughter_storyline_225_b4627d0d:
 
     # nvld "{a=show:show_chat_media}{image=d_video_29_ns}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_video_29_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:18672
 translate zh_Hans daughter_storyline_225_46d4272f:
@@ -40810,7 +40810,7 @@ translate zh_Hans daughter_storyline_230_6c87232a:
 translate zh_Hans daughter_storyline_230_9b26a9c3:
 
     # nvld "{a=show:show_chat_media}{image=d_video_30_ns}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_video_30_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:19144
 translate zh_Hans daughter_storyline_230_aaca9e5c:
@@ -41418,7 +41418,7 @@ translate zh_Hans daughter_storyline_234_8deb01f3:
 translate zh_Hans daughter_storyline_234_bb5962bc:
 
     # nvljohn "{a=show:show_chat_media}{image=d_pic_102}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=d_pic_102}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:19482
 translate zh_Hans daughter_storyline_234_c57f1e2e:
@@ -41964,7 +41964,7 @@ translate zh_Hans daughter_storyline_237_f115607d:
 translate zh_Hans daughter_storyline_237_9068a3b0:
 
     # nvld "{a=show:show_chat_media}{image=d_video_31_ns}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_video_31_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:19764
 translate zh_Hans daughter_storyline_237_351c13b0:
@@ -42000,7 +42000,7 @@ translate zh_Hans daughter_storyline_237_2d2015e6:
 translate zh_Hans daughter_storyline_237_a4825097:
 
     # nvld "{a=show:show_chat_media}{image=d_video_32_ns}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_video_32_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:19780
 translate zh_Hans daughter_storyline_237_4e4f6ee2:
@@ -42414,7 +42414,7 @@ translate zh_Hans daughter_storyline_240_f95d465a:
 translate zh_Hans daughter_storyline_240_2942a42b:
 
     # nvlscott "{a=show:show_chat_media}{image=h_elsa_video_16_ns}"
-    nvlscott ""
+    nvlscott "{a=show:show_chat_media}{image=h_elsa_video_16_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:20019
 translate zh_Hans daughter_storyline_240_ecd45952:
@@ -42626,7 +42626,7 @@ translate zh_Hans daughter_storyline_241_a754443a:
 translate zh_Hans daughter_storyline_241_9cbaa8ab:
 
     # nvljenna "{a=show:show_chat_media}{image=h_elsa_video_17_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_elsa_video_17_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:20126
 translate zh_Hans daughter_storyline_241_94a5cc74:
@@ -42718,7 +42718,7 @@ translate zh_Hans daughter_storyline_242_274f18d6:
 translate zh_Hans daughter_storyline_242_7e5d68e4:
 
     # nvld "{a=show:show_chat_media}{image=d_pic_103}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_pic_103}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:20193
 translate zh_Hans daughter_storyline_242_0af36af5:
@@ -42772,7 +42772,7 @@ translate zh_Hans daughter_storyline_242_afe39993:
 translate zh_Hans daughter_storyline_242_ac9e078a:
 
     # nvld "{a=show:show_chat_media}{image=d_video_33_ns}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_video_33_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:20215
 translate zh_Hans daughter_storyline_242_4c34de27:
@@ -43058,7 +43058,7 @@ translate zh_Hans daughter_storyline_244_da34d306:
 translate zh_Hans daughter_storyline_244_714c1aa3:
 
     # nvld "{a=show:show_chat_media}{image=d_video_34_ns}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_video_34_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:20379
 translate zh_Hans daughter_storyline_244_09bcea60:
@@ -43610,7 +43610,7 @@ translate zh_Hans daughter_storyline_247_1d0fde25:
 translate zh_Hans daughter_storyline_247_7d7705a1:
 
     # nvld "{a=show:show_chat_media}{image=d_video_35_ns}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_video_35_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:20664
 translate zh_Hans daughter_storyline_247_99cbb6e6:
@@ -44158,7 +44158,7 @@ translate zh_Hans daughter_storyline_251_ee1d9d7d:
 translate zh_Hans daughter_storyline_251_9e6b6e79:
 
     # nvld "{a=show:show_chat_media}{image=d_video_36_ns}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_video_36_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:20980
 translate zh_Hans daughter_storyline_251_a61233f0:
@@ -44194,7 +44194,7 @@ translate zh_Hans daughter_storyline_251_030809c0:
 translate zh_Hans daughter_storyline_251_ea62c481:
 
     # nvld "{a=show:show_chat_media}{image=d_video_37_ns}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_video_37_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:20996
 translate zh_Hans daughter_storyline_251_d475c12b:
@@ -44432,7 +44432,7 @@ translate zh_Hans daughter_storyline_253_92d76e7b:
 translate zh_Hans daughter_storyline_253_ddd724a3:
 
     # nvlscott "{a=show:show_chat_media}{image=h_elsa_video_18_ns}"
-    nvlscott ""
+    nvlscott "{a=show:show_chat_media}{image=h_elsa_video_18_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:21144
 translate zh_Hans daughter_storyline_253_95c840bd:
@@ -44614,7 +44614,7 @@ translate zh_Hans daughter_storyline_254_3beaa416:
 translate zh_Hans daughter_storyline_254_9e6fa29c:
 
     # nvld "{a=show:show_chat_media}{image=d_pic_104}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_pic_104}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:21241
 translate zh_Hans daughter_storyline_254_3fb8a144:
@@ -45162,7 +45162,7 @@ translate zh_Hans daughter_storyline_258_9b210bf8:
 translate zh_Hans daughter_storyline_258_a94f29e1:
 
     # nvld "{a=show:show_chat_media}{image=d_video_38_ns}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_video_38_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:21557
 translate zh_Hans daughter_storyline_258_5ae4cdf3:
@@ -45326,7 +45326,7 @@ translate zh_Hans daughter_storyline_259_53fd46ea:
 translate zh_Hans daughter_storyline_259_3e124d24:
 
     # nvlscott "{a=show:show_chat_media}{image=bbc_video_109_ns}"
-    nvlscott ""
+    nvlscott "{a=show:show_chat_media}{image=bbc_video_109_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:21648
 translate zh_Hans daughter_storyline_259_3d99493a:
@@ -45558,7 +45558,7 @@ translate zh_Hans daughter_storyline_1000_08866cfc:
 translate zh_Hans daughter_storyline_1000_95d62b1d:
 
     # nvld "{a=show:show_chat_media}{image=d_pic_19}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_pic_19}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:21817
 translate zh_Hans daughter_storyline_1000_9a3b37f6:
@@ -46084,7 +46084,7 @@ translate zh_Hans daughter_storyline_1002_c82fca11:
 translate zh_Hans daughter_storyline_1002_1103b4a0:
 
     # nvljenna "{a=show:show_chat_media}{image=d_pic_7}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=d_pic_7}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:22057
 translate zh_Hans daughter_storyline_1002_40e09df3:
@@ -46204,7 +46204,7 @@ translate zh_Hans daughter_storyline_1002_b75ffb08:
 translate zh_Hans daughter_storyline_1002_46cadffe:
 
     # nvljenna "{a=show:show_chat_media}{image=bbc_pic_218}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=bbc_pic_218}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:22101
 translate zh_Hans daughter_storyline_1002_8b472f2b:
@@ -46222,7 +46222,7 @@ translate zh_Hans daughter_storyline_1002_90b6f589:
 translate zh_Hans daughter_storyline_1002_1e1e939f:
 
     # nvljenna "{a=show:show_chat_media}{image=bbc_pic_216}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=bbc_pic_216}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:22111
 translate zh_Hans daughter_storyline_1002_426df7c4:
@@ -46362,7 +46362,7 @@ translate zh_Hans daughter_storyline_1003_1edeed9f:
 translate zh_Hans daughter_storyline_1003_f9c9c5e6:
 
     # nvld "{a=show:show_chat_media}{image=d_pic_20}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_pic_20}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:22194
 translate zh_Hans daughter_storyline_1003_06e5fb83:
@@ -46796,7 +46796,7 @@ translate zh_Hans daughter_storyline_1004_43aa1db6:
 translate zh_Hans daughter_storyline_1004_e5c255a7:
 
     # nvld "{a=show:show_chat_media}{image=d_pic_21}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_pic_21}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:22375
 translate zh_Hans daughter_storyline_1004_c8b2cfaa:
@@ -46928,7 +46928,7 @@ translate zh_Hans daughter_storyline_1005_76b2fe88:
 translate zh_Hans daughter_storyline_1005_ce33d0ee:
 
     # nvlhelsa "{a=show:show_chat_media}{image=h_elsa_pic_14}"
-    nvlhelsa ""
+    nvlhelsa "{a=show:show_chat_media}{image=h_elsa_pic_14}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:22452
 translate zh_Hans daughter_storyline_1005_beb44393:
@@ -47146,7 +47146,7 @@ translate zh_Hans daughter_storyline_1006_7b190d44:
 translate zh_Hans daughter_storyline_1006_af1fe98d:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_elsa_pic_11}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=h_elsa_pic_11}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:22567
 translate zh_Hans daughter_storyline_1006_a24eaad2:
@@ -47158,7 +47158,7 @@ translate zh_Hans daughter_storyline_1006_a24eaad2:
 translate zh_Hans daughter_storyline_1006_28ecf51c:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_elsa_pic_12}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=h_elsa_pic_12}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:22575
 translate zh_Hans daughter_storyline_1006_77321077:
@@ -47188,7 +47188,7 @@ translate zh_Hans daughter_storyline_1006_62d14a92:
 translate zh_Hans daughter_storyline_1006_442019bb:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_elsa_pic_13}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=h_elsa_pic_13}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:22589
 translate zh_Hans daughter_storyline_1006_fd63e22d:
@@ -47272,7 +47272,7 @@ translate zh_Hans daughter_storyline_1007_76b2fe88:
 translate zh_Hans daughter_storyline_1007_c0b0a71c:
 
     # nvld "{a=show:show_chat_media}{image=d_pic_9}"
-    nvld ""
+    nvld "{a=show:show_chat_media}{image=d_pic_9}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:22650
 translate zh_Hans daughter_storyline_1007_d104b6dd:
@@ -47616,7 +47616,7 @@ translate zh_Hans daughter_storyline_1008_cafdf345:
 translate zh_Hans daughter_storyline_1008_582326c2:
 
     # nvljenna "{a=show:show_chat_media}{image=h_elsa_video_1_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_elsa_video_1_ns}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:22814
 translate zh_Hans daughter_storyline_1008_96b51277:
@@ -47790,7 +47790,7 @@ translate zh_Hans daughter_storyline_1008_e28db313:
 translate zh_Hans daughter_storyline_1008_a1180aba:
 
     # nvljenna "{a=show:show_chat_media}{image=h_elsa_pic_6}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_elsa_pic_6}"
 
 # game/scripts/dialogues/daughter_storyline.rpy:22878
 translate zh_Hans daughter_storyline_1008_fa5957a5:

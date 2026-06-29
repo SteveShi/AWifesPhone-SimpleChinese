@@ -296,7 +296,7 @@ translate zh_Hans christina_blacked_storyline_2_71bbdade:
 translate zh_Hans christina_blacked_storyline_2_169f675e:
 
     # nvlchristina "{a=show:show_chat_media}{image=christina_video_1_ns}"
-    nvlchristina ""
+    nvlchristina "{a=show:show_chat_media}{image=christina_video_1_ns}"
 
 # game/scripts/dialogues/christina_storyline.rpy:170
 translate zh_Hans christina_blacked_storyline_2_47d56332:
@@ -314,7 +314,7 @@ translate zh_Hans christina_blacked_storyline_2_4cf19332:
 translate zh_Hans christina_blacked_storyline_2_d80483e2:
 
     # nvlchristina "{a=show:show_chat_media}{image=christina_video_2_ns}"
-    nvlchristina ""
+    nvlchristina "{a=show:show_chat_media}{image=christina_video_2_ns}"
 
 # game/scripts/dialogues/christina_storyline.rpy:180
 translate zh_Hans christina_blacked_storyline_2_6a4aaaf1:
@@ -616,7 +616,7 @@ translate zh_Hans christina_blacked_storyline_3_d70d7f46:
 translate zh_Hans christina_blacked_storyline_3_f1de558a:
 
     # nvlkeiran "{a=show:show_chat_media}{image=keiran_pic_2}"
-    nvlkeiran ""
+    nvlkeiran "{a=show:show_chat_media}{image=keiran_pic_2}"
 
 # game/scripts/dialogues/christina_storyline.rpy:313
 translate zh_Hans christina_blacked_storyline_3_798af49d:
@@ -2372,7 +2372,7 @@ translate zh_Hans christina_blacked_storyline_8_715657eb:
 translate zh_Hans christina_blacked_storyline_8_b3ce1b3d:
 
     # nvlchristina "{a=show:show_chat_media}{image=christina_pic_17}"
-    nvlchristina ""
+    nvlchristina "{a=show:show_chat_media}{image=christina_pic_17}"
 
 # game/scripts/dialogues/christina_storyline.rpy:1048
 translate zh_Hans christina_blacked_storyline_8_13aff63c:
@@ -3284,7 +3284,7 @@ translate zh_Hans christina_blacked_storyline_11_233cdba6:
 translate zh_Hans christina_blacked_storyline_11_cafb6822:
 
     # nvljenna "{a=show:show_chat_media}{image=christina_video_3_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=christina_video_3_ns}"
 
 # game/scripts/dialogues/christina_storyline.rpy:1453
 translate zh_Hans christina_blacked_storyline_11_a9100c40:
@@ -3302,7 +3302,7 @@ translate zh_Hans christina_blacked_storyline_11_90f3f515:
 translate zh_Hans christina_blacked_storyline_11_75a52e97:
 
     # nvljenna "{a=show:show_chat_media}{image=christina_video_4_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=christina_video_4_ns}"
 
 # game/scripts/dialogues/christina_storyline.rpy:1463
 translate zh_Hans christina_blacked_storyline_11_7d702fce:
@@ -3332,13 +3332,13 @@ translate zh_Hans christina_blacked_storyline_11_8499eb45:
 translate zh_Hans christina_blacked_storyline_11_212ed9e8:
 
     # nvljenna "{a=show:show_chat_media}{image=christina_video_5_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=christina_video_5_ns}"
 
 # game/scripts/dialogues/christina_storyline.rpy:1479
 translate zh_Hans christina_blacked_storyline_11_3b84438b:
 
     # nvljenna "{a=show:show_chat_media}{image=christina_video_6_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=christina_video_6_ns}"
 
 # game/scripts/dialogues/christina_storyline.rpy:1483
 translate zh_Hans christina_blacked_storyline_11_1dab64a3:
@@ -3440,7 +3440,7 @@ translate zh_Hans christina_blacked_storyline_11_bc38c9c0:
 translate zh_Hans christina_blacked_storyline_11_9694bb06:
 
     # nvlchristina "{a=show:show_chat_media}{image=jenna_video_3_ns}"
-    nvlchristina ""
+    nvlchristina "{a=show:show_chat_media}{image=jenna_video_3_ns}"
 
 # game/scripts/dialogues/christina_storyline.rpy:1521
 translate zh_Hans christina_blacked_storyline_11_47d56332:
@@ -3892,7 +3892,7 @@ translate zh_Hans christina_blacked_storyline_12_102ca3f3:
 translate zh_Hans christina_blacked_storyline_12_91868948:
 
     # nvlchristina "{a=show:show_chat_media}{image=christina_pic_37}"
-    nvlchristina ""
+    nvlchristina "{a=show:show_chat_media}{image=christina_pic_37}"
 
 # game/scripts/dialogues/christina_storyline.rpy:1704
 translate zh_Hans christina_blacked_storyline_12_9acc3c0f:
@@ -3958,7 +3958,7 @@ translate zh_Hans christina_blacked_storyline_12_14e06170:
 translate zh_Hans christina_blacked_storyline_12_15aab6a2:
 
     # nvlchristina "{a=show:show_chat_media}{image=christina_pic_48}"
-    nvlchristina ""
+    nvlchristina "{a=show:show_chat_media}{image=christina_pic_48}"
 
 # game/scripts/dialogues/christina_storyline.rpy:1730
 translate zh_Hans christina_blacked_storyline_12_2c4d0ffe:
@@ -4012,7 +4012,7 @@ translate zh_Hans christina_blacked_storyline_12_232d0a41:
 translate zh_Hans christina_blacked_storyline_12_ecab6a81:
 
     # nvlchristina "{a=show:show_chat_media}{image=christina_pic_14}"
-    nvlchristina ""
+    nvlchristina "{a=show:show_chat_media}{image=christina_pic_14}"
 
 # game/scripts/dialogues/christina_storyline.rpy:1752
 translate zh_Hans christina_blacked_storyline_12_611e554e:
@@ -4610,7 +4610,7 @@ translate zh_Hans christina_blacked_storyline_14_8dcca737:
 translate zh_Hans christina_blacked_storyline_14_3029a96a:
 
     # nvlunknown "{a=show:show_chat_media}{image=christina_video_15_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=christina_video_15_ns}"
 
 # game/scripts/dialogues/christina_storyline.rpy:2028
 translate zh_Hans christina_blacked_storyline_14_86195cdd:
@@ -4628,13 +4628,13 @@ translate zh_Hans christina_blacked_storyline_14_c024a6b3:
 translate zh_Hans christina_blacked_storyline_14_9e426a0c:
 
     # nvlunknown "{a=show:show_chat_media}{image=christina_video_16_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=christina_video_16_ns}"
 
 # game/scripts/dialogues/christina_storyline.rpy:2040
 translate zh_Hans christina_blacked_storyline_14_62e471db:
 
     # nvlunknown "{a=show:show_chat_media}{image=christina_video_17_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=christina_video_17_ns}"
 
 # game/scripts/dialogues/christina_storyline.rpy:2044
 translate zh_Hans christina_blacked_storyline_14_33243886:
@@ -4998,7 +4998,7 @@ translate zh_Hans christina_blacked_storyline_16_a8380274:
 translate zh_Hans christina_blacked_storyline_16_3e23ecb4:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_6_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_video_6_ns}"
 
 # game/scripts/dialogues/christina_storyline.rpy:2229
 translate zh_Hans christina_blacked_storyline_16_0607dc69:
@@ -5028,7 +5028,7 @@ translate zh_Hans christina_blacked_storyline_16_b3e474b0:
 translate zh_Hans christina_blacked_storyline_16_dda3c44e:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_7_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_video_7_ns}"
 
 # game/scripts/dialogues/christina_storyline.rpy:2243
 translate zh_Hans christina_blacked_storyline_16_a10372d5:
@@ -5052,13 +5052,13 @@ translate zh_Hans christina_blacked_storyline_16_958dce70:
 translate zh_Hans christina_blacked_storyline_16_172a925d:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_8_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_video_8_ns}"
 
 # game/scripts/dialogues/christina_storyline.rpy:2257
 translate zh_Hans christina_blacked_storyline_16_f9fb9c97:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_9_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_video_9_ns}"
 
 # game/scripts/dialogues/christina_storyline.rpy:2261
 translate zh_Hans christina_blacked_storyline_16_f153699d:
@@ -5378,7 +5378,7 @@ translate zh_Hans christina_blacked_storyline_17_7ef14abf:
 translate zh_Hans christina_blacked_storyline_17_9255ce7d:
 
     # nvlchristina "{a=show:show_chat_media}{image=christina_pic_20}"
-    nvlchristina ""
+    nvlchristina "{a=show:show_chat_media}{image=christina_pic_20}"
 
 # game/scripts/dialogues/christina_storyline.rpy:2402
 translate zh_Hans christina_blacked_storyline_17_6957ef2e:
@@ -6054,7 +6054,7 @@ translate zh_Hans christina_blacked_storyline_19_6713d3c3:
 translate zh_Hans christina_blacked_storyline_19_5dad2664:
 
     # nvlmarcus "{a=show:show_chat_media}{image=christina_video_7_ns}"
-    nvlmarcus ""
+    nvlmarcus "{a=show:show_chat_media}{image=christina_video_7_ns}"
 
 # game/scripts/dialogues/christina_storyline.rpy:2687
 translate zh_Hans christina_blacked_storyline_19_e5af501a:
@@ -6072,7 +6072,7 @@ translate zh_Hans christina_blacked_storyline_19_c61b9f7f:
 translate zh_Hans christina_blacked_storyline_19_82eef4ab:
 
     # nvlmarcus "{a=show:show_chat_media}{image=christina_video_8_ns}"
-    nvlmarcus ""
+    nvlmarcus "{a=show:show_chat_media}{image=christina_video_8_ns}"
 
 # game/scripts/dialogues/christina_storyline.rpy:2697
 translate zh_Hans christina_blacked_storyline_19_8baf040c:
@@ -6796,7 +6796,7 @@ translate zh_Hans christina_storyline_2_934b547e:
 translate zh_Hans christina_storyline_2_9255ce7d:
 
     # nvlchristina "{a=show:show_chat_media}{image=christina_pic_20}"
-    nvlchristina ""
+    nvlchristina "{a=show:show_chat_media}{image=christina_pic_20}"
 
 # game/scripts/dialogues/christina_storyline.rpy:3105
 translate zh_Hans christina_storyline_2_c691e1f3:
@@ -7382,7 +7382,7 @@ translate zh_Hans christina_storyline_4_30c2ec36:
 translate zh_Hans christina_storyline_4_9461e54b:
 
     # nvlchristina "{a=show:show_chat_media}{image=christina_pic_23}"
-    nvlchristina ""
+    nvlchristina "{a=show:show_chat_media}{image=christina_pic_23}"
 
 # game/scripts/dialogues/christina_storyline.rpy:3379
 translate zh_Hans christina_storyline_4_d03397cc:
@@ -7520,7 +7520,7 @@ translate zh_Hans christina_storyline_4_6a87cbd9:
 translate zh_Hans christina_storyline_4_1223903a:
 
     # nvlchristina "{a=show:show_chat_media}{image=christina_pic_21}"
-    nvlchristina ""
+    nvlchristina "{a=show:show_chat_media}{image=christina_pic_21}"
 
 # game/scripts/dialogues/christina_storyline.rpy:3429
 translate zh_Hans christina_storyline_4_938a2b7a:
@@ -7870,7 +7870,7 @@ translate zh_Hans christina_storyline_5_db5742ea:
 translate zh_Hans christina_storyline_5_16494d56:
 
     # nvlchristina "{a=show:show_chat_media}{image=christina_pic_41}"
-    nvlchristina ""
+    nvlchristina "{a=show:show_chat_media}{image=christina_pic_41}"
 
 # game/scripts/dialogues/christina_storyline.rpy:3578
 translate zh_Hans christina_storyline_5_2b0b9af6:
@@ -7924,7 +7924,7 @@ translate zh_Hans christina_storyline_5_fd568056:
 translate zh_Hans christina_storyline_5_47fd6105:
 
     # nvlchristina "{a=show:show_chat_media}{image=christina_pic_28}"
-    nvlchristina ""
+    nvlchristina "{a=show:show_chat_media}{image=christina_pic_28}"
 
 # game/scripts/dialogues/christina_storyline.rpy:3600
 translate zh_Hans christina_storyline_5_fe8e9493:
@@ -8058,7 +8058,7 @@ translate zh_Hans christina_storyline_6_9681bf7f:
 translate zh_Hans christina_storyline_6_f04046f2:
 
     # nvljohn "{a=show:show_chat_media}{image=christina_pic_44}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=christina_pic_44}"
 
 # game/scripts/dialogues/christina_storyline.rpy:3677
 translate zh_Hans christina_storyline_6_16a6799a:
@@ -8304,7 +8304,7 @@ translate zh_Hans christina_storyline_6_ecd88ffc:
 translate zh_Hans christina_storyline_6_b711bf4b:
 
     # nvlchristina "{a=show:show_chat_media}{image=christina_pic_24}"
-    nvlchristina ""
+    nvlchristina "{a=show:show_chat_media}{image=christina_pic_24}"
 
 # game/scripts/dialogues/christina_storyline.rpy:3763
 translate zh_Hans christina_storyline_6_4de005ff:
@@ -8520,7 +8520,7 @@ translate zh_Hans christina_storyline_7_76b2fe88:
 translate zh_Hans christina_storyline_7_c1ab72fe:
 
     # nvlchristina "{a=show:show_chat_media}{image=christina_pic_26}"
-    nvlchristina ""
+    nvlchristina "{a=show:show_chat_media}{image=christina_pic_26}"
 
 # game/scripts/dialogues/christina_storyline.rpy:3870
 translate zh_Hans christina_storyline_7_24be256e:
@@ -8756,7 +8756,7 @@ translate zh_Hans christina_storyline_8_42e11011:
 translate zh_Hans christina_storyline_8_03f4606d:
 
     # nvljohn "{a=show:show_chat_media}{image=christina_pic_29}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=christina_pic_29}"
 
 # game/scripts/dialogues/christina_storyline.rpy:3984
 translate zh_Hans christina_storyline_8_56f0f9d4:
@@ -8942,7 +8942,7 @@ translate zh_Hans christina_storyline_8_75bf7d3f:
 translate zh_Hans christina_storyline_8_91868948:
 
     # nvlchristina "{a=show:show_chat_media}{image=christina_pic_37}"
-    nvlchristina ""
+    nvlchristina "{a=show:show_chat_media}{image=christina_pic_37}"
 
 # game/scripts/dialogues/christina_storyline.rpy:4050
 translate zh_Hans christina_storyline_8_c6fbd2d9:
@@ -9224,7 +9224,7 @@ translate zh_Hans christina_storyline_9_76b2fe88:
 translate zh_Hans christina_storyline_9_1fc295a3:
 
     # nvljohn "{a=show:show_chat_media}{image=christina_pic_30}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=christina_pic_30}"
 
 # game/scripts/dialogues/christina_storyline.rpy:4176
 translate zh_Hans christina_storyline_9_a6573ca3:
@@ -9556,7 +9556,7 @@ translate zh_Hans christina_storyline_10_0ad30d5a:
 translate zh_Hans christina_storyline_10_f642bf72:
 
     # nvlchristina "{a=show:show_chat_media}{image=christina_pic_22}"
-    nvlchristina ""
+    nvlchristina "{a=show:show_chat_media}{image=christina_pic_22}"
 
 # game/scripts/dialogues/christina_storyline.rpy:4323
 translate zh_Hans christina_storyline_10_6957ef2e:
@@ -10020,7 +10020,7 @@ translate zh_Hans christina_storyline_12_76b2fe88:
 translate zh_Hans christina_storyline_12_d5a9d96c:
 
     # nvlchristina "{a=show:show_chat_media}{image=christina_pic_27}"
-    nvlchristina ""
+    nvlchristina "{a=show:show_chat_media}{image=christina_pic_27}"
 
 # game/scripts/dialogues/christina_storyline.rpy:4537
 translate zh_Hans christina_storyline_12_120fde85:
@@ -10388,7 +10388,7 @@ translate zh_Hans christina_storyline_13_b76ebb6f:
 translate zh_Hans christina_storyline_13_ae29e4d1:
 
     # nvlchristina "{a=show:show_chat_media}{image=christina_pic_43}"
-    nvlchristina ""
+    nvlchristina "{a=show:show_chat_media}{image=christina_pic_43}"
 
 # game/scripts/dialogues/christina_storyline.rpy:4694
 translate zh_Hans christina_storyline_13_2639b2dc:
@@ -10648,7 +10648,7 @@ translate zh_Hans christina_storyline_14_0b5906f2:
 translate zh_Hans christina_storyline_14_15aab6a2:
 
     # nvlchristina "{a=show:show_chat_media}{image=christina_pic_48}"
-    nvlchristina ""
+    nvlchristina "{a=show:show_chat_media}{image=christina_pic_48}"
 
 # game/scripts/dialogues/christina_storyline.rpy:4814
 translate zh_Hans christina_storyline_14_426eaf2a:

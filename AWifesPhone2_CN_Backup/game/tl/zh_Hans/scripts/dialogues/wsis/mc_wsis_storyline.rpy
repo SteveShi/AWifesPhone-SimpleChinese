@@ -1168,7 +1168,7 @@ translate zh_Hans mc_wsis_storyline_19_1133f8db:
 translate zh_Hans mc_wsis_storyline_19_01c20d3f:
 
     # nvlwsis "{a=show:show_chat_media}{image=w_sister_pic_56}"
-    nvlwsis ""
+    nvlwsis "{a=show:show_chat_media}{image=w_sister_pic_56}"
 
 # game/scripts/dialogues/wsis/mc_wsis_storyline.rpy:599
 translate zh_Hans mc_wsis_storyline_19_d5fedd5a:
@@ -1222,7 +1222,7 @@ translate zh_Hans mc_wsis_storyline_19_a8fa3798:
 translate zh_Hans mc_wsis_storyline_19_7c87a95f:
 
     # nvljohn "{a=show:show_chat_media}{image=w_sister_mc_pic_3}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=w_sister_mc_pic_3}"
 
 # game/scripts/dialogues/wsis/mc_wsis_storyline.rpy:621
 translate zh_Hans mc_wsis_storyline_19_26d18120:
@@ -1240,7 +1240,7 @@ translate zh_Hans mc_wsis_storyline_19_f69a9f62:
 translate zh_Hans mc_wsis_storyline_19_01d409f4:
 
     # nvljohn "{a=show:show_chat_media}{image=w_sister_pic_43}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=w_sister_pic_43}"
 
 # game/scripts/dialogues/wsis/mc_wsis_storyline.rpy:631
 translate zh_Hans mc_wsis_storyline_19_ca75582b:
@@ -1476,7 +1476,7 @@ translate zh_Hans mc_wsis_storyline_20_65992a21:
 translate zh_Hans mc_wsis_storyline_20_22b8d620:
 
     # nvlwsis "{a=show:show_chat_media}{image=w_sister_pic_66}"
-    nvlwsis ""
+    nvlwsis "{a=show:show_chat_media}{image=w_sister_pic_66}"
 
 # game/scripts/dialogues/wsis/mc_wsis_storyline.rpy:742
 translate zh_Hans mc_wsis_storyline_20_05f7d755:
@@ -1658,7 +1658,7 @@ translate zh_Hans mc_wsis_storyline_21_d0a1685c:
 translate zh_Hans mc_wsis_storyline_21_74c2b670:
 
     # nvlunknown "{a=show:show_chat_media}{image=w_sister_video_18_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=w_sister_video_18_ns}"
 
 # game/scripts/dialogues/wsis/mc_wsis_storyline.rpy:834
 translate zh_Hans mc_wsis_storyline_21_5b574677:
@@ -1676,19 +1676,19 @@ translate zh_Hans mc_wsis_storyline_21_6e50948a:
 translate zh_Hans mc_wsis_storyline_21_ae61b4ff:
 
     # nvlunknown "{a=show:show_chat_media}{image=w_sister_video_19_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=w_sister_video_19_ns}"
 
 # game/scripts/dialogues/wsis/mc_wsis_storyline.rpy:846
 translate zh_Hans mc_wsis_storyline_21_002cc2c5:
 
     # nvlunknown "{a=show:show_chat_media}{image=w_sister_video_20_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=w_sister_video_20_ns}"
 
 # game/scripts/dialogues/wsis/mc_wsis_storyline.rpy:852
 translate zh_Hans mc_wsis_storyline_21_13e882d5:
 
     # nvlunknown "{a=show:show_chat_media}{image=w_sister_video_21_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=w_sister_video_21_ns}"
 
 # game/scripts/dialogues/wsis/mc_wsis_storyline.rpy:856
 translate zh_Hans mc_wsis_storyline_21_b386a52e:
@@ -2316,7 +2316,7 @@ translate zh_Hans mc_wsis_storyline_23_601de5ce:
 translate zh_Hans mc_wsis_storyline_23_e127e679:
 
     # nvlwsis "{a=show:show_chat_media}{image=w_sister_pic_78}"
-    nvlwsis ""
+    nvlwsis "{a=show:show_chat_media}{image=w_sister_pic_78}"
 
 # game/scripts/dialogues/wsis/mc_wsis_storyline.rpy:1124
 translate zh_Hans mc_wsis_storyline_23_9c7a3e88:
@@ -2394,7 +2394,7 @@ translate zh_Hans mc_wsis_storyline_23_6f6c9e92:
 translate zh_Hans mc_wsis_storyline_23_1dd0c117:
 
     # nvlwsis "{a=show:show_chat_media}{image=w_sister_pic_74}"
-    nvlwsis ""
+    nvlwsis "{a=show:show_chat_media}{image=w_sister_pic_74}"
 
 # game/scripts/dialogues/wsis/mc_wsis_storyline.rpy:1154
 translate zh_Hans mc_wsis_storyline_23_b2557534:
@@ -2510,7 +2510,7 @@ translate zh_Hans mc_wsis_storyline_24_baa5758d:
 translate zh_Hans mc_wsis_storyline_24_3865f6be:
 
     # nvljohn "{a=show:show_chat_media}{image=w_sister_pic_59}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=w_sister_pic_59}"
 
 # game/scripts/dialogues/wsis/mc_wsis_storyline.rpy:1226
 translate zh_Hans mc_wsis_storyline_24_1729a998:
@@ -2534,7 +2534,7 @@ translate zh_Hans mc_wsis_storyline_24_8545f406:
 translate zh_Hans mc_wsis_storyline_24_8a7b9894:
 
     # nvljohn "{a=show:show_chat_media}{image=w_sister_pic_60}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=w_sister_pic_60}"
 
 # game/scripts/dialogues/wsis/mc_wsis_storyline.rpy:1238
 translate zh_Hans mc_wsis_storyline_24_3bd25701:
@@ -2720,7 +2720,7 @@ translate zh_Hans mc_wsis_storyline_24_6ec80e08:
 translate zh_Hans mc_wsis_storyline_24_26885388:
 
     # nvlwsis "{a=show:show_chat_media}{image=w_sister_pic_61}"
-    nvlwsis ""
+    nvlwsis "{a=show:show_chat_media}{image=w_sister_pic_61}"
 
 # game/scripts/dialogues/wsis/mc_wsis_storyline.rpy:1304
 translate zh_Hans mc_wsis_storyline_24_11413c22:
@@ -3060,13 +3060,13 @@ translate zh_Hans mc_wsis_storyline_26_126e4362:
 translate zh_Hans mc_wsis_storyline_26_1a012f2a:
 
     # nvlunknown "{a=show:show_chat_media}{image=w_sister_video_10_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=w_sister_video_10_ns}"
 
 # game/scripts/dialogues/wsis/mc_wsis_storyline.rpy:1492
 translate zh_Hans mc_wsis_storyline_26_166df3bf:
 
     # nvlunknown "{a=show:show_chat_media}{image=w_sister_video_11_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=w_sister_video_11_ns}"
 
 # game/scripts/dialogues/wsis/mc_wsis_storyline.rpy:1496
 translate zh_Hans mc_wsis_storyline_26_7344e685:
@@ -3078,13 +3078,13 @@ translate zh_Hans mc_wsis_storyline_26_7344e685:
 translate zh_Hans mc_wsis_storyline_26_f0479ffd:
 
     # nvlunknown "{a=show:show_chat_media}{image=w_sister_video_11_2_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=w_sister_video_11_2_ns}"
 
 # game/scripts/dialogues/wsis/mc_wsis_storyline.rpy:1506
 translate zh_Hans mc_wsis_storyline_26_155d5efa:
 
     # nvlunknown "{a=show:show_chat_media}{image=w_sister_video_12_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=w_sister_video_12_ns}"
 
 # game/scripts/dialogues/wsis/mc_wsis_storyline.rpy:1510
 translate zh_Hans mc_wsis_storyline_26_1c893aae:

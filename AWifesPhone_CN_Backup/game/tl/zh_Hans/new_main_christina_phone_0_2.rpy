@@ -340,7 +340,7 @@ translate zh_Hans chrisrina_blacked_messager02_1_2_6a4aaaf1:
 translate zh_Hans chrisrina_blacked_messager02_1_2_05a63986:
 
     # nvlchristina "{image=smile_emoji.png}"
-    nvlchristina ""
+    nvlchristina "{image=smile_emoji.png}"
 
 # new_main_christina_phone_0_2.rpy:799
 translate zh_Hans chrisrina_blacked_messager02_1_2_9ed61657:
@@ -4006,7 +4006,7 @@ translate zh_Hans chrisrina_blacked_messager02_1_12_3eb0dc39:
 translate zh_Hans chrisrina_blacked_messager02_1_12_20b411ee:
 
     # nvlmarcus "{image=wink_emoji.png}"
-    nvlmarcus ""
+    nvlmarcus "{image=wink_emoji.png}"
 
 # new_main_christina_phone_0_2.rpy:2342
 translate zh_Hans chrisrina_blacked_messager02_1_12_dedf053b:
@@ -5404,7 +5404,7 @@ translate zh_Hans chrisrina_blacked_messager02_1_15_78febde0:
 translate zh_Hans chrisrina_blacked_messager02_1_15_05a63986:
 
     # nvlchristina "{image=smile_emoji.png}"
-    nvlchristina ""
+    nvlchristina "{image=smile_emoji.png}"
 
 # new_main_christina_phone_0_2.rpy:2988
 translate zh_Hans chrisrina_blacked_messager02_1_15_f49e8f44:
@@ -5932,7 +5932,7 @@ translate zh_Hans chrisrina_blacked_messager02_1_17_012c4881:
 translate zh_Hans chrisrina_blacked_messager02_1_17_05a63986:
 
     # nvlchristina "{image=smile_emoji.png}"
-    nvlchristina ""
+    nvlchristina "{image=smile_emoji.png}"
 
 # new_main_christina_phone_0_2.rpy:3208
 translate zh_Hans chrisrina_blacked_messager02_1_17_ca810535:
@@ -6082,7 +6082,7 @@ translate zh_Hans chrisrina_blacked_messager02_1_18_efbc0f57:
 translate zh_Hans chrisrina_blacked_messager02_1_18_20b411ee:
 
     # nvlmarcus "{image=wink_emoji.png}"
-    nvlmarcus ""
+    nvlmarcus "{image=wink_emoji.png}"
 
 # new_main_christina_phone_0_2.rpy:3291
 translate zh_Hans chrisrina_blacked_messager02_1_18_46b2e060:
@@ -8044,7 +8044,7 @@ translate zh_Hans h_chrisrina_messager02_1_5_ba35b6e7:
 translate zh_Hans h_chrisrina_messager02_1_5_55f07376:
 
     # nvlchristina "{image=wink_emoji.png}"
-    nvlchristina ""
+    nvlchristina "{image=wink_emoji.png}"
 
 # new_main_christina_phone_0_2.rpy:4189
 translate zh_Hans h_chrisrina_messager02_1_5_5ed1dbdf:
@@ -8572,7 +8572,7 @@ translate zh_Hans h_chrisrina_messager02_1_6_85049009:
 translate zh_Hans h_chrisrina_messager02_1_6_55f07376:
 
     # nvlchristina "{image=wink_emoji.png}"
-    nvlchristina ""
+    nvlchristina "{image=wink_emoji.png}"
 
 # new_main_christina_phone_0_2.rpy:4408
 translate zh_Hans h_chrisrina_messager02_1_6_52df1f24:
@@ -10786,7 +10786,7 @@ translate zh_Hans h_chrisrina_messager02_1_12_0f83bc13:
 translate zh_Hans h_chrisrina_messager02_1_12_66d874ae:
 
     # nvljohn "{image=smile_emoji.png}"
-    nvljohn ""
+    nvljohn "{image=smile_emoji.png}"
 
 # new_main_christina_phone_0_2.rpy:5388
 translate zh_Hans h_chrisrina_messager02_1_12_e5c0f15e:
@@ -11098,7 +11098,7 @@ translate zh_Hans h_chrisrina_messager02_1_13_5cb58c3b:
 translate zh_Hans h_chrisrina_messager02_1_13_93c6f539:
 
     # nvlchristina "{image=love_emoji.png}"
-    nvlchristina ""
+    nvlchristina "{image=love_emoji.png}"
 
 # new_main_christina_phone_0_2.rpy:5527
 translate zh_Hans h_chrisrina_messager02_1_13_f3368f58:

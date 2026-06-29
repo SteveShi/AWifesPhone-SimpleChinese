@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-29 09:30
+# TODO: Translation updated at 2026-06-29 09:30
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:57
 translate zh_Hans kirely_storyline_50_14467712:
@@ -804,7 +804,7 @@ translate zh_Hans kirely_storyline_53_b7965edb:
 translate zh_Hans kirely_storyline_53_e5402612:
 
     # nvlkirely "{a=show:show_chat_media}{image=kirely_video_28_ns}"
-    nvlkirely ""
+    nvlkirely "{a=show:show_chat_media}{image=kirely_video_28_ns}"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:455
 translate zh_Hans kirely_storyline_53_5e26a15b:
@@ -834,7 +834,7 @@ translate zh_Hans kirely_storyline_53_ba8c927d:
 translate zh_Hans kirely_storyline_53_759a92c9:
 
     # nvlkirely "{a=show:show_chat_media}{image=kirely_video_29_ns}"
-    nvlkirely ""
+    nvlkirely "{a=show:show_chat_media}{image=kirely_video_29_ns}"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:472
 translate zh_Hans kirely_storyline_53_6d1b642b:
@@ -1410,7 +1410,7 @@ translate zh_Hans kirely_storyline_56_4d49f34c:
 translate zh_Hans kirely_storyline_56_c3e279e3:
 
     # nvlkirely "{a=show:show_chat_media}{image=kirely_video_30_ns}"
-    nvlkirely ""
+    nvlkirely "{a=show:show_chat_media}{image=kirely_video_30_ns}"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:759
 translate zh_Hans kirely_storyline_56_9825c631:
@@ -1440,7 +1440,7 @@ translate zh_Hans kirely_storyline_56_34fd04b6:
 translate zh_Hans kirely_storyline_56_cdd7ab8c:
 
     # nvlkirely "{a=show:show_chat_media}{image=kirely_video_31_ns}"
-    nvlkirely ""
+    nvlkirely "{a=show:show_chat_media}{image=kirely_video_31_ns}"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:773
 translate zh_Hans kirely_storyline_56_e8368ca2:
@@ -1904,7 +1904,7 @@ translate zh_Hans kirely_storyline_61_76b2fe88:
 translate zh_Hans kirely_storyline_61_48862e66:
 
     # nvljohn "{a=show:show_chat_media}{image=kirely_video_32_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=kirely_video_32_ns}"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:998
 translate zh_Hans kirely_storyline_61_c549400a:
@@ -1928,7 +1928,7 @@ translate zh_Hans kirely_storyline_61_cdfacefd:
 translate zh_Hans kirely_storyline_61_f353e221:
 
     # nvljohn "{a=show:show_chat_media}{image=kirely_video_33_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=kirely_video_33_ns}"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:1011
 translate zh_Hans kirely_storyline_61_026fabd7:
@@ -2126,7 +2126,7 @@ translate zh_Hans kirely_storyline_62_76b2fe88:
 translate zh_Hans kirely_storyline_62_b46e9e3a:
 
     # nvlkirely "{a=show:show_chat_media}{image=kirely_pic_61}"
-    nvlkirely ""
+    nvlkirely "{a=show:show_chat_media}{image=kirely_pic_61}"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:1112
 translate zh_Hans kirely_storyline_62_e8a02202:
@@ -2204,7 +2204,7 @@ translate zh_Hans kirely_storyline_62_5432ccc6:
 translate zh_Hans kirely_storyline_62_8be580a9:
 
     # nvlkirely "{a=show:show_chat_media}{image=kirely_pic_62}"
-    nvlkirely ""
+    nvlkirely "{a=show:show_chat_media}{image=kirely_pic_62}"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:1142
 translate zh_Hans kirely_storyline_62_32a9269c:
@@ -2338,7 +2338,7 @@ translate zh_Hans kirely_storyline_63_e8a02202:
 translate zh_Hans kirely_storyline_63_9d66f2de:
 
     # nvlkirely "{a=show:show_chat_media}{image=kirely_pic_64}"
-    nvlkirely ""
+    nvlkirely "{a=show:show_chat_media}{image=kirely_pic_64}"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:1223
 translate zh_Hans kirely_storyline_63_d5b7760d:
@@ -2464,7 +2464,7 @@ translate zh_Hans kirely_storyline_63_0ff99c8b:
 translate zh_Hans kirely_storyline_63_b5d93433:
 
     # nvlkirely "{a=show:show_chat_media}{image=kirely_pic_63}"
-    nvlkirely ""
+    nvlkirely "{a=show:show_chat_media}{image=kirely_pic_63}"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:1269
 translate zh_Hans kirely_storyline_63_e8a02202_1:
@@ -2682,7 +2682,7 @@ translate zh_Hans kirely_storyline_64_812772ea:
 translate zh_Hans kirely_storyline_64_874d9b06:
 
     # nvlson "{a=show:show_chat_media}{image=kirely_video_32_ns}"
-    nvlson ""
+    nvlson "{a=show:show_chat_media}{image=kirely_video_32_ns}"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:1376
 translate zh_Hans kirely_storyline_64_a78e138a:
@@ -2694,7 +2694,7 @@ translate zh_Hans kirely_storyline_64_a78e138a:
 translate zh_Hans kirely_storyline_64_c901801c:
 
     # nvlson "{a=show:show_chat_media}{image=kirely_video_33_ns}"
-    nvlson ""
+    nvlson "{a=show:show_chat_media}{image=kirely_video_33_ns}"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:1382
 translate zh_Hans kirely_storyline_64_56184813:
@@ -7404,7 +7404,7 @@ translate zh_Hans kirely_storyline_83_83a3dcfa:
 translate zh_Hans kirely_storyline_83_9d4b8437:
 
     # nvlkirely "{a=show:show_chat_media}{image=kirely_pic_72}"
-    nvlkirely ""
+    nvlkirely "{a=show:show_chat_media}{image=kirely_pic_72}"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:3697
 translate zh_Hans kirely_storyline_83_e78d9fc1:
@@ -7556,7 +7556,7 @@ translate zh_Hans kirely_storyline_84_6b617c99:
 translate zh_Hans kirely_storyline_84_6fa34da4:
 
     # nvljohn "{a=show:show_chat_media}{image=kirely_video_39_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=kirely_video_39_ns}"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:3784
 translate zh_Hans kirely_storyline_84_302f05f1:
@@ -8296,7 +8296,7 @@ translate zh_Hans kirely_storyline_88_25f32b16:
 translate zh_Hans kirely_storyline_88_e7e642a2:
 
     # nvlkirely "{a=show:show_chat_media}{image=kirely_pic_73}"
-    nvlkirely ""
+    nvlkirely "{a=show:show_chat_media}{image=kirely_pic_73}"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:4162
 translate zh_Hans kirely_storyline_88_f35df59c:
@@ -8448,7 +8448,7 @@ translate zh_Hans kirely_storyline_89_85af66bd:
 translate zh_Hans kirely_storyline_89_cbc24ca5:
 
     # nvljohn "{a=show:show_chat_media}{image=kirely_video_40_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=kirely_video_40_ns}"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:4247
 translate zh_Hans kirely_storyline_89_00b28aec:
@@ -8484,7 +8484,7 @@ translate zh_Hans kirely_storyline_89_4d272013:
 translate zh_Hans kirely_storyline_89_c8eb3eb6:
 
     # nvljohn "{a=show:show_chat_media}{image=kirely_video_41_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=kirely_video_41_ns}"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:4265
 translate zh_Hans kirely_storyline_89_3a9b4d06:
@@ -9434,7 +9434,7 @@ translate zh_Hans kirely_storyline_93_71879a9a:
 translate zh_Hans kirely_storyline_93_23077b2f:
 
     # nvljohn "{a=show:show_chat_media}{image=kirely_video_42_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=kirely_video_42_ns}"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:4715
 translate zh_Hans kirely_storyline_93_8bd1cee6:
@@ -9494,7 +9494,7 @@ translate zh_Hans kirely_storyline_93_a4dca815:
 translate zh_Hans kirely_storyline_93_c919ea84:
 
     # nvlkirely "{a=show:show_chat_media}{image=kirely_pic_74}"
-    nvlkirely ""
+    nvlkirely "{a=show:show_chat_media}{image=kirely_pic_74}"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:4737
 translate zh_Hans kirely_storyline_93_007cb391:
@@ -10620,7 +10620,7 @@ translate zh_Hans kirely_storyline_98_f7b444b5:
 translate zh_Hans kirely_storyline_98_0c1532b0:
 
     # nvljohn "{a=show:show_chat_media}{image=kirely_video_43_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=kirely_video_43_ns}"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:5288
 translate zh_Hans kirely_storyline_98_8fd28e79:
@@ -10662,7 +10662,7 @@ translate zh_Hans kirely_storyline_98_cbb5283a:
 translate zh_Hans kirely_storyline_98_584eccb7:
 
     # nvljohn "{a=show:show_chat_media}{image=kirely_video_44_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=kirely_video_44_ns}"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:5308
 translate zh_Hans kirely_storyline_98_646fc954:
@@ -10940,7 +10940,7 @@ translate zh_Hans kirely_storyline_99_b7ba23ce:
 translate zh_Hans kirely_storyline_99_0a645c97:
 
     # nvlkirely "😘"
-    nvlkirely ""
+    nvlkirely "😘|"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:5447
 translate zh_Hans kirely_storyline_99_53c71d7c:
@@ -12026,7 +12026,7 @@ translate zh_Hans kirely_storyline_105_0c771138:
 translate zh_Hans kirely_storyline_105_d83333d3:
 
     # nvljohn "{a=show:show_chat_media}{image=kirely_video_47_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=kirely_video_47_ns}"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:5999
 translate zh_Hans kirely_storyline_105_5736aae5:
@@ -12044,7 +12044,7 @@ translate zh_Hans kirely_storyline_105_c0b23dd2:
 translate zh_Hans kirely_storyline_105_22eb7a14:
 
     # nvljohn "{a=show:show_chat_media}{image=kirely_video_48_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=kirely_video_48_ns}"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:6011
 translate zh_Hans kirely_storyline_105_e7fc8a08:
@@ -12056,7 +12056,7 @@ translate zh_Hans kirely_storyline_105_e7fc8a08:
 translate zh_Hans kirely_storyline_105_8ca50a36:
 
     # nvlkirely "😳"
-    nvlkirely ""
+    nvlkirely "😳|"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:6015
 translate zh_Hans kirely_storyline_105_16b48c57:
@@ -12280,7 +12280,7 @@ translate zh_Hans kirely_storyline_106_f0583282:
 translate zh_Hans kirely_storyline_106_995da364:
 
     # nvljohn "😂"
-    nvljohn ""
+    nvljohn "😂|"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:6122
 translate zh_Hans kirely_storyline_106_efbc9cd8:
@@ -13298,7 +13298,7 @@ translate zh_Hans kirely_storyline_111_fc51445c:
 translate zh_Hans kirely_storyline_111_b8ada90b:
 
     # nvlkirely "{a=show:show_chat_media}{image=kirely_pic_75}"
-    nvlkirely ""
+    nvlkirely "{a=show:show_chat_media}{image=kirely_pic_75}"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:6625
 translate zh_Hans kirely_storyline_111_73ab6978:
@@ -13474,7 +13474,7 @@ translate zh_Hans kirely_storyline_112_2a5057a5:
 translate zh_Hans kirely_storyline_112_7dd8cd1e:
 
     # nvljohn "{a=show:show_chat_media}{image=kirely_video_49_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=kirely_video_49_ns}"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:6720
 translate zh_Hans kirely_storyline_112_7e534bfd:
@@ -15044,7 +15044,7 @@ translate zh_Hans kirely_storyline_120_4c3642d1:
 translate zh_Hans kirely_storyline_120_175d0c6c:
 
     # nvljohn "{a=show:show_chat_media}{image=kirely_video_51_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=kirely_video_51_ns}"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:7518
 translate zh_Hans kirely_storyline_120_d5760ad6:
@@ -16146,7 +16146,7 @@ translate zh_Hans kirely_storyline_125_db3fd5fe:
 translate zh_Hans kirely_storyline_125_f3bf3e2b:
 
     # nvlkirely "{a=show:show_chat_media}{image=kirely_pic_80}"
-    nvlkirely ""
+    nvlkirely "{a=show:show_chat_media}{image=kirely_pic_80}"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:8049
 translate zh_Hans kirely_storyline_125_fd951cb7:
@@ -16310,7 +16310,7 @@ translate zh_Hans kirely_storyline_126_1d80fd60:
 translate zh_Hans kirely_storyline_126_cd387165:
 
     # nvljohn "{a=show:show_chat_media}{image=kirely_video_52_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=kirely_video_52_ns}"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:8140
 translate zh_Hans kirely_storyline_126_00b28aec:

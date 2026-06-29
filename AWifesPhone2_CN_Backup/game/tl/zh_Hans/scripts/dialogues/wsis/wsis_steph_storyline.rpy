@@ -366,7 +366,7 @@ translate zh_Hans wsis_steph_storyline_39_f1c148d7:
 translate zh_Hans wsis_steph_storyline_39_1b884500:
 
     # nvljenna "{a=show:show_chat_media}{image=bbc_pic_81}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=bbc_pic_81}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:197
 translate zh_Hans wsis_steph_storyline_39_e424d7b4:
@@ -1316,7 +1316,7 @@ translate zh_Hans wsis_steph_storyline_43_7c35162f:
 translate zh_Hans wsis_steph_storyline_43_1b7c2505:
 
     # nvlwsis "{a=show:show_chat_media}{image=w_sister_pic_64}"
-    nvlwsis ""
+    nvlwsis "{a=show:show_chat_media}{image=w_sister_pic_64}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:643
 translate zh_Hans wsis_steph_storyline_43_c876a9be:
@@ -1364,7 +1364,7 @@ translate zh_Hans wsis_steph_storyline_43_4d7aa65c:
 translate zh_Hans wsis_steph_storyline_43_08fa7893:
 
     # nvlwsis "{a=show:show_chat_media}{image=w_sister_pic_67}"
-    nvlwsis ""
+    nvlwsis "{a=show:show_chat_media}{image=w_sister_pic_67}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:663
 translate zh_Hans wsis_steph_storyline_43_a659956a:
@@ -1504,7 +1504,7 @@ translate zh_Hans wsis_steph_storyline_44_08114963:
 translate zh_Hans wsis_steph_storyline_44_f7cf1f5f:
 
     # nvlsteph "{a=show:show_chat_media}{image=w_sister_video_1_ns}"
-    nvlsteph ""
+    nvlsteph "{a=show:show_chat_media}{image=w_sister_video_1_ns}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:742
 translate zh_Hans wsis_steph_storyline_44_833bdd92:
@@ -1522,7 +1522,7 @@ translate zh_Hans wsis_steph_storyline_44_63634ae1:
 translate zh_Hans wsis_steph_storyline_44_9691301d:
 
     # nvlsteph "{a=show:show_chat_media}{image=w_sister_video_2_ns}"
-    nvlsteph ""
+    nvlsteph "{a=show:show_chat_media}{image=w_sister_video_2_ns}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:752
 translate zh_Hans wsis_steph_storyline_44_c38aa550:
@@ -1968,7 +1968,7 @@ translate zh_Hans wsis_steph_storyline_45_fbc8fe60:
 translate zh_Hans wsis_steph_storyline_45_acd15f7d:
 
     # nvljenna "{a=show:show_chat_media}{image=bbc_pic_82}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=bbc_pic_82}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:932
 translate zh_Hans wsis_steph_storyline_45_67ea8721:
@@ -2312,7 +2312,7 @@ translate zh_Hans wsis_steph_storyline_46_845ebd33:
 translate zh_Hans wsis_steph_storyline_46_313362af:
 
     # nvljenna "{a=show:show_chat_media}{image=qos_pic_1}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=qos_pic_1}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:1085
 translate zh_Hans wsis_steph_storyline_46_a5db52f7:
@@ -2330,7 +2330,7 @@ translate zh_Hans wsis_steph_storyline_46_22e508c1:
 translate zh_Hans wsis_steph_storyline_46_1110372b:
 
     # nvljenna "{a=show:show_chat_media}{image=qos_pic_2}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=qos_pic_2}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:1095
 translate zh_Hans wsis_steph_storyline_46_c5a11fe3:
@@ -2420,7 +2420,7 @@ translate zh_Hans wsis_steph_storyline_46_b8d5651e:
 translate zh_Hans wsis_steph_storyline_46_313362af_1:
 
     # nvljenna "{a=show:show_chat_media}{image=qos_pic_1}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=qos_pic_1}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:1131
 translate zh_Hans wsis_steph_storyline_46_9e321699:
@@ -2438,7 +2438,7 @@ translate zh_Hans wsis_steph_storyline_46_2651561b:
 translate zh_Hans wsis_steph_storyline_46_1110372b_1:
 
     # nvljenna "{a=show:show_chat_media}{image=qos_pic_2}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=qos_pic_2}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:1141
 translate zh_Hans wsis_steph_storyline_46_4a7c0ec2:
@@ -2662,7 +2662,7 @@ translate zh_Hans wsis_steph_storyline_47_af9c6702:
 translate zh_Hans wsis_steph_storyline_47_1110372b:
 
     # nvljenna "{a=show:show_chat_media}{image=qos_pic_2}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=qos_pic_2}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:1265
 translate zh_Hans wsis_steph_storyline_47_8cbc59c3:
@@ -3434,7 +3434,7 @@ translate zh_Hans wsis_steph_storyline_49_7e180b28:
 translate zh_Hans wsis_steph_storyline_49_508406c9:
 
     # nvlsteph "{a=show:show_chat_media}{image=bbc_pic_84}"
-    nvlsteph ""
+    nvlsteph "{a=show:show_chat_media}{image=bbc_pic_84}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:1597
 translate zh_Hans wsis_steph_storyline_49_56ef62be:
@@ -4516,7 +4516,7 @@ translate zh_Hans wsis_steph_storyline_54_76b2fe88:
 translate zh_Hans wsis_steph_storyline_54_33c71fe4:
 
     # nvlsteph "{a=show:show_chat_media}{image=w_sister_video_5_ns}"
-    nvlsteph ""
+    nvlsteph "{a=show:show_chat_media}{image=w_sister_video_5_ns}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:2115
 translate zh_Hans wsis_steph_storyline_54_f02e8520:
@@ -4534,7 +4534,7 @@ translate zh_Hans wsis_steph_storyline_54_b429515e:
 translate zh_Hans wsis_steph_storyline_54_b8c1c880:
 
     # nvlsteph "{a=show:show_chat_media}{image=w_sister_video_6_ns}"
-    nvlsteph ""
+    nvlsteph "{a=show:show_chat_media}{image=w_sister_video_6_ns}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:2125
 translate zh_Hans wsis_steph_storyline_54_0dc7f950:
@@ -4552,7 +4552,7 @@ translate zh_Hans wsis_steph_storyline_54_7909e662:
 translate zh_Hans wsis_steph_storyline_54_2980377a:
 
     # nvlsteph "{a=show:show_chat_media}{image=w_sister_video_7_ns}"
-    nvlsteph ""
+    nvlsteph "{a=show:show_chat_media}{image=w_sister_video_7_ns}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:2135
 translate zh_Hans wsis_steph_storyline_54_00d2f6f5:
@@ -4980,7 +4980,7 @@ translate zh_Hans wsis_steph_storyline_55_431ce559:
 translate zh_Hans wsis_steph_storyline_55_e78515e6:
 
     # nvlivar "{a=show:show_chat_media}{image=white_pic_2}"
-    nvlivar ""
+    nvlivar "{a=show:show_chat_media}{image=white_pic_2}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:2309
 translate zh_Hans wsis_steph_storyline_55_df72e9eb:
@@ -5058,7 +5058,7 @@ translate zh_Hans wsis_steph_storyline_55_3a7187a4:
 translate zh_Hans wsis_steph_storyline_55_e246ea6c:
 
     # nvlwsis "{a=show:show_chat_media}{image=w_sister_pic_80}"
-    nvlwsis ""
+    nvlwsis "{a=show:show_chat_media}{image=w_sister_pic_80}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:2339
 translate zh_Hans wsis_steph_storyline_55_825db7f3:
@@ -5094,7 +5094,7 @@ translate zh_Hans wsis_steph_storyline_55_1d2cfe10:
 translate zh_Hans wsis_steph_storyline_55_dd02fbdf:
 
     # nvlwsis "{a=show:show_chat_media}{image=w_sister_pic_68}"
-    nvlwsis ""
+    nvlwsis "{a=show:show_chat_media}{image=w_sister_pic_68}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:2355
 translate zh_Hans wsis_steph_storyline_55_db598318:
@@ -5468,7 +5468,7 @@ translate zh_Hans wsis_steph_storyline_56_a05bcad5:
 translate zh_Hans wsis_steph_storyline_56_284c7975:
 
     # nvljenna "{a=show:show_chat_media}{image=bbc_pic_85}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=bbc_pic_85}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:2511
 translate zh_Hans wsis_steph_storyline_56_fa05b834:
@@ -15134,7 +15134,7 @@ translate zh_Hans wsis_steph_storyline_89_58fdd1ef:
 translate zh_Hans wsis_steph_storyline_89_1683eacd:
 
     # nvljenna "{a=show:show_chat_media}{image=bbc_video_103_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=bbc_video_103_ns}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:6838
 translate zh_Hans wsis_steph_storyline_89_56bdf92e:
@@ -15250,7 +15250,7 @@ translate zh_Hans wsis_steph_storyline_90_9fb3dc0a:
 translate zh_Hans wsis_steph_storyline_90_0aa44c08:
 
     # nvlsteph "{a=show:show_chat_media}{image=bbc_pic_288}"
-    nvlsteph ""
+    nvlsteph "{a=show:show_chat_media}{image=bbc_pic_288}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:6911
 translate zh_Hans wsis_steph_storyline_90_4ea64f88:
@@ -15626,7 +15626,7 @@ translate zh_Hans wsis_steph_storyline_93_d9e55170:
 translate zh_Hans wsis_steph_storyline_93_5cd5fba1:
 
     # nvlwsis "{a=show:show_chat_media}{image=w_sister_video_32_ns}"
-    nvlwsis ""
+    nvlwsis "{a=show:show_chat_media}{image=w_sister_video_32_ns}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:7136
 translate zh_Hans wsis_steph_storyline_93_5f89868c:
@@ -15906,7 +15906,7 @@ translate zh_Hans wsis_steph_storyline_95_f9644239:
 translate zh_Hans wsis_steph_storyline_95_e75b2f04:
 
     # nvlwsis "{a=show:show_chat_media}{image=w_sister_video_33_ns}"
-    nvlwsis ""
+    nvlwsis "{a=show:show_chat_media}{image=w_sister_video_33_ns}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:7294
 translate zh_Hans wsis_steph_storyline_95_9ea36814:
@@ -16262,7 +16262,7 @@ translate zh_Hans wsis_steph_storyline_99_369bee8a:
 translate zh_Hans wsis_steph_storyline_99_4ff61c29:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_306_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_306_ns}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:7542
 translate zh_Hans wsis_steph_storyline_99_b75d8819:
@@ -16310,7 +16310,7 @@ translate zh_Hans wsis_steph_storyline_99_dd4115e1:
 translate zh_Hans wsis_steph_storyline_99_f93ee8a2:
 
     # nvlwife "{a=show:show_chat_media}{image=w_sister_video_34_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=w_sister_video_34_ns}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:7562
 translate zh_Hans wsis_steph_storyline_99_cf6c2ff4:
@@ -16420,7 +16420,7 @@ translate zh_Hans wsis_steph_storyline_100_bfedb0b6:
 translate zh_Hans wsis_steph_storyline_100_704cdef3:
 
     # nvljohn "{a=show:show_chat_media}{image=w_sister_video_34_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=w_sister_video_34_ns}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:7631
 translate zh_Hans wsis_steph_storyline_100_b0ba25c5:
@@ -16646,7 +16646,7 @@ translate zh_Hans wsis_steph_storyline_102_3d3ca1d6:
 translate zh_Hans wsis_steph_storyline_102_038add76:
 
     # nvlivar "{a=show:show_chat_media}{image=w_sister_video_35_ns}"
-    nvlivar ""
+    nvlivar "{a=show:show_chat_media}{image=w_sister_video_35_ns}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:7775
 translate zh_Hans wsis_steph_storyline_102_44408e06:
@@ -16866,7 +16866,7 @@ translate zh_Hans wsis_steph_storyline_104_cbb263c9:
 translate zh_Hans wsis_steph_storyline_104_31cc2b03:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_25_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_video_25_ns}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:7915
 translate zh_Hans wsis_steph_storyline_104_9610ff4f:
@@ -17608,7 +17608,7 @@ translate zh_Hans wsis_steph_storyline_109_eb7a3f4b:
 translate zh_Hans wsis_steph_storyline_109_237b9ccf:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_26_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_video_26_ns}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:8318
 translate zh_Hans wsis_steph_storyline_109_248dc17d:
@@ -17730,7 +17730,7 @@ translate zh_Hans wsis_steph_storyline_110_a04d2a69:
 translate zh_Hans wsis_steph_storyline_110_7a4bf2e2:
 
     # nvlivar "{a=show:show_chat_media}{image=w_sister_video_36_ns}"
-    nvlivar ""
+    nvlivar "{a=show:show_chat_media}{image=w_sister_video_36_ns}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:8393
 translate zh_Hans wsis_steph_storyline_110_3262e4c0:
@@ -17992,7 +17992,7 @@ translate zh_Hans wsis_steph_storyline_112_8d4d7611:
 translate zh_Hans wsis_steph_storyline_112_e246ea6c:
 
     # nvlwsis "{a=show:show_chat_media}{image=w_sister_pic_80}"
-    nvlwsis ""
+    nvlwsis "{a=show:show_chat_media}{image=w_sister_pic_80}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:8549
 translate zh_Hans wsis_steph_storyline_112_7a29ba87:
@@ -18004,7 +18004,7 @@ translate zh_Hans wsis_steph_storyline_112_7a29ba87:
 translate zh_Hans wsis_steph_storyline_112_1dd0c117:
 
     # nvlwsis "{a=show:show_chat_media}{image=w_sister_pic_74}"
-    nvlwsis ""
+    nvlwsis "{a=show:show_chat_media}{image=w_sister_pic_74}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:8559
 translate zh_Hans wsis_steph_storyline_112_e41a4c01:
@@ -18034,7 +18034,7 @@ translate zh_Hans wsis_steph_storyline_112_9db9e622:
 translate zh_Hans wsis_steph_storyline_112_c12ac4ee:
 
     # nvlwsis "{a=show:show_chat_media}{image=w_sister_pic_120}"
-    nvlwsis ""
+    nvlwsis "{a=show:show_chat_media}{image=w_sister_pic_120}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:8573
 translate zh_Hans wsis_steph_storyline_112_b95c6478:
@@ -18070,7 +18070,7 @@ translate zh_Hans wsis_steph_storyline_112_0d439a32:
 translate zh_Hans wsis_steph_storyline_112_0abe3b22:
 
     # nvlleon "{a=show:show_chat_media}{image=leon_pic_1}"
-    nvlleon ""
+    nvlleon "{a=show:show_chat_media}{image=leon_pic_1}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:8589
 translate zh_Hans wsis_steph_storyline_112_7e8d499d:
@@ -18088,7 +18088,7 @@ translate zh_Hans wsis_steph_storyline_112_4c187e75:
 translate zh_Hans wsis_steph_storyline_112_4c524b1a:
 
     # nvlleon "{a=show:show_chat_media}{image=leon_pic_2}"
-    nvlleon ""
+    nvlleon "{a=show:show_chat_media}{image=leon_pic_2}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:8599
 translate zh_Hans wsis_steph_storyline_112_653941de:
@@ -18160,7 +18160,7 @@ translate zh_Hans wsis_steph_storyline_113_9d762b49:
 translate zh_Hans wsis_steph_storyline_113_015959da:
 
     # nvlwsis "{a=show:show_chat_media}{image=leon_pic_1}"
-    nvlwsis ""
+    nvlwsis "{a=show:show_chat_media}{image=leon_pic_1}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:8657
 translate zh_Hans wsis_steph_storyline_113_bab1adca:
@@ -18178,7 +18178,7 @@ translate zh_Hans wsis_steph_storyline_113_5e9bbf73:
 translate zh_Hans wsis_steph_storyline_113_17221f1d:
 
     # nvlwsis "{a=show:show_chat_media}{image=leon_pic_2}"
-    nvlwsis ""
+    nvlwsis "{a=show:show_chat_media}{image=leon_pic_2}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:8666
 translate zh_Hans wsis_steph_storyline_113_b0893b7c:
@@ -18276,7 +18276,7 @@ translate zh_Hans wsis_steph_storyline_114_02b0b9f8:
 translate zh_Hans wsis_steph_storyline_114_015959da:
 
     # nvlwsis "{a=show:show_chat_media}{image=leon_pic_1}"
-    nvlwsis ""
+    nvlwsis "{a=show:show_chat_media}{image=leon_pic_1}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:8731
 translate zh_Hans wsis_steph_storyline_114_cf91bc5a:
@@ -18294,7 +18294,7 @@ translate zh_Hans wsis_steph_storyline_114_e243cde0:
 translate zh_Hans wsis_steph_storyline_114_17221f1d:
 
     # nvlwsis "{a=show:show_chat_media}{image=leon_pic_2}"
-    nvlwsis ""
+    nvlwsis "{a=show:show_chat_media}{image=leon_pic_2}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:8739
 translate zh_Hans wsis_steph_storyline_114_f0d294e3:
@@ -19576,7 +19576,7 @@ translate zh_Hans wsis_steph_storyline_122_359f1e5b:
 translate zh_Hans wsis_steph_storyline_122_fa60cfb8:
 
     # nvlleon "{a=show:show_chat_media}{image=leon_video_1_ns}"
-    nvlleon ""
+    nvlleon "{a=show:show_chat_media}{image=leon_video_1_ns}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:9413
 translate zh_Hans wsis_steph_storyline_122_3b6fa061:
@@ -19698,7 +19698,7 @@ translate zh_Hans wsis_steph_storyline_123_cb3e4f41:
 translate zh_Hans wsis_steph_storyline_123_1567c37d:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_151_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_151_ns}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:9490
 translate zh_Hans wsis_steph_storyline_123_4722b12c:
@@ -19814,19 +19814,19 @@ translate zh_Hans wsis_steph_storyline_124_be4d9499:
 translate zh_Hans wsis_steph_storyline_124_a8a3a37b:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_841}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_841}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:9562
 translate zh_Hans wsis_steph_storyline_124_49089cd4:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_709}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_709}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:9566
 translate zh_Hans wsis_steph_storyline_124_4d2ecc10:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_713}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_713}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:9572
 translate zh_Hans wsis_steph_storyline_124_7ebbb2db:
@@ -19880,7 +19880,7 @@ translate zh_Hans wsis_steph_storyline_124_92c4ce89:
 translate zh_Hans wsis_steph_storyline_124_0b547c4b:
 
     # nvlwife "{a=show:show_chat_media}{image=w_sister_pic_165}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=w_sister_pic_165}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:9603
 translate zh_Hans wsis_steph_storyline_124_836d0019:
@@ -19922,7 +19922,7 @@ translate zh_Hans wsis_steph_storyline_124_1cf3962c:
 translate zh_Hans wsis_steph_storyline_124_545cb427:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_149_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_149_ns}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:9621
 translate zh_Hans wsis_steph_storyline_124_0a43e2a0:
@@ -20026,7 +20026,7 @@ translate zh_Hans wsis_steph_storyline_125_ba313926:
 translate zh_Hans wsis_steph_storyline_125_34471091:
 
     # nvlwsis "{a=show:show_chat_media}{image=w_sister_pic_166}"
-    nvlwsis ""
+    nvlwsis "{a=show:show_chat_media}{image=w_sister_pic_166}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:9692
 translate zh_Hans wsis_steph_storyline_125_296e2d62:
@@ -20500,7 +20500,7 @@ translate zh_Hans wsis_steph_storyline_128_ed749b6d:
 translate zh_Hans wsis_steph_storyline_128_b373cad9:
 
     # nvlleon "{a=show:show_chat_media}{image=bbc_video_61_ns}"
-    nvlleon ""
+    nvlleon "{a=show:show_chat_media}{image=bbc_video_61_ns}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:9957
 translate zh_Hans wsis_steph_storyline_128_b7ea515f:
@@ -21210,7 +21210,7 @@ translate zh_Hans wsis_steph_storyline_133_01bb0876:
 translate zh_Hans wsis_steph_storyline_133_fea390ad:
 
     # nvlwsis "{a=show:show_chat_media}{image=w_sister_video_38_ns}"
-    nvlwsis ""
+    nvlwsis "{a=show:show_chat_media}{image=w_sister_video_38_ns}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:10354
 translate zh_Hans wsis_steph_storyline_133_ab597413:
@@ -21428,7 +21428,7 @@ translate zh_Hans wsis_steph_storyline_134_fd9d44ba:
 translate zh_Hans wsis_steph_storyline_134_dea9c951:
 
     # nvlsteph "{a=show:show_chat_media}{image=bbc_video_56_ns}"
-    nvlsteph ""
+    nvlsteph "{a=show:show_chat_media}{image=bbc_video_56_ns}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:10461
 translate zh_Hans wsis_steph_storyline_134_b65264aa:
@@ -21600,7 +21600,7 @@ translate zh_Hans wsis_steph_storyline_136_bcc55859:
 translate zh_Hans wsis_steph_storyline_136_63ec9fa5:
 
     # nvlleon "{a=show:show_chat_media}{image=w_sister_video_39_ns}"
-    nvlleon ""
+    nvlleon "{a=show:show_chat_media}{image=w_sister_video_39_ns}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:10585
 translate zh_Hans wsis_steph_storyline_136_40b20629:
@@ -21782,7 +21782,7 @@ translate zh_Hans wsis_steph_storyline_137_b916a2ea:
 translate zh_Hans wsis_steph_storyline_137_6a3cad9a:
 
     # nvlwsis "{a=show:show_chat_media}{image=w_sister_video_39_ns}"
-    nvlwsis ""
+    nvlwsis "{a=show:show_chat_media}{image=w_sister_video_39_ns}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:10680
 translate zh_Hans wsis_steph_storyline_137_6e313d76:
@@ -23494,7 +23494,7 @@ translate zh_Hans wsis_steph_storyline_148_8a11e23a:
 translate zh_Hans wsis_steph_storyline_148_8c16b53c:
 
     # nvljenna "{a=show:show_chat_media}{image=w_sister_pic_167}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=w_sister_pic_167}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:11631
 translate zh_Hans wsis_steph_storyline_148_fd463ea3:
@@ -23828,7 +23828,7 @@ translate zh_Hans wsis_steph_storyline_150_1417f8be:
 translate zh_Hans wsis_steph_storyline_150_27423ad5:
 
     # nvljenna "{a=show:show_chat_media}{image=w_sister_video_40_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=w_sister_video_40_ns}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:11831
 translate zh_Hans wsis_steph_storyline_150_724ec87c:
@@ -24646,7 +24646,7 @@ translate zh_Hans wsis_steph_storyline_154_beb0ecac:
 translate zh_Hans wsis_steph_storyline_154_04483913:
 
     # nvlsteph "{a=show:show_chat_media}{image=w_sister_video_41_ns}"
-    nvlsteph ""
+    nvlsteph "{a=show:show_chat_media}{image=w_sister_video_41_ns}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:12279
 translate zh_Hans wsis_steph_storyline_154_8fbe3227:
@@ -24792,7 +24792,7 @@ translate zh_Hans wsis_steph_storyline_155_a106970a:
 translate zh_Hans wsis_steph_storyline_155_0429c5b8:
 
     # nvlsteph "{a=show:show_chat_media}{image=w_sister_video_42_ns}"
-    nvlsteph ""
+    nvlsteph "{a=show:show_chat_media}{image=w_sister_video_42_ns}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:12374
 translate zh_Hans wsis_steph_storyline_155_2dbde6bc:
@@ -25004,7 +25004,7 @@ translate zh_Hans wsis_steph_storyline_156_0e552816:
 translate zh_Hans wsis_steph_storyline_156_47ec446d:
 
     # nvljohn "{a=show:show_chat_media}{image=w_sister_video_41_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=w_sister_video_41_ns}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:12479
 translate zh_Hans wsis_steph_storyline_156_08b6fbe8:
@@ -25046,7 +25046,7 @@ translate zh_Hans wsis_steph_storyline_156_ba77169a:
 translate zh_Hans wsis_steph_storyline_156_9d3b9a69:
 
     # nvljohn "{a=show:show_chat_media}{image=w_sister_video_42_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=w_sister_video_42_ns}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:12495
 translate zh_Hans wsis_steph_storyline_156_8f62f73d:
@@ -25336,7 +25336,7 @@ translate zh_Hans wsis_steph_storyline_157_0c3f2d99:
 translate zh_Hans wsis_steph_storyline_157_9d3b9a69:
 
     # nvljohn "{a=show:show_chat_media}{image=w_sister_video_42_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=w_sister_video_42_ns}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:12649
 translate zh_Hans wsis_steph_storyline_157_d813ba41:
@@ -26068,7 +26068,7 @@ translate zh_Hans wsis_steph_storyline_160_9a100f78:
 translate zh_Hans wsis_steph_storyline_160_54bc31f4:
 
     # nvlsteph "{a=show:show_chat_media}{image=w_sister_video_43_ns}"
-    nvlsteph ""
+    nvlsteph "{a=show:show_chat_media}{image=w_sister_video_43_ns}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:13026
 translate zh_Hans wsis_steph_storyline_160_54fb646f:
@@ -26146,7 +26146,7 @@ translate zh_Hans wsis_steph_storyline_160_922b09b7:
 translate zh_Hans wsis_steph_storyline_160_cfd7d303:
 
     # nvlsteph "{a=show:show_chat_media}{image=w_sister_video_44_ns}"
-    nvlsteph ""
+    nvlsteph "{a=show:show_chat_media}{image=w_sister_video_44_ns}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:13056
 translate zh_Hans wsis_steph_storyline_160_6776a699:
@@ -26268,13 +26268,13 @@ translate zh_Hans wsis_steph_storyline_161_789f1647:
 translate zh_Hans wsis_steph_storyline_161_a1adf7de:
 
     # nvljohn "{a=show:show_chat_media}{image=w_sister_video_43_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=w_sister_video_43_ns}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:13133
 translate zh_Hans wsis_steph_storyline_161_8e9b1361:
 
     # nvljohn "{a=show:show_chat_media}{image=w_sister_video_44_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=w_sister_video_44_ns}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:13135
 translate zh_Hans wsis_steph_storyline_161_a5f0e4e6:
@@ -26756,7 +26756,7 @@ translate zh_Hans wsis_steph_storyline_163_384096ae:
 translate zh_Hans wsis_steph_storyline_163_e6638e67:
 
     # nvlsteph "{a=show:show_chat_media}{image=w_sister_pic_168}"
-    nvlsteph ""
+    nvlsteph "{a=show:show_chat_media}{image=w_sister_pic_168}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:13385
 translate zh_Hans wsis_steph_storyline_163_60bb5741:
@@ -27264,7 +27264,7 @@ translate zh_Hans wsis_steph_storyline_165_79ffe63c:
 translate zh_Hans wsis_steph_storyline_165_cf64b4c7:
 
     # nvljohn "{a=show:show_chat_media}{image=w_sister_pic_168}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=w_sister_pic_168}"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:13634
 translate zh_Hans wsis_steph_storyline_165_a2194c6f:

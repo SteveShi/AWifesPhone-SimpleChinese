@@ -2456,7 +2456,7 @@ translate zh_Hans salim_new_storyline_10_232f3ed3:
 translate zh_Hans salim_new_storyline_10_1d0cb64f:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_5}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_5}"
 
 # game/scripts/dialogues/salim_storyline.rpy:1256
 translate zh_Hans salim_new_storyline_10_e96089f6:
@@ -2662,7 +2662,7 @@ translate zh_Hans salim_new_storyline_11_b446c906:
 translate zh_Hans salim_new_storyline_11_94f8a819:
 
     # nvlsalim "{a=show:show_chat_media}{image=wife_pic_6}"
-    nvlsalim ""
+    nvlsalim "{a=show:show_chat_media}{image=wife_pic_6}"
 
 # game/scripts/dialogues/salim_storyline.rpy:1359
 translate zh_Hans salim_new_storyline_11_ad4e201c:
@@ -3772,7 +3772,7 @@ translate zh_Hans salim_new_storyline_17_69a54a34:
 translate zh_Hans salim_new_storyline_17_baa0792a:
 
     # nvlsalim "{a=show:show_chat_media}{image=wife_pic_7}"
-    nvlsalim ""
+    nvlsalim "{a=show:show_chat_media}{image=wife_pic_7}"
 
 # game/scripts/dialogues/salim_storyline.rpy:1943
 translate zh_Hans salim_new_storyline_17_4b92878c:
@@ -5460,7 +5460,7 @@ translate zh_Hans salim_new_storyline_27_c74c3af5:
 translate zh_Hans salim_new_storyline_27_32339daa:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_pic_8}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=wife_pic_8}"
 
 # game/scripts/dialogues/salim_storyline.rpy:2848
 translate zh_Hans salim_new_storyline_27_7c3f183a:
@@ -6574,7 +6574,7 @@ translate zh_Hans salim_new_storyline_32_36f9ea1d:
 translate zh_Hans salim_new_storyline_32_d8eb4447:
 
     # nvlsalim "{a=show:show_chat_media}{image=wife_pic_9}"
-    nvlsalim ""
+    nvlsalim "{a=show:show_chat_media}{image=wife_pic_9}"
 
 # game/scripts/dialogues/salim_storyline.rpy:3389
 translate zh_Hans salim_new_storyline_32_0a7766ac:
@@ -7264,7 +7264,7 @@ translate zh_Hans salim_new_storyline_35_8aa912f0:
 translate zh_Hans salim_new_storyline_35_11da8928:
 
     # nvlsalim "{a=show:show_chat_media}{image=wife_pic_10}"
-    nvlsalim ""
+    nvlsalim "{a=show:show_chat_media}{image=wife_pic_10}"
 
 # game/scripts/dialogues/salim_storyline.rpy:3729
 translate zh_Hans salim_new_storyline_35_a5e3fb4f:
@@ -7416,7 +7416,7 @@ translate zh_Hans salim_new_storyline_36_e5fc1594:
 translate zh_Hans salim_new_storyline_36_f857fbdd:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_15_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=wife_video_15_ns}"
 
 # game/scripts/dialogues/salim_storyline.rpy:3814
 translate zh_Hans salim_new_storyline_36_0b6e568b:

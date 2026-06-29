@@ -1276,7 +1276,7 @@ translate zh_Hans new_main_christmass_phone_0_2_da5edfe4:
 translate zh_Hans new_main_christmass_phone_0_2_66d874ae:
 
     # nvljohn "{image=smile_emoji.png}"
-    nvljohn ""
+    nvljohn "{image=smile_emoji.png}"
 
 # xmas content/new_christmass_phone_0_2.rpy:497
 translate zh_Hans new_main_christmass_phone_0_2_76b2fe88_9:
@@ -1540,7 +1540,7 @@ translate zh_Hans new_main_christmass_phone_0_2_2_efa04b4a:
 translate zh_Hans new_main_christmass_phone_0_2_2_a70aaf77:
 
     # nvlwife "Then decide where we will go {image=smile_emoji.png}" nointeract
-    nvlwife "Then decide where we will go {image=smile_emoji.png}" nointeract
+    nvlwife "那就决定我们去哪儿吧 {image=smile_emoji.png}" nointeract
 
 # xmas content/new_christmass_phone_0_2.rpy:624
 translate zh_Hans new_main_christmass_phone_0_2_2_0a7214ae:
@@ -1636,7 +1636,7 @@ translate zh_Hans new_main_christmass_phone_0_2_2_ead53cae:
 translate zh_Hans new_main_christmass_phone_0_2_2_66d874ae:
 
     # nvljohn "{image=smile_emoji.png}"
-    nvljohn ""
+    nvljohn "{image=smile_emoji.png}"
 
 # xmas content/new_christmass_phone_0_2.rpy:661
 translate zh_Hans new_main_christmass_phone_0_2_2_18eab97f:
@@ -1690,7 +1690,7 @@ translate zh_Hans new_main_christmass_phone_0_2_2_c4c60692:
 translate zh_Hans new_main_christmass_phone_0_2_2_66d874ae_1:
 
     # nvljohn "{image=smile_emoji.png}"
-    nvljohn ""
+    nvljohn "{image=smile_emoji.png}"
 
 # xmas content/new_christmass_phone_0_2.rpy:679
 translate zh_Hans new_main_christmass_phone_0_2_2_30097461:
@@ -1894,7 +1894,7 @@ translate zh_Hans new_main_christmass_phone_0_2_2_6c5de749:
 translate zh_Hans new_main_christmass_phone_0_2_2_66d874ae_2:
 
     # nvljohn "{image=smile_emoji.png}"
-    nvljohn ""
+    nvljohn "{image=smile_emoji.png}"
 
 # xmas content/new_christmass_phone_0_2.rpy:755
 translate zh_Hans new_main_christmass_phone_0_2_2_c3b85dd7:
@@ -2044,7 +2044,7 @@ translate zh_Hans new_main_christmass_phone_0_2_2_89bceccd:
 translate zh_Hans new_main_christmass_phone_0_2_2_2d566fda:
 
     # nvlwife "{image=smile_emoji.png}"
-    nvlwife ""
+    nvlwife "{image=smile_emoji.png}"
 
 # xmas content/new_christmass_phone_0_2.rpy:809
 translate zh_Hans new_main_christmass_phone_0_2_2_544a9304:
@@ -2194,7 +2194,7 @@ translate zh_Hans new_main_christmass_phone_0_2_2_88f8d240:
 translate zh_Hans new_main_christmass_phone_0_2_2_66d874ae_3:
 
     # nvljohn "{image=smile_emoji.png}"
-    nvljohn ""
+    nvljohn "{image=smile_emoji.png}"
 
 # xmas content/new_christmass_phone_0_2.rpy:859
 translate zh_Hans new_main_christmass_phone_0_2_2_a3393b30:
@@ -2536,7 +2536,7 @@ translate zh_Hans new_main_christmass_phone_0_2_2_cde08c75:
 translate zh_Hans new_main_christmass_phone_0_2_2_66d874ae_4:
 
     # nvljohn "{image=smile_emoji.png}"
-    nvljohn ""
+    nvljohn "{image=smile_emoji.png}"
 
 # xmas content/new_christmass_phone_0_2.rpy:1016
 translate zh_Hans new_main_christmass_phone_0_2_2_822cda9a:
@@ -2752,7 +2752,7 @@ translate zh_Hans new_main_christmass_phone_0_2_2_3273b5c9:
 translate zh_Hans new_main_christmass_phone_0_2_2_66d874ae_5:
 
     # nvljohn "{image=smile_emoji.png}"
-    nvljohn ""
+    nvljohn "{image=smile_emoji.png}"
 
 # xmas content/new_christmass_phone_0_2.rpy:1097
 translate zh_Hans new_main_christmass_phone_0_2_2_36e75bf5:
@@ -2770,7 +2770,7 @@ translate zh_Hans new_main_christmass_phone_0_2_2_e163e4e1:
 translate zh_Hans new_main_christmass_phone_0_2_2_6d987f88:
 
     # nvlwife "{image=love_emoji.png}"
-    nvlwife ""
+    nvlwife "{image=love_emoji.png}"
 
 # xmas content/new_christmass_phone_0_2.rpy:1104
 translate zh_Hans new_main_christmass_phone_0_2_2_76b2fe88_5:
@@ -3052,7 +3052,7 @@ translate zh_Hans new_main_christmass_phone_0_2_2_b8bdbe1d:
 translate zh_Hans new_main_christmass_phone_0_2_2_66d874ae_6:
 
     # nvljohn "{image=smile_emoji.png}"
-    nvljohn ""
+    nvljohn "{image=smile_emoji.png}"
 
 # xmas content/new_christmass_phone_0_2.rpy:1219
 translate zh_Hans new_main_christmass_phone_0_2_2_267f90de:
@@ -3604,7 +3604,7 @@ translate zh_Hans new_main_christmass_phone_0_2_2_a9777103:
 translate zh_Hans new_main_christmass_phone_0_2_2_66d874ae_7:
 
     # nvljohn "{image=smile_emoji.png}"
-    nvljohn ""
+    nvljohn "{image=smile_emoji.png}"
 
 # xmas content/new_christmass_phone_0_2.rpy:1427
 translate zh_Hans new_main_christmass_phone_0_2_2_f346d7b6:
@@ -3712,7 +3712,7 @@ translate zh_Hans new_main_christmass_phone_0_2_2_9248f93f:
 translate zh_Hans new_main_christmass_phone_0_2_2_66d874ae_8:
 
     # nvljohn "{image=smile_emoji.png}"
-    nvljohn ""
+    nvljohn "{image=smile_emoji.png}"
 
 # xmas content/new_christmass_phone_0_2.rpy:1463
 translate zh_Hans new_main_christmass_phone_0_2_2_78ba47a0:
@@ -4042,7 +4042,7 @@ translate zh_Hans new_main_christmass_phone_0_2_2_df398e32:
 translate zh_Hans new_main_christmass_phone_0_2_2_66d874ae_9:
 
     # nvljohn "{image=smile_emoji.png}"
-    nvljohn ""
+    nvljohn "{image=smile_emoji.png}"
 
 # xmas content/new_christmass_phone_0_2.rpy:1625
 translate zh_Hans new_main_christmass_phone_0_2_2_7119a54e:
@@ -5278,7 +5278,7 @@ translate zh_Hans new_main_christmass_phone_0_2_2_0dc7e06e:
 translate zh_Hans new_main_christmass_phone_0_2_2_66d874ae_10:
 
     # nvljohn "{image=smile_emoji.png}"
-    nvljohn ""
+    nvljohn "{image=smile_emoji.png}"
 
 # xmas content/new_christmass_phone_0_2.rpy:2120
 translate zh_Hans new_main_christmass_phone_0_2_2_0b86828c:
@@ -5368,7 +5368,7 @@ translate zh_Hans new_main_christmass_phone_0_2_2_dc6bc557:
 translate zh_Hans new_main_christmass_phone_0_2_2_66d874ae_11:
 
     # nvljohn "{image=smile_emoji.png}"
-    nvljohn ""
+    nvljohn "{image=smile_emoji.png}"
 
 # xmas content/new_christmass_phone_0_2.rpy:2164
 translate zh_Hans new_main_christmass_phone_0_2_2_7017e1d3:

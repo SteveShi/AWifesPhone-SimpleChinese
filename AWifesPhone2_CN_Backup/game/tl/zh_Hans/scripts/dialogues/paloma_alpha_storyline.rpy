@@ -1150,7 +1150,7 @@ translate zh_Hans paloma_alpha_storyline_6_0c3e5917:
 translate zh_Hans paloma_alpha_storyline_6_846d811b:
 
     # nvlpaloma "{a=show:show_chat_media}{image=paloma_pic_1}"
-    nvlpaloma ""
+    nvlpaloma "{a=show:show_chat_media}{image=paloma_pic_1}"
 
 # game/scripts/dialogues/paloma_alpha_storyline.rpy:610
 translate zh_Hans paloma_alpha_storyline_6_0ae052b5:
@@ -1386,7 +1386,7 @@ translate zh_Hans paloma_alpha_storyline_7_23f23c12:
 translate zh_Hans paloma_alpha_storyline_7_c6201a6f:
 
     # nvlpaloma "{a=show:show_chat_media}{image=paloma_pic_2}"
-    nvlpaloma ""
+    nvlpaloma "{a=show:show_chat_media}{image=paloma_pic_2}"
 
 # game/scripts/dialogues/paloma_alpha_storyline.rpy:725
 translate zh_Hans paloma_alpha_storyline_7_177679b6:
@@ -2472,7 +2472,7 @@ translate zh_Hans paloma_alpha_storyline_13_a932eabc:
 translate zh_Hans paloma_alpha_storyline_13_a5d4f659:
 
     # nvlpaloma "{a=show:show_chat_media}{image=paloma_pic_3}"
-    nvlpaloma ""
+    nvlpaloma "{a=show:show_chat_media}{image=paloma_pic_3}"
 
 # game/scripts/dialogues/paloma_alpha_storyline.rpy:1285
 translate zh_Hans paloma_alpha_storyline_13_de74ffaf:
@@ -2824,7 +2824,7 @@ translate zh_Hans paloma_alpha_storyline_15_d993c6e8:
 translate zh_Hans paloma_alpha_storyline_15_c3072343:
 
     # nvlpaloma "{a=show:show_chat_media}{image=paloma_pic_4}"
-    nvlpaloma ""
+    nvlpaloma "{a=show:show_chat_media}{image=paloma_pic_4}"
 
 # game/scripts/dialogues/paloma_alpha_storyline.rpy:1471
 translate zh_Hans paloma_alpha_storyline_15_9f5a3384:
@@ -3144,7 +3144,7 @@ translate zh_Hans paloma_alpha_storyline_16_14d6e70e:
 translate zh_Hans paloma_alpha_storyline_16_0617663b:
 
     # nvlpaloma "{a=show:show_chat_media}{image=paloma_video_1_ns}"
-    nvlpaloma ""
+    nvlpaloma "{a=show:show_chat_media}{image=paloma_video_1_ns}"
 
 # game/scripts/dialogues/paloma_alpha_storyline.rpy:1614
 translate zh_Hans paloma_alpha_storyline_16_855bb1aa:
@@ -3236,7 +3236,7 @@ translate zh_Hans paloma_alpha_storyline_17_9d0b1d90:
 translate zh_Hans paloma_alpha_storyline_17_783eafb8:
 
     # nvlpaloma "{a=show:show_chat_media}{image=paloma_pic_5}"
-    nvlpaloma ""
+    nvlpaloma "{a=show:show_chat_media}{image=paloma_pic_5}"
 
 # game/scripts/dialogues/paloma_alpha_storyline.rpy:1681
 translate zh_Hans paloma_alpha_storyline_17_55ecb2ae:
@@ -3624,7 +3624,7 @@ translate zh_Hans paloma_alpha_storyline_19_2dc81fae:
 translate zh_Hans paloma_alpha_storyline_19_7775a6a8:
 
     # nvlpaloma "{a=show:show_chat_media}{image=paloma_pic_6}"
-    nvlpaloma ""
+    nvlpaloma "{a=show:show_chat_media}{image=paloma_pic_6}"
 
 # game/scripts/dialogues/paloma_alpha_storyline.rpy:1892
 translate zh_Hans paloma_alpha_storyline_19_a073a3da:
@@ -3794,7 +3794,7 @@ translate zh_Hans paloma_alpha_storyline_20_b37b364d:
 translate zh_Hans paloma_alpha_storyline_20_a972b0f5:
 
     # nvlpaloma "{a=show:show_chat_media}{image=paloma_video_2_ns}"
-    nvlpaloma ""
+    nvlpaloma "{a=show:show_chat_media}{image=paloma_video_2_ns}"
 
 # game/scripts/dialogues/paloma_alpha_storyline.rpy:1985
 translate zh_Hans paloma_alpha_storyline_20_52caa42f:

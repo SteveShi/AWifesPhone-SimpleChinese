@@ -254,19 +254,19 @@ translate zh_Hans dani_cuck_storyline_2_c13e661c:
 translate zh_Hans dani_cuck_storyline_2_22e85bc7:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_pic_3}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=wife_pic_3}"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:158
 translate zh_Hans dani_cuck_storyline_2_d8cae490:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_pic_4}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=wife_pic_4}"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:162
 translate zh_Hans dani_cuck_storyline_2_56f8825f:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_pic_316}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=wife_pic_316}"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:165
 translate zh_Hans dani_cuck_storyline_2_ae19454f:
@@ -350,13 +350,13 @@ translate zh_Hans dani_cuck_storyline_2_a3937b5d:
 translate zh_Hans dani_cuck_storyline_2_179ddf1c:
 
     # nvldani "{a=show:show_chat_media}{image=dani_pic_1}"
-    nvldani ""
+    nvldani "{a=show:show_chat_media}{image=dani_pic_1}"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:196
 translate zh_Hans dani_cuck_storyline_2_bfe407c5:
 
     # nvldani "{a=show:show_chat_media}{image=dani_pic_2}"
-    nvldani ""
+    nvldani "{a=show:show_chat_media}{image=dani_pic_2}"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:199
 translate zh_Hans dani_cuck_storyline_2_7a839ac9:
@@ -496,13 +496,13 @@ translate zh_Hans dani_cuck_storyline_3_657bc043:
 translate zh_Hans dani_cuck_storyline_3_b3e827d4:
 
     # nvljohn "{a=show:show_chat_media}{image=dani_pic_1}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=dani_pic_1}"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:280
 translate zh_Hans dani_cuck_storyline_3_21b4cd34:
 
     # nvljohn "{a=show:show_chat_media}{image=dani_pic_2}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=dani_pic_2}"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:282
 translate zh_Hans dani_cuck_storyline_3_9633042e:
@@ -1374,7 +1374,7 @@ translate zh_Hans dani_cuck_storyline_10_68431236:
 translate zh_Hans dani_cuck_storyline_10_89858053:
 
     # nvldani "{a=show:show_chat_media}{image=dani_video_1_ns}"
-    nvldani ""
+    nvldani "{a=show:show_chat_media}{image=dani_video_1_ns}"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:801
 translate zh_Hans dani_cuck_storyline_10_f5b84daa:
@@ -1672,7 +1672,7 @@ translate zh_Hans dani_cuck_storyline_12_42bfbf5e:
 translate zh_Hans dani_cuck_storyline_12_f75b3eb1:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_pic_841}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=wife_pic_841}"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:967
 translate zh_Hans dani_cuck_storyline_12_4f01d483:
@@ -1874,7 +1874,7 @@ translate zh_Hans dani_cuck_storyline_14_5f5214b9:
 translate zh_Hans dani_cuck_storyline_14_abdf1bf2:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_314_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=wife_video_314_ns}"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:1101
 translate zh_Hans dani_cuck_storyline_14_6c67ac25:
@@ -1886,7 +1886,7 @@ translate zh_Hans dani_cuck_storyline_14_6c67ac25:
 translate zh_Hans dani_cuck_storyline_14_a25e5d4b:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_315_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=wife_video_315_ns}"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:1107
 translate zh_Hans dani_cuck_storyline_14_0890954a:
@@ -2128,7 +2128,7 @@ translate zh_Hans dani_cuck_storyline_15_fa037237:
 translate zh_Hans dani_cuck_storyline_15_4f8e0bb0:
 
     # nvljohn "{a=show:show_chat_media}{image=mc_pic_63}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=mc_pic_63}"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:1222
 translate zh_Hans dani_cuck_storyline_15_65e1d314:
@@ -2460,7 +2460,7 @@ translate zh_Hans dani_cuck_storyline_19_28abc5d4:
 translate zh_Hans dani_cuck_storyline_19_e3615000:
 
     # nvljohn "{a=show:show_chat_media}{image=dani_video_2_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=dani_video_2_ns}"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:1464
 translate zh_Hans dani_cuck_storyline_19_07039182:
@@ -2776,13 +2776,13 @@ translate zh_Hans dani_cuck_storyline_21_1bd35886:
 translate zh_Hans dani_cuck_storyline_21_f75b3eb1:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_pic_841}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=wife_pic_841}"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:1650
 translate zh_Hans dani_cuck_storyline_21_aa5d0f9b:
 
     # nvljohn "{a=show:show_chat_media}{image=dani_pic_12}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=dani_pic_12}"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:1654
 translate zh_Hans dani_cuck_storyline_21_69b9b8df:
@@ -2800,7 +2800,7 @@ translate zh_Hans dani_cuck_storyline_21_a5d356e7:
 translate zh_Hans dani_cuck_storyline_21_9794f0b2:
 
     # nvlhenrique2 "{a=show:show_chat_media}{image=bbc_pic_293}"
-    nvlhenrique2 ""
+    nvlhenrique2 "{a=show:show_chat_media}{image=bbc_pic_293}"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:1664
 translate zh_Hans dani_cuck_storyline_21_9c7b8f55:
@@ -3038,13 +3038,13 @@ translate zh_Hans dani_cuck_storyline_23_d6a2880b:
 translate zh_Hans dani_cuck_storyline_23_342ea06d:
 
     # nvldani "{a=show:show_chat_media}{image=dani_pic_15}"
-    nvldani ""
+    nvldani "{a=show:show_chat_media}{image=dani_pic_15}"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:1816
 translate zh_Hans dani_cuck_storyline_23_ae9d0183:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_913}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_913}"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:1820
 translate zh_Hans dani_cuck_storyline_23_bedbd211:
@@ -3344,7 +3344,7 @@ translate zh_Hans dani_cuck_storyline_26_88e29114:
 translate zh_Hans dani_cuck_storyline_26_004cdede:
 
     # nvljohn "{a=show:show_chat_media}{image=dani_video_16_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=dani_video_16_ns}"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:2021
 translate zh_Hans dani_cuck_storyline_26_0f2e96b3:
@@ -3460,7 +3460,7 @@ translate zh_Hans dani_cuck_storyline_27_73b5a8f4:
 translate zh_Hans dani_cuck_storyline_27_004cdede:
 
     # nvljohn "{a=show:show_chat_media}{image=dani_video_16_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=dani_video_16_ns}"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:2094
 translate zh_Hans dani_cuck_storyline_27_8bdcc2b5:
@@ -3856,7 +3856,7 @@ translate zh_Hans dani_cuck_storyline_30_8316e9bd:
 translate zh_Hans dani_cuck_storyline_30_be3d269c:
 
     # nvldani "{a=show:show_chat_media}{image=dani_video_17_ns}"
-    nvldani ""
+    nvldani "{a=show:show_chat_media}{image=dani_video_17_ns}"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:2327
 translate zh_Hans dani_cuck_storyline_30_b2bb145f:
@@ -4114,13 +4114,13 @@ translate zh_Hans dani_cuck_storyline_33_6fcead01:
 translate zh_Hans dani_cuck_storyline_33_4e64e8b6:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_18_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=wife_video_18_ns}"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:2516
 translate zh_Hans dani_cuck_storyline_33_a203a1ef:
 
     # nvljohn "{a=show:show_chat_media}{image=dani_video_19_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=dani_video_19_ns}"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:2520
 translate zh_Hans dani_cuck_storyline_33_6e178d76:
@@ -4666,13 +4666,13 @@ translate zh_Hans dani_cuck_storyline_39_d383368b:
 translate zh_Hans dani_cuck_storyline_39_6418fb6c:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_427_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=wife_video_427_ns}"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:2902
 translate zh_Hans dani_cuck_storyline_39_a2c3c223:
 
     # nvljohn "{a=show:show_chat_media}{image=dani_video_20_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=dani_video_20_ns}"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:2906
 translate zh_Hans dani_cuck_storyline_39_1cab2740:
@@ -4820,13 +4820,13 @@ translate zh_Hans dani_cuck_storyline_41_5bdd21d6:
 translate zh_Hans dani_cuck_storyline_41_6418fb6c:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_427_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=wife_video_427_ns}"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:3024
 translate zh_Hans dani_cuck_storyline_41_a2c3c223:
 
     # nvljohn "{a=show:show_chat_media}{image=dani_video_20_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=dani_video_20_ns}"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:3026
 translate zh_Hans dani_cuck_storyline_41_34dfcd3c:
@@ -5016,7 +5016,7 @@ translate zh_Hans dani_cuck_storyline_43_50675d0b:
 translate zh_Hans dani_cuck_storyline_43_b9e594b6:
 
     # nvljohn "{a=show:show_chat_media}{image=dani_video_21_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=dani_video_21_ns}"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:3158
 translate zh_Hans dani_cuck_storyline_43_ccd23fa2:
@@ -5636,7 +5636,7 @@ translate zh_Hans dani_cuck_storyline_50_2898d057:
 translate zh_Hans dani_cuck_storyline_50_113c17f6:
 
     # nvldani "{a=show:show_chat_media}{image=dani_video_22_ns}"
-    nvldani ""
+    nvldani "{a=show:show_chat_media}{image=dani_video_22_ns}"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:3595
 translate zh_Hans dani_cuck_storyline_50_e685010e:
@@ -5832,7 +5832,7 @@ translate zh_Hans dani_cuck_storyline_52_af984b49:
 translate zh_Hans dani_cuck_storyline_52_ae66c41d:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_428_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=wife_video_428_ns}"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:3729
 translate zh_Hans dani_cuck_storyline_52_25183e74:
@@ -5912,7 +5912,7 @@ translate zh_Hans dani_cuck_storyline_53_aca94151:
 translate zh_Hans dani_cuck_storyline_53_ae66c41d:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_428_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=wife_video_428_ns}"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:3790
 translate zh_Hans dani_cuck_storyline_53_a6c059b8:
@@ -6650,7 +6650,7 @@ translate zh_Hans dani_cuck_storyline_62_1680e7fa:
 translate zh_Hans dani_cuck_storyline_62_233b585b:
 
     # nvldani "{a=show:show_chat_media}{image=dani_video_23_ns}"
-    nvldani ""
+    nvldani "{a=show:show_chat_media}{image=dani_video_23_ns}"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:4331
 translate zh_Hans dani_cuck_storyline_62_ecb53c96:
@@ -7320,7 +7320,7 @@ translate zh_Hans dani_cuck_storyline_68_673be979:
 translate zh_Hans dani_cuck_storyline_68_c42ef63e:
 
     # nvldani "{a=show:show_chat_media}{image=dani_pic_16}"
-    nvldani ""
+    nvldani "{a=show:show_chat_media}{image=dani_pic_16}"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:4751
 translate zh_Hans dani_cuck_storyline_68_0946b59b:
@@ -7448,7 +7448,7 @@ translate zh_Hans dani_cuck_storyline_69_560205cd:
 translate zh_Hans dani_cuck_storyline_69_63aef33d:
 
     # nvlwife "{a=show:show_chat_media}{image=dani_video_24_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=dani_video_24_ns}"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:4830
 translate zh_Hans dani_cuck_storyline_69_438d9a9a:

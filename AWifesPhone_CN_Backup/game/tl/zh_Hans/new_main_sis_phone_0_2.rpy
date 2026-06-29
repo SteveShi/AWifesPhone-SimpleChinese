@@ -6712,7 +6712,7 @@ translate zh_Hans stepsis_carl_messager02_1_1_5edb09af:
 translate zh_Hans stepsis_carl_messager02_1_1_2748bbdf:
 
     # nvlstepsis "{image=smile_emoji.png}"
-    nvlstepsis ""
+    nvlstepsis "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:5400
 translate zh_Hans stepsis_carl_messager02_1_1_3bf154e8:
@@ -6850,7 +6850,7 @@ translate zh_Hans stepsis_carl_messager02_1_2_59a9d6af:
 translate zh_Hans stepsis_carl_messager02_1_2_21fe1e36:
 
     # nvlstepsis "Will you come over?" nointeract
-    nvlstepsis "Will you come over?" nointeract
+    nvlstepsis "你会过来吗？" nointeract
 
 # new_main_sis_phone_0_2.rpy:5479
 translate zh_Hans stepsis_carl_messager02_1_2_91e9b6ed:
@@ -7150,7 +7150,7 @@ translate zh_Hans stepsis_carl_messager02_1_3_499c1ff0:
 translate zh_Hans stepsis_carl_messager02_1_3_d172c76b:
 
     # nvlcarl "{image=smile_emoji.png}"
-    nvlcarl ""
+    nvlcarl "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:5618
 translate zh_Hans stepsis_carl_messager02_1_3_232e1230:
@@ -9406,7 +9406,7 @@ translate zh_Hans stepsis_carl_messager02_1_11_4c002ad9:
 translate zh_Hans stepsis_carl_messager02_1_11_d172c76b:
 
     # nvlcarl "{image=smile_emoji.png}"
-    nvlcarl ""
+    nvlcarl "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:6617
 translate zh_Hans stepsis_carl_messager02_1_11_97b4e4a8:
@@ -9862,7 +9862,7 @@ translate zh_Hans stepsis_carl_messager02_1_13_2a8ed878:
 translate zh_Hans stepsis_carl_messager02_1_13_2748bbdf:
 
     # nvlstepsis "{image=smile_emoji.png}"
-    nvlstepsis ""
+    nvlstepsis "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:6837
 translate zh_Hans stepsis_carl_messager02_1_13_90af2e41:
@@ -10828,7 +10828,7 @@ translate zh_Hans stepsis_jenna_messager02_1_1_128573bf:
 translate zh_Hans stepsis_jenna_messager02_1_1_2748bbdf:
 
     # nvlstepsis "{image=smile_emoji.png}"
-    nvlstepsis ""
+    nvlstepsis "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:7270
 translate zh_Hans stepsis_jenna_messager02_1_1_72aa69f8:
@@ -11416,7 +11416,7 @@ translate zh_Hans stepsis_jenna_messager02_1_3_253754f0:
 translate zh_Hans stepsis_jenna_messager02_1_3_2748bbdf:
 
     # nvlstepsis "{image=smile_emoji.png}"
-    nvlstepsis ""
+    nvlstepsis "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:7534
 translate zh_Hans stepsis_jenna_messager02_1_3_f49e8f44:
@@ -11668,7 +11668,7 @@ translate zh_Hans stepsis_jenna_messager02_1_5_ebf71a55:
 translate zh_Hans stepsis_jenna_messager02_1_5_2748bbdf:
 
     # nvlstepsis "{image=smile_emoji.png}"
-    nvlstepsis ""
+    nvlstepsis "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:7676
 translate zh_Hans stepsis_jenna_messager02_1_5_19977855:
@@ -11950,7 +11950,7 @@ translate zh_Hans stepsis_jenna_messager02_1_5_b4198aaa_1:
 translate zh_Hans stepsis_jenna_messager02_1_5_fa15c559:
 
     # nvlmark "{image=smile_emoji.png}"
-    nvlmark ""
+    nvlmark "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:7770
 translate zh_Hans stepsis_jenna_messager02_1_5_bb188f5a:
@@ -12526,7 +12526,7 @@ translate zh_Hans stepsis_jenna_messager02_1_7_7ea94d3d:
 translate zh_Hans stepsis_jenna_messager02_1_7_2748bbdf:
 
     # nvlstepsis "{image=smile_emoji.png}"
-    nvlstepsis ""
+    nvlstepsis "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:8020
 translate zh_Hans stepsis_jenna_messager02_1_7_bc5b1776:
@@ -13606,7 +13606,7 @@ translate zh_Hans stepsis_jenna_messager02_1_10_b74c733d:
 translate zh_Hans stepsis_jenna_messager02_1_10_ea17654d:
 
     # nvljenna "{image=smile_emoji.png}"
-    nvljenna ""
+    nvljenna "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:8472
 translate zh_Hans stepsis_jenna_messager02_1_10_5f549635:
@@ -14530,7 +14530,7 @@ translate zh_Hans stepsis_jenna_messager02_1_14_1217a47c:
 translate zh_Hans stepsis_jenna_messager02_1_14_2748bbdf:
 
     # nvlstepsis "{image=smile_emoji.png}"
-    nvlstepsis ""
+    nvlstepsis "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:8917
 translate zh_Hans stepsis_jenna_messager02_1_14_2b71853f:
@@ -15082,7 +15082,7 @@ translate zh_Hans stepsis_jenna_messager02_1_16_a861c0fd:
 translate zh_Hans stepsis_jenna_messager02_1_16_7cbfe4a3:
 
     # nvljenna "{image=wink_emoji.png}"
-    nvljenna ""
+    nvljenna "{image=wink_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:9177
 translate zh_Hans stepsis_jenna_messager02_1_16_f49e8f44:
@@ -16696,7 +16696,7 @@ translate zh_Hans stepsis_jenna_messager02_1_22_8711bba7:
 translate zh_Hans stepsis_jenna_messager02_1_22_2748bbdf:
 
     # nvlstepsis "{image=smile_emoji.png}"
-    nvlstepsis ""
+    nvlstepsis "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:9899
 translate zh_Hans stepsis_jenna_messager02_1_22_eb2cc0c9:
@@ -16870,7 +16870,7 @@ translate zh_Hans stepsis_mark_messager02_1_0_89b74fc8:
 translate zh_Hans stepsis_mark_messager02_1_0_2748bbdf:
 
     # nvlstepsis "{image=smile_emoji.png}"
-    nvlstepsis ""
+    nvlstepsis "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:10036
 translate zh_Hans stepsis_mark_messager02_1_0_1b724f67:
@@ -17620,7 +17620,7 @@ translate zh_Hans stepsis_mark_messager02_1_1_1732ff28:
 translate zh_Hans stepsis_mark_messager02_1_1_fa15c559:
 
     # nvlmark "{image=smile_emoji.png}"
-    nvlmark ""
+    nvlmark "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:10324
 translate zh_Hans stepsis_mark_messager02_1_1_ae9a031f:
@@ -18310,7 +18310,7 @@ translate zh_Hans stepsis_mark_messager02_1_4_412c192d:
 translate zh_Hans stepsis_mark_messager02_1_4_fa15c559:
 
     # nvlmark "{image=smile_emoji.png}"
-    nvlmark ""
+    nvlmark "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:10658
 translate zh_Hans stepsis_mark_messager02_1_4_7069f2bb:
@@ -20962,7 +20962,7 @@ translate zh_Hans stepsis_mark_messager02_1_14_705ebabf:
 translate zh_Hans stepsis_mark_messager02_1_14_9b13d4be:
 
     # nvlmaria "{image=smile_emoji.png}"
-    nvlmaria ""
+    nvlmaria "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:11846
 translate zh_Hans stepsis_mark_messager02_1_14_ab43a703:
@@ -22174,7 +22174,7 @@ translate zh_Hans stepsis_mark_messager02_1_17_b8cc2e13:
 translate zh_Hans stepsis_mark_messager02_1_17_2748bbdf:
 
     # nvlstepsis "{image=smile_emoji.png}"
-    nvlstepsis ""
+    nvlstepsis "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:12342
 translate zh_Hans stepsis_mark_messager02_1_17_0cf14f5a:
@@ -23524,7 +23524,7 @@ translate zh_Hans stepsis_mark_messager02_1_23_e33b17ba:
 translate zh_Hans stepsis_mark_messager02_1_23_fa15c559:
 
     # nvlmark "{image=smile_emoji.png}"
-    nvlmark ""
+    nvlmark "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:12974
 translate zh_Hans stepsis_mark_messager02_1_23_b643a48c:
@@ -26392,7 +26392,7 @@ translate zh_Hans stepsis_model_messager02_1_6_d9570ceb:
 translate zh_Hans stepsis_model_messager02_1_6_8857937b:
 
     # nvlstepsis "{image=wink_emoji.png}"
-    nvlstepsis ""
+    nvlstepsis "{image=wink_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:14348
 translate zh_Hans stepsis_model_messager02_1_6_96a9989a:
@@ -26620,7 +26620,7 @@ translate zh_Hans stepsis_model_messager02_1_6_2de7a000:
 translate zh_Hans stepsis_model_messager02_1_6_2748bbdf:
 
     # nvlstepsis "{image=smile_emoji.png}"
-    nvlstepsis ""
+    nvlstepsis "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:14424
 translate zh_Hans stepsis_model_messager02_1_6_6126bead:
@@ -27478,7 +27478,7 @@ translate zh_Hans stepsis_model_messager02_1_10_c032491e:
 translate zh_Hans stepsis_model_messager02_1_10_2748bbdf:
 
     # nvlstepsis "{image=smile_emoji.png}"
-    nvlstepsis ""
+    nvlstepsis "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:14824
 translate zh_Hans stepsis_model_messager02_1_10_023f7054:
@@ -29668,7 +29668,7 @@ translate zh_Hans stepsis_model_messager02_1_17_f83f93bc:
 translate zh_Hans stepsis_model_messager02_1_17_2748bbdf:
 
     # nvlstepsis "{image=smile_emoji.png}"
-    nvlstepsis ""
+    nvlstepsis "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:15779
 translate zh_Hans stepsis_model_messager02_1_17_778ff15b:
@@ -30622,7 +30622,7 @@ translate zh_Hans stepsis_model_messager02_1_21_a6cbab2d:
 translate zh_Hans stepsis_model_messager02_1_21_8857937b:
 
     # nvlstepsis "{image=wink_emoji.png}"
-    nvlstepsis ""
+    nvlstepsis "{image=wink_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:16213
 translate zh_Hans stepsis_model_messager02_1_21_b391cc3a:
@@ -32050,7 +32050,7 @@ translate zh_Hans stepsis_model_messager02_1_26_0909ea82:
 translate zh_Hans stepsis_model_messager02_1_26_2748bbdf:
 
     # nvlstepsis "{image=smile_emoji.png}"
-    nvlstepsis ""
+    nvlstepsis "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:16846
 translate zh_Hans stepsis_model_messager02_1_26_849c16d8:
@@ -33436,7 +33436,7 @@ translate zh_Hans stepsis_model_messager02_1_31_cec2ed14:
 translate zh_Hans stepsis_model_messager02_1_31_2748bbdf:
 
     # nvlstepsis "{image=smile_emoji.png}"
-    nvlstepsis ""
+    nvlstepsis "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:17466
 translate zh_Hans stepsis_model_messager02_1_31_2cd1c40b:
@@ -34234,7 +34234,7 @@ translate zh_Hans stepsis_model_messager02_1_34_6269284d:
 translate zh_Hans stepsis_model_messager02_1_34_2748bbdf:
 
     # nvlstepsis "{image=smile_emoji.png}"
-    nvlstepsis ""
+    nvlstepsis "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:17828
 translate zh_Hans stepsis_model_messager02_1_34_b285a0f5:
@@ -34618,7 +34618,7 @@ translate zh_Hans stepsis_model_messager02_1_35_d02873ff:
 translate zh_Hans stepsis_model_messager02_1_35_2748bbdf:
 
     # nvlstepsis "{image=smile_emoji.png}"
-    nvlstepsis ""
+    nvlstepsis "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:17990
 translate zh_Hans stepsis_model_messager02_1_35_690c841d:
@@ -35188,7 +35188,7 @@ translate zh_Hans stepsis_job_messager02_1_1_5bf3f214:
 translate zh_Hans stepsis_job_messager02_1_1_13931d4e:
 
     # nvlsimon "{image=smile_emoji.png}"
-    nvlsimon ""
+    nvlsimon "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:18293
 translate zh_Hans stepsis_job_messager02_1_1_fbabadc1:
@@ -35530,7 +35530,7 @@ translate zh_Hans stepsis_job_messager02_1_2_d4df29f1:
 translate zh_Hans stepsis_job_messager02_1_2_2748bbdf:
 
     # nvlstepsis "{image=smile_emoji.png}"
-    nvlstepsis ""
+    nvlstepsis "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:18434
 translate zh_Hans stepsis_job_messager02_1_2_345e0a36:
@@ -35638,7 +35638,7 @@ translate zh_Hans stepsis_job_messager02_1_2_17356ab4:
 translate zh_Hans stepsis_job_messager02_1_2_13931d4e:
 
     # nvlsimon "{image=smile_emoji.png}"
-    nvlsimon ""
+    nvlsimon "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:18470
 translate zh_Hans stepsis_job_messager02_1_2_5d373f3f:
@@ -36094,7 +36094,7 @@ translate zh_Hans stepsis_job_messager02_1_4_ca1126f6:
 translate zh_Hans stepsis_job_messager02_1_4_2748bbdf:
 
     # nvlstepsis "{image=smile_emoji.png}"
-    nvlstepsis ""
+    nvlstepsis "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:18676
 translate zh_Hans stepsis_job_messager02_1_4_8e58fea0:
@@ -36208,7 +36208,7 @@ translate zh_Hans stepsis_job_messager02_1_4_1dd1dc8f:
 translate zh_Hans stepsis_job_messager02_1_4_2748bbdf_1:
 
     # nvlstepsis "{image=smile_emoji.png}"
-    nvlstepsis ""
+    nvlstepsis "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:18714
 translate zh_Hans stepsis_job_messager02_1_4_dcdc3fc8:
@@ -36484,7 +36484,7 @@ translate zh_Hans stepsis_job_messager02_1_5_315c3226:
 translate zh_Hans stepsis_job_messager02_1_5_8857937b:
 
     # nvlstepsis "{image=wink_emoji.png}"
-    nvlstepsis ""
+    nvlstepsis "{image=wink_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:18833
 translate zh_Hans stepsis_job_messager02_1_5_83c2f193:
@@ -37606,7 +37606,7 @@ translate zh_Hans stepsis_job_messager02_1_8_c50f0382:
 translate zh_Hans stepsis_job_messager02_1_8_13931d4e:
 
     # nvlsimon "{image=smile_emoji.png}"
-    nvlsimon ""
+    nvlsimon "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:19309
 translate zh_Hans stepsis_job_messager02_1_8_f49e8f44:
@@ -39298,7 +39298,7 @@ translate zh_Hans stepsis_job_messager02_1_12_5c97666e:
 translate zh_Hans stepsis_job_messager02_1_12_4a0b7161:
 
     # nvlmartin "{image=smile_emoji.png}"
-    nvlmartin ""
+    nvlmartin "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:20017
 translate zh_Hans stepsis_job_messager02_1_12_f49e8f44:
@@ -40516,7 +40516,7 @@ translate zh_Hans stepsis_job_messager02_1_15_d422346b:
 translate zh_Hans stepsis_job_messager02_1_15_2748bbdf:
 
     # nvlstepsis "{image=smile_emoji.png}"
-    nvlstepsis ""
+    nvlstepsis "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:20499
 translate zh_Hans stepsis_job_messager02_1_15_fe64a640:
@@ -40588,7 +40588,7 @@ translate zh_Hans stepsis_job_messager02_1_15_905bb5d6:
 translate zh_Hans stepsis_job_messager02_1_15_2748bbdf_1:
 
     # nvlstepsis "{image=smile_emoji.png}"
-    nvlstepsis ""
+    nvlstepsis "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:20523
 translate zh_Hans stepsis_job_messager02_1_15_090cd1fe:
@@ -41404,7 +41404,7 @@ translate zh_Hans stepsis_job_messager02_1_18_7f1b5d54:
 translate zh_Hans stepsis_job_messager02_1_18_2748bbdf:
 
     # nvlstepsis "{image=smile_emoji.png}"
-    nvlstepsis ""
+    nvlstepsis "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:20884
 translate zh_Hans stepsis_job_messager02_1_18_b8c0bab5:
@@ -41524,7 +41524,7 @@ translate zh_Hans stepsis_job_messager02_1_19_d0c68d66:
 translate zh_Hans stepsis_job_messager02_1_19_4a0b7161:
 
     # nvlmartin "{image=smile_emoji.png}"
-    nvlmartin ""
+    nvlmartin "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:20949
 translate zh_Hans stepsis_job_messager02_1_19_2dc9c532:
@@ -44548,7 +44548,7 @@ translate zh_Hans stepsis_joshua_messager02_1_2_657ba12e:
 translate zh_Hans stepsis_joshua_messager02_1_2_eb4e950d:
 
     # nvljoshua "{image=smile_emoji.png}"
-    nvljoshua ""
+    nvljoshua "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:22323
 translate zh_Hans stepsis_joshua_messager02_1_2_4f052384:
@@ -44986,7 +44986,7 @@ translate zh_Hans stepsis_joshua_messager02_1_3_a99e1683:
 translate zh_Hans stepsis_joshua_messager02_1_3_2748bbdf:
 
     # nvlstepsis "{image=smile_emoji.png}"
-    nvlstepsis ""
+    nvlstepsis "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:22495
 translate zh_Hans stepsis_joshua_messager02_1_3_1e204ab8:
@@ -45106,7 +45106,7 @@ translate zh_Hans stepsis_joshua_messager02_1_3_cd687be7:
 translate zh_Hans stepsis_joshua_messager02_1_3_eb4e950d:
 
     # nvljoshua "{image=smile_emoji.png}"
-    nvljoshua ""
+    nvljoshua "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:22535
 translate zh_Hans stepsis_joshua_messager02_1_3_2c7e1199:
@@ -47902,7 +47902,7 @@ translate zh_Hans stepsis_joshua_messager02_1_11_72fbb7a1:
 translate zh_Hans stepsis_joshua_messager02_1_11_2748bbdf:
 
     # nvlstepsis "{image=smile_emoji.png}"
-    nvlstepsis ""
+    nvlstepsis "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:23713
 translate zh_Hans stepsis_joshua_messager02_1_11_804b530c:
@@ -47962,7 +47962,7 @@ translate zh_Hans stepsis_joshua_messager02_1_11_d6ef6c16:
 translate zh_Hans stepsis_joshua_messager02_1_11_2748bbdf_1:
 
     # nvlstepsis "{image=smile_emoji.png}"
-    nvlstepsis ""
+    nvlstepsis "{image=smile_emoji.png}"
 
 # new_main_sis_phone_0_2.rpy:23733
 translate zh_Hans stepsis_joshua_messager02_1_11_264b40cc:

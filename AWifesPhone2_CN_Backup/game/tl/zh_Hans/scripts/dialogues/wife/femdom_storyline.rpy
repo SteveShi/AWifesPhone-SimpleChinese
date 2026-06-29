@@ -1090,7 +1090,7 @@ translate zh_Hans femdom_storyline_6_bdb0711a:
 translate zh_Hans femdom_storyline_6_9a3ce9ee:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_254_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_254_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:902
 translate zh_Hans femdom_storyline_6_fe827260:
@@ -3568,7 +3568,7 @@ translate zh_Hans femdom_storyline_15_5e0803bf:
 translate zh_Hans femdom_storyline_15_5e37896f:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_805}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_805}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:2050
 translate zh_Hans femdom_storyline_15_07abfadf:
@@ -4000,7 +4000,7 @@ translate zh_Hans femdom_storyline_18_68b350f1:
 translate zh_Hans femdom_storyline_18_f2b13517:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_255_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_255_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:2293
 translate zh_Hans femdom_storyline_18_f79db2fa:
@@ -5028,7 +5028,7 @@ translate zh_Hans femdom_storyline_22_fd2b90e7:
 translate zh_Hans femdom_storyline_22_b7fe5b53:
 
     # nvljohn "{a=show:show_chat_media}{image=mc_pic_49}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=mc_pic_49}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:2774
 translate zh_Hans femdom_storyline_22_ca75582b:
@@ -6020,7 +6020,7 @@ translate zh_Hans femdom_storyline_26_d8db2d2e:
     # nvl clear
     # nvljulia "geo.com/9958134"
     nvl clear
-    nvljulia ""
+    nvljulia "geo.com/9958134"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:3242
 translate zh_Hans femdom_storyline_26_1474a8c4:
@@ -6466,7 +6466,7 @@ translate zh_Hans femdom_storyline_27_892a3ff5:
 translate zh_Hans femdom_storyline_27_7d5c489a:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_256_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_256_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:3427
 translate zh_Hans femdom_storyline_27_60781078:
@@ -6930,7 +6930,7 @@ translate zh_Hans femdom_storyline_28_a99bc31c:
 translate zh_Hans femdom_storyline_28_d8bb15eb:
 
     # nvljohn "{a=show:show_chat_media}{image=julia_video_31_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=julia_video_31_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:3618
 translate zh_Hans femdom_storyline_28_d733565a:
@@ -6954,7 +6954,7 @@ translate zh_Hans femdom_storyline_28_f568a70a:
 translate zh_Hans femdom_storyline_28_b1c982d8:
 
     # nvljohn "{a=show:show_chat_media}{image=julia_video_32_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=julia_video_32_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:3632
 translate zh_Hans femdom_storyline_28_03f17e6f:
@@ -7538,7 +7538,7 @@ translate zh_Hans femdom_storyline_29_9ea34ac2:
 translate zh_Hans femdom_storyline_29_1cdd7a1c:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_806}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_806}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:3861
 translate zh_Hans femdom_storyline_29_ff2c0266:
@@ -7854,7 +7854,7 @@ translate zh_Hans femdom_storyline_31_b5b0f2ac:
 translate zh_Hans femdom_storyline_31_42253b0d:
 
     # nvlwsis "{a=show:show_chat_media}{image=w_sister_pic_157}"
-    nvlwsis ""
+    nvlwsis "{a=show:show_chat_media}{image=w_sister_pic_157}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:4033
 translate zh_Hans femdom_storyline_31_99215df3:
@@ -8192,7 +8192,7 @@ translate zh_Hans femdom_storyline_32_ac5d0747:
 translate zh_Hans femdom_storyline_32_42253b0d:
 
     # nvlwsis "{a=show:show_chat_media}{image=w_sister_pic_157}"
-    nvlwsis ""
+    nvlwsis "{a=show:show_chat_media}{image=w_sister_pic_157}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:4178
 translate zh_Hans femdom_storyline_32_a78a15d6:
@@ -9440,7 +9440,7 @@ translate zh_Hans femdom_storyline_35_c2e7a868:
 translate zh_Hans femdom_storyline_35_ae620fbf:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_pic_110}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_pic_110}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:4695
 translate zh_Hans femdom_storyline_35_a55dbe8b:
@@ -9766,7 +9766,7 @@ translate zh_Hans femdom_storyline_36_423034ea:
 translate zh_Hans femdom_storyline_36_6b785644:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_257_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_257_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:4840
 translate zh_Hans femdom_storyline_36_83f77292:
@@ -9886,7 +9886,7 @@ translate zh_Hans femdom_storyline_37_76b2fe88:
 translate zh_Hans femdom_storyline_37_b6722a08:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_807}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_807}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:4913
 translate zh_Hans femdom_storyline_37_24f84dbd:
@@ -10162,7 +10162,7 @@ translate zh_Hans femdom_storyline_38_76b2fe88:
 translate zh_Hans femdom_storyline_38_b6dfda4a:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_808}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_808}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:5040
 translate zh_Hans femdom_storyline_38_3277db06:
@@ -10216,7 +10216,7 @@ translate zh_Hans femdom_storyline_38_b6d06ce2:
 translate zh_Hans femdom_storyline_38_166e8c46:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_258_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_258_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:5064
 translate zh_Hans femdom_storyline_38_f6d76c7a:
@@ -10580,7 +10580,7 @@ translate zh_Hans femdom_storyline_40_baf71f8c:
 translate zh_Hans femdom_storyline_40_76a4327d:
 
     # nvljenna "{a=show:show_chat_media}{image=mc_pic_50}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=mc_pic_50}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:5248
 translate zh_Hans femdom_storyline_40_0452c074:
@@ -11560,7 +11560,7 @@ translate zh_Hans femdom_storyline_40_6a084804:
 translate zh_Hans femdom_storyline_40_64b87512:
 
     # nvljohn "{a=show:show_chat_media}{image=w_sister_pic_158}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=w_sister_pic_158}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:5694
 translate zh_Hans femdom_storyline_40_fcb87fe2:
@@ -11578,7 +11578,7 @@ translate zh_Hans femdom_storyline_40_b258118f:
 translate zh_Hans femdom_storyline_40_61fa5001:
 
     # nvljohn "{a=show:show_chat_media}{image=w_sister_pic_159}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=w_sister_pic_159}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:5708
 translate zh_Hans femdom_storyline_40_99215df3:
@@ -11982,7 +11982,7 @@ translate zh_Hans femdom_storyline_40_212d0760:
 translate zh_Hans femdom_storyline_40_c449687f:
 
     # nvlwife "{a=show:show_chat_media}{image=cuckold_pic_50}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=cuckold_pic_50}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:5868
 translate zh_Hans femdom_storyline_40_88825694:
@@ -12018,7 +12018,7 @@ translate zh_Hans femdom_storyline_40_071f0d6a:
 translate zh_Hans femdom_storyline_40_51230671:
 
     # nvlwife "{a=show:show_chat_media}{image=bbc_pic_277}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=bbc_pic_277}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:5884
 translate zh_Hans femdom_storyline_40_4ba997e3:
@@ -12126,7 +12126,7 @@ translate zh_Hans femdom_storyline_40_8d13c7d3:
 translate zh_Hans femdom_storyline_40_b12898f0:
 
     # nvljohn "{a=show:show_chat_media}{image=mc_pic_51}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=mc_pic_51}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:5924
 translate zh_Hans femdom_storyline_40_78a962ba:
@@ -17796,7 +17796,7 @@ translate zh_Hans femdom_storyline_40_a5bedfac_1:
 translate zh_Hans femdom_storyline_40_090961c8:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_259_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_259_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:8407
 translate zh_Hans femdom_storyline_40_07f4c457:
@@ -19184,7 +19184,7 @@ translate zh_Hans femdom_storyline_40_1db89372:
 translate zh_Hans femdom_storyline_40_fe126801:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_813}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_813}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:9013
 translate zh_Hans femdom_storyline_40_acacc449_1:
@@ -19406,7 +19406,7 @@ translate zh_Hans femdom_storyline_40_8789e89b:
 translate zh_Hans femdom_storyline_40_20e72bcf:
 
     # nvlwife "{a=show:show_chat_media}{image=cuckold_pic_55}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=cuckold_pic_55}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:9091
 translate zh_Hans femdom_storyline_40_86155299:
@@ -20208,7 +20208,7 @@ translate zh_Hans femdom_storyline_40_860b4474_3:
 translate zh_Hans femdom_storyline_40_4eff168e:
 
     # nvlwife "{a=show:show_chat_media}{image=mc_pic_54}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=mc_pic_54}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:9437
 translate zh_Hans femdom_storyline_40_427c18a2:
@@ -20436,7 +20436,7 @@ translate zh_Hans femdom_storyline_40_dc8a3a2e:
 translate zh_Hans femdom_storyline_40_7bf8d42d:
 
     # nvlwife "{a=show:show_chat_media}{image=cuckold_pic_56}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=cuckold_pic_56}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:9517
 translate zh_Hans femdom_storyline_40_52ca955d:
@@ -21070,7 +21070,7 @@ translate zh_Hans femdom_storyline_40_e0d93335:
 translate zh_Hans femdom_storyline_40_3ac9b7af:
 
     # nvljenna "{a=show:show_chat_media}{image=cuckold_pic_57}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=cuckold_pic_57}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:9783
 translate zh_Hans femdom_storyline_40_5ba835cb:
@@ -21370,7 +21370,7 @@ translate zh_Hans femdom_storyline_40_76b2fe88:
 translate zh_Hans femdom_storyline_40_d92e4b8c:
 
     # nvlwife "{a=show:show_chat_media}{image=cuckold_pic_58}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=cuckold_pic_58}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:9921
 translate zh_Hans femdom_storyline_40_2af5b71b:
@@ -25194,7 +25194,7 @@ translate zh_Hans femdom_storyline_40_551bf43d:
 translate zh_Hans femdom_storyline_40_6a7459ee:
 
     # nvljulia "geo.com/554313"
-    nvljulia ""
+    nvljulia "geo.com/554313"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:11495
 translate zh_Hans femdom_storyline_40_e3eb7b34:
@@ -27290,7 +27290,7 @@ translate zh_Hans femdom_storyline_41_a8863aca:
 translate zh_Hans femdom_storyline_41_2260fcb5:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_817}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_817}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12459
 translate zh_Hans femdom_storyline_41_818e37ea:
@@ -28482,7 +28482,7 @@ translate zh_Hans femdom_storyline_46_14d83419:
 translate zh_Hans femdom_storyline_46_ffa03a4b:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_72}"
-    nvljulia ""
+    nvljulia "{a=show:show_chat_media}{image=julia_pic_72}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:13048
 translate zh_Hans femdom_storyline_46_a4d8be05:
@@ -28706,7 +28706,7 @@ translate zh_Hans femdom_storyline_47_6a87cbd9:
 translate zh_Hans femdom_storyline_47_689524d5:
 
     # nvlwsis "{a=show:show_chat_media}{image=w_sister_pic_163}"
-    nvlwsis ""
+    nvlwsis "{a=show:show_chat_media}{image=w_sister_pic_163}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:13157
 translate zh_Hans femdom_storyline_47_e9606040:
@@ -32768,7 +32768,7 @@ translate zh_Hans femdom_storyline_65_3b97f235:
 translate zh_Hans femdom_storyline_65_fb18dcee:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_1_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_1_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:15188
 translate zh_Hans femdom_storyline_65_0546d49b:
@@ -33042,7 +33042,7 @@ translate zh_Hans femdom_storyline_67_0f6fa7f1:
 translate zh_Hans femdom_storyline_67_e57b72c8:
 
     # nvlwife "{a=show:show_chat_media}{image=bbc_video_74_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=bbc_video_74_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:15348
 translate zh_Hans femdom_storyline_67_55dfb99b:
@@ -33054,7 +33054,7 @@ translate zh_Hans femdom_storyline_67_55dfb99b:
 translate zh_Hans femdom_storyline_67_d9cdeb41:
 
     # nvlwife "{a=show:show_chat_media}{image=bbc_video_76_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=bbc_video_76_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:15356
 translate zh_Hans femdom_storyline_67_c89b9298:
@@ -33072,7 +33072,7 @@ translate zh_Hans femdom_storyline_67_bf2de9f0:
 translate zh_Hans femdom_storyline_67_fa8cc04b:
 
     # nvlwife "{a=show:show_chat_media}{image=bbc_video_75_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=bbc_video_75_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:15366
 translate zh_Hans femdom_storyline_67_f976ac9d:
@@ -33206,7 +33206,7 @@ translate zh_Hans femdom_storyline_68_82caec58:
 translate zh_Hans femdom_storyline_68_a010a04e:
 
     # nvljohn "{a=show:show_chat_media}{image=julia_video_1_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=julia_video_1_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:15447
 translate zh_Hans femdom_storyline_68_0469ea9e:
@@ -33224,7 +33224,7 @@ translate zh_Hans femdom_storyline_68_9945e14b:
 translate zh_Hans femdom_storyline_68_0e6c05b8:
 
     # nvljohn "{a=show:show_chat_media}{image=julia_video_2_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=julia_video_2_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:15461
 translate zh_Hans femdom_storyline_68_68bf925a:
@@ -33352,7 +33352,7 @@ translate zh_Hans femdom_storyline_69_a5c3bf37:
 translate zh_Hans femdom_storyline_69_7a53e5de:
 
     # nvljohn "{a=show:show_chat_media}{image=sadie_video_4_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sadie_video_4_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:15540
 translate zh_Hans femdom_storyline_69_79ac6c8a:
@@ -33468,7 +33468,7 @@ translate zh_Hans femdom_storyline_70_0de95166:
 translate zh_Hans femdom_storyline_70_76e87634:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_3_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=wife_video_3_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:15615
 translate zh_Hans femdom_storyline_70_99298970:
@@ -33498,7 +33498,7 @@ translate zh_Hans femdom_storyline_70_af93d28f:
 translate zh_Hans femdom_storyline_70_0a5f3442:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_4_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=wife_video_4_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:15633
 translate zh_Hans femdom_storyline_70_fe0747a8:
@@ -33552,7 +33552,7 @@ translate zh_Hans femdom_storyline_70_5340c935:
 translate zh_Hans femdom_storyline_70_dbd7b32f:
 
     # nvljohn "{a=show:show_chat_media}{image=sadie_video_5_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sadie_video_5_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:15655
 translate zh_Hans femdom_storyline_70_930beae4:
@@ -34108,7 +34108,7 @@ translate zh_Hans femdom_storyline_72_0b475df1:
 translate zh_Hans femdom_storyline_72_31757b04:
 
     # nvlgeorge "{a=show:show_chat_media}{image=christina_pic_1}"
-    nvlgeorge ""
+    nvlgeorge "{a=show:show_chat_media}{image=christina_pic_1}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:15905
 translate zh_Hans femdom_storyline_72_9540ac66:
@@ -34216,7 +34216,7 @@ translate zh_Hans femdom_storyline_72_67a18a84:
 translate zh_Hans femdom_storyline_72_f754308a:
 
     # nvlgeorge "{a=show:show_chat_media}{image=christina_video_22_ns}"
-    nvlgeorge ""
+    nvlgeorge "{a=show:show_chat_media}{image=christina_video_22_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:15945
 translate zh_Hans femdom_storyline_72_41ac9a47:
@@ -34234,7 +34234,7 @@ translate zh_Hans femdom_storyline_72_5534f8d3:
 translate zh_Hans femdom_storyline_72_fa345b4c:
 
     # nvlgeorge "{a=show:show_chat_media}{image=christina_video_23_ns}"
-    nvlgeorge ""
+    nvlgeorge "{a=show:show_chat_media}{image=christina_video_23_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:15955
 translate zh_Hans femdom_storyline_72_05a4fd0d:
@@ -34246,7 +34246,7 @@ translate zh_Hans femdom_storyline_72_05a4fd0d:
 translate zh_Hans femdom_storyline_72_2a9f9e77:
 
     # nvlgeorge "{a=show:show_chat_media}{image=christina_video_24_ns}"
-    nvlgeorge ""
+    nvlgeorge "{a=show:show_chat_media}{image=christina_video_24_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:15963
 translate zh_Hans femdom_storyline_72_69cd295e:
@@ -35730,7 +35730,7 @@ translate zh_Hans femdom_storyline_82_6055223e:
 translate zh_Hans femdom_storyline_82_1963b057:
 
     # nvlunknown "{a=show:show_chat_media}{image=bbc_video_79_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=bbc_video_79_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:16835
 translate zh_Hans femdom_storyline_82_e7705031:
@@ -35748,7 +35748,7 @@ translate zh_Hans femdom_storyline_82_ec97e3f8:
 translate zh_Hans femdom_storyline_82_f3913c99:
 
     # nvlunknown "{a=show:show_chat_media}{image=bbc_video_80_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=bbc_video_80_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:16845
 translate zh_Hans femdom_storyline_82_7ed1c317:
@@ -36004,7 +36004,7 @@ translate zh_Hans femdom_storyline_84_f1608234:
 translate zh_Hans femdom_storyline_84_d1e8d980:
 
     # nvlsadie "{a=show:show_chat_media}{image=sadie_pic_3}"
-    nvlsadie ""
+    nvlsadie "{a=show:show_chat_media}{image=sadie_pic_3}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:16999
 translate zh_Hans femdom_storyline_84_fb7354d5:
@@ -36016,13 +36016,13 @@ translate zh_Hans femdom_storyline_84_fb7354d5:
 translate zh_Hans femdom_storyline_84_7a5f2826:
 
     # nvlsadie "{a=show:show_chat_media}{image=sadie_pic_4}"
-    nvlsadie ""
+    nvlsadie "{a=show:show_chat_media}{image=sadie_pic_4}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:17009
 translate zh_Hans femdom_storyline_84_9ca54650:
 
     # nvlsadie "{a=show:show_chat_media}{image=sadie_pic_5}"
-    nvlsadie ""
+    nvlsadie "{a=show:show_chat_media}{image=sadie_pic_5}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:17019
 translate zh_Hans femdom_storyline_84_9b3e4425:
@@ -36330,7 +36330,7 @@ translate zh_Hans femdom_storyline_85_c5517877:
 translate zh_Hans femdom_storyline_85_7b6da3fa:
 
     # nvlwife "{a=show:show_chat_media}{image=sadie_pic_3}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=sadie_pic_3}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:17158
 translate zh_Hans femdom_storyline_85_3b0b08f7:
@@ -36348,7 +36348,7 @@ translate zh_Hans femdom_storyline_85_f1aef40d:
 translate zh_Hans femdom_storyline_85_f33eb7fc:
 
     # nvlwife "{a=show:show_chat_media}{image=sadie_pic_4}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=sadie_pic_4}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:17168
 translate zh_Hans femdom_storyline_85_46fcc43a:
@@ -36366,7 +36366,7 @@ translate zh_Hans femdom_storyline_85_b3a294d9:
 translate zh_Hans femdom_storyline_85_6308fe9f:
 
     # nvlwife "{a=show:show_chat_media}{image=sadie_pic_5}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=sadie_pic_5}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:17184
 translate zh_Hans femdom_storyline_85_b5383cb4:
@@ -36434,7 +36434,7 @@ translate zh_Hans femdom_storyline_86_e04d8231:
 translate zh_Hans femdom_storyline_86_64971cbd:
 
     # nvljohn "{a=show:show_chat_media}{image=christina_video_28_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=christina_video_28_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:17243
 translate zh_Hans femdom_storyline_86_a4be64a1:
@@ -36452,7 +36452,7 @@ translate zh_Hans femdom_storyline_86_97b8cb5a:
 translate zh_Hans femdom_storyline_86_2cb22988:
 
     # nvljohn "{a=show:show_chat_media}{image=christina_video_29_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=christina_video_29_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:17257
 translate zh_Hans femdom_storyline_86_16b096d3:
@@ -36586,7 +36586,7 @@ translate zh_Hans femdom_storyline_87_56f0f9d4:
 translate zh_Hans femdom_storyline_87_0d060fa1:
 
     # nvljohn "{a=show:show_chat_media}{image=sadie_video_6_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sadie_video_6_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:17340
 translate zh_Hans femdom_storyline_87_97a24b81:
@@ -36598,7 +36598,7 @@ translate zh_Hans femdom_storyline_87_97a24b81:
 translate zh_Hans femdom_storyline_87_2bb8ad60:
 
     # nvljohn "{a=show:show_chat_media}{image=sadie_video_7_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=sadie_video_7_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:17352
 translate zh_Hans femdom_storyline_87_47284dee:
@@ -36738,7 +36738,7 @@ translate zh_Hans femdom_storyline_88_5d39d1dc:
 translate zh_Hans femdom_storyline_88_4982b9c8:
 
     # nvlunknown "{a=show:show_chat_media}{image=bbc_video_81_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=bbc_video_81_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:17433
 translate zh_Hans femdom_storyline_88_7cf4d1d2:
@@ -36756,7 +36756,7 @@ translate zh_Hans femdom_storyline_88_21c0b898:
 translate zh_Hans femdom_storyline_88_16ca8502:
 
     # nvlunknown "{a=show:show_chat_media}{image=bbc_video_82_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=bbc_video_82_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:17443
 translate zh_Hans femdom_storyline_88_34185e75:
@@ -36810,7 +36810,7 @@ translate zh_Hans femdom_storyline_88_0ff5082f:
 translate zh_Hans femdom_storyline_88_b0e66ccc:
 
     # nvlunknown "{a=show:show_chat_media}{image=bbc_video_83_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=bbc_video_83_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:17465
 translate zh_Hans femdom_storyline_88_f2035d6c:
@@ -36828,7 +36828,7 @@ translate zh_Hans femdom_storyline_88_d82530fe:
 translate zh_Hans femdom_storyline_88_3f753693:
 
     # nvlunknown "{a=show:show_chat_media}{image=bbc_video_84_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=bbc_video_84_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:17475
 translate zh_Hans femdom_storyline_88_1c21464d:
@@ -37540,7 +37540,7 @@ translate zh_Hans femdom_storyline_93_dadd2c20:
 translate zh_Hans femdom_storyline_93_c7dc1e4c:
 
     # nvlwife "{a=show:show_chat_media}{image=bbc_video_85_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=bbc_video_85_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:17887
 translate zh_Hans femdom_storyline_93_52846b91:
@@ -37552,7 +37552,7 @@ translate zh_Hans femdom_storyline_93_52846b91:
 translate zh_Hans femdom_storyline_93_15666b1b:
 
     # nvlwife "{a=show:show_chat_media}{image=bbc_video_86_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=bbc_video_86_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:17895
 translate zh_Hans femdom_storyline_93_52499891:
@@ -37710,7 +37710,7 @@ translate zh_Hans femdom_storyline_94_1530de9f:
 translate zh_Hans femdom_storyline_94_20e30b74:
 
     # nvlwife "{a=show:show_chat_media}{image=bbc_video_87_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=bbc_video_87_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:17986
 translate zh_Hans femdom_storyline_94_ecab10b0:
@@ -37728,7 +37728,7 @@ translate zh_Hans femdom_storyline_94_faec6d3a:
 translate zh_Hans femdom_storyline_94_4a934fad:
 
     # nvlwife "{a=show:show_chat_media}{image=bbc_video_88_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=bbc_video_88_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:17996
 translate zh_Hans femdom_storyline_94_a256fd22:
@@ -38504,7 +38504,7 @@ translate zh_Hans femdom_storyline_95_1205f631:
 translate zh_Hans femdom_storyline_95_9f49bf2a:
 
     # nvldawn "{a=show:show_chat_media}{image=dawn_pic_1}"
-    nvldawn ""
+    nvldawn "{a=show:show_chat_media}{image=dawn_pic_1}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:18291
 translate zh_Hans femdom_storyline_95_1852fe80:
@@ -38522,7 +38522,7 @@ translate zh_Hans femdom_storyline_95_49f3ab03:
 translate zh_Hans femdom_storyline_95_e5ec9ac7:
 
     # nvldawn "{a=show:show_chat_media}{image=dawn_pic_2}"
-    nvldawn ""
+    nvldawn "{a=show:show_chat_media}{image=dawn_pic_2}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:18301
 translate zh_Hans femdom_storyline_95_f603c724:
@@ -38748,7 +38748,7 @@ translate zh_Hans femdom_storyline_97_85300cd7:
 translate zh_Hans femdom_storyline_97_d239ad87:
 
     # nvljohn "{a=show:show_chat_media}{image=w_sister_video_25_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=w_sister_video_25_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:18441
 translate zh_Hans femdom_storyline_97_f0662952:
@@ -38766,7 +38766,7 @@ translate zh_Hans femdom_storyline_97_fa9a29be:
 translate zh_Hans femdom_storyline_97_869d8f07:
 
     # nvljohn "{a=show:show_chat_media}{image=w_sister_video_26_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=w_sister_video_26_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:18455
 translate zh_Hans femdom_storyline_97_cfdbed29:
@@ -39134,7 +39134,7 @@ translate zh_Hans femdom_storyline_101_1cecaa73:
 translate zh_Hans femdom_storyline_101_518fc87e:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_6_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_6_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:18707
 translate zh_Hans femdom_storyline_101_48acfaae:
@@ -39152,7 +39152,7 @@ translate zh_Hans femdom_storyline_101_25ba4b45:
 translate zh_Hans femdom_storyline_101_c79e34e1:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_2}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_2}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:18717
 translate zh_Hans femdom_storyline_101_e7705031:
@@ -39238,7 +39238,7 @@ translate zh_Hans femdom_storyline_102_ddaef434:
 translate zh_Hans femdom_storyline_102_32d41286:
 
     # nvljohn "{a=show:show_chat_media}{image=w_sister_video_27_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=w_sister_video_27_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:18780
 translate zh_Hans femdom_storyline_102_247aedf7:
@@ -39256,7 +39256,7 @@ translate zh_Hans femdom_storyline_102_4e22e7d4:
 translate zh_Hans femdom_storyline_102_f501fbc1:
 
     # nvljohn "{a=show:show_chat_media}{image=w_sister_video_28_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=w_sister_video_28_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:18794
 translate zh_Hans femdom_storyline_102_587448c0:
@@ -39318,7 +39318,7 @@ translate zh_Hans femdom_storyline_103_441be1a4:
 translate zh_Hans femdom_storyline_103_62cd6c81:
 
     # nvlgeorge "{a=show:show_chat_media}{image=christina_video_30_ns}"
-    nvlgeorge ""
+    nvlgeorge "{a=show:show_chat_media}{image=christina_video_30_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:18851
 translate zh_Hans femdom_storyline_103_936dc5e9:
@@ -39764,7 +39764,7 @@ translate zh_Hans femdom_storyline_104_3dffbf2f:
 translate zh_Hans femdom_storyline_104_046dd782:
 
     # nvldawn "{a=show:show_chat_media}{image=dawn_pic_4}"
-    nvldawn ""
+    nvldawn "{a=show:show_chat_media}{image=dawn_pic_4}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:19036
 translate zh_Hans femdom_storyline_104_1e385605:
@@ -39776,7 +39776,7 @@ translate zh_Hans femdom_storyline_104_1e385605:
 translate zh_Hans femdom_storyline_104_01b48039:
 
     # nvldawn "{a=show:show_chat_media}{image=dawn_pic_3}"
-    nvldawn ""
+    nvldawn "{a=show:show_chat_media}{image=dawn_pic_3}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:19044
 translate zh_Hans femdom_storyline_104_30135a6c:
@@ -39806,7 +39806,7 @@ translate zh_Hans femdom_storyline_104_38fb7e3f:
 translate zh_Hans femdom_storyline_104_fa4d3545:
 
     # nvldawn "{a=show:show_chat_media}{image=dawn_pic_5}"
-    nvldawn ""
+    nvldawn "{a=show:show_chat_media}{image=dawn_pic_5}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:19058
 translate zh_Hans femdom_storyline_104_2f87accf:
@@ -40012,31 +40012,31 @@ translate zh_Hans femdom_storyline_105_5cf2c9d0:
 translate zh_Hans femdom_storyline_105_78422da8:
 
     # nvlwife "{a=show:show_chat_media}{image=dawn_pic_1}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=dawn_pic_1}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:19165
 translate zh_Hans femdom_storyline_105_c0bafa24:
 
     # nvlwife "{a=show:show_chat_media}{image=dawn_pic_2}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=dawn_pic_2}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:19171
 translate zh_Hans femdom_storyline_105_0e591f19:
 
     # nvlwife "{a=show:show_chat_media}{image=dawn_pic_3}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=dawn_pic_3}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:19177
 translate zh_Hans femdom_storyline_105_d08ff6f7:
 
     # nvlwife "{a=show:show_chat_media}{image=dawn_pic_4}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=dawn_pic_4}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:19183
 translate zh_Hans femdom_storyline_105_5826a134:
 
     # nvlwife "{a=show:show_chat_media}{image=dawn_pic_5}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=dawn_pic_5}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:19187
 translate zh_Hans femdom_storyline_105_5a81c083:
@@ -40236,7 +40236,7 @@ translate zh_Hans femdom_storyline_106_20979de4:
 translate zh_Hans femdom_storyline_106_2ba7128f:
 
     # nvlwife "{a=show:show_chat_media}{image=dawn_video_1_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=dawn_video_1_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:19290
 translate zh_Hans femdom_storyline_106_84215350:
@@ -40248,7 +40248,7 @@ translate zh_Hans femdom_storyline_106_84215350:
 translate zh_Hans femdom_storyline_106_321208b9:
 
     # nvlwife "{a=show:show_chat_media}{image=dawn_video_2_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=dawn_video_2_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:19298
 translate zh_Hans femdom_storyline_106_6fbf6fa5:
@@ -40328,7 +40328,7 @@ translate zh_Hans femdom_storyline_107_29a36dd2:
 translate zh_Hans femdom_storyline_107_8de6dc63:
 
     # nvldawn "{a=show:show_chat_media}{image=dawn_video_3_ns}"
-    nvldawn ""
+    nvldawn "{a=show:show_chat_media}{image=dawn_video_3_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:19361
 translate zh_Hans femdom_storyline_107_38b927f3:
@@ -40382,7 +40382,7 @@ translate zh_Hans femdom_storyline_107_2f65e8f5:
 translate zh_Hans femdom_storyline_107_958279fa:
 
     # nvldawn "{a=show:show_chat_media}{image=wife_video_7_ns}"
-    nvldawn ""
+    nvldawn "{a=show:show_chat_media}{image=wife_video_7_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:19383
 translate zh_Hans femdom_storyline_107_3a7d0cd9:
@@ -41460,7 +41460,7 @@ translate zh_Hans femdom_storyline_115_60074b02:
 translate zh_Hans femdom_storyline_115_2e053e9d:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_11}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_11}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:20042
 translate zh_Hans femdom_storyline_115_f5a7456d:
@@ -41690,7 +41690,7 @@ translate zh_Hans femdom_storyline_116_4e4f1b04:
 translate zh_Hans femdom_storyline_116_c0e61b42:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_12}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_12}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:20170
 translate zh_Hans femdom_storyline_116_5f7538a9:
@@ -41764,7 +41764,7 @@ translate zh_Hans femdom_storyline_117_c94d419a:
 translate zh_Hans femdom_storyline_117_c26ca09e:
 
     # nvljenna "{a=show:show_chat_media}{image=femdom_video_1_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=femdom_video_1_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:20231
 translate zh_Hans femdom_storyline_117_2d7b504d:
@@ -42092,7 +42092,7 @@ translate zh_Hans femdom_storyline_119_fc0f87b9:
 translate zh_Hans femdom_storyline_119_6f9d85f3:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_16_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_16_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:20411
 translate zh_Hans femdom_storyline_119_024b9580:
@@ -42756,7 +42756,7 @@ translate zh_Hans femdom_storyline_124_b7e7f8f9:
 translate zh_Hans femdom_storyline_124_26e1d288:
 
     # nvljenna "{a=show:show_chat_media}{image=femdom_video_2_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=femdom_video_2_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:20809
 translate zh_Hans femdom_storyline_124_66f102ff:
@@ -43268,7 +43268,7 @@ translate zh_Hans femdom_storyline_128_ca7674dd:
 translate zh_Hans femdom_storyline_128_d40177d5:
 
     # nvlchristina "{a=show:show_chat_media}{image=christina_pic_2}"
-    nvlchristina ""
+    nvlchristina "{a=show:show_chat_media}{image=christina_pic_2}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:21113
 translate zh_Hans femdom_storyline_128_b19f7115:
@@ -43482,7 +43482,7 @@ translate zh_Hans femdom_storyline_130_e834cc19:
 translate zh_Hans femdom_storyline_130_d03c7552:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_17_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=wife_video_17_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:21253
 translate zh_Hans femdom_storyline_130_e2193c9e:
@@ -43920,7 +43920,7 @@ translate zh_Hans femdom_storyline_133_34b507ea:
 translate zh_Hans femdom_storyline_133_b58c903c:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_18_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_18_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:21498
 translate zh_Hans femdom_storyline_133_5520477c:
@@ -44036,7 +44036,7 @@ translate zh_Hans femdom_storyline_134_f58debb6:
 translate zh_Hans femdom_storyline_134_c594e255:
 
     # nvljenna "{a=show:show_chat_media}{image=femdom_video_3_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=femdom_video_3_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:21573
 translate zh_Hans femdom_storyline_134_92286533:
@@ -44618,7 +44618,7 @@ translate zh_Hans femdom_storyline_137_84d97056:
 translate zh_Hans femdom_storyline_137_86a4de4b:
 
     # nvlwsis "{a=show:show_chat_media}{image=w_sister_video_29_ns}"
-    nvlwsis ""
+    nvlwsis "{a=show:show_chat_media}{image=w_sister_video_29_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:21870
 translate zh_Hans femdom_storyline_137_873445dc:
@@ -44850,7 +44850,7 @@ translate zh_Hans femdom_storyline_139_094bb972:
 translate zh_Hans femdom_storyline_139_3a7d9599:
 
     # nvljohn "{a=show:show_chat_media}{image=julia_video_3_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=julia_video_3_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:22016
 translate zh_Hans femdom_storyline_139_b66cd3db:
@@ -44936,7 +44936,7 @@ translate zh_Hans femdom_storyline_140_9d3bfdf6:
 translate zh_Hans femdom_storyline_140_47535ba3:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_19_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_19_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:22083
 translate zh_Hans femdom_storyline_140_79ba577b:
@@ -45454,7 +45454,7 @@ translate zh_Hans femdom_storyline_144_0885164c:
 translate zh_Hans femdom_storyline_144_38fe2fd1:
 
     # nvljohn "{a=show:show_chat_media}{image=mc_pic_65}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=mc_pic_65}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:22400
 translate zh_Hans femdom_storyline_144_56123bc1:
@@ -45648,7 +45648,7 @@ translate zh_Hans femdom_storyline_145_f6fabbba:
 translate zh_Hans femdom_storyline_145_68d70f2c:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_pic_4}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_pic_4}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:22501
 translate zh_Hans femdom_storyline_145_9e74ea52:
@@ -45930,7 +45930,7 @@ translate zh_Hans femdom_storyline_148_45db7a27:
 translate zh_Hans femdom_storyline_148_e254a8c1:
 
     # nvlwife "{a=show:show_chat_media}{image=mc_pic_66}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=mc_pic_66}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:22694
 translate zh_Hans femdom_storyline_148_79ca6de3:
@@ -46138,7 +46138,7 @@ translate zh_Hans femdom_storyline_150_aab099ea:
 translate zh_Hans femdom_storyline_150_e70bdae1:
 
     # nvljenna "{a=show:show_chat_media}{image=mc_pic_67}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=mc_pic_67}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:22832
 translate zh_Hans femdom_storyline_150_e7533874:
@@ -46376,7 +46376,7 @@ translate zh_Hans femdom_storyline_152_204e205b:
 translate zh_Hans femdom_storyline_152_1d1024fe:
 
     # nvlsalim "{a=show:show_chat_media}{image=wife_video_20_ns}"
-    nvlsalim ""
+    nvlsalim "{a=show:show_chat_media}{image=wife_video_20_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:22980
 translate zh_Hans femdom_storyline_152_63a82b38:
@@ -46940,7 +46940,7 @@ translate zh_Hans femdom_storyline_155_8826faf1:
 translate zh_Hans femdom_storyline_155_ee5ae154:
 
     # nvljohn "{a=show:show_chat_media}{image=w_sister_video_30_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=w_sister_video_30_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:23269
 translate zh_Hans femdom_storyline_155_a1c3d97a:
@@ -47098,7 +47098,7 @@ translate zh_Hans femdom_storyline_156_2225cea5:
 translate zh_Hans femdom_storyline_156_bb4dee4c:
 
     # nvlwife "{a=show:show_chat_media}{image=mc_pic_68}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=mc_pic_68}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:23360
 translate zh_Hans femdom_storyline_156_8f0f3b64:
@@ -47432,7 +47432,7 @@ translate zh_Hans femdom_storyline_158_6fe66871:
 translate zh_Hans femdom_storyline_158_ab84cb4e:
 
     # nvlwsis "{a=show:show_chat_media}{image=w_sister_video_31_ns}"
-    nvlwsis ""
+    nvlwsis "{a=show:show_chat_media}{image=w_sister_video_31_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:23539
 translate zh_Hans femdom_storyline_158_d6476196:
@@ -47790,7 +47790,7 @@ translate zh_Hans femdom_storyline_160_7026884f:
 translate zh_Hans femdom_storyline_160_1c622f53:
 
     # nvljenna "{a=show:show_chat_media}{image=mc_pic_69}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=mc_pic_69}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:23741
 translate zh_Hans femdom_storyline_160_53bffd9f:
@@ -48678,7 +48678,7 @@ translate zh_Hans femdom_storyline_166_a1c4362f:
 translate zh_Hans femdom_storyline_166_a1bf9d5d:
 
     # nvlwife "{a=show:show_chat_media}{image=mc_pic_70}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=mc_pic_70}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:24235
 translate zh_Hans femdom_storyline_166_45d84fd3:
@@ -48884,7 +48884,7 @@ translate zh_Hans femdom_storyline_167_70ef01e9:
 translate zh_Hans femdom_storyline_167_1a37b604:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_pic_5}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_pic_5}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:24340
 translate zh_Hans femdom_storyline_167_3b40c4cf:
@@ -49066,7 +49066,7 @@ translate zh_Hans femdom_storyline_168_1efe1ac4:
 translate zh_Hans femdom_storyline_168_b8755916:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_13}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_13}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:24438
 translate zh_Hans femdom_storyline_168_f2bac457:
@@ -49474,7 +49474,7 @@ translate zh_Hans femdom_storyline_171_650bdc3f:
 translate zh_Hans femdom_storyline_171_0a4d170b:
 
     # nvlwife "{a=show:show_chat_media}{image=mc_pic_71}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=mc_pic_71}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:24674
 translate zh_Hans femdom_storyline_171_fb6dcd2e:
@@ -49826,7 +49826,7 @@ translate zh_Hans femdom_storyline_173_bff8bf74:
 translate zh_Hans femdom_storyline_173_31cc2b03:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_25_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_video_25_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:24858
 translate zh_Hans femdom_storyline_173_6dcc36fa:
@@ -50148,7 +50148,7 @@ translate zh_Hans femdom_storyline_175_13f7bd88:
 translate zh_Hans femdom_storyline_175_babc91bd:
 
     # nvlwife "{a=show:show_chat_media}{image=mc_pic_79}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=mc_pic_79}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:25040
 translate zh_Hans femdom_storyline_175_fdc39897:
@@ -50274,7 +50274,7 @@ translate zh_Hans femdom_storyline_176_76b2fe88:
 translate zh_Hans femdom_storyline_176_fe126801:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_813}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_813}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:25120
 translate zh_Hans femdom_storyline_176_78fb93e2:
@@ -50480,7 +50480,7 @@ translate zh_Hans femdom_storyline_177_b6467a36:
 translate zh_Hans femdom_storyline_177_2298525f:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_pic_6}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_pic_6}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:25225
 translate zh_Hans femdom_storyline_177_eb48042a:
@@ -50602,7 +50602,7 @@ translate zh_Hans femdom_storyline_178_bac7f252:
 translate zh_Hans femdom_storyline_178_e9f6c1d9:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_26_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=wife_video_26_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:25300
 translate zh_Hans femdom_storyline_178_6c967fe8:
@@ -50698,7 +50698,7 @@ translate zh_Hans femdom_storyline_178_49a6f1a7:
 translate zh_Hans femdom_storyline_178_cc71cba4:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_pic_117}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_pic_117}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:25336
 translate zh_Hans femdom_storyline_178_09dfc6a8:
@@ -50728,7 +50728,7 @@ translate zh_Hans femdom_storyline_178_416c5dfa:
 translate zh_Hans femdom_storyline_178_80b6f544:
 
     # nvljenna "{a=show:show_chat_media}{image=sissy_video_10_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=sissy_video_10_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:25350
 translate zh_Hans femdom_storyline_178_7b2c917b:
@@ -51148,7 +51148,7 @@ translate zh_Hans femdom_storyline_181_92ae0572:
 translate zh_Hans femdom_storyline_181_46dac9c0:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_359}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_359}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:25604
 translate zh_Hans femdom_storyline_181_07f4c457:
@@ -51180,7 +51180,7 @@ translate zh_Hans femdom_storyline_182_5df05c6a:
     # nvl clear
     # nvljulia "Uncle, you won’t believe what happened to me"
     nvl clear
-    nvljulia "叔叔，你绝对想不到我最近都他妈经历了些什么骚事儿！"
+    nvljulia "叔叔，你绝对想不到我最近发生了什么！"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:25647
 translate zh_Hans femdom_storyline_182_a7d6221f:
@@ -51216,7 +51216,7 @@ translate zh_Hans femdom_storyline_182_337ed89f:
 translate zh_Hans femdom_storyline_182_3119792e:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_1}"
-    nvljulia ""
+    nvljulia "{a=show:show_chat_media}{image=julia_pic_1}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:25663
 translate zh_Hans femdom_storyline_182_35b94987:
@@ -51240,19 +51240,19 @@ translate zh_Hans femdom_storyline_182_3ebe068c:
 translate zh_Hans femdom_storyline_182_e5c82ebb:
 
     # nvljulia "But seeing how my mum and aunt live, I realised I want the same"
-    nvljulia "可看着我妈和我阿姨那浪荡劲儿，我才发现，我也想要那种生活！"
+    nvljulia "可看着我妈和阿姨的生活，我才发现，我也想要那样。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:25671
 translate zh_Hans femdom_storyline_182_e19019f8:
 
     # nvljulia "I want someone who cares about me too"
-    nvljulia "我也想要个能把我当宝贝、死死盯着我的男人。"
+    nvljulia "我也想要一个在乎我的人。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:25673
 translate zh_Hans femdom_storyline_182_1dae375b:
 
     # nvljulia "Someone who gets jealous"
-    nvljulia "一个会为我吃醋吃得要死要活的男人！"
+    nvljulia "一个会为我吃醋的人。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:25675
 translate zh_Hans femdom_storyline_182_1541f956:
@@ -51264,19 +51264,19 @@ translate zh_Hans femdom_storyline_182_1541f956:
 translate zh_Hans femdom_storyline_182_2a3778a5:
 
     # nvljulia "Haha. Of course!"
-    nvljulia "哈哈！那还用说吗？！"
+    nvljulia "哈哈。当然啦！"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:25679
 translate zh_Hans femdom_storyline_182_71e5d7cf:
 
     # nvljulia "I’m already cheating on him"
-    nvljulia "我早就已经给他戴上绿帽了！"
+    nvljulia "我已经背着他做了。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:25683
 translate zh_Hans femdom_storyline_182_ebb50243:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_video_4_ns}"
-    nvljulia ""
+    nvljulia "{a=show:show_chat_media}{image=julia_video_4_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:25687
 translate zh_Hans femdom_storyline_182_9aebbfb2:
@@ -51300,7 +51300,7 @@ translate zh_Hans femdom_storyline_182_664131c7:
 translate zh_Hans femdom_storyline_182_cf04b3a3:
 
     # nvljulia "It's so much better than just fucking"
-    nvljulia "这可比他妈的单纯干炮爽多了！"
+    nvljulia "这比单纯做那种事特别多了！"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:25695
 translate zh_Hans femdom_storyline_182_aa01ad29:
@@ -51312,7 +51312,7 @@ translate zh_Hans femdom_storyline_182_aa01ad29:
 translate zh_Hans femdom_storyline_182_601d1b2d:
 
     # nvljulia "Anyway, I came like crazy yesterday"
-    nvljulia "总之，我昨天高潮得简直像个疯婆子！"
+    nvljulia "总之，我昨天真的很忘我。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:25699
 translate zh_Hans femdom_storyline_182_49c87e25:
@@ -51348,7 +51348,7 @@ translate zh_Hans femdom_storyline_182_0456ea92:
 translate zh_Hans femdom_storyline_182_3903ce12:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_2}"
-    nvljulia ""
+    nvljulia "{a=show:show_chat_media}{image=julia_pic_2}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:25715
 translate zh_Hans femdom_storyline_182_9faffe5f:
@@ -51584,7 +51584,7 @@ translate zh_Hans femdom_storyline_184_6500117d:
 translate zh_Hans femdom_storyline_184_d9f6e357:
 
     # nvlwife "{a=show:show_chat_media}{image=mc_pic_80}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=mc_pic_80}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:25863
 translate zh_Hans femdom_storyline_184_60bb5741:
@@ -51794,7 +51794,7 @@ translate zh_Hans femdom_storyline_184_16e5e245:
 translate zh_Hans femdom_storyline_184_3a5433bb:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_10_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_10_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:25941
 translate zh_Hans femdom_storyline_184_d9e5e788:
@@ -52038,7 +52038,7 @@ translate zh_Hans femdom_storyline_186_59a9d6af:
 translate zh_Hans femdom_storyline_186_ea348b32:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_3}"
-    nvljulia ""
+    nvljulia "{a=show:show_chat_media}{image=julia_pic_3}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:26091
 translate zh_Hans femdom_storyline_186_913470de:
@@ -52124,7 +52124,7 @@ translate zh_Hans femdom_storyline_187_3871945c:
 translate zh_Hans femdom_storyline_187_3095cb4f:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_4}"
-    nvljulia ""
+    nvljulia "{a=show:show_chat_media}{image=julia_pic_4}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:26156
 translate zh_Hans femdom_storyline_187_166a2871:
@@ -52582,7 +52582,7 @@ translate zh_Hans femdom_storyline_188_2290f8e2:
 translate zh_Hans femdom_storyline_188_bcbee15f:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_14}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_14}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:26347
 translate zh_Hans femdom_storyline_188_e19ab24c:
@@ -52806,13 +52806,13 @@ translate zh_Hans femdom_storyline_189_3c1aec7f:
 translate zh_Hans femdom_storyline_189_88064b3b:
 
     # nvlwife "{a=show:show_chat_media}{image=sissy_video_11_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=sissy_video_11_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:26469
 translate zh_Hans femdom_storyline_189_7cc9b8b8:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_132_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_132_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:26474
 translate zh_Hans femdom_storyline_189_30d99f4d:
@@ -53082,7 +53082,7 @@ translate zh_Hans femdom_storyline_192_dd847a4b:
 translate zh_Hans femdom_storyline_192_c929c84b:
 
     # nvljax "{a=show:show_chat_media}{image=wife_pic_15}"
-    nvljax ""
+    nvljax "{a=show:show_chat_media}{image=wife_pic_15}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:26665
 translate zh_Hans femdom_storyline_192_a1913330:
@@ -53562,7 +53562,7 @@ translate zh_Hans femdom_storyline_196_ab01cec9:
 translate zh_Hans femdom_storyline_196_cae75378:
 
     # nvlwife "{a=show:show_chat_media}{image=mc_pic_81}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=mc_pic_81}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:26963
 translate zh_Hans femdom_storyline_196_a6f42a95:
@@ -54512,7 +54512,7 @@ translate zh_Hans femdom_storyline_200_c55b76f0:
 translate zh_Hans femdom_storyline_200_32e063d5:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_167_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_167_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27417
 translate zh_Hans femdom_storyline_200_1b9228b1:
@@ -54942,7 +54942,7 @@ translate zh_Hans femdom_storyline_202_7832cee2:
 translate zh_Hans femdom_storyline_202_3ffdfa70:
 
     # nvlwife "{a=show:show_chat_media}{image=jenna_pic_7}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=jenna_pic_7}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27642
 translate zh_Hans femdom_storyline_202_73e51ca4:
@@ -55032,7 +55032,7 @@ translate zh_Hans femdom_storyline_202_ece4d80c:
 translate zh_Hans femdom_storyline_202_d483dff7:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_650}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_650}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27676
 translate zh_Hans femdom_storyline_202_4de2d125:
@@ -55190,7 +55190,7 @@ translate zh_Hans femdom_storyline_203_6281e272:
 translate zh_Hans femdom_storyline_203_cd3a9970:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_27_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=wife_video_27_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27765
 translate zh_Hans femdom_storyline_203_e7cea3e9:
@@ -55456,7 +55456,7 @@ translate zh_Hans femdom_storyline_204_e767cdc6:
 translate zh_Hans femdom_storyline_204_68473f54:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_video_5_ns}"
-    nvljulia ""
+    nvljulia "{a=show:show_chat_media}{image=julia_video_5_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27890
 translate zh_Hans femdom_storyline_204_8bf27cfd:
@@ -56162,7 +56162,7 @@ translate zh_Hans femdom_storyline_209_adf1e51c:
 translate zh_Hans femdom_storyline_209_c7d16535:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_video_1_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_video_1_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:28346
 translate zh_Hans femdom_storyline_209_c6d73ab5:
@@ -56770,7 +56770,7 @@ translate zh_Hans femdom_storyline_214_b6d06ce2:
 translate zh_Hans femdom_storyline_214_343c2717:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_5}"
-    nvljulia ""
+    nvljulia "{a=show:show_chat_media}{image=julia_pic_5}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:28693
 translate zh_Hans femdom_storyline_214_34ff23e9:
@@ -57314,7 +57314,7 @@ translate zh_Hans femdom_storyline_216_f7c384e1:
 translate zh_Hans femdom_storyline_216_d40177d5:
 
     # nvlchristina "{a=show:show_chat_media}{image=christina_pic_2}"
-    nvlchristina ""
+    nvlchristina "{a=show:show_chat_media}{image=christina_pic_2}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:28956
 translate zh_Hans femdom_storyline_216_b89963b6:
@@ -57938,7 +57938,7 @@ translate zh_Hans femdom_storyline_219_e925500e:
 translate zh_Hans femdom_storyline_219_0ce6cd11:
 
     # nvljohn "{a=show:show_chat_media}{image=wife_video_28_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=wife_video_28_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:29294
 translate zh_Hans femdom_storyline_219_ffe939e7:
@@ -58622,7 +58622,7 @@ translate zh_Hans femdom_storyline_222_0f9f811f:
 translate zh_Hans femdom_storyline_222_de015b06:
 
     # nvljenna "{a=show:show_chat_media}{image=sissy_video_12_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=sissy_video_12_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:29649
 translate zh_Hans femdom_storyline_222_8fad2193:
@@ -59200,7 +59200,7 @@ translate zh_Hans femdom_storyline_226_bb91283c:
 translate zh_Hans femdom_storyline_226_d8a83a70:
 
     # nvljenna "{a=show:show_chat_media}{image=wife_video_432_ns}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=wife_video_432_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:29991
 translate zh_Hans femdom_storyline_226_ec73e0e1:
@@ -59742,7 +59742,7 @@ translate zh_Hans femdom_storyline_230_38eb6fa4:
 translate zh_Hans femdom_storyline_230_5b6ba4dd:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_918}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_918}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:30320
 translate zh_Hans femdom_storyline_230_aa55398c:
@@ -60128,7 +60128,7 @@ translate zh_Hans femdom_storyline_232_46a5be0a:
 translate zh_Hans femdom_storyline_232_3e71706d:
 
     # nvlsalim "{a=show:show_chat_media}{image=sissy_pic_42}"
-    nvlsalim ""
+    nvlsalim "{a=show:show_chat_media}{image=sissy_pic_42}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:30533
 translate zh_Hans femdom_storyline_232_f80e1c3f:
@@ -60158,7 +60158,7 @@ translate zh_Hans femdom_storyline_232_0318c657:
 translate zh_Hans femdom_storyline_232_786182c2:
 
     # nvlsalim "{a=show:show_chat_media}{image=femdom_pic_1}"
-    nvlsalim ""
+    nvlsalim "{a=show:show_chat_media}{image=femdom_pic_1}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:30549
 translate zh_Hans femdom_storyline_232_84a9b2c2:
@@ -60502,7 +60502,7 @@ translate zh_Hans femdom_storyline_233_90a364fe:
 translate zh_Hans femdom_storyline_233_6277a046:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_81}"
-    nvljulia ""
+    nvljulia "{a=show:show_chat_media}{image=julia_pic_81}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:30725
 translate zh_Hans femdom_storyline_233_a43e3b6d:
@@ -60514,13 +60514,13 @@ translate zh_Hans femdom_storyline_233_a43e3b6d:
 translate zh_Hans femdom_storyline_233_be009674:
 
     # nvljohn "They won’t."
-    nvljohn "他们不会。"
+    nvljohn "不会的。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:30729
 translate zh_Hans femdom_storyline_233_8cc487af:
 
     # nvljohn "I’ll be there."
-    nvljohn "我他妈的会去的。"
+    nvljohn "我会去的。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:30731
 translate zh_Hans femdom_storyline_233_26b63293_1:
@@ -62204,7 +62204,7 @@ translate zh_Hans femdom_storyline_243_c7530a20:
 translate zh_Hans femdom_storyline_243_7b285dc1:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_435_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_435_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:31715
 translate zh_Hans femdom_storyline_243_56163f04:
@@ -62744,7 +62744,7 @@ translate zh_Hans femdom_storyline_247_5d52557c:
 translate zh_Hans femdom_storyline_247_48bee993:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_436_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_436_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:32069
 translate zh_Hans femdom_storyline_247_88d598d2:
@@ -63418,7 +63418,7 @@ translate zh_Hans femdom_storyline_251_0cdbda1a:
 translate zh_Hans femdom_storyline_251_81c06f7a:
 
     # nvljenna "{a=show:show_chat_media}{image=sissy_pic_43}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=sissy_pic_43}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:32455
 translate zh_Hans femdom_storyline_251_19f44691:
@@ -63430,7 +63430,7 @@ translate zh_Hans femdom_storyline_251_19f44691:
 translate zh_Hans femdom_storyline_251_9122301b:
 
     # nvljenna "{a=show:show_chat_media}{image=sissy_pic_44}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=sissy_pic_44}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:32465
 translate zh_Hans femdom_storyline_251_39cd0b1e:
@@ -63472,7 +63472,7 @@ translate zh_Hans femdom_storyline_251_2b962966:
 translate zh_Hans femdom_storyline_251_dafd42d4:
 
     # nvljenna "{a=show:show_chat_media}{image=sissy_pic_45}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=sissy_pic_45}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:32485
 translate zh_Hans femdom_storyline_251_387121bb:
@@ -63610,13 +63610,13 @@ translate zh_Hans femdom_storyline_252_76b2fe88:
 translate zh_Hans femdom_storyline_252_a9aa394b:
 
     # nvlunknown "{a=show:show_chat_media}{image=sissy_hypno_8_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=sissy_hypno_8_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:32579
 translate zh_Hans femdom_storyline_252_960cd821:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_sissy_13_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=h_sissy_13_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:32585
 translate zh_Hans femdom_storyline_252_b085673a:
@@ -63950,7 +63950,7 @@ translate zh_Hans femdom_storyline_254_04c3c1df:
 translate zh_Hans femdom_storyline_254_a13e2465:
 
     # nvljohn "{a=show:show_chat_media}{image=chastity_pic_17}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=chastity_pic_17}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:32780
 translate zh_Hans femdom_storyline_254_496c086f:
@@ -64186,7 +64186,7 @@ translate zh_Hans femdom_storyline_256_76b2fe88:
 translate zh_Hans femdom_storyline_256_09e17693:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_437_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_437_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:32954
 translate zh_Hans femdom_storyline_256_aab20ac6:
@@ -64446,7 +64446,7 @@ translate zh_Hans femdom_storyline_257_9638b870:
 translate zh_Hans femdom_storyline_257_9e9d9feb:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_919}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_919}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:33092
 translate zh_Hans femdom_storyline_257_88825694:
@@ -64602,7 +64602,7 @@ translate zh_Hans femdom_storyline_258_76b2fe88:
 translate zh_Hans femdom_storyline_258_3795c733:
 
     # nvljenna "{a=show:show_chat_media}{image=anal_pic_2}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=anal_pic_2}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:33194
 translate zh_Hans femdom_storyline_258_60c31e64:
@@ -64620,7 +64620,7 @@ translate zh_Hans femdom_storyline_258_884d5187:
 translate zh_Hans femdom_storyline_258_86b36634:
 
     # nvljenna "{a=show:show_chat_media}{image=anal_pic_3}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=anal_pic_3}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:33206
 translate zh_Hans femdom_storyline_258_3efc14aa:
@@ -64698,7 +64698,7 @@ translate zh_Hans femdom_storyline_258_a1b8a1bf:
 translate zh_Hans femdom_storyline_258_e8805123:
 
     # nvljenna "{a=show:show_chat_media}{image=sissy_pic_46}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=sissy_pic_46}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:33238
 translate zh_Hans femdom_storyline_258_beb74b61:
@@ -64722,7 +64722,7 @@ translate zh_Hans femdom_storyline_258_b4b69a2f:
 translate zh_Hans femdom_storyline_258_1d83e536:
 
     # nvljenna "{a=show:show_chat_media}{image=sissy_pic_47}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=sissy_pic_47}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:33252
 translate zh_Hans femdom_storyline_258_3029a729:
@@ -64752,7 +64752,7 @@ translate zh_Hans femdom_storyline_258_4f7978df:
 translate zh_Hans femdom_storyline_258_d0254521:
 
     # nvljenna "{a=show:show_chat_media}{image=h_sissy_pic_1}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_sissy_pic_1}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:33268
 translate zh_Hans femdom_storyline_258_5e1017ba:
@@ -64776,7 +64776,7 @@ translate zh_Hans femdom_storyline_258_b8be1c5a:
 translate zh_Hans femdom_storyline_258_8375abc8:
 
     # nvljenna "{a=show:show_chat_media}{image=h_sissy_pic_2}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=h_sissy_pic_2}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:33282
 translate zh_Hans femdom_storyline_258_eaf20826:
@@ -64898,7 +64898,7 @@ translate zh_Hans femdom_storyline_259_85d479e5:
 translate zh_Hans femdom_storyline_259_25a2b5ae:
 
     # nvlwife "{a=show:show_chat_media}{image=sissy_video_16_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=sissy_video_16_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:33374
 translate zh_Hans femdom_storyline_259_3447900d:
@@ -66118,7 +66118,7 @@ translate zh_Hans femdom_storyline_264_60bb5741_1:
 translate zh_Hans femdom_storyline_264_d4afd15f:
 
     # nvlwife "{a=show:show_chat_media}{image=femdom_video_4_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=femdom_video_4_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:33988
 translate zh_Hans femdom_storyline_264_59d9727c:
@@ -66148,7 +66148,7 @@ translate zh_Hans femdom_storyline_264_82fb55fa:
 translate zh_Hans femdom_storyline_264_a7fcfb69:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_920}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_920}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:34004
 translate zh_Hans femdom_storyline_264_dd847a4b:
@@ -66166,7 +66166,7 @@ translate zh_Hans femdom_storyline_264_b0f2317b:
 translate zh_Hans femdom_storyline_264_086319f5:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_921}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_921}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:34016
 translate zh_Hans femdom_storyline_264_331ba9b7:
@@ -67376,7 +67376,7 @@ translate zh_Hans femdom_storyline_273_875a97ca:
 translate zh_Hans femdom_storyline_273_e91db513:
 
     # nvljenna "{a=show:show_chat_media}{image=bbc_pic_294}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=bbc_pic_294}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:34756
 translate zh_Hans femdom_storyline_273_d81677c1:
@@ -67504,7 +67504,7 @@ translate zh_Hans femdom_storyline_274_a53f64f9:
 translate zh_Hans femdom_storyline_274_1f69e154:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_922}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_922}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:34837
 translate zh_Hans femdom_storyline_274_d6ec4083:
@@ -67624,7 +67624,7 @@ translate zh_Hans femdom_storyline_274_a88c4340:
 translate zh_Hans femdom_storyline_274_eccfa680:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_923}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_923}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:34883
 translate zh_Hans femdom_storyline_274_e8fea8de:
@@ -67992,7 +67992,7 @@ translate zh_Hans femdom_storyline_275_0d7e5a2f:
 translate zh_Hans femdom_storyline_275_3e25e97a:
 
     # nvljohn "{a=show:show_chat_media}{image=w_sister_video_58_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=w_sister_video_58_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:35057
 translate zh_Hans femdom_storyline_275_d061d9ef:
@@ -68016,7 +68016,7 @@ translate zh_Hans femdom_storyline_275_7633828e:
 translate zh_Hans femdom_storyline_275_40c44d74:
 
     # nvljohn "{a=show:show_chat_media}{image=w_sister_video_59_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=w_sister_video_59_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:35071
 translate zh_Hans femdom_storyline_275_db7d6ff8:
@@ -69014,7 +69014,7 @@ translate zh_Hans femdom_storyline_281_5196170c:
 translate zh_Hans femdom_storyline_281_517c425a:
 
     # nvlwife "{a=show:show_chat_media}{image=femdom_pic_3}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=femdom_pic_3}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:35671
 translate zh_Hans femdom_storyline_281_9ef137e4:
@@ -69596,7 +69596,7 @@ translate zh_Hans femdom_storyline_284_3395142c:
 translate zh_Hans femdom_storyline_284_a396d640:
 
     # nvljenna "{a=show:show_chat_media}{image=femdom_pic_4}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=femdom_pic_4}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:35982
 translate zh_Hans femdom_storyline_284_4c7a158b:
@@ -69626,7 +69626,7 @@ translate zh_Hans femdom_storyline_284_fe922a33:
 translate zh_Hans femdom_storyline_284_85fe676d:
 
     # nvljenna "{a=show:show_chat_media}{image=femdom_pic_5}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=femdom_pic_5}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:35998
 translate zh_Hans femdom_storyline_284_af989d4e:
@@ -69884,7 +69884,7 @@ translate zh_Hans femdom_storyline_1000_76b2fe88:
 translate zh_Hans femdom_storyline_1000_cb6ed739:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_femdom_1_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=h_femdom_1_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:36132
 translate zh_Hans femdom_storyline_1000_ac9321db:
@@ -72078,7 +72078,7 @@ translate zh_Hans femdom_storyline_1014_875a97ca:
 translate zh_Hans femdom_storyline_1014_e91db513:
 
     # nvljenna "{a=show:show_chat_media}{image=bbc_pic_294}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=bbc_pic_294}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:37416
 translate zh_Hans femdom_storyline_1014_d81677c1:
@@ -72206,7 +72206,7 @@ translate zh_Hans femdom_storyline_1015_a53f64f9:
 translate zh_Hans femdom_storyline_1015_1f69e154:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_922}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_922}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:37498
 translate zh_Hans femdom_storyline_1015_d6ec4083:
@@ -72332,7 +72332,7 @@ translate zh_Hans femdom_storyline_1015_4ec18309:
 translate zh_Hans femdom_storyline_1015_eccfa680:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_923}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_923}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:37546
 translate zh_Hans femdom_storyline_1015_88825694:
@@ -72586,7 +72586,7 @@ translate zh_Hans femdom_storyline_1016_0d7e5a2f:
 translate zh_Hans femdom_storyline_1016_3e25e97a:
 
     # nvljohn "{a=show:show_chat_media}{image=w_sister_video_58_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=w_sister_video_58_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:37671
 translate zh_Hans femdom_storyline_1016_d061d9ef:
@@ -72610,7 +72610,7 @@ translate zh_Hans femdom_storyline_1016_7633828e:
 translate zh_Hans femdom_storyline_1016_40c44d74:
 
     # nvljohn "{a=show:show_chat_media}{image=w_sister_video_59_ns}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=w_sister_video_59_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:37685
 translate zh_Hans femdom_storyline_1016_db7d6ff8:
@@ -73210,7 +73210,7 @@ translate zh_Hans femdom_storyline_1020_b57be559:
 translate zh_Hans femdom_storyline_1020_3687f1bb:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_pic_867}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_pic_867}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:38041
 translate zh_Hans femdom_storyline_1020_d99bbd5b:
@@ -73240,7 +73240,7 @@ translate zh_Hans femdom_storyline_1020_349993bb:
 translate zh_Hans femdom_storyline_1020_0e1dcd81:
 
     # nvljenna "{a=show:show_chat_media}{image=jenna_pic_868}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=jenna_pic_868}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:38057
 translate zh_Hans femdom_storyline_1020_d88cfe54:
@@ -73348,13 +73348,13 @@ translate zh_Hans femdom_storyline_1021_76b2fe88:
 translate zh_Hans femdom_storyline_1021_d4a6945d:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_femdom_5_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=h_femdom_5_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:38128
 translate zh_Hans femdom_storyline_1021_9dc0f0cc:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_femdom_6_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=h_femdom_6_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:38134
 translate zh_Hans femdom_storyline_1021_57cf4683:
@@ -73908,7 +73908,7 @@ translate zh_Hans femdom_storyline_1025_0a65b1ae:
 translate zh_Hans femdom_storyline_1025_b35f5276:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_pic_83}"
-    nvljulia ""
+    nvljulia "{a=show:show_chat_media}{image=julia_pic_83}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:38467
 translate zh_Hans femdom_storyline_1025_6878b5ce:
@@ -74072,7 +74072,7 @@ translate zh_Hans femdom_storyline_1026_069d0378:
 translate zh_Hans femdom_storyline_1026_40ac43a9:
 
     # nvlwife "{a=show:show_chat_media}{image=femdom_video_6_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=femdom_video_6_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:38560
 translate zh_Hans femdom_storyline_1026_c51560c9:
@@ -74188,13 +74188,13 @@ translate zh_Hans femdom_storyline_1027_6ef55f52:
 translate zh_Hans femdom_storyline_1027_f7c2cb0f:
 
     # nvljulia "And a special thanks for eating me out so well."
-    nvljulia "还要特别感谢你把我下面舔得那么舒服、那么湿。"
+    nvljulia "还要特别感谢你昨晚那样照顾我。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:38631
 translate zh_Hans femdom_storyline_1027_a1c8dc7f:
 
     # nvljohn "I’m glad you liked it, sunshine."
-    nvljohn "你喜欢就好，我的小骚货。"
+    nvljohn "你喜欢就好，亲爱的。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:38633
 translate zh_Hans femdom_storyline_1027_61ca9a94:
@@ -74248,7 +74248,7 @@ translate zh_Hans femdom_storyline_1027_a0e9d66e:
 translate zh_Hans femdom_storyline_1027_f844dd9a:
 
     # nvljulia "{a=show:show_chat_media}{image=julia_video_63_ns}"
-    nvljulia ""
+    nvljulia "{a=show:show_chat_media}{image=julia_video_63_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:38657
 translate zh_Hans femdom_storyline_1027_9c6ec376:
@@ -74326,13 +74326,13 @@ translate zh_Hans femdom_storyline_1028_76b2fe88:
 translate zh_Hans femdom_storyline_1028_62cad31c:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_femdom_7_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=h_femdom_7_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:38718
 translate zh_Hans femdom_storyline_1028_f6b2f0a0:
 
     # nvlunknown "{a=show:show_chat_media}{image=h_femdom_8_ns}"
-    nvlunknown ""
+    nvlunknown "{a=show:show_chat_media}{image=h_femdom_8_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:38724
 translate zh_Hans femdom_storyline_1028_57cf4683:
@@ -74926,7 +74926,7 @@ translate zh_Hans femdom_storyline_1032_5196170c:
 translate zh_Hans femdom_storyline_1032_517c425a:
 
     # nvlwife "{a=show:show_chat_media}{image=femdom_pic_3}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=femdom_pic_3}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:39081
 translate zh_Hans femdom_storyline_1032_9ef137e4:
@@ -75574,7 +75574,7 @@ translate zh_Hans femdom_storyline_1035_54f21278:
 translate zh_Hans femdom_storyline_1035_dba078ea:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_925}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_925}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:39413
 translate zh_Hans femdom_storyline_1035_36ddefd0:
@@ -75788,7 +75788,7 @@ translate zh_Hans femdom_storyline_1037_3395142c:
 translate zh_Hans femdom_storyline_1037_a396d640:
 
     # nvljenna "{a=show:show_chat_media}{image=femdom_pic_4}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=femdom_pic_4}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:39555
 translate zh_Hans femdom_storyline_1037_4c7a158b:
@@ -75818,7 +75818,7 @@ translate zh_Hans femdom_storyline_1037_fe922a33:
 translate zh_Hans femdom_storyline_1037_85fe676d:
 
     # nvljenna "{a=show:show_chat_media}{image=femdom_pic_5}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=femdom_pic_5}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:39571
 translate zh_Hans femdom_storyline_1037_af989d4e:
@@ -76578,7 +76578,7 @@ translate zh_Hans femdom_storyline_1040_3f684b77:
 translate zh_Hans femdom_storyline_1040_f10289d2:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_926}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_926}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:39976
 translate zh_Hans femdom_storyline_1040_16a86fb5:
@@ -76880,7 +76880,7 @@ translate zh_Hans femdom_storyline_1041_9d03668f:
 translate zh_Hans femdom_storyline_1041_f21bb771:
 
     # nvlsalim "{a=show:show_chat_media}{image=wife_pic_927}"
-    nvlsalim ""
+    nvlsalim "{a=show:show_chat_media}{image=wife_pic_927}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:40128
 translate zh_Hans femdom_storyline_1041_1c2ebc1a:
@@ -76954,7 +76954,7 @@ translate zh_Hans femdom_storyline_1042_382b9b0a:
 translate zh_Hans femdom_storyline_1042_dc928de0:
 
     # nvlwife "{a=show:show_chat_media}{image=femdom_pic_6}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=femdom_pic_6}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:40191
 translate zh_Hans femdom_storyline_1042_25385ac6:
@@ -77252,7 +77252,7 @@ translate zh_Hans femdom_storyline_1044_49e9de24:
 translate zh_Hans femdom_storyline_1044_ebc79265:
 
     # nvlwife "{a=show:show_chat_media}{image=w_sister_video_61_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=w_sister_video_61_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:40361
 translate zh_Hans femdom_storyline_1044_7c5affb7:
@@ -77294,7 +77294,7 @@ translate zh_Hans femdom_storyline_1044_d7a6ec5f:
 translate zh_Hans femdom_storyline_1044_28df11c9:
 
     # nvlwife "{a=show:show_chat_media}{image=w_sister_video_62_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=w_sister_video_62_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:40381
 translate zh_Hans femdom_storyline_1044_1b9228b1:
@@ -77926,7 +77926,7 @@ translate zh_Hans femdom_storyline_1048_0cdbda1a:
 translate zh_Hans femdom_storyline_1048_81c06f7a:
 
     # nvljenna "{a=show:show_chat_media}{image=sissy_pic_43}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=sissy_pic_43}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:40741
 translate zh_Hans femdom_storyline_1048_adc25697:
@@ -77938,7 +77938,7 @@ translate zh_Hans femdom_storyline_1048_adc25697:
 translate zh_Hans femdom_storyline_1048_9122301b:
 
     # nvljenna "{a=show:show_chat_media}{image=sissy_pic_44}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=sissy_pic_44}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:40751
 translate zh_Hans femdom_storyline_1048_f881a1de:
@@ -77980,7 +77980,7 @@ translate zh_Hans femdom_storyline_1048_62c0667b:
 translate zh_Hans femdom_storyline_1048_dafd42d4:
 
     # nvljenna "{a=show:show_chat_media}{image=sissy_pic_45}"
-    nvljenna ""
+    nvljenna "{a=show:show_chat_media}{image=sissy_pic_45}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:40771
 translate zh_Hans femdom_storyline_1048_387121bb:
@@ -78206,7 +78206,7 @@ translate zh_Hans femdom_storyline_1050_04c3c1df:
 translate zh_Hans femdom_storyline_1050_7d72ac7a:
 
     # nvljohn "{a=show:show_chat_media}{image=mc_pic_108}"
-    nvljohn ""
+    nvljohn "{a=show:show_chat_media}{image=mc_pic_108}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:40917
 translate zh_Hans femdom_storyline_1050_cc040529:
@@ -78346,7 +78346,7 @@ translate zh_Hans femdom_storyline_1052_76b2fe88:
 translate zh_Hans femdom_storyline_1052_09e17693:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_video_437_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_video_437_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:41046
 translate zh_Hans femdom_storyline_1052_b05a5345:
@@ -78656,7 +78656,7 @@ translate zh_Hans femdom_storyline_1054_9638b870:
 translate zh_Hans femdom_storyline_1054_9e9d9feb:
 
     # nvlwife "{a=show:show_chat_media}{image=wife_pic_919}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=wife_pic_919}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:41234
 translate zh_Hans femdom_storyline_1054_c902e51f:
@@ -78854,7 +78854,7 @@ translate zh_Hans femdom_storyline_1055_76b2fe88:
 translate zh_Hans femdom_storyline_1055_d8859760:
 
     # nvlwife "{a=show:show_chat_media}{image=femdom_video_7_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=femdom_video_7_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:41350
 translate zh_Hans femdom_storyline_1055_8e2659cb:
@@ -78890,7 +78890,7 @@ translate zh_Hans femdom_storyline_1055_ff3bc7f2:
 translate zh_Hans femdom_storyline_1055_6645591a:
 
     # nvlwife "{a=show:show_chat_media}{image=mc_video_49_ns}"
-    nvlwife ""
+    nvlwife "{a=show:show_chat_media}{image=mc_video_49_ns}"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:41368
 translate zh_Hans femdom_storyline_1055_7886dbef:

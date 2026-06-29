@@ -634,7 +634,7 @@ translate zh_Hans wife_main_menu_phone_fffd8f29:
 translate zh_Hans wife_main_menu_phone_ae29ce36:
 
     # nvlfollower1 "{color=#000}You like it, don't you? Do you want to play with it?" nointeract
-    nvlfollower1 "{color=#000}You like it, don't you? Do you want to play with it?" nointeract
+    nvlfollower1 "{color=#000}你喜欢，对吧？想玩玩吗？" nointeract
 
 # wife_phone.rpy:416
 translate zh_Hans wife_main_menu_phone_79f1e833:

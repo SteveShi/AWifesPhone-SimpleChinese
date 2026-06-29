@@ -186,7 +186,7 @@ translate zh_Hans stepsis_mark_storyline_0_f1e378dd:
 translate zh_Hans stepsis_mark_storyline_0_a9218bba:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_94}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_94}"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:123
 translate zh_Hans stepsis_mark_storyline_0_1e591cf0:
@@ -318,7 +318,7 @@ translate zh_Hans stepsis_mark_storyline_0_011798f9:
 translate zh_Hans stepsis_mark_storyline_0_a54630fd:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_97}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_97}"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:171
 translate zh_Hans stepsis_mark_storyline_0_1b22aee5:
@@ -608,7 +608,7 @@ translate zh_Hans stepsis_mark_storyline_1_c1a03465:
 translate zh_Hans stepsis_mark_storyline_1_5c3aa280:
 
     # nvlmark "{a=show:show_chat_media}{image=sis_pic_98}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=sis_pic_98}"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:306
 translate zh_Hans stepsis_mark_storyline_1_f0c727ab:
@@ -668,7 +668,7 @@ translate zh_Hans stepsis_mark_storyline_1_16c9978a_2:
 translate zh_Hans stepsis_mark_storyline_1_c1a908d4:
 
     # nvlmark "{a=show:show_chat_media}{image=sis_pic_99}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=sis_pic_99}"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:330
 translate zh_Hans stepsis_mark_storyline_1_7151d45c:
@@ -782,7 +782,7 @@ translate zh_Hans stepsis_mark_storyline_1_cd1eb1bd:
 translate zh_Hans stepsis_mark_storyline_1_dc4493e7:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_100}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_100}"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:372
 translate zh_Hans stepsis_mark_storyline_1_cd78b23a:
@@ -932,7 +932,7 @@ translate zh_Hans stepsis_mark_storyline_2_76b2fe88:
 translate zh_Hans stepsis_mark_storyline_2_33fb5137:
 
     # nvlmark "{a=show:show_chat_media}{image=white_pic_9}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=white_pic_9}"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:459
 translate zh_Hans stepsis_mark_storyline_2_cde84e11:
@@ -992,7 +992,7 @@ translate zh_Hans stepsis_mark_storyline_2_c3bd04a3:
 translate zh_Hans stepsis_mark_storyline_2_ad24affb:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_101}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_101}"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:483
 translate zh_Hans stepsis_mark_storyline_2_1e591cf0:
@@ -1040,7 +1040,7 @@ translate zh_Hans stepsis_mark_storyline_2_f1b75842:
 translate zh_Hans stepsis_mark_storyline_2_7e05b38d:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_102}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_102}"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:503
 translate zh_Hans stepsis_mark_storyline_2_e9f572c4:
@@ -1384,7 +1384,7 @@ translate zh_Hans stepsis_mark_storyline_4_76b2fe88:
 translate zh_Hans stepsis_mark_storyline_4_59412ed5:
 
     # nvlmark "{a=show:show_chat_media}{image=sis_video_1_ns}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=sis_video_1_ns}"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:689
 translate zh_Hans stepsis_mark_storyline_4_00c3f4ff:
@@ -2406,7 +2406,7 @@ translate zh_Hans stepsis_mark_storyline_8_ec34b792:
 translate zh_Hans stepsis_mark_storyline_8_aead8e07:
 
     # nvlmark "{a=show:show_chat_media}{image=sis_pic_103}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=sis_pic_103}"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:1171
 translate zh_Hans stepsis_mark_storyline_8_ff5f726e:
@@ -2436,7 +2436,7 @@ translate zh_Hans stepsis_mark_storyline_8_08d0f2f0:
 translate zh_Hans stepsis_mark_storyline_8_74cdb998:
 
     # nvlmark "{a=show:show_chat_media}{image=sis_pic_104}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=sis_pic_104}"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:1185
 translate zh_Hans stepsis_mark_storyline_8_d395f47e:
@@ -2466,13 +2466,13 @@ translate zh_Hans stepsis_mark_storyline_8_e9cbed92:
 translate zh_Hans stepsis_mark_storyline_8_460d10a5:
 
     # nvlmark "{a=show:show_chat_media}{image=sis_pic_105}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=sis_pic_105}"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:1201
 translate zh_Hans stepsis_mark_storyline_8_6c8192f4:
 
     # nvlmark "{a=show:show_chat_media}{image=sis_pic_106}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=sis_pic_106}"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:1205
 translate zh_Hans stepsis_mark_storyline_8_ebcb137f:
@@ -2520,7 +2520,7 @@ translate zh_Hans stepsis_mark_storyline_8_cb7b6e4d:
 translate zh_Hans stepsis_mark_storyline_8_aa860f34:
 
     # nvlmark "{a=show:show_chat_media}{image=sis_pic_107}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=sis_pic_107}"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:1225
 translate zh_Hans stepsis_mark_storyline_8_944e293c:
@@ -2720,7 +2720,7 @@ translate zh_Hans stepsis_mark_storyline_9_0d506f7c:
 translate zh_Hans stepsis_mark_storyline_9_2fca3210:
 
     # nvlstepsis "{a=show:show_chat_media}{image=maria_pic_0}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=maria_pic_0}"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:1330
 translate zh_Hans stepsis_mark_storyline_9_40d49eb9:
@@ -2738,7 +2738,7 @@ translate zh_Hans stepsis_mark_storyline_9_4ebd1140:
 translate zh_Hans stepsis_mark_storyline_9_4838d75b:
 
     # nvlstepsis "{a=show:show_chat_media}{image=maria_pic_5}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=maria_pic_5}"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:1340
 translate zh_Hans stepsis_mark_storyline_9_cf86dfcd:
@@ -2756,7 +2756,7 @@ translate zh_Hans stepsis_mark_storyline_9_b5532db0:
 translate zh_Hans stepsis_mark_storyline_9_f22afb88:
 
     # nvlstepsis "{a=show:show_chat_media}{image=maria_pic_6}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=maria_pic_6}"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:1350
 translate zh_Hans stepsis_mark_storyline_9_f4c8a1fd:
@@ -2998,7 +2998,7 @@ translate zh_Hans stepsis_mark_storyline_10_f49683b3:
 translate zh_Hans stepsis_mark_storyline_10_2fca3210:
 
     # nvlstepsis "{a=show:show_chat_media}{image=maria_pic_0}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=maria_pic_0}"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:1467
 translate zh_Hans stepsis_mark_storyline_10_c47017d9:
@@ -3662,7 +3662,7 @@ translate zh_Hans stepsis_mark_storyline_12_f01d6f95:
 translate zh_Hans stepsis_mark_storyline_12_27f8a981:
 
     # nvlmaria "{a=show:show_chat_media}{image=maria_pic_10}"
-    nvlmaria ""
+    nvlmaria "{a=show:show_chat_media}{image=maria_pic_10}"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:1761
 translate zh_Hans stepsis_mark_storyline_12_ef874dc0:
@@ -3680,7 +3680,7 @@ translate zh_Hans stepsis_mark_storyline_12_a3b57472:
 translate zh_Hans stepsis_mark_storyline_12_99f0403d:
 
     # nvlmaria "{a=show:show_chat_media}{image=maria_pic_11}"
-    nvlmaria ""
+    nvlmaria "{a=show:show_chat_media}{image=maria_pic_11}"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:1771
 translate zh_Hans stepsis_mark_storyline_12_eb81b26b_1:
@@ -3692,7 +3692,7 @@ translate zh_Hans stepsis_mark_storyline_12_eb81b26b_1:
 translate zh_Hans stepsis_mark_storyline_12_5010ec07:
 
     # nvlmaria "{a=show:show_chat_media}{image=maria_pic_12}"
-    nvlmaria ""
+    nvlmaria "{a=show:show_chat_media}{image=maria_pic_12}"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:1779
 translate zh_Hans stepsis_mark_storyline_12_ad71f457:
@@ -3752,7 +3752,7 @@ translate zh_Hans stepsis_mark_storyline_13_76b2fe88:
 translate zh_Hans stepsis_mark_storyline_13_2e682e00:
 
     # nvlstepsis "{a=show:show_chat_media}{image=maria_pic_10}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=maria_pic_10}"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:1834
 translate zh_Hans stepsis_mark_storyline_13_d3f0e889:
@@ -3776,7 +3776,7 @@ translate zh_Hans stepsis_mark_storyline_13_55f3c2eb:
 translate zh_Hans stepsis_mark_storyline_13_92e55b9d:
 
     # nvlstepsis "{a=show:show_chat_media}{image=maria_pic_11}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=maria_pic_11}"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:1844
 translate zh_Hans stepsis_mark_storyline_13_a2cd3b9d:
@@ -3794,7 +3794,7 @@ translate zh_Hans stepsis_mark_storyline_13_58358b42:
 translate zh_Hans stepsis_mark_storyline_13_aa840293:
 
     # nvlstepsis "{a=show:show_chat_media}{image=maria_pic_12}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=maria_pic_12}"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:1852
 translate zh_Hans stepsis_mark_storyline_13_a35ac679:
@@ -4174,7 +4174,7 @@ translate zh_Hans stepsis_mark_storyline_14_a465fdcb:
 translate zh_Hans stepsis_mark_storyline_14_5727f724:
 
     # nvlmaria "{a=show:show_chat_media}{image=maria_pic_13}"
-    nvlmaria ""
+    nvlmaria "{a=show:show_chat_media}{image=maria_pic_13}"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:2017
 translate zh_Hans stepsis_mark_storyline_14_364525a8:
@@ -4904,7 +4904,7 @@ translate zh_Hans stepsis_mark_storyline_16_cc97c5c8:
 translate zh_Hans stepsis_mark_storyline_16_51c7e255:
 
     # nvlmark "{a=show:show_chat_media}{image=maria_pic_14}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=maria_pic_14}"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:2333
 translate zh_Hans stepsis_mark_storyline_16_4c6e2f0c:
@@ -4922,7 +4922,7 @@ translate zh_Hans stepsis_mark_storyline_16_6e926344:
 translate zh_Hans stepsis_mark_storyline_16_f382f5fa:
 
     # nvlmark "{a=show:show_chat_media}{image=maria_pic_15}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=maria_pic_15}"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:2343
 translate zh_Hans stepsis_mark_storyline_16_0e4230c6:
@@ -4946,7 +4946,7 @@ translate zh_Hans stepsis_mark_storyline_16_8eac86a6:
 translate zh_Hans stepsis_mark_storyline_16_5343bda7:
 
     # nvlmark "{a=show:show_chat_media}{image=maria_pic_16}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=maria_pic_16}"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:2355
 translate zh_Hans stepsis_mark_storyline_16_3e386504:
@@ -4970,7 +4970,7 @@ translate zh_Hans stepsis_mark_storyline_16_eece1bcc:
 translate zh_Hans stepsis_mark_storyline_16_ef56f91d:
 
     # nvlmark "{a=show:show_chat_media}{image=maria_pic_17}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=maria_pic_17}"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:2367
 translate zh_Hans stepsis_mark_storyline_16_b7d1aff0:
@@ -5858,7 +5858,7 @@ translate zh_Hans stepsis_mark_storyline_19_ce874412:
 translate zh_Hans stepsis_mark_storyline_19_5f713426:
 
     # nvlmark "{a=show:show_chat_media}{image=sis_video_2_ns}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=sis_video_2_ns}"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:2770
 translate zh_Hans stepsis_mark_storyline_19_654341fe:
@@ -5876,7 +5876,7 @@ translate zh_Hans stepsis_mark_storyline_19_60ffdf58_1:
 translate zh_Hans stepsis_mark_storyline_19_574b735b:
 
     # nvlmark "{a=show:show_chat_media}{image=sis_video_3_ns}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=sis_video_3_ns}"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:2780
 translate zh_Hans stepsis_mark_storyline_19_e62d73c4:
@@ -6964,7 +6964,7 @@ translate zh_Hans stepsis_mark_storyline_23_fb53fc4e:
 translate zh_Hans stepsis_mark_storyline_23_508edb9b:
 
     # nvlmark "{a=show:show_chat_media}{image=maria_pic_18}"
-    nvlmark ""
+    nvlmark "{a=show:show_chat_media}{image=maria_pic_18}"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:3284
 translate zh_Hans stepsis_mark_storyline_23_f4298ffe:
@@ -7096,7 +7096,7 @@ translate zh_Hans stepsis_mark_storyline_23_d8eebfe7:
 translate zh_Hans stepsis_mark_storyline_23_dfdb263c:
 
     # nvlstepsis "{a=show:show_chat_media}{image=sis_pic_112}"
-    nvlstepsis ""
+    nvlstepsis "{a=show:show_chat_media}{image=sis_pic_112}"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:3332
 translate zh_Hans stepsis_mark_storyline_23_62af6bf3:
