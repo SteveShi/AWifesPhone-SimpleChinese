@@ -5850,7 +5850,7 @@ translate zh_Hans dani_cuck_storyline_52_bb686cb2:
 translate zh_Hans dani_cuck_storyline_52_9e059a86:
 
     # nvlwife "I prefer spending time with you and [mc_name_is]."
-    nvlwife "我更喜欢和你和凯茜在一起。"
+    nvlwife "我更喜欢和你和[mc_name_is]在一起。"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:3735
 translate zh_Hans dani_cuck_storyline_52_80b0be6a:

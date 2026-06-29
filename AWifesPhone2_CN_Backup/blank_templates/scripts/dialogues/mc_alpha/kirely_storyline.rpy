@@ -3686,7 +3686,7 @@ translate zh_Hans kirely_storyline_68_f1ea758a:
 translate zh_Hans kirely_storyline_68_5c0c390e:
 
     # nvlkirely "Sola's coming too 😉"
-    nvlkirely "Sola's coming too 😉"
+    nvlkirely "索拉's coming too 😉"
 
 # scripts/dialogues/mc_alpha/kirely_storyline.rpy:1860
 translate zh_Hans kirely_storyline_68_e139da14:
@@ -4114,7 +4114,7 @@ translate zh_Hans kirely_storyline_69_after_ea522a05:
 translate zh_Hans kirely_storyline_69_after_953f7ec0:
 
     # mc "{i}Or to Sola, if she comes"
-    mc "{i}Or to Sola, if she comes"
+    mc "{i}Or to 索拉, if she comes"
 
 # scripts/dialogues/mc_alpha/kirely_storyline.rpy:2067
 translate zh_Hans kirely_storyline_69_after_efea3e43:
@@ -4138,13 +4138,13 @@ translate zh_Hans kirely_storyline_69_after_b9fd7206:
 translate zh_Hans kirely_storyline_69_after_79f4824f:
 
     # mc "{i}Kirely or Sola?" nointeract
-    mc "{i}Kirely or Sola?" nointeract
+    mc "{i}Kirely or 索拉?" nointeract
 
 # scripts/dialogues/mc_alpha/kirely_storyline.rpy:2079
 translate zh_Hans kirely_storyline_69_after_39db152e:
 
     # mc "{i}I think I should spend more time with Sola"
-    mc "{i}I think I should spend more time with Sola"
+    mc "{i}I think I should spend more time with 索拉"
 
 # scripts/dialogues/mc_alpha/kirely_storyline.rpy:2081
 translate zh_Hans kirely_storyline_69_after_90edc548:
@@ -4156,7 +4156,7 @@ translate zh_Hans kirely_storyline_69_after_90edc548:
 translate zh_Hans kirely_storyline_69_after_61bfc46e:
 
     # mc "{i}I mean, Sola's father can help me in the future"
-    mc "{i}I mean, Sola's father can help me in the future"
+    mc "{i}I mean, 索拉's father can help me in the future"
 
 # scripts/dialogues/mc_alpha/kirely_storyline.rpy:2085
 translate zh_Hans kirely_storyline_69_after_ac3eb2cd:
@@ -4186,7 +4186,7 @@ translate zh_Hans kirely_storyline_69_after_cf3df493:
 translate zh_Hans kirely_storyline_69_after_738b0e81:
 
     # mc "{i}But it's better to get closer to Sola"
-    mc "{i}But it's better to get closer to Sola"
+    mc "{i}But it's better to get closer to 索拉"
 
 # scripts/dialogues/mc_alpha/kirely_storyline.rpy:2095
 translate zh_Hans kirely_storyline_69_after_e15b24e4:
@@ -4222,7 +4222,7 @@ translate zh_Hans kirely_storyline_69_after_78ae70fc:
 translate zh_Hans kirely_storyline_69_after_e3d35c9f:
 
     # mc "{i}It would be wrong to abandon her and flirt with Sola"
-    mc "{i}It would be wrong to abandon her and flirt with Sola"
+    mc "{i}It would be wrong to abandon her and flirt with 索拉"
 
 # scripts/dialogues/mc_alpha/kirely_storyline.rpy:2113
 translate zh_Hans kirely_storyline_69_after_872497fe:
@@ -4240,7 +4240,7 @@ translate zh_Hans kirely_storyline_69_after_acc52609:
 translate zh_Hans kirely_storyline_69_after_535572c6:
 
     # mc "{i}I can spend time with Sola another time"
-    mc "{i}I can spend time with Sola another time"
+    mc "{i}I can spend time with 索拉 another time"
 
 # scripts/dialogues/mc_alpha/kirely_storyline.rpy:2119
 translate zh_Hans kirely_storyline_69_after_c68e1aa7:
@@ -4718,7 +4718,7 @@ translate zh_Hans kirely_storyline_71_eefa3647:
 translate zh_Hans kirely_storyline_71_15f66706:
 
     # nvljohn "Hi, Sola"
-    nvljohn "Hi, Sola"
+    nvljohn "Hi, 索拉"
 
 # scripts/dialogues/mc_alpha/kirely_storyline.rpy:2359
 translate zh_Hans kirely_storyline_71_9a4f51f2:
@@ -4820,7 +4820,7 @@ translate zh_Hans kirely_storyline_71_9ef137e4:
 translate zh_Hans kirely_storyline_71_290a7db8:
 
     # nvljohn "Thanks, Sola"
-    nvljohn "Thanks, Sola"
+    nvljohn "Thanks, 索拉"
 
 # scripts/dialogues/mc_alpha/kirely_storyline.rpy:2393
 translate zh_Hans kirely_storyline_71_297f63c1:
@@ -16431,8 +16431,8 @@ translate zh_Hans strings:
     new "Continue the relationship"
 
     # scripts/dialogues/mc_alpha/kirely_storyline.rpy:2073
-    old "Sola (Sola content)"
-    new "Sola (Sola content)"
+    old "索拉 (索拉 content)"
+    new "索拉 (索拉 content)"
 
     # scripts/dialogues/mc_alpha/kirely_storyline.rpy:2073
     old "Kirely (Kirely content)"

@@ -59579,7 +59579,7 @@ translate zh_Hans strings:
     new "我得回去忙了（没干成）。"
 
     # scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:24088
-    old "I definitely do! (Romance with Sola)"
+    old "I definitely do! (Romance with 索拉)"
     new "我当然想！ （想跟索拉缠绵）"
 
     # scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:24088
@@ -59603,7 +59603,7 @@ translate zh_Hans strings:
     new "抱歉，我现在没空。"
 
     # scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:27199
-    old "Yes, sure (Sola content)"
+    old "Yes, sure (索拉 content)"
     new "是的，当然（索拉内容）"
 
     # scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:27199

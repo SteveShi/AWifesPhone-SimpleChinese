@@ -2704,7 +2704,7 @@ translate zh_Hans stepsis_messager02_1_10_d12a2b06:
 translate zh_Hans stepsis_messager02_1_10_65043d1c:
 
     # nvljohn "Besides, we're step-siblings. We aren't related by blood"
-    nvljohn "而且，我们是继兄妹。我们并没有血缘关系"
+    nvljohn "而且，我们是哥哥妹。我们并没有血缘关系"
 
 # new_main_sis_phone_0_2.rpy:3306
 translate zh_Hans stepsis_messager02_1_10_4754a053:
@@ -5530,7 +5530,7 @@ translate zh_Hans stepsis_messager02_1_19_f49e8f44:
 translate zh_Hans stepsis_messager02_1_19_after_e70d0bba:
 
     # "{color=#000}{i}It seems my stepsis is very sad because of what we did"
-    "{color=#000}{i}看来我的继妹因为我们做的事而很难过"
+    "{color=#000}{i}看来我的妹妹因为我们做的事而很难过"
 
 # new_main_sis_phone_0_2.rpy:4770
 translate zh_Hans stepsis_messager02_1_19_after_99375dfe:
@@ -5800,7 +5800,7 @@ translate zh_Hans stepsis_messager02_1_20_e469a6c2:
 translate zh_Hans stepsis_messager02_1_20_833d0bb0:
 
     # nvljohn "You're my stepsister, and you're the girl I love"
-    nvljohn "你是我的继妹，也是我深爱的女孩"
+    nvljohn "你是我的妹妹，也是我深爱的女孩"
 
 # new_main_sis_phone_0_2.rpy:4873
 translate zh_Hans stepsis_messager02_1_20_3d1af624:
@@ -9628,7 +9628,7 @@ translate zh_Hans stepsis_carl_messager02_1_12_086a94aa:
 translate zh_Hans stepsis_carl_messager02_1_12_63426c4e:
 
     # nvlunknown "We thought we'd tell you about what's going on between your stepsister and her neighbour"
-    nvlunknown "我们觉得应该告诉你你继妹和她邻居之间发生的事情"
+    nvlunknown "我们觉得应该告诉你你妹妹和她邻居之间发生的事情"
 
 # new_main_sis_phone_0_2.rpy:6730
 translate zh_Hans stepsis_carl_messager02_1_12_ea6476e8:
@@ -36730,7 +36730,7 @@ translate zh_Hans stepsis_job_messager02_1_6_3f8933ff:
 translate zh_Hans stepsis_job_messager02_1_6_751792cd:
 
     # nvlunknown "What matters is that we noticed certain changes in your stepsister's behaviour"
-    nvlunknown "重要的是，我们注意到你继妹的行为发生了一些变化"
+    nvlunknown "重要的是，我们注意到你妹妹的行为发生了一些变化"
 
 # new_main_sis_phone_0_2.rpy:18947
 translate zh_Hans stepsis_job_messager02_1_6_b2902ef5:
@@ -36808,7 +36808,7 @@ translate zh_Hans stepsis_job_messager02_1_6_9bc82b70:
 translate zh_Hans stepsis_job_messager02_1_6_39f3d0eb:
 
     # nvlunknown "You don't want to admit that your stepsister's behaviour changed because of your influence, right?"
-    nvlunknown "你不想承认你继妹的行为是因为你的影响而改变的，对吧？"
+    nvlunknown "你不想承认你妹妹的行为是因为你的影响而改变的，对吧？"
 
 # new_main_sis_phone_0_2.rpy:18973
 translate zh_Hans stepsis_job_messager02_1_6_12d321e2:
@@ -36856,7 +36856,7 @@ translate zh_Hans stepsis_job_messager02_1_6_dbd1d8f8:
 translate zh_Hans stepsis_job_messager02_1_6_f4b86046:
 
     # nvlunknown "We believe your stepsister soon won't be able to satisfy her own needs"
-    nvlunknown "我们相信，你的继妹很快就无法自我满足了"
+    nvlunknown "我们相信，你的妹妹很快就无法自我满足了"
 
 # new_main_sis_phone_0_2.rpy:18989
 translate zh_Hans stepsis_job_messager02_1_6_71eb5f0b:
@@ -37624,7 +37624,7 @@ translate zh_Hans stepsis_job_messager02_1_8_after_ad93ca78:
 translate zh_Hans stepsis_job_messager02_1_8_after_63911f1f:
 
     # "{color=#000}{i}I don't really want Simon hitting on my stepsis"
-    "{color=#000}{i}我其实不太想让西蒙撩我继妹"
+    "{color=#000}{i}我其实不太想让西蒙撩我妹妹"
 
 # new_main_sis_phone_0_2.rpy:19327
 translate zh_Hans stepsis_job_messager02_1_8_after_aada70b9:
@@ -37648,7 +37648,7 @@ translate zh_Hans stepsis_job_messager02_1_8_after_3d44acd6:
 translate zh_Hans stepsis_job_messager02_1_8_after_c7f053df:
 
     # "{color=#000}{i}I don't want my stepsis to be in a relationship with Simon"
-    "{color=#000}{i}我不希望我继妹和西蒙交往"
+    "{color=#000}{i}我不希望我妹妹和西蒙交往"
 
 # new_main_sis_phone_0_2.rpy:19337
 translate zh_Hans stepsis_job_messager02_1_8_after_fb163bf2:
@@ -37702,7 +37702,7 @@ translate zh_Hans stepsis_job_messager02_1_8_after_f39db880:
 translate zh_Hans stepsis_job_messager02_1_8_after_a4f6eb32:
 
     # nvljohn "Listen, could you please stop texting my sister?"
-    nvljohn "听着，能不能请你别再给我继妹发短信了？"
+    nvljohn "听着，能不能请你别再给我妹妹发短信了？"
 
 # new_main_sis_phone_0_2.rpy:19359
 translate zh_Hans stepsis_job_messager02_1_8_after_8cc5099a:
@@ -37714,7 +37714,7 @@ translate zh_Hans stepsis_job_messager02_1_8_after_8cc5099a:
 translate zh_Hans stepsis_job_messager02_1_8_after_b73a1e27:
 
     # nvljohn "Yes, my sister"
-    nvljohn "是的，我继妹"
+    nvljohn "是的，我妹妹"
 
 # new_main_sis_phone_0_2.rpy:19363
 translate zh_Hans stepsis_job_messager02_1_8_after_8950fb9d:
@@ -37768,7 +37768,7 @@ translate zh_Hans stepsis_job_messager02_1_8_after_47fe7d37:
 translate zh_Hans stepsis_job_messager02_1_8_after_ee7ad33e:
 
     # nvlsimon "If you want me to stop talking with your sister, I'll stop"
-    nvlsimon "如果你想让我停止和你继妹聊天，我会停止的"
+    nvlsimon "如果你想让我停止和你妹妹聊天，我会停止的"
 
 # new_main_sis_phone_0_2.rpy:19381
 translate zh_Hans stepsis_job_messager02_1_8_after_4cdc7732:
@@ -37822,7 +37822,7 @@ translate zh_Hans stepsis_job_messager02_1_8_after_65243253:
 translate zh_Hans stepsis_job_messager02_1_8_after_c8bbe646:
 
     # "{color=#000}{i}If my stepsister didn't like him, she'd stop him"
-    "{color=#000}{i}如果我继妹不喜欢他，她自己会阻止他的"
+    "{color=#000}{i}如果我妹妹不喜欢他，她自己会阻止他的"
 
 # new_main_sis_phone_0_2.rpy:19401
 translate zh_Hans stepsis_job_messager02_1_8_after_41c9f631:
@@ -37888,7 +37888,7 @@ translate zh_Hans stepsis_job_messager02_1_9_fd888d6d:
 translate zh_Hans stepsis_job_messager02_1_9_71f85266:
 
     # nvlunknown "We've decided to show you a few more videos of your stepsister"
-    nvlunknown "我们决定再让你看几个你继妹的视频"
+    nvlunknown "我们决定再让你看几个你妹妹的视频"
 
 # new_main_sis_phone_0_2.rpy:19444
 translate zh_Hans stepsis_job_messager02_1_9_b58f1203:
@@ -37912,7 +37912,7 @@ translate zh_Hans stepsis_job_messager02_1_9_7dd64427:
 translate zh_Hans stepsis_job_messager02_1_9_895846e5:
 
     # nvlunknown "But it's in your best interest to know what your stepsister does when she's home alone, right?"
-    nvlunknown "但了解你继妹独自在家时干些什么，符合你的最佳利益，对吧？"
+    nvlunknown "但了解你妹妹独自在家时干些什么，符合你的最佳利益，对吧？"
 
 # new_main_sis_phone_0_2.rpy:19452
 translate zh_Hans stepsis_job_messager02_1_9_6417e7e6:
@@ -37960,7 +37960,7 @@ translate zh_Hans stepsis_job_messager02_1_9_21ec306d:
 translate zh_Hans stepsis_job_messager02_1_9_26bb7c2d:
 
     # nvlunknown "Your sister is really interested in her colleague"
-    nvlunknown "你的继妹确实对她的同事很有兴趣"
+    nvlunknown "你的妹妹确实对她的同事很有兴趣"
 
 # new_main_sis_phone_0_2.rpy:19468
 translate zh_Hans stepsis_job_messager02_1_9_fefade39:

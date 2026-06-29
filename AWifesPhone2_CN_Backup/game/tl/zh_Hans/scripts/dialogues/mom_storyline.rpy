@@ -18472,7 +18472,7 @@ translate zh_Hans mom_storyline_57_after_c71c71b0:
 translate zh_Hans mom_storyline_57_after_02d110de:
 
     # mc "{i}I don't have any brothers or stepbrothers apart from Mark"
-    mc "{i}除了马克之外，我没有其他兄弟或继兄弟。"
+    mc "{i}除了马克之外，我没有其他兄弟或哥哥弟。"
 
 # game/scripts/dialogues/mom_storyline.rpy:8645
 translate zh_Hans mom_storyline_57_after_19323339:

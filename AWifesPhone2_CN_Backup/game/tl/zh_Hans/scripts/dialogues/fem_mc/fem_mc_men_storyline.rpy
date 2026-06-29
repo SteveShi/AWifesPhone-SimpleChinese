@@ -6634,7 +6634,7 @@ translate zh_Hans fem_mc_men_storyline_17_92860071:
 translate zh_Hans fem_mc_men_storyline_17_06c489c2:
 
     # nvljohn_f "Sometimes I hang out with my stepsis"
-    nvljohn_f "有时候我会和我继妹一起玩。"
+    nvljohn_f "有时候我会和我妹妹一起玩。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:2994
 translate zh_Hans fem_mc_men_storyline_17_971c2a98:
@@ -10768,7 +10768,7 @@ translate zh_Hans fem_mc_men_storyline_30_d44a3302:
 translate zh_Hans fem_mc_men_storyline_30_272005ba:
 
     # nvljenna "But you're learning to be a woman with your stepsis"
-    nvljenna "但你正在和你的继妹学习如何成为一个女人。"
+    nvljenna "但你正在和你的妹妹学习如何成为一个女人。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:4865
 translate zh_Hans fem_mc_men_storyline_30_398792c1:
@@ -11088,7 +11088,7 @@ translate zh_Hans fem_mc_men_storyline_31_054e1170:
 translate zh_Hans fem_mc_men_storyline_31_fc7651d1:
 
     # nvljohn_f "I also see my stepsis sometimes"
-    nvljohn_f "我有时也会见我继妹。"
+    nvljohn_f "我有时也会见我妹妹。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:5008
 translate zh_Hans fem_mc_men_storyline_31_d30c0c1a:

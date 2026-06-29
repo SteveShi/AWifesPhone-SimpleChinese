@@ -166,7 +166,7 @@ translate zh_Hans mc_stepsis_storyline_10_d12a2b06:
 translate zh_Hans mc_stepsis_storyline_10_65043d1c:
 
     # nvljohn "Besides, we're step-siblings. We aren't related by blood"
-    nvljohn "而且，我们是继兄妹。我们并没有血缘关系"
+    nvljohn "而且，我们是哥哥妹。我们并没有血缘关系"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:86
 translate zh_Hans mc_stepsis_storyline_10_4754a053:
@@ -932,7 +932,7 @@ translate zh_Hans mc_stepsis_storyline_13_c16c91cc:
 translate zh_Hans mc_stepsis_storyline_13_1836055d:
 
     # nvljohn "Hi, Stepsis 😊"
-    nvljohn "嗨，继妹😊"
+    nvljohn "嗨，妹妹😊"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:454
 translate zh_Hans mc_stepsis_storyline_13_95b2dbd8:
@@ -1892,7 +1892,7 @@ translate zh_Hans mc_stepsis_storyline_18_8c41dd0d:
 translate zh_Hans mc_stepsis_storyline_18_b0cc05c5:
 
     # mc "I think we should continue our relationship, Stepsis"
-    mc "我想我们应该继续我们的关系，继妹。"
+    mc "我想我们应该继续我们的关系，妹妹。"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:963
 translate zh_Hans mc_stepsis_storyline_18_c1990fd5:
@@ -1946,7 +1946,7 @@ translate zh_Hans mc_stepsis_storyline_18_6068d159:
 translate zh_Hans mc_stepsis_storyline_18_c9c9b0f0:
 
     # mc "Then let's do it, Stepsis"
-    mc "那我们来吧，继妹。"
+    mc "那我们来吧，妹妹。"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:992
 translate zh_Hans mc_stepsis_storyline_18_1b39ef48:
@@ -2132,7 +2132,7 @@ translate zh_Hans mc_stepsis_storyline_18_66e7181e:
 translate zh_Hans mc_stepsis_storyline_18_66c77de2:
 
     # mc "Ooooh! Stepsis..."
-    mc "哦！继妹……"
+    mc "哦！妹妹……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:1084
 translate zh_Hans mc_stepsis_storyline_18_0863079e:
@@ -2174,7 +2174,7 @@ translate zh_Hans mc_stepsis_storyline_18_92fcfc23:
 translate zh_Hans mc_stepsis_storyline_18_d1eac011:
 
     # stepsis "I didn't even think my stepbro was... so good at... Aaah!"
-    stepsis "我甚至没想到我的继兄竟然……这么会干……啊！"
+    stepsis "我甚至没想到我的哥哥竟然……这么会干……啊！"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:1101
 translate zh_Hans mc_stepsis_storyline_18_f51d5d37:
@@ -2234,7 +2234,7 @@ translate zh_Hans mc_stepsis_storyline_18_0d64b1c1:
 translate zh_Hans mc_stepsis_storyline_18_c22df641:
 
     # stepsis "Oh yeeeah, cum for me, Stepbro"
-    stepsis "噢耶，为我射出来吧，继兄"
+    stepsis "噢耶，为我射出来吧，哥哥"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:1133
 translate zh_Hans mc_stepsis_storyline_18_b05a39ea:
@@ -2372,7 +2372,7 @@ translate zh_Hans mc_stepsis_storyline_18_04add79d:
 translate zh_Hans mc_stepsis_storyline_18_34545c80:
 
     # mc "Stepsis, what are you doing?"
-    mc "继妹，你在做什么？"
+    mc "妹妹，你在做什么？"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:1210
 translate zh_Hans mc_stepsis_storyline_18_2b715be4:
@@ -2426,7 +2426,7 @@ translate zh_Hans mc_stepsis_storyline_18_d4f85696:
 translate zh_Hans mc_stepsis_storyline_18_05b114ce:
 
     # mc "No, I don't mind, Stepsis"
-    mc "不，我不介意，继妹"
+    mc "不，我不介意，妹妹"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:1239
 translate zh_Hans mc_stepsis_storyline_18_237cacf8_1:
@@ -2516,7 +2516,7 @@ translate zh_Hans mc_stepsis_storyline_18_0ef0412b:
 translate zh_Hans mc_stepsis_storyline_18_8e38f912:
 
     # stepsis "Fuck me, Stepbro... Aaah!"
-    stepsis "操我，继兄……啊！"
+    stepsis "操我，哥哥……啊！"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:1288
 translate zh_Hans mc_stepsis_storyline_18_edab76ac:
@@ -2726,7 +2726,7 @@ translate zh_Hans mc_stepsis_storyline_18_66737732:
 translate zh_Hans mc_stepsis_storyline_18_92418767:
 
     # mc "I'm sorry, Stepsis"
-    mc "对不起，继妹"
+    mc "对不起，妹妹"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:1397
 translate zh_Hans mc_stepsis_storyline_18_50ad42c0:
@@ -2968,7 +2968,7 @@ translate zh_Hans mc_stepsis_storyline_19_53c71d7c:
 translate zh_Hans mc_stepsis_storyline_19_after_3bcff6cb:
 
     # mc "{i}It seems my stepsis is very sad because of what we did"
-    mc "{i}看来我的继妹因为我们做的事而非常难过。"
+    mc "{i}看来我的妹妹因为我们做的事而非常难过。"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:1530
 translate zh_Hans mc_stepsis_storyline_19_after_851a250b:
@@ -3234,7 +3234,7 @@ translate zh_Hans mc_stepsis_storyline_20_e469a6c2:
 translate zh_Hans mc_stepsis_storyline_20_833d0bb0:
 
     # nvljohn "You're my stepsister, and you're the girl I love"
-    nvljohn "你是我的继妹，也是我深爱的女孩"
+    nvljohn "你是我的妹妹，也是我深爱的女孩"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:1635
 translate zh_Hans mc_stepsis_storyline_20_3d1af624:
@@ -3414,7 +3414,7 @@ translate zh_Hans mc_stepsis_storyline_21_c2eff599:
 translate zh_Hans mc_stepsis_storyline_21_52603c1f:
 
     # mc "It wasn't something I felt like doing at that moment, Stepsis"
-    mc "继妹，那可不是我一时兴起就想干的。"
+    mc "妹妹，那可不是我一时兴起就想干的。"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:1740
 translate zh_Hans mc_stepsis_storyline_21_16a18533:
@@ -3486,7 +3486,7 @@ translate zh_Hans mc_stepsis_storyline_21_09f55ded:
 translate zh_Hans mc_stepsis_storyline_21_d09b53c3:
 
     # mc "What are you doing, Stepsis?"
-    mc "继妹，你在做什么？"
+    mc "妹妹，你在做什么？"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:1773
 translate zh_Hans mc_stepsis_storyline_21_ba08fdf1:
@@ -3630,19 +3630,19 @@ translate zh_Hans mc_stepsis_storyline_21_e4660978:
 translate zh_Hans mc_stepsis_storyline_21_9e6fa13b:
 
     # mc "I... I'm a bad stepbrother..."
-    mc "我……我是个糟糕的继兄……"
+    mc "我……我是个糟糕的哥哥……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:1846
 translate zh_Hans mc_stepsis_storyline_21_63ea30f7:
 
     # mc "I'm making my stepsis do such things..."
-    mc "我竟然让我继妹做这种事……"
+    mc "我竟然让我妹妹做这种事……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:1851
 translate zh_Hans mc_stepsis_storyline_21_7dcc3caf:
 
     # stepsis "You're the best stepbrother in the world... Mmmmmphmmph..."
-    stepsis "你是世界上最好的继兄……嗯……"
+    stepsis "你是世界上最好的哥哥……嗯……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:1853
 translate zh_Hans mc_stepsis_storyline_21_6f8a6e6e:
@@ -3816,7 +3816,7 @@ translate zh_Hans mc_stepsis_storyline_21_aa871100:
 translate zh_Hans mc_stepsis_storyline_21_e069babb:
 
     # stepsis "Thank you, Stepbro"
-    stepsis "谢谢你，继兄"
+    stepsis "谢谢你，哥哥"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:1930
 translate zh_Hans mc_stepsis_storyline_21_ed5a8ef1:
@@ -4370,7 +4370,7 @@ translate zh_Hans mc_stepsis_storyline_23_4749fa10:
 translate zh_Hans mc_stepsis_storyline_23_ecb9e6a9:
 
     # nvlstepsis "Goodnight, Stepbro ❤️"
-    nvlstepsis "晚安，继兄❤️"
+    nvlstepsis "晚安，哥哥❤️"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:2189
 translate zh_Hans mc_stepsis_storyline_23_09dd05a5:
@@ -4734,7 +4734,7 @@ translate zh_Hans mc_stepsis_storyline_25_9cb1a889:
 translate zh_Hans mc_stepsis_storyline_25_51526adf:
 
     # nvlstepsis "Behave yourself, Stepbro"
-    nvlstepsis "你给我老实点，继兄"
+    nvlstepsis "你给我老实点，哥哥"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:2377
 translate zh_Hans mc_stepsis_storyline_25_72716bc1:
@@ -5850,7 +5850,7 @@ translate zh_Hans mc_stepsis_storyline_31_18f31f3e:
     # nvl clear
     # nvljenna "Heard your stepsis had a fun night 😏"
     nvl clear
-    nvljenna "听说你继妹昨晚玩得可真够浪的😏"
+    nvljenna "听说你妹妹昨晚玩得可真够浪的😏"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:2967
 translate zh_Hans mc_stepsis_storyline_31_c901543c:

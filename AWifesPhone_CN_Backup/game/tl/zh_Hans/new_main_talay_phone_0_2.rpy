@@ -8998,7 +8998,7 @@ translate zh_Hans talay_benjamin_messager02_1_2_6e2b273c:
 translate zh_Hans talay_benjamin_messager02_1_2_d5611ff9:
 
     # nvlbenjamin "But according to her, you aren't only her stepmother but also her best friend, so I guess you didn't lie to me {image=smile_emoji.png}"
-    nvlbenjamin "{color=#000}{i}如果我的继妹觉得没问题，那她就可以继续做"
+    nvlbenjamin "{color=#000}{i}如果我的妹妹觉得没问题，那她就可以继续做"
 
 # new_main_talay_phone_0_2.rpy:6186
 translate zh_Hans talay_benjamin_messager02_1_2_8fa946e5:
@@ -9028,13 +9028,13 @@ translate zh_Hans talay_benjamin_messager02_1_2_1c55f22e:
 translate zh_Hans talay_benjamin_messager02_1_2_4a972d66:
 
     # nvlbenjamin "On the one hand, you're her father's wife. That means you're supposed to be a mother figure to her"
-    nvlbenjamin "下次你继妹给你发信息时，别否认你现在是个女人了"
+    nvlbenjamin "下次你妹妹给你发信息时，别否认你现在是个女人了"
 
 # new_main_talay_phone_0_2.rpy:6196
 translate zh_Hans talay_benjamin_messager02_1_2_ea76b214:
 
     # nvlbenjamin "But on the other hand, you're almost the same age as her, and you have to play the role of her friend"
-    nvlbenjamin "下次你继妹给你发信息时，别否认你现在是个女人了"
+    nvlbenjamin "下次你妹妹给你发信息时，别否认你现在是个女人了"
 
 # new_main_talay_phone_0_2.rpy:6198
 translate zh_Hans talay_benjamin_messager02_1_2_8441b6cb:
@@ -9430,7 +9430,7 @@ translate zh_Hans talay_benjamin_messager02_1_3_f1b0c03f:
 translate zh_Hans talay_benjamin_messager02_1_3_7d79b096:
 
     # nvltalay "I've got connections. I'll get the footage from the room and find out what actually happened"
-    nvltalay "我告诉过你你需要朋友，而且你的继妹会是你很好的朋友"
+    nvltalay "我告诉过你你需要朋友，而且你的妹妹会是你很好的朋友"
 
 # new_main_talay_phone_0_2.rpy:6356
 translate zh_Hans talay_benjamin_messager02_1_3_c2682867:
@@ -9454,7 +9454,7 @@ translate zh_Hans talay_benjamin_messager02_1_3_9fb803a3:
 translate zh_Hans talay_benjamin_messager02_1_3_1b31f002:
 
     # nvlbenjamin "If you'd told me you didn't want to do it, I wouldn't have done anything"
-    nvlbenjamin "顺便说一句，你的继妹提到她会教你如何成为一个女人"
+    nvlbenjamin "顺便说一句，你的妹妹提到她会教你如何成为一个女人"
 
 # new_main_talay_phone_0_2.rpy:6364
 translate zh_Hans talay_benjamin_messager02_1_3_355adaab:

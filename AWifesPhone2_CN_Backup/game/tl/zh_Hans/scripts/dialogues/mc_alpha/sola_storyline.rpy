@@ -494,7 +494,7 @@ translate zh_Hans sola_storyline_51_f80fbe8e:
 translate zh_Hans sola_storyline_51_4d62d3c0:
 
     # nvljohn "See you, Sola"
-    nvljohn "再见，Sola。"
+    nvljohn "再见，索拉。"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:289
 translate zh_Hans sola_storyline_51_53c71d7c:
@@ -1268,7 +1268,7 @@ translate zh_Hans sola_storyline_54_536698c9:
 translate zh_Hans sola_storyline_54_968b699f:
 
     # nvljohn "Oh, that's hot, Sola"
-    nvljohn "哦，Sola，这太火辣了。"
+    nvljohn "哦，索拉，这太火辣了。"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:666
 translate zh_Hans sola_storyline_54_42564925:
@@ -1556,7 +1556,7 @@ translate zh_Hans sola_storyline_54_5c03168d:
 translate zh_Hans sola_storyline_54_dd3cda91:
 
     # nvljohn "You already do, Sola"
-    nvljohn "你已经做到了，Sola"
+    nvljohn "你已经做到了，索拉"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:762
 translate zh_Hans sola_storyline_54_18275029:
@@ -2036,7 +2036,7 @@ translate zh_Hans sola_storyline_54_ca853523:
 translate zh_Hans sola_storyline_54_62551be5:
 
     # nvljohn "Cum for me, Sola"
-    nvljohn "为我高潮吧，Sola！"
+    nvljohn "为我高潮吧，索拉！"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:926
 translate zh_Hans sola_storyline_54_a12f88d1:
@@ -2176,7 +2176,7 @@ translate zh_Hans sola_storyline_55_b3dbf862:
 translate zh_Hans sola_storyline_55_34feb474:
 
     # nvljohn "It's okay, Sola"
-    nvljohn "没关系，Sola"
+    nvljohn "没关系，索拉"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:1005
 translate zh_Hans sola_storyline_55_81a806a3:
@@ -2658,7 +2658,7 @@ translate zh_Hans sola_storyline_56_06f6340c:
 translate zh_Hans sola_storyline_56_b1dbf99d:
 
     # nvljohn "Yesterday was fantastic, Sola"
-    nvljohn "昨天太棒了，Sola"
+    nvljohn "昨天太棒了，索拉"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:1202
 translate zh_Hans sola_storyline_56_4b930546_1:
@@ -4058,7 +4058,7 @@ translate zh_Hans sola_storyline_61_eefa3647:
 translate zh_Hans sola_storyline_61_15f66706:
 
     # nvljohn "Hi, Sola"
-    nvljohn "嗨，Sola。"
+    nvljohn "嗨，索拉。"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:1873
 translate zh_Hans sola_storyline_61_5b0ea1c1:
@@ -4246,7 +4246,7 @@ translate zh_Hans sola_storyline_62_912a5063:
 translate zh_Hans sola_storyline_62_b317689f:
 
     # nvljohn "It's gorgeous, Sola"
-    nvljohn "太美了，Sola"
+    nvljohn "太美了，索拉"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:1974
 translate zh_Hans sola_storyline_62_ce211d31:
@@ -4294,7 +4294,7 @@ translate zh_Hans sola_storyline_62_26b338eb:
 translate zh_Hans sola_storyline_62_b52b3c7c:
 
     # nvljohn "Yes, Sola"
-    nvljohn "是的，Sola"
+    nvljohn "是的，索拉"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:1990
 translate zh_Hans sola_storyline_62_849dc6f4:
@@ -5678,7 +5678,7 @@ translate zh_Hans sola_storyline_68_511c925b:
 translate zh_Hans sola_storyline_68_0cc42d87:
 
     # nvljohn "You're doing great, Sola"
-    nvljohn "你做得很好，Sola"
+    nvljohn "你做得很好，索拉"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:2688
 translate zh_Hans sola_storyline_68_f5b96ee9:
@@ -6516,7 +6516,7 @@ translate zh_Hans sola_storyline_71_15d37197:
 translate zh_Hans sola_storyline_71_d4bbdef0:
 
     # nvljohn "Hello, Kirely"
-    nvljohn "你好，凯瑞莉"
+    nvljohn "你好，绮芮"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:3093
 translate zh_Hans sola_storyline_71_90687e04:
@@ -6606,7 +6606,7 @@ translate zh_Hans sola_storyline_71_40be1735:
 translate zh_Hans sola_storyline_71_fe415b87:
 
     # nvljohn "We'll film something, Kirely"
-    nvljohn "我们会拍的，凯瑞莉"
+    nvljohn "我们会拍的，绮芮"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:3123
 translate zh_Hans sola_storyline_71_ac8bb754:
@@ -6654,7 +6654,7 @@ translate zh_Hans sola_storyline_71_524ae657:
 translate zh_Hans sola_storyline_71_6c481e74:
 
     # nvljohn "I'm not forgetting you, Kirely"
-    nvljohn "我不会忘了你，凯瑞莉"
+    nvljohn "我不会忘了你，绮芮"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:3139
 translate zh_Hans sola_storyline_71_37d6f64e:
@@ -6702,7 +6702,7 @@ translate zh_Hans sola_storyline_71_015ab684:
 translate zh_Hans sola_storyline_71_d4cffeeb:
 
     # nvljohn "I adore you too, Kirely"
-    nvljohn "我也爱你，凯瑞莉"
+    nvljohn "我也爱你，绮芮"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:3155
 translate zh_Hans sola_storyline_71_96cd9964:
@@ -8282,7 +8282,7 @@ translate zh_Hans sola_storyline_76_76823edd:
 translate zh_Hans sola_storyline_76_4580c0d0:
 
     # nvljohn "I'll try, Sola"
-    nvljohn "我会尽力的，Sola"
+    nvljohn "我会尽力的，索拉"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:3896
 translate zh_Hans sola_storyline_76_297f63c1_1:
@@ -9168,7 +9168,7 @@ translate zh_Hans sola_storyline_78_4b0a2150:
 translate zh_Hans sola_storyline_78_60b77456:
 
     # nvljohn "Okay, Sola"
-    nvljohn "好的，Sola"
+    nvljohn "好的，索拉"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:4276
 translate zh_Hans sola_storyline_78_73721729:
@@ -9416,7 +9416,7 @@ translate zh_Hans sola_storyline_79_e25c581b:
 translate zh_Hans sola_storyline_79_0e7fc75b:
 
     # nvlsola "I think if Kirely asks you the same question, you'll tell her you prefer her 😊"
-    nvlsola "我想如果基雷莉问你同样的问题，你也会说更喜欢她吧😊"
+    nvlsola "我想如果绮芮问你同样的问题，你也会说更喜欢她吧😊"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:4401
 translate zh_Hans sola_storyline_79_5b7bc2e7:
@@ -9496,7 +9496,7 @@ translate zh_Hans sola_storyline_80_f0956c34:
 translate zh_Hans sola_storyline_80_15f66706:
 
     # nvljohn "Hi, Sola"
-    nvljohn "嗨，Sola。"
+    nvljohn "嗨，索拉。"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:4460
 translate zh_Hans sola_storyline_80_d7436026:
@@ -10478,7 +10478,7 @@ translate zh_Hans sola_storyline_85_571e851c:
 translate zh_Hans sola_storyline_85_fc878d21:
 
     # nvljohn "Thank you, Sola"
-    nvljohn "谢谢你，Sola。"
+    nvljohn "谢谢你，索拉。"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:4979
 translate zh_Hans sola_storyline_85_17d6ced3:
@@ -10868,7 +10868,7 @@ translate zh_Hans sola_storyline_86_5e4ad73e:
 translate zh_Hans sola_storyline_86_4d62d3c0:
 
     # nvljohn "See you, Sola"
-    nvljohn "再见，Sola。"
+    nvljohn "再见，索拉。"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:5174
 translate zh_Hans sola_storyline_86_53c71d7c:

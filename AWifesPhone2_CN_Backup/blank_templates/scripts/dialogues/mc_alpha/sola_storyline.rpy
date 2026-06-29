@@ -24,7 +24,7 @@ translate zh_Hans sola_storyline_50_c916d104:
 translate zh_Hans sola_storyline_50_6327e0be:
 
     # nvljohn "Hello, Sola"
-    nvljohn "Hello, Sola"
+    nvljohn "Hello, 索拉"
 
 # scripts/dialogues/mc_alpha/sola_storyline.rpy:74
 translate zh_Hans sola_storyline_50_35f1b0f2:
@@ -96,7 +96,7 @@ translate zh_Hans sola_storyline_50_7c02ce0e:
 translate zh_Hans sola_storyline_50_40ecfaf1:
 
     # nvljohn "You're imagining things, Sola"
-    nvljohn "You're imagining things, Sola"
+    nvljohn "You're imagining things, 索拉"
 
 # scripts/dialogues/mc_alpha/sola_storyline.rpy:98
 translate zh_Hans sola_storyline_50_d839f0a0:
@@ -374,7 +374,7 @@ translate zh_Hans sola_storyline_51_571e851c:
 translate zh_Hans sola_storyline_51_bc6d7618:
 
     # nvljohn "I should be the one thanking you, Sola"
-    nvljohn "I should be the one thanking you, Sola"
+    nvljohn "I should be the one thanking you, 索拉"
 
 # scripts/dialogues/mc_alpha/sola_storyline.rpy:227
 translate zh_Hans sola_storyline_51_4dd1ec00:
@@ -494,7 +494,7 @@ translate zh_Hans sola_storyline_51_f80fbe8e:
 translate zh_Hans sola_storyline_51_4d62d3c0:
 
     # nvljohn "See you, Sola"
-    nvljohn "See you, Sola"
+    nvljohn "See you, 索拉"
 
 # scripts/dialogues/mc_alpha/sola_storyline.rpy:289
 translate zh_Hans sola_storyline_51_53c71d7c:
@@ -1178,7 +1178,7 @@ translate zh_Hans sola_storyline_54_e12e7c92:
 translate zh_Hans sola_storyline_54_6327e0be:
 
     # nvljohn "Hello, Sola"
-    nvljohn "Hello, Sola"
+    nvljohn "Hello, 索拉"
 
 # scripts/dialogues/mc_alpha/sola_storyline.rpy:628
 translate zh_Hans sola_storyline_54_07a8817b:
@@ -1268,7 +1268,7 @@ translate zh_Hans sola_storyline_54_536698c9:
 translate zh_Hans sola_storyline_54_968b699f:
 
     # nvljohn "Oh, that's hot, Sola"
-    nvljohn "Oh, that's hot, Sola"
+    nvljohn "Oh, that's hot, 索拉"
 
 # scripts/dialogues/mc_alpha/sola_storyline.rpy:666
 translate zh_Hans sola_storyline_54_42564925:
@@ -1556,7 +1556,7 @@ translate zh_Hans sola_storyline_54_5c03168d:
 translate zh_Hans sola_storyline_54_dd3cda91:
 
     # nvljohn "You already do, Sola"
-    nvljohn "You already do, Sola"
+    nvljohn "You already do, 索拉"
 
 # scripts/dialogues/mc_alpha/sola_storyline.rpy:762
 translate zh_Hans sola_storyline_54_18275029:
@@ -2036,7 +2036,7 @@ translate zh_Hans sola_storyline_54_ca853523:
 translate zh_Hans sola_storyline_54_62551be5:
 
     # nvljohn "Cum for me, Sola"
-    nvljohn "Cum for me, Sola"
+    nvljohn "Cum for me, 索拉"
 
 # scripts/dialogues/mc_alpha/sola_storyline.rpy:926
 translate zh_Hans sola_storyline_54_a12f88d1:
@@ -2176,7 +2176,7 @@ translate zh_Hans sola_storyline_55_b3dbf862:
 translate zh_Hans sola_storyline_55_34feb474:
 
     # nvljohn "It's okay, Sola"
-    nvljohn "It's okay, Sola"
+    nvljohn "It's okay, 索拉"
 
 # scripts/dialogues/mc_alpha/sola_storyline.rpy:1005
 translate zh_Hans sola_storyline_55_81a806a3:
@@ -2658,7 +2658,7 @@ translate zh_Hans sola_storyline_56_06f6340c:
 translate zh_Hans sola_storyline_56_b1dbf99d:
 
     # nvljohn "Yesterday was fantastic, Sola"
-    nvljohn "Yesterday was fantastic, Sola"
+    nvljohn "Yesterday was fantastic, 索拉"
 
 # scripts/dialogues/mc_alpha/sola_storyline.rpy:1202
 translate zh_Hans sola_storyline_56_4b930546_1:
@@ -2798,7 +2798,7 @@ translate zh_Hans sola_storyline_57_3d463d54:
 translate zh_Hans sola_storyline_57_9f36d949:
 
     # nvlkirely "I heard Sola started giving you blowjobs"
-    nvlkirely "I heard Sola started giving you blowjobs"
+    nvlkirely "I heard 索拉 started giving you blowjobs"
 
 # scripts/dialogues/mc_alpha/sola_storyline.rpy:1281
 translate zh_Hans sola_storyline_57_5d120edc:
@@ -2924,7 +2924,7 @@ translate zh_Hans sola_storyline_57_5ddd1f23:
 translate zh_Hans sola_storyline_57_da07d91a:
 
     # nvljohn "It's just that I wasn't planning on having sex with Sola"
-    nvljohn "It's just that I wasn't planning on having sex with Sola"
+    nvljohn "It's just that I wasn't planning on having sex with 索拉"
 
 # scripts/dialogues/mc_alpha/sola_storyline.rpy:1323
 translate zh_Hans sola_storyline_57_1d9c0fbc:
@@ -2978,7 +2978,7 @@ translate zh_Hans sola_storyline_57_b2a25654:
 translate zh_Hans sola_storyline_57_e92621f8:
 
     # nvlkirely "Sola is a beautiful girl"
-    nvlkirely "Sola is a beautiful girl"
+    nvlkirely "索拉 is a beautiful girl"
 
 # scripts/dialogues/mc_alpha/sola_storyline.rpy:1341
 translate zh_Hans sola_storyline_57_9b55139e:
@@ -4058,7 +4058,7 @@ translate zh_Hans sola_storyline_61_eefa3647:
 translate zh_Hans sola_storyline_61_15f66706:
 
     # nvljohn "Hi, Sola"
-    nvljohn "Hi, Sola"
+    nvljohn "Hi, 索拉"
 
 # scripts/dialogues/mc_alpha/sola_storyline.rpy:1873
 translate zh_Hans sola_storyline_61_5b0ea1c1:
@@ -4246,7 +4246,7 @@ translate zh_Hans sola_storyline_62_912a5063:
 translate zh_Hans sola_storyline_62_b317689f:
 
     # nvljohn "It's gorgeous, Sola"
-    nvljohn "It's gorgeous, Sola"
+    nvljohn "It's gorgeous, 索拉"
 
 # scripts/dialogues/mc_alpha/sola_storyline.rpy:1974
 translate zh_Hans sola_storyline_62_ce211d31:
@@ -4294,7 +4294,7 @@ translate zh_Hans sola_storyline_62_26b338eb:
 translate zh_Hans sola_storyline_62_b52b3c7c:
 
     # nvljohn "Yes, Sola"
-    nvljohn "Yes, Sola"
+    nvljohn "Yes, 索拉"
 
 # scripts/dialogues/mc_alpha/sola_storyline.rpy:1990
 translate zh_Hans sola_storyline_62_849dc6f4:
@@ -5678,7 +5678,7 @@ translate zh_Hans sola_storyline_68_511c925b:
 translate zh_Hans sola_storyline_68_0cc42d87:
 
     # nvljohn "You're doing great, Sola"
-    nvljohn "You're doing great, Sola"
+    nvljohn "You're doing great, 索拉"
 
 # scripts/dialogues/mc_alpha/sola_storyline.rpy:2688
 translate zh_Hans sola_storyline_68_f5b96ee9:
@@ -6660,7 +6660,7 @@ translate zh_Hans sola_storyline_71_6c481e74:
 translate zh_Hans sola_storyline_71_37d6f64e:
 
     # nvljohn "I don't want you to think that our relationship will end because of Sola"
-    nvljohn "I don't want you to think that our relationship will end because of Sola"
+    nvljohn "I don't want you to think that our relationship will end because of 索拉"
 
 # scripts/dialogues/mc_alpha/sola_storyline.rpy:3141
 translate zh_Hans sola_storyline_71_977ecf3b:
@@ -6750,7 +6750,7 @@ translate zh_Hans sola_storyline_71_93593f62:
 translate zh_Hans sola_storyline_71_180d6804:
 
     # nvlkirely "And don't drag things out with Sola"
-    nvlkirely "And don't drag things out with Sola"
+    nvlkirely "And don't drag things out with 索拉"
 
 # scripts/dialogues/mc_alpha/sola_storyline.rpy:3171
 translate zh_Hans sola_storyline_71_35d79636:
@@ -7142,7 +7142,7 @@ translate zh_Hans sola_storyline_73_db19bb6e:
 translate zh_Hans sola_storyline_73_6327e0be:
 
     # nvljohn "Hello, Sola"
-    nvljohn "Hello, Sola"
+    nvljohn "Hello, 索拉"
 
 # scripts/dialogues/mc_alpha/sola_storyline.rpy:3381
 translate zh_Hans sola_storyline_73_ad5210b1:
@@ -8282,7 +8282,7 @@ translate zh_Hans sola_storyline_76_76823edd:
 translate zh_Hans sola_storyline_76_4580c0d0:
 
     # nvljohn "I'll try, Sola"
-    nvljohn "I'll try, Sola"
+    nvljohn "I'll try, 索拉"
 
 # scripts/dialogues/mc_alpha/sola_storyline.rpy:3896
 translate zh_Hans sola_storyline_76_297f63c1_1:
@@ -8542,7 +8542,7 @@ translate zh_Hans sola_storyline_77_f4c571dd:
 translate zh_Hans sola_storyline_77_642fe7f7:
 
     # nvlkirely "Sex with Sola is normal for you?"
-    nvlkirely "Sex with Sola is normal for you?"
+    nvlkirely "Sex with 索拉 is normal for you?"
 
 # scripts/dialogues/mc_alpha/sola_storyline.rpy:4015
 translate zh_Hans sola_storyline_77_91b56b93:
@@ -9168,7 +9168,7 @@ translate zh_Hans sola_storyline_78_4b0a2150:
 translate zh_Hans sola_storyline_78_60b77456:
 
     # nvljohn "Okay, Sola"
-    nvljohn "Okay, Sola"
+    nvljohn "Okay, 索拉"
 
 # scripts/dialogues/mc_alpha/sola_storyline.rpy:4276
 translate zh_Hans sola_storyline_78_73721729:
@@ -9464,7 +9464,7 @@ translate zh_Hans sola_storyline_79_5e4ad73e:
 translate zh_Hans sola_storyline_79_45966cf2:
 
     # nvljohn "Bye, Sola"
-    nvljohn "Bye, Sola"
+    nvljohn "Bye, 索拉"
 
 # scripts/dialogues/mc_alpha/sola_storyline.rpy:4417
 translate zh_Hans sola_storyline_79_02e32c04:
@@ -9496,7 +9496,7 @@ translate zh_Hans sola_storyline_80_f0956c34:
 translate zh_Hans sola_storyline_80_15f66706:
 
     # nvljohn "Hi, Sola"
-    nvljohn "Hi, Sola"
+    nvljohn "Hi, 索拉"
 
 # scripts/dialogues/mc_alpha/sola_storyline.rpy:4460
 translate zh_Hans sola_storyline_80_d7436026:
@@ -9828,7 +9828,7 @@ translate zh_Hans sola_storyline_81_c42182ac:
 translate zh_Hans sola_storyline_81_015f1f0c:
 
     # nvljohn "I'm glad you enjoyed it, Sola"
-    nvljohn "I'm glad you enjoyed it, Sola"
+    nvljohn "I'm glad you enjoyed it, 索拉"
 
 # scripts/dialogues/mc_alpha/sola_storyline.rpy:4603
 translate zh_Hans sola_storyline_81_3d0bb6ae:
@@ -10478,7 +10478,7 @@ translate zh_Hans sola_storyline_85_571e851c:
 translate zh_Hans sola_storyline_85_fc878d21:
 
     # nvljohn "Thank you, Sola"
-    nvljohn "Thank you, Sola"
+    nvljohn "Thank you, 索拉"
 
 # scripts/dialogues/mc_alpha/sola_storyline.rpy:4979
 translate zh_Hans sola_storyline_85_17d6ced3:
@@ -10868,7 +10868,7 @@ translate zh_Hans sola_storyline_86_5e4ad73e:
 translate zh_Hans sola_storyline_86_4d62d3c0:
 
     # nvljohn "See you, Sola"
-    nvljohn "See you, Sola"
+    nvljohn "See you, 索拉"
 
 # scripts/dialogues/mc_alpha/sola_storyline.rpy:5174
 translate zh_Hans sola_storyline_86_53c71d7c:
@@ -11328,7 +11328,7 @@ translate zh_Hans sola_storyline_89_06d59274:
 translate zh_Hans sola_storyline_89_fa65b951:
 
     # nvlkirely "Yeah, you, me and Sola"
-    nvlkirely "Yeah, you, me and Sola"
+    nvlkirely "Yeah, you, me and 索拉"
 
 # scripts/dialogues/mc_alpha/sola_storyline.rpy:5417
 translate zh_Hans sola_storyline_89_4279dea5:
@@ -11352,7 +11352,7 @@ translate zh_Hans sola_storyline_89_8e131c22:
 translate zh_Hans sola_storyline_89_15f3aba1:
 
     # nvljohn "But I don't think Sola is ready for that"
-    nvljohn "But I don't think Sola is ready for that"
+    nvljohn "But I don't think 索拉 is ready for that"
 
 # scripts/dialogues/mc_alpha/sola_storyline.rpy:5425
 translate zh_Hans sola_storyline_89_50a03aab:
@@ -11388,7 +11388,7 @@ translate zh_Hans sola_storyline_89_ee50ec0f:
 translate zh_Hans sola_storyline_89_3ed2b7b3:
 
     # nvljohn "When Sola's more open to it"
-    nvljohn "When Sola's more open to it"
+    nvljohn "When 索拉's more open to it"
 
 # scripts/dialogues/mc_alpha/sola_storyline.rpy:5437
 translate zh_Hans sola_storyline_89_4b4985f3:
@@ -11634,7 +11634,7 @@ translate zh_Hans sola_storyline_90_a0c9de7f:
 translate zh_Hans sola_storyline_90_cfba6812:
 
     # nvlkirely "By the way, Sola and I are going to a club tonight"
-    nvlkirely "By the way, Sola and I are going to a club tonight"
+    nvlkirely "By the way, 索拉 and I are going to a club tonight"
 
 # scripts/dialogues/mc_alpha/sola_storyline.rpy:5556
 translate zh_Hans sola_storyline_90_82d671d3:
@@ -13174,7 +13174,7 @@ translate zh_Hans henrique_storyline_9_8b6599d5:
 translate zh_Hans henrique_storyline_9_0edae0aa:
 
     # nvljohn "About Sola?"
-    nvljohn "About Sola?"
+    nvljohn "About 索拉?"
 
 # scripts/dialogues/mc_alpha/sola_storyline.rpy:6395
 translate zh_Hans henrique_storyline_9_4eda339d:

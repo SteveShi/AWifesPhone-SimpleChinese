@@ -38542,7 +38542,7 @@ translate zh_Hans fem_mc_storyline_317_2b11fccd:
 translate zh_Hans fem_mc_storyline_317_be1a7657:
 
     # nvlsalim "Ms [s_mc_name_is]"
-    nvlsalim "凯茜女士"
+    nvlsalim "[s_mc_name_is]女士"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:18377
 translate zh_Hans fem_mc_storyline_317_785a8c37:

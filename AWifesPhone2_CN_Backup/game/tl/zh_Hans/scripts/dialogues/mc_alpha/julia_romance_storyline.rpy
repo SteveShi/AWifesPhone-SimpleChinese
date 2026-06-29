@@ -8888,7 +8888,7 @@ translate zh_Hans julia_romance_storyline_37_185f9cbf:
     # nvl clear
     # nvljulia "Hey, [mc_name_is]"
     nvl clear
-    nvljulia "嘿，凯茜。"
+    nvljulia "嘿，[mc_name_is]。"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:4441
 translate zh_Hans julia_romance_storyline_37_b97be2a4:

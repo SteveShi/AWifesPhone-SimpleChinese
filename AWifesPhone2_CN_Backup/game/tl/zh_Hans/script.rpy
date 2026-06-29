@@ -416,7 +416,7 @@ translate zh_Hans strings:
 
     # script.rpy:2631
     old "Yes (Stepsis' Path)"
-    new "是啊（继妹路线）"
+    new "是啊（妹妹路线）"
 
     # script.rpy:2667
     old "Yes (Wife's Sister's Path)"

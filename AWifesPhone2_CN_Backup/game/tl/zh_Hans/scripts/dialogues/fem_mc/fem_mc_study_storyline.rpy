@@ -1194,7 +1194,7 @@ translate zh_Hans fem_mc_study_storyline_3_7a9f56ed:
 translate zh_Hans fem_mc_study_storyline_3_a540e322:
 
     # nvljohn "Do you think I'm such a jerk that I'd avoid seeing my stepsis?"
-    nvljohn "你觉得我是那种会躲着不见我继妹的混蛋吗？"
+    nvljohn "你觉得我是那种会躲着不见我妹妹的混蛋吗？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_study_storyline.rpy:572
 translate zh_Hans fem_mc_study_storyline_3_2ec95015:
@@ -2036,7 +2036,7 @@ translate zh_Hans fem_mc_study_storyline_4_5eb64036:
 translate zh_Hans fem_mc_study_storyline_4_c5f6da3e:
 
     # nvljenna "It's because your stepbrother changed his gender"
-    nvljenna "是因为你继兄变性了。"
+    nvljenna "是因为你哥哥变性了。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_study_storyline.rpy:920
 translate zh_Hans fem_mc_study_storyline_4_b862354d:
@@ -2294,7 +2294,7 @@ translate zh_Hans fem_mc_study_storyline_4_47a9da50:
 translate zh_Hans fem_mc_study_storyline_4_29911656:
 
     # nvljenna "And your stepbrother is living proof of that"
-    nvljenna "而你的继兄就是活生生的证据"
+    nvljenna "而你的哥哥就是活生生的证据"
 
 # game/scripts/dialogues/fem_mc/fem_mc_study_storyline.rpy:1008
 translate zh_Hans fem_mc_study_storyline_4_3c1d78f1:
@@ -2396,7 +2396,7 @@ translate zh_Hans fem_mc_study_storyline_4_after_337fc782:
 translate zh_Hans fem_mc_study_storyline_4_after_82ddd8dd:
 
     # mc "{i}She told my stepsis everything"
-    mc "{i}她把我继妹的一切都抖出来了"
+    mc "{i}她把我妹妹的一切都抖出来了"
 
 # game/scripts/dialogues/fem_mc/fem_mc_study_storyline.rpy:1069
 translate zh_Hans fem_mc_study_storyline_4_after_84445ee8:
@@ -2626,7 +2626,7 @@ translate zh_Hans fem_mc_study_storyline_5_87fc833b:
 translate zh_Hans fem_mc_study_storyline_5_207bdc6d:
 
     # nvlstepsis "As your stepsister, I'll accept you as you are"
-    nvlstepsis "作为你的继妹，我会接受你本来的样子。"
+    nvlstepsis "作为你的妹妹，我会接受你本来的样子。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_study_storyline.rpy:1164
 translate zh_Hans fem_mc_study_storyline_5_20a17a5c:
@@ -3498,7 +3498,7 @@ translate zh_Hans fem_mc_study_storyline_6_after_1dc207e4:
 translate zh_Hans fem_mc_study_storyline_6_after_5883ae85:
 
     # mc "{i}Maybe she'll take pity on me and leave my stepsis alone"
-    mc "{i}或许她会可怜我这副骚样，放过我那继妹吧。"
+    mc "{i}或许她会可怜我这副骚样，放过我那妹妹吧。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_study_storyline.rpy:1539
 translate zh_Hans fem_mc_study_storyline_6_after_33912a5d:
@@ -3528,7 +3528,7 @@ translate zh_Hans fem_mc_study_storyline_6_after_b50cb5a0:
 translate zh_Hans fem_mc_study_storyline_6_after_a4574c93:
 
     # mc "{i}I didn't know my stepsis was... like that"
-    mc "{i}我他妈真没想到，我继妹竟然也……是那种货色。"
+    mc "{i}我他妈真没想到，我妹妹竟然也……是那种货色。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_study_storyline.rpy:1549
 translate zh_Hans fem_mc_study_storyline_6_after_386817e6:
@@ -3570,7 +3570,7 @@ translate zh_Hans fem_mc_study_storyline_6_after_8676537f:
 translate zh_Hans fem_mc_study_storyline_6_after_17016e50:
 
     # mc "{i}First my wife, now my stepsis"
-    mc "{i}先是我的凯茜，现在又是我那继妹，都被她给玩坏了！"
+    mc "{i}先是我的凯茜，现在又是我那妹妹，都被她给玩坏了！"
 
 # game/scripts/dialogues/fem_mc/fem_mc_study_storyline.rpy:1563
 translate zh_Hans fem_mc_study_storyline_6_after_9a13241a:
@@ -3582,7 +3582,7 @@ translate zh_Hans fem_mc_study_storyline_6_after_9a13241a:
 translate zh_Hans fem_mc_study_storyline_6_after_9d9441a9:
 
     # mc "{i}If my stepsis is okay with it, then she can keep doing it"
-    mc "{i}如果我继妹自己都乐在其中，那她就继续沉沦下去吧。"
+    mc "{i}如果我妹妹自己都乐在其中，那她就继续沉沦下去吧。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_study_storyline.rpy:1567
 translate zh_Hans fem_mc_study_storyline_6_after_ac0acdd9:
@@ -3638,7 +3638,7 @@ translate zh_Hans fem_mc_study_storyline_7_fc78db02:
 translate zh_Hans fem_mc_study_storyline_7_4998d399:
 
     # nvljohn_f "About my stepsis"
-    nvljohn_f "关于我的继妹"
+    nvljohn_f "关于我的妹妹"
 
 # game/scripts/dialogues/fem_mc/fem_mc_study_storyline.rpy:1604
 translate zh_Hans fem_mc_study_storyline_7_68dfab81:
@@ -4506,7 +4506,7 @@ translate zh_Hans fem_mc_study_storyline_9_6dbb4efb:
 translate zh_Hans fem_mc_study_storyline_9_e0b6ad01:
 
     # nvljenna "Now you'll be able to see your stepsis"
-    nvljenna "现在你就能见到你的继妹了"
+    nvljenna "现在你就能见到你的妹妹了"
 
 # game/scripts/dialogues/fem_mc/fem_mc_study_storyline.rpy:1969
 translate zh_Hans fem_mc_study_storyline_9_62d83539:
@@ -4524,7 +4524,7 @@ translate zh_Hans fem_mc_study_storyline_9_47af370b:
 translate zh_Hans fem_mc_study_storyline_9_6e27b6f2:
 
     # nvljenna "Your stepsis has become your friend"
-    nvljenna "你的继妹成了你的朋友"
+    nvljenna "你的妹妹成了你的朋友"
 
 # game/scripts/dialogues/fem_mc/fem_mc_study_storyline.rpy:1975
 translate zh_Hans fem_mc_study_storyline_9_3d89427c:
@@ -5262,7 +5262,7 @@ translate zh_Hans fem_mc_study_storyline_12_750f9767:
 translate zh_Hans fem_mc_study_storyline_12_097df0aa:
 
     # nvlwife "She told me about your stepsis"
-    nvlwife "她告诉我关于你继妹的事"
+    nvlwife "她告诉我关于你妹妹的事"
 
 # game/scripts/dialogues/fem_mc/fem_mc_study_storyline.rpy:2322
 translate zh_Hans fem_mc_study_storyline_12_3e020992:
@@ -6270,7 +6270,7 @@ translate zh_Hans fem_mc_study_storyline_15_88b99079:
 translate zh_Hans fem_mc_study_storyline_15_7a5823e0:
 
     # nvljenna "By the way, your stepsis and I went out yesterday"
-    nvljenna "顺便说一句，你继妹和我昨天出去了"
+    nvljenna "顺便说一句，你妹妹和我昨天出去了"
 
 # game/scripts/dialogues/fem_mc/fem_mc_study_storyline.rpy:2759
 translate zh_Hans fem_mc_study_storyline_15_d6cb1bb9:
@@ -6372,7 +6372,7 @@ translate zh_Hans fem_mc_study_storyline_15_50347f24:
 translate zh_Hans fem_mc_study_storyline_15_e50bd53f:
 
     # nvljenna "And your stepsis looks amazing"
-    nvljenna "而且你继妹看起来棒极了"
+    nvljenna "而且你妹妹看起来棒极了"
 
 # game/scripts/dialogues/fem_mc/fem_mc_study_storyline.rpy:2805
 translate zh_Hans fem_mc_study_storyline_15_2547160a:
@@ -6432,7 +6432,7 @@ translate zh_Hans fem_mc_study_storyline_15_b15c0eb3:
 translate zh_Hans fem_mc_study_storyline_15_6be4dc51:
 
     # nvljenna "Not interested in discussing your stepsis?"
-    nvljenna "不想讨论你继妹吗？"
+    nvljenna "不想讨论你妹妹吗？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_study_storyline.rpy:2825
 translate zh_Hans fem_mc_study_storyline_15_66b1d02c:
@@ -7262,7 +7262,7 @@ translate zh_Hans fem_mc_study_storyline_19_b202da8e:
 translate zh_Hans fem_mc_study_storyline_19_fb7c328d:
 
     # nvljenna "Your stepsis will probably be there"
-    nvljenna "你的继妹可能也会在那里"
+    nvljenna "你的妹妹可能也会在那里"
 
 # game/scripts/dialogues/fem_mc/fem_mc_study_storyline.rpy:3251
 translate zh_Hans fem_mc_study_storyline_19_12795527:
@@ -9550,7 +9550,7 @@ translate zh_Hans fem_mc_study_storyline_26_a52a9308:
 translate zh_Hans fem_mc_study_storyline_26_4c5e23cc:
 
     # nvlstepsis "Don't you want to make your stepsis happy?"
-    nvlstepsis "你不想让你的继妹开心吗？"
+    nvlstepsis "你不想让你的妹妹开心吗？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_study_storyline.rpy:4293
 translate zh_Hans fem_mc_study_storyline_26_9a959d53:
@@ -10104,7 +10104,7 @@ translate zh_Hans fem_mc_study_storyline_27_ed4b6a0c:
 translate zh_Hans fem_mc_study_storyline_27_9885b782:
 
     # nvljenna "I hope your stepsis can teach you everything you need to know"
-    nvljenna "我希望你的继妹能教你所有你需要知道的一切"
+    nvljenna "我希望你的妹妹能教你所有你需要知道的一切"
 
 # game/scripts/dialogues/fem_mc/fem_mc_study_storyline.rpy:4522
 translate zh_Hans fem_mc_study_storyline_27_ba89433a:

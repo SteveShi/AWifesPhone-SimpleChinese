@@ -1100,7 +1100,7 @@ translate zh_Hans kirely_storyline_54_714681dc:
 translate zh_Hans kirely_storyline_54_84c3e99d:
 
     # nvljohn "Kirely sent it to me"
-    nvljohn "凯瑞莉发给我了。"
+    nvljohn "绮芮发给我了。"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:591
 translate zh_Hans kirely_storyline_54_922b7a0e:
@@ -1348,7 +1348,7 @@ translate zh_Hans kirely_storyline_55_9f96a92e:
 translate zh_Hans kirely_storyline_55_c9bac24c:
 
     # nvljohn "Goodbye, Kirely"
-    nvljohn "再见，凯瑞莉"
+    nvljohn "再见，绮芮"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:704
 translate zh_Hans kirely_storyline_55_848b3e50:
@@ -1710,7 +1710,7 @@ translate zh_Hans kirely_storyline_56_9413b497:
 translate zh_Hans kirely_storyline_56_c9bac24c:
 
     # nvljohn "Goodbye, Kirely"
-    nvljohn "再见，凯瑞莉"
+    nvljohn "再见，绮芮"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:863
 translate zh_Hans kirely_storyline_56_7901bddb:
@@ -3250,7 +3250,7 @@ translate zh_Hans kirely_storyline_66_01c44df8:
 translate zh_Hans kirely_storyline_66_c8710793:
 
     # nvljohn "Okay, Kirely 😊"
-    nvljohn "好的，基雷莉 😊"
+    nvljohn "好的，绮芮 😊"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:1652
 translate zh_Hans kirely_storyline_66_e8a02202:
@@ -3384,13 +3384,13 @@ translate zh_Hans kirely_storyline_67_a3fb9b33:
 translate zh_Hans kirely_storyline_67_25a981d9:
 
     # nvlunknown "We also wanted to talk to you about Kirely"
-    nvlunknown "我们还想和你谈谈关于凯瑞莉的事。"
+    nvlunknown "我们还想和你谈谈关于绮芮的事。"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:1729
 translate zh_Hans kirely_storyline_67_3b0ea9f7:
 
     # nvljohn "About Kirely?"
-    nvljohn "关于凯瑞莉？"
+    nvljohn "关于绮芮？"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:1731
 translate zh_Hans kirely_storyline_67_ced0c4bd:
@@ -4108,7 +4108,7 @@ translate zh_Hans kirely_storyline_69_after_5f407903:
 translate zh_Hans kirely_storyline_69_after_ea522a05:
 
     # mc "{i}If Kirely is there, I'll just talk to her, I guess"
-    mc "{i}如果基雷莉在，我想我就跟她聊聊吧。"
+    mc "{i}如果绮芮在，我想我就跟她聊聊吧。"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:2065
 translate zh_Hans kirely_storyline_69_after_953f7ec0:
@@ -4138,7 +4138,7 @@ translate zh_Hans kirely_storyline_69_after_b9fd7206:
 translate zh_Hans kirely_storyline_69_after_79f4824f:
 
     # mc "{i}Kirely or Sola?" nointeract
-    mc "{i}Kirely or Sola?" nointeract
+    mc "{i}Kirely or 索拉?" nointeract
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:2079
 translate zh_Hans kirely_storyline_69_after_39db152e:
@@ -4150,7 +4150,7 @@ translate zh_Hans kirely_storyline_69_after_39db152e:
 translate zh_Hans kirely_storyline_69_after_90edc548:
 
     # mc "{i}She's more important to me than Kirely"
-    mc "{i}她对我来说可比基雷莉重要多了。"
+    mc "{i}她对我来说可比绮芮重要多了。"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:2083
 translate zh_Hans kirely_storyline_69_after_61bfc46e:
@@ -4162,7 +4162,7 @@ translate zh_Hans kirely_storyline_69_after_61bfc46e:
 translate zh_Hans kirely_storyline_69_after_ac3eb2cd:
 
     # mc "{i}And with Kirely, I just feel good"
-    mc "{i}而跟基雷莉在一起，我只是觉得爽。"
+    mc "{i}而跟绮芮在一起，我只是觉得爽。"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:2087
 translate zh_Hans kirely_storyline_69_after_c2ac2061:
@@ -4204,13 +4204,13 @@ translate zh_Hans kirely_storyline_69_after_f20c702d:
 translate zh_Hans kirely_storyline_69_after_6734ae48:
 
     # mc "{i}If not, I'll have fun with Kirely"
-    mc "{i}如果她不来，那我就跟基雷莉鬼混。"
+    mc "{i}如果她不来，那我就跟绮芮鬼混。"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:2107
 translate zh_Hans kirely_storyline_69_after_5547a7d4:
 
     # mc "{i}I guess I should hang out with Kirely"
-    mc "{i}我想我还是应该陪着基雷莉。"
+    mc "{i}我想我还是应该陪着绮芮。"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:2109
 translate zh_Hans kirely_storyline_69_after_78ae70fc:
@@ -4246,7 +4246,7 @@ translate zh_Hans kirely_storyline_69_after_535572c6:
 translate zh_Hans kirely_storyline_69_after_c68e1aa7:
 
     # mc "{i}At this party, I'll be with Kirely"
-    mc "{i}在这个派对上，我就跟基雷莉在一起。"
+    mc "{i}在这个派对上，我就跟绮芮在一起。"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:2121
 translate zh_Hans kirely_storyline_69_after_129ac38f:
@@ -4718,7 +4718,7 @@ translate zh_Hans kirely_storyline_71_eefa3647:
 translate zh_Hans kirely_storyline_71_15f66706:
 
     # nvljohn "Hi, Sola"
-    nvljohn "嗨，Sola。"
+    nvljohn "嗨，索拉。"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:2359
 translate zh_Hans kirely_storyline_71_9a4f51f2:
@@ -4820,7 +4820,7 @@ translate zh_Hans kirely_storyline_71_9ef137e4:
 translate zh_Hans kirely_storyline_71_290a7db8:
 
     # nvljohn "Thanks, Sola"
-    nvljohn "谢谢，Sola"
+    nvljohn "谢谢，索拉"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:2393
 translate zh_Hans kirely_storyline_71_297f63c1:
@@ -11426,7 +11426,7 @@ translate zh_Hans kirely_storyline_102_0d284fbc:
 translate zh_Hans kirely_storyline_102_cf55d26b:
 
     # nvljohn "You looked incredible, Kirely"
-    nvljohn "基雷莉，你简直美得不可思议。"
+    nvljohn "绮芮，你简直美得不可思议。"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:5700
 translate zh_Hans kirely_storyline_102_1b03fa65:
@@ -16431,12 +16431,12 @@ translate zh_Hans strings:
     new "继续这段关系"
 
     # scripts/dialogues/mc_alpha/kirely_storyline.rpy:2073
-    old "Sola (Sola content)"
+    old "索拉 (索拉 content)"
     new "索拉 (索拉路线)"
 
     # scripts/dialogues/mc_alpha/kirely_storyline.rpy:2073
     old "Kirely (Kirely content)"
-    new "凯瑞莉 (凯瑞莉路线)"
+    new "绮芮 (绮芮路线)"
 
     # scripts/dialogues/mc_alpha/kirely_storyline.rpy:2294
     old "I'll cum inside her next time (pregnant content)"

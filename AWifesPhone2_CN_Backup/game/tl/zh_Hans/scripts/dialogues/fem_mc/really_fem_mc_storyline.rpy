@@ -9822,7 +9822,7 @@ translate zh_Hans fem_mc_storyline_10044_10097307:
 translate zh_Hans fem_mc_storyline_10044_04f77183:
 
     # nvlchristina "Oh, hi, [w_mc_name_is]"
-    nvlchristina "哦，你好，[w_mc_name_is]凯茜"
+    nvlchristina "哦，你好，[w_mc_name_is][w_mc_name_is]"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:5129
 translate zh_Hans fem_mc_storyline_10044_be1ef09a:
@@ -9906,7 +9906,7 @@ translate zh_Hans fem_mc_storyline_10044_9a75979e:
 translate zh_Hans fem_mc_storyline_10044_ca6267ef:
 
     # nvljohn_f "Hello, everyone. I'm [w_mc_name_is] 😊"
-    nvljohn_f "大家好，我是[w_mc_name_is]凯茜 😊"
+    nvljohn_f "大家好，我是[w_mc_name_is][w_mc_name_is] 😊"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:5157
 translate zh_Hans fem_mc_storyline_10044_0d33f6bb:
@@ -9936,7 +9936,7 @@ translate zh_Hans fem_mc_storyline_10044_b9631f95:
 translate zh_Hans fem_mc_storyline_10044_a2bc77d5:
 
     # nvljenna "But [w_mc_name_is] is a close friend of mine, so I thought I could make an exception"
-    nvljenna "但[w_mc_name_is]凯茜是我很要好的朋友，所以我认为我可以破例。"
+    nvljenna "但[w_mc_name_is][w_mc_name_is]是我很要好的朋友，所以我认为我可以破例。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:5167
 translate zh_Hans fem_mc_storyline_10044_a0cf5afe:

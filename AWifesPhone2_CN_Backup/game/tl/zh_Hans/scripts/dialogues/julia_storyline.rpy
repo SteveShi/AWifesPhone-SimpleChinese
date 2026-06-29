@@ -67406,7 +67406,7 @@ translate zh_Hans julia_storyline_425_084d6a70:
 translate zh_Hans julia_storyline_425_ed1f8361:
 
     # nvlson "Anyway, thanks again for the other day"
-    nvlson "总之，那天的事再次谢谢你，凯茜。"
+    nvlson "总之，那天的事再次谢谢你，[mc_name_is]。"
 
 # game/scripts/dialogues/julia_storyline.rpy:32732
 translate zh_Hans julia_storyline_425_39c3897e:
@@ -77666,7 +77666,7 @@ translate zh_Hans julia_storyline_471_e8336c7e:
 translate zh_Hans julia_storyline_471_1f549d67:
 
     # nvljenna "You bent over in front of like five dudes, [w_mc_name_is]."
-    nvljenna "你当着五个男人的面撅起了屁股，凯茜。"
+    nvljenna "你当着五个男人的面撅起了屁股，[w_mc_name_is]。"
 
 # game/scripts/dialogues/julia_storyline.rpy:37956
 translate zh_Hans julia_storyline_471_d52b4195:
@@ -80840,7 +80840,7 @@ translate zh_Hans julia_storyline_489_9cd3edfd:
 translate zh_Hans julia_storyline_489_d45e9a93:
 
     # nvlgreg "Thanks, Ms [w_mc_name_is]"
-    nvlgreg "谢谢你，凯茜老师。"
+    nvlgreg "谢谢你，[w_mc_name_is]老师。"
 
 # game/scripts/dialogues/julia_storyline.rpy:39675
 translate zh_Hans julia_storyline_489_5bb8e70a:
@@ -81010,7 +81010,7 @@ translate zh_Hans julia_storyline_490_f8cbfd4b:
     # nvl clear
     # nvlfuck_student1 "Hey, Ms [w_mc_name_is]"
     nvl clear
-    nvlfuck_student1 "嘿，凯茜老师。"
+    nvlfuck_student1 "嘿，[mc_name_is]老师。"
 
 # game/scripts/dialogues/julia_storyline.rpy:39782
 translate zh_Hans julia_storyline_490_a2c2c85f:
@@ -81156,13 +81156,13 @@ translate zh_Hans julia_storyline_491_4ccb2158:
     # nvl clear
     # nvlstepsis "Hey, [mc_name_is]"
     nvl clear
-    nvlstepsis "嘿，凯茜。"
+    nvlstepsis "嘿，[mc_name_is]。"
 
 # game/scripts/dialogues/julia_storyline.rpy:39867
 translate zh_Hans julia_storyline_491_e6de5489:
 
     # nvlstepsis "I mean, [w_mc_name_is]"
-    nvlstepsis "我是说，凯茜。"
+    nvlstepsis "我是说，[w_mc_name_is]。"
 
 # game/scripts/dialogues/julia_storyline.rpy:39869
 translate zh_Hans julia_storyline_491_bca25275:
@@ -81326,7 +81326,7 @@ translate zh_Hans julia_storyline_492_53f8563f:
 translate zh_Hans julia_storyline_492_b99dd0d8:
 
     # nvlstepsis "I just see a beautiful woman and a friend now, not my stepbrother"
-    nvlstepsis "我现在眼里只有个尤物和朋友，可不是什么继兄了。"
+    nvlstepsis "我现在眼里只有个尤物和朋友，可不是什么哥哥了。"
 
 # game/scripts/dialogues/julia_storyline.rpy:39956
 translate zh_Hans julia_storyline_492_7704705c:
@@ -86982,7 +86982,7 @@ translate zh_Hans julia_storyline_520_508b3e70:
 translate zh_Hans julia_storyline_520_9e6de389:
 
     # nvldad "She was like wow, is that really [w_mc_name_is]?"
-    nvldad "她当时就惊呆了，心想：哇，这是真的凯茜吗？"
+    nvldad "她当时就惊呆了，心想：哇，这是真的[w_mc_name_is]吗？"
 
 # game/scripts/dialogues/julia_storyline.rpy:42920
 translate zh_Hans julia_storyline_520_30e058a9:

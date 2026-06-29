@@ -82966,7 +82966,7 @@ translate zh_Hans withoutapp_messager02_1_61_ab6d0abc:
 translate zh_Hans withoutapp_messager02_1_61_56f7afbd:
 
     # nvlson "Here you go. Her name is Kirely"
-    nvlson "给你。她叫凯瑞莉。"
+    nvlson "给你。她叫绮芮。"
 
 # new_main_wife_phone_0_2_fin.rpy:37454
 translate zh_Hans withoutapp_messager02_1_61_980044de:
