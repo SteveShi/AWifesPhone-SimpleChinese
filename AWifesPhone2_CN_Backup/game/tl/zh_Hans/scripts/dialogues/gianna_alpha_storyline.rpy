@@ -264,7 +264,7 @@ translate zh_Hans gianna_alpha_storyline_1_04b8b619:
 translate zh_Hans gianna_alpha_storyline_1_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:157
 translate zh_Hans gianna_alpha_storyline_2_ef1c69b6:
@@ -314,7 +314,7 @@ translate zh_Hans gianna_alpha_storyline_2_75a48b0f:
 translate zh_Hans gianna_alpha_storyline_2_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:206
 translate zh_Hans gianna_alpha_storyline_3_3351a602:
@@ -640,7 +640,7 @@ translate zh_Hans gianna_alpha_storyline_3_775a6e29_1:
 translate zh_Hans gianna_alpha_storyline_3_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:349
 translate zh_Hans gianna_alpha_storyline_4_83ffa6ee:
@@ -798,7 +798,7 @@ translate zh_Hans gianna_alpha_storyline_4_6396bbc3:
 translate zh_Hans gianna_alpha_storyline_4_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:442
 translate zh_Hans gianna_alpha_storyline_5_8268811c:
@@ -980,7 +980,7 @@ translate zh_Hans gianna_alpha_storyline_5_ac0a5f72:
 translate zh_Hans gianna_alpha_storyline_5_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:538
 translate zh_Hans gianna_alpha_storyline_6_bd6e06fc:
@@ -1186,7 +1186,7 @@ translate zh_Hans gianna_alpha_storyline_6_f66ca269:
 translate zh_Hans gianna_alpha_storyline_6_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:641
 translate zh_Hans gianna_alpha_storyline_7_ce86e628:
@@ -1242,7 +1242,7 @@ translate zh_Hans gianna_alpha_storyline_7_17b73874:
 translate zh_Hans gianna_alpha_storyline_7_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:692
 translate zh_Hans gianna_alpha_storyline_8_00f1c1af:
@@ -1364,7 +1364,7 @@ translate zh_Hans gianna_alpha_storyline_8_787b0f26:
 translate zh_Hans gianna_alpha_storyline_8_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:767
 translate zh_Hans gianna_alpha_storyline_9_ad19f3b9:
@@ -1444,7 +1444,7 @@ translate zh_Hans gianna_alpha_storyline_9_c56d42e2:
 translate zh_Hans gianna_alpha_storyline_9_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:826
 translate zh_Hans gianna_alpha_storyline_10_02cfa255:
@@ -1506,7 +1506,7 @@ translate zh_Hans gianna_alpha_storyline_10_3073c4c9:
 translate zh_Hans gianna_alpha_storyline_10_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:879
 translate zh_Hans gianna_alpha_storyline_11_b0e092f4:
@@ -1568,7 +1568,7 @@ translate zh_Hans gianna_alpha_storyline_11_96ba5602:
 translate zh_Hans gianna_alpha_storyline_11_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:932
 translate zh_Hans gianna_alpha_storyline_12_aabf0a69:
@@ -1690,7 +1690,7 @@ translate zh_Hans gianna_alpha_storyline_12_33fc67be:
 translate zh_Hans gianna_alpha_storyline_12_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:1007
 translate zh_Hans gianna_alpha_storyline_13_6755c5a8:
@@ -1776,7 +1776,7 @@ translate zh_Hans gianna_alpha_storyline_13_c8a1ef99:
 translate zh_Hans gianna_alpha_storyline_13_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:1068
 translate zh_Hans gianna_alpha_storyline_14_d639be6f:
@@ -1952,7 +1952,7 @@ translate zh_Hans gianna_alpha_storyline_14_1bc0fa1f:
 translate zh_Hans gianna_alpha_storyline_14_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:1161
 translate zh_Hans gianna_alpha_storyline_15_0cfcb5f1:
@@ -2044,7 +2044,7 @@ translate zh_Hans gianna_alpha_storyline_15_e59f4455:
 translate zh_Hans gianna_alpha_storyline_15_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:1224
 translate zh_Hans gianna_alpha_storyline_16_70d8a7f4:
@@ -2172,7 +2172,7 @@ translate zh_Hans gianna_alpha_storyline_16_6586a5ef:
 translate zh_Hans gianna_alpha_storyline_16_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:1301
 translate zh_Hans gianna_alpha_storyline_17_4e106609:
@@ -2270,7 +2270,7 @@ translate zh_Hans gianna_alpha_storyline_17_36a9bfdb:
 translate zh_Hans gianna_alpha_storyline_17_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:1367
 translate zh_Hans gianna_alpha_storyline_18_4561f0b6:
@@ -2434,7 +2434,7 @@ translate zh_Hans gianna_alpha_storyline_18_f18c8a4d:
 translate zh_Hans gianna_alpha_storyline_18_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:1454
 translate zh_Hans gianna_alpha_storyline_19_9c3abc62:
@@ -2580,7 +2580,7 @@ translate zh_Hans gianna_alpha_storyline_19_e0655f79:
 translate zh_Hans gianna_alpha_storyline_19_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:1537
 translate zh_Hans gianna_alpha_storyline_20_8258fd7a:
@@ -2690,7 +2690,7 @@ translate zh_Hans gianna_alpha_storyline_20_6396bbc3:
 translate zh_Hans gianna_alpha_storyline_20_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:1610
 translate zh_Hans gianna_alpha_storyline_21_5034a3db:
@@ -2782,7 +2782,7 @@ translate zh_Hans gianna_alpha_storyline_21_82d7db8e:
 translate zh_Hans gianna_alpha_storyline_21_3c876004:
 
     # nvlgianna "…"
-    nvlgianna ""
+    nvlgianna "…"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:1642
 translate zh_Hans gianna_alpha_storyline_21_a3b2de41:
@@ -2836,7 +2836,7 @@ translate zh_Hans gianna_alpha_storyline_21_7236a99c:
 translate zh_Hans gianna_alpha_storyline_21_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:1691
 translate zh_Hans gianna_alpha_storyline_22_1cac56cc:
@@ -3006,7 +3006,7 @@ translate zh_Hans gianna_alpha_storyline_22_0ab9df16:
 translate zh_Hans gianna_alpha_storyline_22_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:1784
 translate zh_Hans gianna_alpha_storyline_23_6d5a002b:
@@ -3014,7 +3014,7 @@ translate zh_Hans gianna_alpha_storyline_23_6d5a002b:
     # nvl clear
     # nvlgianna "🔥"
     nvl clear
-    nvlgianna ""
+    nvlgianna "🔥"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:1789
 translate zh_Hans gianna_alpha_storyline_23_f5ae4528:
@@ -3050,7 +3050,7 @@ translate zh_Hans gianna_alpha_storyline_23_da7651d2:
 translate zh_Hans gianna_alpha_storyline_23_3fc85e90:
 
     # nvlgianna "…❤️❤️❤️"
-    nvlgianna ""
+    nvlgianna "…❤️❤️❤️"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:1802
 translate zh_Hans gianna_alpha_storyline_23_6b6ee87d:
@@ -3128,7 +3128,7 @@ translate zh_Hans gianna_alpha_storyline_23_7473e54c:
 translate zh_Hans gianna_alpha_storyline_23_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:1859
 translate zh_Hans gianna_alpha_storyline_24_a173961c:
@@ -3208,7 +3208,7 @@ translate zh_Hans gianna_alpha_storyline_24_f2513b93:
 translate zh_Hans gianna_alpha_storyline_24_3c876004:
 
     # nvlgianna "…"
-    nvlgianna ""
+    nvlgianna "…"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:1887
 translate zh_Hans gianna_alpha_storyline_24_32eebc9d:
@@ -3262,7 +3262,7 @@ translate zh_Hans gianna_alpha_storyline_24_a68c5f82:
 translate zh_Hans gianna_alpha_storyline_24_3c876004_1:
 
     # nvlgianna "…"
-    nvlgianna ""
+    nvlgianna "…"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:1905
 translate zh_Hans gianna_alpha_storyline_24_c958e2df:
@@ -3292,7 +3292,7 @@ translate zh_Hans gianna_alpha_storyline_24_a10ac33e:
 translate zh_Hans gianna_alpha_storyline_24_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:1946
 translate zh_Hans gianna_alpha_storyline_25_181c4b49:
@@ -3414,7 +3414,7 @@ translate zh_Hans gianna_alpha_storyline_25_aba2e9d8:
 translate zh_Hans gianna_alpha_storyline_25_3c876004:
 
     # nvlgianna "…"
-    nvlgianna ""
+    nvlgianna "…"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:1990
 translate zh_Hans gianna_alpha_storyline_25_0a99fbd6:
@@ -3456,7 +3456,7 @@ translate zh_Hans gianna_alpha_storyline_25_bd8634b5:
 translate zh_Hans gianna_alpha_storyline_25_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2035
 translate zh_Hans gianna_alpha_storyline_26_ec53057b:
@@ -3548,7 +3548,7 @@ translate zh_Hans gianna_alpha_storyline_26_294e2954:
 translate zh_Hans gianna_alpha_storyline_26_3c876004:
 
     # nvlgianna "…"
-    nvlgianna ""
+    nvlgianna "…"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2067
 translate zh_Hans gianna_alpha_storyline_26_a152b0e8:
@@ -3626,7 +3626,7 @@ translate zh_Hans gianna_alpha_storyline_26_71c0aee3:
 translate zh_Hans gianna_alpha_storyline_26_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2124
 translate zh_Hans gianna_alpha_storyline_27_922c9405:
@@ -3796,7 +3796,7 @@ translate zh_Hans gianna_alpha_storyline_27_087a392e:
 translate zh_Hans gianna_alpha_storyline_27_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2213
 translate zh_Hans gianna_alpha_storyline_28_a9c343cd:
@@ -3804,7 +3804,7 @@ translate zh_Hans gianna_alpha_storyline_28_a9c343cd:
     # nvl clear
     # nvlgianna "🙈"
     nvl clear
-    nvlgianna ""
+    nvlgianna "🙈"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2218
 translate zh_Hans gianna_alpha_storyline_28_b32e182c:
@@ -3882,7 +3882,7 @@ translate zh_Hans gianna_alpha_storyline_28_ee2fa6f7:
 translate zh_Hans gianna_alpha_storyline_28_fc168d5b:
 
     # nvlgianna "😂😂😂"
-    nvlgianna ""
+    nvlgianna "😂😂😂"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2245
 translate zh_Hans gianna_alpha_storyline_28_0adaeb57:
@@ -3954,7 +3954,7 @@ translate zh_Hans gianna_alpha_storyline_28_4c69f2d5:
 translate zh_Hans gianna_alpha_storyline_28_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2300
 translate zh_Hans gianna_alpha_storyline_29_620f5222:
@@ -4058,7 +4058,7 @@ translate zh_Hans gianna_alpha_storyline_29_81c3f896:
 translate zh_Hans gianna_alpha_storyline_29_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2369
 translate zh_Hans gianna_alpha_storyline_30_6d5a002b:
@@ -4066,7 +4066,7 @@ translate zh_Hans gianna_alpha_storyline_30_6d5a002b:
     # nvl clear
     # nvlgianna "🔥"
     nvl clear
-    nvlgianna ""
+    nvlgianna "🔥"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2374
 translate zh_Hans gianna_alpha_storyline_30_f666ec15:
@@ -4198,7 +4198,7 @@ translate zh_Hans gianna_alpha_storyline_30_b6625983:
 translate zh_Hans gianna_alpha_storyline_30_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2452
 translate zh_Hans gianna_alpha_storyline_31_2d86c242:
@@ -4332,7 +4332,7 @@ translate zh_Hans gianna_alpha_storyline_31_b5212d2d:
 translate zh_Hans gianna_alpha_storyline_31_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2529
 translate zh_Hans gianna_alpha_storyline_32_8314873e:
@@ -4436,7 +4436,7 @@ translate zh_Hans gianna_alpha_storyline_32_6199de07:
 translate zh_Hans gianna_alpha_storyline_32_edc73327:
 
     # nvljohn "…"
-    nvljohn ""
+    nvljohn "…"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2565
 translate zh_Hans gianna_alpha_storyline_32_199db53f:
@@ -4484,7 +4484,7 @@ translate zh_Hans gianna_alpha_storyline_32_5dbfad3c:
 translate zh_Hans gianna_alpha_storyline_32_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2612
 translate zh_Hans gianna_alpha_storyline_33_5ea5ce2d:
@@ -4612,7 +4612,7 @@ translate zh_Hans gianna_alpha_storyline_33_d5e93507:
 translate zh_Hans gianna_alpha_storyline_33_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2687
 translate zh_Hans gianna_alpha_storyline_34_02612594:
@@ -4650,61 +4650,61 @@ translate zh_Hans gianna_alpha_storyline_34_4a9a5b86:
 translate zh_Hans gianna_alpha_storyline_34_d942ee07:
 
     # nvljohn "I told him the truth."
-    nvljohn "I told him the truth.|我告诉他实话。"
+    nvljohn "我告诉他实话。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2701
 translate zh_Hans gianna_alpha_storyline_34_68b777a9:
 
     # nvljohn "That right now I’m focused on helping you."
-    nvljohn "That right now I’m focused on helping you.|我现在满心满眼都是你，只想帮你。"
+    nvljohn "我现在满心满眼都是你，只想帮你。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2703
 translate zh_Hans gianna_alpha_storyline_34_ce174e2b:
 
     # nvljohn "And only after you’re more stable we’ll bring him back in."
-    nvljohn "And only after you’re more stable we’ll bring him back in.|等你稳当了，我们再把他叫回来。"
+    nvljohn "等你稳当了，我们再把他叫回来。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2705
 translate zh_Hans gianna_alpha_storyline_34_3c876004:
 
     # nvlgianna "…"
-    nvlgianna ""
+    nvlgianna "…"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2707
 translate zh_Hans gianna_alpha_storyline_34_089dea51:
 
     # nvlgianna "You really said that?"
-    nvlgianna "You really said that?|你真这么说了？"
+    nvlgianna "你真这么说了？"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2709
 translate zh_Hans gianna_alpha_storyline_34_ebc39ad4:
 
     # nvljohn "Yeah. Because it’s what matters."
-    nvljohn "Yeah. Because it’s what matters.|是啊，因为这才是最重要的。"
+    nvljohn "是啊，因为这才是最重要的。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2711
 translate zh_Hans gianna_alpha_storyline_34_369f8cfb:
 
     # nvlgianna "Wow…"
-    nvlgianna "Wow…|哇哦……"
+    nvlgianna "哇哦……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2713
 translate zh_Hans gianna_alpha_storyline_34_6359fad4:
 
     # nvlgianna "Most guys would’ve just called him to fuck me again."
-    nvlgianna "Most guys would’ve just called him to fuck me again.|大多数男人只会打电话叫他回来再肏我一顿。"
+    nvlgianna "大多数男人只会打电话叫他回来再肏我一顿。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2715
 translate zh_Hans gianna_alpha_storyline_34_922f753a:
 
     # nvlgianna "You’re… different."
-    nvlgianna "You’re… different.|你……不一样。"
+    nvlgianna "你……不一样。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2717
 translate zh_Hans gianna_alpha_storyline_34_a14d46c6:
 
     # nvljohn "I’m not most guys. I want you to be happier, Gianna."
-    nvljohn "I’m not most guys. I want you to be happier, Gianna.|我可不是那些臭男人。吉安娜，我只想让你更快乐。"
+    nvljohn "我可不是那些臭男人。吉安娜，我只想让你更快乐。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2719
 translate zh_Hans gianna_alpha_storyline_34_2095fc90:
@@ -4716,37 +4716,37 @@ translate zh_Hans gianna_alpha_storyline_34_2095fc90:
 translate zh_Hans gianna_alpha_storyline_34_542309d3:
 
     # nvlgianna "Even if it’s hard to slow down, I know you’re right."
-    nvlgianna "Even if it’s hard to slow down, I know you’re right.|就算很难慢下来，我也知道你是对的。"
+    nvlgianna "就算很难慢下来，我也知道你是对的。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2723
 translate zh_Hans gianna_alpha_storyline_34_81806bc6:
 
     # nvljohn "Good. That’s all I wanted to hear."
-    nvljohn "Good. That’s all I wanted to hear.|很好。我就是想听你这么说。"
+    nvljohn "很好。我就是想听你这么说。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2725
 translate zh_Hans gianna_alpha_storyline_34_c7b9e9f0:
 
     # nvlgianna "Guess Peter will have to wait for his turn 😏"
-    nvlgianna "Guess Peter will have to wait for his turn 😏|看来彼得那小子得乖乖等着轮到他了 😏"
+    nvlgianna "看来彼得那小子得乖乖等着轮到他了 😏"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2727
 translate zh_Hans gianna_alpha_storyline_34_9c6154b5:
 
     # nvljohn "Exactly. First you get yourself in check."
-    nvljohn "Exactly. First you get yourself in check.|没错。你得先管好自己。"
+    nvljohn "没错。你得先管好自己。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2729
 translate zh_Hans gianna_alpha_storyline_34_92e05366:
 
     # nvlgianna "Fine, fine… I’ll try my best."
-    nvlgianna "Fine, fine… I’ll try my best.|好好好……我会尽力的。"
+    nvlgianna "好好好……我会尽力的。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2745
 translate zh_Hans gianna_alpha_storyline_34_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2764
 translate zh_Hans gianna_alpha_storyline_35_e55dcbcb:
@@ -4754,31 +4754,31 @@ translate zh_Hans gianna_alpha_storyline_35_e55dcbcb:
     # nvl clear
     # nvljohn "Guess what…"
     nvl clear
-    nvljohn "Guess what…|猜猜看……"
+    nvljohn "猜猜看……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2768
 translate zh_Hans gianna_alpha_storyline_35_18cd8590:
 
     # nvljohn "Today it’s me who’s insanely horny."
-    nvljohn "Today it’s me who’s insanely horny.|今天轮到我欲火焚身了。"
+    nvljohn "今天轮到我欲火焚身了。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2770
 translate zh_Hans gianna_alpha_storyline_35_392cb532:
 
     # nvljohn "Send me some pics, Gianna. Nude ones."
-    nvljohn "Send me some pics, Gianna. Nude ones.|吉安娜，给我发几张照片。要裸的。"
+    nvljohn "吉安娜，给我发几张照片。要裸的。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2772
 translate zh_Hans gianna_alpha_storyline_35_f306ff2f:
 
     # nvlgianna "😳 Really?"
-    nvlgianna "😳 Really?|😳 真的吗？"
+    nvlgianna "😳 真的吗？"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2774
 translate zh_Hans gianna_alpha_storyline_35_7f594b46:
 
     # nvlgianna "Finally! I’ll send whatever you want 😏"
-    nvlgianna "Finally! I’ll send whatever you want 😏|终于！你想要什么，老娘都给你发 😏"
+    nvlgianna "终于！你想要什么，老娘都给你发 😏"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2777
 translate zh_Hans gianna_alpha_storyline_35_45dd9536:
@@ -4802,31 +4802,31 @@ translate zh_Hans gianna_alpha_storyline_35_db1fe274:
 translate zh_Hans gianna_alpha_storyline_35_590ce279:
 
     # nvlgianna "There. My tits, pussy and arse just for you 😈"
-    nvlgianna "There. My tits, pussy and arse just for you 😈|看吧。我的奶子、骚穴和屁股，都只为你一人绽放 😈"
+    nvlgianna "看吧。我的奶子、骚穴和屁股，都只为你一人绽放 😈"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2792
 translate zh_Hans gianna_alpha_storyline_35_24dbd2c6:
 
     # nvljohn "Holy fuck… you’re perfect."
-    nvljohn "Holy fuck… you’re perfect.|我肏……你他妈简直完美。"
+    nvljohn "我肏……你他妈简直完美。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2794
 translate zh_Hans gianna_alpha_storyline_35_57235f03:
 
     # nvljohn "How about we meet tonight?"
-    nvljohn "How about we meet tonight?|我们今晚约一炮怎么样？"
+    nvljohn "我们今晚约一炮怎么样？"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2796
 translate zh_Hans gianna_alpha_storyline_35_bdbae6b6:
 
     # nvlgianna "Jamais I’d say no to that."
-    nvlgianna "Jamais I’d say no to that.|我他妈才不会拒绝呢。"
+    nvlgianna "我他妈才不会拒绝呢。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2798
 translate zh_Hans gianna_alpha_storyline_35_ae00c6e0:
 
     # nvlgianna "8PM, same motel as always?"
-    nvlgianna "8PM, same motel as always?|晚上8点，还是老地方那家破旅馆？"
+    nvlgianna "晚上8点，还是老地方那家破旅馆？"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2800
 translate zh_Hans gianna_alpha_storyline_35_5db46465:
@@ -4838,13 +4838,13 @@ translate zh_Hans gianna_alpha_storyline_35_5db46465:
 translate zh_Hans gianna_alpha_storyline_35_577c45ef:
 
     # nvljohn "Tonight we’re going to the most luxurious hotel in town."
-    nvljohn "Tonight we’re going to the most luxurious hotel in town.|今晚我们要去城里最他妈奢华的酒店。"
+    nvljohn "今晚我们要去城里最他妈奢华的酒店。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2804
 translate zh_Hans gianna_alpha_storyline_35_34d67d87:
 
     # nvljohn "And we’re spending the whole night together."
-    nvljohn "And we’re spending the whole night together.|然后，我们整晚都他妈黏在一起。"
+    nvljohn "然后，我们整晚都他妈黏在一起。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2806
 translate zh_Hans gianna_alpha_storyline_35_7a89bbb8:
@@ -4862,61 +4862,61 @@ translate zh_Hans gianna_alpha_storyline_35_fd32ce43:
 translate zh_Hans gianna_alpha_storyline_35_280af646:
 
     # nvlgianna "You’re making me so damn happy right now."
-    nvlgianna "You’re making me so damn happy right now.|你现在简直把我搞得心花怒放。"
+    nvlgianna "你现在简直把我搞得心花怒放。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2812
 translate zh_Hans gianna_alpha_storyline_35_ae3c9245:
 
     # nvlgianna "Which hotel is it?"
-    nvlgianna "Which hotel is it?|是哪家酒店啊？"
+    nvlgianna "是哪家酒店啊？"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2814
 translate zh_Hans gianna_alpha_storyline_35_dd6b1f26:
 
     # nvljohn "Surprise."
-    nvljohn "Surprise.|惊喜。"
+    nvljohn "惊喜。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2816
 translate zh_Hans gianna_alpha_storyline_35_ed861ff2:
 
     # nvljohn "Just be at the mall by 7PM"
-    nvljohn "Just be at the mall by 7PM|晚上7点前到商场就行了。"
+    nvljohn "晚上7点前到商场就行了。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2818
 translate zh_Hans gianna_alpha_storyline_35_5d60dcdc:
 
     # nvljohn "I’ll pick you up."
-    nvljohn "I’ll pick you up.|我去接你。"
+    nvljohn "我去接你。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2820
 translate zh_Hans gianna_alpha_storyline_35_0cabcb36:
 
     # nvlgianna "Okay 😍"
-    nvlgianna "Okay 😍|好的😍"
+    nvlgianna "好的😍"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2822
 translate zh_Hans gianna_alpha_storyline_35_a4f513ae:
 
     # nvlgianna "I’ll be ready, dressed like a goddess."
-    nvlgianna "I’ll be ready, dressed like a goddess.|我会准备好的，打扮得像个勾魂的女神。"
+    nvlgianna "我会准备好的，打扮得像个勾魂的女神。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2824
 translate zh_Hans gianna_alpha_storyline_35_dbe9ff9d:
 
     # nvljohn "Good girl. I’ll see you soon."
-    nvljohn "Good girl. I’ll see you soon.|乖女孩。回头见。"
+    nvljohn "乖女孩。回头见。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2826
 translate zh_Hans gianna_alpha_storyline_35_103133d8:
 
     # nvlgianna "Counting the minutes ❤️"
-    nvlgianna "Counting the minutes ❤️|数着分秒，心痒难耐 ❤️"
+    nvlgianna "数着分秒，心痒难耐 ❤️"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2842
 translate zh_Hans gianna_alpha_storyline_35_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2861
 translate zh_Hans gianna_alpha_storyline_36_70c67774:
@@ -4924,55 +4924,55 @@ translate zh_Hans gianna_alpha_storyline_36_70c67774:
     # nvl clear
     # nvlgianna "…Morning 😴"
     nvl clear
-    nvlgianna "…Morning 😴|……早上好 😴"
+    nvlgianna "……早上好 😴"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2865
 translate zh_Hans gianna_alpha_storyline_36_ccea1aad:
 
     # nvlgianna "I don’t even know what to say about last night."
-    nvlgianna "I don’t even know what to say about last night.|我他妈都不知道该怎么形容昨晚了。"
+    nvlgianna "我他妈都不知道该怎么形容昨晚了。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2867
 translate zh_Hans gianna_alpha_storyline_36_85251983:
 
     # nvljohn "You don’t have to say much."
-    nvljohn "You don’t have to say much.|你不必说太多。"
+    nvljohn "你不必说太多。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2869
 translate zh_Hans gianna_alpha_storyline_36_10397fe0:
 
     # nvljohn "Just tell me how it felt."
-    nvljohn "Just tell me how it felt.|告诉我你的感受就行。"
+    nvljohn "告诉我你的感受就行。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2871
 translate zh_Hans gianna_alpha_storyline_36_5703798f:
 
     # nvlgianna "Different."
-    nvlgianna "Different.|很不一样。"
+    nvlgianna "很不一样。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2873
 translate zh_Hans gianna_alpha_storyline_36_5ec2cfe4:
 
     # nvlgianna "Not just sex… it felt like something else."
-    nvlgianna "Not just sex… it felt like something else.|不只是做爱……感觉像是别的什么。"
+    nvlgianna "不只是做爱……感觉像是别的什么。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2875
 translate zh_Hans gianna_alpha_storyline_36_d792fe42:
 
     # nvlgianna "I’ve never spent a whole night like that before."
-    nvlgianna "I’ve never spent a whole night like that before.|我以前从来没这样度过一整晚。"
+    nvlgianna "我以前从来没这样度过一整晚。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2877
 translate zh_Hans gianna_alpha_storyline_36_f2423ba4:
 
     # nvljohn "Good. That was the idea."
-    nvljohn "Good. That was the idea.|很好。我就是这个意思。"
+    nvljohn "很好。我就是这个意思。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2879
 translate zh_Hans gianna_alpha_storyline_36_c348b438:
 
     # nvljohn "Here, a little reminder."
-    nvljohn "Here, a little reminder.|喏，给你点小提醒。"
+    nvljohn "喏，给你点小提醒。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2882
 translate zh_Hans gianna_alpha_storyline_36_7d213183:
@@ -4984,7 +4984,7 @@ translate zh_Hans gianna_alpha_storyline_36_7d213183:
 translate zh_Hans gianna_alpha_storyline_36_38bc31ab:
 
     # nvljohn "And another one…"
-    nvljohn "And another one…|还有一张……"
+    nvljohn "还有一张……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2888
 translate zh_Hans gianna_alpha_storyline_36_2e1ceefc:
@@ -4996,7 +4996,7 @@ translate zh_Hans gianna_alpha_storyline_36_2e1ceefc:
 translate zh_Hans gianna_alpha_storyline_36_84aa6b4f:
 
     # nvlgianna "Fuck… watching this makes me wet all over again 😩🔥"
-    nvlgianna "Fuck… watching this makes me wet all over again 😩🔥|肏……看着这些，老娘又他妈湿透了 😩🔥"
+    nvlgianna "肏……看着这些，老娘又他妈湿透了 😩🔥"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2893
 translate zh_Hans gianna_alpha_storyline_36_f603a5c6:
@@ -5008,85 +5008,85 @@ translate zh_Hans gianna_alpha_storyline_36_f603a5c6:
 translate zh_Hans gianna_alpha_storyline_36_cb4c9fa3:
 
     # nvljohn "Couldn’t get enough of me"
-    nvljohn "Couldn’t get enough of me|对我爱不释手，欲罢不能。"
+    nvljohn "对我爱不释手，欲罢不能。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2897
 translate zh_Hans gianna_alpha_storyline_36_d988c9d3:
 
     # nvlgianna "And you didn’t stop either…"
-    nvlgianna "And you didn’t stop either…|你也没停下来啊……"
+    nvlgianna "你也没停下来啊……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2899
 translate zh_Hans gianna_alpha_storyline_36_0ed95862:
 
     # nvlgianna "I came so many times I lost count."
-    nvlgianna "I came so many times I lost count.|我高潮了太多次，都数不清了。"
+    nvlgianna "我高潮了太多次，都数不清了。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2901
 translate zh_Hans gianna_alpha_storyline_36_18e66fa7:
 
     # nvljohn "Exactly. That’s what happens when you actually rest and eat."
-    nvljohn "Exactly. That’s what happens when you actually rest and eat.|没错。这就是你好好休息、吃饱喝足后会发生的事。"
+    nvljohn "没错。这就是你好好休息、吃饱喝足后会发生的事。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2903
 translate zh_Hans gianna_alpha_storyline_36_3c876004:
 
     # nvlgianna "…"
-    nvlgianna ""
+    nvlgianna "…"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2905
 translate zh_Hans gianna_alpha_storyline_36_4e7459fe:
 
     # nvlgianna "Don’t remind me, I almost feel human now 😂"
-    nvlgianna "Don’t remind me, I almost feel human now 😂|别提醒我了，我现在感觉自己都快像个人了 😂"
+    nvlgianna "别提醒我了，我现在感觉自己都快像个人了 😂"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2907
 translate zh_Hans gianna_alpha_storyline_36_2a739f5a:
 
     # nvljohn "That’s the point."
-    nvljohn "That’s the point.|这就是重点。"
+    nvljohn "这就是重点。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2909
 translate zh_Hans gianna_alpha_storyline_36_52df63a8:
 
     # nvljohn "I want you healthy, not just fucked out of your mind."
-    nvljohn "I want you healthy, not just fucked out of your mind.|我希望你身体健康，而不是被肏得神志不清。"
+    nvljohn "我希望你身体健康，而不是被肏得神志不清。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2911
 translate zh_Hans gianna_alpha_storyline_36_cfae4090:
 
     # nvlgianna "You’re dangerous, [mc_name_is]…"
-    nvlgianna "You’re dangerous, [mc_name_is]…|你很危险，[mc_name_is]……"
+    nvlgianna "你很危险，[mc_name_is]……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2913
 translate zh_Hans gianna_alpha_storyline_36_7d2c84cd:
 
     # nvlgianna "If you keep this up, I might get addicted to you instead."
-    nvlgianna "If you keep this up, I might get addicted to you instead.|如果你继续这样下去，我可能反而会对你上瘾。"
+    nvlgianna "如果你继续这样下去，我可能反而会对你上瘾。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2915
 translate zh_Hans gianna_alpha_storyline_36_6183b36c:
 
     # nvljohn "Maybe that wouldn’t be such a bad thing."
-    nvljohn "Maybe that wouldn’t be such a bad thing.|也许那也不是什么坏事。"
+    nvljohn "也许那也不是什么坏事。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2917
 translate zh_Hans gianna_alpha_storyline_36_96859207:
 
     # nvlgianna "😳 …anyway, I’ll shut up now before I melt."
-    nvlgianna "😳 …anyway, I’ll shut up now before I melt.|😳 ……算了，我还是闭嘴吧，不然我都要被你融化了。"
+    nvlgianna "😳 ……算了，我还是闭嘴吧，不然我都要被你融化了。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2919
 translate zh_Hans gianna_alpha_storyline_36_5689a19a:
 
     # nvlgianna "Thanks for last night. Really."
-    nvlgianna "Thanks for last night. Really.|谢谢你昨晚。真的。"
+    nvlgianna "谢谢你昨晚。真的。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2935
 translate zh_Hans gianna_alpha_storyline_36_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2954
 translate zh_Hans gianna_alpha_storyline_37_72c5d03e:
@@ -5094,19 +5094,19 @@ translate zh_Hans gianna_alpha_storyline_37_72c5d03e:
     # nvl clear
     # nvljohn "Hey Gianna, can I ask something?"
     nvl clear
-    nvljohn "Hey Gianna, can I ask something?|嘿，吉安娜，我能问你件事吗？"
+    nvljohn "嘿，吉安娜，我能问你件事吗？"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2958
 translate zh_Hans gianna_alpha_storyline_37_c25cadb8:
 
     # nvlgianna "Sure, shoot."
-    nvlgianna "Sure, shoot.|当然，问吧。"
+    nvlgianna "当然，问吧。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2960
 translate zh_Hans gianna_alpha_storyline_37_64ea5145:
 
     # nvljohn "About your sister… what’s her name?"
-    nvljohn "About your sister… what’s her name?|关于你妹妹……她叫什么名字？"
+    nvljohn "关于你妹妹……她叫什么名字？"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2962
 translate zh_Hans gianna_alpha_storyline_37_864ec528:
@@ -5124,67 +5124,67 @@ translate zh_Hans gianna_alpha_storyline_37_9c162337:
 translate zh_Hans gianna_alpha_storyline_37_75262edf:
 
     # nvljohn "Wait… describe her for me."
-    nvljohn "Wait… describe her for me.|等等……你给我描述一下她。"
+    nvljohn "等等……你给我描述一下她。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2968
 translate zh_Hans gianna_alpha_storyline_37_f98e8db2:
 
     # nvlgianna "Tall, brunette, plastic body, bitchy attitude 😂"
-    nvlgianna "Tall, brunette, plastic body, bitchy attitude 😂|高挑、棕发、整容脸、婊子脾气 😂"
+    nvlgianna "高挑、棕发、整容脸、婊子脾气 😂"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2970
 translate zh_Hans gianna_alpha_storyline_37_35111628:
 
     # nvlgianna "Always thought she was better than me."
-    nvlgianna "Always thought she was better than me.|总觉得自己比我高一等。"
+    nvlgianna "总觉得自己比我高一等。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2972
 translate zh_Hans gianna_alpha_storyline_37_c3c12d45:
 
     # nvljohn "…Fuck."
-    nvljohn "…Fuck.|……肏。"
+    nvljohn "……肏。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2974
 translate zh_Hans gianna_alpha_storyline_37_27e2911c:
 
     # nvljohn "It’s her."
-    nvljohn "It’s her.|是她。"
+    nvljohn "是她。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2976
 translate zh_Hans gianna_alpha_storyline_37_0760f485:
 
     # nvlgianna "Her? What do you mean?"
-    nvlgianna "Her? What do you mean?|她？你什么意思？"
+    nvlgianna "她？你什么意思？"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2978
 translate zh_Hans gianna_alpha_storyline_37_20fbe2ab:
 
     # nvljohn "Jenna isn’t just your sister."
-    nvljohn "Jenna isn’t just your sister.|珍娜不只是你妹妹那么简单。"
+    nvljohn "珍娜不只是你妹妹那么简单。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2980
 translate zh_Hans gianna_alpha_storyline_37_b20ea464:
 
     # nvljohn "She’s the same woman who ruined me."
-    nvljohn "She’s the same woman who ruined me.|她就是那个把我毁掉的女人。"
+    nvljohn "她就是那个把我毁掉的女人。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2982
 translate zh_Hans gianna_alpha_storyline_37_fa304672:
 
     # nvljohn "She lied, manipulated, made me lose my company."
-    nvljohn "She lied, manipulated, made me lose my company.|她撒谎、玩弄手段，害我公司破产。"
+    nvljohn "她撒谎、玩弄手段，害我公司破产。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2984
 translate zh_Hans gianna_alpha_storyline_37_c38f85d8:
 
     # nvljohn "And kept trying to humiliate me every chance she got."
-    nvljohn "And kept trying to humiliate me every chance she got.|还抓住一切机会羞辱我，让我抬不起头。"
+    nvljohn "还抓住一切机会羞辱我，让我抬不起头。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2986
 translate zh_Hans gianna_alpha_storyline_37_9ae93995:
 
     # nvlgianna "…What? Are you serious?"
-    nvlgianna "…What? Are you serious?|……什么？你是认真的吗？"
+    nvlgianna "……什么？你是认真的吗？"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2988
 translate zh_Hans gianna_alpha_storyline_37_1d9dbcd6:
@@ -5196,49 +5196,49 @@ translate zh_Hans gianna_alpha_storyline_37_1d9dbcd6:
 translate zh_Hans gianna_alpha_storyline_37_ffb1e948:
 
     # nvljohn "I can’t believe you’re her sister."
-    nvljohn "I can’t believe you’re her sister.|我简直不敢相信你竟然是她妹妹。"
+    nvljohn "我简直不敢相信你竟然是她妹妹。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2992
 translate zh_Hans gianna_alpha_storyline_37_3c876004:
 
     # nvlgianna "…"
-    nvlgianna ""
+    nvlgianna "…"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2994
 translate zh_Hans gianna_alpha_storyline_37_c819e42e:
 
     # nvlgianna "I didn’t know that, [mc_name_is]."
-    nvlgianna "I didn’t know that, [mc_name_is].|我不知道这件事，[mc_name_is]。"
+    nvlgianna "我不知道这件事，[mc_name_is]。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2996
 translate zh_Hans gianna_alpha_storyline_37_b83a8bab:
 
     # nvlgianna "I swear I didn’t."
-    nvlgianna "I swear I didn’t.|我发誓我没有。"
+    nvlgianna "我发誓我没有。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2998
 translate zh_Hans gianna_alpha_storyline_37_4b032792:
 
     # nvljohn "This changes everything."
-    nvljohn "This changes everything.|这下一切都变了。"
+    nvljohn "这下一切都变了。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3000
 translate zh_Hans gianna_alpha_storyline_37_7a49bac3:
 
     # nvljohn "I need time to think."
-    nvljohn "I need time to think.|我需要时间好好想想。"
+    nvljohn "我需要时间好好想想。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3002
 translate zh_Hans gianna_alpha_storyline_37_5c3d4bc6:
 
     # nvlgianna "Please… don’t shut me out."
-    nvlgianna "Please… don’t shut me out.|求你……别把我推开。"
+    nvlgianna "求你……别把我推开。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3004
 translate zh_Hans gianna_alpha_storyline_37_a7d3e4b0:
 
     # nvlgianna "I’m not her. I’m nothing like her."
-    nvlgianna "I’m not her. I’m nothing like her.|我不是她。我跟她一点都不像。"
+    nvlgianna "我不是她。我跟她一点都不像。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3006
 translate zh_Hans gianna_alpha_storyline_37_00ce28e3:
@@ -5250,61 +5250,61 @@ translate zh_Hans gianna_alpha_storyline_37_00ce28e3:
 translate zh_Hans gianna_alpha_storyline_37_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3036
 translate zh_Hans gianna_alpha_storyline_37_after_db00dd85:
 
     # mc "{i}Jenna… of all people."
-    mc "{i}Jenna… of all people.|{i}珍娜……竟然是她。"
+    mc "{i}珍娜……竟然是她。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3038
 translate zh_Hans gianna_alpha_storyline_37_after_f4dd2831:
 
     # mc "{i}The bitch who destroyed my life… and now her sister is in my bed."
-    mc "{i}The bitch who destroyed my life… and now her sister is in my bed.|{i}那个毁了我一生的贱人……现在她的妹妹竟然躺在我的床上。"
+    mc "{i}那个毁了我一生的贱人……现在她的妹妹竟然躺在我的床上。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3040
 translate zh_Hans gianna_alpha_storyline_37_after_18254f17:
 
     # mc "{i}How the fuck am I supposed to deal with this?"
-    mc "{i}How the fuck am I supposed to deal with this?|{i}我他妈到底该怎么处理这烂摊子？"
+    mc "{i}我他妈到底该怎么处理这烂摊子？"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3042
 translate zh_Hans gianna_alpha_storyline_37_after_27e7403f:
 
     # mc "{i}Gianna feels different…"
-    mc "{i}Gianna feels different…|{i}吉安娜感觉不一样……"
+    mc "{i}吉安娜感觉不一样……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3044
 translate zh_Hans gianna_alpha_storyline_37_after_fdbc6fbe:
 
     # mc "{i}She doesn’t act like Jenna."
-    mc "{i}She doesn’t act like Jenna.|{i}她不像珍娜那样行事。"
+    mc "{i}她不像珍娜那样行事。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3046
 translate zh_Hans gianna_alpha_storyline_37_after_382e8ea6:
 
     # mc "{i}But can I really trust her?"
-    mc "{i}But can I really trust her?|{i}但我真的能相信她吗？"
+    mc "{i}但我真的能相信她吗？"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3048
 translate zh_Hans gianna_alpha_storyline_37_after_59839f66:
 
     # mc "{i}Part of me wants to push her away right now…"
-    mc "{i}Part of me wants to push her away right now…|{i}我的一部分想现在就把她推开……"
+    mc "{i}我的一部分想现在就把她推开……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3050
 translate zh_Hans gianna_alpha_storyline_37_after_6aac1201:
 
     # mc "{i}But another part… doesn’t want to lose her."
-    mc "{i}But another part… doesn’t want to lose her.|{i}但另一部分……却不想失去她。"
+    mc "{i}但另一部分……却不想失去她。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3052
 translate zh_Hans gianna_alpha_storyline_37_after_94b98e41:
 
     # mc "{i}Fuck… this just got complicated."
-    mc "{i}Fuck… this just got complicated.|{i}肏……事情他妈的变得复杂了。"
+    mc "{i}肏……事情他妈的变得复杂了。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3071
 translate zh_Hans gianna_alpha_storyline_38_3e08adc9:
@@ -5312,25 +5312,25 @@ translate zh_Hans gianna_alpha_storyline_38_3e08adc9:
     # nvl clear
     # nvljohn "Tell me the truth, Gianna."
     nvl clear
-    nvljohn "Tell me the truth, Gianna.|吉安娜，告诉我实话。"
+    nvljohn "吉安娜，告诉我实话。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3075
 translate zh_Hans gianna_alpha_storyline_38_2f6ae5fa:
 
     # nvljohn "Did you know who I was when we met?"
-    nvljohn "Did you know who I was when we met?|我们第一次见面时，你知道我是谁吗？"
+    nvljohn "我们第一次见面时，你知道我是谁吗？"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3077
 translate zh_Hans gianna_alpha_storyline_38_33ccfa09:
 
     # nvlgianna "No. I swear I didn’t."
-    nvlgianna "No. I swear I didn’t.|不。我发誓我不知道。"
+    nvlgianna "不。我发誓我不知道。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3079
 translate zh_Hans gianna_alpha_storyline_38_215d291f:
 
     # nvlgianna "I only found out later."
-    nvlgianna "I only found out later.|我后来才知道的。"
+    nvlgianna "我后来才知道的。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3081
 translate zh_Hans gianna_alpha_storyline_38_052d2d01:
@@ -5342,13 +5342,13 @@ translate zh_Hans gianna_alpha_storyline_38_052d2d01:
 translate zh_Hans gianna_alpha_storyline_38_f84b23ea:
 
     # nvlgianna "…A few weeks ago."
-    nvlgianna "…A few weeks ago.|……几周前。"
+    nvlgianna "……几周前。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3085
 translate zh_Hans gianna_alpha_storyline_38_a0cf9463:
 
     # nvlgianna "I overheard Jenna on the phone with Salim."
-    nvlgianna "I overheard Jenna on the phone with Salim.|我无意中听到珍娜和萨利姆通电话。"
+    nvlgianna "我无意中听到珍娜和萨利姆通电话。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3087
 translate zh_Hans gianna_alpha_storyline_38_07c42677:
@@ -5432,7 +5432,7 @@ translate zh_Hans gianna_alpha_storyline_38_3ac0558b:
 translate zh_Hans gianna_alpha_storyline_38_3c876004:
 
     # nvlgianna "…"
-    nvlgianna ""
+    nvlgianna "…"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3115
 translate zh_Hans gianna_alpha_storyline_38_297005e3:
@@ -5450,7 +5450,7 @@ translate zh_Hans gianna_alpha_storyline_38_60389906:
 translate zh_Hans gianna_alpha_storyline_38_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3152
 translate zh_Hans gianna_alpha_storyline_39_3f86b929:
@@ -5500,7 +5500,7 @@ translate zh_Hans gianna_alpha_storyline_39_1bb69a0c:
 translate zh_Hans gianna_alpha_storyline_39_5b84f8bf:
 
     # nvlgianna "😢"
-    nvlgianna ""
+    nvlgianna "😢"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3170
 translate zh_Hans gianna_alpha_storyline_39_9b0a571f:
@@ -5524,7 +5524,7 @@ translate zh_Hans gianna_alpha_storyline_39_97104669:
 translate zh_Hans gianna_alpha_storyline_39_5615fe41:
 
     # nvlgianna "💔"
-    nvlgianna ""
+    nvlgianna "💔"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3178
 translate zh_Hans gianna_alpha_storyline_39_b3fb8f08:
@@ -5536,7 +5536,7 @@ translate zh_Hans gianna_alpha_storyline_39_b3fb8f08:
 translate zh_Hans gianna_alpha_storyline_39_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3213
 translate zh_Hans gianna_alpha_storyline_40_ba99f838:
@@ -5634,7 +5634,7 @@ translate zh_Hans gianna_alpha_storyline_40_39ad5fe2:
 translate zh_Hans gianna_alpha_storyline_40_5b84f8bf:
 
     # nvlgianna "😢"
-    nvlgianna ""
+    nvlgianna "😢"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3247
 translate zh_Hans gianna_alpha_storyline_40_985ff9de:
@@ -5676,7 +5676,7 @@ translate zh_Hans gianna_alpha_storyline_40_00ce28e3:
 translate zh_Hans gianna_alpha_storyline_40_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3292
 translate zh_Hans gianna_alpha_storyline_41_ad952475:
@@ -5834,7 +5834,7 @@ translate zh_Hans gianna_alpha_storyline_41_d77f1d51:
 translate zh_Hans gianna_alpha_storyline_41_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3377
 translate zh_Hans gianna_alpha_storyline_42_d48904d8:
@@ -5872,7 +5872,7 @@ translate zh_Hans gianna_alpha_storyline_42_9e0c3b00:
 translate zh_Hans gianna_alpha_storyline_42_26b36ab0:
 
     # nvljohn "What’s that?"
-    nvljohn "What’s that?|什么事？"
+    nvljohn "什么事？"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3391
 translate zh_Hans gianna_alpha_storyline_42_2aadfe99:
@@ -5938,7 +5938,7 @@ translate zh_Hans gianna_alpha_storyline_42_0f5ea756:
 translate zh_Hans gianna_alpha_storyline_42_4978cefd:
 
     # nvlgianna "😢❤️"
-    nvlgianna ""
+    nvlgianna "😢❤️"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3413
 translate zh_Hans gianna_alpha_storyline_42_c5a99b63:
@@ -6022,7 +6022,7 @@ translate zh_Hans gianna_alpha_storyline_42_a8c4c764:
 translate zh_Hans gianna_alpha_storyline_42_f500b8ba:
 
     # nvlgianna "😭❤️❤️❤️"
-    nvlgianna ""
+    nvlgianna "😭❤️❤️❤️"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3441
 translate zh_Hans gianna_alpha_storyline_42_72fdb1c2:
@@ -6064,7 +6064,7 @@ translate zh_Hans gianna_alpha_storyline_42_d50cb372:
 translate zh_Hans gianna_alpha_storyline_42_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3482
 translate zh_Hans gianna_alpha_storyline_42_after_cd2799bc:
@@ -6210,7 +6210,7 @@ translate zh_Hans gianna_alpha_storyline_43_25056824:
 translate zh_Hans gianna_alpha_storyline_43_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3582
 translate zh_Hans gianna_alpha_storyline_44_3793f871:
@@ -6344,7 +6344,7 @@ translate zh_Hans gianna_alpha_storyline_44_64b6269d:
 translate zh_Hans gianna_alpha_storyline_44_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3659
 translate zh_Hans gianna_alpha_storyline_45_75aeb309:
@@ -6454,7 +6454,7 @@ translate zh_Hans gianna_alpha_storyline_45_035127e2:
 translate zh_Hans gianna_alpha_storyline_45_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3730
 translate zh_Hans gianna_alpha_storyline_46_b7962799:
@@ -6546,7 +6546,7 @@ translate zh_Hans gianna_alpha_storyline_46_3e24bf5a:
 translate zh_Hans gianna_alpha_storyline_46_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3793
 translate zh_Hans gianna_alpha_storyline_47_8523fe18:
@@ -6710,7 +6710,7 @@ translate zh_Hans gianna_alpha_storyline_47_3c50f6a1:
 translate zh_Hans gianna_alpha_storyline_47_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3886
 translate zh_Hans gianna_alpha_storyline_48_6beccd2e:
@@ -6850,7 +6850,7 @@ translate zh_Hans gianna_alpha_storyline_48_fc51c4b2:
 translate zh_Hans gianna_alpha_storyline_48_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:3965
 translate zh_Hans gianna_alpha_storyline_49_1cb07353:
@@ -6960,7 +6960,7 @@ translate zh_Hans gianna_alpha_storyline_49_17c7077a:
 translate zh_Hans gianna_alpha_storyline_49_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:4030
 translate zh_Hans gianna_alpha_storyline_49_after_947416bc:
@@ -7094,7 +7094,7 @@ translate zh_Hans gianna_alpha_storyline_50_79a1ab70:
 translate zh_Hans gianna_alpha_storyline_50_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:4120
 translate zh_Hans gianna_alpha_storyline_50_after_a9226529:

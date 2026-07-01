@@ -172,7 +172,7 @@ translate zh_Hans strings:
 
     # screens.rpy:1158
     old "Enter"
-    new "Enter|进入"
+    new "进入"
 
     # screens.rpy:1159
     old "Advances dialogue and activates the interface."
@@ -196,7 +196,7 @@ translate zh_Hans strings:
 
     # screens.rpy:1170
     old "Escape"
-    new "Escape|退出"
+    new "退出"
 
     # screens.rpy:1171
     old "Accesses the game menu."
@@ -220,7 +220,7 @@ translate zh_Hans strings:
 
     # screens.rpy:1182
     old "Page Up"
-    new "Page Up|上一页"
+    new "上一页"
 
     # screens.rpy:1183
     old "Rolls back to earlier dialogue."
@@ -228,7 +228,7 @@ translate zh_Hans strings:
 
     # screens.rpy:1186
     old "Page Down"
-    new "Page Down|向下翻页"
+    new "向下翻页"
 
     # screens.rpy:1187
     old "Rolls forward to later dialogue."
@@ -264,7 +264,7 @@ translate zh_Hans strings:
 
     # screens.rpy:1221
     old "Mouse Wheel Up"
-    new "Mouse Wheel Up|鼠标滚轮向上"
+    new "鼠标滚轮向上"
 
     # screens.rpy:1225
     old "Mouse Wheel Down"
@@ -288,7 +288,7 @@ translate zh_Hans strings:
 
     # screens.rpy:1248
     old "Start, Guide, B/Right Button"
-    new "Start, Guide, B/Right Button|开始、指南、B键/右键"
+    new "开始、指南、B键/右键"
 
     # screens.rpy:1252
     old "Y/Top Button"

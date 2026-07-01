@@ -150,7 +150,7 @@ translate zh_Hans driver_storyline_0_3316c412:
 translate zh_Hans driver_storyline_0_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:90
 translate zh_Hans driver_storyline_1_d0811f08:
@@ -272,7 +272,7 @@ translate zh_Hans driver_storyline_1_210fef43:
 translate zh_Hans driver_storyline_1_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:165
 translate zh_Hans driver_storyline_2_33914d40:
@@ -436,7 +436,7 @@ translate zh_Hans driver_storyline_2_316c203f:
 translate zh_Hans driver_storyline_2_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:254
 translate zh_Hans driver_storyline_3_28056d63:
@@ -516,7 +516,7 @@ translate zh_Hans driver_storyline_3_9c0807a7:
 translate zh_Hans driver_storyline_3_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:315
 translate zh_Hans driver_storyline_4_98c7bb47:
@@ -602,7 +602,7 @@ translate zh_Hans driver_storyline_4_014af6fc:
 translate zh_Hans driver_storyline_4_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:376
 translate zh_Hans driver_storyline_5_d38e7b98:
@@ -754,7 +754,7 @@ translate zh_Hans driver_storyline_5_bb9b883f:
 translate zh_Hans driver_storyline_5_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:461
 translate zh_Hans driver_storyline_6_1792b9cb:
@@ -846,7 +846,7 @@ translate zh_Hans driver_storyline_6_89083d1e:
 translate zh_Hans driver_storyline_6_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:528
 translate zh_Hans driver_storyline_7_32747db9:
@@ -878,7 +878,7 @@ translate zh_Hans driver_storyline_7_8dcca737:
 translate zh_Hans driver_storyline_7_76d456c1:
 
     # nvljohn "I’m listening"
-    nvljohn "I’m listening|我在听。"
+    nvljohn "我在听。"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:540
 translate zh_Hans driver_storyline_7_85407b72:
@@ -944,7 +944,7 @@ translate zh_Hans driver_storyline_7_3316c412:
 translate zh_Hans driver_storyline_7_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:591
 translate zh_Hans driver_storyline_7_after_69455f70:
@@ -1108,7 +1108,7 @@ translate zh_Hans driver_storyline_8_f651b0b8:
 translate zh_Hans driver_storyline_8_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:703
 translate zh_Hans driver_storyline_9_43998735:
@@ -1152,7 +1152,7 @@ translate zh_Hans driver_storyline_9_872a370e:
 translate zh_Hans driver_storyline_9_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:750
 translate zh_Hans driver_storyline_10_4e9050bf:
@@ -1268,7 +1268,7 @@ translate zh_Hans driver_storyline_10_ae71dcdf:
 translate zh_Hans driver_storyline_10_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:821
 translate zh_Hans driver_storyline_10_after_60296363:
@@ -1444,13 +1444,13 @@ translate zh_Hans driver_storyline_11_e6f85838:
 translate zh_Hans driver_storyline_11_80648784:
 
     # nvlkaia "❤️❤️❤️"
-    nvlkaia ""
+    nvlkaia "❤️❤️❤️"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:945
 translate zh_Hans driver_storyline_11_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:964
 translate zh_Hans driver_storyline_12_e76a6566:
@@ -1686,7 +1686,7 @@ translate zh_Hans driver_storyline_12_77e0eceb:
 translate zh_Hans driver_storyline_12_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1075
 translate zh_Hans driver_storyline_13_14467712:
@@ -1940,7 +1940,7 @@ translate zh_Hans driver_storyline_13_4cdc7732:
 translate zh_Hans driver_storyline_13_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1215
 translate zh_Hans driver_storyline_14_049e35d7:
@@ -2068,7 +2068,7 @@ translate zh_Hans driver_storyline_14_3973303d:
 translate zh_Hans driver_storyline_14_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1306
 translate zh_Hans driver_storyline_14_after_4de7b0f9:
@@ -2544,7 +2544,7 @@ translate zh_Hans driver_storyline_15_ae71dcdf:
 translate zh_Hans driver_storyline_15_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1532
 translate zh_Hans driver_storyline_16_925832d9:
@@ -2666,7 +2666,7 @@ translate zh_Hans driver_storyline_16_5551159a:
 translate zh_Hans driver_storyline_16_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1605
 translate zh_Hans driver_storyline_17_925832d9:
@@ -2752,7 +2752,7 @@ translate zh_Hans driver_storyline_17_856f955c:
 translate zh_Hans driver_storyline_17_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1666
 translate zh_Hans driver_storyline_18_105cb148:
@@ -2868,7 +2868,7 @@ translate zh_Hans driver_storyline_18_867db66f:
 translate zh_Hans driver_storyline_18_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1739
 translate zh_Hans driver_storyline_19_cdb6aac9:
@@ -2984,7 +2984,7 @@ translate zh_Hans driver_storyline_19_c73af44a:
 translate zh_Hans driver_storyline_19_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1805
 translate zh_Hans driver_storyline_19_after_03180d76:
@@ -3142,7 +3142,7 @@ translate zh_Hans driver_storyline_20_69dc014d:
 translate zh_Hans driver_storyline_20_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1925
 translate zh_Hans driver_storyline_21_925832d9:
@@ -3222,7 +3222,7 @@ translate zh_Hans driver_storyline_21_19b933f0:
 translate zh_Hans driver_storyline_21_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:1998
 translate zh_Hans driver_storyline_22_d647af24:
@@ -3398,7 +3398,7 @@ translate zh_Hans driver_storyline_22_03fdbdd0:
 translate zh_Hans driver_storyline_22_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:2096
 translate zh_Hans driver_storyline_22_after_90f99313:
@@ -3700,7 +3700,7 @@ translate zh_Hans driver_storyline_23_706255cb:
 translate zh_Hans driver_storyline_23_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:2246
 translate zh_Hans driver_storyline_24_925832d9:
@@ -3744,7 +3744,7 @@ translate zh_Hans driver_storyline_24_7b84a9b4:
 translate zh_Hans driver_storyline_24_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:2293
 translate zh_Hans driver_storyline_25_14467712:
@@ -3848,7 +3848,7 @@ translate zh_Hans driver_storyline_25_c12f0924:
 translate zh_Hans driver_storyline_25_6bc9ac4e:
 
     # nvlunknown "I see 😊"
-    nvlunknown "I see 😊|我明白了😊"
+    nvlunknown "我明白了😊"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:2333
 translate zh_Hans driver_storyline_25_32365eeb:
@@ -3962,7 +3962,7 @@ translate zh_Hans driver_storyline_25_9a5decee:
 translate zh_Hans driver_storyline_25_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:2413
 translate zh_Hans driver_storyline_26_c6b98705:
@@ -3994,7 +3994,7 @@ translate zh_Hans driver_storyline_26_12ffeda9:
 translate zh_Hans driver_storyline_26_fbb05ac0:
 
     # nvljohn "Everything’s great"
-    nvljohn "Everything’s great|一切都棒极了。"
+    nvljohn "一切都棒极了。"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:2425
 translate zh_Hans driver_storyline_26_5ae2f6ab:
@@ -4120,7 +4120,7 @@ translate zh_Hans driver_storyline_26_cc84a3c5:
 translate zh_Hans driver_storyline_26_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:2502
 translate zh_Hans driver_storyline_27_5f26ae23:
@@ -4224,7 +4224,7 @@ translate zh_Hans driver_storyline_27_61f8b94d:
 translate zh_Hans driver_storyline_27_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:2571
 translate zh_Hans driver_storyline_28_259fd6d2:
@@ -4382,7 +4382,7 @@ translate zh_Hans driver_storyline_28_1a223125:
 translate zh_Hans driver_storyline_28_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:2652
 translate zh_Hans driver_storyline_28_after_b79b3744:
@@ -4708,7 +4708,7 @@ translate zh_Hans driver_storyline_29_41576ff4:
 translate zh_Hans driver_storyline_29_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:2810
 translate zh_Hans driver_storyline_30_5f26ae23:
@@ -4770,7 +4770,7 @@ translate zh_Hans driver_storyline_30_63359c7e:
 translate zh_Hans driver_storyline_30_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:2867
 translate zh_Hans driver_storyline_31_ea33ffc7:
@@ -4844,7 +4844,7 @@ translate zh_Hans driver_storyline_31_5dec34eb:
 translate zh_Hans driver_storyline_31_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:2919
 translate zh_Hans driver_storyline_31_after_10bb626d:
@@ -5008,7 +5008,7 @@ translate zh_Hans driver_storyline_32_4a5db477:
 translate zh_Hans driver_storyline_32_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3033
 translate zh_Hans driver_storyline_33_3b9f7ae9:
@@ -5100,7 +5100,7 @@ translate zh_Hans driver_storyline_33_7ab31f1c:
 translate zh_Hans driver_storyline_33_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3104
 translate zh_Hans driver_storyline_34_5c280d3d:
@@ -5396,7 +5396,7 @@ translate zh_Hans driver_storyline_34_2e16c03d:
 translate zh_Hans driver_storyline_34_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3247
 translate zh_Hans driver_storyline_35_76b2fe88:
@@ -5540,7 +5540,7 @@ translate zh_Hans driver_storyline_35_5f41ae5e:
 translate zh_Hans driver_storyline_35_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3330
 translate zh_Hans driver_storyline_36_76b2fe88:
@@ -5678,7 +5678,7 @@ translate zh_Hans driver_storyline_36_ce18187e:
 translate zh_Hans driver_storyline_36_b424d031:
 
     # nvljohn "Sorry, I can’t"
-    nvljohn "Sorry, I can’t|抱歉，我不能"
+    nvljohn "抱歉，我不能"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3400
 translate zh_Hans driver_storyline_36_8ef072f1:
@@ -5726,7 +5726,7 @@ translate zh_Hans driver_storyline_36_48a4c78a:
 translate zh_Hans driver_storyline_36_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3444
 translate zh_Hans driver_storyline_36_after_5f4457a2:
@@ -5848,7 +5848,7 @@ translate zh_Hans driver_storyline_37_f81e5f28:
 translate zh_Hans driver_storyline_37_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3534
 translate zh_Hans driver_storyline_38_76b2fe88:
@@ -5998,7 +5998,7 @@ translate zh_Hans driver_storyline_38_52892467:
 translate zh_Hans driver_storyline_38_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3619
 translate zh_Hans driver_storyline_39_5f26ae23:
@@ -6060,7 +6060,7 @@ translate zh_Hans driver_storyline_39_83a3dcfa:
 translate zh_Hans driver_storyline_39_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3672
 translate zh_Hans driver_storyline_40_5f26ae23:
@@ -6176,7 +6176,7 @@ translate zh_Hans driver_storyline_40_617c318e:
 translate zh_Hans driver_storyline_40_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3745
 translate zh_Hans driver_storyline_41_eae90dde:
@@ -6346,7 +6346,7 @@ translate zh_Hans driver_storyline_41_1de9c970:
 translate zh_Hans driver_storyline_41_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3834
 translate zh_Hans driver_storyline_42_14c6b316:
@@ -6510,7 +6510,7 @@ translate zh_Hans driver_storyline_42_fb9cb7a9:
 translate zh_Hans driver_storyline_42_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3921
 translate zh_Hans driver_storyline_43_0f960d59:
@@ -6590,7 +6590,7 @@ translate zh_Hans driver_storyline_43_5ddd1f23:
 translate zh_Hans driver_storyline_43_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:3980
 translate zh_Hans driver_storyline_44_1457da52:
@@ -6688,7 +6688,7 @@ translate zh_Hans driver_storyline_44_c17ef9ee:
 translate zh_Hans driver_storyline_44_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4062
 translate zh_Hans driver_storyline_45_ed316925:
@@ -6930,7 +6930,7 @@ translate zh_Hans driver_storyline_45_b583ba4a:
 translate zh_Hans driver_storyline_45_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4187
 translate zh_Hans driver_storyline_46_d8c32867:
@@ -7010,7 +7010,7 @@ translate zh_Hans driver_storyline_46_bd1003d5:
 translate zh_Hans driver_storyline_46_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4244
 translate zh_Hans driver_storyline_46_after_8123af63:
@@ -7168,7 +7168,7 @@ translate zh_Hans driver_storyline_47_d62ed9c7:
 translate zh_Hans driver_storyline_47_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4346
 translate zh_Hans driver_storyline_48_d8c32867:
@@ -7230,7 +7230,7 @@ translate zh_Hans driver_storyline_48_af2b1750:
 translate zh_Hans driver_storyline_48_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4401
 translate zh_Hans driver_storyline_49_cea3fe66:
@@ -7316,7 +7316,7 @@ translate zh_Hans driver_storyline_49_4cea1dd6:
 translate zh_Hans driver_storyline_49_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4466
 translate zh_Hans driver_storyline_50_12ed0aee:
@@ -7618,7 +7618,7 @@ translate zh_Hans driver_storyline_50_d686e517_2:
 translate zh_Hans driver_storyline_50_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4659
 translate zh_Hans driver_storyline_51_d15aedb8:
@@ -7812,7 +7812,7 @@ translate zh_Hans driver_storyline_51_370776b9:
 translate zh_Hans driver_storyline_51_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4755
 translate zh_Hans driver_storyline_51_after_5d4c4d5e:
@@ -7904,7 +7904,7 @@ translate zh_Hans driver_storyline_52_e20ad8da:
 translate zh_Hans driver_storyline_52_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4835
 translate zh_Hans driver_storyline_53_8716d8a7:
@@ -8074,7 +8074,7 @@ translate zh_Hans driver_storyline_53_617c318e:
 translate zh_Hans driver_storyline_53_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:4923
 translate zh_Hans driver_storyline_53_after_f14b5c25:
@@ -8232,7 +8232,7 @@ translate zh_Hans driver_storyline_54_254fcbfa:
 translate zh_Hans driver_storyline_54_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:5025
 translate zh_Hans driver_storyline_55_d8c32867:
@@ -8294,7 +8294,7 @@ translate zh_Hans driver_storyline_55_bcc969fd:
 translate zh_Hans driver_storyline_55_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:5089
 translate zh_Hans driver_storyline_56_42caa93d:
@@ -8344,7 +8344,7 @@ translate zh_Hans driver_storyline_56_e20ad8da:
 translate zh_Hans driver_storyline_56_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:5138
 translate zh_Hans driver_storyline_57_8ad3c56a:
@@ -8508,7 +8508,7 @@ translate zh_Hans driver_storyline_57_6c981b23:
 translate zh_Hans driver_storyline_57_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:5225
 translate zh_Hans driver_storyline_58_8940dd6f:
@@ -8846,7 +8846,7 @@ translate zh_Hans driver_storyline_58_46c59772:
 translate zh_Hans driver_storyline_58_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:5378
 translate zh_Hans driver_storyline_59_5e87ab30:
@@ -8962,7 +8962,7 @@ translate zh_Hans driver_storyline_59_4cdc7732_1:
 translate zh_Hans driver_storyline_59_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/driver_storyline.rpy:5457
 translate zh_Hans driver_storyline_60_a90fcee0:
@@ -9096,7 +9096,7 @@ translate zh_Hans driver_storyline_60_2eca5727:
 translate zh_Hans driver_storyline_60_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 translate zh_Hans strings:
 

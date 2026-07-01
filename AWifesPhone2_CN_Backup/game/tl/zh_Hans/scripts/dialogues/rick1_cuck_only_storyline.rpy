@@ -126,7 +126,7 @@ translate zh_Hans rick1_cuck_only_storyline_1_9b6cc233:
 translate zh_Hans rick1_cuck_only_storyline_1_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:148
 translate zh_Hans rick1_cuck_only_storyline_2_8f9b6860:
@@ -230,7 +230,7 @@ translate zh_Hans rick1_cuck_only_storyline_2_b7038a7c:
 translate zh_Hans rick1_cuck_only_storyline_2_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:215
 translate zh_Hans rick1_cuck_only_storyline_3_9f13c5dc:
@@ -322,7 +322,7 @@ translate zh_Hans rick1_cuck_only_storyline_3_a76716c9:
 translate zh_Hans rick1_cuck_only_storyline_3_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:282
 translate zh_Hans rick1_cuck_only_storyline_4_a67eecd7:
@@ -432,7 +432,7 @@ translate zh_Hans rick1_cuck_only_storyline_4_4a8b24c4:
 translate zh_Hans rick1_cuck_only_storyline_4_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:353
 translate zh_Hans rick1_cuck_only_storyline_5_4f97d5f9:
@@ -548,7 +548,7 @@ translate zh_Hans rick1_cuck_only_storyline_5_ae04d999:
 translate zh_Hans rick1_cuck_only_storyline_5_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:424
 translate zh_Hans rick1_cuck_only_storyline_6_24d9a6ed:
@@ -688,7 +688,7 @@ translate zh_Hans rick1_cuck_only_storyline_6_e578b4d6:
 translate zh_Hans rick1_cuck_only_storyline_6_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:503
 translate zh_Hans rick1_cuck_only_storyline_7_f54f4a0f:
@@ -750,7 +750,7 @@ translate zh_Hans rick1_cuck_only_storyline_7_deec946d:
 translate zh_Hans rick1_cuck_only_storyline_7_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:558
 translate zh_Hans rick1_cuck_only_storyline_8_c36e5f66:
@@ -854,7 +854,7 @@ translate zh_Hans rick1_cuck_only_storyline_8_a6edd09c:
 translate zh_Hans rick1_cuck_only_storyline_8_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:626
 translate zh_Hans rick1_cuck_only_storyline_9_14692f62:
@@ -982,7 +982,7 @@ translate zh_Hans rick1_cuck_only_storyline_9_bb1c2ff1:
 translate zh_Hans rick1_cuck_only_storyline_9_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:701
 translate zh_Hans rick1_cuck_only_storyline_10_d94a1126:
@@ -1116,7 +1116,7 @@ translate zh_Hans rick1_cuck_only_storyline_10_888fa98d:
 translate zh_Hans rick1_cuck_only_storyline_10_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:778
 translate zh_Hans rick1_cuck_only_storyline_11_9450d017:
@@ -1220,7 +1220,7 @@ translate zh_Hans rick1_cuck_only_storyline_11_a02ccbc4:
 translate zh_Hans rick1_cuck_only_storyline_11_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:845
 translate zh_Hans rick1_cuck_only_storyline_12_c36cb644:
@@ -1318,7 +1318,7 @@ translate zh_Hans rick1_cuck_only_storyline_12_b0e2157f:
 translate zh_Hans rick1_cuck_only_storyline_12_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:910
 translate zh_Hans rick1_cuck_only_storyline_13_809c777b:
@@ -1404,7 +1404,7 @@ translate zh_Hans rick1_cuck_only_storyline_13_5bd2b94d:
 translate zh_Hans rick1_cuck_only_storyline_13_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:971
 translate zh_Hans rick1_cuck_only_storyline_14_fb5f9f0d:
@@ -1442,7 +1442,7 @@ translate zh_Hans rick1_cuck_only_storyline_14_36c36f2d:
 translate zh_Hans rick1_cuck_only_storyline_14_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:1016
 translate zh_Hans rick1_cuck_only_storyline_15_f8519552:
@@ -1522,7 +1522,7 @@ translate zh_Hans rick1_cuck_only_storyline_15_9b63124e:
 translate zh_Hans rick1_cuck_only_storyline_15_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:1075
 translate zh_Hans rick1_cuck_only_storyline_16_2d4ccdc3:
@@ -1674,7 +1674,7 @@ translate zh_Hans rick1_cuck_only_storyline_16_cdb7c153:
 translate zh_Hans rick1_cuck_only_storyline_16_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:1160
 translate zh_Hans rick1_cuck_only_storyline_17_bd0f910f:
@@ -1778,7 +1778,7 @@ translate zh_Hans rick1_cuck_only_storyline_17_ab9b1b6a:
 translate zh_Hans rick1_cuck_only_storyline_17_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:1227
 translate zh_Hans rick1_cuck_only_storyline_18_e7b57053:
@@ -1864,7 +1864,7 @@ translate zh_Hans rick1_cuck_only_storyline_18_2b2ae308:
 translate zh_Hans rick1_cuck_only_storyline_18_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:1290
 translate zh_Hans rick1_cuck_only_storyline_19_a95b345b:
@@ -1962,7 +1962,7 @@ translate zh_Hans rick1_cuck_only_storyline_19_08edd7e2:
 translate zh_Hans rick1_cuck_only_storyline_19_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:1358
 translate zh_Hans rick1_cuck_only_storyline_20_38aa797a:
@@ -2072,7 +2072,7 @@ translate zh_Hans rick1_cuck_only_storyline_20_28c3d4a7:
 translate zh_Hans rick1_cuck_only_storyline_20_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:1431
 translate zh_Hans rick1_cuck_only_storyline_21_d9f01c9b:
@@ -2164,7 +2164,7 @@ translate zh_Hans rick1_cuck_only_storyline_21_cb081562:
 translate zh_Hans rick1_cuck_only_storyline_21_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:1494
 translate zh_Hans rick1_cuck_only_storyline_22_86a78d93:
@@ -2304,7 +2304,7 @@ translate zh_Hans rick1_cuck_only_storyline_22_2f024d9f:
 translate zh_Hans rick1_cuck_only_storyline_22_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:1577
 translate zh_Hans rick1_cuck_only_storyline_23_0cfe0447:
@@ -2420,7 +2420,7 @@ translate zh_Hans rick1_cuck_only_storyline_23_0fd939f3:
 translate zh_Hans rick1_cuck_only_storyline_23_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:1648
 translate zh_Hans rick1_cuck_only_storyline_24_06cfa23f:
@@ -2536,7 +2536,7 @@ translate zh_Hans rick1_cuck_only_storyline_24_c55476f2:
 translate zh_Hans rick1_cuck_only_storyline_24_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:1719
 translate zh_Hans rick1_cuck_only_storyline_25_05b15b33:
@@ -2682,7 +2682,7 @@ translate zh_Hans rick1_cuck_only_storyline_25_acfa7348:
 translate zh_Hans rick1_cuck_only_storyline_25_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:1804
 translate zh_Hans rick1_cuck_only_storyline_26_c0c85f7a:
@@ -2798,7 +2798,7 @@ translate zh_Hans rick1_cuck_only_storyline_26_f171c049:
 translate zh_Hans rick1_cuck_only_storyline_26_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:1875
 translate zh_Hans rick1_cuck_only_storyline_27_43962766:
@@ -2920,7 +2920,7 @@ translate zh_Hans rick1_cuck_only_storyline_27_d5ede3ef:
 translate zh_Hans rick1_cuck_only_storyline_27_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:1948
 translate zh_Hans rick1_cuck_only_storyline_28_b6158c7d:
@@ -3030,7 +3030,7 @@ translate zh_Hans rick1_cuck_only_storyline_28_25a96af6:
 translate zh_Hans rick1_cuck_only_storyline_28_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:2019
 translate zh_Hans rick1_cuck_only_storyline_29_6a5d5098:
@@ -3164,7 +3164,7 @@ translate zh_Hans rick1_cuck_only_storyline_29_6200df67:
 translate zh_Hans rick1_cuck_only_storyline_29_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:2100
 translate zh_Hans rick1_cuck_only_storyline_30_bdffed54:
@@ -3286,7 +3286,7 @@ translate zh_Hans rick1_cuck_only_storyline_30_eb1e3ccb:
 translate zh_Hans rick1_cuck_only_storyline_30_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:2173
 translate zh_Hans rick1_cuck_only_storyline_31_1689e273:
@@ -3414,7 +3414,7 @@ translate zh_Hans rick1_cuck_only_storyline_31_1f76d774:
 translate zh_Hans rick1_cuck_only_storyline_31_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:2250
 translate zh_Hans rick1_cuck_only_storyline_33_3deb70d7:
@@ -3578,7 +3578,7 @@ translate zh_Hans rick1_cuck_only_storyline_33_47f55a9f:
 translate zh_Hans rick1_cuck_only_storyline_33_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:2337
 translate zh_Hans rick1_cuck_only_storyline_34_167230aa:
@@ -3724,7 +3724,7 @@ translate zh_Hans rick1_cuck_only_storyline_34_94250208:
 translate zh_Hans rick1_cuck_only_storyline_34_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:2418
 translate zh_Hans rick1_cuck_only_storyline_35_a8b3e6c3:
@@ -3894,7 +3894,7 @@ translate zh_Hans rick1_cuck_only_storyline_35_27544bc8:
 translate zh_Hans rick1_cuck_only_storyline_35_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:2507
 translate zh_Hans rick1_cuck_only_storyline_36_e7195c09:
@@ -4004,7 +4004,7 @@ translate zh_Hans rick1_cuck_only_storyline_36_8ad75ce6:
 translate zh_Hans rick1_cuck_only_storyline_36_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:2576
 translate zh_Hans rick1_cuck_only_storyline_37_68b06196:
@@ -4168,7 +4168,7 @@ translate zh_Hans rick1_cuck_only_storyline_37_818f57fd:
 translate zh_Hans rick1_cuck_only_storyline_37_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:2665
 translate zh_Hans rick1_cuck_only_storyline_38_239add55:
@@ -4320,7 +4320,7 @@ translate zh_Hans rick1_cuck_only_storyline_38_8cbbefd0:
 translate zh_Hans rick1_cuck_only_storyline_38_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:2748
 translate zh_Hans rick1_cuck_only_storyline_39_06cfa23f:
@@ -4490,7 +4490,7 @@ translate zh_Hans rick1_cuck_only_storyline_39_a7e95c51:
 translate zh_Hans rick1_cuck_only_storyline_39_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:2839
 translate zh_Hans rick1_cuck_only_storyline_40_5bd2c7ad:
@@ -4636,7 +4636,7 @@ translate zh_Hans rick1_cuck_only_storyline_40_aa1ee3a4:
 translate zh_Hans rick1_cuck_only_storyline_40_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:2922
 translate zh_Hans rick1_cuck_only_storyline_41_ffc91330:
@@ -4794,7 +4794,7 @@ translate zh_Hans rick1_cuck_only_storyline_41_55bd1202:
 translate zh_Hans rick1_cuck_only_storyline_41_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:3007
 translate zh_Hans rick1_cuck_only_storyline_42_1234a0c0:
@@ -4970,7 +4970,7 @@ translate zh_Hans rick1_cuck_only_storyline_42_3b59cf36:
 translate zh_Hans rick1_cuck_only_storyline_42_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:3098
 translate zh_Hans rick1_cuck_only_storyline_43_55bbab6b:
@@ -5122,7 +5122,7 @@ translate zh_Hans rick1_cuck_only_storyline_43_f82115f3:
 translate zh_Hans rick1_cuck_only_storyline_43_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:3181
 translate zh_Hans rick1_cuck_only_storyline_44_e3e5b0ad:
@@ -5262,7 +5262,7 @@ translate zh_Hans rick1_cuck_only_storyline_44_2d63c5bf:
 translate zh_Hans rick1_cuck_only_storyline_44_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:3262
 translate zh_Hans rick1_cuck_only_storyline_45_c7521317:
@@ -5396,7 +5396,7 @@ translate zh_Hans rick1_cuck_only_storyline_45_a527a3c0:
 translate zh_Hans rick1_cuck_only_storyline_45_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # scripts/dialogues/rick1_cuck_only_storyline.rpy:3339
 translate zh_Hans rick1_cuck_only_storyline_46_a7b48604:
@@ -5554,5 +5554,5 @@ translate zh_Hans rick1_cuck_only_storyline_46_c7af0dd4:
 translate zh_Hans rick1_cuck_only_storyline_46_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 

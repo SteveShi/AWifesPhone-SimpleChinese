@@ -168,7 +168,7 @@ translate zh_Hans hearth_storyline_29_fba26538:
 translate zh_Hans hearth_storyline_29_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:150
 translate zh_Hans hearth_storyline_30_5d57a09f:
@@ -404,7 +404,7 @@ translate zh_Hans hearth_storyline_30_c370f0e7:
 translate zh_Hans hearth_storyline_30_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:263
 translate zh_Hans hearth_storyline_31_3793ced7:
@@ -622,7 +622,7 @@ translate zh_Hans hearth_storyline_31_f2af835d:
 translate zh_Hans hearth_storyline_31_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:372
 translate zh_Hans hearth_storyline_32_b15c7b30:
@@ -708,7 +708,7 @@ translate zh_Hans hearth_storyline_32_fba26538:
 translate zh_Hans hearth_storyline_32_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:433
 translate zh_Hans hearth_storyline_33_860d1b4c:
@@ -968,7 +968,7 @@ translate zh_Hans hearth_storyline_33_f2af835d:
 translate zh_Hans hearth_storyline_33_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:550
 translate zh_Hans hearth_storyline_34_629dec98:
@@ -1132,7 +1132,7 @@ translate zh_Hans hearth_storyline_34_17015923:
 translate zh_Hans hearth_storyline_34_fe85b816:
 
     # nvlhearth "I see 😊"
-    nvlhearth "I see 😊|我明白了😊"
+    nvlhearth "我明白了😊"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:614
 translate zh_Hans hearth_storyline_34_f97e497f:
@@ -1204,7 +1204,7 @@ translate zh_Hans hearth_storyline_34_7ef06ce4:
 translate zh_Hans hearth_storyline_34_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:667
 translate zh_Hans hearth_storyline_35_ce5e3c25:
@@ -1344,7 +1344,7 @@ translate zh_Hans hearth_storyline_35_2d7ef3aa:
 translate zh_Hans hearth_storyline_35_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:745
 translate zh_Hans hearth_storyline_35_after_a04ce5ad:
@@ -1520,7 +1520,7 @@ translate zh_Hans hearth_storyline_36_fba26538:
 translate zh_Hans hearth_storyline_36_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:853
 translate zh_Hans hearth_storyline_37_f8e2426f:
@@ -1804,7 +1804,7 @@ translate zh_Hans hearth_storyline_37_200828ee:
 translate zh_Hans hearth_storyline_37_3a5a8a23:
 
     # nvljohn "I promise 😉"
-    nvljohn "I promise 😉|我保证 😉"
+    nvljohn "我保证 😉"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:953
 translate zh_Hans hearth_storyline_37_8283db6c:
@@ -1912,7 +1912,7 @@ translate zh_Hans hearth_storyline_37_52892467:
 translate zh_Hans hearth_storyline_37_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:1018
 translate zh_Hans hearth_storyline_38_f2a8531b:
@@ -2106,7 +2106,7 @@ translate zh_Hans hearth_storyline_38_d5921fea:
 translate zh_Hans hearth_storyline_38_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:1127
 translate zh_Hans hearth_storyline_39_216b4e1a:
@@ -2186,7 +2186,7 @@ translate zh_Hans hearth_storyline_39_9ef137e4:
 translate zh_Hans hearth_storyline_39_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:1186
 translate zh_Hans hearth_storyline_40_853abff1:
@@ -2456,7 +2456,7 @@ translate zh_Hans hearth_storyline_40_52892467:
 translate zh_Hans hearth_storyline_40_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:1309
 translate zh_Hans hearth_storyline_41_cb9bce35:
@@ -2770,7 +2770,7 @@ translate zh_Hans hearth_storyline_41_f4b702fa:
 translate zh_Hans hearth_storyline_41_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:1460
 translate zh_Hans hearth_storyline_42_daa051f7:
@@ -3012,7 +3012,7 @@ translate zh_Hans hearth_storyline_42_b8d4056d:
 translate zh_Hans hearth_storyline_42_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:1575
 translate zh_Hans hearth_storyline_43_fc6ebf9c:
@@ -3218,7 +3218,7 @@ translate zh_Hans hearth_storyline_43_fea92111:
 translate zh_Hans hearth_storyline_43_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:1678
 translate zh_Hans hearth_storyline_44_332153a4:
@@ -3460,7 +3460,7 @@ translate zh_Hans hearth_storyline_44_9ac983b5:
 translate zh_Hans hearth_storyline_44_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:1797
 translate zh_Hans hearth_storyline_45_2fc7543c:
@@ -3708,7 +3708,7 @@ translate zh_Hans hearth_storyline_45_83cbea40:
 translate zh_Hans hearth_storyline_45_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:1910
 translate zh_Hans hearth_storyline_46_9da2bd47:
@@ -3926,7 +3926,7 @@ translate zh_Hans hearth_storyline_46_52892467:
 translate zh_Hans hearth_storyline_46_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:2013
 translate zh_Hans hearth_storyline_47_3605376a:
@@ -4060,7 +4060,7 @@ translate zh_Hans hearth_storyline_47_72fd54c1:
 translate zh_Hans hearth_storyline_47_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:2088
 translate zh_Hans hearth_storyline_48_76b2fe88:
@@ -4198,7 +4198,7 @@ translate zh_Hans hearth_storyline_48_bf4912e3:
 translate zh_Hans hearth_storyline_48_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:2171
 translate zh_Hans hearth_storyline_49_9da2bd47:
@@ -4434,7 +4434,7 @@ translate zh_Hans hearth_storyline_49_52780af3:
 translate zh_Hans hearth_storyline_49_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:2280
 translate zh_Hans hearth_storyline_50_398b59b8:
@@ -4988,7 +4988,7 @@ translate zh_Hans hearth_storyline_50_fc81a99d:
 translate zh_Hans hearth_storyline_50_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:2505
 translate zh_Hans hearth_storyline_51_3f42c9e0:
@@ -5308,7 +5308,7 @@ translate zh_Hans hearth_storyline_51_d14ff8ac:
 translate zh_Hans hearth_storyline_51_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:2650
 translate zh_Hans hearth_storyline_52_76b2fe88:
@@ -5482,7 +5482,7 @@ translate zh_Hans hearth_storyline_52_7a5dae9d:
 translate zh_Hans hearth_storyline_52_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:2747
 translate zh_Hans hearth_storyline_53_3f42c9e0:
@@ -5742,7 +5742,7 @@ translate zh_Hans hearth_storyline_53_44f6f13d:
 translate zh_Hans hearth_storyline_53_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:2874
 translate zh_Hans hearth_storyline_54_fef74feb:
@@ -5948,7 +5948,7 @@ translate zh_Hans hearth_storyline_54_a2601f20:
 translate zh_Hans hearth_storyline_54_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:2973
 translate zh_Hans hearth_storyline_55_1469c4df:
@@ -6202,7 +6202,7 @@ translate zh_Hans hearth_storyline_55_ee3453b6:
 translate zh_Hans hearth_storyline_55_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:3088
 translate zh_Hans hearth_storyline_56_fef74feb:
@@ -6432,7 +6432,7 @@ translate zh_Hans hearth_storyline_56_51387850:
 translate zh_Hans hearth_storyline_56_6a862070:
 
     # nvlhearth "Whatever you say 😊"
-    nvlhearth "Whatever you say 😊|随便你怎么说😊"
+    nvlhearth "随便你怎么说😊"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:3166
 translate zh_Hans hearth_storyline_56_a2fa6aaf:
@@ -6450,7 +6450,7 @@ translate zh_Hans hearth_storyline_56_fc81a99d:
 translate zh_Hans hearth_storyline_56_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:3201
 translate zh_Hans hearth_storyline_57_7bb1a93c:
@@ -7010,7 +7010,7 @@ translate zh_Hans hearth_storyline_57_fc81a99d:
 translate zh_Hans hearth_storyline_57_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:3429
 translate zh_Hans hearth_storyline_58_d9579c17:
@@ -7258,13 +7258,13 @@ translate zh_Hans hearth_storyline_58_17d38646:
 translate zh_Hans hearth_storyline_58_b6ee30cb:
 
     # nvljenna "Goodbye 😊"
-    nvljenna "Goodbye 😊|再见😊"
+    nvljenna "再见😊"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:3533
 translate zh_Hans hearth_storyline_58_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:3552
 translate zh_Hans hearth_storyline_60_9bef5d47:
@@ -7764,7 +7764,7 @@ translate zh_Hans hearth_storyline_60_521c7406_1:
 translate zh_Hans hearth_storyline_60_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:3757
 translate zh_Hans hearth_storyline_61_86a8a77f:
@@ -8078,7 +8078,7 @@ translate zh_Hans hearth_storyline_61_b15c0eb3_2:
 translate zh_Hans hearth_storyline_61_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:3892
 translate zh_Hans hearth_storyline_62_cb9bce35:
@@ -8320,7 +8320,7 @@ translate zh_Hans hearth_storyline_62_626d6dd7:
 translate zh_Hans hearth_storyline_62_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:4003
 translate zh_Hans hearth_storyline_63_543adf16:
@@ -8616,7 +8616,7 @@ translate zh_Hans hearth_storyline_63_72567ba1:
 translate zh_Hans hearth_storyline_63_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:4136
 translate zh_Hans hearth_storyline_64_b56bde17:
@@ -8978,7 +8978,7 @@ translate zh_Hans hearth_storyline_64_63f7070a:
 translate zh_Hans hearth_storyline_64_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:4287
 translate zh_Hans hearth_storyline_65_43a10404:
@@ -9220,7 +9220,7 @@ translate zh_Hans hearth_storyline_65_412c9553:
 translate zh_Hans hearth_storyline_65_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:4398
 translate zh_Hans hearth_storyline_66_e5f4df81:
@@ -9432,7 +9432,7 @@ translate zh_Hans hearth_storyline_66_612ad518:
 translate zh_Hans hearth_storyline_66_caccc19a:
 
     # nvlhearth "This is for you 😉"
-    nvlhearth "This is for you 😉|这是给你的 😉"
+    nvlhearth "这是给你的 😉"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:4474
 translate zh_Hans hearth_storyline_66_a6edaf2b:
@@ -9564,7 +9564,7 @@ translate zh_Hans hearth_storyline_66_9ef137e4:
 translate zh_Hans hearth_storyline_66_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:4551
 translate zh_Hans hearth_storyline_67_76b2fe88:
@@ -9876,7 +9876,7 @@ translate zh_Hans hearth_storyline_67_b4930dd0:
 translate zh_Hans hearth_storyline_67_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:4700
 translate zh_Hans hearth_storyline_68_6045dcd7:
@@ -10058,7 +10058,7 @@ translate zh_Hans hearth_storyline_68_906d86db:
 translate zh_Hans hearth_storyline_68_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:4793
 translate zh_Hans hearth_storyline_69_93d2e174:
@@ -10294,7 +10294,7 @@ translate zh_Hans hearth_storyline_69_c8e5ba58:
 translate zh_Hans hearth_storyline_69_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:4908
 translate zh_Hans hearth_storyline_70_cb9bce35:
@@ -10542,7 +10542,7 @@ translate zh_Hans hearth_storyline_70_2ae34745:
 translate zh_Hans hearth_storyline_70_364e338c:
 
     # nvljohn "I see 😊"
-    nvljohn "I see 😊|我明白了😊"
+    nvljohn "我明白了😊"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:4992
 translate zh_Hans hearth_storyline_70_7fd3de8c:
@@ -10692,7 +10692,7 @@ translate zh_Hans hearth_storyline_70_24886784:
 translate zh_Hans hearth_storyline_70_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:5071
 translate zh_Hans hearth_storyline_71_76b2fe88:
@@ -11022,7 +11022,7 @@ translate zh_Hans hearth_storyline_71_fba26538_2:
 translate zh_Hans hearth_storyline_71_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:5222
 translate zh_Hans hearth_storyline_72_b15c7b30:
@@ -11192,7 +11192,7 @@ translate zh_Hans hearth_storyline_72_a724f58a:
 translate zh_Hans hearth_storyline_72_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:5309
 translate zh_Hans hearth_storyline_73_8a7bc219:
@@ -11500,7 +11500,7 @@ translate zh_Hans hearth_storyline_73_fba26538:
 translate zh_Hans hearth_storyline_73_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:5460
 translate zh_Hans hearth_storyline_74_d6235095:
@@ -11640,7 +11640,7 @@ translate zh_Hans hearth_storyline_74_eee46f60:
 translate zh_Hans hearth_storyline_74_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:5539
 translate zh_Hans hearth_storyline_75_6755c5a8:
@@ -11774,7 +11774,7 @@ translate zh_Hans hearth_storyline_75_dd278bcc:
 translate zh_Hans hearth_storyline_75_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:5616
 translate zh_Hans hearth_storyline_76_36350186:
@@ -11926,7 +11926,7 @@ translate zh_Hans hearth_storyline_76_b5c35c79:
 translate zh_Hans hearth_storyline_76_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:5699
 translate zh_Hans hearth_storyline_77_83ffa6ee:
@@ -12138,7 +12138,7 @@ translate zh_Hans hearth_storyline_77_b7951af2:
 translate zh_Hans hearth_storyline_77_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:5802
 translate zh_Hans hearth_storyline_78_8738ca31:
@@ -12290,7 +12290,7 @@ translate zh_Hans hearth_storyline_78_d550dd96:
 translate zh_Hans hearth_storyline_78_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:5889
 translate zh_Hans hearth_storyline_79_87c714ca:
@@ -12418,7 +12418,7 @@ translate zh_Hans hearth_storyline_79_95df4545:
 translate zh_Hans hearth_storyline_79_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:5964
 translate zh_Hans hearth_storyline_80_f3717d1d:
@@ -12576,7 +12576,7 @@ translate zh_Hans hearth_storyline_80_567f0c8a:
 translate zh_Hans hearth_storyline_80_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:6049
 translate zh_Hans hearth_storyline_81_fb6c8dfa:
@@ -12806,7 +12806,7 @@ translate zh_Hans hearth_storyline_81_9e390a13:
 translate zh_Hans hearth_storyline_81_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:6166
 translate zh_Hans hearth_storyline_82_d5084da4:
@@ -12988,7 +12988,7 @@ translate zh_Hans hearth_storyline_82_3493e37e:
 translate zh_Hans hearth_storyline_82_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:6259
 translate zh_Hans hearth_storyline_83_c43fd3a2:
@@ -13164,7 +13164,7 @@ translate zh_Hans hearth_storyline_83_346a92d3:
 translate zh_Hans hearth_storyline_83_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:6350
 translate zh_Hans hearth_storyline_84_ef40245e:
@@ -13412,7 +13412,7 @@ translate zh_Hans hearth_storyline_84_a42a3000:
 translate zh_Hans hearth_storyline_84_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:6465
 translate zh_Hans hearth_storyline_85_aeac4d6d:
@@ -13594,7 +13594,7 @@ translate zh_Hans hearth_storyline_85_69ad6cd3:
 translate zh_Hans hearth_storyline_85_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:6558
 translate zh_Hans hearth_storyline_85_after_d5c79854:
@@ -13800,7 +13800,7 @@ translate zh_Hans hearth_storyline_86_b69de9cc:
 translate zh_Hans hearth_storyline_86_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:6675
 translate zh_Hans hearth_storyline_87_240a2cd2:
@@ -13982,7 +13982,7 @@ translate zh_Hans hearth_storyline_87_d5664a26:
 translate zh_Hans hearth_storyline_87_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:6768
 translate zh_Hans hearth_storyline_88_fbde36c6:
@@ -14200,7 +14200,7 @@ translate zh_Hans hearth_storyline_88_185b8fc1:
 translate zh_Hans hearth_storyline_88_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:6873
 translate zh_Hans hearth_storyline_89_e1c27a38:
@@ -14334,7 +14334,7 @@ translate zh_Hans hearth_storyline_89_e2a8ef39:
 translate zh_Hans hearth_storyline_89_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:6948
 translate zh_Hans hearth_storyline_90_3e801ff5:
@@ -14438,7 +14438,7 @@ translate zh_Hans hearth_storyline_90_1b2c107a:
 translate zh_Hans hearth_storyline_90_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:7013
 translate zh_Hans hearth_storyline_91_7bc353b7:
@@ -14638,7 +14638,7 @@ translate zh_Hans hearth_storyline_91_9d597be4:
 translate zh_Hans hearth_storyline_91_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:7106
 translate zh_Hans hearth_storyline_91_after_827761fa:
@@ -14904,7 +14904,7 @@ translate zh_Hans hearth_storyline_92_0507832c:
 translate zh_Hans hearth_storyline_92_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:7244
 translate zh_Hans hearth_storyline_93_0c596753:
@@ -15074,7 +15074,7 @@ translate zh_Hans hearth_storyline_93_e5b3702c:
 translate zh_Hans hearth_storyline_93_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:7333
 translate zh_Hans hearth_storyline_94_a670f83d:
@@ -15148,7 +15148,7 @@ translate zh_Hans hearth_storyline_94_0d08aa25:
 translate zh_Hans hearth_storyline_94_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:7388
 translate zh_Hans hearth_storyline_95_79a2d09b:
@@ -15402,7 +15402,7 @@ translate zh_Hans hearth_storyline_95_cf88b999:
 translate zh_Hans hearth_storyline_95_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:7505
 translate zh_Hans hearth_storyline_96_1703e4cd:
@@ -15542,7 +15542,7 @@ translate zh_Hans hearth_storyline_96_b11ce912:
 translate zh_Hans hearth_storyline_96_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:7582
 translate zh_Hans hearth_storyline_97_83ffa6ee:
@@ -15718,7 +15718,7 @@ translate zh_Hans hearth_storyline_97_e4757497:
 translate zh_Hans hearth_storyline_97_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:7671
 translate zh_Hans hearth_storyline_98_bff0f543:
@@ -15888,7 +15888,7 @@ translate zh_Hans hearth_storyline_98_b9bc9378:
 translate zh_Hans hearth_storyline_98_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:7758
 translate zh_Hans hearth_storyline_99_2226c68d:
@@ -16064,7 +16064,7 @@ translate zh_Hans hearth_storyline_99_255fd315:
 translate zh_Hans hearth_storyline_99_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:7859
 translate zh_Hans hearth_storyline_100_8055357b:
@@ -16240,7 +16240,7 @@ translate zh_Hans hearth_storyline_100_093698d5:
 translate zh_Hans hearth_storyline_100_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:7948
 translate zh_Hans hearth_storyline_101_bf732078:
@@ -16392,7 +16392,7 @@ translate zh_Hans hearth_storyline_101_be97ddcb:
 translate zh_Hans hearth_storyline_101_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:8031
 translate zh_Hans hearth_storyline_102_673be979:
@@ -16518,7 +16518,7 @@ translate zh_Hans hearth_storyline_102_6281866c:
 translate zh_Hans hearth_storyline_102_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:8106
 translate zh_Hans hearth_storyline_103_9df74b3a:
@@ -16634,7 +16634,7 @@ translate zh_Hans hearth_storyline_103_466c4686:
 translate zh_Hans hearth_storyline_103_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:8177
 translate zh_Hans hearth_storyline_104_418aad47:
@@ -16774,7 +16774,7 @@ translate zh_Hans hearth_storyline_104_1648f282:
 translate zh_Hans hearth_storyline_104_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:8260
 translate zh_Hans hearth_storyline_105_dd854a65:
@@ -16890,7 +16890,7 @@ translate zh_Hans hearth_storyline_105_7ec71652:
 translate zh_Hans hearth_storyline_105_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:8335
 translate zh_Hans hearth_storyline_106_b91e9af3:
@@ -16976,7 +16976,7 @@ translate zh_Hans hearth_storyline_106_7f141d2c:
 translate zh_Hans hearth_storyline_106_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:8396
 translate zh_Hans hearth_storyline_107_5fcb70b8:
@@ -17224,7 +17224,7 @@ translate zh_Hans hearth_storyline_107_a0dfdd75:
 translate zh_Hans hearth_storyline_107_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:8506
 translate zh_Hans hearth_storyline_107_after_e611ba3e:
@@ -17412,7 +17412,7 @@ translate zh_Hans hearth_storyline_108_0c3bb460:
 translate zh_Hans hearth_storyline_108_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:8618
 translate zh_Hans hearth_storyline_109_83ffa6ee:
@@ -17600,7 +17600,7 @@ translate zh_Hans hearth_storyline_109_5fa6abde:
 translate zh_Hans hearth_storyline_109_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:8713
 translate zh_Hans hearth_storyline_110_160f1262:
@@ -17746,7 +17746,7 @@ translate zh_Hans hearth_storyline_110_cfb3a995:
 translate zh_Hans hearth_storyline_110_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:8794
 translate zh_Hans hearth_storyline_111_dbdfccae:
@@ -17868,7 +17868,7 @@ translate zh_Hans hearth_storyline_111_8105dec5:
 translate zh_Hans hearth_storyline_111_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:8867
 translate zh_Hans hearth_storyline_112_9871350e:
@@ -18038,7 +18038,7 @@ translate zh_Hans hearth_storyline_112_06c1c96f:
 translate zh_Hans hearth_storyline_112_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:8964
 translate zh_Hans hearth_storyline_113_14467712:
@@ -18154,7 +18154,7 @@ translate zh_Hans hearth_storyline_113_022e7ae4:
 translate zh_Hans hearth_storyline_113_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:9034
 translate zh_Hans hearth_storyline_113_after_e00e20b9:
@@ -18414,7 +18414,7 @@ translate zh_Hans hearth_storyline_114_f24e30cc:
 translate zh_Hans hearth_storyline_114_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:9188
 translate zh_Hans hearth_storyline_115_bccb640f:
@@ -18584,7 +18584,7 @@ translate zh_Hans hearth_storyline_115_f79c0ada:
 translate zh_Hans hearth_storyline_115_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:9281
 translate zh_Hans hearth_storyline_116_92ad259d:
@@ -18754,7 +18754,7 @@ translate zh_Hans hearth_storyline_116_50d8d8eb:
 translate zh_Hans hearth_storyline_116_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:9374
 translate zh_Hans hearth_storyline_117_43d16f84:
@@ -18906,7 +18906,7 @@ translate zh_Hans hearth_storyline_117_31254eac:
 translate zh_Hans hearth_storyline_117_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:9457
 translate zh_Hans hearth_storyline_118_9871350e:
@@ -19070,7 +19070,7 @@ translate zh_Hans hearth_storyline_118_06c1c96f:
 translate zh_Hans hearth_storyline_118_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:9548
 translate zh_Hans hearth_storyline_119_88b89ebf:
@@ -19240,7 +19240,7 @@ translate zh_Hans hearth_storyline_119_97358ab3:
 translate zh_Hans hearth_storyline_119_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:9637
 translate zh_Hans hearth_storyline_120_9871350e:
@@ -19410,7 +19410,7 @@ translate zh_Hans hearth_storyline_120_a6d69fa8:
 translate zh_Hans hearth_storyline_120_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:9726
 translate zh_Hans hearth_storyline_121_02fc164d:
@@ -19628,7 +19628,7 @@ translate zh_Hans hearth_storyline_121_39cd8f0e:
 translate zh_Hans hearth_storyline_121_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:9831
 translate zh_Hans hearth_storyline_122_427a0f6c:
@@ -19780,7 +19780,7 @@ translate zh_Hans hearth_storyline_122_5f7fe95e:
 translate zh_Hans hearth_storyline_122_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:9914
 translate zh_Hans hearth_storyline_123_fbde36c6:
@@ -19968,7 +19968,7 @@ translate zh_Hans hearth_storyline_123_2ce86153:
 translate zh_Hans hearth_storyline_123_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:10013
 translate zh_Hans hearth_storyline_124_0c5cc5f4:
@@ -20114,7 +20114,7 @@ translate zh_Hans hearth_storyline_124_caace17f:
 translate zh_Hans hearth_storyline_124_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:10094
 translate zh_Hans hearth_storyline_125_5ce715db:
@@ -20266,7 +20266,7 @@ translate zh_Hans hearth_storyline_125_bc9b11dc:
 translate zh_Hans hearth_storyline_125_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:10177
 translate zh_Hans hearth_storyline_126_a4ab198a:
@@ -20418,7 +20418,7 @@ translate zh_Hans hearth_storyline_126_d04de292:
 translate zh_Hans hearth_storyline_126_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:10260
 translate zh_Hans hearth_storyline_127_fbde36c6:
@@ -20624,7 +20624,7 @@ translate zh_Hans hearth_storyline_127_b60155ac:
 translate zh_Hans hearth_storyline_127_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:10365
 translate zh_Hans hearth_storyline_128_fbde36c6:
@@ -20854,7 +20854,7 @@ translate zh_Hans hearth_storyline_128_542e706c:
 translate zh_Hans hearth_storyline_128_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:10474
 translate zh_Hans hearth_storyline_129_9871350e:
@@ -21024,7 +21024,7 @@ translate zh_Hans hearth_storyline_129_8df765cb:
 translate zh_Hans hearth_storyline_129_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:10557
 translate zh_Hans hearth_storyline_129_after_3af30d87:
@@ -21344,7 +21344,7 @@ translate zh_Hans hearth_storyline_300_02ffd108:
 translate zh_Hans hearth_storyline_300_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:10728
 translate zh_Hans hearth_storyline_301_9da2bd47:
@@ -21550,7 +21550,7 @@ translate zh_Hans hearth_storyline_301_f1a5c1ff:
 translate zh_Hans hearth_storyline_301_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:10829
 translate zh_Hans hearth_storyline_302_98599094:
@@ -21792,7 +21792,7 @@ translate zh_Hans hearth_storyline_302_d3232b68:
 translate zh_Hans hearth_storyline_302_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:10942
 translate zh_Hans hearth_storyline_303_a25b4f53:
@@ -21992,7 +21992,7 @@ translate zh_Hans hearth_storyline_303_3864f1d7:
 translate zh_Hans hearth_storyline_303_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:11041
 translate zh_Hans hearth_storyline_304_0f29a55a:
@@ -22186,7 +22186,7 @@ translate zh_Hans hearth_storyline_304_ab3ff8b9:
 translate zh_Hans hearth_storyline_304_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:11142
 translate zh_Hans hearth_storyline_305_bf667de2:
@@ -22350,7 +22350,7 @@ translate zh_Hans hearth_storyline_305_d244c943:
 translate zh_Hans hearth_storyline_305_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:11237
 translate zh_Hans hearth_storyline_306_0777b21b:
@@ -22502,7 +22502,7 @@ translate zh_Hans hearth_storyline_306_08b23ced:
 translate zh_Hans hearth_storyline_306_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:11320
 translate zh_Hans hearth_storyline_307_83ffa6ee:
@@ -22690,7 +22690,7 @@ translate zh_Hans hearth_storyline_307_37df3f9a:
 translate zh_Hans hearth_storyline_307_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:11415
 translate zh_Hans hearth_storyline_308_79e4f86a:
@@ -22920,7 +22920,7 @@ translate zh_Hans hearth_storyline_308_7d4a4074:
 translate zh_Hans hearth_storyline_308_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:11528
 translate zh_Hans hearth_storyline_309_588ebb2f:
@@ -23042,7 +23042,7 @@ translate zh_Hans hearth_storyline_309_26eb7164:
 translate zh_Hans hearth_storyline_309_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:11601
 translate zh_Hans hearth_storyline_310_f3a05ba3:
@@ -23218,7 +23218,7 @@ translate zh_Hans hearth_storyline_310_a11ee747:
 translate zh_Hans hearth_storyline_310_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:11692
 translate zh_Hans hearth_storyline_311_bbd42fd5:
@@ -23358,7 +23358,7 @@ translate zh_Hans hearth_storyline_311_d06c4f8c:
 translate zh_Hans hearth_storyline_311_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:11783
 translate zh_Hans hearth_storyline_312_785365c5:
@@ -23534,7 +23534,7 @@ translate zh_Hans hearth_storyline_312_3e604c3e:
 translate zh_Hans hearth_storyline_312_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:11874
 translate zh_Hans hearth_storyline_313_fbde36c6:
@@ -23692,7 +23692,7 @@ translate zh_Hans hearth_storyline_313_5bcd6223:
 translate zh_Hans hearth_storyline_313_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:11959
 translate zh_Hans hearth_storyline_314_c25fdbd0:
@@ -23922,7 +23922,7 @@ translate zh_Hans hearth_storyline_314_7eaec764:
 translate zh_Hans hearth_storyline_314_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:12072
 translate zh_Hans hearth_storyline_315_3cd7b0f2:
@@ -24122,7 +24122,7 @@ translate zh_Hans hearth_storyline_315_bfbe3d15:
 translate zh_Hans hearth_storyline_315_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/hearth_storyline.rpy:12165
 translate zh_Hans hearth_storyline_315_after_316dc97d:

@@ -114,7 +114,7 @@ translate zh_Hans femdom_storyline_0_6b8b4056:
 translate zh_Hans femdom_storyline_0_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:398
 translate zh_Hans femdom_storyline_1_e81d4df4:
@@ -218,7 +218,7 @@ translate zh_Hans femdom_storyline_1_ceb89e5f:
 translate zh_Hans femdom_storyline_1_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:463
 translate zh_Hans femdom_storyline_2_3f42c9e0:
@@ -562,7 +562,7 @@ translate zh_Hans femdom_storyline_2_bf4912e3:
 translate zh_Hans femdom_storyline_2_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:608
 translate zh_Hans femdom_storyline_3_0f8693a5:
@@ -654,7 +654,7 @@ translate zh_Hans femdom_storyline_3_721c9703:
 translate zh_Hans femdom_storyline_3_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:665
 translate zh_Hans femdom_storyline_3_after_e6ef9fde:
@@ -666,19 +666,19 @@ translate zh_Hans femdom_storyline_3_after_e6ef9fde:
 translate zh_Hans femdom_storyline_3_after_c5c9cbd7:
 
     # mc "{i}What does she want to talk to her about?"
-    mc "{i}What does she want to talk to her about?|{i}她们在聊什么？"
+    mc "{i}她们在聊什么？"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:669
 translate zh_Hans femdom_storyline_3_after_849f6619:
 
     # mc "{i}I hope it's not about the app"
-    mc "{i}I hope it's not about the app|{i}我希望这跟那个应用无关。"
+    mc "{i}我希望这跟那个应用无关。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:671
 translate zh_Hans femdom_storyline_3_after_0a271e3d:
 
     # mc "{i}Although no, she probably wouldn't tell her about that"
-    mc "{i}Although no, she probably wouldn't tell her about that|{i}不过，不，她大概不会告诉她这件事的。"
+    mc "{i}不过，不，她大概不会告诉她这件事的。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:673
 translate zh_Hans femdom_storyline_3_after_a04ce5ad:
@@ -690,13 +690,13 @@ translate zh_Hans femdom_storyline_3_after_a04ce5ad:
 translate zh_Hans femdom_storyline_3_after_0ad4fefb:
 
     # mc "{i}I'll need to talk to [wife_name_is] later"
-    mc "{i}I'll need to talk to [wife_name_is] later|{i}我需要和凯茜谈谈。"
+    mc "{i}我需要和凯茜谈谈。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:677
 translate zh_Hans femdom_storyline_3_after_b83791d1:
 
     # mc "{i}Maybe she'll tell me everything if I ask"
-    mc "{i}Maybe she'll tell me everything if I ask|{i}如果我问她，也许她会把一切都告诉我。"
+    mc "{i}如果我问她，也许她会把一切都告诉我。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:696
 translate zh_Hans femdom_storyline_4_972b43dd:
@@ -842,7 +842,7 @@ translate zh_Hans femdom_storyline_4_2b991cbc:
 translate zh_Hans femdom_storyline_4_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:779
 translate zh_Hans femdom_storyline_5_76b2fe88:
@@ -1076,7 +1076,7 @@ translate zh_Hans femdom_storyline_5_3ee53462:
 translate zh_Hans femdom_storyline_5_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:890
 translate zh_Hans femdom_storyline_6_bdb0711a:
@@ -1294,7 +1294,7 @@ translate zh_Hans femdom_storyline_6_2b991cbc:
 translate zh_Hans femdom_storyline_6_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:1005
 translate zh_Hans femdom_storyline_7_65286f22:
@@ -1602,7 +1602,7 @@ translate zh_Hans femdom_storyline_7_1349c2e9:
 translate zh_Hans femdom_storyline_7_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:1140
 translate zh_Hans femdom_storyline_8_fd198d81:
@@ -1826,7 +1826,7 @@ translate zh_Hans femdom_storyline_8_5e8c71d2:
 translate zh_Hans femdom_storyline_8_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:1249
 translate zh_Hans femdom_storyline_9_81873f59:
@@ -2098,7 +2098,7 @@ translate zh_Hans femdom_storyline_9_e3097006:
 translate zh_Hans femdom_storyline_9_55717b65:
 
     # nvljohn "Goodbye, [wsis_name_is]"
-    nvljohn "Goodbye, [wsis_name_is]|再见，[wsis_name_is]"
+    nvljohn "再见，[wsis_name_is]"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:1349
 translate zh_Hans femdom_storyline_9_b6688c9e:
@@ -2116,7 +2116,7 @@ translate zh_Hans femdom_storyline_9_adca4838:
 translate zh_Hans femdom_storyline_9_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:1386
 translate zh_Hans femdom_storyline_10_822b109e:
@@ -2172,7 +2172,7 @@ translate zh_Hans femdom_storyline_10_b1e0afa2:
 translate zh_Hans femdom_storyline_10_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:1437
 translate zh_Hans femdom_storyline_11_a61994fb:
@@ -2510,7 +2510,7 @@ translate zh_Hans femdom_storyline_11_e566dfbc:
 translate zh_Hans femdom_storyline_11_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:1582
 translate zh_Hans femdom_storyline_12_82869d01:
@@ -2608,49 +2608,49 @@ translate zh_Hans femdom_storyline_12_6c5de749:
 translate zh_Hans femdom_storyline_12_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:1643
 translate zh_Hans femdom_storyline_12_after_c63cd6ed:
 
     # mc "{i}What are they talking about?"
-    mc "{i}What are they talking about?|{i}她们在聊什么？"
+    mc "{i}她们在聊什么？"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:1645
 translate zh_Hans femdom_storyline_12_after_f5371b53:
 
     # mc "{i}What application?"
-    mc "{i}What application?|{i}什么应用？"
+    mc "{i}什么应用？"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:1647
 translate zh_Hans femdom_storyline_12_after_f3a780ac:
 
     # mc "{i}What did my wife agree to?"
-    mc "{i}What did my wife agree to?|{i}凯茜答应了什么？"
+    mc "{i}凯茜答应了什么？"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:1649
 translate zh_Hans femdom_storyline_12_after_bb87cb2d:
 
     # mc "{i}None of this makes any sense"
-    mc "{i}None of this makes any sense|{i}这一切都毫无道理。"
+    mc "{i}这一切都毫无道理。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:1651
 translate zh_Hans femdom_storyline_12_after_1adeda65:
 
     # mc "{i}She hasn't told me anything"
-    mc "{i}She hasn't told me anything|{i}她什么都没告诉我。"
+    mc "{i}她什么都没告诉我。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:1653
 translate zh_Hans femdom_storyline_12_after_65879116:
 
     # mc "{i}Though, maybe she will"
-    mc "{i}Though, maybe she will|{i}不过，也许她会。"
+    mc "{i}不过，也许她会。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:1655
 translate zh_Hans femdom_storyline_12_after_c49c6366:
 
     # mc "{i}I'll wait"
-    mc "{i}I'll wait|{i}我会等。"
+    mc "{i}我会等。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:1674
 translate zh_Hans femdom_storyline_13_2b1318ec:
@@ -2658,7 +2658,7 @@ translate zh_Hans femdom_storyline_13_2b1318ec:
     # nvl clear
     # nvlwife "[wsis_name_is] told me about the video you shot"
     nvl clear
-    nvlwife "[wsis_name_is] told me about the video you shot|[wsis_name_is]跟我说了你拍的那个视频。"
+    nvlwife "[wsis_name_is]跟我说了你拍的那个视频。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:1678
 translate zh_Hans femdom_storyline_13_6f68af32:
@@ -3174,7 +3174,7 @@ translate zh_Hans femdom_storyline_13_b8302d74:
 translate zh_Hans femdom_storyline_13_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:1883
 translate zh_Hans femdom_storyline_14_c5a15556:
@@ -3488,7 +3488,7 @@ translate zh_Hans femdom_storyline_14_4cd6920c:
 translate zh_Hans femdom_storyline_14_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:2018
 translate zh_Hans femdom_storyline_15_9ae601da:
@@ -3616,7 +3616,7 @@ translate zh_Hans femdom_storyline_15_303ca01f:
 translate zh_Hans femdom_storyline_15_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:2097
 translate zh_Hans femdom_storyline_16_f53b4a5d:
@@ -3798,7 +3798,7 @@ translate zh_Hans femdom_storyline_16_72f47599:
 translate zh_Hans femdom_storyline_16_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:2188
 translate zh_Hans femdom_storyline_17_90d3341f:
@@ -3878,7 +3878,7 @@ translate zh_Hans femdom_storyline_17_153baaa3:
 translate zh_Hans femdom_storyline_17_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:2245
 translate zh_Hans femdom_storyline_18_2b72caa1:
@@ -4126,7 +4126,7 @@ translate zh_Hans femdom_storyline_18_468ca3d4:
 translate zh_Hans femdom_storyline_18_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:2364
 translate zh_Hans femdom_storyline_19_9ae601da:
@@ -4308,7 +4308,7 @@ translate zh_Hans femdom_storyline_19_e171f336:
 translate zh_Hans femdom_storyline_19_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:2453
 translate zh_Hans femdom_storyline_20_d7e0b426:
@@ -4460,7 +4460,7 @@ translate zh_Hans femdom_storyline_20_ab01cec9:
 translate zh_Hans femdom_storyline_20_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:2534
 translate zh_Hans femdom_storyline_21_3bd92ee6:
@@ -4606,7 +4606,7 @@ translate zh_Hans femdom_storyline_21_5e8c71d2:
 translate zh_Hans femdom_storyline_21_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:2611
 translate zh_Hans femdom_storyline_21_after_3f7f36f1:
@@ -5082,7 +5082,7 @@ translate zh_Hans femdom_storyline_22_52892467:
 translate zh_Hans femdom_storyline_22_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:2823
 translate zh_Hans femdom_storyline_23_d676b96a:
@@ -5306,7 +5306,7 @@ translate zh_Hans femdom_storyline_23_4cd6920c:
 translate zh_Hans femdom_storyline_23_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:2925
 translate zh_Hans femdom_storyline_23_after_dcaad5ad:
@@ -5878,7 +5878,7 @@ translate zh_Hans femdom_storyline_24_d62b0e52:
 translate zh_Hans femdom_storyline_24_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:3163
 translate zh_Hans femdom_storyline_25_afd7ed54:
@@ -6012,7 +6012,7 @@ translate zh_Hans femdom_storyline_25_c3b59caf:
 translate zh_Hans femdom_storyline_25_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:3238
 translate zh_Hans femdom_storyline_26_d8db2d2e:
@@ -6056,7 +6056,7 @@ translate zh_Hans femdom_storyline_26_4a26bd94:
 translate zh_Hans femdom_storyline_26_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:3283
 translate zh_Hans femdom_storyline_27_2e1c7599:
@@ -6802,7 +6802,7 @@ translate zh_Hans femdom_storyline_27_ae0889b6:
 translate zh_Hans femdom_storyline_27_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:3568
 translate zh_Hans femdom_storyline_28_826976ed:
@@ -7116,7 +7116,7 @@ translate zh_Hans femdom_storyline_28_e188cf62:
 translate zh_Hans femdom_storyline_28_4cdedef9:
 
     # nvljenna "I promise 😉"
-    nvljenna "I promise 😉|我保证 😉"
+    nvljenna "我保证 😉"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:3686
 translate zh_Hans femdom_storyline_28_e5ebf159:
@@ -7176,7 +7176,7 @@ translate zh_Hans femdom_storyline_28_52892467:
 translate zh_Hans femdom_storyline_28_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:3735
 translate zh_Hans femdom_storyline_29_9ae601da:
@@ -7556,7 +7556,7 @@ translate zh_Hans femdom_storyline_29_f7dc840a:
 translate zh_Hans femdom_storyline_29_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:3898
 translate zh_Hans femdom_storyline_30_bd999a4c:
@@ -7828,7 +7828,7 @@ translate zh_Hans femdom_storyline_30_521c7406:
 translate zh_Hans femdom_storyline_30_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:4021
 translate zh_Hans femdom_storyline_31_bd999a4c:
@@ -8088,7 +8088,7 @@ translate zh_Hans femdom_storyline_31_a7b36572:
 translate zh_Hans femdom_storyline_31_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:4138
 translate zh_Hans femdom_storyline_32_2bc6066d:
@@ -8396,7 +8396,7 @@ translate zh_Hans femdom_storyline_32_2059e300:
 translate zh_Hans femdom_storyline_32_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:4277
 translate zh_Hans femdom_storyline_33_ccd5c50a:
@@ -8902,7 +8902,7 @@ translate zh_Hans femdom_storyline_33_483662d3:
 translate zh_Hans femdom_storyline_33_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:4478
 translate zh_Hans femdom_storyline_34_3c3cc5b2:
@@ -9324,7 +9324,7 @@ translate zh_Hans femdom_storyline_34_856f955c:
 translate zh_Hans femdom_storyline_34_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:4651
 translate zh_Hans femdom_storyline_35_37cdddc5:
@@ -9722,7 +9722,7 @@ translate zh_Hans femdom_storyline_35_cc89d3c1:
 translate zh_Hans femdom_storyline_35_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:4818
 translate zh_Hans femdom_storyline_36_aad50def:
@@ -9874,7 +9874,7 @@ translate zh_Hans femdom_storyline_36_0a9df29d:
 translate zh_Hans femdom_storyline_36_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:4905
 translate zh_Hans femdom_storyline_37_76b2fe88:
@@ -10150,7 +10150,7 @@ translate zh_Hans femdom_storyline_37_c09fbb60:
 translate zh_Hans femdom_storyline_37_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:5032
 translate zh_Hans femdom_storyline_38_76b2fe88:
@@ -10450,7 +10450,7 @@ translate zh_Hans femdom_storyline_38_5cf866ec:
 translate zh_Hans femdom_storyline_38_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:5171
 translate zh_Hans femdom_storyline_39_b35d72ad:
@@ -10518,7 +10518,7 @@ translate zh_Hans femdom_storyline_39_cc1941fc:
 translate zh_Hans femdom_storyline_39_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:5222
 translate zh_Hans femdom_storyline_40_3f296fed:
@@ -10730,7 +10730,7 @@ translate zh_Hans femdom_storyline_40_fbc8fe60:
 translate zh_Hans femdom_storyline_40_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:5303
 translate zh_Hans femdom_storyline_40_0ceef281:
@@ -11062,7 +11062,7 @@ translate zh_Hans femdom_storyline_40_2cbf5ced:
 translate zh_Hans femdom_storyline_40_53c71d7c_1:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:5450
 translate zh_Hans femdom_storyline_40_c1fb20a9:
@@ -11262,7 +11262,7 @@ translate zh_Hans femdom_storyline_40_2cbf5ced_1:
 translate zh_Hans femdom_storyline_40_53c71d7c_2:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:5538
 translate zh_Hans femdom_storyline_40_1e23e6e4:
@@ -11492,7 +11492,7 @@ translate zh_Hans femdom_storyline_40_aa4d2e7d:
 translate zh_Hans femdom_storyline_40_53c71d7c_3:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:5652
 translate zh_Hans femdom_storyline_40_240eb01e:
@@ -11764,7 +11764,7 @@ translate zh_Hans femdom_storyline_40_521c7406:
 translate zh_Hans femdom_storyline_40_53c71d7c_4:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:5775
 translate zh_Hans femdom_storyline_40_a04ce5ad:
@@ -12180,7 +12180,7 @@ translate zh_Hans femdom_storyline_40_2b991cbc:
 translate zh_Hans femdom_storyline_40_53c71d7c_5:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:5947
 translate zh_Hans femdom_storyline_40_9eb9cdf8:
@@ -12428,7 +12428,7 @@ translate zh_Hans femdom_storyline_40_51fab546:
 translate zh_Hans femdom_storyline_40_53c71d7c_6:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:6051
 translate zh_Hans femdom_storyline_40_6103ae58:
@@ -12814,7 +12814,7 @@ translate zh_Hans femdom_storyline_40_521c7406_2:
 translate zh_Hans femdom_storyline_40_53c71d7c_7:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:6244
 translate zh_Hans femdom_storyline_40_fc003584:
@@ -13056,7 +13056,7 @@ translate zh_Hans femdom_storyline_40_6d0669e9:
 translate zh_Hans femdom_storyline_40_3cccd9d9:
 
     # nvljulia "Thanks ❤️"
-    nvljulia "Thanks ❤️|谢谢❤️"
+    nvljulia "谢谢❤️"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:6356
 translate zh_Hans femdom_storyline_40_22fe142d:
@@ -13128,7 +13128,7 @@ translate zh_Hans femdom_storyline_40_eb7e4f5a_2:
 translate zh_Hans femdom_storyline_40_53c71d7c_8:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:6391
 translate zh_Hans femdom_storyline_40_dbcf4271:
@@ -13616,7 +13616,7 @@ translate zh_Hans femdom_storyline_40_79c2b361:
 translate zh_Hans femdom_storyline_40_14635a7d:
 
     # nvlwife "Thanks ❤️"
-    nvlwife "Thanks ❤️|谢谢❤️"
+    nvlwife "谢谢❤️"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:6570
 translate zh_Hans femdom_storyline_40_2d611bf6:
@@ -13946,7 +13946,7 @@ translate zh_Hans femdom_storyline_40_2059e300:
 translate zh_Hans femdom_storyline_40_53c71d7c_9:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:6685
 translate zh_Hans femdom_storyline_40_a04ce5ad_4:
@@ -14048,7 +14048,7 @@ translate zh_Hans femdom_storyline_40_77cf603e:
 translate zh_Hans femdom_storyline_40_9c960196:
 
     # mc "{i}And now..."
-    mc "{i}And now...|{i}而现在……"
+    mc "{i}而现在……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:6719
 translate zh_Hans femdom_storyline_40_fbc746ec:
@@ -14170,7 +14170,7 @@ translate zh_Hans femdom_storyline_40_eb7e4f5a_3:
 translate zh_Hans femdom_storyline_40_53c71d7c_10:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:6781
 translate zh_Hans femdom_storyline_40_4e1742bb:
@@ -14406,7 +14406,7 @@ translate zh_Hans femdom_storyline_40_52892467:
 translate zh_Hans femdom_storyline_40_53c71d7c_11:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:6882
 translate zh_Hans femdom_storyline_40_a436e309:
@@ -14630,7 +14630,7 @@ translate zh_Hans femdom_storyline_40_5f2f5da2:
 translate zh_Hans femdom_storyline_40_53c71d7c_12:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:6994
 translate zh_Hans femdom_storyline_40_fbe16d5f:
@@ -14974,7 +14974,7 @@ translate zh_Hans femdom_storyline_40_4838bf16:
 translate zh_Hans femdom_storyline_40_53c71d7c_13:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:7135
 translate zh_Hans femdom_storyline_40_cb04294c:
@@ -15126,7 +15126,7 @@ translate zh_Hans femdom_storyline_40_f7cd64e9:
 translate zh_Hans femdom_storyline_40_53c71d7c_14:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:7223
 translate zh_Hans femdom_storyline_40_e96e6399:
@@ -15332,7 +15332,7 @@ translate zh_Hans femdom_storyline_40_ddde9bbf:
 translate zh_Hans femdom_storyline_40_53c71d7c_15:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:7329
 translate zh_Hans femdom_storyline_40_33b788e8:
@@ -15418,7 +15418,7 @@ translate zh_Hans femdom_storyline_40_2cbf5ced_3:
 translate zh_Hans femdom_storyline_40_53c71d7c_16:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:7371
 translate zh_Hans femdom_storyline_40_19ab29c4:
@@ -15480,7 +15480,7 @@ translate zh_Hans femdom_storyline_40_702bb493:
 translate zh_Hans femdom_storyline_40_53c71d7c_17:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:7419
 translate zh_Hans femdom_storyline_40_1039c2fa:
@@ -15534,7 +15534,7 @@ translate zh_Hans femdom_storyline_40_a04ce5ad_8:
 translate zh_Hans femdom_storyline_40_255024b9:
 
     # mc "{i}Damn!"
-    mc "{i}Damn!|{i}该死！"
+    mc "{i}该死！"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:7437
 translate zh_Hans femdom_storyline_40_ced26fee:
@@ -15606,7 +15606,7 @@ translate zh_Hans femdom_storyline_40_a88ef3f5:
 translate zh_Hans femdom_storyline_40_255024b9_1:
 
     # mc "{i}Damn!"
-    mc "{i}Damn!|{i}该死！"
+    mc "{i}该死！"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:7476
 translate zh_Hans femdom_storyline_40_7498dcf1:
@@ -15980,7 +15980,7 @@ translate zh_Hans femdom_storyline_40_2cbf5ced_4:
 translate zh_Hans femdom_storyline_40_53c71d7c_18:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:7614
 translate zh_Hans femdom_storyline_40_f46791a3:
@@ -16654,7 +16654,7 @@ translate zh_Hans femdom_storyline_40_7a5dae9d:
 translate zh_Hans femdom_storyline_40_53c71d7c_19:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:7874
 translate zh_Hans femdom_storyline_40_a56db73d:
@@ -16956,7 +16956,7 @@ translate zh_Hans femdom_storyline_40_856f955c:
 translate zh_Hans femdom_storyline_40_53c71d7c_20:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:8027
 translate zh_Hans femdom_storyline_40_24d1dadf:
@@ -17186,7 +17186,7 @@ translate zh_Hans femdom_storyline_40_536a2968:
 translate zh_Hans femdom_storyline_40_53c71d7c_21:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:8126
 translate zh_Hans femdom_storyline_40_9e475c9a:
@@ -17350,7 +17350,7 @@ translate zh_Hans femdom_storyline_40_2da5edb1:
 translate zh_Hans femdom_storyline_40_53c71d7c_22:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:8218
 translate zh_Hans femdom_storyline_40_170e0788:
@@ -17874,7 +17874,7 @@ translate zh_Hans femdom_storyline_40_4f0338e6:
 translate zh_Hans femdom_storyline_40_53c71d7c_23:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:8446
 translate zh_Hans femdom_storyline_40_3d5f46c9:
@@ -18062,7 +18062,7 @@ translate zh_Hans femdom_storyline_40_e6bde926:
 translate zh_Hans femdom_storyline_40_53c71d7c_24:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:8546
 translate zh_Hans femdom_storyline_40_a8170d09:
@@ -18472,7 +18472,7 @@ translate zh_Hans femdom_storyline_40_7f6e7106_1:
 translate zh_Hans femdom_storyline_40_53c71d7c_25:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:8713
 translate zh_Hans femdom_storyline_40_552e7cf0:
@@ -18840,13 +18840,13 @@ translate zh_Hans femdom_storyline_40_adf84c43:
 translate zh_Hans femdom_storyline_40_78b82605:
 
     # nvlwsis "Thanks ❤️"
-    nvlwsis "Thanks ❤️|谢谢❤️"
+    nvlwsis "谢谢❤️"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:8872
 translate zh_Hans femdom_storyline_40_53c71d7c_26:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:8879
 translate zh_Hans femdom_storyline_40_c30f12c3:
@@ -19604,7 +19604,7 @@ translate zh_Hans femdom_storyline_40_be1bfcba:
 translate zh_Hans femdom_storyline_40_da475e50:
 
     # nvlwife "I promise 😉"
-    nvlwife "I promise 😉|我保证 😉"
+    nvlwife "我保证 😉"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:9157
 translate zh_Hans femdom_storyline_40_89e0776c:
@@ -19868,7 +19868,7 @@ translate zh_Hans femdom_storyline_40_4cd6920c_1:
 translate zh_Hans femdom_storyline_40_53c71d7c_27:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:9250
 translate zh_Hans femdom_storyline_40_8ca16775:
@@ -20086,7 +20086,7 @@ translate zh_Hans femdom_storyline_40_6900ce6d:
 translate zh_Hans femdom_storyline_40_53c71d7c_28:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:9360
 translate zh_Hans femdom_storyline_40_c9ec7fe5:
@@ -20340,7 +20340,7 @@ translate zh_Hans femdom_storyline_40_80a6267c:
 translate zh_Hans femdom_storyline_40_aecfdda3:
 
     # nvlwife "I'm already starting to feel aroused 😊"
-    nvlwife "XTAG0X我已经开始感到骚动了呢😊"
+    nvlwife "我已经开始感到骚动了呢😊"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:9481
 translate zh_Hans femdom_storyline_40_fdb80bcf:
@@ -20550,7 +20550,7 @@ translate zh_Hans femdom_storyline_40_a84548f3:
 translate zh_Hans femdom_storyline_40_53c71d7c_29:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:9560
 translate zh_Hans femdom_storyline_40_e6ef9fde:
@@ -20882,7 +20882,7 @@ translate zh_Hans femdom_storyline_40_e032e119:
 translate zh_Hans femdom_storyline_40_53c71d7c_30:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:9699
 translate zh_Hans femdom_storyline_40_d1363117:
@@ -21274,7 +21274,7 @@ translate zh_Hans femdom_storyline_40_7a5dae9d_1:
 translate zh_Hans femdom_storyline_40_53c71d7c_31:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:9856
 translate zh_Hans femdom_storyline_40_a04ce5ad_24:
@@ -21760,7 +21760,7 @@ translate zh_Hans femdom_storyline_40_16e5e245:
 translate zh_Hans femdom_storyline_40_53c71d7c_32:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:10056
 translate zh_Hans femdom_storyline_40_c2f545d1:
@@ -22038,7 +22038,7 @@ translate zh_Hans femdom_storyline_40_5a4bf58d:
 translate zh_Hans femdom_storyline_40_53c71d7c_33:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:10166
 translate zh_Hans femdom_storyline_40_ee7669a2:
@@ -22376,7 +22376,7 @@ translate zh_Hans femdom_storyline_40_521c7406_10:
 translate zh_Hans femdom_storyline_40_53c71d7c_34:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:10305
 translate zh_Hans femdom_storyline_40_9f479055:
@@ -22960,7 +22960,7 @@ translate zh_Hans femdom_storyline_40_2b991cbc_3:
 translate zh_Hans femdom_storyline_40_53c71d7c_35:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:10546
 translate zh_Hans femdom_storyline_40_fba7efd7:
@@ -23190,7 +23190,7 @@ translate zh_Hans femdom_storyline_40_5d906ff1:
 translate zh_Hans femdom_storyline_40_53c71d7c_36:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:10645
 translate zh_Hans femdom_storyline_40_aab27f44:
@@ -23510,7 +23510,7 @@ translate zh_Hans femdom_storyline_40_7ba14d59:
 translate zh_Hans femdom_storyline_40_53c71d7c_37:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:10794
 translate zh_Hans femdom_storyline_40_46ada31b:
@@ -23770,7 +23770,7 @@ translate zh_Hans femdom_storyline_40_521c7406_12:
 translate zh_Hans femdom_storyline_40_53c71d7c_38:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:10918
 translate zh_Hans femdom_storyline_40_9aa1968d:
@@ -24300,7 +24300,7 @@ translate zh_Hans femdom_storyline_40_72567ba1_2:
 translate zh_Hans femdom_storyline_40_53c71d7c_39:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:11132
 translate zh_Hans femdom_storyline_40_d26832cb:
@@ -24662,7 +24662,7 @@ translate zh_Hans femdom_storyline_40_b42eefa4:
 translate zh_Hans femdom_storyline_40_53c71d7c_40:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:11270
 translate zh_Hans femdom_storyline_40_a04ce5ad_32:
@@ -25126,7 +25126,7 @@ translate zh_Hans femdom_storyline_40_bfb2eb64:
 translate zh_Hans femdom_storyline_40_53c71d7c_41:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:11455
 translate zh_Hans femdom_storyline_40_b4763108:
@@ -25236,7 +25236,7 @@ translate zh_Hans femdom_storyline_40_1feb1ccb_1:
 translate zh_Hans femdom_storyline_40_53c71d7c_42:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:11514
 translate zh_Hans femdom_storyline_40_ce44933e:
@@ -25424,7 +25424,7 @@ translate zh_Hans femdom_storyline_40_46c59772:
 translate zh_Hans femdom_storyline_40_3cccd9d9_1:
 
     # nvljulia "Thanks ❤️"
-    nvljulia "Thanks ❤️|谢谢❤️"
+    nvljulia "谢谢❤️"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:11611
 translate zh_Hans femdom_storyline_40_da4907e8:
@@ -25628,7 +25628,7 @@ translate zh_Hans femdom_storyline_40_b0bd777e:
 translate zh_Hans femdom_storyline_40_53c71d7c_43:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:11688
 translate zh_Hans femdom_storyline_40_c0b19c8b:
@@ -25804,7 +25804,7 @@ translate zh_Hans femdom_storyline_40_c787167d:
 translate zh_Hans femdom_storyline_40_53c71d7c_44:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:11769
 translate zh_Hans femdom_storyline_40_29a20311:
@@ -26004,7 +26004,7 @@ translate zh_Hans femdom_storyline_40_c3a463c3:
 translate zh_Hans femdom_storyline_40_53c71d7c_45:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:11867
 translate zh_Hans femdom_storyline_40_6c44c15e:
@@ -26070,67 +26070,67 @@ translate zh_Hans femdom_storyline_40_f643dde0:
 translate zh_Hans femdom_storyline_40_cba8f854:
 
     # mc "{i}I can't seem to fall asleep"
-    mc "{i}I can't seem to fall asleep|我他妈怎么都睡不着。"
+    mc "我他妈怎么都睡不着。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:11905
 translate zh_Hans femdom_storyline_40_bc1d7db6:
 
     # mc "{i}I keep thinking about tomorrow"
-    mc "{i}I keep thinking about tomorrow|我脑子里全是明天的事。"
+    mc "我脑子里全是明天的事。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:11907
 translate zh_Hans femdom_storyline_40_dc55645d:
 
     # mc "{i}About meeting [wife_name_is] at the airport"
-    mc "{i}About meeting [wife_name_is] at the airport|想着在机场见到凯茜。"
+    mc "想着在机场见到凯茜。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:11909
 translate zh_Hans femdom_storyline_40_38878961:
 
     # mc "{i}About hugging her"
-    mc "{i}About hugging her|想着能抱紧她。"
+    mc "想着能抱紧她。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:11911
 translate zh_Hans femdom_storyline_40_abe70c57:
 
     # mc "{i}I've missed her so much"
-    mc "{i}I've missed her so much|我他妈太想她了。"
+    mc "我他妈太想她了。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:11913
 translate zh_Hans femdom_storyline_40_9c52e573:
 
     # mc "{i}I'm never letting her go away for so long again"
-    mc "{i}I'm never letting her go away for so long again|我再也不会让她离开我这么久了。"
+    mc "我再也不会让她离开我这么久了。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:11922
 translate zh_Hans femdom_storyline_40_96380705:
 
     # mc "{i}A message?"
-    mc "{i}A message?|有消息？"
+    mc "有消息？"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:11924
 translate zh_Hans femdom_storyline_40_5fe576a8:
 
     # mc "{i}Who's texting me this late?"
-    mc "{i}Who's texting me this late?|这么晚了，谁他妈给我发信息？"
+    mc "这么晚了，谁他妈给我发信息？"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:11926
 translate zh_Hans femdom_storyline_40_17512684:
 
     # mc "{i}Although, it's probably [wife_name_is]"
-    mc "{i}Although, it's probably [wife_name_is]|不过，多半是凯茜那小妖精。"
+    mc "不过，多半是凯茜那小妖精。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:11928
 translate zh_Hans femdom_storyline_40_f67b7010:
 
     # mc "{i}The party's probably finished, and she's decided to message me"
-    mc "{i}The party's probably finished, and she's decided to message me|派对大概散了，她才想起给我发信息。"
+    mc "派对大概散了，她才想起给我发信息。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:11930
 translate zh_Hans femdom_storyline_40_6e2ed3f2:
 
     # mc "{i}Gotta check"
-    mc "{i}Gotta check|得看看。"
+    mc "得看看。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:11939
 translate zh_Hans femdom_storyline_40_0044f57f:
@@ -26156,7 +26156,7 @@ translate zh_Hans femdom_storyline_40_44aff60b:
 translate zh_Hans femdom_storyline_40_925b0259:
 
     # nvlwsis "I'll be home soon 😊"
-    nvlwsis "I'll be home soon 😊|我很快就到家了哦~😊"
+    nvlwsis "我很快就到家了哦~😊"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:11951
 translate zh_Hans femdom_storyline_40_92dfe324:
@@ -26366,19 +26366,19 @@ translate zh_Hans femdom_storyline_40_8168e364_2:
 translate zh_Hans femdom_storyline_40_53c71d7c_46:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12034
 translate zh_Hans femdom_storyline_40_d8231054:
 
     # mc "{i}Why did I get so turned on when she mentioned cunnilingus?"
-    mc "{i}Why did I get so turned on when she mentioned cunnilingus?|她一提到舔穴，我怎么就他妈硬了？"
+    mc "她一提到舔穴，我怎么就他妈硬了？"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12036
 translate zh_Hans femdom_storyline_40_bffb8318:
 
     # mc "{i}Is this really something that excites me that much?"
-    mc "{i}Is this really something that excites me that much?|这玩意儿真能让我兴奋成这样？"
+    mc "这玩意儿真能让我兴奋成这样？"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12038
 translate zh_Hans femdom_storyline_40_a04ce5ad_37:
@@ -26390,151 +26390,151 @@ translate zh_Hans femdom_storyline_40_a04ce5ad_37:
 translate zh_Hans femdom_storyline_40_bcd19ea4:
 
     # mc "{i}I need to fight this"
-    mc "{i}I need to fight this|我必须他妈的克制住。"
+    mc "我必须他妈的克制住。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12042
 translate zh_Hans femdom_storyline_40_ee7206cf:
 
     # mc "{i}I feel like this isn't quite right"
-    mc "{i}I feel like this isn't quite right|我感觉这他妈不对劲。"
+    mc "我感觉这他妈不对劲。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12044
 translate zh_Hans femdom_storyline_40_98d91285:
 
     # mc "{i}It shouldn't be this way"
-    mc "{i}It shouldn't be this way|不该是这样的。"
+    mc "不该是这样的。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12046
 translate zh_Hans femdom_storyline_40_4f837e51:
 
     # mc "{i}I'll need to think about all this and figure out how to rid myself of this silly obsession"
-    mc "{i}I'll need to think about all this and figure out how to rid myself of this silly obsession|我得好好想想这一切，然后他妈的摆脱掉这种愚蠢的痴迷。"
+    mc "我得好好想想这一切，然后他妈的摆脱掉这种愚蠢的痴迷。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12048
 translate zh_Hans femdom_storyline_40_603a9cc1:
 
     # mc "{i}But that's for later"
-    mc "{i}But that's for later|但那是之后的事了。"
+    mc "但那是之后的事了。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12050
 translate zh_Hans femdom_storyline_40_f9168d27:
 
     # mc "{i}Right now, I need to go meet [wsis_name_is]"
-    mc "{i}Right now, I need to go meet [wsis_name_is]|现在，我得去见珍娜。"
+    mc "现在，我得去见珍娜。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12069
 translate zh_Hans femdom_storyline_40_73bbf811:
 
     # mc "{i}Morning..."
-    mc "{i}Morning...|早上好……"
+    mc "早上好……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12071
 translate zh_Hans femdom_storyline_40_671f9216:
 
     # mc "{i}Finally"
-    mc "{i}Finally|终于。"
+    mc "终于。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12073
 translate zh_Hans femdom_storyline_40_7b41a109:
 
     # mc "{i}Finally, the morning has come"
-    mc "{i}Finally, the morning has come|终于，天亮了。"
+    mc "终于，天亮了。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12075
 translate zh_Hans femdom_storyline_40_17c26995:
 
     # mc "{i}Just a little longer, and [wife_name_is] will be home"
-    mc "{i}Just a little longer, and [wife_name_is] will be home|再过一会儿，凯茜就要回家了。"
+    mc "再过一会儿，凯茜就要回家了。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12077
 translate zh_Hans femdom_storyline_40_fc8726f2:
 
     # mc "{i}Not long now. She'll be here soon"
-    mc "{i}Not long now. She'll be here soon|没多久了。她很快就到。"
+    mc "没多久了。她很快就到。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12079
 translate zh_Hans femdom_storyline_40_f395267d:
 
     # mc "{i}Her flight arrives at 11 AM"
-    mc "{i}Her flight arrives at 11 AM|她的航班上午11点到。"
+    mc "她的航班上午11点到。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12081
 translate zh_Hans femdom_storyline_40_2232313f:
 
     # mc "{i}Still need to get to the airport"
-    mc "{i}Still need to get to the airport|还得去机场呢。"
+    mc "还得去机场呢。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12083
 translate zh_Hans femdom_storyline_40_7b6fef9c:
 
     # mc "{i}I think I'll need to leave in about an hour"
-    mc "{i}I think I'll need to leave in about an hour|我想我大概一个小时后就得出发了。"
+    mc "我想我大概一个小时后就得出发了。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12085
 translate zh_Hans femdom_storyline_40_e1c3b52b:
 
     # mc "{i}Which means I don't have much time to get ready and have breakfast"
-    mc "{i}Which means I don't have much time to get ready and have breakfast|这意味着我没多少时间准备和吃早餐了。"
+    mc "这意味着我没多少时间准备和吃早餐了。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12087
 translate zh_Hans femdom_storyline_40_ed1f2fc1:
 
     # mc "{i}I wonder if [wsis_name_is] is awake yet"
-    mc "{i}I wonder if [wsis_name_is] is awake yet|不知道珍娜醒了没。"
+    mc "不知道珍娜醒了没。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12089
 translate zh_Hans femdom_storyline_40_2e77532d:
 
     # mc "{i}After last night..."
-    mc "{i}After last night...|昨晚之后……"
+    mc "昨晚之后……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12091
 translate zh_Hans femdom_storyline_40_b0a4d580:
 
     # mc "{i}I just couldn't hold back"
-    mc "{i}I just couldn't hold back|我他妈就是忍不住。"
+    mc "我他妈就是忍不住。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12093
 translate zh_Hans femdom_storyline_40_2e18e6e8:
 
     # mc "{i}Her pussy..."
-    mc "{i}Her pussy...|她的骚穴……"
+    mc "她的骚穴……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12095
 translate zh_Hans femdom_storyline_40_45844792:
 
     # mc "{i}Why do I enjoy this so much?"
-    mc "{i}Why do I enjoy this so much?|我为什么他妈的这么喜欢这玩意儿？"
+    mc "我为什么他妈的这么喜欢这玩意儿？"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12097
 translate zh_Hans femdom_storyline_40_fbf8837c:
 
     # mc "{i}Why do I love licking so much?"
-    mc "{i}Why do I love licking so much?|我为什么他妈的这么爱舔？"
+    mc "我为什么他妈的这么爱舔？"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12099
 translate zh_Hans femdom_storyline_40_5c31dd82:
 
     # mc "{i}When did I start liking all this?"
-    mc "{i}When did I start liking all this?|我是从什么时候开始喜欢上这一切的？"
+    mc "我是从什么时候开始喜欢上这一切的？"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12101
 translate zh_Hans femdom_storyline_40_922d5ed5:
 
     # mc "{i}Things used to be different"
-    mc "{i}Things used to be different|以前可不是这样的。"
+    mc "以前可不是这样的。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12103
 translate zh_Hans femdom_storyline_40_e70683e1:
 
     # mc "{i}I never even thought about these things before"
-    mc "{i}I never even thought about these things before|我以前他妈的从来没想过这些事。"
+    mc "我以前他妈的从来没想过这些事。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12105
 translate zh_Hans femdom_storyline_40_9c960196_1:
 
     # mc "{i}And now..."
-    mc "{i}And now...|{i}而现在……"
+    mc "{i}而现在……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12114
 translate zh_Hans femdom_storyline_40_412c6918_1:
@@ -26546,7 +26546,7 @@ translate zh_Hans femdom_storyline_40_412c6918_1:
 translate zh_Hans femdom_storyline_40_852ff915:
 
     # mc "{i}I wonder who it is"
-    mc "{i}I wonder who it is|不知道是谁。"
+    mc "不知道是谁。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12126
 translate zh_Hans femdom_storyline_40_84d80823:
@@ -26668,49 +26668,49 @@ translate zh_Hans femdom_storyline_40_521c7406_14:
 translate zh_Hans femdom_storyline_40_53c71d7c_47:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12175
 translate zh_Hans femdom_storyline_40_a807346f:
 
     # mc "{i}Well, it seems I'll be going alone"
-    mc "{i}Well, it seems I'll be going alone|好吧，看来我得一个人去了。"
+    mc "好吧，看来我得一个人去了。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12177
 translate zh_Hans femdom_storyline_40_c7747855:
 
     # mc "{i}[wsis_name_is] is probably off to have sex again"
-    mc "{i}[wsis_name_is] is probably off to have sex again|珍娜那小骚货大概又去干了。"
+    mc "珍娜那小骚货大概又去干了。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12179
 translate zh_Hans femdom_storyline_40_5a4ed71d:
 
     # mc "{i}Lucky her"
-    mc "{i}Lucky her|她可真他妈幸运。"
+    mc "她可真他妈幸运。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12181
 translate zh_Hans femdom_storyline_40_a2c7a3e0:
 
     # mc "{i}What an exciting life she leads"
-    mc "{i}What an exciting life she leads|她过得可真他妈刺激！"
+    mc "她过得可真他妈刺激！"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12183
 translate zh_Hans femdom_storyline_40_29b4df77:
 
     # mc "{i}So much pleasure every day"
-    mc "{i}So much pleasure every day|每天都爽翻天。"
+    mc "每天都爽翻天。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12185
 translate zh_Hans femdom_storyline_40_14853b53:
 
     # mc "{i}Many would want to live like that"
-    mc "{i}Many would want to live like that|很多人都想过那种日子。"
+    mc "很多人都想过那种日子。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12187
 translate zh_Hans femdom_storyline_40_3d3a9289:
 
     # mc "{i}Including me"
-    mc "{i}Including me|包括我。"
+    mc "包括我。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12189
 translate zh_Hans femdom_storyline_40_a04ce5ad_38:
@@ -26722,25 +26722,25 @@ translate zh_Hans femdom_storyline_40_a04ce5ad_38:
 translate zh_Hans femdom_storyline_40_de05ab27:
 
     # mc "{i}Alright, I'll head to the bathroom, then have breakfast"
-    mc "{i}Alright, I'll head to the bathroom, then have breakfast|行了，我先去趟洗手间，然后吃早餐。"
+    mc "行了，我先去趟洗手间，然后吃早餐。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12193
 translate zh_Hans femdom_storyline_40_30eddbd2:
 
     # mc "{i}Better to leave early to make sure I'm not late"
-    mc "{i}Better to leave early to make sure I'm not late|最好早点出门，免得迟到。"
+    mc "最好早点出门，免得迟到。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12195
 translate zh_Hans femdom_storyline_40_81f5ab8a:
 
     # mc "{i}I'll wait there if I have to"
-    mc "{i}I'll wait there if I have to|如果需要，我会在那儿等。"
+    mc "如果需要，我会在那儿等。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12204
 translate zh_Hans femdom_storyline_40_ba63a138:
 
     # mc "{i}But first, I'll check my messages..."
-    mc "{i}But first, I'll check my messages...|不过，我得先看看消息……"
+    mc "不过，我得先看看消息……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12214
 translate zh_Hans femdom_storyline_40_de34c25c_1:
@@ -26820,7 +26820,7 @@ translate zh_Hans femdom_storyline_40_821231f4:
 translate zh_Hans femdom_storyline_40_887b5da1:
 
     # nvljenna "And what we've been doing together 😉"
-    nvljenna "And what we've been doing together 😉|还有我们一起干了些什么 😉"
+    nvljenna "还有我们一起干了些什么 😉"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12244
 translate zh_Hans femdom_storyline_40_60bb5741_18:
@@ -27000,7 +27000,7 @@ translate zh_Hans femdom_storyline_40_bf4912e3_1:
 translate zh_Hans femdom_storyline_40_1456575c:
 
     # nvljenna "Send my regards to your wife when you see her 😊"
-    nvljenna "Send my regards to your wife when you see her 😊|见到你老婆时，代我向她问好哦~😊"
+    nvljenna "见到你老婆时，代我向她问好哦~😊"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12304
 translate zh_Hans femdom_storyline_40_365b1b0e:
@@ -27012,37 +27012,37 @@ translate zh_Hans femdom_storyline_40_365b1b0e:
 translate zh_Hans femdom_storyline_40_53c71d7c_48:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12313
 translate zh_Hans femdom_storyline_40_ec06f036:
 
     # mc "{i}This deletion"
-    mc "{i}This deletion|这个删除。"
+    mc "这个删除。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12315
 translate zh_Hans femdom_storyline_40_1700749c:
 
     # mc "{i}Why does she keep bringing it up?"
-    mc "{i}Why does she keep bringing it up?|她为什么老是提这事儿？"
+    mc "她为什么老是提这事儿？"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12317
 translate zh_Hans femdom_storyline_40_da2e629d:
 
     # mc "{i}Why does she even care that my wife is added to the app?"
-    mc "{i}Why does she even care that my wife is added to the app?|她为什么他妈的会在意我老婆被加到这个APP里？"
+    mc "她为什么他妈的会在意我老婆被加到这个APP里？"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12319
 translate zh_Hans femdom_storyline_40_be4cca56:
 
     # mc "{i}It's not like I use it to restrict her or anything"
-    mc "{i}It's not like I use it to restrict her or anything|我又不是用它来限制她什么的。"
+    mc "我又不是用它来限制她什么的。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12321
 translate zh_Hans femdom_storyline_40_aa64a98e:
 
     # mc "{i}Or is she planning to add her herself and make changes?"
-    mc "{i}Or is she planning to add her herself and make changes?|还是说她打算自己把她加进去，然后搞些小动作？"
+    mc "还是说她打算自己把她加进去，然后搞些小动作？"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12323
 translate zh_Hans femdom_storyline_40_a04ce5ad_39:
@@ -27054,13 +27054,13 @@ translate zh_Hans femdom_storyline_40_a04ce5ad_39:
 translate zh_Hans femdom_storyline_40_8117b652:
 
     # mc "{i}I won't let her do that"
-    mc "{i}I won't let her do that|我不会让她得逞的。"
+    mc "我不会让她得逞的。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12327
 translate zh_Hans femdom_storyline_40_e6f235cf:
 
     # mc "{i}I will never delete [wife_name_is] from WifeSpy"
-    mc "{i}I will never delete [wife_name_is] from WifeSpy|我永远不会把凯茜从WifeSpy里删掉。"
+    mc "我永远不会把凯茜从WifeSpy里删掉。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12329
 translate zh_Hans femdom_storyline_40_b1de7535:
@@ -27084,61 +27084,61 @@ translate zh_Hans femdom_storyline_40_a04ce5ad_41:
 translate zh_Hans femdom_storyline_40_30152e89:
 
     # mc "{i}I'll go have breakfast"
-    mc "{i}I'll go have breakfast|我去吃早餐了。"
+    mc "我去吃早餐了。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12337
 translate zh_Hans femdom_storyline_40_23bb82fd:
 
     # mc "{i}There's not much time left"
-    mc "{i}There's not much time left|没多少时间了。"
+    mc "没多少时间了。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12354
 translate zh_Hans femdom_storyline_40_b3a0345f:
 
     # mc "{i}[wife_name_is] is finally home"
-    mc "{i}[wife_name_is] is finally home|凯茜终于回家了。"
+    mc "凯茜终于回家了。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12356
 translate zh_Hans femdom_storyline_40_11b01faa:
 
     # mc "{i}Yes, she went straight to Jenna's, but she's home"
-    mc "{i}Yes, she went straight to Jenna's, but she's home|是的，她直接去了珍娜那儿，但她现在已经回家了。"
+    mc "是的，她直接去了珍娜那儿，但她现在已经回家了。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12358
 translate zh_Hans femdom_storyline_40_0fdaf3fb:
 
     # mc "{i}I know that tonight or tomorrow morning, she'll be back"
-    mc "{i}I know that tonight or tomorrow morning, she'll be back|我知道今晚或明天早上，她就会回来。"
+    mc "我知道今晚或明天早上，她就会回来。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12360
 translate zh_Hans femdom_storyline_40_3ff0f32a:
 
     # mc "{i}I can feel that she's close"
-    mc "{i}I can feel that she's close|我能感觉到她就在我身边。"
+    mc "我能感觉到她就在我身边。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12362
 translate zh_Hans femdom_storyline_40_b5d1cabb:
 
     # mc "{i}That there are no longer thousands of miles between us"
-    mc "{i}That there are no longer thousands of miles between us|我们之间不再是千里之遥。"
+    mc "我们之间不再是千里之遥。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12364
 translate zh_Hans femdom_storyline_40_24d81425:
 
     # mc "{i}And it feels so..."
-    mc "{i}And it feels so...|这感觉真是……"
+    mc "这感觉真是……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12366
 translate zh_Hans femdom_storyline_40_c3270add:
 
     # mc "{i}So good"
-    mc "{i}So good|太他妈棒了。"
+    mc "太他妈棒了。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12368
 translate zh_Hans femdom_storyline_40_f2ad8081:
 
     # mc "{i}I'll never let her go again"
-    mc "{i}I'll never let her go again|我再也不会放她走了。"
+    mc "我再也不会放她走了。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12370
 translate zh_Hans femdom_storyline_40_b1de7535_1:
@@ -27164,7 +27164,7 @@ translate zh_Hans femdom_storyline_41_48678bbb:
 translate zh_Hans femdom_storyline_41_4fb4ad3e:
 
     # nvlwife "How's work? 😊"
-    nvlwife "How's work? 😊|工作怎么样啊？😊"
+    nvlwife "工作怎么样啊？😊"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12413
 translate zh_Hans femdom_storyline_41_7b496f79:
@@ -27230,7 +27230,7 @@ translate zh_Hans femdom_storyline_41_f4ee07da:
 translate zh_Hans femdom_storyline_41_140fef20:
 
     # nvlwife "Especially since neither Jenna nor [wsis_name_is] could come"
-    nvlwife "Especially since neither Jenna nor [wsis_name_is] could come|尤其是珍娜和[wsis_name_is]都来不了。"
+    nvlwife "尤其是珍娜和[wsis_name_is]都来不了。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12435
 translate zh_Hans femdom_storyline_41_163751f7:
@@ -27428,7 +27428,7 @@ translate zh_Hans femdom_storyline_41_0160ae58:
 translate zh_Hans femdom_storyline_41_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12536
 translate zh_Hans femdom_storyline_42_4adde642:
@@ -27448,7 +27448,7 @@ translate zh_Hans femdom_storyline_42_e73f8cc8:
 translate zh_Hans femdom_storyline_42_0a7fcdfe:
 
     # nvljenna "Has [wife_name_is] removed your chastity device yet? 😊"
-    nvljenna "Has [wife_name_is] removed your chastity device yet? 😊|凯茜把你那贞操带解下来了吗？😊"
+    nvljenna "凯茜把你那贞操带解下来了吗？😊"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12544
 translate zh_Hans femdom_storyline_42_d7436026:
@@ -27538,7 +27538,7 @@ translate zh_Hans femdom_storyline_42_a1647665:
 translate zh_Hans femdom_storyline_42_f2e4e601:
 
     # nvljenna "Ever 😊"
-    nvljenna "Ever 😊|永远😊"
+    nvljenna "永远😊"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12574
 translate zh_Hans femdom_storyline_42_c344b840:
@@ -27640,7 +27640,7 @@ translate zh_Hans femdom_storyline_42_cb2b5cd1:
 translate zh_Hans femdom_storyline_42_10790961:
 
     # nvljenna "As you say 😊"
-    nvljenna "As you say 😊|你说得对😊"
+    nvljenna "你说得对😊"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12608
 translate zh_Hans femdom_storyline_42_794ea576:
@@ -27670,7 +27670,7 @@ translate zh_Hans femdom_storyline_42_fa32d2b7:
 translate zh_Hans femdom_storyline_42_0d5d9f16:
 
     # nvljenna "This is what awaits you 😊"
-    nvljenna "This is what awaits you 😊|这就是你将要面对的哦~😊"
+    nvljenna "这就是你将要面对的哦~😊"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12622
 translate zh_Hans femdom_storyline_42_a85f0179:
@@ -27748,43 +27748,43 @@ translate zh_Hans femdom_storyline_42_ee3453b6:
 translate zh_Hans femdom_storyline_42_beec7f7e:
 
     # nvljenna "I hope we'll get to see each other again soon 😉"
-    nvljenna "I hope we'll get to see each other again soon 😉|希望我们很快又能再见面了哦 😉"
+    nvljenna "希望我们很快又能再见面了哦 😉"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12658
 translate zh_Hans femdom_storyline_42_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12673
 translate zh_Hans femdom_storyline_42_after_0f750360:
 
     # mc "{i}This isn't true"
-    mc "{i}This isn't true|这不是真的。"
+    mc "这不是真的。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12675
 translate zh_Hans femdom_storyline_42_after_69ef01e1:
 
     # mc "{i}I know it isn't true"
-    mc "{i}I know it isn't true|我知道这不是真的。"
+    mc "我知道这不是真的。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12677
 translate zh_Hans femdom_storyline_42_after_73a66952:
 
     # mc "{i}This chastity device..."
-    mc "{i}This chastity device...|这贞操带……"
+    mc "这贞操带……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12679
 translate zh_Hans femdom_storyline_42_after_7a2d1b00:
 
     # mc "{i}[wife_name_is] will definitely take it off"
-    mc "{i}[wife_name_is] will definitely take it off|凯茜肯定会把它脱掉的。"
+    mc "凯茜肯定会把它脱掉的。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12681
 translate zh_Hans femdom_storyline_42_after_5a669fab:
 
     # mc "{i}I'm sure"
-    mc "{i}I'm sure|我敢肯定。"
+    mc "我敢肯定。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12683
 translate zh_Hans femdom_storyline_42_after_381fd0f3:
@@ -27796,19 +27796,19 @@ translate zh_Hans femdom_storyline_42_after_381fd0f3:
 translate zh_Hans femdom_storyline_42_after_e3cd27ae:
 
     # mc "{i}I'll even message her now and tell her to remove it"
-    mc "{i}I'll even message her now and tell her to remove it|我甚至现在就给她发信息，让她把它取下来。"
+    mc "我甚至现在就给她发信息，让她把它取下来。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12687
 translate zh_Hans femdom_storyline_42_after_469553a5:
 
     # mc "{i}And tonight, she'll remove it"
-    mc "{i}And tonight, she'll remove it|今晚，她就会把它取下来。"
+    mc "今晚，她就会把它取下来。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12689
 translate zh_Hans femdom_storyline_42_after_87cee2bc:
 
     # mc "{i}Jenna is just playing with me, as always"
-    mc "{i}Jenna is just playing with me, as always|珍娜只是在跟我玩儿呢，老样子。"
+    mc "珍娜只是在跟我玩儿呢，老样子。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12708
 translate zh_Hans femdom_storyline_43_005bec72:
@@ -28056,13 +28056,13 @@ translate zh_Hans femdom_storyline_43_7a5dae9d:
 translate zh_Hans femdom_storyline_43_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12817
 translate zh_Hans femdom_storyline_43_after_d2af37c7:
 
     # mc "{i}She has changed"
-    mc "{i}She has changed|她变了。"
+    mc "她变了。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12819
 translate zh_Hans femdom_storyline_43_after_33e7237d:
@@ -28074,7 +28074,7 @@ translate zh_Hans femdom_storyline_43_after_33e7237d:
 translate zh_Hans femdom_storyline_43_after_c8640efb:
 
     # mc "{i}She was never like this before"
-    mc "{i}She was never like this before|她以前从来不是这样的。"
+    mc "她以前从来不是这样的。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12823
 translate zh_Hans femdom_storyline_43_after_a04ce5ad:
@@ -28220,7 +28220,7 @@ translate zh_Hans femdom_storyline_44_fc7d57fa:
 translate zh_Hans femdom_storyline_44_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:12925
 translate zh_Hans femdom_storyline_45_9d0e9854:
@@ -28384,7 +28384,7 @@ translate zh_Hans femdom_storyline_45_eeddafae:
 translate zh_Hans femdom_storyline_45_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:13010
 translate zh_Hans femdom_storyline_46_ca8f27f4:
@@ -28554,7 +28554,7 @@ translate zh_Hans femdom_storyline_46_b69de9cc:
 translate zh_Hans femdom_storyline_46_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:13101
 translate zh_Hans femdom_storyline_47_d3d901f4:
@@ -28838,7 +28838,7 @@ translate zh_Hans femdom_storyline_47_41f2433e:
 translate zh_Hans femdom_storyline_47_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:13230
 translate zh_Hans femdom_storyline_48_568a3252:
@@ -29032,7 +29032,7 @@ translate zh_Hans femdom_storyline_48_7c3be05a:
 translate zh_Hans femdom_storyline_48_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:13331
 translate zh_Hans femdom_storyline_49_456c30bd:
@@ -29190,7 +29190,7 @@ translate zh_Hans femdom_storyline_49_f20e37ea_1:
 translate zh_Hans femdom_storyline_49_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:13418
 translate zh_Hans femdom_storyline_50_acce04d0:
@@ -29390,7 +29390,7 @@ translate zh_Hans femdom_storyline_50_52892467:
 translate zh_Hans femdom_storyline_50_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:13519
 translate zh_Hans femdom_storyline_51_37cdddc5:
@@ -29590,7 +29590,7 @@ translate zh_Hans femdom_storyline_51_3e9aa63a:
 translate zh_Hans femdom_storyline_51_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:13616
 translate zh_Hans femdom_storyline_52_ff0635e1:
@@ -29748,7 +29748,7 @@ translate zh_Hans femdom_storyline_52_08459f79:
 translate zh_Hans femdom_storyline_52_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:13697
 translate zh_Hans femdom_storyline_53_54ff19dc:
@@ -29954,7 +29954,7 @@ translate zh_Hans femdom_storyline_53_2204c15a:
 translate zh_Hans femdom_storyline_53_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:13798
 translate zh_Hans femdom_storyline_54_01442490:
@@ -30106,7 +30106,7 @@ translate zh_Hans femdom_storyline_54_cfe20237:
 translate zh_Hans femdom_storyline_54_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:13887
 translate zh_Hans femdom_storyline_55_ea741144:
@@ -30270,7 +30270,7 @@ translate zh_Hans femdom_storyline_55_00ba5f91:
 translate zh_Hans femdom_storyline_55_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:13972
 translate zh_Hans femdom_storyline_56_c542326c:
@@ -30488,7 +30488,7 @@ translate zh_Hans femdom_storyline_56_fd78f20c:
 translate zh_Hans femdom_storyline_56_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:14087
 translate zh_Hans femdom_storyline_57_012a4b59:
@@ -30604,7 +30604,7 @@ translate zh_Hans femdom_storyline_57_f988b00f:
 translate zh_Hans femdom_storyline_57_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:14156
 translate zh_Hans femdom_storyline_58_d624d26a:
@@ -30762,7 +30762,7 @@ translate zh_Hans femdom_storyline_58_65020637:
 translate zh_Hans femdom_storyline_58_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:14253
 translate zh_Hans femdom_storyline_59_33d68098:
@@ -31136,7 +31136,7 @@ translate zh_Hans femdom_storyline_59_7e448c7f:
 translate zh_Hans femdom_storyline_59_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:14416
 translate zh_Hans femdom_storyline_60_7dab3af9:
@@ -31270,7 +31270,7 @@ translate zh_Hans femdom_storyline_60_9cfa1f9d:
 translate zh_Hans femdom_storyline_60_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:14499
 translate zh_Hans femdom_storyline_61_497a4442:
@@ -31320,7 +31320,7 @@ translate zh_Hans femdom_storyline_61_2245f722:
 translate zh_Hans femdom_storyline_61_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:14552
 translate zh_Hans femdom_storyline_62_a14cdf6b:
@@ -31826,7 +31826,7 @@ translate zh_Hans femdom_storyline_62_b4930dd0:
 translate zh_Hans femdom_storyline_62_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:14769
 translate zh_Hans femdom_storyline_62_after_93236685:
@@ -32494,7 +32494,7 @@ translate zh_Hans femdom_storyline_63_f0c7a2e6:
 translate zh_Hans femdom_storyline_63_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:15055
 translate zh_Hans femdom_storyline_64_2f80fa44:
@@ -32682,7 +32682,7 @@ translate zh_Hans femdom_storyline_64_12212900:
 translate zh_Hans femdom_storyline_64_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:15152
 translate zh_Hans femdom_storyline_65_89a7daf5:
@@ -32822,7 +32822,7 @@ translate zh_Hans femdom_storyline_65_ebbc9313:
 translate zh_Hans femdom_storyline_65_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:15239
 translate zh_Hans femdom_storyline_66_e7a99cb4:
@@ -32908,7 +32908,7 @@ translate zh_Hans femdom_storyline_66_26b63293:
 translate zh_Hans femdom_storyline_66_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:15298
 translate zh_Hans femdom_storyline_67_5a6775fb:
@@ -33144,7 +33144,7 @@ translate zh_Hans femdom_storyline_67_2b991cbc:
 translate zh_Hans femdom_storyline_67_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:15421
 translate zh_Hans femdom_storyline_68_ee9e3ece:
@@ -33290,7 +33290,7 @@ translate zh_Hans femdom_storyline_68_52b138ee:
 translate zh_Hans femdom_storyline_68_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:15514
 translate zh_Hans femdom_storyline_69_2ac28a74:
@@ -33406,7 +33406,7 @@ translate zh_Hans femdom_storyline_69_693b3137:
 translate zh_Hans femdom_storyline_69_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:15589
 translate zh_Hans femdom_storyline_70_3493b2b3:
@@ -33594,7 +33594,7 @@ translate zh_Hans femdom_storyline_70_7633828e:
 translate zh_Hans femdom_storyline_70_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:15698
 translate zh_Hans femdom_storyline_71_2dccc44a:
@@ -33854,7 +33854,7 @@ translate zh_Hans femdom_storyline_71_ac8a185b:
 translate zh_Hans femdom_storyline_71_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:15815
 translate zh_Hans femdom_storyline_72_2a204d41:
@@ -34312,7 +34312,7 @@ translate zh_Hans femdom_storyline_72_355db977:
 translate zh_Hans femdom_storyline_72_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:16016
 translate zh_Hans femdom_storyline_73_55360794:
@@ -34578,7 +34578,7 @@ translate zh_Hans femdom_storyline_73_52892467:
 translate zh_Hans femdom_storyline_73_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:16137
 translate zh_Hans femdom_storyline_74_8fedae24:
@@ -34730,7 +34730,7 @@ translate zh_Hans femdom_storyline_74_72567ba1:
 translate zh_Hans femdom_storyline_74_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:16222
 translate zh_Hans femdom_storyline_75_d9efbef2:
@@ -34882,7 +34882,7 @@ translate zh_Hans femdom_storyline_75_83ecb871:
 translate zh_Hans femdom_storyline_75_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:16313
 translate zh_Hans femdom_storyline_76_9b403f2b:
@@ -35070,7 +35070,7 @@ translate zh_Hans femdom_storyline_76_1da34f91:
 translate zh_Hans femdom_storyline_76_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:16424
 translate zh_Hans femdom_storyline_77_d9a0101a:
@@ -35270,7 +35270,7 @@ translate zh_Hans femdom_storyline_77_2b991cbc:
 translate zh_Hans femdom_storyline_77_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:16531
 translate zh_Hans femdom_storyline_78_a9944315:
@@ -35314,7 +35314,7 @@ translate zh_Hans femdom_storyline_78_a0b9aafa:
 translate zh_Hans femdom_storyline_78_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:16578
 translate zh_Hans femdom_storyline_79_676fcf1c:
@@ -35370,7 +35370,7 @@ translate zh_Hans femdom_storyline_79_dd847a4b:
 translate zh_Hans femdom_storyline_79_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:16633
 translate zh_Hans femdom_storyline_80_b82f0ff5:
@@ -35456,7 +35456,7 @@ translate zh_Hans femdom_storyline_80_54047b70:
 translate zh_Hans femdom_storyline_80_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:16700
 translate zh_Hans femdom_storyline_81_60be4810:
@@ -35536,7 +35536,7 @@ translate zh_Hans femdom_storyline_81_ebbc9313:
 translate zh_Hans femdom_storyline_81_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:16765
 translate zh_Hans femdom_storyline_82_6c53c284:
@@ -35820,7 +35820,7 @@ translate zh_Hans femdom_storyline_82_10c7de2d:
 translate zh_Hans femdom_storyline_82_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:16900
 translate zh_Hans femdom_storyline_83_f8479b2a:
@@ -35888,7 +35888,7 @@ translate zh_Hans femdom_storyline_83_afcfe238:
 translate zh_Hans femdom_storyline_83_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:16955
 translate zh_Hans femdom_storyline_84_f1451d79:
@@ -36190,7 +36190,7 @@ translate zh_Hans femdom_storyline_84_bcbcfb0f:
 translate zh_Hans femdom_storyline_84_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:17106
 translate zh_Hans femdom_storyline_85_499d1bcc:
@@ -36414,7 +36414,7 @@ translate zh_Hans femdom_storyline_85_f66ce14c:
 translate zh_Hans femdom_storyline_85_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:17231
 translate zh_Hans femdom_storyline_86_425e30fb:
@@ -36488,7 +36488,7 @@ translate zh_Hans femdom_storyline_86_28f901a9:
 translate zh_Hans femdom_storyline_86_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:17302
 translate zh_Hans femdom_storyline_87_4c139a26:
@@ -36688,7 +36688,7 @@ translate zh_Hans femdom_storyline_87_2bf5e7bc:
 translate zh_Hans femdom_storyline_87_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:17411
 translate zh_Hans femdom_storyline_88_a7e48ced:
@@ -36954,7 +36954,7 @@ translate zh_Hans femdom_storyline_88_cf6acae8:
 translate zh_Hans femdom_storyline_88_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:17542
 translate zh_Hans femdom_storyline_88_after_f22b3b3e:
@@ -37154,7 +37154,7 @@ translate zh_Hans femdom_storyline_89_05ca34fa:
 translate zh_Hans femdom_storyline_89_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:17656
 translate zh_Hans femdom_storyline_90_eec36354:
@@ -37210,7 +37210,7 @@ translate zh_Hans femdom_storyline_90_2204c15a:
 translate zh_Hans femdom_storyline_90_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:17707
 translate zh_Hans femdom_storyline_91_8d892d2b:
@@ -37452,7 +37452,7 @@ translate zh_Hans femdom_storyline_91_ec61da6c:
 translate zh_Hans femdom_storyline_91_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:17820
 translate zh_Hans femdom_storyline_92_cd2c3e59:
@@ -37490,7 +37490,7 @@ translate zh_Hans femdom_storyline_92_091e9295:
 translate zh_Hans femdom_storyline_92_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:17865
 translate zh_Hans femdom_storyline_93_ebed6bf4:
@@ -37600,7 +37600,7 @@ translate zh_Hans femdom_storyline_93_29478378:
 translate zh_Hans femdom_storyline_93_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:17944
 translate zh_Hans femdom_storyline_94_61dfb1fb:
@@ -37776,7 +37776,7 @@ translate zh_Hans femdom_storyline_94_b4930dd0:
 translate zh_Hans femdom_storyline_94_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:18043
 translate zh_Hans femdom_storyline_95_3a41e144:
@@ -38648,7 +38648,7 @@ translate zh_Hans femdom_storyline_95_f90c7b5c:
 translate zh_Hans femdom_storyline_95_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:18372
 translate zh_Hans femdom_storyline_96_bc6c72e8:
@@ -38722,7 +38722,7 @@ translate zh_Hans femdom_storyline_96_b69de9cc:
 translate zh_Hans femdom_storyline_96_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:18427
 translate zh_Hans femdom_storyline_97_024de1aa:
@@ -38820,7 +38820,7 @@ translate zh_Hans femdom_storyline_97_5a2800ed:
 translate zh_Hans femdom_storyline_97_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:18502
 translate zh_Hans femdom_storyline_98_d46eab29:
@@ -38924,7 +38924,7 @@ translate zh_Hans femdom_storyline_98_0160ae58:
 translate zh_Hans femdom_storyline_98_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:18569
 translate zh_Hans femdom_storyline_99_8390cfcd:
@@ -39016,7 +39016,7 @@ translate zh_Hans femdom_storyline_99_dd847a4b:
 translate zh_Hans femdom_storyline_99_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:18632
 translate zh_Hans femdom_storyline_100_470dd549:
@@ -39114,7 +39114,7 @@ translate zh_Hans femdom_storyline_100_ba3812a9:
 translate zh_Hans femdom_storyline_100_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:18695
 translate zh_Hans femdom_storyline_101_6461e870:
@@ -39188,7 +39188,7 @@ translate zh_Hans femdom_storyline_101_ac2a48d4:
 translate zh_Hans femdom_storyline_101_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:18758
 translate zh_Hans femdom_storyline_102_1631ff55:
@@ -39298,7 +39298,7 @@ translate zh_Hans femdom_storyline_102_52892467:
 translate zh_Hans femdom_storyline_102_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:18839
 translate zh_Hans femdom_storyline_103_f2c95d23:
@@ -39426,7 +39426,7 @@ translate zh_Hans femdom_storyline_103_4c0ede4c:
 translate zh_Hans femdom_storyline_103_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:18918
 translate zh_Hans femdom_storyline_104_547b753a:
@@ -39890,7 +39890,7 @@ translate zh_Hans femdom_storyline_104_2b991cbc:
 translate zh_Hans femdom_storyline_104_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:19117
 translate zh_Hans femdom_storyline_105_7a7eb33b:
@@ -40162,7 +40162,7 @@ translate zh_Hans femdom_storyline_105_381d0f8c:
 translate zh_Hans femdom_storyline_105_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:19260
 translate zh_Hans femdom_storyline_106_707932e6:
@@ -40290,7 +40290,7 @@ translate zh_Hans femdom_storyline_106_ae7b31d0:
 translate zh_Hans femdom_storyline_106_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:19343
 translate zh_Hans femdom_storyline_107_be1a5456:
@@ -40460,7 +40460,7 @@ translate zh_Hans femdom_storyline_107_0170aa3a:
 translate zh_Hans femdom_storyline_107_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:19438
 translate zh_Hans femdom_storyline_108_d3fa51e7:
@@ -40558,7 +40558,7 @@ translate zh_Hans femdom_storyline_108_2204c15a:
 translate zh_Hans femdom_storyline_108_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:19498
 translate zh_Hans femdom_storyline_108_after_02025577:
@@ -40722,7 +40722,7 @@ translate zh_Hans femdom_storyline_109_45af1615:
 translate zh_Hans femdom_storyline_109_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:19608
 translate zh_Hans femdom_storyline_109_after_fe721190:
@@ -40880,7 +40880,7 @@ translate zh_Hans femdom_storyline_110_a1f25b3c:
 translate zh_Hans femdom_storyline_110_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:19710
 translate zh_Hans femdom_storyline_111_7c5afa71:
@@ -40990,7 +40990,7 @@ translate zh_Hans femdom_storyline_111_ebfa3e18:
 translate zh_Hans femdom_storyline_111_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:19779
 translate zh_Hans femdom_storyline_112_6afa435e:
@@ -41118,7 +41118,7 @@ translate zh_Hans femdom_storyline_112_5784212e:
 translate zh_Hans femdom_storyline_112_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:19858
 translate zh_Hans femdom_storyline_113_5b6b03ca:
@@ -41246,7 +41246,7 @@ translate zh_Hans femdom_storyline_113_32cce591:
 translate zh_Hans femdom_storyline_113_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:19933
 translate zh_Hans femdom_storyline_114_6e71380e:
@@ -41332,7 +41332,7 @@ translate zh_Hans femdom_storyline_114_91ec6325:
 translate zh_Hans femdom_storyline_114_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:19994
 translate zh_Hans femdom_storyline_115_70fc43b1:
@@ -41484,7 +41484,7 @@ translate zh_Hans femdom_storyline_115_3741f79f:
 translate zh_Hans femdom_storyline_115_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:20077
 translate zh_Hans femdom_storyline_115_after_10dd08cd:
@@ -41708,7 +41708,7 @@ translate zh_Hans femdom_storyline_116_7306aa70:
 translate zh_Hans femdom_storyline_116_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:20207
 translate zh_Hans femdom_storyline_117_e59516b7:
@@ -41860,7 +41860,7 @@ translate zh_Hans femdom_storyline_117_60bb5741:
 translate zh_Hans femdom_storyline_117_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:20294
 translate zh_Hans femdom_storyline_118_f647ad7a:
@@ -42006,7 +42006,7 @@ translate zh_Hans femdom_storyline_118_08712b58:
 translate zh_Hans femdom_storyline_118_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:20377
 translate zh_Hans femdom_storyline_119_f51e68c1:
@@ -42140,7 +42140,7 @@ translate zh_Hans femdom_storyline_119_23a234d8:
 translate zh_Hans femdom_storyline_119_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:20458
 translate zh_Hans femdom_storyline_120_2ddc3be1:
@@ -42274,7 +42274,7 @@ translate zh_Hans femdom_storyline_120_0302d416:
 translate zh_Hans femdom_storyline_120_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:20529
 translate zh_Hans femdom_storyline_120_after_ff2de8c2:
@@ -42426,7 +42426,7 @@ translate zh_Hans femdom_storyline_121_a8b9def0:
 translate zh_Hans femdom_storyline_121_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:20629
 translate zh_Hans femdom_storyline_122_c1adaea9:
@@ -42542,7 +42542,7 @@ translate zh_Hans femdom_storyline_122_57788499:
 translate zh_Hans femdom_storyline_122_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:20700
 translate zh_Hans femdom_storyline_123_a55e4840:
@@ -42628,7 +42628,7 @@ translate zh_Hans femdom_storyline_123_07bc2bc7:
 translate zh_Hans femdom_storyline_123_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:20761
 translate zh_Hans femdom_storyline_124_b74f44b1:
@@ -42780,7 +42780,7 @@ translate zh_Hans femdom_storyline_124_f7608121:
 translate zh_Hans femdom_storyline_124_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:20848
 translate zh_Hans femdom_storyline_125_c09bf656:
@@ -42890,7 +42890,7 @@ translate zh_Hans femdom_storyline_125_4e4f1b04:
 translate zh_Hans femdom_storyline_125_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:20917
 translate zh_Hans femdom_storyline_126_0fe9e5d9:
@@ -42982,7 +42982,7 @@ translate zh_Hans femdom_storyline_126_ffd7b96c:
 translate zh_Hans femdom_storyline_126_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:20980
 translate zh_Hans femdom_storyline_127_e351feee:
@@ -43098,7 +43098,7 @@ translate zh_Hans femdom_storyline_127_e54fefb0:
 translate zh_Hans femdom_storyline_127_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:21051
 translate zh_Hans femdom_storyline_128_4b7f0e49:
@@ -43286,7 +43286,7 @@ translate zh_Hans femdom_storyline_128_ab59895a:
 translate zh_Hans femdom_storyline_128_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:21150
 translate zh_Hans femdom_storyline_129_4b7f1ff3:
@@ -43450,7 +43450,7 @@ translate zh_Hans femdom_storyline_129_a21f4059:
 translate zh_Hans femdom_storyline_129_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:21237
 translate zh_Hans femdom_storyline_130_6837eb58:
@@ -43560,7 +43560,7 @@ translate zh_Hans femdom_storyline_130_647cbcb5:
 translate zh_Hans femdom_storyline_130_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:21310
 translate zh_Hans femdom_storyline_131_239397e7:
@@ -43718,7 +43718,7 @@ translate zh_Hans femdom_storyline_131_1870b071:
 translate zh_Hans femdom_storyline_131_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:21395
 translate zh_Hans femdom_storyline_132_2a7a4c2b:
@@ -43846,7 +43846,7 @@ translate zh_Hans femdom_storyline_132_d2668990:
 translate zh_Hans femdom_storyline_132_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:21468
 translate zh_Hans femdom_storyline_133_ec777f63:
@@ -44004,7 +44004,7 @@ translate zh_Hans femdom_storyline_133_2c81f9e2:
 translate zh_Hans femdom_storyline_133_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:21557
 translate zh_Hans femdom_storyline_134_1395a39f:
@@ -44120,7 +44120,7 @@ translate zh_Hans femdom_storyline_134_1c1c430f:
 translate zh_Hans femdom_storyline_134_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:21632
 translate zh_Hans femdom_storyline_135_9ae5b5c4:
@@ -44224,7 +44224,7 @@ translate zh_Hans femdom_storyline_135_f3a9b8b8:
 translate zh_Hans femdom_storyline_135_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:21699
 translate zh_Hans femdom_storyline_136_501c8cf8:
@@ -44316,7 +44316,7 @@ translate zh_Hans femdom_storyline_136_006cd6e1:
 translate zh_Hans femdom_storyline_136_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:21764
 translate zh_Hans femdom_storyline_137_bfe1e027:
@@ -44726,7 +44726,7 @@ translate zh_Hans femdom_storyline_137_5f1a862b:
 translate zh_Hans femdom_storyline_137_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:21937
 translate zh_Hans femdom_storyline_138_23203991:
@@ -44812,7 +44812,7 @@ translate zh_Hans femdom_storyline_138_41de8da4:
 translate zh_Hans femdom_storyline_138_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:21998
 translate zh_Hans femdom_storyline_139_d5a9e176:
@@ -44910,7 +44910,7 @@ translate zh_Hans femdom_storyline_139_a1d7a75d:
 translate zh_Hans femdom_storyline_139_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:22069
 translate zh_Hans femdom_storyline_140_2239ff92:
@@ -45038,7 +45038,7 @@ translate zh_Hans femdom_storyline_140_9b05815f:
 translate zh_Hans femdom_storyline_140_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:22144
 translate zh_Hans femdom_storyline_140_after_a82bf3e3:
@@ -45184,7 +45184,7 @@ translate zh_Hans femdom_storyline_141_6e188057:
 translate zh_Hans femdom_storyline_141_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:22242
 translate zh_Hans femdom_storyline_142_978ae2fa:
@@ -45270,7 +45270,7 @@ translate zh_Hans femdom_storyline_142_5f1a862b:
 translate zh_Hans femdom_storyline_142_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:22303
 translate zh_Hans femdom_storyline_143_0162524a:
@@ -45368,7 +45368,7 @@ translate zh_Hans femdom_storyline_143_cfc79db6:
 translate zh_Hans femdom_storyline_143_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:22366
 translate zh_Hans femdom_storyline_144_2da656e9:
@@ -45604,7 +45604,7 @@ translate zh_Hans femdom_storyline_144_4e4f1b04:
 translate zh_Hans femdom_storyline_144_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:22481
 translate zh_Hans femdom_storyline_145_e01c9463:
@@ -45708,7 +45708,7 @@ translate zh_Hans femdom_storyline_145_ae5e0f3b:
 translate zh_Hans femdom_storyline_145_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:22552
 translate zh_Hans femdom_storyline_146_770c8a1b:
@@ -45824,7 +45824,7 @@ translate zh_Hans femdom_storyline_146_4e4f1b04:
 translate zh_Hans femdom_storyline_146_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:22623
 translate zh_Hans femdom_storyline_147_d70bc76a:
@@ -45910,7 +45910,7 @@ translate zh_Hans femdom_storyline_147_7e4e5e29:
 translate zh_Hans femdom_storyline_147_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:22682
 translate zh_Hans femdom_storyline_148_dcd6b9bc:
@@ -46020,7 +46020,7 @@ translate zh_Hans femdom_storyline_148_938e6218:
 translate zh_Hans femdom_storyline_148_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:22755
 translate zh_Hans femdom_storyline_149_c3d2ad89:
@@ -46112,7 +46112,7 @@ translate zh_Hans femdom_storyline_149_124e87af:
 translate zh_Hans femdom_storyline_149_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:22818
 translate zh_Hans femdom_storyline_150_482e73fe:
@@ -46234,7 +46234,7 @@ translate zh_Hans femdom_storyline_150_08ee784f:
 translate zh_Hans femdom_storyline_150_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:22895
 translate zh_Hans femdom_storyline_151_aa833735:
@@ -46320,7 +46320,7 @@ translate zh_Hans femdom_storyline_151_4e4f1b04:
 translate zh_Hans femdom_storyline_151_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:22956
 translate zh_Hans femdom_storyline_152_070b63c6:
@@ -46406,7 +46406,7 @@ translate zh_Hans femdom_storyline_152_c81c4e47:
 translate zh_Hans femdom_storyline_152_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:23021
 translate zh_Hans femdom_storyline_153_c9aefc58:
@@ -46570,7 +46570,7 @@ translate zh_Hans femdom_storyline_153_3c4f2f36:
 translate zh_Hans femdom_storyline_153_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:23108
 translate zh_Hans femdom_storyline_154_25144ec6:
@@ -46896,7 +46896,7 @@ translate zh_Hans femdom_storyline_154_19d806e9:
 translate zh_Hans femdom_storyline_154_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:23249
 translate zh_Hans femdom_storyline_155_52ab484c:
@@ -47072,7 +47072,7 @@ translate zh_Hans femdom_storyline_155_0d95d659:
 translate zh_Hans femdom_storyline_155_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:23346
 translate zh_Hans femdom_storyline_156_393d1fbc:
@@ -47260,7 +47260,7 @@ translate zh_Hans femdom_storyline_156_71e8f293:
 translate zh_Hans femdom_storyline_156_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:23444
 translate zh_Hans femdom_storyline_157_1ca4f168:
@@ -47412,7 +47412,7 @@ translate zh_Hans femdom_storyline_157_7e3567e5:
 translate zh_Hans femdom_storyline_157_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:23527
 translate zh_Hans femdom_storyline_158_3412a4e5:
@@ -47552,7 +47552,7 @@ translate zh_Hans femdom_storyline_158_8f13f91e:
 translate zh_Hans femdom_storyline_158_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:23609
 translate zh_Hans femdom_storyline_159_f81133c5:
@@ -47734,7 +47734,7 @@ translate zh_Hans femdom_storyline_159_4c806b09:
 translate zh_Hans femdom_storyline_159_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:23699
 translate zh_Hans femdom_storyline_159_after_e652d635:
@@ -47916,7 +47916,7 @@ translate zh_Hans femdom_storyline_160_6cf67de1:
 translate zh_Hans femdom_storyline_160_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:23814
 translate zh_Hans femdom_storyline_161_96187f2a:
@@ -48032,7 +48032,7 @@ translate zh_Hans femdom_storyline_161_602bdb6b:
 translate zh_Hans femdom_storyline_161_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:23885
 translate zh_Hans femdom_storyline_162_6a8997ff:
@@ -48184,7 +48184,7 @@ translate zh_Hans femdom_storyline_162_00db55e3:
 translate zh_Hans femdom_storyline_162_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:23968
 translate zh_Hans femdom_storyline_163_ede013c2:
@@ -48324,7 +48324,7 @@ translate zh_Hans femdom_storyline_163_9a49ab48:
 translate zh_Hans femdom_storyline_163_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:24047
 translate zh_Hans femdom_storyline_164_15eb4948:
@@ -48446,7 +48446,7 @@ translate zh_Hans femdom_storyline_164_83f12e57:
 translate zh_Hans femdom_storyline_164_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:24120
 translate zh_Hans femdom_storyline_165_edff03c6:
@@ -48562,7 +48562,7 @@ translate zh_Hans femdom_storyline_165_9d08d5c6:
 translate zh_Hans femdom_storyline_165_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:24191
 translate zh_Hans femdom_storyline_166_adc662c9:
@@ -48768,7 +48768,7 @@ translate zh_Hans femdom_storyline_166_4eff2681:
 translate zh_Hans femdom_storyline_166_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:24296
 translate zh_Hans femdom_storyline_167_040850b1:
@@ -48950,7 +48950,7 @@ translate zh_Hans femdom_storyline_167_77181d19:
 translate zh_Hans femdom_storyline_167_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:24394
 translate zh_Hans femdom_storyline_168_7013070c:
@@ -49126,7 +49126,7 @@ translate zh_Hans femdom_storyline_168_4e4f1b04:
 translate zh_Hans femdom_storyline_168_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:24488
 translate zh_Hans femdom_storyline_169_8b5bf54e:
@@ -49278,7 +49278,7 @@ translate zh_Hans femdom_storyline_169_71522fb7:
 translate zh_Hans femdom_storyline_169_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:24571
 translate zh_Hans femdom_storyline_170_04b98187:
@@ -49430,7 +49430,7 @@ translate zh_Hans femdom_storyline_170_59736a70:
 translate zh_Hans femdom_storyline_170_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:24654
 translate zh_Hans femdom_storyline_171_07d243da:
@@ -49594,7 +49594,7 @@ translate zh_Hans femdom_storyline_171_4e4f1b04:
 translate zh_Hans femdom_storyline_171_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:24744
 translate zh_Hans femdom_storyline_172_6728f774:
@@ -49776,7 +49776,7 @@ translate zh_Hans femdom_storyline_172_a01bd9a2:
 translate zh_Hans femdom_storyline_172_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:24836
 translate zh_Hans femdom_storyline_173_e133a8c8:
@@ -49934,7 +49934,7 @@ translate zh_Hans femdom_storyline_173_da1f41ec:
 translate zh_Hans femdom_storyline_173_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:24925
 translate zh_Hans femdom_storyline_174_e775d4fe:
@@ -50080,7 +50080,7 @@ translate zh_Hans femdom_storyline_174_6e47b3c5:
 translate zh_Hans femdom_storyline_174_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:25006
 translate zh_Hans femdom_storyline_175_98c910ec:
@@ -50262,7 +50262,7 @@ translate zh_Hans femdom_storyline_175_bc8d5e58:
 translate zh_Hans femdom_storyline_175_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:25112
 translate zh_Hans femdom_storyline_176_76b2fe88:
@@ -50340,7 +50340,7 @@ translate zh_Hans femdom_storyline_176_7da649e7:
 translate zh_Hans femdom_storyline_176_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:25173
 translate zh_Hans femdom_storyline_177_7c6cb7e4:
@@ -50588,7 +50588,7 @@ translate zh_Hans femdom_storyline_177_f311248f:
 translate zh_Hans femdom_storyline_177_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:25290
 translate zh_Hans femdom_storyline_178_bac7f252:
@@ -50770,7 +50770,7 @@ translate zh_Hans femdom_storyline_178_8c341fac:
 translate zh_Hans femdom_storyline_178_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:25391
 translate zh_Hans femdom_storyline_178_after_51f4ac8c:
@@ -50904,7 +50904,7 @@ translate zh_Hans femdom_storyline_179_7ee72464:
 translate zh_Hans femdom_storyline_179_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:25485
 translate zh_Hans femdom_storyline_180_4f406703:
@@ -51020,7 +51020,7 @@ translate zh_Hans femdom_storyline_180_2cb36615:
 translate zh_Hans femdom_storyline_180_5a5bb874:
 
     # nvlsadie "Thanks ❤️"
-    nvlsadie "Thanks ❤️|谢谢❤️"
+    nvlsadie "谢谢❤️"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:25525
 translate zh_Hans femdom_storyline_180_d2be8849:
@@ -51068,7 +51068,7 @@ translate zh_Hans femdom_storyline_180_0ea1000d:
 translate zh_Hans femdom_storyline_180_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:25572
 translate zh_Hans femdom_storyline_181_95192ed8:
@@ -51172,7 +51172,7 @@ translate zh_Hans femdom_storyline_181_1fb66d6d:
 translate zh_Hans femdom_storyline_181_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:25643
 translate zh_Hans femdom_storyline_182_5df05c6a:
@@ -51468,7 +51468,7 @@ translate zh_Hans femdom_storyline_182_26b63293:
 translate zh_Hans femdom_storyline_182_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:25786
 translate zh_Hans femdom_storyline_183_3fb3fa0d:
@@ -51548,7 +51548,7 @@ translate zh_Hans femdom_storyline_183_37822f3e:
 translate zh_Hans femdom_storyline_183_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:25845
 translate zh_Hans femdom_storyline_184_76b2fe88:
@@ -51890,7 +51890,7 @@ translate zh_Hans femdom_storyline_184_1f074437:
 translate zh_Hans femdom_storyline_184_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:26004
 translate zh_Hans femdom_storyline_185_b989788b:
@@ -51982,7 +51982,7 @@ translate zh_Hans femdom_storyline_185_95774e59:
 translate zh_Hans femdom_storyline_185_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:26067
 translate zh_Hans femdom_storyline_186_b50a23d3:
@@ -52050,7 +52050,7 @@ translate zh_Hans femdom_storyline_186_913470de:
 translate zh_Hans femdom_storyline_186_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:26126
 translate zh_Hans femdom_storyline_187_9bf85bea:
@@ -52340,7 +52340,7 @@ translate zh_Hans femdom_storyline_187_a5ee865f:
 translate zh_Hans femdom_storyline_187_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:26261
 translate zh_Hans femdom_storyline_188_690d3505:
@@ -52630,7 +52630,7 @@ translate zh_Hans femdom_storyline_188_2059e300:
 translate zh_Hans femdom_storyline_188_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:26394
 translate zh_Hans femdom_storyline_189_aa109785:
@@ -52836,7 +52836,7 @@ translate zh_Hans femdom_storyline_189_0feb3184:
 translate zh_Hans femdom_storyline_189_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:26513
 translate zh_Hans femdom_storyline_190_c3ac4e27:
@@ -52904,7 +52904,7 @@ translate zh_Hans femdom_storyline_190_df56f4ab:
 translate zh_Hans femdom_storyline_190_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:26568
 translate zh_Hans femdom_storyline_191_2cced8f0:
@@ -52996,7 +52996,7 @@ translate zh_Hans femdom_storyline_191_ffe939e7:
 translate zh_Hans femdom_storyline_191_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:26631
 translate zh_Hans femdom_storyline_192_8f1018bc:
@@ -53154,7 +53154,7 @@ translate zh_Hans femdom_storyline_192_2b991cbc:
 translate zh_Hans femdom_storyline_192_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:26720
 translate zh_Hans femdom_storyline_193_06d8a4b9:
@@ -53222,7 +53222,7 @@ translate zh_Hans femdom_storyline_193_42b0cadf:
 translate zh_Hans femdom_storyline_193_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:26775
 translate zh_Hans femdom_storyline_194_3954ff41:
@@ -53326,7 +53326,7 @@ translate zh_Hans femdom_storyline_194_2b991cbc:
 translate zh_Hans femdom_storyline_194_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:26842
 translate zh_Hans femdom_storyline_195_826b0d86:
@@ -53448,7 +53448,7 @@ translate zh_Hans femdom_storyline_195_4d5c5dcb:
 translate zh_Hans femdom_storyline_195_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:26919
 translate zh_Hans femdom_storyline_196_76b2fe88:
@@ -53610,19 +53610,19 @@ translate zh_Hans femdom_storyline_196_32c2e1f3:
 translate zh_Hans femdom_storyline_196_4cf3871e:
 
     # nvlwife "I love you even more for what you do for me"
-    nvlwife "I love you even more for what you do for me|你为我做的一切，让我更爱你爱到骨子里了。"
+    nvlwife "你为我做的一切，让我更爱你爱到骨子里了。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:26979
 translate zh_Hans femdom_storyline_196_321bb1fa:
 
     # nvlwife "I see your love in all the little things you do for me"
-    nvlwife "I see your love in all the little things you do for me|你为我做的每一件小事，都让我感受到你浓烈的爱意。"
+    nvlwife "你为我做的每一件小事，都让我感受到你浓烈的爱意。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:26981
 translate zh_Hans femdom_storyline_196_0ade0ed5:
 
     # nvlwife "And that makes me love you even more"
-    nvlwife "And that makes me love you even more|这让我更爱你爱到发狂。"
+    nvlwife "这让我更爱你爱到发狂。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:26983
 translate zh_Hans femdom_storyline_196_9ef137e4:
@@ -53652,13 +53652,13 @@ translate zh_Hans femdom_storyline_196_34f7a08d:
 translate zh_Hans femdom_storyline_196_74dc7419:
 
     # nvljohn "It was amazing, baby"
-    nvljohn "It was amazing, baby|爽翻了，宝贝儿！"
+    nvljohn "爽翻了，宝贝儿！"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:26996
 translate zh_Hans femdom_storyline_196_50d262eb:
 
     # nvlwife "How about we make that a weekly thing?"
-    nvlwife "How about we make that a weekly thing?|不如我们每周都来这么爽一次？"
+    nvlwife "不如我们每周都来这么爽一次？"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:26998
 translate zh_Hans femdom_storyline_196_8227c59a:
@@ -53670,7 +53670,7 @@ translate zh_Hans femdom_storyline_196_8227c59a:
 translate zh_Hans femdom_storyline_196_a056a5ab:
 
     # nvlwife "I knew you’d say that"
-    nvlwife "I knew you’d say that|我就知道你会这么说。"
+    nvlwife "我就知道你会这么说。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27002
 translate zh_Hans femdom_storyline_196_64a929a6:
@@ -53682,19 +53682,19 @@ translate zh_Hans femdom_storyline_196_64a929a6:
 translate zh_Hans femdom_storyline_196_98f20447:
 
     # nvlwife "Haha. That’s true"
-    nvlwife "Haha. That’s true|哈哈，确实如此。"
+    nvlwife "哈哈，确实如此。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27006
 translate zh_Hans femdom_storyline_196_3cd86a78:
 
     # nvlwife "So yeah, I’m thinking of doing this more often"
-    nvlwife "So yeah, I’m thinking of doing this more often|所以啊，我正在考虑更频繁地享受这种滋味。"
+    nvlwife "所以啊，我正在考虑更频繁地享受这种滋味。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27008
 translate zh_Hans femdom_storyline_196_eafa2a54:
 
     # nvlwife "And since you’re not against it, I’ll go ahead"
-    nvlwife "And since you’re not against it, I’ll go ahead|既然你不反对，那我就放手去干了。"
+    nvlwife "既然你不反对，那我就放手去干了。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27010
 translate zh_Hans femdom_storyline_196_0a9df29d:
@@ -53706,19 +53706,19 @@ translate zh_Hans femdom_storyline_196_0a9df29d:
 translate zh_Hans femdom_storyline_196_c6008df9:
 
     # nvlwife "By the way, I’m preparing a surprise for you 😉"
-    nvlwife "By the way, I’m preparing a surprise for you 😉|对了，我正在为你准备一个大惊喜😉"
+    nvlwife "对了，我正在为你准备一个大惊喜😉"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27015
 translate zh_Hans femdom_storyline_196_4d6ad298:
 
     # nvlwife "I’m sure you’ll like it"
-    nvlwife "I’m sure you’ll like it|我保证你会喜欢到尖叫。"
+    nvlwife "我保证你会喜欢到尖叫。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27017
 translate zh_Hans femdom_storyline_196_9920a152:
 
     # nvljohn "A surprise?!"
-    nvljohn "A surprise?!|惊喜？！"
+    nvljohn "惊喜？！"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27019
 translate zh_Hans femdom_storyline_196_1db89372:
@@ -53730,37 +53730,37 @@ translate zh_Hans femdom_storyline_196_1db89372:
 translate zh_Hans femdom_storyline_196_e5ac0cc1:
 
     # nvlwife "I think I’ll have everything by the end of the week and then I can delight you"
-    nvlwife "I think I’ll have everything by the end of the week and then I can delight you|我想本周末一切都会准备妥当，到时候就能让你欲仙欲死了。"
+    nvlwife "我想本周末一切都会准备妥当，到时候就能让你欲仙欲死了。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27023
 translate zh_Hans femdom_storyline_196_83bd2b98:
 
     # nvljohn "You don’t have to surprise me, baby"
-    nvljohn "You don’t have to surprise me, baby|宝贝，你不用给我惊喜。"
+    nvljohn "宝贝，你不用给我惊喜。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27025
 translate zh_Hans femdom_storyline_196_21e71c6c:
 
     # nvljohn "I don’t deserve it"
-    nvljohn "I don’t deserve it|我不配拥有它。"
+    nvljohn "我不配拥有它。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27027
 translate zh_Hans femdom_storyline_196_7fd367d4:
 
     # nvlwife "You do, pet"
-    nvlwife "You do, pet|你配，小宝贝。"
+    nvlwife "你配，小宝贝。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27029
 translate zh_Hans femdom_storyline_196_5b77d012:
 
     # nvlwife "Anyway, I’ve already ordered everything"
-    nvlwife "Anyway, I’ve already ordered everything|反正，我已经把所有东西都订好了。"
+    nvlwife "反正，我已经把所有东西都订好了。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27031
 translate zh_Hans femdom_storyline_196_0481af1a:
 
     # nvlwife "So no turning back"
-    nvlwife "So no turning back|所以没有回头路了。"
+    nvlwife "所以没有回头路了。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27033
 translate zh_Hans femdom_storyline_196_f85178f5:
@@ -53772,13 +53772,13 @@ translate zh_Hans femdom_storyline_196_f85178f5:
 translate zh_Hans femdom_storyline_196_23acf8ef:
 
     # nvlwife "Alright, I have to work now"
-    nvlwife "Alright, I have to work now|好了，我现在得去工作了。"
+    nvlwife "好了，我现在得去工作了。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27037
 translate zh_Hans femdom_storyline_196_5bc7418e:
 
     # nvlwife "We’ll talk tonight"
-    nvlwife "We’ll talk tonight|我们今晚再好好聊。"
+    nvlwife "我们今晚再好好聊。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27039
 translate zh_Hans femdom_storyline_196_26ba856b:
@@ -53790,7 +53790,7 @@ translate zh_Hans femdom_storyline_196_26ba856b:
 translate zh_Hans femdom_storyline_196_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27074
 translate zh_Hans femdom_storyline_197_3eab05fd:
@@ -53810,49 +53810,49 @@ translate zh_Hans femdom_storyline_197_64d311e8:
 translate zh_Hans femdom_storyline_197_37885064:
 
     # nvljenna "I’m listening"
-    nvljenna "I’m listening|我在听。"
+    nvljenna "我在听。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27082
 translate zh_Hans femdom_storyline_197_713d119f:
 
     # nvlwife "I want to make sex with [mc_name_is] more frequent and interesting"
-    nvlwife "I want to make sex with [mc_name_is] more frequent and interesting|我想和[mc_name_is]干得更频繁、更刺激。"
+    nvlwife "我想和[mc_name_is]干得更频繁、更刺激。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27084
 translate zh_Hans femdom_storyline_197_4a25aae3:
 
     # nvlwife "I remember you said there’s some kind of QOS club in town"
-    nvlwife "I remember you said there’s some kind of QOS club in town|我记得你说过镇上有个QoS俱乐部，对吧？"
+    nvlwife "我记得你说过镇上有个QoS俱乐部，对吧？"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27086
 translate zh_Hans femdom_storyline_197_f84b17bf:
 
     # nvljenna "Yeah, there is one"
-    nvljenna "Yeah, there is one|嗯，确实有一个。"
+    nvljenna "嗯，确实有一个。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27088
 translate zh_Hans femdom_storyline_197_c0c686b7:
 
     # nvlwife "Can you send me the address?"
-    nvlwife "Can you send me the address?|你能把地址发给我吗？"
+    nvlwife "你能把地址发给我吗？"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27090
 translate zh_Hans femdom_storyline_197_a8ae4afc:
 
     # nvljenna "I can, but it’s not easy to get in"
-    nvljenna "I can, but it’s not easy to get in|我可以，但那地方可不是随便就能进的。"
+    nvljenna "我可以，但那地方可不是随便就能进的。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27092
 translate zh_Hans femdom_storyline_197_4cd50b79:
 
     # nvljenna "They won’t let you in without an invite"
-    nvljenna "They won’t let you in without an invite|没有邀请函，他们根本不会放你进去。"
+    nvljenna "没有邀请函，他们根本不会放你进去。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27094
 translate zh_Hans femdom_storyline_197_94460af1:
 
     # nvlwife "But you can arrange it, right? 😉"
-    nvlwife "But you can arrange it, right? 😉|但你能搞定，对吧？😉"
+    nvlwife "但你能搞定，对吧？😉"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27096
 translate zh_Hans femdom_storyline_197_a87684cc:
@@ -53864,13 +53864,13 @@ translate zh_Hans femdom_storyline_197_a87684cc:
 translate zh_Hans femdom_storyline_197_ac4941b4:
 
     # nvljenna "But I’ll need to go with you the first time"
-    nvljenna "But I’ll need to go with you the first time|不过第一次我得跟你一起去。"
+    nvljenna "不过第一次我得跟你一起去。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27100
 translate zh_Hans femdom_storyline_197_17227bed:
 
     # nvlwife "Okay, I don’t mind"
-    nvlwife "Okay, I don’t mind|行啊，我没意见。"
+    nvlwife "行啊，我没意见。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27102
 translate zh_Hans femdom_storyline_197_2408dbda:
@@ -53882,13 +53882,13 @@ translate zh_Hans femdom_storyline_197_2408dbda:
 translate zh_Hans femdom_storyline_197_cb9b47bc:
 
     # nvlwife "Let’s do Saturday?"
-    nvlwife "Let’s do Saturday?|那就周六怎么样？"
+    nvlwife "那就周六怎么样？"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27106
 translate zh_Hans femdom_storyline_197_86b6226d:
 
     # nvljenna "Perfect, Saturday it is"
-    nvljenna "Perfect, Saturday it is|太完美了，那就周六定下了。"
+    nvljenna "太完美了，那就周六定下了。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27108
 translate zh_Hans femdom_storyline_197_2b991cbc:
@@ -53900,7 +53900,7 @@ translate zh_Hans femdom_storyline_197_2b991cbc:
 translate zh_Hans femdom_storyline_197_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27143
 translate zh_Hans femdom_storyline_198_2a9bf3fa:
@@ -53926,7 +53926,7 @@ translate zh_Hans femdom_storyline_198_a6f4e509:
 translate zh_Hans femdom_storyline_198_fbb05ac0:
 
     # nvljohn "Everything’s great"
-    nvljohn "Everything’s great|一切都棒极了。"
+    nvljohn "一切都棒极了。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27153
 translate zh_Hans femdom_storyline_198_a5c1b933:
@@ -53944,31 +53944,31 @@ translate zh_Hans femdom_storyline_198_0680ce2c:
 translate zh_Hans femdom_storyline_198_be904016:
 
     # nvlmike "How are things between you and [wife_name_is]?"
-    nvlmike "How are things between you and [wife_name_is]?|你和凯茜之间怎么样了？"
+    nvlmike "你和凯茜之间怎么样了？"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27159
 translate zh_Hans femdom_storyline_198_966997ae:
 
     # nvljohn "We’re doing really well"
-    nvljohn "We’re doing really well|我们好得很。"
+    nvljohn "我们好得很。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27161
 translate zh_Hans femdom_storyline_198_c56e56f5:
 
     # nvljohn "Feels like each day is better than the last"
-    nvljohn "Feels like each day is better than the last|感觉每天都比前一天更爽。"
+    nvljohn "感觉每天都比前一天更爽。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27163
 translate zh_Hans femdom_storyline_198_add8856c:
 
     # nvlmike "Ooh, I know that feeling"
-    nvlmike "Ooh, I know that feeling|哦，我懂那种感觉。"
+    nvlmike "哦，我懂那种感觉。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27165
 translate zh_Hans femdom_storyline_198_1b33bcec:
 
     # nvlmike "Lately I’ve been feeling something similar"
-    nvlmike "Lately I’ve been feeling something similar|最近我也感觉到了类似的情绪。"
+    nvlmike "最近我也感觉到了类似的情绪。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27167
 translate zh_Hans femdom_storyline_198_574ee67c:
@@ -53986,7 +53986,7 @@ translate zh_Hans femdom_storyline_198_e56cf68f:
 translate zh_Hans femdom_storyline_198_565520e7:
 
     # nvljohn "I thought you were already used to that kind of life"
-    nvljohn "I thought you were already used to that kind of life|我以为你已经习惯了那种生活。"
+    nvljohn "我以为你已经习惯了那种生活。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27173
 translate zh_Hans femdom_storyline_198_5693fe37:
@@ -54004,13 +54004,13 @@ translate zh_Hans femdom_storyline_198_34a110d4:
 translate zh_Hans femdom_storyline_198_b2a2ca94:
 
     # nvlmike "But Jenna always finds new ways to surprise me"
-    nvlmike "But Jenna always finds new ways to surprise me|但珍娜总能找到新花样来给我惊喜。"
+    nvlmike "但珍娜总能找到新花样来给我惊喜。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27179
 translate zh_Hans femdom_storyline_198_e7d5c55a:
 
     # nvlmike "And what’s started happening between us lately..."
-    nvlmike "And what’s started happening between us lately...|而最近我们之间发生的一些事……"
+    nvlmike "而最近我们之间发生的一些事……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27181
 translate zh_Hans femdom_storyline_198_b9972f75:
@@ -54022,7 +54022,7 @@ translate zh_Hans femdom_storyline_198_b9972f75:
 translate zh_Hans femdom_storyline_198_d92282e7:
 
     # nvlmike "I suggest we meet up and talk face to face"
-    nvlmike "I suggest we meet up and talk face to face|我建议我们见面，好好面对面谈谈。"
+    nvlmike "我建议我们见面，好好面对面谈谈。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27185
 translate zh_Hans femdom_storyline_198_0d2a5217:
@@ -54040,13 +54040,13 @@ translate zh_Hans femdom_storyline_198_aa74841a:
 translate zh_Hans femdom_storyline_198_3662a9df:
 
     # nvlmike "Then come over to our place"
-    nvlmike "Then come over to our place|那就来我们家吧。"
+    nvlmike "那就来我们家吧。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27191
 translate zh_Hans femdom_storyline_198_fc7ad06a:
 
     # nvlmike "Jenna will be at work, we’ll chill, have some beers"
-    nvlmike "Jenna will be at work, we’ll chill, have some beers|珍娜去上班，我们正好可以放松放松，喝点啤酒。"
+    nvlmike "珍娜去上班，我们正好可以放松放松，喝点啤酒。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27193
 translate zh_Hans femdom_storyline_198_ffebceff:
@@ -54058,25 +54058,25 @@ translate zh_Hans femdom_storyline_198_ffebceff:
 translate zh_Hans femdom_storyline_198_d646c791:
 
     # nvljohn "Okay, I’ll come"
-    nvljohn "Okay, I’ll come|行，我来。"
+    nvljohn "行，我来。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27197
 translate zh_Hans femdom_storyline_198_0adf1ed4:
 
     # nvlmike "Alright then, see you tonight"
-    nvlmike "Alright then, see you tonight|好嘞，今晚见。"
+    nvlmike "好嘞，今晚见。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27199
 translate zh_Hans femdom_storyline_198_1125394a:
 
     # nvlmike "I’ll get the beer and everything else"
-    nvlmike "I’ll get the beer and everything else|我去准备啤酒和其他所有东西。"
+    nvlmike "我去准备啤酒和其他所有东西。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27201
 translate zh_Hans femdom_storyline_198_5c1e3f02:
 
     # nvlmike "You just need to show up"
-    nvlmike "You just need to show up|你只需要人到就行了。"
+    nvlmike "你只需要人到就行了。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27203
 translate zh_Hans femdom_storyline_198_93a5022d:
@@ -54088,7 +54088,7 @@ translate zh_Hans femdom_storyline_198_93a5022d:
 translate zh_Hans femdom_storyline_198_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27238
 translate zh_Hans femdom_storyline_199_272ce064:
@@ -54096,7 +54096,7 @@ translate zh_Hans femdom_storyline_199_272ce064:
     # nvl clear
     # nvlmike "I hope our friendship didn’t end after what I told you yesterday?"
     nvl clear
-    nvlmike "I hope our friendship didn’t end after what I told you yesterday?|我希望我昨天跟你说的那些事，没把咱们的友谊给搞砸吧？"
+    nvlmike "我希望我昨天跟你说的那些事，没把咱们的友谊给搞砸吧？"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27242
 translate zh_Hans femdom_storyline_199_c64d6990:
@@ -54120,13 +54120,13 @@ translate zh_Hans femdom_storyline_199_310e1d7f:
 translate zh_Hans femdom_storyline_199_ec65a057:
 
     # nvlmike "You just reacted kind of weird"
-    nvlmike "You just reacted kind of weird|你刚才的反应有点奇怪。"
+    nvlmike "你刚才的反应有点奇怪。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27250
 translate zh_Hans femdom_storyline_199_85b8ebee:
 
     # nvlmike "So I thought maybe it was too much for you"
-    nvlmike "So I thought maybe it was too much for you|所以我以为你可能接受不了。"
+    nvlmike "所以我以为你可能接受不了。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27252
 translate zh_Hans femdom_storyline_199_b6a56c43:
@@ -54138,55 +54138,55 @@ translate zh_Hans femdom_storyline_199_b6a56c43:
 translate zh_Hans femdom_storyline_199_ba6cac77:
 
     # nvljohn "It just caught me a bit off guard"
-    nvljohn "It just caught me a bit off guard|这事儿着实让我有点措手不及。"
+    nvljohn "这事儿着实让我有点措手不及。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27256
 translate zh_Hans femdom_storyline_199_cd1212ac:
 
     # nvljohn "You didn’t seem like the type..."
-    nvljohn "You didn’t seem like the type...|你看起来不像那种玩儿法的人……"
+    nvljohn "你看起来不像那种玩儿法的人……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27258
 translate zh_Hans femdom_storyline_199_6269856b:
 
     # nvlmike "What type?"
-    nvlmike "What type?|什么玩儿法？"
+    nvlmike "什么玩儿法？"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27260
 translate zh_Hans femdom_storyline_199_4f79f474:
 
     # nvljohn "I don’t know how to say it without offending you"
-    nvljohn "I don’t know how to say it without offending you|我不知道怎么说才不会冒犯到你。"
+    nvljohn "我不知道怎么说才不会冒犯到你。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27262
 translate zh_Hans femdom_storyline_199_a450c627:
 
     # nvlmike "Just say it 😊"
-    nvlmike "Just say it 😊|直说吧😊"
+    nvlmike "直说吧😊"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27264
 translate zh_Hans femdom_storyline_199_e506ba6f:
 
     # nvljohn "I didn’t think you’d be into gay stuff"
-    nvljohn "I didn’t think you’d be into gay stuff|我没想到你会对玩儿屁股这种事儿感兴趣。"
+    nvljohn "我没想到你会对玩儿屁股这种事儿感兴趣。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27266
 translate zh_Hans femdom_storyline_199_37289c1a:
 
     # nvlmike "Gay stuff?! Haha"
-    nvlmike "Gay stuff?! Haha|玩儿屁股？！哈哈"
+    nvlmike "玩儿屁股？！哈哈"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27268
 translate zh_Hans femdom_storyline_199_70cc6be7:
 
     # nvlmike "I wouldn’t call it gay stuff"
-    nvlmike "I wouldn’t call it gay stuff|我可不会把它称作玩儿屁股。"
+    nvlmike "我可不会把它称作玩儿屁股。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27270
 translate zh_Hans femdom_storyline_199_91ac52d7:
 
     # nvlmike "I’m not doing it with men, right?"
-    nvlmike "I’m not doing it with men, right?|我可不是和男人一起干的，对吧？"
+    nvlmike "我可不是和男人一起干的，对吧？"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27272
 translate zh_Hans femdom_storyline_199_45f28da0:
@@ -54198,37 +54198,37 @@ translate zh_Hans femdom_storyline_199_45f28da0:
 translate zh_Hans femdom_storyline_199_91bf3446:
 
     # nvljohn "But still, it’s kind of..."
-    nvljohn "But still, it’s kind of...|但即便如此，还是有点……"
+    nvljohn "但即便如此，还是有点……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27276
 translate zh_Hans femdom_storyline_199_00faef9c:
 
     # nvlmike "You should try it too"
-    nvlmike "You should try it too|你也应该试试看。"
+    nvlmike "你也应该试试看。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27278
 translate zh_Hans femdom_storyline_199_6cab1d7d:
 
     # nvlmike "Then you’d understand me better"
-    nvlmike "Then you’d understand me better|那样你就能更好地理解我了。"
+    nvlmike "那样你就能更好地理解我了。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27280
 translate zh_Hans femdom_storyline_199_4820a6e8:
 
     # nvljohn "Try what?!"
-    nvljohn "Try what?!|试试什么？！"
+    nvljohn "试试什么？！"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27282
 translate zh_Hans femdom_storyline_199_ce8800e9:
 
     # nvlmike "Let your wife fuck you"
-    nvlmike "Let your wife fuck you|让你老婆肏你。"
+    nvlmike "让你老婆肏你。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27284
 translate zh_Hans femdom_storyline_199_9226355f:
 
     # nvljohn "Nah, I’m not doing that"
-    nvljohn "Nah, I’m not doing that|不，我才不干那种事。"
+    nvljohn "不，我才不干那种事。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27286
 translate zh_Hans femdom_storyline_199_eb0d8ff2:
@@ -54240,7 +54240,7 @@ translate zh_Hans femdom_storyline_199_eb0d8ff2:
 translate zh_Hans femdom_storyline_199_38fa11c7:
 
     # nvljohn "Because it’s not for me"
-    nvljohn "Because it’s not for me|因为那不适合我。"
+    nvljohn "因为那不适合我。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27290
 translate zh_Hans femdom_storyline_199_4ac911be:
@@ -54252,43 +54252,43 @@ translate zh_Hans femdom_storyline_199_4ac911be:
 translate zh_Hans femdom_storyline_199_9b17c772:
 
     # nvlmike "It’s totally natural to have sex with both men and women"
-    nvlmike "It’s totally natural to have sex with both men and women|无论是上男人还是上女人，都是完全自然的。"
+    nvlmike "无论是上男人还是上女人，都是完全自然的。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27294
 translate zh_Hans femdom_storyline_199_85a68668:
 
     # nvlmike "I mean, there’s nothing wrong with letting someone fuck your butt"
-    nvlmike "I mean, there’s nothing wrong with letting someone fuck your butt|我的意思是，让别人肏你屁股，没什么大不了的。"
+    nvlmike "我的意思是，让别人肏你屁股，没什么大不了的。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27296
 translate zh_Hans femdom_storyline_199_bd61fb6c:
 
     # nvlmike "In the Middle Ages, almost everyone did it"
-    nvlmike "In the Middle Ages, almost everyone did it|在中世纪，几乎每个人都这么玩儿。"
+    nvlmike "在中世纪，几乎每个人都这么玩儿。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27298
 translate zh_Hans femdom_storyline_199_e4bf741e:
 
     # nvljohn "We live in different times, Mike"
-    nvljohn "We live in different times, Mike|我们生活在不同的时代，麦克。"
+    nvljohn "我们生活在不同的时代，麦克。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27300
 translate zh_Hans femdom_storyline_199_1bb71e56:
 
     # nvljohn "And nowadays normal men don’t do that stuff"
-    nvljohn "And nowadays normal men don’t do that stuff|如今正常男人都不会玩儿那种花样了。"
+    nvljohn "如今正常男人都不会玩儿那种花样了。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27302
 translate zh_Hans femdom_storyline_199_1186f56b:
 
     # nvlmike "You still consider yourself a normal man? Seriously?"
-    nvlmike "You still consider yourself a normal man? Seriously?|你还认为自己是个正常男人？认真的吗？"
+    nvlmike "你还认为自己是个正常男人？认真的吗？"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27304
 translate zh_Hans femdom_storyline_199_dafe4973:
 
     # nvljohn "Well yeah, not completely normal, but still, I don’t want to do that"
-    nvljohn "Well yeah, not completely normal, but still, I don’t want to do that|嗯，是啊，虽然不太正常，但我还是不想玩儿那种。"
+    nvljohn "嗯，是啊，虽然不太正常，但我还是不想玩儿那种。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27306
 translate zh_Hans femdom_storyline_199_43cc69a3:
@@ -54300,25 +54300,25 @@ translate zh_Hans femdom_storyline_199_43cc69a3:
 translate zh_Hans femdom_storyline_199_dbd08d50:
 
     # nvlmike "It feels really good"
-    nvlmike "It feels really good|那感觉，爽爆了。"
+    nvlmike "那感觉，爽爆了。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27310
 translate zh_Hans femdom_storyline_199_6efaff7d:
 
     # nvlmike "Especially in our situation, because it’s the only way to feel pleasure and orgasm"
-    nvlmike "Especially in our situation, because it’s the only way to feel pleasure and orgasm|尤其是在我们这种情况下，因为这是感受快感和高潮的唯一途径。"
+    nvlmike "尤其是在我们这种情况下，因为这是感受快感和高潮的唯一途径。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27312
 translate zh_Hans femdom_storyline_199_1afee40e:
 
     # nvlmike "Or has your wife started letting you out of chastity? Letting you use your cock?"
-    nvlmike "Or has your wife started letting you out of chastity? Letting you use your cock?|还是你老婆已经开始让你解除贞操带了？允许你用你的鸡巴了？"
+    nvlmike "还是你老婆已经开始让你解除贞操带了？允许你用你的鸡巴了？"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27314
 translate zh_Hans femdom_storyline_199_76cd2c2b:
 
     # nvljohn "No, she still doesn’t let me"
-    nvljohn "No, she still doesn’t let me|不，她还是不让我……"
+    nvljohn "不，她还是不让我……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27316
 translate zh_Hans femdom_storyline_199_d86389cf:
@@ -54330,49 +54330,49 @@ translate zh_Hans femdom_storyline_199_d86389cf:
 translate zh_Hans femdom_storyline_199_b71472cb:
 
     # nvlmike "So just like me, you haven’t fucked anyone in a long time"
-    nvlmike "So just like me, you haven’t fucked anyone in a long time|所以，就像我一样，你也很久没干过谁了。"
+    nvlmike "所以，就像我一样，你也很久没干过谁了。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27320
 translate zh_Hans femdom_storyline_199_53400f2f:
 
     # nvlmike "And probably haven’t cum either"
-    nvlmike "And probably haven’t cum either|而且可能也没射过吧。"
+    nvlmike "而且可能也没射过吧。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27322
 translate zh_Hans femdom_storyline_199_af41d585:
 
     # nvlmike "Honestly, I was against it at first too, when Jenna brought it up"
-    nvlmike "Honestly, I was against it at first too, when Jenna brought it up|说实话，珍娜刚提出来的时候，我也是反对的。"
+    nvlmike "说实话，珍娜刚提出来的时候，我也是反对的。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27324
 translate zh_Hans femdom_storyline_199_ffed8ef8:
 
     # nvlmike "But after watching enough videos online, I decided to try it"
-    nvlmike "But after watching enough videos online, I decided to try it|但在网上看了足够多的视频后，我决定尝试一下。"
+    nvlmike "但在网上看了足够多的视频后，我决定尝试一下。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27326
 translate zh_Hans femdom_storyline_199_af373b89:
 
     # nvlmike "And when we finally did it, I didn’t regret a thing"
-    nvlmike "And when we finally did it, I didn’t regret a thing|而当我们最终干了之后，我一点也不后悔。"
+    nvlmike "而当我们最终干了之后，我一点也不后悔。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27328
 translate zh_Hans femdom_storyline_199_e59e3fe1:
 
     # nvlmike "Because I finally came"
-    nvlmike "Because I finally came|因为我终于射了。"
+    nvlmike "因为我终于射了。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27330
 translate zh_Hans femdom_storyline_199_f0a87cbb:
 
     # nvlmike "For the first time in a very long while"
-    nvlmike "For the first time in a very long while|很久很久以来第一次。"
+    nvlmike "很久很久以来第一次。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27332
 translate zh_Hans femdom_storyline_199_12562c60:
 
     # nvlmike "And my orgasm was way stronger than any I’d had before"
-    nvlmike "And my orgasm was way stronger than any I’d had before|而且我的高潮比以往任何一次都爽得多，强烈得多。"
+    nvlmike "而且我的高潮比以往任何一次都爽得多，强烈得多。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27334
 translate zh_Hans femdom_storyline_199_07e7fb54:
@@ -54384,49 +54384,49 @@ translate zh_Hans femdom_storyline_199_07e7fb54:
 translate zh_Hans femdom_storyline_199_015abb5b:
 
     # nvlmike "I recommend watching some videos online"
-    nvlmike "I recommend watching some videos online|我建议你上网找些视频看看。"
+    nvlmike "我建议你上网找些视频看看。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27338
 translate zh_Hans femdom_storyline_199_52634498:
 
     # nvlmike "See how guys enjoy it when their wives fuck their asses"
-    nvlmike "See how guys enjoy it when their wives fuck their asses|看看那些男人被老婆肏屁股时，是多么享受。"
+    nvlmike "看看那些男人被老婆肏屁股时，是多么享受。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27340
 translate zh_Hans femdom_storyline_199_c8db15f8:
 
     # nvlmike "You’ll thank me later 😉"
-    nvlmike "You’ll thank me later 😉|你以后会感谢我的😉"
+    nvlmike "你以后会感谢我的😉"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27342
 translate zh_Hans femdom_storyline_199_22e8c532:
 
     # nvljohn "Alright, I’ll give it a try"
-    nvljohn "Alright, I’ll give it a try|行吧，我试试看。"
+    nvljohn "行吧，我试试看。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27344
 translate zh_Hans femdom_storyline_199_4cbc47e6:
 
     # nvlmike "That's good, man"
-    nvlmike "That's good, man|这就对了，兄弟。"
+    nvlmike "这就对了，兄弟。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27346
 translate zh_Hans femdom_storyline_199_0a27e7ed:
 
     # nvlmike "Tell me how your first time goes"
-    nvlmike "Tell me how your first time goes|告诉我你第一次玩儿得怎么样。"
+    nvlmike "告诉我你第一次玩儿得怎么样。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27348
 translate zh_Hans femdom_storyline_199_cd12bf2e:
 
     # nvljohn "If it happens"
-    nvljohn "If it happens|如果真能发生的话。"
+    nvljohn "如果真能发生的话。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27350
 translate zh_Hans femdom_storyline_199_0f5b0618:
 
     # nvlmike "It will, I’m sure of it"
-    nvlmike "It will, I’m sure of it|肯定会的，我对此深信不疑。"
+    nvlmike "肯定会的，我对此深信不疑。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27352
 translate zh_Hans femdom_storyline_199_53829e13:
@@ -54438,7 +54438,7 @@ translate zh_Hans femdom_storyline_199_53829e13:
 translate zh_Hans femdom_storyline_199_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27387
 translate zh_Hans femdom_storyline_200_1317b196:
@@ -54446,25 +54446,25 @@ translate zh_Hans femdom_storyline_200_1317b196:
     # nvl clear
     # nvlwife "We’re going to the club this weekend"
     nvl clear
-    nvlwife "We’re going to the club this weekend|我们这周末要去俱乐部了。"
+    nvlwife "我们这周末要去俱乐部了。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27391
 translate zh_Hans femdom_storyline_200_a8494928:
 
     # nvljohn "The club? What kind of club?"
-    nvljohn "The club? What kind of club?|俱乐部？什么类型的俱乐部？"
+    nvljohn "俱乐部？什么类型的俱乐部？"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27393
 translate zh_Hans femdom_storyline_200_e4061d90:
 
     # nvlwife "A club for couples like us"
-    nvlwife "A club for couples like us|一个专为像我们这样玩儿的情侣设立的俱乐部。"
+    nvlwife "一个专为像我们这样玩儿的情侣设立的俱乐部。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27395
 translate zh_Hans femdom_storyline_200_07c113c1:
 
     # nvlwife "For QOS and obedient cuckolds 😊"
-    nvlwife "For QOS and obedient cuckolds 😊|为了QOS和那些乖顺的绿帽奴😊"
+    nvlwife "为了QOS和那些乖顺的绿帽奴😊"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27397
 translate zh_Hans femdom_storyline_200_a6edaf2b:
@@ -54476,7 +54476,7 @@ translate zh_Hans femdom_storyline_200_a6edaf2b:
 translate zh_Hans femdom_storyline_200_22c4b483:
 
     # nvljohn "I’m looking forward to it"
-    nvljohn "I’m looking forward to it|我已经迫不及待了。"
+    nvljohn "我已经迫不及待了。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27401
 translate zh_Hans femdom_storyline_200_aa26f447:
@@ -54566,7 +54566,7 @@ translate zh_Hans femdom_storyline_200_2986a0bc:
 translate zh_Hans femdom_storyline_200_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27466
 translate zh_Hans femdom_storyline_201_ce5e3c25:
@@ -54856,7 +54856,7 @@ translate zh_Hans femdom_storyline_201_e686f150:
 translate zh_Hans femdom_storyline_201_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27591
 translate zh_Hans femdom_storyline_201_after_e4ca6f25:
@@ -55056,7 +55056,7 @@ translate zh_Hans femdom_storyline_202_dd847a4b:
 translate zh_Hans femdom_storyline_202_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27715
 translate zh_Hans femdom_storyline_203_d9792ff3:
@@ -55430,7 +55430,7 @@ translate zh_Hans femdom_storyline_203_5fcf0637:
 translate zh_Hans femdom_storyline_203_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27876
 translate zh_Hans femdom_storyline_204_a69d7536:
@@ -55552,7 +55552,7 @@ translate zh_Hans femdom_storyline_204_d560dd56:
 translate zh_Hans femdom_storyline_204_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:27949
 translate zh_Hans femdom_storyline_204_after_2c3a11ff:
@@ -55692,7 +55692,7 @@ translate zh_Hans femdom_storyline_205_521c7406:
 translate zh_Hans femdom_storyline_205_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:28045
 translate zh_Hans femdom_storyline_206_ea150b92:
@@ -55784,7 +55784,7 @@ translate zh_Hans femdom_storyline_206_906d86db:
 translate zh_Hans femdom_storyline_206_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:28104
 translate zh_Hans femdom_storyline_206_after_b0a27917:
@@ -55948,7 +55948,7 @@ translate zh_Hans femdom_storyline_207_174916af:
 translate zh_Hans femdom_storyline_207_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:28208
 translate zh_Hans femdom_storyline_208_f070656e:
@@ -56016,7 +56016,7 @@ translate zh_Hans femdom_storyline_208_8fd0bf33:
 translate zh_Hans femdom_storyline_208_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:28264
 translate zh_Hans femdom_storyline_209_a45bad65:
@@ -56174,7 +56174,7 @@ translate zh_Hans femdom_storyline_209_c6d73ab5:
 translate zh_Hans femdom_storyline_209_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:28392
 translate zh_Hans femdom_storyline_211_c9783e48:
@@ -56380,7 +56380,7 @@ translate zh_Hans femdom_storyline_211_2370c528:
 translate zh_Hans femdom_storyline_211_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:28493
 translate zh_Hans femdom_storyline_212_4a83a095:
@@ -56538,7 +56538,7 @@ translate zh_Hans femdom_storyline_212_dddf6aa7:
 translate zh_Hans femdom_storyline_212_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:28578
 translate zh_Hans femdom_storyline_213_15322c99:
@@ -56684,7 +56684,7 @@ translate zh_Hans femdom_storyline_213_521c7406:
 translate zh_Hans femdom_storyline_213_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:28659
 translate zh_Hans femdom_storyline_214_14030a60:
@@ -56896,7 +56896,7 @@ translate zh_Hans femdom_storyline_214_521c7406:
 translate zh_Hans femdom_storyline_214_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:28762
 translate zh_Hans femdom_storyline_214_after_1b8caa7e:
@@ -57102,7 +57102,7 @@ translate zh_Hans femdom_storyline_215_040f6483:
 translate zh_Hans femdom_storyline_215_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:28880
 translate zh_Hans femdom_storyline_216_23cc1d7b:
@@ -57350,7 +57350,7 @@ translate zh_Hans femdom_storyline_216_5acf1e37:
 translate zh_Hans femdom_storyline_216_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:28999
 translate zh_Hans femdom_storyline_217_4ae82e6a:
@@ -57556,7 +57556,7 @@ translate zh_Hans femdom_storyline_217_c8f9e124:
 translate zh_Hans femdom_storyline_217_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:29100
 translate zh_Hans femdom_storyline_218_b989788b:
@@ -57720,7 +57720,7 @@ translate zh_Hans femdom_storyline_218_d0726d14:
 translate zh_Hans femdom_storyline_218_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:29183
 translate zh_Hans femdom_storyline_218_after_c875ec50:
@@ -58106,7 +58106,7 @@ translate zh_Hans femdom_storyline_219_521c7406:
 translate zh_Hans femdom_storyline_219_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:29377
 translate zh_Hans femdom_storyline_219_after_a3c4208b:
@@ -58222,7 +58222,7 @@ translate zh_Hans femdom_storyline_220_790f07a2:
 translate zh_Hans femdom_storyline_220_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:29465
 translate zh_Hans femdom_storyline_221_80e7605d:
@@ -58392,7 +58392,7 @@ translate zh_Hans femdom_storyline_221_42de2859:
 translate zh_Hans femdom_storyline_221_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:29550
 translate zh_Hans femdom_storyline_221_after_8a392f20:
@@ -58688,7 +58688,7 @@ translate zh_Hans femdom_storyline_222_9811cb95:
 translate zh_Hans femdom_storyline_222_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:29702
 translate zh_Hans femdom_storyline_223_39a2136d:
@@ -58816,7 +58816,7 @@ translate zh_Hans femdom_storyline_223_9628d02c:
 translate zh_Hans femdom_storyline_223_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:29773
 translate zh_Hans femdom_storyline_223_after_dbf83541:
@@ -59058,7 +59058,7 @@ translate zh_Hans femdom_storyline_224_a6fa45b1:
 translate zh_Hans femdom_storyline_224_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:29904
 translate zh_Hans femdom_storyline_225_78b4517c:
@@ -59120,7 +59120,7 @@ translate zh_Hans femdom_storyline_225_d33577e0:
 translate zh_Hans femdom_storyline_225_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:29957
 translate zh_Hans femdom_storyline_226_ed644059:
@@ -59290,7 +59290,7 @@ translate zh_Hans femdom_storyline_226_60bb5741_1:
 translate zh_Hans femdom_storyline_226_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:30052
 translate zh_Hans femdom_storyline_227_ca57f16b:
@@ -59406,7 +59406,7 @@ translate zh_Hans femdom_storyline_227_f98b82ca:
 translate zh_Hans femdom_storyline_227_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:30119
 translate zh_Hans femdom_storyline_227_after_fc654df1:
@@ -59618,7 +59618,7 @@ translate zh_Hans femdom_storyline_228_3236dcd6:
 translate zh_Hans femdom_storyline_228_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:30239
 translate zh_Hans femdom_storyline_229_f8f9f0ad:
@@ -59704,7 +59704,7 @@ translate zh_Hans femdom_storyline_229_a5dd0e16:
 translate zh_Hans femdom_storyline_229_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:30300
 translate zh_Hans femdom_storyline_230_e87ed7b1:
@@ -59856,7 +59856,7 @@ translate zh_Hans femdom_storyline_230_2ec2fc29:
 translate zh_Hans femdom_storyline_230_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:30389
 translate zh_Hans femdom_storyline_231_76b2fe88:
@@ -59868,7 +59868,7 @@ translate zh_Hans femdom_storyline_231_76b2fe88:
 translate zh_Hans femdom_storyline_231_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:30422
 translate zh_Hans femdom_storyline_231_after_c73d13ca:
@@ -60314,7 +60314,7 @@ translate zh_Hans femdom_storyline_232_92f4875d:
 translate zh_Hans femdom_storyline_232_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:30638
 translate zh_Hans femdom_storyline_232_after_2cfa7dc0:
@@ -60538,7 +60538,7 @@ translate zh_Hans femdom_storyline_233_77e5d10c:
 translate zh_Hans femdom_storyline_233_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:30768
 translate zh_Hans femdom_storyline_234_42783ccf:
@@ -60798,7 +60798,7 @@ translate zh_Hans femdom_storyline_234_30b31bf9:
 translate zh_Hans femdom_storyline_234_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:30895
 translate zh_Hans femdom_storyline_234_after_1e8e0b16:
@@ -60908,7 +60908,7 @@ translate zh_Hans femdom_storyline_235_2a292b4d:
 translate zh_Hans femdom_storyline_235_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:30987
 translate zh_Hans femdom_storyline_236_76b2fe88:
@@ -60920,7 +60920,7 @@ translate zh_Hans femdom_storyline_236_76b2fe88:
 translate zh_Hans femdom_storyline_236_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:31020
 translate zh_Hans femdom_storyline_236_after_1411f12b:
@@ -61150,7 +61150,7 @@ translate zh_Hans femdom_storyline_237_51abd0ac:
 translate zh_Hans femdom_storyline_237_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:31152
 translate zh_Hans femdom_storyline_238_cfda18bd:
@@ -61302,7 +61302,7 @@ translate zh_Hans femdom_storyline_238_3a45e76b:
 translate zh_Hans femdom_storyline_238_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:31239
 translate zh_Hans femdom_storyline_239_c82ccb38:
@@ -61598,7 +61598,7 @@ translate zh_Hans femdom_storyline_239_8d394bee:
 translate zh_Hans femdom_storyline_239_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:31382
 translate zh_Hans femdom_storyline_240_bedac35a:
@@ -61702,7 +61702,7 @@ translate zh_Hans femdom_storyline_240_ada69506:
 translate zh_Hans femdom_storyline_240_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:31449
 translate zh_Hans femdom_storyline_241_928496f9:
@@ -61974,7 +61974,7 @@ translate zh_Hans femdom_storyline_241_5a960430:
 translate zh_Hans femdom_storyline_241_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:31568
 translate zh_Hans femdom_storyline_241_after_c12584c2:
@@ -62058,7 +62058,7 @@ translate zh_Hans femdom_storyline_242_76b2fe88:
 translate zh_Hans femdom_storyline_242_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:31642
 translate zh_Hans femdom_storyline_242_after_3a2f5293:
@@ -62288,7 +62288,7 @@ translate zh_Hans femdom_storyline_243_6348f02b:
 translate zh_Hans femdom_storyline_243_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:31770
 translate zh_Hans femdom_storyline_243_after_a6397438:
@@ -62440,7 +62440,7 @@ translate zh_Hans femdom_storyline_244_a7dd610c:
 translate zh_Hans femdom_storyline_244_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:31870
 translate zh_Hans femdom_storyline_245_a1773f34:
@@ -62622,7 +62622,7 @@ translate zh_Hans femdom_storyline_245_a7dd610c:
 translate zh_Hans femdom_storyline_245_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:31963
 translate zh_Hans femdom_storyline_246_76b2fe88:
@@ -62634,7 +62634,7 @@ translate zh_Hans femdom_storyline_246_76b2fe88:
 translate zh_Hans femdom_storyline_246_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:31996
 translate zh_Hans femdom_storyline_246_after_91f27ce8:
@@ -62828,7 +62828,7 @@ translate zh_Hans femdom_storyline_247_025059b7:
 translate zh_Hans femdom_storyline_247_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:32124
 translate zh_Hans femdom_storyline_247_after_3e59e969:
@@ -63022,7 +63022,7 @@ translate zh_Hans femdom_storyline_248_5ef56dcb:
 translate zh_Hans femdom_storyline_248_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:32238
 translate zh_Hans femdom_storyline_249_f8f9f0ad:
@@ -63234,7 +63234,7 @@ translate zh_Hans femdom_storyline_249_7e8f7f50:
 translate zh_Hans femdom_storyline_249_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:32337
 translate zh_Hans femdom_storyline_249_after_c73d13ca:
@@ -63404,7 +63404,7 @@ translate zh_Hans femdom_storyline_250_7633828e:
 translate zh_Hans femdom_storyline_250_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:32443
 translate zh_Hans femdom_storyline_251_0cdbda1a:
@@ -63568,7 +63568,7 @@ translate zh_Hans femdom_storyline_251_8f700986:
 translate zh_Hans femdom_storyline_251_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:32544
 translate zh_Hans femdom_storyline_251_after_8102d13b:
@@ -63664,7 +63664,7 @@ translate zh_Hans femdom_storyline_252_94c42ad0:
 translate zh_Hans femdom_storyline_252_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:32628
 translate zh_Hans femdom_storyline_252_after_ebbbd351:
@@ -63870,7 +63870,7 @@ translate zh_Hans femdom_storyline_253_40241bc4:
 translate zh_Hans femdom_storyline_253_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:32746
 translate zh_Hans femdom_storyline_254_dce8b5dd:
@@ -64070,7 +64070,7 @@ translate zh_Hans femdom_storyline_254_461461c7:
 translate zh_Hans femdom_storyline_254_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:32847
 translate zh_Hans femdom_storyline_254_after_95f1f1f4:
@@ -64144,7 +64144,7 @@ translate zh_Hans femdom_storyline_255_4b1c2abb:
 translate zh_Hans femdom_storyline_255_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:32917
 translate zh_Hans femdom_storyline_255_after_e968c895:
@@ -64258,7 +64258,7 @@ translate zh_Hans femdom_storyline_256_251d413a:
 translate zh_Hans femdom_storyline_256_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:33005
 translate zh_Hans femdom_storyline_256_after_d7682730:
@@ -64512,7 +64512,7 @@ translate zh_Hans femdom_storyline_257_51f5261d:
 translate zh_Hans femdom_storyline_257_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:33141
 translate zh_Hans femdom_storyline_257_after_24610e19:
@@ -64818,7 +64818,7 @@ translate zh_Hans femdom_storyline_258_f0576a37:
 translate zh_Hans femdom_storyline_258_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:33323
 translate zh_Hans femdom_storyline_258_after_a8bcf72b:
@@ -65120,7 +65120,7 @@ translate zh_Hans femdom_storyline_259_be064abf:
 translate zh_Hans femdom_storyline_259_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:33475
 translate zh_Hans femdom_storyline_259_after_a04ce5ad:
@@ -65332,7 +65332,7 @@ translate zh_Hans femdom_storyline_260_f555df8b:
 translate zh_Hans femdom_storyline_260_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:33595
 translate zh_Hans femdom_storyline_261_6e3962f3:
@@ -65616,7 +65616,7 @@ translate zh_Hans femdom_storyline_261_a7dd610c:
 translate zh_Hans femdom_storyline_261_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:33722
 translate zh_Hans femdom_storyline_262_9fd7fc92:
@@ -65786,7 +65786,7 @@ translate zh_Hans femdom_storyline_262_fa8901c6:
 translate zh_Hans femdom_storyline_262_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:33807
 translate zh_Hans femdom_storyline_262_after_f1028258:
@@ -65840,7 +65840,7 @@ translate zh_Hans femdom_storyline_263_76b2fe88:
 translate zh_Hans femdom_storyline_263_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:33871
 translate zh_Hans femdom_storyline_263_after_91f27ce8:
@@ -66328,7 +66328,7 @@ translate zh_Hans femdom_storyline_264_0b29ea63:
 translate zh_Hans femdom_storyline_264_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:34097
 translate zh_Hans femdom_storyline_264_after_d501b644:
@@ -66522,7 +66522,7 @@ translate zh_Hans femdom_storyline_265_64aec657:
 translate zh_Hans femdom_storyline_265_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:34207
 translate zh_Hans femdom_storyline_265_after_2a4d703e:
@@ -66644,7 +66644,7 @@ translate zh_Hans femdom_storyline_266_0b2bed8a:
 translate zh_Hans femdom_storyline_266_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:34297
 translate zh_Hans femdom_storyline_267_3e3d0fe8:
@@ -66778,7 +66778,7 @@ translate zh_Hans femdom_storyline_267_dc5ba937:
 translate zh_Hans femdom_storyline_267_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:34374
 translate zh_Hans femdom_storyline_268_98399d9d:
@@ -66894,7 +66894,7 @@ translate zh_Hans femdom_storyline_268_2ec2fc29:
 translate zh_Hans femdom_storyline_268_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:34445
 translate zh_Hans femdom_storyline_269_76b2fe88:
@@ -66906,7 +66906,7 @@ translate zh_Hans femdom_storyline_269_76b2fe88:
 translate zh_Hans femdom_storyline_269_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:34478
 translate zh_Hans femdom_storyline_269_after_c73d13ca:
@@ -67100,7 +67100,7 @@ translate zh_Hans femdom_storyline_270_2b991cbc:
 translate zh_Hans femdom_storyline_270_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:34592
 translate zh_Hans femdom_storyline_271_558a4046:
@@ -67180,7 +67180,7 @@ translate zh_Hans femdom_storyline_271_2b991cbc:
 translate zh_Hans femdom_storyline_271_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:34651
 translate zh_Hans femdom_storyline_272_34448d7d:
@@ -67254,7 +67254,7 @@ translate zh_Hans femdom_storyline_272_17894e47:
 translate zh_Hans femdom_storyline_272_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:34708
 translate zh_Hans femdom_storyline_273_b4b72612:
@@ -67394,7 +67394,7 @@ translate zh_Hans femdom_storyline_273_a57bfa91:
 translate zh_Hans femdom_storyline_273_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:34793
 translate zh_Hans femdom_storyline_274_c6715878:
@@ -67648,7 +67648,7 @@ translate zh_Hans femdom_storyline_274_66c83a95:
 translate zh_Hans femdom_storyline_274_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:34918
 translate zh_Hans femdom_storyline_274_after_34b38538:
@@ -67678,7 +67678,7 @@ translate zh_Hans femdom_storyline_274_after_5912ff7d:
 translate zh_Hans femdom_storyline_274_after_9c960196:
 
     # mc "{i}And now..."
-    mc "{i}And now...|{i}而现在……"
+    mc "{i}而现在……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:34928
 translate zh_Hans femdom_storyline_274_after_b71abf5e:
@@ -68088,7 +68088,7 @@ translate zh_Hans femdom_storyline_275_90046a37:
 translate zh_Hans femdom_storyline_275_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:35130
 translate zh_Hans femdom_storyline_276_76b2fe88:
@@ -68160,7 +68160,7 @@ translate zh_Hans femdom_storyline_276_94c42ad0:
 translate zh_Hans femdom_storyline_276_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:35189
 translate zh_Hans femdom_storyline_276_after_59b0d4cc:
@@ -68474,7 +68474,7 @@ translate zh_Hans femdom_storyline_277_5462ffc0:
 translate zh_Hans femdom_storyline_277_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:35374
 translate zh_Hans femdom_storyline_278_ca57f16b:
@@ -68692,7 +68692,7 @@ translate zh_Hans femdom_storyline_278_eab2544b:
 translate zh_Hans femdom_storyline_278_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:35479
 translate zh_Hans femdom_storyline_279_9338f895:
@@ -68862,7 +68862,7 @@ translate zh_Hans femdom_storyline_279_7633828e:
 translate zh_Hans femdom_storyline_279_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:35569
 translate zh_Hans femdom_storyline_280_ec86bed7:
@@ -68984,7 +68984,7 @@ translate zh_Hans femdom_storyline_280_08788377:
 translate zh_Hans femdom_storyline_280_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:35649
 translate zh_Hans femdom_storyline_281_76b2fe88:
@@ -69134,7 +69134,7 @@ translate zh_Hans femdom_storyline_281_10befb9c:
 translate zh_Hans femdom_storyline_281_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:35742
 translate zh_Hans femdom_storyline_282_7fe936af:
@@ -69340,7 +69340,7 @@ translate zh_Hans femdom_storyline_282_164dc431:
 translate zh_Hans femdom_storyline_282_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:35839
 translate zh_Hans femdom_storyline_282_after_c12584c2:
@@ -69534,7 +69534,7 @@ translate zh_Hans femdom_storyline_283_e2cb7270:
 translate zh_Hans femdom_storyline_283_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:35954
 translate zh_Hans femdom_storyline_284_d83605f8:
@@ -69872,7 +69872,7 @@ translate zh_Hans femdom_storyline_284_9ef137e4:
 translate zh_Hans femdom_storyline_284_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:36124
 translate zh_Hans femdom_storyline_1000_76b2fe88:
@@ -69932,7 +69932,7 @@ translate zh_Hans femdom_storyline_1000_dbe21d6c:
 translate zh_Hans femdom_storyline_1000_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:36179
 translate zh_Hans femdom_storyline_1000_after_1411f12b:
@@ -70162,7 +70162,7 @@ translate zh_Hans femdom_storyline_1001_51abd0ac:
 translate zh_Hans femdom_storyline_1001_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:36311
 translate zh_Hans femdom_storyline_1002_cfda18bd:
@@ -70314,7 +70314,7 @@ translate zh_Hans femdom_storyline_1002_3a45e76b:
 translate zh_Hans femdom_storyline_1002_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:36398
 translate zh_Hans femdom_storyline_1003_c82ccb38:
@@ -70610,7 +70610,7 @@ translate zh_Hans femdom_storyline_1003_8d394bee:
 translate zh_Hans femdom_storyline_1003_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:36541
 translate zh_Hans femdom_storyline_1004_bedac35a:
@@ -70714,7 +70714,7 @@ translate zh_Hans femdom_storyline_1004_ada69506:
 translate zh_Hans femdom_storyline_1004_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:36608
 translate zh_Hans femdom_storyline_1005_928496f9:
@@ -70896,7 +70896,7 @@ translate zh_Hans femdom_storyline_1005_5a960430:
 translate zh_Hans femdom_storyline_1005_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:36697
 translate zh_Hans femdom_storyline_1005_after_c12584c2:
@@ -71102,7 +71102,7 @@ translate zh_Hans femdom_storyline_1006_64aec657:
 translate zh_Hans femdom_storyline_1006_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:36812
 translate zh_Hans femdom_storyline_1006_after_2a4d703e:
@@ -71224,7 +71224,7 @@ translate zh_Hans femdom_storyline_1007_0b2bed8a:
 translate zh_Hans femdom_storyline_1007_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:36906
 translate zh_Hans femdom_storyline_1008_3e3d0fe8:
@@ -71358,7 +71358,7 @@ translate zh_Hans femdom_storyline_1008_dc5ba937:
 translate zh_Hans femdom_storyline_1008_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:36985
 translate zh_Hans femdom_storyline_1009_98399d9d:
@@ -71474,7 +71474,7 @@ translate zh_Hans femdom_storyline_1009_2ec2fc29:
 translate zh_Hans femdom_storyline_1009_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:37056
 translate zh_Hans femdom_storyline_1010_1c3fa803:
@@ -71566,7 +71566,7 @@ translate zh_Hans femdom_storyline_1010_39806488:
 translate zh_Hans femdom_storyline_1010_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:37123
 translate zh_Hans femdom_storyline_1010_after_c73d13ca:
@@ -71766,7 +71766,7 @@ translate zh_Hans femdom_storyline_1011_2b991cbc:
 translate zh_Hans femdom_storyline_1011_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:37239
 translate zh_Hans femdom_storyline_1012_558a4046:
@@ -71870,7 +71870,7 @@ translate zh_Hans femdom_storyline_1012_fa8901c6:
 translate zh_Hans femdom_storyline_1012_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:37307
 translate zh_Hans femdom_storyline_1013_34448d7d:
@@ -71944,7 +71944,7 @@ translate zh_Hans femdom_storyline_1013_17894e47:
 translate zh_Hans femdom_storyline_1013_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:37364
 translate zh_Hans femdom_storyline_1014_b4b72612:
@@ -72096,7 +72096,7 @@ translate zh_Hans femdom_storyline_1014_a57bfa91:
 translate zh_Hans femdom_storyline_1014_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:37454
 translate zh_Hans femdom_storyline_1015_c6715878:
@@ -72398,7 +72398,7 @@ translate zh_Hans femdom_storyline_1015_ae506f59:
 translate zh_Hans femdom_storyline_1015_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:37601
 translate zh_Hans femdom_storyline_1016_bf7b997d:
@@ -72724,7 +72724,7 @@ translate zh_Hans femdom_storyline_1016_9772e822:
 translate zh_Hans femdom_storyline_1016_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:37764
 translate zh_Hans femdom_storyline_1017_76b2fe88:
@@ -72814,7 +72814,7 @@ translate zh_Hans femdom_storyline_1017_2b991cbc:
 translate zh_Hans femdom_storyline_1017_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:37831
 translate zh_Hans femdom_storyline_1018_93a15a1e:
@@ -73026,7 +73026,7 @@ translate zh_Hans femdom_storyline_1018_d81677c1:
 translate zh_Hans femdom_storyline_1018_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:37940
 translate zh_Hans femdom_storyline_1019_b4a0305b:
@@ -73172,7 +73172,7 @@ translate zh_Hans femdom_storyline_1019_9ef137e4:
 translate zh_Hans femdom_storyline_1019_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:38021
 translate zh_Hans femdom_storyline_1020_c9d3bf88:
@@ -73336,7 +73336,7 @@ translate zh_Hans femdom_storyline_1020_3559123e:
 translate zh_Hans femdom_storyline_1020_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:38120
 translate zh_Hans femdom_storyline_1021_76b2fe88:
@@ -73384,7 +73384,7 @@ translate zh_Hans femdom_storyline_1021_9630054e:
 translate zh_Hans femdom_storyline_1021_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:38171
 translate zh_Hans femdom_storyline_1021_after_91f27ce8:
@@ -73656,7 +73656,7 @@ translate zh_Hans femdom_storyline_1022_2a30fdee:
 translate zh_Hans femdom_storyline_1022_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:38311
 translate zh_Hans femdom_storyline_1023_817e0c20:
@@ -73778,7 +73778,7 @@ translate zh_Hans femdom_storyline_1023_51e5fde2:
 translate zh_Hans femdom_storyline_1023_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:38384
 translate zh_Hans femdom_storyline_1024_2b25c593:
@@ -73846,7 +73846,7 @@ translate zh_Hans femdom_storyline_1024_3c81ed46:
 translate zh_Hans femdom_storyline_1024_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:38439
 translate zh_Hans femdom_storyline_1025_536f8bac:
@@ -73968,7 +73968,7 @@ translate zh_Hans femdom_storyline_1025_f125a4d1:
 translate zh_Hans femdom_storyline_1025_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:38518
 translate zh_Hans femdom_storyline_1026_cf458ec1:
@@ -74174,7 +74174,7 @@ translate zh_Hans femdom_storyline_1026_0062de8d:
 translate zh_Hans femdom_storyline_1026_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:38625
 translate zh_Hans femdom_storyline_1027_6ef55f52:
@@ -74314,7 +74314,7 @@ translate zh_Hans femdom_storyline_1027_9c69b004:
 translate zh_Hans femdom_storyline_1027_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:38710
 translate zh_Hans femdom_storyline_1028_76b2fe88:
@@ -74362,7 +74362,7 @@ translate zh_Hans femdom_storyline_1028_9630054e:
 translate zh_Hans femdom_storyline_1028_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:38761
 translate zh_Hans femdom_storyline_1028_after_23b41704:
@@ -74592,7 +74592,7 @@ translate zh_Hans femdom_storyline_1029_7633828e:
 translate zh_Hans femdom_storyline_1029_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:38887
 translate zh_Hans femdom_storyline_1030_46fe31f5:
@@ -74774,7 +74774,7 @@ translate zh_Hans femdom_storyline_1030_12c8d243:
 translate zh_Hans femdom_storyline_1030_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:38980
 translate zh_Hans femdom_storyline_1031_998dc5d3:
@@ -74896,7 +74896,7 @@ translate zh_Hans femdom_storyline_1031_08788377:
 translate zh_Hans femdom_storyline_1031_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:39059
 translate zh_Hans femdom_storyline_1032_76b2fe88:
@@ -75046,7 +75046,7 @@ translate zh_Hans femdom_storyline_1032_10befb9c:
 translate zh_Hans femdom_storyline_1032_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:39152
 translate zh_Hans femdom_storyline_1033_7fe936af:
@@ -75252,7 +75252,7 @@ translate zh_Hans femdom_storyline_1033_164dc431:
 translate zh_Hans femdom_storyline_1033_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:39249
 translate zh_Hans femdom_storyline_1033_after_c12584c2:
@@ -75488,7 +75488,7 @@ translate zh_Hans femdom_storyline_1034_9cb86aae:
 translate zh_Hans femdom_storyline_1034_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:39377
 translate zh_Hans femdom_storyline_1035_56bcd918:
@@ -75628,7 +75628,7 @@ translate zh_Hans femdom_storyline_1035_07c1fc2f:
 translate zh_Hans femdom_storyline_1035_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:39462
 translate zh_Hans femdom_storyline_1036_6a321492:
@@ -75726,7 +75726,7 @@ translate zh_Hans femdom_storyline_1036_dddf6aa7:
 translate zh_Hans femdom_storyline_1036_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:39527
 translate zh_Hans femdom_storyline_1037_d83605f8:
@@ -76088,7 +76088,7 @@ translate zh_Hans femdom_storyline_1037_9ef137e4:
 translate zh_Hans femdom_storyline_1037_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:39692
 translate zh_Hans femdom_storyline_1038_76b2fe88:
@@ -76154,7 +76154,7 @@ translate zh_Hans femdom_storyline_1038_d054178e:
 translate zh_Hans femdom_storyline_1038_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:39749
 translate zh_Hans femdom_storyline_1038_after_3a2f5293:
@@ -76516,7 +76516,7 @@ translate zh_Hans femdom_storyline_1039_8ebfe0e8:
 translate zh_Hans femdom_storyline_1039_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:39948
 translate zh_Hans femdom_storyline_1040_9d0e06aa:
@@ -76698,7 +76698,7 @@ translate zh_Hans femdom_storyline_1040_4f6444d7:
 translate zh_Hans femdom_storyline_1040_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:40043
 translate zh_Hans femdom_storyline_1040_after_ce490b03:
@@ -76940,7 +76940,7 @@ translate zh_Hans femdom_storyline_1041_4c0ce98f:
 translate zh_Hans femdom_storyline_1041_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:40179
 translate zh_Hans femdom_storyline_1042_382b9b0a:
@@ -77038,7 +77038,7 @@ translate zh_Hans femdom_storyline_1042_cce94352:
 translate zh_Hans femdom_storyline_1042_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:40250
 translate zh_Hans femdom_storyline_1043_e69a130b:
@@ -77190,7 +77190,7 @@ translate zh_Hans femdom_storyline_1043_d7fa9c6c:
 translate zh_Hans femdom_storyline_1043_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:40333
 translate zh_Hans femdom_storyline_1044_9509bc46:
@@ -77456,7 +77456,7 @@ translate zh_Hans femdom_storyline_1044_8ebfe0e8:
 translate zh_Hans femdom_storyline_1044_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:40466
 translate zh_Hans femdom_storyline_1045_036affd8:
@@ -77554,7 +77554,7 @@ translate zh_Hans femdom_storyline_1045_5ef56dcb:
 translate zh_Hans femdom_storyline_1045_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:40531
 translate zh_Hans femdom_storyline_1046_75af46f8:
@@ -77748,7 +77748,7 @@ translate zh_Hans femdom_storyline_1046_49045293:
 translate zh_Hans femdom_storyline_1046_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:40624
 translate zh_Hans femdom_storyline_1046_after_36866072:
@@ -77912,7 +77912,7 @@ translate zh_Hans femdom_storyline_1047_7633828e:
 translate zh_Hans femdom_storyline_1047_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:40729
 translate zh_Hans femdom_storyline_1048_0cdbda1a:
@@ -78076,7 +78076,7 @@ translate zh_Hans femdom_storyline_1048_58920545:
 translate zh_Hans femdom_storyline_1048_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:40834
 translate zh_Hans femdom_storyline_1049_036affd8:
@@ -78126,7 +78126,7 @@ translate zh_Hans femdom_storyline_1049_40241bc4:
 translate zh_Hans femdom_storyline_1049_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:40883
 translate zh_Hans femdom_storyline_1050_dce8b5dd:
@@ -78272,7 +78272,7 @@ translate zh_Hans femdom_storyline_1050_461461c7:
 translate zh_Hans femdom_storyline_1050_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:40970
 translate zh_Hans femdom_storyline_1051_7bed265d:
@@ -78304,7 +78304,7 @@ translate zh_Hans femdom_storyline_1051_4b1c2abb:
 translate zh_Hans femdom_storyline_1051_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:41009
 translate zh_Hans femdom_storyline_1051_after_e968c895:
@@ -78418,7 +78418,7 @@ translate zh_Hans femdom_storyline_1052_f7e5bacf:
 translate zh_Hans femdom_storyline_1052_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:41097
 translate zh_Hans femdom_storyline_1052_after_d7682730:
@@ -78540,7 +78540,7 @@ translate zh_Hans femdom_storyline_1053_0c56bb75:
 translate zh_Hans femdom_storyline_1053_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:41188
 translate zh_Hans femdom_storyline_1054_27e72e76:
@@ -78764,7 +78764,7 @@ translate zh_Hans femdom_storyline_1054_af086766:
 translate zh_Hans femdom_storyline_1054_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:41297
 translate zh_Hans femdom_storyline_1054_after_862c23b8:
@@ -79028,7 +79028,7 @@ translate zh_Hans femdom_storyline_1055_5d2da7d5:
 translate zh_Hans femdom_storyline_1055_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 translate zh_Hans strings:
 

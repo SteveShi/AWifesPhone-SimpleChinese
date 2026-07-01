@@ -12514,7 +12514,7 @@ translate zh_Hans julia_storyline_228_5e1dab01:
 translate zh_Hans julia_storyline_228_68480680:
 
     # nvlandrew2 "M&F"
-    nvlandrew2 ""
+    nvlandrew2 "M&F"
 
 # game/scripts/dialogues/julia_storyline.rpy:5974
 translate zh_Hans julia_storyline_228_d7dd3af5:
@@ -50258,7 +50258,7 @@ translate zh_Hans julia_storyline_342_fd408538:
 translate zh_Hans julia_storyline_342_cf123d3a:
 
     # nvlthirdfan "❤️"
-    nvlthirdfan ""
+    nvlthirdfan "❤️"
 
 # game/scripts/dialogues/julia_storyline.rpy:23831
 translate zh_Hans julia_storyline_342_202faf60:
@@ -53074,7 +53074,7 @@ translate zh_Hans julia_storyline_353_a7ef455c:
 translate zh_Hans julia_storyline_353_3dd87ad1:
 
     # nvlsimon "❤️"
-    nvlsimon ""
+    nvlsimon "❤️"
 
 # game/scripts/dialogues/julia_storyline.rpy:25297
 translate zh_Hans julia_storyline_353_53c71d7c:
@@ -58622,7 +58622,7 @@ translate zh_Hans julia_storyline_382_5b32b241:
 translate zh_Hans julia_storyline_382_42b8d510:
 
     # nvlfan "😘😘😘😘😘😘😘😘😘"
-    nvlfan ""
+    nvlfan "😘😘😘😘😘😘😘😘😘"
 
 # game/scripts/dialogues/julia_storyline.rpy:28465
 translate zh_Hans julia_storyline_382_53c71d7c:
@@ -59242,7 +59242,7 @@ translate zh_Hans julia_storyline_386_23eed4bf:
     # nvl clear
     # nvlfan "👋🏻😘"
     nvl clear
-    nvlfan ""
+    nvlfan "👋🏻😘"
 
 # game/scripts/dialogues/julia_storyline.rpy:28775
 translate zh_Hans julia_storyline_386_444e73d2:
@@ -60644,7 +60644,7 @@ translate zh_Hans julia_storyline_394_40518271:
 translate zh_Hans julia_storyline_394_56b34762:
 
     # nvljenna "You know that it was not those pics fault if you got fucked by a bbc?"
-    nvljenna "你知道吗，如果你和黑人壮汉XTAG0X发生了关系，那可不是那些照片的错？"
+    nvljenna "你知道吗，如果你和黑人壮汉发生了关系，那可不是那些照片的错？"
 
 # game/scripts/dialogues/julia_storyline.rpy:29535
 translate zh_Hans julia_storyline_394_d32b0fc5:
@@ -65938,7 +65938,7 @@ translate zh_Hans julia_storyline_417_00853068:
 translate zh_Hans julia_storyline_417_79287d6a:
 
     # nvljohn_f "?"
-    nvljohn_f ""
+    nvljohn_f "?"
 
 # game/scripts/dialogues/julia_storyline.rpy:32000
 translate zh_Hans julia_storyline_417_40518271:
@@ -67984,7 +67984,7 @@ translate zh_Hans julia_storyline_426_204f8c39:
     # nvl clear
     # nvllena_p "😊"
     nvl clear
-    nvllena_p ""
+    nvllena_p "😊"
 
 # game/scripts/dialogues/julia_storyline.rpy:32953
 translate zh_Hans julia_storyline_426_056a82b8:
@@ -68704,7 +68704,7 @@ translate zh_Hans julia_storyline_429_2d1bd27e:
 translate zh_Hans julia_storyline_429_b239a54b:
 
     # nvljohn_f "❤️"
-    nvljohn_f ""
+    nvljohn_f "❤️"
 
 # game/scripts/dialogues/julia_storyline.rpy:33298
 translate zh_Hans julia_storyline_429_53c71d7c:
@@ -69378,7 +69378,7 @@ translate zh_Hans julia_storyline_433_936a88e4:
 translate zh_Hans julia_storyline_433_13e79d21:
 
     # nvljohn_f "❤️❤️❤️"
-    nvljohn_f ""
+    nvljohn_f "❤️❤️❤️"
 
 # game/scripts/dialogues/julia_storyline.rpy:33678
 translate zh_Hans julia_storyline_433_26f6e698:
@@ -80444,7 +80444,7 @@ translate zh_Hans julia_storyline_486_b9824b0e:
 translate zh_Hans julia_storyline_486_bc10ff47:
 
     # nvljohn_f "🎗😘"
-    nvljohn_f ""
+    nvljohn_f "🎗😘"
 
 # game/scripts/dialogues/julia_storyline.rpy:39418
 translate zh_Hans julia_storyline_486_5ad37587:
@@ -81932,7 +81932,7 @@ translate zh_Hans julia_storyline_495_b8d1abb5:
     # nvl clear
     # nvljohn_f "😊"
     nvl clear
-    nvljohn_f ""
+    nvljohn_f "😊"
 
 # game/scripts/dialogues/julia_storyline.rpy:40281
 translate zh_Hans julia_storyline_495_78992993:
@@ -84504,7 +84504,7 @@ translate zh_Hans julia_storyline_510_764a4bb8:
 translate zh_Hans julia_storyline_510_c1960505:
 
     # nvljohn_f "geo.com/331456783"
-    nvljohn_f ""
+    nvljohn_f "geo.com/331456783"
 
 # game/scripts/dialogues/julia_storyline.rpy:41658
 translate zh_Hans julia_storyline_510_63f151ec:
@@ -86814,7 +86814,7 @@ translate zh_Hans julia_storyline_519_84d2fe87:
 translate zh_Hans julia_storyline_519_dddf6aa7:
 
     # nvljenna "❤️"
-    nvljenna ""
+    nvljenna "❤️"
 
 # game/scripts/dialogues/julia_storyline.rpy:42816
 translate zh_Hans julia_storyline_519_01f590cf:
@@ -88124,7 +88124,7 @@ translate zh_Hans julia_storyline_525_84d2fe87:
 translate zh_Hans julia_storyline_525_2b991cbc:
 
     # nvlwife "❤️"
-    nvlwife ""
+    nvlwife "❤️"
 
 # game/scripts/dialogues/julia_storyline.rpy:43511
 translate zh_Hans julia_storyline_525_51929a99:
@@ -88694,7 +88694,7 @@ translate zh_Hans julia_storyline_528_f6988f04:
 translate zh_Hans julia_storyline_528_2b991cbc:
 
     # nvlwife "❤️"
-    nvlwife ""
+    nvlwife "❤️"
 
 # game/scripts/dialogues/julia_storyline.rpy:43815
 translate zh_Hans julia_storyline_528_fa92aaf4:
@@ -89008,7 +89008,7 @@ translate zh_Hans julia_storyline_529_7f22dde4:
 translate zh_Hans julia_storyline_529_2b991cbc:
 
     # nvlwife "❤️"
-    nvlwife ""
+    nvlwife "❤️"
 
 # game/scripts/dialogues/julia_storyline.rpy:43961
 translate zh_Hans julia_storyline_529_eb0f8570:
@@ -89190,7 +89190,7 @@ translate zh_Hans julia_storyline_530_13cb4acb:
 translate zh_Hans julia_storyline_530_b239a54b:
 
     # nvljohn_f "❤️"
-    nvljohn_f ""
+    nvljohn_f "❤️"
 
 # game/scripts/dialogues/julia_storyline.rpy:44054
 translate zh_Hans julia_storyline_530_20341484:
@@ -89648,7 +89648,7 @@ translate zh_Hans julia_storyline_534_f4c61277:
 translate zh_Hans julia_storyline_534_9033cd8d:
 
     # nvlson "❤️"
-    nvlson ""
+    nvlson "❤️"
 
 # game/scripts/dialogues/julia_storyline.rpy:44364
 translate zh_Hans julia_storyline_534_77f3f0aa:
@@ -90916,7 +90916,7 @@ translate zh_Hans julia_storyline_541_bd2834cd:
 translate zh_Hans julia_storyline_541_b239a54b:
 
     # nvljohn_f "❤️"
-    nvljohn_f ""
+    nvljohn_f "❤️"
 
 # game/scripts/dialogues/julia_storyline.rpy:45043
 translate zh_Hans julia_storyline_541_6ac0ae7c_1:

@@ -6504,7 +6504,7 @@ translate zh_Hans mark_fem_storyline_25_f2a8531b:
 translate zh_Hans mark_fem_storyline_25_a7b63674:
 
     # nvljenna "@helenka_demidova"
-    nvljenna ""
+    nvljenna "@helenka_demidova"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:3225
 translate zh_Hans mark_fem_storyline_25_a9d2ab5f:
@@ -9476,7 +9476,7 @@ translate zh_Hans mark_fem_storyline_38_f6918d1e:
 translate zh_Hans mark_fem_storyline_38_5d360447:
 
     # nvlmark "I was way too drunk, I didn’t know what I was doing."
-    nvlmark "哦天哪，XTAG0X，我为昨晚的事感到非常抱歉😣"
+    nvlmark "哦天哪，，我为昨晚的事感到非常抱歉😣"
 
 # game/scripts/dialogues/mark_fem_storyline.rpy:4809
 translate zh_Hans mark_fem_storyline_38_00294498:

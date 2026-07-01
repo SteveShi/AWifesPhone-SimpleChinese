@@ -396,7 +396,7 @@ translate zh_Hans fem_mc_storyline_169_4bafe389:
 translate zh_Hans fem_mc_storyline_169_975050dc:
 
     # nvljenna "Yes"
-    nvljenna "XTAG0X是的。"
+    nvljenna "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:375
 translate zh_Hans fem_mc_storyline_169_c66bca18:
@@ -444,7 +444,7 @@ translate zh_Hans fem_mc_storyline_169_f69fe369:
 translate zh_Hans fem_mc_storyline_169_dc645139:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:391
 translate zh_Hans fem_mc_storyline_169_eff28a4f:
@@ -764,7 +764,7 @@ translate zh_Hans fem_mc_storyline_170_daab80ed:
 translate zh_Hans fem_mc_storyline_170_4b751fbb:
 
     # nvlwife "Yes"
-    nvlwife "XTAG0X是的。"
+    nvlwife "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:542
 translate zh_Hans fem_mc_storyline_170_097a79ae:
@@ -1028,7 +1028,7 @@ translate zh_Hans fem_mc_storyline_170_aab3e939:
 translate zh_Hans fem_mc_storyline_170_4b751fbb_1:
 
     # nvlwife "Yes"
-    nvlwife "XTAG0X是的。"
+    nvlwife "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:630
 translate zh_Hans fem_mc_storyline_170_e8474e35:
@@ -1144,7 +1144,7 @@ translate zh_Hans fem_mc_storyline_171_b09288e4:
 translate zh_Hans fem_mc_storyline_171_dc645139:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:701
 translate zh_Hans fem_mc_storyline_171_4fe5aa2c:
@@ -1560,7 +1560,7 @@ translate zh_Hans fem_mc_storyline_172_4ab2dae7:
 translate zh_Hans fem_mc_storyline_172_0085d961:
 
     # nvljohn "I don't think I can handle 10"
-    nvljohn "十根？哎呀，人家的小嘴巴可不一定能全部XTAG0X伺候好呢~"
+    nvljohn "我觉得我应付不了十个。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:884
 translate zh_Hans fem_mc_storyline_172_814109dd:
@@ -1610,7 +1610,7 @@ translate zh_Hans fem_mc_storyline_173_aae9b134:
 translate zh_Hans fem_mc_storyline_173_2ab95664:
 
     # nvlwife "Right?"
-    nvlwife "XTAG0X对不对？"
+    nvlwife "对不对？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:936
 translate zh_Hans fem_mc_storyline_173_a5a2ab4b:
@@ -1694,13 +1694,13 @@ translate zh_Hans fem_mc_storyline_173_bfbc135f:
 translate zh_Hans fem_mc_storyline_173_4ea4372c:
 
     # nvljohn "Especially if it involves sex"
-    nvljohn "尤其是那种有XTAG0X的，人家最喜欢了~"
+    nvljohn "尤其是那种有的，人家最喜欢了~"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:964
 translate zh_Hans fem_mc_storyline_173_dbd5f154:
 
     # nvljohn "And to clubs and bars too"
-    nvljohn "还有那些XTAG0X俱乐部和酒吧，人家都想去呢~"
+    nvljohn "还有那些俱乐部和酒吧，人家都想去呢~"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:966
 translate zh_Hans fem_mc_storyline_173_7e2408d6:
@@ -1718,7 +1718,7 @@ translate zh_Hans fem_mc_storyline_173_47dfa22e:
 translate zh_Hans fem_mc_storyline_173_9ef137e4:
 
     # nvljohn "❤️"
-    nvljohn ""
+    nvljohn "❤️"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:972
 translate zh_Hans fem_mc_storyline_173_4cdc7732:
@@ -1736,7 +1736,7 @@ translate zh_Hans fem_mc_storyline_173_d17d08eb:
 translate zh_Hans fem_mc_storyline_173_eafa22c8:
 
     # nvljohn "For not being for supporting me in everything that's happening"
-    nvljohn "谢谢你支持人家经历的这一切，没有丝毫的XTAG0X嫌弃~"
+    nvljohn "谢谢你支持人家经历的这一切，没有丝毫的嫌弃~"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:978
 translate zh_Hans fem_mc_storyline_173_c0853621:
@@ -1760,7 +1760,7 @@ translate zh_Hans fem_mc_storyline_173_67ee94ad:
 translate zh_Hans fem_mc_storyline_173_9ef137e4_1:
 
     # nvljohn "❤️"
-    nvljohn ""
+    nvljohn "❤️"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:986
 translate zh_Hans fem_mc_storyline_173_409a4994:
@@ -1828,7 +1828,7 @@ translate zh_Hans fem_mc_storyline_174_a90d2554:
 translate zh_Hans fem_mc_storyline_174_89a8568b:
 
     # nvljenna "How many cocks did you manage to suck?"
-    nvljenna "你XTAG0X吸了多少根XTAG0X呢？"
+    nvljenna "你吸了多少根呢？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:1041
 translate zh_Hans fem_mc_storyline_174_ce69bd67:
@@ -1852,13 +1852,13 @@ translate zh_Hans fem_mc_storyline_174_9b9c6f0c:
 translate zh_Hans fem_mc_storyline_174_4972b575:
 
     # nvljohn "But I'm not sure. Maybe some people gave me their cocks twice"
-    nvljohn "不过人家也不确定啦。说不定有的人，人家XTAG0X伺候了两遍呢~"
+    nvljohn "不过人家也不确定啦。说不定有的人，人家伺候了两遍呢~"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:1049
 translate zh_Hans fem_mc_storyline_174_501363b2:
 
     # nvljohn "Sometimes it felt like I was sucking the same cock I'd already sucked"
-    nvljohn "有时候感觉，人家好像在XTAG0X含着同一根XTAG0X呢~"
+    nvljohn "有时候感觉，人家好像在含着同一根呢~"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:1051
 translate zh_Hans fem_mc_storyline_174_43f1dcb9:
@@ -1870,13 +1870,13 @@ translate zh_Hans fem_mc_storyline_174_43f1dcb9:
 translate zh_Hans fem_mc_storyline_174_f47185a0:
 
     # nvljenna "What did you feel when you were sucking cocks through the hole?"
-    nvljenna "当你透过那个洞XTAG0X吸着那些XTAG0X的时候，你有什么感觉？"
+    nvljenna "当你透过那个洞吸着那些的时候，你有什么感觉？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:1055
 translate zh_Hans fem_mc_storyline_174_c0ce7233:
 
     # nvljenna "Did it turn you on?"
-    nvljenna "它让你XTAG0X兴奋了吗？"
+    nvljenna "它让你兴奋了吗？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:1057
 translate zh_Hans fem_mc_storyline_174_83a3dcfa:
@@ -1888,7 +1888,7 @@ translate zh_Hans fem_mc_storyline_174_83a3dcfa:
 translate zh_Hans fem_mc_storyline_174_f875feb4:
 
     # nvljohn "I felt so good"
-    nvljohn "人家感觉XTAG0X好舒服、好XTAG0X销魂呢~"
+    nvljohn "人家感觉好舒服、好销魂呢~"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:1061
 translate zh_Hans fem_mc_storyline_174_1fcc037a:
@@ -1900,25 +1900,25 @@ translate zh_Hans fem_mc_storyline_174_1fcc037a:
 translate zh_Hans fem_mc_storyline_174_f5d39d18:
 
     # nvljohn "Heat"
-    nvljohn "XTAG0X热热的~"
+    nvljohn "热热的~"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:1065
 translate zh_Hans fem_mc_storyline_174_bb0bd706:
 
     # nvljohn "Heat all over my body"
-    nvljohn "人家全身都XTAG0X热起来了呢~"
+    nvljohn "人家全身都热起来了呢~"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:1067
 translate zh_Hans fem_mc_storyline_174_305a6853:
 
     # nvljohn "Especially in my lower belly"
-    nvljohn "尤其是人家的小腹，XTAG0X那里~"
+    nvljohn "尤其是人家的小腹，那里~"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:1069
 translate zh_Hans fem_mc_storyline_174_487bc644:
 
     # nvljenna "Did you play with your cock while you were sucking the other men's cocks?"
-    nvljenna "当你XTAG0X吸着其他男人的XTAG0X时，你有玩弄自己的XTAG0X吗？"
+    nvljenna "当你吸着其他男人的时，你有玩弄自己的吗？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:1071
 translate zh_Hans fem_mc_storyline_174_f16e42ac:
@@ -1930,7 +1930,7 @@ translate zh_Hans fem_mc_storyline_174_f16e42ac:
 translate zh_Hans fem_mc_storyline_174_ac0b6b0b:
 
     # nvljohn "I was in chastity yesterday"
-    nvljohn "人家昨天被XTAG0X锁起来了呢~"
+    nvljohn "人家昨天被锁起来了呢~"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:1075
 translate zh_Hans fem_mc_storyline_174_24f72432_1:
@@ -1942,7 +1942,7 @@ translate zh_Hans fem_mc_storyline_174_24f72432_1:
 translate zh_Hans fem_mc_storyline_174_a6bb9e63:
 
     # nvljenna "So you were a proper girl yesterday"
-    nvljenna "所以你昨天是个乖XTAG0X女孩呢"
+    nvljenna "所以你昨天是个乖女孩呢"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:1079
 translate zh_Hans fem_mc_storyline_174_c1bd69a4:
@@ -2136,7 +2136,7 @@ translate zh_Hans fem_mc_storyline_175_f5779ea5:
 translate zh_Hans fem_mc_storyline_175_e51a219b:
 
     # nvljoshua "Yes"
-    nvljoshua "XTAG0X是的。"
+    nvljoshua "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:1178
 translate zh_Hans fem_mc_storyline_175_c4fe0d96:
@@ -3752,7 +3752,7 @@ translate zh_Hans fem_mc_storyline_182_34b45e85:
 translate zh_Hans fem_mc_storyline_182_dc645139:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:1979
 translate zh_Hans fem_mc_storyline_182_ff3d6f81:
@@ -4652,7 +4652,7 @@ translate zh_Hans fem_mc_storyline_185_db23a70a:
 translate zh_Hans fem_mc_storyline_185_9ef137e4:
 
     # nvljohn "❤️"
-    nvljohn ""
+    nvljohn "❤️"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:2384
 translate zh_Hans fem_mc_storyline_185_c752ce3e:
@@ -5130,7 +5130,7 @@ translate zh_Hans fem_mc_storyline_187_85afee56:
 translate zh_Hans fem_mc_storyline_187_dc645139:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:2619
 translate zh_Hans fem_mc_storyline_187_b15c0eb3:
@@ -5692,7 +5692,7 @@ translate zh_Hans fem_mc_storyline_189_e1e36aa9:
 translate zh_Hans fem_mc_storyline_189_dc645139:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:2879
 translate zh_Hans fem_mc_storyline_189_60062b16:
@@ -6604,7 +6604,7 @@ translate zh_Hans fem_mc_storyline_192_60511468:
 translate zh_Hans fem_mc_storyline_192_dc645139:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:3276
 translate zh_Hans fem_mc_storyline_192_65df2f5d:
@@ -6962,7 +6962,7 @@ translate zh_Hans fem_mc_storyline_194_c545b188:
 translate zh_Hans fem_mc_storyline_194_dc645139:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:3460
 translate zh_Hans fem_mc_storyline_194_140edf4f:
@@ -7028,7 +7028,7 @@ translate zh_Hans fem_mc_storyline_194_f552309e:
 translate zh_Hans fem_mc_storyline_194_975050dc:
 
     # nvljenna "Yes"
-    nvljenna "XTAG0X是的。"
+    nvljenna "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:3482
 translate zh_Hans fem_mc_storyline_194_79f431e6:
@@ -7498,7 +7498,7 @@ translate zh_Hans fem_mc_storyline_195_4cc150f0:
 translate zh_Hans fem_mc_storyline_195_e51a219b:
 
     # nvljoshua "Yes"
-    nvljoshua "XTAG0X是的。"
+    nvljoshua "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:3693
 translate zh_Hans fem_mc_storyline_195_544760f6:
@@ -7698,7 +7698,7 @@ translate zh_Hans fem_mc_storyline_196_d5980798:
 translate zh_Hans fem_mc_storyline_196_dc645139:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:3790
 translate zh_Hans fem_mc_storyline_196_56e93e82:
@@ -7916,7 +7916,7 @@ translate zh_Hans fem_mc_storyline_197_8ec5a3f4:
 translate zh_Hans fem_mc_storyline_197_dc645139:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:3897
 translate zh_Hans fem_mc_storyline_197_d2515184:
@@ -7988,7 +7988,7 @@ translate zh_Hans fem_mc_storyline_197_da22066b:
 translate zh_Hans fem_mc_storyline_197_5c519ecb:
 
     # nvlsalim "Yes"
-    nvlsalim "XTAG0X是的。"
+    nvlsalim "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:3921
 translate zh_Hans fem_mc_storyline_197_a034a99e:
@@ -8248,7 +8248,7 @@ translate zh_Hans fem_mc_storyline_198_8ee8512d:
 translate zh_Hans fem_mc_storyline_198_dc645139:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:4038
 translate zh_Hans fem_mc_storyline_198_832cc51b:
@@ -8428,7 +8428,7 @@ translate zh_Hans fem_mc_storyline_198_d223b4bd:
 translate zh_Hans fem_mc_storyline_198_dddf6aa7:
 
     # nvljenna "❤️"
-    nvljenna ""
+    nvljenna "❤️"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:4102
 translate zh_Hans fem_mc_storyline_198_71636fb0:
@@ -8476,7 +8476,7 @@ translate zh_Hans fem_mc_storyline_198_49fb11f5:
 translate zh_Hans fem_mc_storyline_198_975050dc:
 
     # nvljenna "Yes"
-    nvljenna "XTAG0X是的。"
+    nvljenna "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:4118
 translate zh_Hans fem_mc_storyline_198_94f59ea7:
@@ -8512,7 +8512,7 @@ translate zh_Hans fem_mc_storyline_198_6975c92a:
 translate zh_Hans fem_mc_storyline_198_975050dc_1:
 
     # nvljenna "Yes"
-    nvljenna "XTAG0X是的。"
+    nvljenna "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:4130
 translate zh_Hans fem_mc_storyline_198_4dbe0a14:
@@ -8772,7 +8772,7 @@ translate zh_Hans fem_mc_storyline_199_5ddfc80f:
 translate zh_Hans fem_mc_storyline_199_dc645139:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:4247
 translate zh_Hans fem_mc_storyline_199_3743dceb:
@@ -8874,7 +8874,7 @@ translate zh_Hans fem_mc_storyline_199_c138e9fe:
 translate zh_Hans fem_mc_storyline_199_dc645139_1:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:4281
 translate zh_Hans fem_mc_storyline_199_f8ac306f:
@@ -9308,7 +9308,7 @@ translate zh_Hans fem_mc_storyline_200_4db423f9:
 translate zh_Hans fem_mc_storyline_200_438a890b:
 
     # nvleric2 "Yes"
-    nvleric2 "XTAG0X是的。"
+    nvleric2 "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:4460
 translate zh_Hans fem_mc_storyline_200_1c5d5a23:
@@ -9930,7 +9930,7 @@ translate zh_Hans fem_mc_storyline_203_216f6bb7:
 translate zh_Hans fem_mc_storyline_203_e51a219b:
 
     # nvljoshua "Yes"
-    nvljoshua "XTAG0X是的。"
+    nvljoshua "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:4773
 translate zh_Hans fem_mc_storyline_203_0fe3c543:
@@ -10184,7 +10184,7 @@ translate zh_Hans fem_mc_storyline_204_16ec99ff:
 translate zh_Hans fem_mc_storyline_204_dc645139:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:4906
 translate zh_Hans fem_mc_storyline_204_402dee3f:
@@ -10238,7 +10238,7 @@ translate zh_Hans fem_mc_storyline_204_b1812a30:
 translate zh_Hans fem_mc_storyline_204_dc645139_1:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:4924
 translate zh_Hans fem_mc_storyline_204_b15c0eb3_1:
@@ -10286,7 +10286,7 @@ translate zh_Hans fem_mc_storyline_204_18ba44e6:
 translate zh_Hans fem_mc_storyline_204_975050dc:
 
     # nvljenna "Yes"
-    nvljenna "XTAG0X是的。"
+    nvljenna "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:4940
 translate zh_Hans fem_mc_storyline_204_f5809e90:
@@ -10770,7 +10770,7 @@ translate zh_Hans fem_mc_storyline_206_526698aa:
 translate zh_Hans fem_mc_storyline_206_dc645139:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:5166
 translate zh_Hans fem_mc_storyline_206_77f31e73:
@@ -11478,7 +11478,7 @@ translate zh_Hans fem_mc_storyline_209_269099f9:
 translate zh_Hans fem_mc_storyline_209_e51a219b:
 
     # nvljoshua "Yes"
-    nvljoshua "XTAG0X是的。"
+    nvljoshua "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:5505
 translate zh_Hans fem_mc_storyline_209_7338f86b:
@@ -11720,7 +11720,7 @@ translate zh_Hans fem_mc_storyline_210_cc6334e2:
 translate zh_Hans fem_mc_storyline_210_ea72c921:
 
     # nvljohn "That's enough, Eric"
-    nvljohn "哎呀，够了啦，XTAG0X！"
+    nvljohn "哎呀，够了啦，！"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:5614
 translate zh_Hans fem_mc_storyline_210_d1cfca8e:
@@ -12152,7 +12152,7 @@ translate zh_Hans fem_mc_storyline_213_bcb4cade:
 translate zh_Hans fem_mc_storyline_213_798d3f3d:
 
     # nvljohn "Right?"
-    nvljohn "XTAG0X对不对？"
+    nvljohn "对不对？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:5857
 translate zh_Hans fem_mc_storyline_213_4297ebc8:
@@ -12628,7 +12628,7 @@ translate zh_Hans fem_mc_storyline_214_0bef291d:
 translate zh_Hans fem_mc_storyline_214_dc645139:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:6050
 translate zh_Hans fem_mc_storyline_214_9c58175d:
@@ -12808,7 +12808,7 @@ translate zh_Hans fem_mc_storyline_214_92384e75:
 translate zh_Hans fem_mc_storyline_214_dc645139_1:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:6118
 translate zh_Hans fem_mc_storyline_214_ec4ab48d:
@@ -12850,7 +12850,7 @@ translate zh_Hans fem_mc_storyline_214_3927a4d9:
 translate zh_Hans fem_mc_storyline_214_0a64f828:
 
     # nvljenna "I want to invite your wife too"
-    nvljenna "我想把你的XTAG0X也拉上，我们一起玩嘛~"
+    nvljenna "我也想邀请你的妻子。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:6132
 translate zh_Hans fem_mc_storyline_214_dd85709a:
@@ -13080,7 +13080,7 @@ translate zh_Hans fem_mc_storyline_215_0d17360d:
 translate zh_Hans fem_mc_storyline_215_dc645139:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:6243
 translate zh_Hans fem_mc_storyline_215_dc96e9e3:
@@ -13456,7 +13456,7 @@ translate zh_Hans fem_mc_storyline_217_bb383f3a:
 translate zh_Hans fem_mc_storyline_217_dc645139:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:6435
 translate zh_Hans fem_mc_storyline_217_336b0049:
@@ -15000,7 +15000,7 @@ translate zh_Hans fem_mc_storyline_224_215d3ce8:
 translate zh_Hans fem_mc_storyline_224_dc645139:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:7182
 translate zh_Hans fem_mc_storyline_224_4bee7c62:
@@ -16136,7 +16136,7 @@ translate zh_Hans fem_mc_storyline_228_6bb683a7:
 translate zh_Hans fem_mc_storyline_228_975050dc:
 
     # nvljenna "Yes"
-    nvljenna "XTAG0X是的。"
+    nvljenna "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:7706
 translate zh_Hans fem_mc_storyline_228_3764074a:
@@ -16548,7 +16548,7 @@ translate zh_Hans fem_mc_storyline_230_0db14db1:
 translate zh_Hans fem_mc_storyline_230_dc645139:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:7918
 translate zh_Hans fem_mc_storyline_230_457c224d:
@@ -16778,7 +16778,7 @@ translate zh_Hans fem_mc_storyline_231_1a5b3999:
 translate zh_Hans fem_mc_storyline_231_dc645139:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:8029
 translate zh_Hans fem_mc_storyline_231_d81e521c:
@@ -16814,7 +16814,7 @@ translate zh_Hans fem_mc_storyline_231_c41b3b2c:
 translate zh_Hans fem_mc_storyline_231_dc645139_1:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:8041
 translate zh_Hans fem_mc_storyline_231_0c515397:
@@ -16832,7 +16832,7 @@ translate zh_Hans fem_mc_storyline_231_1c4fc894:
 translate zh_Hans fem_mc_storyline_231_dc645139_2:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:8047
 translate zh_Hans fem_mc_storyline_231_952a51a5:
@@ -16898,7 +16898,7 @@ translate zh_Hans fem_mc_storyline_231_3197cef8:
 translate zh_Hans fem_mc_storyline_231_dc645139_3:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:8069
 translate zh_Hans fem_mc_storyline_231_736dda71:
@@ -17600,7 +17600,7 @@ translate zh_Hans fem_mc_storyline_235_8b2cf166:
 translate zh_Hans fem_mc_storyline_235_dc645139:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:8429
 translate zh_Hans fem_mc_storyline_235_0e0ff44e:
@@ -17866,7 +17866,7 @@ translate zh_Hans fem_mc_storyline_236_0528f9e7:
 translate zh_Hans fem_mc_storyline_236_dc645139:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:8548
 translate zh_Hans fem_mc_storyline_236_6d8a4520:
@@ -17940,7 +17940,7 @@ translate zh_Hans fem_mc_storyline_237_b9595343:
 translate zh_Hans fem_mc_storyline_237_975050dc:
 
     # nvljenna "Yes"
-    nvljenna "XTAG0X是的。"
+    nvljenna "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:8603
 translate zh_Hans fem_mc_storyline_237_d652dc4b:
@@ -18554,7 +18554,7 @@ translate zh_Hans fem_mc_storyline_238_327d6967:
 translate zh_Hans fem_mc_storyline_238_dc645139:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:8850
 translate zh_Hans fem_mc_storyline_238_87c559ed:
@@ -19576,7 +19576,7 @@ translate zh_Hans fem_mc_storyline_242_1c426d4f:
 translate zh_Hans fem_mc_storyline_242_dc645139:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:9350
 translate zh_Hans fem_mc_storyline_242_b15b1f58:
@@ -19612,7 +19612,7 @@ translate zh_Hans fem_mc_storyline_242_f5779ea5:
 translate zh_Hans fem_mc_storyline_242_975050dc:
 
     # nvljenna "Yes"
-    nvljenna "XTAG0X是的。"
+    nvljenna "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:9362
 translate zh_Hans fem_mc_storyline_242_62523267:
@@ -20036,7 +20036,7 @@ translate zh_Hans fem_mc_storyline_244_62c0f8fa:
 translate zh_Hans fem_mc_storyline_244_e7da9d0c:
 
     # nvljohn "It was just incredible"
-    nvljohn "简直太XTAG0X不可思议XTAG1X了。"
+    nvljohn "简直太不可思议了。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:9580
 translate zh_Hans fem_mc_storyline_244_4cdc7732:
@@ -20048,7 +20048,7 @@ translate zh_Hans fem_mc_storyline_244_4cdc7732:
 translate zh_Hans fem_mc_storyline_244_dddf6aa7:
 
     # nvljenna "❤️"
-    nvljenna ""
+    nvljenna "❤️"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:9586
 translate zh_Hans fem_mc_storyline_244_ef165051:
@@ -20670,7 +20670,7 @@ translate zh_Hans fem_mc_storyline_246_698ec29a:
 translate zh_Hans fem_mc_storyline_246_91676d60:
 
     # nvllynn "❤️"
-    nvllynn ""
+    nvllynn "❤️"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:9866
 translate zh_Hans fem_mc_storyline_246_f2eb50c4:
@@ -23152,7 +23152,7 @@ translate zh_Hans fem_mc_storyline_255_e83e600e:
 translate zh_Hans fem_mc_storyline_255_dc645139:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:11032
 translate zh_Hans fem_mc_storyline_255_4b55be0e:
@@ -25228,7 +25228,7 @@ translate zh_Hans fem_mc_storyline_261_018a775f:
 translate zh_Hans fem_mc_storyline_261_4b751fbb:
 
     # nvlwife "Yes"
-    nvlwife "XTAG0X是的。"
+    nvlwife "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:11964
 translate zh_Hans fem_mc_storyline_261_e8965501:
@@ -25536,7 +25536,7 @@ translate zh_Hans fem_mc_storyline_262_29a8913c:
 translate zh_Hans fem_mc_storyline_262_dc645139:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:12101
 translate zh_Hans fem_mc_storyline_262_b9aeeb3e:
@@ -26392,7 +26392,7 @@ translate zh_Hans fem_mc_storyline_264_dcf9ffad:
 translate zh_Hans fem_mc_storyline_264_dc645139:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:12457
 translate zh_Hans fem_mc_storyline_264_22638bb2:
@@ -26682,7 +26682,7 @@ translate zh_Hans fem_mc_storyline_265_59ceb978:
 translate zh_Hans fem_mc_storyline_265_dc645139:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:12588
 translate zh_Hans fem_mc_storyline_265_22638bb2:
@@ -27762,7 +27762,7 @@ translate zh_Hans fem_mc_storyline_268_4bafe389:
 translate zh_Hans fem_mc_storyline_268_975050dc:
 
     # nvljenna "Yes"
-    nvljenna "XTAG0X是的。"
+    nvljenna "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:13057
 translate zh_Hans fem_mc_storyline_268_7cf3709c:
@@ -27834,7 +27834,7 @@ translate zh_Hans fem_mc_storyline_268_96b51277:
 translate zh_Hans fem_mc_storyline_268_dc645139:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:13085
 translate zh_Hans fem_mc_storyline_268_d52c8c30:
@@ -27876,7 +27876,7 @@ translate zh_Hans fem_mc_storyline_268_3a843fea:
 translate zh_Hans fem_mc_storyline_268_dc645139_1:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:13099
 translate zh_Hans fem_mc_storyline_268_8676d8b8:
@@ -29916,7 +29916,7 @@ translate zh_Hans fem_mc_storyline_278_a5268d91:
 translate zh_Hans fem_mc_storyline_278_4b751fbb:
 
     # nvlwife "Yes"
-    nvlwife "XTAG0X是的。"
+    nvlwife "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:14127
 translate zh_Hans fem_mc_storyline_278_a10c97c5:
@@ -30206,7 +30206,7 @@ translate zh_Hans fem_mc_storyline_280_021ea60a:
 translate zh_Hans fem_mc_storyline_280_dc645139:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:14287
 translate zh_Hans fem_mc_storyline_280_f987c30a:
@@ -33426,7 +33426,7 @@ translate zh_Hans fem_mc_storyline_291_c0e0986b:
 translate zh_Hans fem_mc_storyline_291_5c519ecb:
 
     # nvlsalim "Yes"
-    nvlsalim "XTAG0X是的。"
+    nvlsalim "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:15759
 translate zh_Hans fem_mc_storyline_291_52d71ce8:
@@ -35752,7 +35752,7 @@ translate zh_Hans fem_mc_storyline_305_7f162a79:
 translate zh_Hans fem_mc_storyline_305_5c519ecb:
 
     # nvlsalim "Yes"
-    nvlsalim "XTAG0X是的。"
+    nvlsalim "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:17029
 translate zh_Hans fem_mc_storyline_305_eb9dd795:
@@ -37496,7 +37496,7 @@ translate zh_Hans fem_mc_storyline_313_a1cf6c98:
 translate zh_Hans fem_mc_storyline_313_5c519ecb:
 
     # nvlsalim "Yes"
-    nvlsalim "XTAG0X是的。"
+    nvlsalim "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:17885
 translate zh_Hans fem_mc_storyline_313_009654af:
@@ -38154,7 +38154,7 @@ translate zh_Hans fem_mc_storyline_315_0a9df29d:
 translate zh_Hans fem_mc_storyline_315_d85b34ef:
 
     # nvlwife "❤️😉"
-    nvlwife ""
+    nvlwife "❤️😉"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:18183
 translate zh_Hans fem_mc_storyline_315_62299051:
@@ -38754,7 +38754,7 @@ translate zh_Hans fem_mc_storyline_318_14dd4f50:
 translate zh_Hans fem_mc_storyline_318_9ef137e4:
 
     # nvljohn "❤️"
-    nvljohn ""
+    nvljohn "❤️"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:18484
 translate zh_Hans fem_mc_storyline_318_e27da8a5:
@@ -39832,7 +39832,7 @@ translate zh_Hans fem_mc_storyline_323_4bafe389:
 translate zh_Hans fem_mc_storyline_323_4b751fbb:
 
     # nvlwife "Yes"
-    nvlwife "XTAG0X是的。"
+    nvlwife "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:19011
 translate zh_Hans fem_mc_storyline_323_332a83f1:
@@ -40128,7 +40128,7 @@ translate zh_Hans fem_mc_storyline_324_577bdabc:
 translate zh_Hans fem_mc_storyline_324_975050dc:
 
     # nvljenna "Yes"
-    nvljenna "XTAG0X是的。"
+    nvljenna "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:19146
 translate zh_Hans fem_mc_storyline_324_14430f4f:
@@ -42602,7 +42602,7 @@ translate zh_Hans fem_mc_storyline_334_96a838d8:
 translate zh_Hans fem_mc_storyline_334_ec7df904:
 
     # nvljoshua "❤️"
-    nvljoshua ""
+    nvljoshua "❤️"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:20310
 translate zh_Hans fem_mc_storyline_334_208fe718:
@@ -42730,7 +42730,7 @@ translate zh_Hans fem_mc_storyline_335_4b669a4d:
 translate zh_Hans fem_mc_storyline_335_b2e845a9:
 
     # nvlpedro "Right?"
-    nvlpedro "XTAG0X对不对？"
+    nvlpedro "对不对？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:20385
 translate zh_Hans fem_mc_storyline_335_c1743304:
@@ -43672,7 +43672,7 @@ translate zh_Hans fem_mc_storyline_338_6d6703c9:
 translate zh_Hans fem_mc_storyline_338_6582cd49:
 
     # nvltina "❤️"
-    nvltina ""
+    nvltina "❤️"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:20812
 translate zh_Hans fem_mc_storyline_338_59c34635:
@@ -44084,7 +44084,7 @@ translate zh_Hans fem_mc_storyline_340_0ff24161:
 translate zh_Hans fem_mc_storyline_340_9ef137e4:
 
     # nvljohn "❤️"
-    nvljohn ""
+    nvljohn "❤️"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:21026
 translate zh_Hans fem_mc_storyline_340_f18e38de:
@@ -48830,7 +48830,7 @@ translate zh_Hans fem_mc_storyline_355_097a8c01:
 translate zh_Hans fem_mc_storyline_355_5c519ecb:
 
     # nvlsalim "Yes"
-    nvlsalim "XTAG0X是的。"
+    nvlsalim "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:23125
 translate zh_Hans fem_mc_storyline_355_9fc17677:
@@ -49102,7 +49102,7 @@ translate zh_Hans fem_mc_storyline_356_ae9818a9:
 translate zh_Hans fem_mc_storyline_356_2b991cbc:
 
     # nvlwife "❤️"
-    nvlwife ""
+    nvlwife "❤️"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:23266
 translate zh_Hans fem_mc_storyline_356_53c71d7c:
@@ -50116,7 +50116,7 @@ translate zh_Hans fem_mc_storyline_362_c0c2bc72:
 translate zh_Hans fem_mc_storyline_362_b9972f75:
 
     # nvljohn "?!"
-    nvljohn ""
+    nvljohn "?!"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:23790
 translate zh_Hans fem_mc_storyline_362_dd14a767:
@@ -50358,7 +50358,7 @@ translate zh_Hans fem_mc_storyline_363_c1bd69a4:
 translate zh_Hans fem_mc_storyline_363_2b991cbc:
 
     # nvlwife "❤️"
-    nvlwife ""
+    nvlwife "❤️"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:23907
 translate zh_Hans fem_mc_storyline_363_4a3ba36b:
@@ -50492,7 +50492,7 @@ translate zh_Hans fem_mc_storyline_364_5bc03497:
 translate zh_Hans fem_mc_storyline_364_4b751fbb:
 
     # nvlwife "Yes"
-    nvlwife "XTAG0X是的。"
+    nvlwife "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:23984
 translate zh_Hans fem_mc_storyline_364_14c03422:
@@ -51026,7 +51026,7 @@ translate zh_Hans fem_mc_storyline_367_8ef3cc63:
 translate zh_Hans fem_mc_storyline_367_91676d60:
 
     # nvllynn "❤️"
-    nvllynn ""
+    nvllynn "❤️"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:24269
 translate zh_Hans fem_mc_storyline_367_4728280a:
@@ -52066,7 +52066,7 @@ translate zh_Hans fem_mc_storyline_374_2e53e335:
     # nvl clear
     # nvllynn "[s_mc_name_is]"
     nvl clear
-    nvllynn ""
+    nvllynn "[s_mc_name_is]"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:24879
 translate zh_Hans fem_mc_storyline_374_d503cd6e:
@@ -52836,7 +52836,7 @@ translate zh_Hans fem_mc_storyline_381_4f41e069:
 translate zh_Hans fem_mc_storyline_381_3f240ad7:
 
     # nvljohn "I was thinking about posting it along with this"
-    nvljohn "我正想着把这个和XTAG0XXTAG1X一起发呢"
+    nvljohn "我正想着把这个一起发出去。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:25379
 translate zh_Hans fem_mc_storyline_381_490e9135:
@@ -53716,7 +53716,7 @@ translate zh_Hans fem_mc_storyline_386_04177a84:
 translate zh_Hans fem_mc_storyline_386_9ef137e4:
 
     # nvljohn "❤️"
-    nvljohn ""
+    nvljohn "❤️"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:25894
 translate zh_Hans fem_mc_storyline_386_905e8cdb:
@@ -54016,7 +54016,7 @@ translate zh_Hans fem_mc_storyline_387_4bafe389:
 translate zh_Hans fem_mc_storyline_387_9084328b:
 
     # nvlmark2 "Yes"
-    nvlmark2 "XTAG0X是的。"
+    nvlmark2 "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:26033
 translate zh_Hans fem_mc_storyline_387_afdd813f:
@@ -54040,7 +54040,7 @@ translate zh_Hans fem_mc_storyline_387_0d8701f0:
 translate zh_Hans fem_mc_storyline_387_9515f12c:
 
     # nvlmark2 "Right?"
-    nvlmark2 "XTAG0X对不对？"
+    nvlmark2 "对不对？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:26041
 translate zh_Hans fem_mc_storyline_387_870d0e5c:
@@ -55372,7 +55372,7 @@ translate zh_Hans fem_mc_storyline_393_3015cf7a:
 translate zh_Hans fem_mc_storyline_393_9ca5a6df:
 
     # nvljohn "God, Jenna, my head hurts. What happened?"
-    nvljohn "天啊，XTAG0X珍娜XTAG0X，人家头好痛哦。发生什么事了呀？人家是不是又做了什么坏事呀？"
+    nvljohn "天啊，珍娜，我头好痛。发生什么事了？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:26738
 translate zh_Hans fem_mc_storyline_393_ee8f2c86:
@@ -56852,13 +56852,13 @@ translate zh_Hans fem_mc_storyline_401_cd3e9439:
 translate zh_Hans fem_mc_storyline_401_525d60ae:
 
     # nvljoshua "Your arse is so tight no matter how much I fuck it"
-    nvljoshua "你的小穴XTAG0X不管人家怎么肏，都还是那么紧致呢。"
+    nvljoshua "你的小穴不管人家怎么肏，都还是那么紧致呢。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:27596
 translate zh_Hans fem_mc_storyline_401_4895ee0e:
 
     # nvljohn "And your cock is as big as I remember it"
-    nvljohn "你的大肉棒XTAG0X还是一如既往的雄伟呢。"
+    nvljohn "你的大肉棒还是一如既往的雄伟呢。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:27598
 translate zh_Hans fem_mc_storyline_401_1c6047de:
@@ -56900,7 +56900,7 @@ translate zh_Hans fem_mc_storyline_401_27dede27:
 translate zh_Hans fem_mc_storyline_401_27439482:
 
     # nvljoshua "Can you send me a pic of what you're wearing right now?"
-    nvljoshua "能不能发张你现在穿的XTAG0X照片给人家看看呀？"
+    nvljoshua "能不能发张你现在穿的照片给人家看看呀？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:27612
 translate zh_Hans fem_mc_storyline_401_5a0d43b0:
@@ -56924,7 +56924,7 @@ translate zh_Hans fem_mc_storyline_401_a380e776:
 translate zh_Hans fem_mc_storyline_401_395878ed:
 
     # nvljohn "If you want something to cum to, then you want this instead"
-    nvljohn "如果你想要高潮的话，那这个XTAG0X才是你真正想要的哦。"
+    nvljohn "如果你想要高潮的话，那这个才是你真正想要的哦。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:27626
 translate zh_Hans fem_mc_storyline_401_59542ecf:
@@ -56998,13 +56998,13 @@ translate zh_Hans fem_mc_storyline_402_6862cda0:
 translate zh_Hans fem_mc_storyline_402_f22a121c:
 
     # nvljenna "Trust me, being a woman is more enjoyable than being just a sissy"
-    nvljenna "相信我，做女人可比当个娘娘腔XTAG0X舒服多了。"
+    nvljenna "相信我，做女人可比当个娘娘腔舒服多了。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:27693
 translate zh_Hans fem_mc_storyline_402_d019a5eb:
 
     # nvljohn "Still, I don't like that I have to be a woman to stay married"
-    nvljohn "可是，人家不喜欢为了维持婚姻XTAG0X就必须变成女人。"
+    nvljohn "可是，人家不喜欢为了维持婚姻就必须变成女人。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:27695
 translate zh_Hans fem_mc_storyline_402_814531fe:
@@ -57028,7 +57028,7 @@ translate zh_Hans fem_mc_storyline_402_786f4569:
 translate zh_Hans fem_mc_storyline_402_33093fc7:
 
     # nvljenna "You're free to be a sissy or a woman"
-    nvljenna "你可以自由选择当个娘娘腔XTAG0X或者做个女人。"
+    nvljenna "你可以自由选择当个娘娘腔或者做个女人。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:27703
 translate zh_Hans fem_mc_storyline_402_dfb6e79b:
@@ -57064,7 +57064,7 @@ translate zh_Hans fem_mc_storyline_402_53c71d7c:
 translate zh_Hans fem_mc_storyline_402_after_c8d676f3:
 
     # mc "{i}At this point, I can't really choose whether I want to be a sissy or a woman"
-    mc "{i}到了这个地步，人家已经分不清自己是想当个娘娘腔XTAG1X还是真的想做女人了。"
+    mc "{i}到了这个地步，我已经分不清自己到底是想当伪娘，还是真的想做女人了。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:27742
 translate zh_Hans fem_mc_storyline_402_after_9668d36a:
@@ -57126,7 +57126,7 @@ translate zh_Hans fem_mc_storyline_403_8d9a4ec0:
 translate zh_Hans fem_mc_storyline_403_57d03f03:
 
     # nvllynn "I talked to the leader of the sissy group"
-    nvllynn "人家已经和那个娘娘腔XTAG0X团体的头儿聊过了。"
+    nvllynn "人家已经和那个娘娘腔团体的头儿聊过了。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:27781
 translate zh_Hans fem_mc_storyline_403_108092f5:
@@ -58110,7 +58110,7 @@ translate zh_Hans fem_mc_storyline_409_137e7952:
 translate zh_Hans fem_mc_storyline_409_6582cd49:
 
     # nvltina "❤️"
-    nvltina ""
+    nvltina "❤️"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:28337
 translate zh_Hans fem_mc_storyline_409_98619dcb:
@@ -58218,7 +58218,7 @@ translate zh_Hans fem_mc_storyline_409_147646b7:
 translate zh_Hans fem_mc_storyline_409_9ef137e4:
 
     # nvljohn "❤️"
-    nvljohn ""
+    nvljohn "❤️"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:28373
 translate zh_Hans fem_mc_storyline_409_f3ee25f3:
@@ -59974,7 +59974,7 @@ translate zh_Hans fem_mc_storyline_423_01a0ad11:
 translate zh_Hans fem_mc_storyline_423_dc645139:
 
     # nvljohn "Yes"
-    nvljohn "XTAG0X是的。"
+    nvljohn "是的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:29666
 translate zh_Hans fem_mc_storyline_423_05fbe9d6:
@@ -60988,7 +60988,7 @@ translate zh_Hans fem_mc_storyline_429_after_2e7b971c:
 translate zh_Hans fem_mc_storyline_429_after_cd2c0a11:
 
     # mc "{i}Hmmm should I do the same. Yeah, I'm going to call Joshua"
-    mc "{i}嗯……人家是不是也该学学呢？对，人家这就去给约书亚打电话！"
+    mc "{i}嗯……我是不是也该这么做？对，我这就给约书亚打电话。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:30294
 translate zh_Hans fem_mc_storyline_430_8efafc85:
@@ -61510,7 +61510,7 @@ translate zh_Hans fem_mc_storyline_432_6bd359ff:
 translate zh_Hans fem_mc_storyline_432_4e5ba8fa:
 
     # nvljohn "Hehe, you sure filled me up last night. My arse was gaping all night"
-    nvljohn "呵呵，你昨晚可真是把我填得满满的呢。人家的小穴整晚都合不拢，一直流着你的精液~"
+    nvljohn "呵呵，你昨晚可真是把我填满了。我的后面一整晚都合不拢。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:30626
 translate zh_Hans fem_mc_storyline_432_7ff60fdf:
@@ -61684,13 +61684,13 @@ translate zh_Hans fem_mc_storyline_432_after_c49130c5:
 translate zh_Hans fem_mc_storyline_432_after_242b52a9:
 
     # mc "{i}God, I'm so full"
-    mc "{i}天呐，人家的小穴现在还涨得满满的呢~"
+    mc "{i}天啊，我现在还觉得被填得满满的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:30716
 translate zh_Hans fem_mc_storyline_432_after_989a5eaf:
 
     # mc "{i}That load [wife_name_is] and Mr Salim left me was huge"
-    mc "{i}萨利姆先生射进人家身体里的那一大股[wife_name_is]，真是多得要命呢。"
+    mc "{i}[wife_name_is] 和 Salim 先生留在我体内的量真不少。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_storyline.rpy:30718
 translate zh_Hans fem_mc_storyline_432_after_5ed69b03:
@@ -61841,4 +61841,3 @@ translate zh_Hans strings:
     # scripts/dialogues/fem_mc/fem_mc_storyline.rpy:12089
     old "I'd rather leave things the way they are"
     new "我宁愿让事情保持原样。"
-

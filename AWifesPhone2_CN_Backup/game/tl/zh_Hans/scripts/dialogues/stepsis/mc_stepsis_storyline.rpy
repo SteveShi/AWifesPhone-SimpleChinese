@@ -442,7 +442,7 @@ translate zh_Hans mc_stepsis_storyline_10_76b9e505:
 translate zh_Hans mc_stepsis_storyline_10_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:220
 translate zh_Hans mc_stepsis_storyline_11_ffc97d0c:
@@ -744,7 +744,7 @@ translate zh_Hans mc_stepsis_storyline_11_38fa9b97:
 translate zh_Hans mc_stepsis_storyline_11_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:354
 translate zh_Hans mc_stepsis_storyline_12_8c20044a:
@@ -908,7 +908,7 @@ translate zh_Hans mc_stepsis_storyline_12_0a82aca2:
 translate zh_Hans mc_stepsis_storyline_12_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:442
 translate zh_Hans mc_stepsis_storyline_13_76b2fe88:
@@ -1118,7 +1118,7 @@ translate zh_Hans mc_stepsis_storyline_13_6a3bb18a:
 translate zh_Hans mc_stepsis_storyline_13_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:543
 translate zh_Hans mc_stepsis_storyline_14_76b2fe88:
@@ -1448,7 +1448,7 @@ translate zh_Hans mc_stepsis_storyline_14_59a9d6af:
 translate zh_Hans mc_stepsis_storyline_14_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:702
 translate zh_Hans mc_stepsis_storyline_15_792ba860:
@@ -1504,7 +1504,7 @@ translate zh_Hans mc_stepsis_storyline_15_4efa4432:
 translate zh_Hans mc_stepsis_storyline_15_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:750
 translate zh_Hans mc_stepsis_storyline_16_4b9db411:
@@ -1572,7 +1572,7 @@ translate zh_Hans mc_stepsis_storyline_16_63736743:
 translate zh_Hans mc_stepsis_storyline_16_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:799
 translate zh_Hans mc_stepsis_storyline_16_after_8bfb6e6e:
@@ -1736,7 +1736,7 @@ translate zh_Hans mc_stepsis_storyline_17_4c3a058e:
 translate zh_Hans mc_stepsis_storyline_17_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:896
 translate zh_Hans mc_stepsis_storyline_17_after_e76ad9c2:
@@ -2744,7 +2744,7 @@ translate zh_Hans mc_stepsis_storyline_18_6edd4a51:
 translate zh_Hans mc_stepsis_storyline_18_d2ca99fc:
 
     # stepsis "They were amazing"
-    stepsis "它们对我来说，也爽翻了，XTAG0X"
+    stepsis "它们对我来说，也爽翻了，"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:1403
 translate zh_Hans mc_stepsis_storyline_18_df15c43d:
@@ -2962,7 +2962,7 @@ translate zh_Hans mc_stepsis_storyline_19_e56feab3:
 translate zh_Hans mc_stepsis_storyline_19_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:1528
 translate zh_Hans mc_stepsis_storyline_19_after_3bcff6cb:
@@ -3252,7 +3252,7 @@ translate zh_Hans mc_stepsis_storyline_20_06af6dd8:
 translate zh_Hans mc_stepsis_storyline_20_bd077ced:
 
     # nvlstepsis "😔"
-    nvlstepsis ""
+    nvlstepsis "😔"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:1641
 translate zh_Hans mc_stepsis_storyline_20_7cb69c3d:
@@ -3318,7 +3318,7 @@ translate zh_Hans mc_stepsis_storyline_20_fc1c869b:
 translate zh_Hans mc_stepsis_storyline_20_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:1695
 translate zh_Hans mc_stepsis_storyline_21_3d225821:
@@ -3930,7 +3930,7 @@ translate zh_Hans mc_stepsis_storyline_22_819d76b9:
 translate zh_Hans mc_stepsis_storyline_22_d324c671:
 
     # nvlstepsis "❤️❤️❤️"
-    nvlstepsis ""
+    nvlstepsis "❤️❤️❤️"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:2002
 translate zh_Hans mc_stepsis_storyline_22_4fd509dc:
@@ -4032,7 +4032,7 @@ translate zh_Hans mc_stepsis_storyline_22_e2648cb4:
 translate zh_Hans mc_stepsis_storyline_22_5d2b4283:
 
     # nvlstepsis "❤️❤️"
-    nvlstepsis ""
+    nvlstepsis "❤️❤️"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:2038
 translate zh_Hans mc_stepsis_storyline_22_30a99aae:
@@ -4050,7 +4050,7 @@ translate zh_Hans mc_stepsis_storyline_22_133ce5d4:
 translate zh_Hans mc_stepsis_storyline_22_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:2077
 translate zh_Hans mc_stepsis_storyline_23_43d9db4f:
@@ -4208,7 +4208,7 @@ translate zh_Hans mc_stepsis_storyline_23_5d2d499f:
 translate zh_Hans mc_stepsis_storyline_23_bd077ced:
 
     # nvlstepsis "😔"
-    nvlstepsis ""
+    nvlstepsis "😔"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:2135
 translate zh_Hans mc_stepsis_storyline_23_ca7674dd:
@@ -4382,7 +4382,7 @@ translate zh_Hans mc_stepsis_storyline_23_09dd05a5:
 translate zh_Hans mc_stepsis_storyline_23_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:2222
 translate zh_Hans mc_stepsis_storyline_24_3710d140:
@@ -4696,7 +4696,7 @@ translate zh_Hans mc_stepsis_storyline_24_8df36349:
 translate zh_Hans mc_stepsis_storyline_24_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:2363
 translate zh_Hans mc_stepsis_storyline_25_1e89f7fc:
@@ -4758,7 +4758,7 @@ translate zh_Hans mc_stepsis_storyline_25_250b50b7:
 translate zh_Hans mc_stepsis_storyline_25_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:2416
 translate zh_Hans mc_stepsis_storyline_26_fb086ed6:
@@ -5012,7 +5012,7 @@ translate zh_Hans mc_stepsis_storyline_26_a61bc0a3:
 translate zh_Hans mc_stepsis_storyline_26_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:2541
 translate zh_Hans mc_stepsis_storyline_27_797d40a1:
@@ -5206,7 +5206,7 @@ translate zh_Hans mc_stepsis_storyline_27_0ac6a3fa:
 translate zh_Hans mc_stepsis_storyline_27_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:2642
 translate zh_Hans mc_stepsis_storyline_28_1644298a:
@@ -5382,7 +5382,7 @@ translate zh_Hans mc_stepsis_storyline_28_43141f5d:
 translate zh_Hans mc_stepsis_storyline_28_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:2733
 translate zh_Hans mc_stepsis_storyline_29_dda84201:
@@ -5576,7 +5576,7 @@ translate zh_Hans mc_stepsis_storyline_29_bb4fb3d6:
 translate zh_Hans mc_stepsis_storyline_29_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:2830
 translate zh_Hans mc_stepsis_storyline_30_c420b3e2:
@@ -5740,7 +5740,7 @@ translate zh_Hans mc_stepsis_storyline_30_3eda0848:
 translate zh_Hans mc_stepsis_storyline_30_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:2912
 translate zh_Hans mc_stepsis_storyline_30_after_6b590591:
@@ -5982,7 +5982,7 @@ translate zh_Hans mc_stepsis_storyline_31_a9e6e01a:
 translate zh_Hans mc_stepsis_storyline_31_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:3038
 translate zh_Hans mc_stepsis_storyline_31_after_50095668:
@@ -6266,7 +6266,7 @@ translate zh_Hans mc_stepsis_storyline_32_f060d14e:
 translate zh_Hans mc_stepsis_storyline_32_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:3180
 translate zh_Hans mc_stepsis_storyline_33_83ffa6ee:
@@ -6466,7 +6466,7 @@ translate zh_Hans mc_stepsis_storyline_33_31967596:
 translate zh_Hans mc_stepsis_storyline_33_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:3274
 translate zh_Hans mc_stepsis_storyline_33_after_f7845ce8:
@@ -6708,7 +6708,7 @@ translate zh_Hans mc_stepsis_storyline_34_d8d58818:
 translate zh_Hans mc_stepsis_storyline_34_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:3404
 translate zh_Hans mc_stepsis_storyline_35_56856ddb:
@@ -6890,7 +6890,7 @@ translate zh_Hans mc_stepsis_storyline_35_905b16f7:
 translate zh_Hans mc_stepsis_storyline_35_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:3497
 translate zh_Hans mc_stepsis_storyline_36_85d9183d:
@@ -7090,7 +7090,7 @@ translate zh_Hans mc_stepsis_storyline_36_46c59772:
 translate zh_Hans mc_stepsis_storyline_36_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:3596
 translate zh_Hans mc_stepsis_storyline_37_b7cf5bcc:
@@ -7236,7 +7236,7 @@ translate zh_Hans mc_stepsis_storyline_37_2fdc7a6c:
 translate zh_Hans mc_stepsis_storyline_37_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:3681
 translate zh_Hans mc_stepsis_storyline_38_83ffa6ee:
@@ -7466,7 +7466,7 @@ translate zh_Hans mc_stepsis_storyline_38_55cd4112:
 translate zh_Hans mc_stepsis_storyline_38_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:3790
 translate zh_Hans mc_stepsis_storyline_39_70fd9d35:
@@ -7672,7 +7672,7 @@ translate zh_Hans mc_stepsis_storyline_39_8a796c87:
 translate zh_Hans mc_stepsis_storyline_39_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:3890
 translate zh_Hans mc_stepsis_storyline_39_after_115f17a5:
@@ -8028,7 +8028,7 @@ translate zh_Hans mc_stepsis_storyline_40_c9b106fc:
 translate zh_Hans mc_stepsis_storyline_40_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:4058
 translate zh_Hans mc_stepsis_storyline_41_83ffa6ee:
@@ -8294,7 +8294,7 @@ translate zh_Hans mc_stepsis_storyline_41_fba82b3d:
 translate zh_Hans mc_stepsis_storyline_41_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:4181
 translate zh_Hans mc_stepsis_storyline_42_ca250a17:
@@ -8458,7 +8458,7 @@ translate zh_Hans mc_stepsis_storyline_42_02b78e2f:
 translate zh_Hans mc_stepsis_storyline_42_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:4268
 translate zh_Hans mc_stepsis_storyline_43_eecbe976:
@@ -8622,7 +8622,7 @@ translate zh_Hans mc_stepsis_storyline_43_fa569d2c:
 translate zh_Hans mc_stepsis_storyline_43_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:4355
 translate zh_Hans mc_stepsis_storyline_44_0a9bc3cc:
@@ -8840,7 +8840,7 @@ translate zh_Hans mc_stepsis_storyline_44_0b898ad6:
 translate zh_Hans mc_stepsis_storyline_44_62e23719:
 
     # nvlstepsis "…"
-    nvlstepsis ""
+    nvlstepsis "…"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:4441
 translate zh_Hans mc_stepsis_storyline_44_9e320890:
@@ -8894,7 +8894,7 @@ translate zh_Hans mc_stepsis_storyline_44_6547166e:
 translate zh_Hans mc_stepsis_storyline_44_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:4502
 translate zh_Hans mc_stepsis_storyline_45_6ee3d8ae:
@@ -9016,7 +9016,7 @@ translate zh_Hans mc_stepsis_storyline_45_0800ea57:
 translate zh_Hans mc_stepsis_storyline_45_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:4575
 translate zh_Hans mc_stepsis_storyline_46_440895ab:
@@ -9180,7 +9180,7 @@ translate zh_Hans mc_stepsis_storyline_46_8c5d503b:
 translate zh_Hans mc_stepsis_storyline_46_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:4658
 translate zh_Hans mc_stepsis_storyline_46_after_cc5b4d85:
@@ -9374,7 +9374,7 @@ translate zh_Hans mc_stepsis_storyline_47_d4e211f7:
 translate zh_Hans mc_stepsis_storyline_47_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:4772
 translate zh_Hans mc_stepsis_storyline_48_d4f12e82:
@@ -9532,7 +9532,7 @@ translate zh_Hans mc_stepsis_storyline_48_0fba3dff:
 translate zh_Hans mc_stepsis_storyline_48_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:4857
 translate zh_Hans mc_stepsis_storyline_49_d4f12e82:
@@ -9708,7 +9708,7 @@ translate zh_Hans mc_stepsis_storyline_49_bc203c07:
 translate zh_Hans mc_stepsis_storyline_49_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:4948
 translate zh_Hans mc_stepsis_storyline_50_c45e9f6c:
@@ -9896,7 +9896,7 @@ translate zh_Hans mc_stepsis_storyline_50_6a77414d:
 translate zh_Hans mc_stepsis_storyline_50_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:5047
 translate zh_Hans mc_stepsis_storyline_51_10ff4a0b:
@@ -10072,7 +10072,7 @@ translate zh_Hans mc_stepsis_storyline_51_90d10c3c:
 translate zh_Hans mc_stepsis_storyline_51_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:5185
 translate zh_Hans mc_stepsis_storyline_52_d4f12e82:
@@ -10116,7 +10116,7 @@ translate zh_Hans mc_stepsis_storyline_52_6af5dc07:
 translate zh_Hans mc_stepsis_storyline_52_cee3fd55:
 
     # nvlstepsis "https://www.youtube.com/watch?v=dummy_link"
-    nvlstepsis ""
+    nvlstepsis "https://www.youtube.com/watch?v=dummy_link"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:5201
 translate zh_Hans mc_stepsis_storyline_52_f08d4530:
@@ -10224,7 +10224,7 @@ translate zh_Hans mc_stepsis_storyline_52_5fb35564:
 translate zh_Hans mc_stepsis_storyline_52_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:5268
 translate zh_Hans mc_stepsis_storyline_53_a45a8194:
@@ -10346,7 +10346,7 @@ translate zh_Hans mc_stepsis_storyline_53_e84f97bf:
 translate zh_Hans mc_stepsis_storyline_53_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:5335
 translate zh_Hans mc_stepsis_storyline_53_after_40d6908b:
@@ -10678,7 +10678,7 @@ translate zh_Hans mc_stepsis_storyline_54_69285ff6:
 translate zh_Hans mc_stepsis_storyline_54_bd077ced:
 
     # nvlstepsis "😔"
-    nvlstepsis ""
+    nvlstepsis "😔"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:5464
 translate zh_Hans mc_stepsis_storyline_54_443a8b01:
@@ -10696,7 +10696,7 @@ translate zh_Hans mc_stepsis_storyline_54_8803f480:
 translate zh_Hans mc_stepsis_storyline_54_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:5501
 translate zh_Hans mc_stepsis_storyline_55_71d5013c:
@@ -10938,7 +10938,7 @@ translate zh_Hans mc_stepsis_storyline_55_e49c49b6:
 translate zh_Hans mc_stepsis_storyline_55_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:5614
 translate zh_Hans mc_stepsis_storyline_56_b17966a6:
@@ -11168,7 +11168,7 @@ translate zh_Hans mc_stepsis_storyline_56_cb2cbe5f:
 translate zh_Hans mc_stepsis_storyline_56_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:5723
 translate zh_Hans mc_stepsis_storyline_57_d4f12e82:
@@ -11350,7 +11350,7 @@ translate zh_Hans mc_stepsis_storyline_57_d3db0ac1:
 translate zh_Hans mc_stepsis_storyline_57_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:5820
 translate zh_Hans mc_stepsis_storyline_58_83ffa6ee:
@@ -11514,7 +11514,7 @@ translate zh_Hans mc_stepsis_storyline_58_3e314944:
 translate zh_Hans mc_stepsis_storyline_58_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:5902
 translate zh_Hans mc_stepsis_storyline_58_after_3f1ff3de:
@@ -11660,7 +11660,7 @@ translate zh_Hans mc_stepsis_storyline_59_6ecd2b9b:
 translate zh_Hans mc_stepsis_storyline_59_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:6002
 translate zh_Hans mc_stepsis_storyline_60_86eca5c2:
@@ -11854,7 +11854,7 @@ translate zh_Hans mc_stepsis_storyline_60_4c91a51e:
 translate zh_Hans mc_stepsis_storyline_60_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:6129
 translate zh_Hans mc_stepsis_storyline_61_27243a27:
@@ -11958,7 +11958,7 @@ translate zh_Hans mc_stepsis_storyline_61_af9bf6f1:
 translate zh_Hans mc_stepsis_storyline_61_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:6196
 translate zh_Hans mc_stepsis_storyline_62_e9e886e5:
@@ -12092,7 +12092,7 @@ translate zh_Hans mc_stepsis_storyline_62_1682972e:
 translate zh_Hans mc_stepsis_storyline_62_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:6273
 translate zh_Hans mc_stepsis_storyline_63_e72e5042:
@@ -12226,7 +12226,7 @@ translate zh_Hans mc_stepsis_storyline_63_9e18105e:
 translate zh_Hans mc_stepsis_storyline_63_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:6350
 translate zh_Hans mc_stepsis_storyline_64_2db9888e:
@@ -12354,7 +12354,7 @@ translate zh_Hans mc_stepsis_storyline_64_a7b6ad3c:
 translate zh_Hans mc_stepsis_storyline_64_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:6425
 translate zh_Hans mc_stepsis_storyline_65_5fcc16b8:
@@ -12518,7 +12518,7 @@ translate zh_Hans mc_stepsis_storyline_65_02ac9329:
 translate zh_Hans mc_stepsis_storyline_65_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:6512
 translate zh_Hans mc_stepsis_storyline_66_8da92a1b:
@@ -12646,7 +12646,7 @@ translate zh_Hans mc_stepsis_storyline_66_2d34fa18:
 translate zh_Hans mc_stepsis_storyline_66_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:6587
 translate zh_Hans mc_stepsis_storyline_67_964f90ac:
@@ -12834,7 +12834,7 @@ translate zh_Hans mc_stepsis_storyline_67_c88df6bd:
 translate zh_Hans mc_stepsis_storyline_67_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:6686
 translate zh_Hans mc_stepsis_storyline_68_83ffa6ee:
@@ -13010,7 +13010,7 @@ translate zh_Hans mc_stepsis_storyline_68_a5e2e655:
 translate zh_Hans mc_stepsis_storyline_68_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:6777
 translate zh_Hans mc_stepsis_storyline_69_9204ded0:
@@ -13102,7 +13102,7 @@ translate zh_Hans mc_stepsis_storyline_69_28f333a8:
 translate zh_Hans mc_stepsis_storyline_69_049e22f5:
 
     # nvlstepsis "🥹"
-    nvlstepsis ""
+    nvlstepsis "🥹"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:6809
 translate zh_Hans mc_stepsis_storyline_69_286c500f:
@@ -13216,7 +13216,7 @@ translate zh_Hans mc_stepsis_storyline_69_25ac8bbe:
 translate zh_Hans mc_stepsis_storyline_69_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:6878
 translate zh_Hans mc_stepsis_storyline_70_50c70115:
@@ -13374,7 +13374,7 @@ translate zh_Hans mc_stepsis_storyline_70_6ff86bb4:
 translate zh_Hans mc_stepsis_storyline_70_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:6963
 translate zh_Hans mc_stepsis_storyline_71_76b2fe88:
@@ -13626,7 +13626,7 @@ translate zh_Hans mc_stepsis_storyline_71_c3cdfdfc:
 translate zh_Hans mc_stepsis_storyline_71_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:7088
 translate zh_Hans mc_stepsis_storyline_72_96f4cfd3:
@@ -13760,7 +13760,7 @@ translate zh_Hans mc_stepsis_storyline_72_2778d241:
 translate zh_Hans mc_stepsis_storyline_72_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:7165
 translate zh_Hans mc_stepsis_storyline_73_748ef019:
@@ -13894,7 +13894,7 @@ translate zh_Hans mc_stepsis_storyline_73_5e582af0:
 translate zh_Hans mc_stepsis_storyline_73_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:7254
 translate zh_Hans mc_stepsis_storyline_74_c1307a53:
@@ -14076,7 +14076,7 @@ translate zh_Hans mc_stepsis_storyline_74_f9f3cad5:
 translate zh_Hans mc_stepsis_storyline_74_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:7347
 translate zh_Hans mc_stepsis_storyline_75_5cac148c:
@@ -14240,7 +14240,7 @@ translate zh_Hans mc_stepsis_storyline_75_e7f160d9:
 translate zh_Hans mc_stepsis_storyline_75_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:7434
 translate zh_Hans mc_stepsis_storyline_76_a2db7135:
@@ -14386,7 +14386,7 @@ translate zh_Hans mc_stepsis_storyline_76_4018cbaa:
 translate zh_Hans mc_stepsis_storyline_76_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:7519
 translate zh_Hans mc_stepsis_storyline_77_4d7088df:
@@ -14532,7 +14532,7 @@ translate zh_Hans mc_stepsis_storyline_77_1ee5d44b:
 translate zh_Hans mc_stepsis_storyline_77_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:7600
 translate zh_Hans mc_stepsis_storyline_78_09ce58be:
@@ -14642,7 +14642,7 @@ translate zh_Hans mc_stepsis_storyline_78_96bcd03e:
 translate zh_Hans mc_stepsis_storyline_78_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:7673
 translate zh_Hans mc_stepsis_storyline_79_8e82964b:
@@ -14812,7 +14812,7 @@ translate zh_Hans mc_stepsis_storyline_79_55738043:
 translate zh_Hans mc_stepsis_storyline_79_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:7761
 translate zh_Hans mc_stepsis_storyline_79_after_c6e3bf2f:
@@ -15048,7 +15048,7 @@ translate zh_Hans mc_stepsis_storyline_80_c6b2f701:
 translate zh_Hans mc_stepsis_storyline_80_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:7889
 translate zh_Hans mc_stepsis_storyline_81_76b2fe88:
@@ -15252,7 +15252,7 @@ translate zh_Hans mc_stepsis_storyline_81_44d7212f:
 translate zh_Hans mc_stepsis_storyline_81_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:7990
 translate zh_Hans mc_stepsis_storyline_82_5ed34eca:
@@ -15530,7 +15530,7 @@ translate zh_Hans mc_stepsis_storyline_82_64492aee:
 translate zh_Hans mc_stepsis_storyline_82_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:8115
 translate zh_Hans mc_stepsis_storyline_83_0baece59:
@@ -15736,7 +15736,7 @@ translate zh_Hans mc_stepsis_storyline_83_0ce8788d:
 translate zh_Hans mc_stepsis_storyline_83_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:8224
 translate zh_Hans mc_stepsis_storyline_84_5fcc16b8:
@@ -15918,7 +15918,7 @@ translate zh_Hans mc_stepsis_storyline_84_dcebbb48:
 translate zh_Hans mc_stepsis_storyline_84_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:8317
 translate zh_Hans mc_stepsis_storyline_85_61aaf32e:
@@ -16118,7 +16118,7 @@ translate zh_Hans mc_stepsis_storyline_85_be3dba52:
 translate zh_Hans mc_stepsis_storyline_85_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:8416
 translate zh_Hans mc_stepsis_storyline_86_6b993f7a:
@@ -16342,7 +16342,7 @@ translate zh_Hans mc_stepsis_storyline_86_3ead8415:
 translate zh_Hans mc_stepsis_storyline_86_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:8523
 translate zh_Hans mc_stepsis_storyline_87_e8c0d9f6:
@@ -16494,7 +16494,7 @@ translate zh_Hans mc_stepsis_storyline_87_cb40ad13:
 translate zh_Hans mc_stepsis_storyline_87_d97a5764:
 
     # nvlstepsis "😭😭😭😭😭😭"
-    nvlstepsis ""
+    nvlstepsis "😭😭😭😭😭😭"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:8583
 translate zh_Hans mc_stepsis_storyline_87_ec7068da:
@@ -16608,7 +16608,7 @@ translate zh_Hans mc_stepsis_storyline_87_9dc38bb1:
 translate zh_Hans mc_stepsis_storyline_87_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:8652
 translate zh_Hans mc_stepsis_storyline_88_76b2fe88:
@@ -16800,7 +16800,7 @@ translate zh_Hans mc_stepsis_storyline_88_08a0a8c4:
 translate zh_Hans mc_stepsis_storyline_88_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:8749
 translate zh_Hans mc_stepsis_storyline_89_422d1514:
@@ -16958,7 +16958,7 @@ translate zh_Hans mc_stepsis_storyline_89_368383f6:
 translate zh_Hans mc_stepsis_storyline_89_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:8834
 translate zh_Hans mc_stepsis_storyline_90_84192e94:
@@ -17128,7 +17128,7 @@ translate zh_Hans mc_stepsis_storyline_90_9e370447:
 translate zh_Hans mc_stepsis_storyline_90_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:8931
 translate zh_Hans mc_stepsis_storyline_91_fb4f015e:
@@ -17274,7 +17274,7 @@ translate zh_Hans mc_stepsis_storyline_91_25ae4f99:
 translate zh_Hans mc_stepsis_storyline_91_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:9012
 translate zh_Hans mc_stepsis_storyline_92_5fcc16b8:
@@ -17510,7 +17510,7 @@ translate zh_Hans mc_stepsis_storyline_92_f6668193:
 translate zh_Hans mc_stepsis_storyline_92_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 translate zh_Hans strings:
 

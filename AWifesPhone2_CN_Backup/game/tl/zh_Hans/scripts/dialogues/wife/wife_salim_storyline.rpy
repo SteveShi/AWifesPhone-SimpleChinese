@@ -150,7 +150,7 @@ translate zh_Hans wife_salim_storyline_1_fd83e5e2:
 translate zh_Hans wife_salim_storyline_1_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:133
 translate zh_Hans wife_salim_storyline_2_544b5424:
@@ -332,7 +332,7 @@ translate zh_Hans wife_salim_storyline_2_b08209f5:
 translate zh_Hans wife_salim_storyline_2_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:229
 translate zh_Hans wife_salim_storyline_3_8dd8772b:
@@ -532,7 +532,7 @@ translate zh_Hans wife_salim_storyline_3_479df4c6:
 translate zh_Hans wife_salim_storyline_3_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:323
 translate zh_Hans wife_salim_storyline_3_after_c9646a23:
@@ -924,7 +924,7 @@ translate zh_Hans wife_salim_storyline_4_e163e4e1:
 translate zh_Hans wife_salim_storyline_4_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:499
 translate zh_Hans wife_salim_storyline_5_5e351723:
@@ -1040,7 +1040,7 @@ translate zh_Hans wife_salim_storyline_5_52bf7587:
 translate zh_Hans wife_salim_storyline_5_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:567
 translate zh_Hans wife_salim_storyline_6_f56770b2:
@@ -1144,7 +1144,7 @@ translate zh_Hans wife_salim_storyline_6_ec761708:
 translate zh_Hans wife_salim_storyline_6_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:630
 translate zh_Hans wife_salim_storyline_7_7ab0c85d:
@@ -1314,7 +1314,7 @@ translate zh_Hans wife_salim_storyline_7_aefa021b:
 translate zh_Hans wife_salim_storyline_7_e472c186:
 
     # nvlsalim "I see 😊"
-    nvlsalim "I see 😊|我明白了😊"
+    nvlsalim "我明白了😊"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:696
 translate zh_Hans wife_salim_storyline_7_654a84a1:
@@ -1434,7 +1434,7 @@ translate zh_Hans wife_salim_storyline_7_cd284316:
 translate zh_Hans wife_salim_storyline_7_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:765
 translate zh_Hans wife_salim_storyline_8_7a649b55:
@@ -1574,7 +1574,7 @@ translate zh_Hans wife_salim_storyline_8_2bb4af6b:
 translate zh_Hans wife_salim_storyline_8_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:842
 translate zh_Hans wife_salim_storyline_9_43e991fe:
@@ -1726,7 +1726,7 @@ translate zh_Hans wife_salim_storyline_9_55fcd8d9:
 translate zh_Hans wife_salim_storyline_9_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:923
 translate zh_Hans wife_salim_storyline_10_839f3a07:
@@ -1902,7 +1902,7 @@ translate zh_Hans wife_salim_storyline_10_e6958ab4:
 translate zh_Hans wife_salim_storyline_10_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:1016
 translate zh_Hans wife_salim_storyline_11_621d9bc1:
@@ -2150,7 +2150,7 @@ translate zh_Hans wife_salim_storyline_11_9b7a2d6a:
 translate zh_Hans wife_salim_storyline_11_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:1133
 translate zh_Hans wife_salim_storyline_12_1fc26618:
@@ -2446,7 +2446,7 @@ translate zh_Hans wife_salim_storyline_12_ffe939e7:
 translate zh_Hans wife_salim_storyline_12_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:1262
 translate zh_Hans wife_salim_storyline_13_8151e422:
@@ -2760,7 +2760,7 @@ translate zh_Hans wife_salim_storyline_13_eab901c3:
 translate zh_Hans wife_salim_storyline_13_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:1397
 translate zh_Hans wife_salim_storyline_14_76b2fe88:
@@ -2892,7 +2892,7 @@ translate zh_Hans wife_salim_storyline_14_2039ec6c:
 translate zh_Hans wife_salim_storyline_14_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:1478
 translate zh_Hans wife_salim_storyline_15_5616c9d7:
@@ -3092,7 +3092,7 @@ translate zh_Hans wife_salim_storyline_15_697fea39:
 translate zh_Hans wife_salim_storyline_15_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:1575
 translate zh_Hans wife_salim_storyline_16_10bdfbe5:
@@ -3226,7 +3226,7 @@ translate zh_Hans wife_salim_storyline_16_6c5de749:
 translate zh_Hans wife_salim_storyline_16_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:1650
 translate zh_Hans wife_salim_storyline_17_82f7913d:
@@ -3396,7 +3396,7 @@ translate zh_Hans wife_salim_storyline_17_6c5de749:
 translate zh_Hans wife_salim_storyline_17_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:1737
 translate zh_Hans wife_salim_storyline_18_f6ba4a46:
@@ -3632,7 +3632,7 @@ translate zh_Hans wife_salim_storyline_18_e898f8df:
 translate zh_Hans wife_salim_storyline_18_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:1862
 translate zh_Hans wife_salim_storyline_19_33524eeb:
@@ -3976,7 +3976,7 @@ translate zh_Hans wife_salim_storyline_20_96f5ad9c:
 translate zh_Hans wife_salim_storyline_20_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:2042
 translate zh_Hans wife_salim_storyline_21_0164917e:
@@ -4182,7 +4182,7 @@ translate zh_Hans wife_salim_storyline_21_03586868:
 translate zh_Hans wife_salim_storyline_21_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:2145
 translate zh_Hans wife_salim_storyline_22_fac5829d:
@@ -4412,7 +4412,7 @@ translate zh_Hans wife_salim_storyline_22_60617bb1:
 translate zh_Hans wife_salim_storyline_22_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:2252
 translate zh_Hans wife_salim_storyline_23_ceecd3d6:
@@ -4594,7 +4594,7 @@ translate zh_Hans wife_salim_storyline_23_6c5de749:
 translate zh_Hans wife_salim_storyline_23_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:2343
 translate zh_Hans wife_salim_storyline_24_da8bed00:
@@ -4884,7 +4884,7 @@ translate zh_Hans wife_salim_storyline_24_6e44d9cd:
 translate zh_Hans wife_salim_storyline_24_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:2478
 translate zh_Hans wife_salim_storyline_25_ba976446:
@@ -5168,7 +5168,7 @@ translate zh_Hans wife_salim_storyline_25_71190730:
 translate zh_Hans wife_salim_storyline_25_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:2603
 translate zh_Hans wife_salim_storyline_26_39056b31:
@@ -5248,7 +5248,7 @@ translate zh_Hans wife_salim_storyline_26_988458d0:
 translate zh_Hans wife_salim_storyline_26_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:2657
 translate zh_Hans wife_salim_storyline_26_after_0a7d34b9:
@@ -5388,7 +5388,7 @@ translate zh_Hans wife_salim_storyline_27_b8f386f2:
 translate zh_Hans wife_salim_storyline_27_e472c186:
 
     # nvlsalim "I see 😊"
-    nvlsalim "I see 😊|我明白了😊"
+    nvlsalim "我明白了😊"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:2722
 translate zh_Hans wife_salim_storyline_27_7aac3512:
@@ -5580,7 +5580,7 @@ translate zh_Hans wife_salim_storyline_27_7dde1ca0:
 translate zh_Hans wife_salim_storyline_27_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:2812
 translate zh_Hans wife_salim_storyline_27_after_9ac60d0d:
@@ -5640,7 +5640,7 @@ translate zh_Hans wife_salim_storyline_27_after_8c4df847:
 translate zh_Hans wife_salim_storyline_27_after_2d507a13:
 
     # mc "{i}I shouldn't think about these things"
-    mc "{i}I shouldn't think about these things|我真不该想这些骚事儿。"
+    mc "我真不该想这些骚事儿。"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:2849
 translate zh_Hans wife_salim_storyline_28_2b8ed19d:
@@ -5654,7 +5654,7 @@ translate zh_Hans wife_salim_storyline_28_2b8ed19d:
 translate zh_Hans wife_salim_storyline_28_1930092c:
 
     # nvljenna "I just wanted to know how you were doing 😊"
-    nvljenna "I just wanted to know how you were doing 😊|我只是想知道你过得爽不爽啊 😊"
+    nvljenna "我只是想知道你过得爽不爽啊 😊"
 
 # game/scripts/dialogues/wife/wife_salim_storyline.rpy:2855
 translate zh_Hans wife_salim_storyline_28_04f2b965:
@@ -5678,5 +5678,5 @@ translate zh_Hans wife_salim_storyline_28_7a0eab3c:
 translate zh_Hans wife_salim_storyline_28_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 

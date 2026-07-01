@@ -646,7 +646,7 @@ translate zh_Hans cheating_spam_76b2fe88:
 translate zh_Hans cheating_spam_8c1d492d:
 
     # nvlunknown "{a=show:h_light_1}prehypno.mov"
-    nvlunknown "{a=show:h_light_1}催眠前.mov|{a=show:h_light_1}催眠前.mov"
+    nvlunknown "{a=show:h_light_1}催眠前.mov"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1129
 translate zh_Hans cheating_spam_d4cbf049:
@@ -664,7 +664,7 @@ translate zh_Hans cheating_spam_00cb8114:
 translate zh_Hans cheating_spam_74cfb334:
 
     # nvlunknown "{a=show:h_light_2}prehypno.mov"
-    nvlunknown "{a=show:h_light_2}催眠前.mov|{a=show:h_light_2}催眠前.mov"
+    nvlunknown "{a=show:h_light_2}催眠前.mov"
 
 # game/scripts/dialogues/hypno_storyline.rpy:1147
 translate zh_Hans cheating_spam_17a9c622:

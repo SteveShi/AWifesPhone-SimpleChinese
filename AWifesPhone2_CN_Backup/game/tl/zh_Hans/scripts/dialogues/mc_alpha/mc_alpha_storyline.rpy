@@ -228,7 +228,7 @@ translate zh_Hans mc_alpha_storyline_122_2059e300:
 translate zh_Hans mc_alpha_storyline_122_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:516
 translate zh_Hans mc_alpha_storyline_123_51e58364:
@@ -542,7 +542,7 @@ translate zh_Hans mc_alpha_storyline_123_28f901a9:
 translate zh_Hans mc_alpha_storyline_123_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:653
 translate zh_Hans mc_alpha_storyline_124_6881c568:
@@ -760,7 +760,7 @@ translate zh_Hans mc_alpha_storyline_124_03bc0f51:
 translate zh_Hans mc_alpha_storyline_124_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:760
 translate zh_Hans mc_alpha_storyline_125_0e53ac4b:
@@ -966,7 +966,7 @@ translate zh_Hans mc_alpha_storyline_125_1659dc1c:
 translate zh_Hans mc_alpha_storyline_125_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:870
 translate zh_Hans mc_alpha_storyline_125_after_e6ef9fde:
@@ -1292,7 +1292,7 @@ translate zh_Hans mc_alpha_storyline_126_d62afc1e:
 translate zh_Hans mc_alpha_storyline_126_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:1032
 translate zh_Hans mc_alpha_storyline_127_b56bde17:
@@ -1390,7 +1390,7 @@ translate zh_Hans mc_alpha_storyline_127_8d5c1870:
 translate zh_Hans mc_alpha_storyline_127_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:1095
 translate zh_Hans mc_alpha_storyline_128_ddc66e04:
@@ -1578,7 +1578,7 @@ translate zh_Hans mc_alpha_storyline_128_365b1b0e:
 translate zh_Hans mc_alpha_storyline_128_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:1189
 translate zh_Hans mc_alpha_storyline_128_after_cc548581:
@@ -1808,7 +1808,7 @@ translate zh_Hans mc_alpha_storyline_129_a122a6fa:
 translate zh_Hans mc_alpha_storyline_129_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:1315
 translate zh_Hans mc_alpha_storyline_129_after_e92e7c6a:
@@ -2002,7 +2002,7 @@ translate zh_Hans mc_alpha_storyline_130_83752d07:
 translate zh_Hans mc_alpha_storyline_130_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:1431
 translate zh_Hans mc_alpha_storyline_131_bf02b31d:
@@ -2070,7 +2070,7 @@ translate zh_Hans mc_alpha_storyline_131_462dc782:
 translate zh_Hans mc_alpha_storyline_131_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:1484
 translate zh_Hans mc_alpha_storyline_132_99c6279b:
@@ -2228,7 +2228,7 @@ translate zh_Hans mc_alpha_storyline_132_b6688c9e:
 translate zh_Hans mc_alpha_storyline_132_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:1567
 translate zh_Hans mc_alpha_storyline_133_c4474578:
@@ -2368,7 +2368,7 @@ translate zh_Hans mc_alpha_storyline_133_2059e300:
 translate zh_Hans mc_alpha_storyline_133_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:1641
 translate zh_Hans mc_alpha_storyline_133_after_24b54392:
@@ -2538,7 +2538,7 @@ translate zh_Hans mc_alpha_storyline_134_eab901c3:
 translate zh_Hans mc_alpha_storyline_134_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:1747
 translate zh_Hans mc_alpha_storyline_135_4f1d68c9:
@@ -2792,7 +2792,7 @@ translate zh_Hans mc_alpha_storyline_135_ddc6a9ed:
 translate zh_Hans mc_alpha_storyline_135_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:1866
 translate zh_Hans mc_alpha_storyline_136_d0fbeae9:
@@ -3034,7 +3034,7 @@ translate zh_Hans mc_alpha_storyline_136_a1c15129:
 translate zh_Hans mc_alpha_storyline_136_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:1993
 translate zh_Hans mc_alpha_storyline_137_5ed70471:
@@ -3372,7 +3372,7 @@ translate zh_Hans mc_alpha_storyline_137_eee8b03d:
 translate zh_Hans mc_alpha_storyline_137_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:2150
 translate zh_Hans mc_alpha_storyline_138_0d3ea495:
@@ -3638,7 +3638,7 @@ translate zh_Hans mc_alpha_storyline_138_5ddd1f23:
 translate zh_Hans mc_alpha_storyline_138_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:2266
 translate zh_Hans mc_alpha_storyline_138_after_d5e7e57d:
@@ -3946,7 +3946,7 @@ translate zh_Hans mc_alpha_storyline_139_defcfaaa:
 translate zh_Hans mc_alpha_storyline_139_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:2416
 translate zh_Hans mc_alpha_storyline_140_a2ca7593:
@@ -4134,7 +4134,7 @@ translate zh_Hans mc_alpha_storyline_140_a926aece:
 translate zh_Hans mc_alpha_storyline_140_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:2506
 translate zh_Hans mc_alpha_storyline_140_after_b2cab178:
@@ -4268,7 +4268,7 @@ translate zh_Hans mc_alpha_storyline_141_c916d472:
 translate zh_Hans mc_alpha_storyline_141_6bc9ac4e:
 
     # nvlunknown "I see 😊"
-    nvlunknown "I see 😊|我明白了😊"
+    nvlunknown "我明白了😊"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:2569
 translate zh_Hans mc_alpha_storyline_141_b7bc2011:
@@ -4502,7 +4502,7 @@ translate zh_Hans mc_alpha_storyline_141_1dd76e9f:
 translate zh_Hans mc_alpha_storyline_141_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:2673
 translate zh_Hans mc_alpha_storyline_141_after_3b84ee76:
@@ -4810,7 +4810,7 @@ translate zh_Hans mc_alpha_storyline_142_5dc79e22:
 translate zh_Hans mc_alpha_storyline_142_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:2840
 translate zh_Hans mc_alpha_storyline_143_9da2bd47:
@@ -4872,7 +4872,7 @@ translate zh_Hans mc_alpha_storyline_143_dc645139:
 translate zh_Hans mc_alpha_storyline_143_716206fe:
 
     # nvlamelia "geo.com/3463834"
-    nvlamelia ""
+    nvlamelia "geo.com/3463834"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:2862
 translate zh_Hans mc_alpha_storyline_143_098424d1:
@@ -4962,7 +4962,7 @@ translate zh_Hans mc_alpha_storyline_143_17f71a3c:
 translate zh_Hans mc_alpha_storyline_143_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:2920
 translate zh_Hans mc_alpha_storyline_143_after_0f07a2b0:
@@ -5384,7 +5384,7 @@ translate zh_Hans mc_alpha_storyline_144_fc3bfe7c:
 translate zh_Hans mc_alpha_storyline_144_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:3115
 translate zh_Hans mc_alpha_storyline_144_after_5bcee3e9:
@@ -5656,7 +5656,7 @@ translate zh_Hans mc_alpha_storyline_145_ebbc9313:
 translate zh_Hans mc_alpha_storyline_145_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:3263
 translate zh_Hans mc_alpha_storyline_146_9da2bd47:
@@ -5718,7 +5718,7 @@ translate zh_Hans mc_alpha_storyline_146_dc645139:
 translate zh_Hans mc_alpha_storyline_146_716206fe:
 
     # nvlamelia "geo.com/3463834"
-    nvlamelia ""
+    nvlamelia "geo.com/3463834"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:3285
 translate zh_Hans mc_alpha_storyline_146_afa257a8:
@@ -5808,7 +5808,7 @@ translate zh_Hans mc_alpha_storyline_146_17f71a3c:
 translate zh_Hans mc_alpha_storyline_146_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:3341
 translate zh_Hans mc_alpha_storyline_146_after_d6d8e0ce:
@@ -6080,7 +6080,7 @@ translate zh_Hans mc_alpha_storyline_147_b2908523:
 translate zh_Hans mc_alpha_storyline_147_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:3483
 translate zh_Hans mc_alpha_storyline_148_9787d7ed:
@@ -6184,7 +6184,7 @@ translate zh_Hans mc_alpha_storyline_148_9339c1ef:
 translate zh_Hans mc_alpha_storyline_148_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:3548
 translate zh_Hans mc_alpha_storyline_149_1b82d69e:
@@ -6288,7 +6288,7 @@ translate zh_Hans mc_alpha_storyline_149_83752d07:
 translate zh_Hans mc_alpha_storyline_149_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:3612
 translate zh_Hans mc_alpha_storyline_149_after_320f8e4e:
@@ -6542,7 +6542,7 @@ translate zh_Hans mc_alpha_storyline_150_984c0c6a:
 translate zh_Hans mc_alpha_storyline_150_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:3752
 translate zh_Hans mc_alpha_storyline_151_3fdc5b77:
@@ -6664,7 +6664,7 @@ translate zh_Hans mc_alpha_storyline_151_03310a00:
 translate zh_Hans mc_alpha_storyline_151_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:3827
 translate zh_Hans mc_alpha_storyline_152_14467712:
@@ -6828,7 +6828,7 @@ translate zh_Hans mc_alpha_storyline_152_7e24374c:
 translate zh_Hans mc_alpha_storyline_152_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:3914
 translate zh_Hans mc_alpha_storyline_153_d522438a:
@@ -7064,7 +7064,7 @@ translate zh_Hans mc_alpha_storyline_153_06e3a329:
 translate zh_Hans mc_alpha_storyline_153_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:4029
 translate zh_Hans mc_alpha_storyline_154_9ae601da:
@@ -7324,7 +7324,7 @@ translate zh_Hans mc_alpha_storyline_154_f20e37ea:
 translate zh_Hans mc_alpha_storyline_154_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:4148
 translate zh_Hans mc_alpha_storyline_155_4e34d834:
@@ -7476,7 +7476,7 @@ translate zh_Hans mc_alpha_storyline_155_0f7f749f:
 translate zh_Hans mc_alpha_storyline_155_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:4235
 translate zh_Hans mc_alpha_storyline_156_17a0291b:
@@ -7664,7 +7664,7 @@ translate zh_Hans mc_alpha_storyline_156_0ddd9dda:
 translate zh_Hans mc_alpha_storyline_156_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:4331
 translate zh_Hans mc_alpha_storyline_156_after_224a0579:
@@ -7858,7 +7858,7 @@ translate zh_Hans mc_alpha_storyline_157_2fad612e:
 translate zh_Hans mc_alpha_storyline_157_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:4460
 translate zh_Hans mc_alpha_storyline_157_after_7cc3cf4e:
@@ -8160,7 +8160,7 @@ translate zh_Hans mc_alpha_storyline_158_d8dd4946:
 translate zh_Hans mc_alpha_storyline_158_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:4612
 translate zh_Hans mc_alpha_storyline_159_a90c27bf:
@@ -8444,7 +8444,7 @@ translate zh_Hans mc_alpha_storyline_159_4c4e040b:
 translate zh_Hans mc_alpha_storyline_159_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:4737
 translate zh_Hans mc_alpha_storyline_160_faf37095:
@@ -8764,7 +8764,7 @@ translate zh_Hans mc_alpha_storyline_160_83752d07:
 translate zh_Hans mc_alpha_storyline_160_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:4877
 translate zh_Hans mc_alpha_storyline_160_after_5e52c133:
@@ -9198,7 +9198,7 @@ translate zh_Hans mc_alpha_storyline_161_fb116ef4:
 translate zh_Hans mc_alpha_storyline_161_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:5091
 translate zh_Hans mc_alpha_storyline_161_after_35911d68:
@@ -9470,7 +9470,7 @@ translate zh_Hans mc_alpha_storyline_162_521c7406:
 translate zh_Hans mc_alpha_storyline_162_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:5231
 translate zh_Hans mc_alpha_storyline_163_6d4d2c99:
@@ -9550,7 +9550,7 @@ translate zh_Hans mc_alpha_storyline_163_1f13983e:
 translate zh_Hans mc_alpha_storyline_163_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:5287
 translate zh_Hans mc_alpha_storyline_163_after_2d2dda14:
@@ -9840,7 +9840,7 @@ translate zh_Hans mc_alpha_storyline_164_17f71a3c:
 translate zh_Hans mc_alpha_storyline_164_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:5430
 translate zh_Hans mc_alpha_storyline_164_after_694323ef:
@@ -10214,7 +10214,7 @@ translate zh_Hans mc_alpha_storyline_165_90ece0cb:
 translate zh_Hans mc_alpha_storyline_165_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:5601
 translate zh_Hans mc_alpha_storyline_165_after_be92cbf3:
@@ -10324,7 +10324,7 @@ translate zh_Hans mc_alpha_storyline_166_bf1e1a57:
 translate zh_Hans mc_alpha_storyline_166_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:5683
 translate zh_Hans mc_alpha_storyline_167_c4474578:
@@ -10470,7 +10470,7 @@ translate zh_Hans mc_alpha_storyline_167_d3f86349:
 translate zh_Hans mc_alpha_storyline_167_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:5764
 translate zh_Hans mc_alpha_storyline_168_a50f2285:
@@ -10634,7 +10634,7 @@ translate zh_Hans mc_alpha_storyline_168_9978ecdf:
 translate zh_Hans mc_alpha_storyline_168_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:5849
 translate zh_Hans mc_alpha_storyline_169_17a0291b:
@@ -10828,7 +10828,7 @@ translate zh_Hans mc_alpha_storyline_169_1091b5b3:
 translate zh_Hans mc_alpha_storyline_169_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:5944
 translate zh_Hans mc_alpha_storyline_170_ee6f8fb7:
@@ -10998,7 +10998,7 @@ translate zh_Hans mc_alpha_storyline_170_2c47866e_1:
 translate zh_Hans mc_alpha_storyline_170_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:6031
 translate zh_Hans mc_alpha_storyline_171_7c888906:
@@ -11306,7 +11306,7 @@ translate zh_Hans mc_alpha_storyline_171_8d3941db:
 translate zh_Hans mc_alpha_storyline_171_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:6172
 translate zh_Hans mc_alpha_storyline_172_9da2bd47:
@@ -11386,7 +11386,7 @@ translate zh_Hans mc_alpha_storyline_172_cdca8680:
 translate zh_Hans mc_alpha_storyline_172_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:6226
 translate zh_Hans mc_alpha_storyline_172_after_f6a5a792:
@@ -11760,7 +11760,7 @@ translate zh_Hans mc_alpha_storyline_173_75d0f1eb:
 translate zh_Hans mc_alpha_storyline_173_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:6397
 translate zh_Hans mc_alpha_storyline_173_after_18641c42:
@@ -12050,7 +12050,7 @@ translate zh_Hans mc_alpha_storyline_174_71b07b3a:
 translate zh_Hans mc_alpha_storyline_174_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:6543
 translate zh_Hans mc_alpha_storyline_175_86167a0f:
@@ -12376,7 +12376,7 @@ translate zh_Hans mc_alpha_storyline_175_c9c3dbd7:
 translate zh_Hans mc_alpha_storyline_175_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:6683
 translate zh_Hans mc_alpha_storyline_175_after_a04ce5ad:
@@ -12750,7 +12750,7 @@ translate zh_Hans mc_alpha_storyline_176_bc203c07:
 translate zh_Hans mc_alpha_storyline_176_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:6855
 translate zh_Hans mc_alpha_storyline_177_2fee08fd:
@@ -12872,7 +12872,7 @@ translate zh_Hans mc_alpha_storyline_177_1591aa79:
 translate zh_Hans mc_alpha_storyline_177_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:6923
 translate zh_Hans mc_alpha_storyline_177_after_e7b6b5c2:
@@ -13684,7 +13684,7 @@ translate zh_Hans mc_alpha_storyline_178_5c152937:
 translate zh_Hans mc_alpha_storyline_178_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:7251
 translate zh_Hans mc_alpha_storyline_179_76b2fe88:
@@ -14218,7 +14218,7 @@ translate zh_Hans mc_alpha_storyline_179_d90d9a8d_1:
 translate zh_Hans mc_alpha_storyline_179_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:7467
 translate zh_Hans mc_alpha_storyline_180_9da2bd47:
@@ -14322,7 +14322,7 @@ translate zh_Hans mc_alpha_storyline_180_521c7406:
 translate zh_Hans mc_alpha_storyline_180_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:7534
 translate zh_Hans mc_alpha_storyline_181_ebd1c5d0:
@@ -14414,7 +14414,7 @@ translate zh_Hans mc_alpha_storyline_181_1f13983e:
 translate zh_Hans mc_alpha_storyline_181_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:7594
 translate zh_Hans mc_alpha_storyline_181_after_2d2dda14:
@@ -14704,7 +14704,7 @@ translate zh_Hans mc_alpha_storyline_182_17f71a3c:
 translate zh_Hans mc_alpha_storyline_182_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:7733
 translate zh_Hans mc_alpha_storyline_182_after_694323ef:
@@ -15186,7 +15186,7 @@ translate zh_Hans mc_alpha_storyline_183_90a5aae6:
 translate zh_Hans mc_alpha_storyline_183_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:7954
 translate zh_Hans mc_alpha_storyline_183_after_be92cbf3:
@@ -15296,7 +15296,7 @@ translate zh_Hans mc_alpha_storyline_184_bf1e1a57:
 translate zh_Hans mc_alpha_storyline_184_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:8036
 translate zh_Hans mc_alpha_storyline_185_c4474578:
@@ -15430,7 +15430,7 @@ translate zh_Hans mc_alpha_storyline_185_2e18406a:
 translate zh_Hans mc_alpha_storyline_185_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:8111
 translate zh_Hans mc_alpha_storyline_186_9da2bd47:
@@ -15726,7 +15726,7 @@ translate zh_Hans mc_alpha_storyline_186_54739566:
 translate zh_Hans mc_alpha_storyline_186_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:8243
 translate zh_Hans mc_alpha_storyline_186_after_560bc9b7:
@@ -16028,7 +16028,7 @@ translate zh_Hans mc_alpha_storyline_187_df56f4ab:
 translate zh_Hans mc_alpha_storyline_187_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:8399
 translate zh_Hans mc_alpha_storyline_188_8607efa1:
@@ -16114,7 +16114,7 @@ translate zh_Hans mc_alpha_storyline_188_9dc4d894:
 translate zh_Hans mc_alpha_storyline_188_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:8464
 translate zh_Hans mc_alpha_storyline_189_9da2bd47:
@@ -16356,7 +16356,7 @@ translate zh_Hans mc_alpha_storyline_189_c75bf3dd:
 translate zh_Hans mc_alpha_storyline_189_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:8577
 translate zh_Hans mc_alpha_storyline_190_4c40e4b1:
@@ -16490,7 +16490,7 @@ translate zh_Hans mc_alpha_storyline_190_912da6f6:
 translate zh_Hans mc_alpha_storyline_190_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:8667
 translate zh_Hans mc_alpha_storyline_190_after_cd36c238:
@@ -16514,7 +16514,7 @@ translate zh_Hans mc_alpha_storyline_190_after_671c325b:
 translate zh_Hans mc_alpha_storyline_190_after_82b9f930:
 
     # mc "{i}Uhh!"
-    mc "{i}Uhh!|{i}呃！"
+    mc "{i}呃！"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:8675
 translate zh_Hans mc_alpha_storyline_190_after_e7d01c51:
@@ -16702,7 +16702,7 @@ translate zh_Hans mc_alpha_storyline_191_c2001220:
 translate zh_Hans mc_alpha_storyline_191_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:8789
 translate zh_Hans mc_alpha_storyline_192_1b82d69e:
@@ -17076,7 +17076,7 @@ translate zh_Hans mc_alpha_storyline_192_685af2e7:
 translate zh_Hans mc_alpha_storyline_192_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:8947
 translate zh_Hans mc_alpha_storyline_192_after_9d29ef68:
@@ -17486,7 +17486,7 @@ translate zh_Hans mc_alpha_storyline_193_83752d07:
 translate zh_Hans mc_alpha_storyline_193_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:9142
 translate zh_Hans mc_alpha_storyline_193_after_4642f6fd:
@@ -17752,7 +17752,7 @@ translate zh_Hans mc_alpha_storyline_194_ef09b039:
 translate zh_Hans mc_alpha_storyline_194_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:9278
 translate zh_Hans mc_alpha_storyline_195_32b4ebca:
@@ -18216,7 +18216,7 @@ translate zh_Hans mc_alpha_storyline_195_b2908523:
 translate zh_Hans mc_alpha_storyline_195_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:9473
 translate zh_Hans mc_alpha_storyline_196_c9229a52:
@@ -18428,7 +18428,7 @@ translate zh_Hans mc_alpha_storyline_196_9235c986:
 translate zh_Hans mc_alpha_storyline_196_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:9585
 translate zh_Hans mc_alpha_storyline_196_after_afb98112:
@@ -18838,7 +18838,7 @@ translate zh_Hans mc_alpha_storyline_197_df56f4ab:
 translate zh_Hans mc_alpha_storyline_197_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:9771
 translate zh_Hans mc_alpha_storyline_198_b898cdc8:
@@ -19164,7 +19164,7 @@ translate zh_Hans mc_alpha_storyline_198_c231e09e:
 translate zh_Hans mc_alpha_storyline_198_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:9924
 translate zh_Hans mc_alpha_storyline_199_256002f1:
@@ -19340,7 +19340,7 @@ translate zh_Hans mc_alpha_storyline_199_22064eeb:
 translate zh_Hans mc_alpha_storyline_199_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:10023
 translate zh_Hans mc_alpha_storyline_200_39f29175:
@@ -19444,7 +19444,7 @@ translate zh_Hans mc_alpha_storyline_200_4b541d36:
 translate zh_Hans mc_alpha_storyline_200_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:10088
 translate zh_Hans mc_alpha_storyline_201_d8c558bf:
@@ -19578,7 +19578,7 @@ translate zh_Hans mc_alpha_storyline_201_7c7c9408:
 translate zh_Hans mc_alpha_storyline_201_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:10160
 translate zh_Hans mc_alpha_storyline_201_after_6163f5bd:
@@ -19886,7 +19886,7 @@ translate zh_Hans mc_alpha_storyline_202_521c7406:
 translate zh_Hans mc_alpha_storyline_202_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:10314
 translate zh_Hans mc_alpha_storyline_203_1b82d69e:
@@ -20080,7 +20080,7 @@ translate zh_Hans mc_alpha_storyline_203_556c5df8:
 translate zh_Hans mc_alpha_storyline_203_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:10410
 translate zh_Hans mc_alpha_storyline_203_after_022a9566:
@@ -20322,7 +20322,7 @@ translate zh_Hans mc_alpha_storyline_204_2f51c152:
 translate zh_Hans mc_alpha_storyline_204_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:10546
 translate zh_Hans mc_alpha_storyline_205_d965d2e4:
@@ -20660,7 +20660,7 @@ translate zh_Hans mc_alpha_storyline_205_ca9eade5:
 translate zh_Hans mc_alpha_storyline_205_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:10704
 translate zh_Hans mc_alpha_storyline_205_after_7f42add7:
@@ -20998,7 +20998,7 @@ translate zh_Hans mc_alpha_storyline_206_a0888e84:
 translate zh_Hans mc_alpha_storyline_206_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:10884
 translate zh_Hans mc_alpha_storyline_207_ce37dc3b:
@@ -21294,7 +21294,7 @@ translate zh_Hans mc_alpha_storyline_207_dd50b1e8:
 translate zh_Hans mc_alpha_storyline_207_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:11017
 translate zh_Hans mc_alpha_storyline_208_70987e02:
@@ -21404,7 +21404,7 @@ translate zh_Hans mc_alpha_storyline_208_1ca3142e:
 translate zh_Hans mc_alpha_storyline_208_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:11086
 translate zh_Hans mc_alpha_storyline_209_e5a68b95:
@@ -21544,7 +21544,7 @@ translate zh_Hans mc_alpha_storyline_209_26b610f1:
 translate zh_Hans mc_alpha_storyline_209_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:11160
 translate zh_Hans mc_alpha_storyline_209_after_a6797ddf:
@@ -21816,7 +21816,7 @@ translate zh_Hans mc_alpha_storyline_210_2e18406a:
 translate zh_Hans mc_alpha_storyline_210_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:11308
 translate zh_Hans mc_alpha_storyline_211_e77abb7e:
@@ -22004,7 +22004,7 @@ translate zh_Hans mc_alpha_storyline_211_303596e6:
 translate zh_Hans mc_alpha_storyline_211_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:11407
 translate zh_Hans mc_alpha_storyline_212_fd20ebef:
@@ -22216,7 +22216,7 @@ translate zh_Hans mc_alpha_storyline_212_461461c7:
 translate zh_Hans mc_alpha_storyline_212_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:11514
 translate zh_Hans mc_alpha_storyline_213_51885c16:
@@ -22446,7 +22446,7 @@ translate zh_Hans mc_alpha_storyline_213_365b1b0e:
 translate zh_Hans mc_alpha_storyline_213_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:11623
 translate zh_Hans mc_alpha_storyline_214_42171a5e:
@@ -22664,7 +22664,7 @@ translate zh_Hans mc_alpha_storyline_214_8e2d3060:
 translate zh_Hans mc_alpha_storyline_214_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:11732
 translate zh_Hans mc_alpha_storyline_215_95192ed8:
@@ -22906,7 +22906,7 @@ translate zh_Hans mc_alpha_storyline_215_89517539:
 translate zh_Hans mc_alpha_storyline_215_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:11845
 translate zh_Hans mc_alpha_storyline_216_d4bb5be3:
@@ -23142,7 +23142,7 @@ translate zh_Hans mc_alpha_storyline_216_22e5f917:
 translate zh_Hans mc_alpha_storyline_216_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:11956
 translate zh_Hans mc_alpha_storyline_217_42171a5e:
@@ -23486,43 +23486,43 @@ translate zh_Hans mc_alpha_storyline_217_23967db7:
 translate zh_Hans mc_alpha_storyline_217_after_a187acd6:
 
     # mc "{i}I need to find a way to get closer to Jenna."
-    mc "{i}I need to find a way to get closer to Jenna.|{i}我得想办法把珍娜搞到手。"
+    mc "{i}我得想办法把珍娜搞到手。"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:12104
 translate zh_Hans mc_alpha_storyline_217_after_bab6cf67:
 
     # mc "{i}She's the only way I can get near Salim right now."
-    mc "{i}She's the only way I can get near Salim right now.|{i}现在，只有她能让我接近萨利姆那混蛋。"
+    mc "{i}现在，只有她能让我接近萨利姆那混蛋。"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:12106
 translate zh_Hans mc_alpha_storyline_217_after_98c720de:
 
     # mc "{i}She's the key."
-    mc "{i}She's the key.|{i}她是关键。"
+    mc "{i}她是关键。"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:12108
 translate zh_Hans mc_alpha_storyline_217_after_dbe6cfff:
 
     # mc "{i}Amelia said I need to be careful."
-    mc "{i}Amelia said I need to be careful.|{i}阿米莉亚说我得小心点。"
+    mc "{i}阿米莉亚说我得小心点。"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:12110
 translate zh_Hans mc_alpha_storyline_217_after_b220247e:
 
     # mc "{i}But I think I can use the app to make her want to get closer to me."
-    mc "{i}But I think I can use the app to make her want to get closer to me.|{i}但我相信，我能利用这个APP，让她主动贴上来，求着我肏她。"
+    mc "{i}但我相信，我能利用这个APP，让她主动贴上来，求着我肏她。"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:12112
 translate zh_Hans mc_alpha_storyline_217_after_12a57b6e:
 
     # mc "{i}I'll start by warming her up with some conversation."
-    mc "{i}I'll start by warming her up with some conversation.|{i}我先跟她聊骚几句，把她撩热。"
+    mc "{i}我先跟她聊骚几句，把她撩热。"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:12114
 translate zh_Hans mc_alpha_storyline_217_after_42a1b807:
 
     # mc "{i}Then I'll move in on Salim."
-    mc "{i}Then I'll move in on Salim.|{i}然后，我再对付萨利姆那狗娘养的。"
+    mc "{i}然后，我再对付萨利姆那狗娘养的。"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:12133
 translate zh_Hans mc_alpha_storyline_218_94eac04b:
@@ -24142,7 +24142,7 @@ translate zh_Hans mc_alpha_storyline_218_0a693179:
 translate zh_Hans mc_alpha_storyline_218_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:12380
 translate zh_Hans mc_alpha_storyline_219_2c0c287a:
@@ -24360,7 +24360,7 @@ translate zh_Hans mc_alpha_storyline_219_ff872142:
 translate zh_Hans mc_alpha_storyline_219_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:12485
 translate zh_Hans mc_alpha_storyline_220_95192ed8:
@@ -24608,7 +24608,7 @@ translate zh_Hans mc_alpha_storyline_220_6c5de749:
 translate zh_Hans mc_alpha_storyline_220_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:12600
 translate zh_Hans mc_alpha_storyline_221_57bc727b:
@@ -24724,7 +24724,7 @@ translate zh_Hans mc_alpha_storyline_221_c0c8fb48:
 translate zh_Hans mc_alpha_storyline_221_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:12671
 translate zh_Hans mc_alpha_storyline_222_a8c6a0ed:
@@ -24906,7 +24906,7 @@ translate zh_Hans mc_alpha_storyline_222_31c7a4b8:
 translate zh_Hans mc_alpha_storyline_222_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:12764
 translate zh_Hans mc_alpha_storyline_223_a62111f8:
@@ -25082,7 +25082,7 @@ translate zh_Hans mc_alpha_storyline_223_35468632:
 translate zh_Hans mc_alpha_storyline_223_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:12855
 translate zh_Hans mc_alpha_storyline_224_8815ca04:
@@ -25276,7 +25276,7 @@ translate zh_Hans mc_alpha_storyline_224_936390c6:
 translate zh_Hans mc_alpha_storyline_224_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:12956
 translate zh_Hans mc_alpha_storyline_225_95192ed8:
@@ -25506,7 +25506,7 @@ translate zh_Hans mc_alpha_storyline_225_51abd0ac:
 translate zh_Hans mc_alpha_storyline_225_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:13065
 translate zh_Hans mc_alpha_storyline_226_1b82d69e:
@@ -25670,7 +25670,7 @@ translate zh_Hans mc_alpha_storyline_226_a7dd610c:
 translate zh_Hans mc_alpha_storyline_226_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:13169
 translate zh_Hans mc_alpha_storyline_227_7ec94c54:
@@ -25774,7 +25774,7 @@ translate zh_Hans mc_alpha_storyline_227_57489c4c:
 translate zh_Hans mc_alpha_storyline_227_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:13236
 translate zh_Hans mc_alpha_storyline_228_6a4d58d6:
@@ -26322,7 +26322,7 @@ translate zh_Hans mc_alpha_storyline_228_3236dcd6:
 translate zh_Hans mc_alpha_storyline_228_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:13468
 translate zh_Hans mc_alpha_storyline_229_bdef8148:
@@ -26480,7 +26480,7 @@ translate zh_Hans mc_alpha_storyline_229_c193aff6:
 translate zh_Hans mc_alpha_storyline_229_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:13557
 translate zh_Hans mc_alpha_storyline_230_1d3360ac:
@@ -26638,7 +26638,7 @@ translate zh_Hans mc_alpha_storyline_230_acc7b11f:
 translate zh_Hans mc_alpha_storyline_230_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:13642
 translate zh_Hans mc_alpha_storyline_231_95192ed8:
@@ -26832,7 +26832,7 @@ translate zh_Hans mc_alpha_storyline_231_8df0020f:
 translate zh_Hans mc_alpha_storyline_231_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:13739
 translate zh_Hans mc_alpha_storyline_232_8815ca04:
@@ -27098,7 +27098,7 @@ translate zh_Hans mc_alpha_storyline_232_a78b3a4a:
 translate zh_Hans mc_alpha_storyline_232_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:13868
 translate zh_Hans mc_alpha_storyline_233_22597984:
@@ -27244,7 +27244,7 @@ translate zh_Hans mc_alpha_storyline_233_38830da8:
 translate zh_Hans mc_alpha_storyline_233_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:13949
 translate zh_Hans mc_alpha_storyline_234_1d3360ac:
@@ -27348,7 +27348,7 @@ translate zh_Hans mc_alpha_storyline_234_531744f0:
 translate zh_Hans mc_alpha_storyline_234_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:14016
 translate zh_Hans mc_alpha_storyline_235_8815ca04:
@@ -27560,7 +27560,7 @@ translate zh_Hans mc_alpha_storyline_235_32f1c283:
 translate zh_Hans mc_alpha_storyline_235_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:14123
 translate zh_Hans mc_alpha_storyline_236_83ffa6ee:
@@ -27796,7 +27796,7 @@ translate zh_Hans mc_alpha_storyline_236_aa74f266:
 translate zh_Hans mc_alpha_storyline_236_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:14234
 translate zh_Hans mc_alpha_storyline_237_39a2136d:
@@ -27936,7 +27936,7 @@ translate zh_Hans mc_alpha_storyline_237_385f32b3:
 translate zh_Hans mc_alpha_storyline_237_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:14313
 translate zh_Hans mc_alpha_storyline_238_f0059a80:
@@ -28040,7 +28040,7 @@ translate zh_Hans mc_alpha_storyline_238_6b8b4056:
 translate zh_Hans mc_alpha_storyline_238_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:14380
 translate zh_Hans mc_alpha_storyline_239_95192ed8:
@@ -28288,7 +28288,7 @@ translate zh_Hans mc_alpha_storyline_239_e32a6510:
 translate zh_Hans mc_alpha_storyline_239_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:14492
 translate zh_Hans mc_alpha_storyline_239_after_9cca7586:
@@ -28578,67 +28578,67 @@ translate zh_Hans mc_alpha_storyline_240_5fc03f79:
 translate zh_Hans mc_alpha_storyline_240_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:14639
 translate zh_Hans mc_alpha_storyline_240_after_224b99c2:
 
     # mc "{i}I just want this to be over already."
-    mc "{i}I just want this to be over already.|{i}我只想这一切赶紧结束。"
+    mc "{i}我只想这一切赶紧结束。"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:14641
 translate zh_Hans mc_alpha_storyline_240_after_6b08a738:
 
     # mc "{i}I feel sick every time I pretend to flirt with Jenna."
-    mc "{i}I feel sick every time I pretend to flirt with Jenna.|{i}每次假装和珍娜调情，我都会感到恶心。"
+    mc "{i}每次假装和珍娜调情，我都会感到恶心。"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:14643
 translate zh_Hans mc_alpha_storyline_240_after_dbea5264:
 
     # mc "{i}Every single time..."
-    mc "{i}Every single time...|{i}每一次都是这样……"
+    mc "{i}每一次都是这样……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:14645
 translate zh_Hans mc_alpha_storyline_240_after_323d2748:
 
     # mc "{i}But I've got no other choice."
-    mc "{i}But I've got no other choice.|{i}但我别无选择。"
+    mc "{i}但我别无选择。"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:14647
 translate zh_Hans mc_alpha_storyline_240_after_a2486781:
 
     # mc "{i}I need to get to Salim."
-    mc "{i}I need to get to Salim.|{i}我需要去见萨利姆。"
+    mc "{i}我需要去见萨利姆。"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:14649
 translate zh_Hans mc_alpha_storyline_240_after_f858ccbe:
 
     # mc "{i}And Jenna's the best way to do that."
-    mc "{i}And Jenna's the best way to do that.|{i}而珍娜是实现这一目标的最佳人选。"
+    mc "{i}而珍娜是实现这一目标的最佳人选。"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:14651
 translate zh_Hans mc_alpha_storyline_240_after_0965f503:
 
     # mc "{i}But later..."
-    mc "{i}But later...|{i}但后来……"
+    mc "{i}但后来……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:14653
 translate zh_Hans mc_alpha_storyline_240_after_a023b022:
 
     # mc "{i}Once I reach him, I'll make Jenna regret everything she's done."
-    mc "{i}Once I reach him, I'll make Jenna regret everything she's done.|{i}一旦我找到他，我一定要让珍娜后悔她所做的一切。"
+    mc "{i}一旦我找到他，我一定要让珍娜后悔她所做的一切。"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:14655
 translate zh_Hans mc_alpha_storyline_240_after_353be5e6:
 
     # mc "{i}I'll make that bitch suffer."
-    mc "{i}I'll make that bitch suffer.|{i}我一定要让那个贱人生不如死。"
+    mc "{i}我一定要让那个贱人生不如死。"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:14657
 translate zh_Hans mc_alpha_storyline_240_after_07ff123c:
 
     # mc "{i}I'll fuck all the shit out of her."
-    mc "{i}I'll fuck all the shit out of her.|{i}我要把她操到爽翻天。"
+    mc "{i}我要把她操到爽翻天。"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:14676
 translate zh_Hans mc_alpha_storyline_241_81ffafb1:
@@ -28898,7 +28898,7 @@ translate zh_Hans mc_alpha_storyline_241_8c4953e2:
 translate zh_Hans mc_alpha_storyline_241_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:14803
 translate zh_Hans mc_alpha_storyline_242_f20810d5:
@@ -29128,7 +29128,7 @@ translate zh_Hans mc_alpha_storyline_242_9ef137e4:
 translate zh_Hans mc_alpha_storyline_242_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:14928
 translate zh_Hans mc_alpha_storyline_243_64887fe9:
@@ -29340,7 +29340,7 @@ translate zh_Hans mc_alpha_storyline_243_736af417:
 translate zh_Hans mc_alpha_storyline_243_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:15031
 translate zh_Hans mc_alpha_storyline_244_234e3575:
@@ -29510,7 +29510,7 @@ translate zh_Hans mc_alpha_storyline_244_83cbea40:
 translate zh_Hans mc_alpha_storyline_244_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:15120
 translate zh_Hans mc_alpha_storyline_245_4e217d38:
@@ -29728,7 +29728,7 @@ translate zh_Hans mc_alpha_storyline_245_2cbf5ced:
 translate zh_Hans mc_alpha_storyline_245_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:15233
 translate zh_Hans mc_alpha_storyline_246_09e3dd97:
@@ -30060,7 +30060,7 @@ translate zh_Hans mc_alpha_storyline_246_9ea76083:
 translate zh_Hans mc_alpha_storyline_246_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:15384
 translate zh_Hans mc_alpha_storyline_247_39a2136d:
@@ -30368,7 +30368,7 @@ translate zh_Hans mc_alpha_storyline_247_856f955c:
 translate zh_Hans mc_alpha_storyline_247_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:15531
 translate zh_Hans mc_alpha_storyline_248_8815ca04:
@@ -30670,7 +30670,7 @@ translate zh_Hans mc_alpha_storyline_248_e00e2059:
 translate zh_Hans mc_alpha_storyline_248_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:15664
 translate zh_Hans mc_alpha_storyline_249_39a2136d:
@@ -30894,7 +30894,7 @@ translate zh_Hans mc_alpha_storyline_249_7e573cbe:
 translate zh_Hans mc_alpha_storyline_249_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:15771
 translate zh_Hans mc_alpha_storyline_250_42171a5e:
@@ -31112,7 +31112,7 @@ translate zh_Hans mc_alpha_storyline_250_10befb9c:
 translate zh_Hans mc_alpha_storyline_250_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:15872
 translate zh_Hans mc_alpha_storyline_250_after_938829fe:
@@ -31378,7 +31378,7 @@ translate zh_Hans mc_alpha_storyline_251_2bda4cb5:
 translate zh_Hans mc_alpha_storyline_251_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:16012
 translate zh_Hans mc_alpha_storyline_252_8815ca04:
@@ -31542,7 +31542,7 @@ translate zh_Hans mc_alpha_storyline_252_1ddd8c11:
 translate zh_Hans mc_alpha_storyline_252_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:16103
 translate zh_Hans mc_alpha_storyline_253_8815ca04:
@@ -31844,7 +31844,7 @@ translate zh_Hans mc_alpha_storyline_253_52892467:
 translate zh_Hans mc_alpha_storyline_253_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:16240
 translate zh_Hans mc_alpha_storyline_253_after_023f820b:
@@ -32158,7 +32158,7 @@ translate zh_Hans mc_alpha_storyline_254_a2782664:
 translate zh_Hans mc_alpha_storyline_254_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:16396
 translate zh_Hans mc_alpha_storyline_255_5ba24d36:
@@ -32364,7 +32364,7 @@ translate zh_Hans mc_alpha_storyline_255_b2998a71:
 translate zh_Hans mc_alpha_storyline_255_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:16501
 translate zh_Hans mc_alpha_storyline_256_d4edf99a:
@@ -32504,7 +32504,7 @@ translate zh_Hans mc_alpha_storyline_256_986e4330:
 translate zh_Hans mc_alpha_storyline_256_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:16580
 translate zh_Hans mc_alpha_storyline_257_95192ed8:
@@ -32692,7 +32692,7 @@ translate zh_Hans mc_alpha_storyline_257_6f0ccc1d:
 translate zh_Hans mc_alpha_storyline_257_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:16675
 translate zh_Hans mc_alpha_storyline_258_a62111f8:
@@ -32916,7 +32916,7 @@ translate zh_Hans mc_alpha_storyline_258_13a32bc7:
 translate zh_Hans mc_alpha_storyline_258_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:16782
 translate zh_Hans mc_alpha_storyline_258_after_03e1e402:
@@ -33122,7 +33122,7 @@ translate zh_Hans mc_alpha_storyline_259_2c2a3a56:
 translate zh_Hans mc_alpha_storyline_259_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:16918
 translate zh_Hans mc_alpha_storyline_260_39a2136d:
@@ -33286,13 +33286,13 @@ translate zh_Hans mc_alpha_storyline_260_ed45deff:
 translate zh_Hans mc_alpha_storyline_260_8f5d44a6:
 
     # nvljohn "From the side of your new life"
-    nvljohn "From the side of your new life|从你这新生活浪荡的一面来看"
+    nvljohn "从你这新生活浪荡的一面来看"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:16986
 translate zh_Hans mc_alpha_storyline_260_4624c909:
 
     # nvlmike "Guess I'll try"
-    nvlmike "Guess I'll try|那我试试看"
+    nvlmike "那我试试看"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:16988
 translate zh_Hans mc_alpha_storyline_260_ebb42772:
@@ -33310,7 +33310,7 @@ translate zh_Hans mc_alpha_storyline_260_8f233fab:
 translate zh_Hans mc_alpha_storyline_260_4faef5a2:
 
     # nvlmike "Thanks, I think"
-    nvlmike "Thanks, I think|谢了，我想"
+    nvlmike "谢了，我想"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:16994
 translate zh_Hans mc_alpha_storyline_260_c7f7d3e5:
@@ -33322,19 +33322,19 @@ translate zh_Hans mc_alpha_storyline_260_c7f7d3e5:
 translate zh_Hans mc_alpha_storyline_260_76938c9d:
 
     # nvlmike "Sometimes it scares me, the way things are now"
-    nvlmike "Sometimes it scares me, the way things are now|有时，现状让我感到害怕，这感觉真他妈刺激"
+    nvlmike "有时，现状让我感到害怕，这感觉真他妈刺激"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:16998
 translate zh_Hans mc_alpha_storyline_260_11277018:
 
     # nvlmike "That I've become..."
-    nvlmike "That I've become...|我已经变成了……"
+    nvlmike "我已经变成了……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17000
 translate zh_Hans mc_alpha_storyline_260_4082bc8b:
 
     # nvljohn "That you've become a beauty?"
-    nvljohn "That you've become a beauty?|你变得如此尤物？"
+    nvljohn "你变得如此尤物？"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17002
 translate zh_Hans mc_alpha_storyline_260_1c708215:
@@ -33346,13 +33346,13 @@ translate zh_Hans mc_alpha_storyline_260_1c708215:
 translate zh_Hans mc_alpha_storyline_260_35b167d2:
 
     # nvlmike "When you say it like that, it makes me feel better"
-    nvlmike "When you say it like that, it makes me feel better|你这么一说，我感觉好多了，骚劲儿都上来了"
+    nvlmike "你这么一说，我感觉好多了，骚劲儿都上来了"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17006
 translate zh_Hans mc_alpha_storyline_260_9bb1d9e2:
 
     # nvljohn "Then I'll say it more often"
-    nvljohn "Then I'll say it more often|那我以后会更频繁地把你夸到浪叫"
+    nvljohn "那我以后会更频繁地把你夸到浪叫"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17008
 translate zh_Hans mc_alpha_storyline_260_5d56c007:
@@ -33370,25 +33370,25 @@ translate zh_Hans mc_alpha_storyline_260_c85f0f85:
 translate zh_Hans mc_alpha_storyline_260_a2ec4c88:
 
     # nvljohn "It's time you start getting used to the new you"
-    nvljohn "It's time you start getting used to the new you|是时候让你这具身体彻底适应全新的自己了"
+    nvljohn "是时候让你这具身体彻底适应全新的自己了"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17014
 translate zh_Hans mc_alpha_storyline_260_616f8013:
 
     # nvlmike "Mhm, you're right"
-    nvlmike "Mhm, you're right|嗯，你说得对"
+    nvlmike "嗯，你说得对"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17016
 translate zh_Hans mc_alpha_storyline_260_3f9f737e:
 
     # nvlmike "I need to try"
-    nvlmike "I need to try|我得好好放开自己"
+    nvlmike "我得好好放开自己"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17018
 translate zh_Hans mc_alpha_storyline_260_224e221a:
 
     # nvljohn "I'll help however I can"
-    nvljohn "I'll help however I can|我会尽我所能，把你调教到极致"
+    nvljohn "我会尽我所能，把你调教到极致"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17020
 translate zh_Hans mc_alpha_storyline_260_ee2fc9e2:
@@ -33400,7 +33400,7 @@ translate zh_Hans mc_alpha_storyline_260_ee2fc9e2:
 translate zh_Hans mc_alpha_storyline_260_8370bb26:
 
     # nvlmike "You've done so much for me"
-    nvlmike "You've done so much for me|你为我做了这么多，简直把我操翻了"
+    nvlmike "你为我做了这么多，简直把我操翻了"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17024
 translate zh_Hans mc_alpha_storyline_260_6bde80f1:
@@ -33430,7 +33430,7 @@ translate zh_Hans mc_alpha_storyline_260_c84d292e:
 translate zh_Hans mc_alpha_storyline_260_a12cd301:
 
     # nvlmike "And come over"
-    nvlmike "And come over|过来，让我好好疼你"
+    nvlmike "过来，让我好好疼你"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17034
 translate zh_Hans mc_alpha_storyline_260_9cb1e094:
@@ -33442,13 +33442,13 @@ translate zh_Hans mc_alpha_storyline_260_9cb1e094:
 translate zh_Hans mc_alpha_storyline_260_253f2c41:
 
     # nvljohn "Okay, Mike"
-    nvljohn "Okay, Mike|好的，麦克"
+    nvljohn "好的，麦克"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17052
 translate zh_Hans mc_alpha_storyline_260_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17071
 translate zh_Hans mc_alpha_storyline_261_4badf861:
@@ -33486,7 +33486,7 @@ translate zh_Hans mc_alpha_storyline_261_96d4cc8e:
 translate zh_Hans mc_alpha_storyline_261_62b24ffb:
 
     # nvlsalim "I want to make you an offer"
-    nvlsalim "I want to make you an offer|我想给你一个无法拒绝的提议"
+    nvlsalim "我想给你一个无法拒绝的提议"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17085
 translate zh_Hans mc_alpha_storyline_261_bbc94fef:
@@ -33498,31 +33498,31 @@ translate zh_Hans mc_alpha_storyline_261_bbc94fef:
 translate zh_Hans mc_alpha_storyline_261_39edb0c0:
 
     # nvlsalim "I'll give you the company back"
-    nvlsalim "I'll give you the company back|我会把公司还给你"
+    nvlsalim "我会把公司还给你"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17089
 translate zh_Hans mc_alpha_storyline_261_56308c3a:
 
     # nvlsalim "And clear your debt"
-    nvlsalim "And clear your debt|还清你的债务"
+    nvlsalim "还清你的债务"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17091
 translate zh_Hans mc_alpha_storyline_261_36e8c7b7:
 
     # nvljohn "And in return?"
-    nvljohn "And in return?|那作为回报呢？你想从我这儿得到什么？"
+    nvljohn "那作为回报呢？你想从我这儿得到什么？"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17093
 translate zh_Hans mc_alpha_storyline_261_f800a993:
 
     # nvlsalim "We call it even"
-    nvlsalim "We call it even|我们扯平了"
+    nvlsalim "我们扯平了"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17095
 translate zh_Hans mc_alpha_storyline_261_905e7b4a:
 
     # nvlsalim "Go our separate ways"
-    nvlsalim "Go our separate ways|各走各的路"
+    nvlsalim "各走各的路"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17097
 translate zh_Hans mc_alpha_storyline_261_0cac3ff2:
@@ -33534,7 +33534,7 @@ translate zh_Hans mc_alpha_storyline_261_0cac3ff2:
 translate zh_Hans mc_alpha_storyline_261_88fff9d1:
 
     # nvljohn "Sounds too good"
-    nvljohn "Sounds too good|听起来太他妈美好了，简直像个陷阱"
+    nvljohn "听起来太他妈美好了，简直像个陷阱"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17101
 translate zh_Hans mc_alpha_storyline_261_d8e97a96:
@@ -33552,25 +33552,25 @@ translate zh_Hans mc_alpha_storyline_261_3ff319aa:
 translate zh_Hans mc_alpha_storyline_261_806a5ef7:
 
     # nvlsalim "Because I'm tired of all this"
-    nvlsalim "Because I'm tired of all this|因为我厌倦了这一切的狗屁倒灶"
+    nvlsalim "因为我厌倦了这一切的狗屁倒灶"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17107
 translate zh_Hans mc_alpha_storyline_261_318bfb47:
 
     # nvlsalim "Tired of our feud"
-    nvlsalim "Tired of our feud|厌倦了我们之间的争斗"
+    nvlsalim "厌倦了我们之间的争斗"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17109
 translate zh_Hans mc_alpha_storyline_261_e9154ee1:
 
     # nvlsalim "I want to end it"
-    nvlsalim "I want to end it|我想彻底结束这一切"
+    nvlsalim "我想彻底结束这一切"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17111
 translate zh_Hans mc_alpha_storyline_261_6c127e42:
 
     # nvljohn "And you think I'll believe you?"
-    nvljohn "And you think I'll believe you?|你觉得我会相信你这鬼话？"
+    nvljohn "你觉得我会相信你这鬼话？"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17113
 translate zh_Hans mc_alpha_storyline_261_6f90f83f:
@@ -33624,13 +33624,13 @@ translate zh_Hans mc_alpha_storyline_261_5653a929:
 translate zh_Hans mc_alpha_storyline_261_1cdc6d14:
 
     # nvlsalim "I think you're tired of this feud too"
-    nvlsalim "I think you're tired of this feud too|我想你也厌倦了这场无休止的纷争"
+    nvlsalim "我想你也厌倦了这场无休止的纷争"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17131
 translate zh_Hans mc_alpha_storyline_261_1f7c1efc:
 
     # nvlsalim "Why keep it going when we could end it?"
-    nvlsalim "Why keep it going when we could end it?|既然可以一刀两断，为什么还要继续纠缠下去？"
+    nvlsalim "既然可以一刀两断，为什么还要继续纠缠下去？"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17133
 translate zh_Hans mc_alpha_storyline_261_e5ebf159:
@@ -33642,55 +33642,55 @@ translate zh_Hans mc_alpha_storyline_261_e5ebf159:
 translate zh_Hans mc_alpha_storyline_261_947fbe52:
 
     # nvljohn "I'll let you know once I decide"
-    nvljohn "I'll let you know once I decide|我决定好之后会通知你"
+    nvljohn "我决定好之后会通知你"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17137
 translate zh_Hans mc_alpha_storyline_261_d1eead21:
 
     # nvlsalim "I'll be waiting for your decision"
-    nvlsalim "I'll be waiting for your decision|我会等着你的决定，别让我等太久"
+    nvlsalim "我会等着你的决定，别让我等太久"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17153
 translate zh_Hans mc_alpha_storyline_261_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17169
 translate zh_Hans mc_alpha_storyline_261_after_0d17d0c0:
 
     # mc "{i}That's a hell of an offer"
-    mc "{i}That's a hell of an offer|{i}这真是个他妈的绝佳提议"
+    mc "{i}这真是个他妈的绝佳提议"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17171
 translate zh_Hans mc_alpha_storyline_261_after_b00284c7:
 
     # mc "{i}Too clean, too easy"
-    mc "{i}Too clean, too easy|{i}太他妈干净了，太容易了"
+    mc "{i}太他妈干净了，太容易了"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17173
 translate zh_Hans mc_alpha_storyline_261_after_c26e5c08:
 
     # mc "{i}He's up to something"
-    mc "{i}He's up to something|{i}他肯定在密谋什么阴谋"
+    mc "{i}他肯定在密谋什么阴谋"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17175
 translate zh_Hans mc_alpha_storyline_261_after_484703e6:
 
     # mc "{i}Need to talk this out"
-    mc "{i}Need to talk this out|{i}需要好好把这事儿掰扯清楚"
+    mc "{i}需要好好把这事儿掰扯清楚"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17177
 translate zh_Hans mc_alpha_storyline_261_after_bded0246:
 
     # mc "{i}Who can I trust?"
-    mc "{i}Who can I trust?|{i}我还能相信谁？这世道真他妈操蛋"
+    mc "{i}我还能相信谁？这世道真他妈操蛋"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17179
 translate zh_Hans mc_alpha_storyline_261_after_3faadb37:
 
     # mc "{i}Amelia might know"
-    mc "{i}Amelia might know|{i}阿米莉亚或许知道些什么"
+    mc "{i}阿米莉亚或许知道些什么"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17198
 translate zh_Hans mc_alpha_storyline_262_b054b330:
@@ -33698,7 +33698,7 @@ translate zh_Hans mc_alpha_storyline_262_b054b330:
     # nvl clear
     # nvljohn "Hey, Amelia"
     nvl clear
-    nvljohn "Hey, Amelia|嘿，阿米莉亚"
+    nvljohn "嘿，阿米莉亚"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17202
 translate zh_Hans mc_alpha_storyline_262_801ee95e:
@@ -33710,7 +33710,7 @@ translate zh_Hans mc_alpha_storyline_262_801ee95e:
 translate zh_Hans mc_alpha_storyline_262_524661b5:
 
     # nvljohn "Got time to meet?"
-    nvljohn "Got time to meet?|有空出来见一面吗？"
+    nvljohn "有空出来见一面吗？"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17206
 translate zh_Hans mc_alpha_storyline_262_f07e515d:
@@ -33722,19 +33722,19 @@ translate zh_Hans mc_alpha_storyline_262_f07e515d:
 translate zh_Hans mc_alpha_storyline_262_d2354f5b:
 
     # nvljohn "Need to talk"
-    nvljohn "Need to talk|需要好好谈谈"
+    nvljohn "需要好好谈谈"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17210
 translate zh_Hans mc_alpha_storyline_262_233006c3:
 
     # nvljohn "Something big"
-    nvljohn "Something big|一件大事，能把天捅破那种"
+    nvljohn "一件大事，能把天捅破那种"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17212
 translate zh_Hans mc_alpha_storyline_262_59dfc5fd:
 
     # nvlamelia "Sounds serious"
-    nvlamelia "Sounds serious|听起来很严重啊"
+    nvlamelia "听起来很严重啊"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17214
 translate zh_Hans mc_alpha_storyline_262_796efc06:
@@ -33746,7 +33746,7 @@ translate zh_Hans mc_alpha_storyline_262_796efc06:
 translate zh_Hans mc_alpha_storyline_262_81d74d84:
 
     # nvlamelia "Okay, when?"
-    nvlamelia "Okay, when?|好的，什么时候？"
+    nvlamelia "好的，什么时候？"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17218
 translate zh_Hans mc_alpha_storyline_262_e782ecf9:
@@ -33758,13 +33758,13 @@ translate zh_Hans mc_alpha_storyline_262_e782ecf9:
 translate zh_Hans mc_alpha_storyline_262_8dd2e0d5:
 
     # nvlamelia "Sure, where?"
-    nvlamelia "Sure, where?|当然，在哪儿？"
+    nvlamelia "当然，在哪儿？"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17222
 translate zh_Hans mc_alpha_storyline_262_f60188cc:
 
     # nvljohn "Café downtown?"
-    nvljohn "Café downtown?|市中心的咖啡馆？"
+    nvljohn "市中心的咖啡馆？"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17224
 translate zh_Hans mc_alpha_storyline_262_015e73c6:
@@ -33776,13 +33776,13 @@ translate zh_Hans mc_alpha_storyline_262_015e73c6:
 translate zh_Hans mc_alpha_storyline_262_28d2e789:
 
     # nvlamelia "Noon?"
-    nvlamelia "Noon?|中午？"
+    nvlamelia "中午？"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17228
 translate zh_Hans mc_alpha_storyline_262_95e9a958:
 
     # nvljohn "Yes, noon"
-    nvljohn "Yes, noon|是的，中午"
+    nvljohn "是的，中午"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17230
 translate zh_Hans mc_alpha_storyline_262_4b72c668:
@@ -33800,7 +33800,7 @@ translate zh_Hans mc_alpha_storyline_262_2d0c7efa:
 translate zh_Hans mc_alpha_storyline_262_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17267
 translate zh_Hans mc_alpha_storyline_263_81c55ab7:
@@ -33820,7 +33820,7 @@ translate zh_Hans mc_alpha_storyline_263_c1066d6b:
 translate zh_Hans mc_alpha_storyline_263_bbceea5f:
 
     # nvlamelia "That was a good talk"
-    nvlamelia "That was a good talk|那次谈话真他妈精彩"
+    nvlamelia "那次谈话真他妈精彩"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17275
 translate zh_Hans mc_alpha_storyline_263_eb7e4f5a:
@@ -33832,19 +33832,19 @@ translate zh_Hans mc_alpha_storyline_263_eb7e4f5a:
 translate zh_Hans mc_alpha_storyline_263_8724ad46:
 
     # nvlamelia "I hope I managed to convince you"
-    nvlamelia "I hope I managed to convince you|我希望我已经成功说服你了，让你看清那混蛋的真面目"
+    nvlamelia "我希望我已经成功说服你了，让你看清那混蛋的真面目"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17279
 translate zh_Hans mc_alpha_storyline_263_d49bd6d6:
 
     # nvlamelia "And that you won't trust your enemy"
-    nvlamelia "And that you won't trust your enemy|而且你不会再相信你的敌人，那群狗娘养的"
+    nvlamelia "而且你不会再相信你的敌人，那群狗娘养的"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17281
 translate zh_Hans mc_alpha_storyline_263_e66a5990:
 
     # nvlamelia "Salim's bluffing"
-    nvlamelia "Salim's bluffing|萨利姆那混蛋在虚张声势"
+    nvlamelia "萨利姆那混蛋在虚张声势"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17283
 translate zh_Hans mc_alpha_storyline_263_bba8b4a0:
@@ -33862,61 +33862,61 @@ translate zh_Hans mc_alpha_storyline_263_271d46b4:
 translate zh_Hans mc_alpha_storyline_263_f3eb38bb:
 
     # nvlamelia "He's throwing dust"
-    nvlamelia "He's throwing dust|他只是在撒谎，想蒙蔽你的眼睛"
+    nvlamelia "他只是在撒谎，想蒙蔽你的眼睛"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17289
 translate zh_Hans mc_alpha_storyline_263_cf917283:
 
     # nvljohn "To cover what?"
-    nvljohn "To cover what?|用来掩盖什么？他那肮脏的屁股吗？"
+    nvljohn "用来掩盖什么？他那肮脏的屁股吗？"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17291
 translate zh_Hans mc_alpha_storyline_263_de377242:
 
     # nvlamelia "He won't make peace"
-    nvlamelia "He won't make peace|他不会缔结和平，那根本不是他的风格"
+    nvlamelia "他不会缔结和平，那根本不是他的风格"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17293
 translate zh_Hans mc_alpha_storyline_263_bf27c2fd:
 
     # nvlamelia "Not his style"
-    nvlamelia "Not his style|那不是他那阴险小人的风格"
+    nvlamelia "那不是他那阴险小人的风格"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17295
 translate zh_Hans mc_alpha_storyline_263_bb09eb11:
 
     # nvlamelia "He just wants to buy time"
-    nvlamelia "He just wants to buy time|他只是想拖延时间，让你放松警惕"
+    nvlamelia "他只是想拖延时间，让你放松警惕"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17297
 translate zh_Hans mc_alpha_storyline_263_a31ecb4f:
 
     # nvlamelia "He wants to lower your guard"
-    nvlamelia "He wants to lower your guard|他想降低你的戒备心，让你这骚货以为一切都过去了"
+    nvlamelia "他想降低你的戒备心，让你这骚货以为一切都过去了"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17299
 translate zh_Hans mc_alpha_storyline_263_9a808528:
 
     # nvlamelia "Make you think it's all in the past"
-    nvlamelia "Make you think it's all in the past|让你觉得一切都已成为过去，可以高枕无忧了"
+    nvlamelia "让你觉得一切都已成为过去，可以高枕无忧了"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17301
 translate zh_Hans mc_alpha_storyline_263_9227648e:
 
     # nvlamelia "And then he'll strike"
-    nvlamelia "And then he'll strike|然后他就会猛地出手，把你操个措手不及"
+    nvlamelia "然后他就会猛地出手，把你操个措手不及"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17303
 translate zh_Hans mc_alpha_storyline_263_a1a7f4c1:
 
     # nvlamelia "A blow that'll hurt way more"
-    nvlamelia "A blow that'll hurt way more|那一下会让你痛彻心扉，比被猛插还疼"
+    nvlamelia "那一下会让你痛彻心扉，比被猛插还疼"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17305
 translate zh_Hans mc_alpha_storyline_263_f7b232e8:
 
     # nvlamelia "Because you won't be ready for it"
-    nvlamelia "Because you won't be ready for it|因为你根本还没做好准备，会被他玩弄于股掌之间"
+    nvlamelia "因为你根本还没做好准备，会被他玩弄于股掌之间"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17307
 translate zh_Hans mc_alpha_storyline_263_f209be94:
@@ -33928,7 +33928,7 @@ translate zh_Hans mc_alpha_storyline_263_f209be94:
 translate zh_Hans mc_alpha_storyline_263_9545e695:
 
     # nvlamelia "I know him really well"
-    nvlamelia "I know him really well|我非常了解他，那混蛋的底细我一清二楚"
+    nvlamelia "我非常了解他，那混蛋的底细我一清二楚"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17311
 translate zh_Hans mc_alpha_storyline_263_c1bd69a4:
@@ -33940,7 +33940,7 @@ translate zh_Hans mc_alpha_storyline_263_c1bd69a4:
 translate zh_Hans mc_alpha_storyline_263_be31a679:
 
     # nvljohn "I've gotten to know him too over time"
-    nvljohn "I've gotten to know him too over time|随着时间的推移，我也逐渐了解了他那副德行"
+    nvljohn "随着时间的推移，我也逐渐了解了他那副德行"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17315
 translate zh_Hans mc_alpha_storyline_263_0f20b3a9:
@@ -33952,19 +33952,19 @@ translate zh_Hans mc_alpha_storyline_263_0f20b3a9:
 translate zh_Hans mc_alpha_storyline_263_75b4b330:
 
     # nvlamelia "You can't stop until you've won"
-    nvlamelia "You can't stop until you've won|不到胜利绝不罢休，把他彻底踩在脚下"
+    nvlamelia "不到胜利绝不罢休，把他彻底踩在脚下"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17319
 translate zh_Hans mc_alpha_storyline_263_be577dbc:
 
     # nvlamelia "You have to destroy him"
-    nvlamelia "You have to destroy him|你必须彻底消灭他，让他永世不得翻身"
+    nvlamelia "你必须彻底消灭他，让他永世不得翻身"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17321
 translate zh_Hans mc_alpha_storyline_263_62743d5e:
 
     # nvlamelia "Destroy his business"
-    nvlamelia "Destroy his business|摧毁他的生意，让他一无所有"
+    nvlamelia "摧毁他的生意，让他一无所有"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17323
 translate zh_Hans mc_alpha_storyline_263_e6aa3cbf:
@@ -33976,19 +33976,19 @@ translate zh_Hans mc_alpha_storyline_263_e6aa3cbf:
 translate zh_Hans mc_alpha_storyline_263_691439e5:
 
     # nvlamelia "And I'll do everything I can to help you"
-    nvlamelia "And I'll do everything I can to help you|我会尽我所能帮助你，让你把他玩弄到死"
+    nvlamelia "我会尽我所能帮助你，让你把他玩弄到死"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17327
 translate zh_Hans mc_alpha_storyline_263_ef61170d:
 
     # nvljohn "Thanks, Amelia"
-    nvljohn "Thanks, Amelia|谢谢你，艾米莉亚"
+    nvljohn "谢谢你，艾米莉亚"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17329
 translate zh_Hans mc_alpha_storyline_263_e5d7fdec:
 
     # nvljohn "I wouldn't have made it this far without you"
-    nvljohn "I wouldn't have made it this far without you|如果没有你，我不可能走到今天，你真是我的好帮手"
+    nvljohn "如果没有你，我不可能走到今天，你真是我的好帮手"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17331
 translate zh_Hans mc_alpha_storyline_263_641fb2dd:
@@ -34018,7 +34018,7 @@ translate zh_Hans mc_alpha_storyline_263_52892467:
 translate zh_Hans mc_alpha_storyline_263_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17372
 translate zh_Hans mc_alpha_storyline_264_bdef8148:
@@ -34062,7 +34062,7 @@ translate zh_Hans mc_alpha_storyline_264_dcc7336e:
 translate zh_Hans mc_alpha_storyline_264_0de69a36:
 
     # nvljenna "Nothing new yet"
-    nvljenna "Nothing new yet|目前还没有什么新消息，真是他妈的慢"
+    nvljenna "目前还没有什么新消息，真是他妈的慢"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17388
 translate zh_Hans mc_alpha_storyline_264_8044d097:
@@ -34080,13 +34080,13 @@ translate zh_Hans mc_alpha_storyline_264_a644b42a:
 translate zh_Hans mc_alpha_storyline_264_fc115929:
 
     # nvljenna "Yeah, it's slow"
-    nvljenna "Yeah, it's slow|是的，速度很慢，慢得我鸡巴都硬了"
+    nvljenna "是啊，速度很慢。"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17394
 translate zh_Hans mc_alpha_storyline_264_c0e9faca:
 
     # nvlsalim "You're disappointing me more and more"
-    nvlsalim "You're disappointing me more and more|你越来越让我失望了，珍娜，你这骚货是不是忘了自己的本分？"
+    nvlsalim "你越来越让我失望了，珍娜，你这骚货是不是忘了自己的本分？"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17396
 translate zh_Hans mc_alpha_storyline_264_892d5230:
@@ -34104,7 +34104,7 @@ translate zh_Hans mc_alpha_storyline_264_a70f70a1:
 translate zh_Hans mc_alpha_storyline_264_a7445a13:
 
     # nvlsalim "Yeah, I've heard that before"
-    nvlsalim "Yeah, I've heard that before|是的，我以前也听过这种屁话"
+    nvlsalim "是的，我以前也听过这种屁话"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17402
 translate zh_Hans mc_alpha_storyline_264_fc5aa307:
@@ -34122,7 +34122,7 @@ translate zh_Hans mc_alpha_storyline_264_74f7670a:
 translate zh_Hans mc_alpha_storyline_264_197a7ce3:
 
     # nvlsalim "I hope you'll get me something worthwhile soon"
-    nvlsalim "I hope you'll get me something worthwhile soon|希望你很快能给我带来一些有价值的东西，别让我白养你这骚货"
+    nvlsalim "希望你很快能给我带来一些有价值的东西，别让我白养你这骚货"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17408
 translate zh_Hans mc_alpha_storyline_264_0983bd4f:
@@ -34134,7 +34134,7 @@ translate zh_Hans mc_alpha_storyline_264_0983bd4f:
 translate zh_Hans mc_alpha_storyline_264_c7accd63:
 
     # nvljenna "By the way, you haven't been messaging me much lately..."
-    nvljenna "By the way, you haven't been messaging me much lately...|对了，你最近好像很少给我发骚信……是不是外面有野男人了？"
+    nvljenna "对了，你最近好像很少给我发骚信……是不是外面有野男人了？"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17412
 translate zh_Hans mc_alpha_storyline_264_8e4474b2:
@@ -34146,13 +34146,13 @@ translate zh_Hans mc_alpha_storyline_264_8e4474b2:
 translate zh_Hans mc_alpha_storyline_264_6912cf35:
 
     # nvljenna "You don't call me over"
-    nvljenna "You don't call me over|你都没叫我过去，是不是忘了被我操的滋味了？"
+    nvljenna "你都没叫我过去，是不是忘了被我操的滋味了？"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17416
 translate zh_Hans mc_alpha_storyline_264_e43514c6:
 
     # nvlsalim "Got reasons"
-    nvlsalim "Got reasons|有理由，你这骚货总能找到借口"
+    nvlsalim "有理由，你这骚货总能找到借口"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17418
 translate zh_Hans mc_alpha_storyline_264_316a000a:
@@ -34164,7 +34164,7 @@ translate zh_Hans mc_alpha_storyline_264_316a000a:
 translate zh_Hans mc_alpha_storyline_264_dcbefb8f:
 
     # nvlsalim "Trust's thin"
-    nvlsalim "Trust's thin|信任很脆弱，你再这么下去，我可要操翻你了"
+    nvlsalim "信任很脆弱，你再这么下去，我可要操翻你了"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17422
 translate zh_Hans mc_alpha_storyline_264_3aa10142:
@@ -34182,7 +34182,7 @@ translate zh_Hans mc_alpha_storyline_264_1ca84ddf:
 translate zh_Hans mc_alpha_storyline_264_2c4a69f9:
 
     # nvljenna "I'm still here"
-    nvljenna "I'm still here|我还在这里，等着你这骚货来取悦我"
+    nvljenna "我还在这里，等着你这骚货来取悦我"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17428
 translate zh_Hans mc_alpha_storyline_264_545cc92b:
@@ -34194,13 +34194,13 @@ translate zh_Hans mc_alpha_storyline_264_545cc92b:
 translate zh_Hans mc_alpha_storyline_264_3d1655a4:
 
     # nvlsalim "Get me what I asked for"
-    nvlsalim "Get me what I asked for|把我要的东西给我，别他妈给我拖延"
+    nvlsalim "把我要的东西给我，别他妈给我拖延"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17432
 translate zh_Hans mc_alpha_storyline_264_a1624141:
 
     # nvlsalim "Prove you're still the Jenna I love so much"
-    nvlsalim "Prove you're still the Jenna I love so much|证明你还是我深爱着的那个珍娜，那个能把我操得欲仙欲死的骚货"
+    nvlsalim "证明你还是我深爱着的那个珍娜，那个能把我操得欲仙欲死的骚货"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17434
 translate zh_Hans mc_alpha_storyline_264_9e5a3920:
@@ -34224,7 +34224,7 @@ translate zh_Hans mc_alpha_storyline_264_66015c03:
 translate zh_Hans mc_alpha_storyline_264_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17473
 translate zh_Hans mc_alpha_storyline_265_6b235bbe:
@@ -34238,13 +34238,13 @@ translate zh_Hans mc_alpha_storyline_265_6b235bbe:
 translate zh_Hans mc_alpha_storyline_265_7e4325bf:
 
     # nvljohn "Hey, Henrique"
-    nvljohn "Hey, Henrique|嘿，亨里克"
+    nvljohn "嘿，亨里克"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17479
 translate zh_Hans mc_alpha_storyline_265_d7396366:
 
     # nvlhenrique "Got some news"
-    nvlhenrique "Got some news|收到一些消息"
+    nvlhenrique "收到一些消息"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17481
 translate zh_Hans mc_alpha_storyline_265_7f7d7268:
@@ -34256,25 +34256,25 @@ translate zh_Hans mc_alpha_storyline_265_7f7d7268:
 translate zh_Hans mc_alpha_storyline_265_9a972824:
 
     # nvlhenrique "Salim's moving"
-    nvlhenrique "Salim's moving|萨利姆那混蛋在搞动作"
+    nvlhenrique "萨利姆那混蛋在搞动作"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17485
 translate zh_Hans mc_alpha_storyline_265_6a4ba2e6:
 
     # nvljohn "Moving how?"
-    nvljohn "Moving how?|怎么搞动作？想玩什么花样？"
+    nvljohn "怎么搞动作？想玩什么花样？"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17487
 translate zh_Hans mc_alpha_storyline_265_0d50700f:
 
     # nvlhenrique "Restructuring"
-    nvlhenrique "Restructuring|重组"
+    nvlhenrique "重组"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17489
 translate zh_Hans mc_alpha_storyline_265_8f94cb0b:
 
     # nvlhenrique "His companies"
-    nvlhenrique "His companies|他的公司"
+    nvlhenrique "他的公司"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17491
 translate zh_Hans mc_alpha_storyline_265_3ff319aa:
@@ -34286,13 +34286,13 @@ translate zh_Hans mc_alpha_storyline_265_3ff319aa:
 translate zh_Hans mc_alpha_storyline_265_75dff478:
 
     # nvlhenrique "He's planning something"
-    nvlhenrique "He's planning something|他正在策划什么阴谋"
+    nvlhenrique "他正在策划什么阴谋"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17495
 translate zh_Hans mc_alpha_storyline_265_f7209bfd:
 
     # nvlhenrique "Big, maybe"
-    nvlhenrique "Big, maybe|可能很大，能把天捅破那种"
+    nvlhenrique "可能很大，能把天捅破那种"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17497
 translate zh_Hans mc_alpha_storyline_265_a224d960:
@@ -34328,7 +34328,7 @@ translate zh_Hans mc_alpha_storyline_265_994c4b24:
 translate zh_Hans mc_alpha_storyline_265_be52798f:
 
     # nvlhenrique "Thought you'd wanna know"
-    nvlhenrique "Thought you'd wanna know|我觉得你应该想知道，别被那混蛋蒙在鼓里"
+    nvlhenrique "我觉得你应该想知道，别被那混蛋蒙在鼓里"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17509
 translate zh_Hans mc_alpha_storyline_265_5ddd1f23:
@@ -34346,7 +34346,7 @@ translate zh_Hans mc_alpha_storyline_265_f97d071f:
 translate zh_Hans mc_alpha_storyline_265_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17546
 translate zh_Hans mc_alpha_storyline_266_f0059a80:
@@ -34378,7 +34378,7 @@ translate zh_Hans mc_alpha_storyline_266_5a9bda2a:
 translate zh_Hans mc_alpha_storyline_266_df1523aa:
 
     # nvlsalim "Need to talk"
-    nvlsalim "Need to talk|需要好好谈谈"
+    nvlsalim "需要好好谈谈"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17558
 translate zh_Hans mc_alpha_storyline_266_d2c2cd0a:
@@ -34390,7 +34390,7 @@ translate zh_Hans mc_alpha_storyline_266_d2c2cd0a:
 translate zh_Hans mc_alpha_storyline_266_70ca658e:
 
     # nvlsalim "Just some things"
-    nvlsalim "Just some things|只是一些事情"
+    nvlsalim "只是一些事情"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17562
 translate zh_Hans mc_alpha_storyline_266_667c1732:
@@ -34402,7 +34402,7 @@ translate zh_Hans mc_alpha_storyline_266_667c1732:
 translate zh_Hans mc_alpha_storyline_266_95d84517:
 
     # nvlsalim "Yeah, mostly"
-    nvlsalim "Yeah, mostly|是的，基本如此"
+    nvlsalim "是的，基本如此"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17566
 translate zh_Hans mc_alpha_storyline_266_6c5de749:
@@ -34414,13 +34414,13 @@ translate zh_Hans mc_alpha_storyline_266_6c5de749:
 translate zh_Hans mc_alpha_storyline_266_590fb2db:
 
     # nvlsalim "And tell Jenna to stay too"
-    nvlsalim "And tell Jenna to stay too|也告诉珍娜那骚货，让她也留下"
+    nvlsalim "也告诉珍娜那骚货，让她也留下"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17570
 translate zh_Hans mc_alpha_storyline_266_3bda59b3:
 
     # nvlwife "Alright, I'll tell her"
-    nvlwife "Alright, I'll tell her|好吧，我会告诉她"
+    nvlwife "好吧，我会告诉她"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17572
 translate zh_Hans mc_alpha_storyline_266_752e4854:
@@ -34450,13 +34450,13 @@ translate zh_Hans mc_alpha_storyline_266_6b8b4056:
 translate zh_Hans mc_alpha_storyline_266_48767dca:
 
     # nvlwife "Then I'm getting back to work"
-    nvlwife "Then I'm getting back to work|然后我就回去工作了，别他妈再烦我"
+    nvlwife "然后我就回去工作了，别他妈再烦我"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17596
 translate zh_Hans mc_alpha_storyline_266_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17615
 translate zh_Hans mc_alpha_storyline_267_95192ed8:
@@ -34482,7 +34482,7 @@ translate zh_Hans mc_alpha_storyline_267_fe414f5c:
 translate zh_Hans mc_alpha_storyline_267_151f76d7:
 
     # nvljohn "Fine, yours?"
-    nvljohn "Fine, yours?|很好，你的呢？"
+    nvljohn "很好，你的呢？"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17625
 translate zh_Hans mc_alpha_storyline_267_6c5de749:
@@ -34512,13 +34512,13 @@ translate zh_Hans mc_alpha_storyline_267_7053acb4:
 translate zh_Hans mc_alpha_storyline_267_bf53d1ef:
 
     # nvlwife "How's your war going?"
-    nvlwife "How's your war going?|你们的战争进展如何？有没有把那群狗娘养的操翻？"
+    nvlwife "你们的战争进展如何？有没有把那群狗娘养的操翻？"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17635
 translate zh_Hans mc_alpha_storyline_267_8caafce4:
 
     # nvlwife "What's up with Salim?"
-    nvlwife "What's up with Salim?|萨利姆那混蛋怎么了？又在搞什么鬼？"
+    nvlwife "萨利姆那混蛋怎么了？又在搞什么鬼？"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17637
 translate zh_Hans mc_alpha_storyline_267_88e7a891:
@@ -34536,13 +34536,13 @@ translate zh_Hans mc_alpha_storyline_267_bb76699c:
 translate zh_Hans mc_alpha_storyline_267_dd4de98e:
 
     # nvlwife "Any plans?"
-    nvlwife "Any plans?|有什么计划吗？想怎么玩死他？"
+    nvlwife "有什么计划吗？想怎么玩死他？"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17643
 translate zh_Hans mc_alpha_storyline_267_58d9121b:
 
     # nvljohn "Yeah, actually"
-    nvljohn "Yeah, actually|是啊，其实"
+    nvljohn "是啊，其实"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17645
 translate zh_Hans mc_alpha_storyline_267_f12c1f9d:
@@ -34554,7 +34554,7 @@ translate zh_Hans mc_alpha_storyline_267_f12c1f9d:
 translate zh_Hans mc_alpha_storyline_267_871d62f7:
 
     # nvlwife "You got something in mind?"
-    nvlwife "You got something in mind?|你有什么想法吗？想怎么操翻他？"
+    nvlwife "你有什么想法吗？想怎么操翻他？"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17649
 translate zh_Hans mc_alpha_storyline_267_eb7e4f5a:
@@ -34710,7 +34710,7 @@ translate zh_Hans mc_alpha_storyline_267_eb7e4f5a_3:
 translate zh_Hans mc_alpha_storyline_267_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17729
 translate zh_Hans mc_alpha_storyline_267_after_03dc83c6:
@@ -34862,7 +34862,7 @@ translate zh_Hans mc_alpha_storyline_268_521c7406:
 translate zh_Hans mc_alpha_storyline_268_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17829
 translate zh_Hans mc_alpha_storyline_269_4badf861:
@@ -34996,7 +34996,7 @@ translate zh_Hans mc_alpha_storyline_269_83cbea40:
 translate zh_Hans mc_alpha_storyline_269_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:17906
 translate zh_Hans mc_alpha_storyline_270_39a2136d:
@@ -35298,7 +35298,7 @@ translate zh_Hans mc_alpha_storyline_270_856f955c:
 translate zh_Hans mc_alpha_storyline_270_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:18039
 translate zh_Hans mc_alpha_storyline_271_81c55ab7:
@@ -35312,7 +35312,7 @@ translate zh_Hans mc_alpha_storyline_271_81c55ab7:
 translate zh_Hans mc_alpha_storyline_271_e6c03559:
 
     # nvljohn "Hey, Amelia"
-    nvljohn "Hey, Amelia|嘿，阿米莉亚"
+    nvljohn "嘿，阿米莉亚"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:18045
 translate zh_Hans mc_alpha_storyline_271_d1578f34:
@@ -35354,7 +35354,7 @@ translate zh_Hans mc_alpha_storyline_271_4c2c28d0:
 translate zh_Hans mc_alpha_storyline_271_5908f5c6:
 
     # nvljohn "Okay, when?"
-    nvljohn "Okay, when?|好的，什么时候？"
+    nvljohn "好的，什么时候？"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:18059
 translate zh_Hans mc_alpha_storyline_271_abcdf13b:
@@ -35402,7 +35402,7 @@ translate zh_Hans mc_alpha_storyline_271_3edda908:
 translate zh_Hans mc_alpha_storyline_271_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:18103
 translate zh_Hans mc_alpha_storyline_271_after_0dfa030b:
@@ -35554,7 +35554,7 @@ translate zh_Hans mc_alpha_storyline_272_394d0c5b:
 translate zh_Hans mc_alpha_storyline_272_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:18203
 translate zh_Hans mc_alpha_storyline_273_39a2136d:
@@ -35676,7 +35676,7 @@ translate zh_Hans mc_alpha_storyline_273_45b4cc6a:
 translate zh_Hans mc_alpha_storyline_273_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:18394
 translate zh_Hans mc_alpha_storyline_274_a3a36613:
@@ -35984,7 +35984,7 @@ translate zh_Hans mc_alpha_storyline_274_b2908523:
 translate zh_Hans mc_alpha_storyline_274_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:18545
 translate zh_Hans mc_alpha_storyline_275_9a8a36df:
@@ -36112,7 +36112,7 @@ translate zh_Hans mc_alpha_storyline_275_f3de1d9b:
 translate zh_Hans mc_alpha_storyline_275_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:18620
 translate zh_Hans mc_alpha_storyline_276_a3dd52c0:
@@ -36120,7 +36120,7 @@ translate zh_Hans mc_alpha_storyline_276_a3dd52c0:
     # nvl clear
     # nvljohn "Hey, Henrique"
     nvl clear
-    nvljohn "Hey, Henrique|嘿，亨里克"
+    nvljohn "嘿，亨里克"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:18624
 translate zh_Hans mc_alpha_storyline_276_e1fc6516:
@@ -36270,7 +36270,7 @@ translate zh_Hans mc_alpha_storyline_276_54582a56:
 translate zh_Hans mc_alpha_storyline_276_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:18705
 translate zh_Hans mc_alpha_storyline_277_208473ae:
@@ -36350,7 +36350,7 @@ translate zh_Hans mc_alpha_storyline_277_9fd64a12:
 translate zh_Hans mc_alpha_storyline_277_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:18764
 translate zh_Hans mc_alpha_storyline_278_073973dd:
@@ -36496,7 +36496,7 @@ translate zh_Hans mc_alpha_storyline_278_eb7e4f5a:
 translate zh_Hans mc_alpha_storyline_278_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:18845
 translate zh_Hans mc_alpha_storyline_279_b054b330:
@@ -36504,7 +36504,7 @@ translate zh_Hans mc_alpha_storyline_279_b054b330:
     # nvl clear
     # nvljohn "Hey, Amelia"
     nvl clear
-    nvljohn "Hey, Amelia|嘿，阿米莉亚"
+    nvljohn "嘿，阿米莉亚"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:18849
 translate zh_Hans mc_alpha_storyline_279_d5e01fd9:
@@ -36540,7 +36540,7 @@ translate zh_Hans mc_alpha_storyline_279_15fa10e0:
 translate zh_Hans mc_alpha_storyline_279_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:18894
 translate zh_Hans mc_alpha_storyline_280_687c1ccc:
@@ -36680,7 +36680,7 @@ translate zh_Hans mc_alpha_storyline_280_ca03ddb5:
 translate zh_Hans mc_alpha_storyline_280_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:18969
 translate zh_Hans mc_alpha_storyline_280_after_5acd3743:
@@ -36958,7 +36958,7 @@ translate zh_Hans mc_alpha_storyline_281_e346698d:
 translate zh_Hans mc_alpha_storyline_281_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:19107
 translate zh_Hans mc_alpha_storyline_281_after_071cb63a:
@@ -37116,7 +37116,7 @@ translate zh_Hans mc_alpha_storyline_282_7d0fb34b:
 translate zh_Hans mc_alpha_storyline_282_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:19205
 translate zh_Hans mc_alpha_storyline_282_after_f454695e:
@@ -37292,7 +37292,7 @@ translate zh_Hans mc_alpha_storyline_283_52892467:
 translate zh_Hans mc_alpha_storyline_283_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:19312
 translate zh_Hans mc_alpha_storyline_283_after_23a911d5:
@@ -37328,7 +37328,7 @@ translate zh_Hans mc_alpha_storyline_283_after_8f50624b:
 translate zh_Hans mc_alpha_storyline_283_after_5cadcdc1:
 
     # mc "{i}Perfect"
-    mc "{i}Perfect|{i}完美。"
+    mc "{i}完美。"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:19341
 translate zh_Hans mc_alpha_storyline_284_76b2fe88:
@@ -37484,7 +37484,7 @@ translate zh_Hans mc_alpha_storyline_284_eb7e4f5a:
 translate zh_Hans mc_alpha_storyline_284_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:19426
 translate zh_Hans mc_alpha_storyline_285_95192ed8:
@@ -37630,7 +37630,7 @@ translate zh_Hans mc_alpha_storyline_285_eee8b03d:
 translate zh_Hans mc_alpha_storyline_285_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:19511
 translate zh_Hans mc_alpha_storyline_286_9468d32a:
@@ -37746,7 +37746,7 @@ translate zh_Hans mc_alpha_storyline_286_5ddd1f23:
 translate zh_Hans mc_alpha_storyline_286_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:19597
 translate zh_Hans mc_alpha_storyline_287_de46e203:
@@ -37814,7 +37814,7 @@ translate zh_Hans mc_alpha_storyline_287_69e04967:
 translate zh_Hans mc_alpha_storyline_287_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:19652
 translate zh_Hans mc_alpha_storyline_288_62a67f8b:
@@ -37972,7 +37972,7 @@ translate zh_Hans mc_alpha_storyline_288_1d91d07b:
 translate zh_Hans mc_alpha_storyline_288_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:19738
 translate zh_Hans mc_alpha_storyline_288_after_f3b3d461:
@@ -38340,7 +38340,7 @@ translate zh_Hans mc_alpha_storyline_289_f55b7697:
 translate zh_Hans mc_alpha_storyline_289_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:19914
 translate zh_Hans mc_alpha_storyline_290_76b2fe88:
@@ -38592,7 +38592,7 @@ translate zh_Hans mc_alpha_storyline_290_b55054ef:
 translate zh_Hans mc_alpha_storyline_290_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:20033
 translate zh_Hans mc_alpha_storyline_291_37f2da71:
@@ -38744,7 +38744,7 @@ translate zh_Hans mc_alpha_storyline_291_e91ae91f:
 translate zh_Hans mc_alpha_storyline_291_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:20116
 translate zh_Hans mc_alpha_storyline_292_5c361185:
@@ -38866,7 +38866,7 @@ translate zh_Hans mc_alpha_storyline_292_19614618:
 translate zh_Hans mc_alpha_storyline_292_046ba8c2:
 
     # nvlwife "If you want to blame someone for what happened, then you should blame him, not me."
-    nvlwife "我们还是别这样了，XTAG0X凯茜？"
+    nvlwife "我们还是别这样了，凯茜？"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:20158
 translate zh_Hans mc_alpha_storyline_292_b92d8935:
@@ -38902,7 +38902,7 @@ translate zh_Hans mc_alpha_storyline_292_b304ce30:
 translate zh_Hans mc_alpha_storyline_292_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:20210
 translate zh_Hans mc_alpha_storyline_293_240c6420:
@@ -39144,7 +39144,7 @@ translate zh_Hans mc_alpha_storyline_293_dbd54bc8:
 translate zh_Hans mc_alpha_storyline_293_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:20323
 translate zh_Hans mc_alpha_storyline_294_76b2fe88:
@@ -39378,7 +39378,7 @@ translate zh_Hans mc_alpha_storyline_294_6a08d6b0:
 translate zh_Hans mc_alpha_storyline_294_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:20444
 translate zh_Hans mc_alpha_storyline_295_37cdddc5:
@@ -39602,7 +39602,7 @@ translate zh_Hans mc_alpha_storyline_295_a9e6e01a:
 translate zh_Hans mc_alpha_storyline_295_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:20548
 translate zh_Hans mc_alpha_storyline_295_after_a6c8df73:
@@ -39940,7 +39940,7 @@ translate zh_Hans mc_alpha_storyline_296_bc692130:
 translate zh_Hans mc_alpha_storyline_296_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:20733
 translate zh_Hans mc_alpha_storyline_297_bfeda052:
@@ -40194,7 +40194,7 @@ translate zh_Hans mc_alpha_storyline_297_8db51a6e:
 translate zh_Hans mc_alpha_storyline_297_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:20856
 translate zh_Hans mc_alpha_storyline_298_b6d114ec:
@@ -40484,7 +40484,7 @@ translate zh_Hans mc_alpha_storyline_298_32bf654c:
 translate zh_Hans mc_alpha_storyline_298_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:21010
 translate zh_Hans mc_alpha_storyline_299_e77abb7e:
@@ -40828,7 +40828,7 @@ translate zh_Hans mc_alpha_storyline_299_9a5227e1:
 translate zh_Hans mc_alpha_storyline_299_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:21181
 translate zh_Hans mc_alpha_storyline_300_227e90d1:
@@ -41040,7 +41040,7 @@ translate zh_Hans mc_alpha_storyline_300_61b4db09:
 translate zh_Hans mc_alpha_storyline_300_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:21293
 translate zh_Hans mc_alpha_storyline_301_480511b4:
@@ -41264,7 +41264,7 @@ translate zh_Hans mc_alpha_storyline_301_efa93dfe:
 translate zh_Hans mc_alpha_storyline_301_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:21402
 translate zh_Hans mc_alpha_storyline_302_76b2fe88:
@@ -41408,7 +41408,7 @@ translate zh_Hans mc_alpha_storyline_302_f00c92fa:
 translate zh_Hans mc_alpha_storyline_302_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:21485
 translate zh_Hans mc_alpha_storyline_303_41dc038e:
@@ -41680,7 +41680,7 @@ translate zh_Hans mc_alpha_storyline_303_e54723ce:
 translate zh_Hans mc_alpha_storyline_303_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:21624
 translate zh_Hans mc_alpha_storyline_304_34f38587:
@@ -41742,7 +41742,7 @@ translate zh_Hans mc_alpha_storyline_304_18321a08:
 translate zh_Hans mc_alpha_storyline_304_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:21672
 translate zh_Hans mc_alpha_storyline_304_after_661d66ba:
@@ -41912,7 +41912,7 @@ translate zh_Hans mc_alpha_storyline_305_7dc483de:
 translate zh_Hans mc_alpha_storyline_305_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:21778
 translate zh_Hans mc_alpha_storyline_306_984e4f8f:
@@ -42292,7 +42292,7 @@ translate zh_Hans mc_alpha_storyline_306_7ea77d4f:
 translate zh_Hans mc_alpha_storyline_306_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:21979
 translate zh_Hans mc_alpha_storyline_307_6b75d3e5:
@@ -42468,7 +42468,7 @@ translate zh_Hans mc_alpha_storyline_307_cadf4bbe:
 translate zh_Hans mc_alpha_storyline_307_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:22065
 translate zh_Hans mc_alpha_storyline_307_after_dde012dd:
@@ -42686,7 +42686,7 @@ translate zh_Hans mc_alpha_storyline_308_9578b9f4:
 translate zh_Hans mc_alpha_storyline_308_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:22187
 translate zh_Hans mc_alpha_storyline_309_49d81dbb:
@@ -42886,7 +42886,7 @@ translate zh_Hans mc_alpha_storyline_309_51abd0ac:
 translate zh_Hans mc_alpha_storyline_309_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:22298
 translate zh_Hans mc_alpha_storyline_310_9facbdb4:
@@ -43164,7 +43164,7 @@ translate zh_Hans mc_alpha_storyline_310_34b208d5:
 translate zh_Hans mc_alpha_storyline_310_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:22435
 translate zh_Hans mc_alpha_storyline_311_8b723734:
@@ -43238,7 +43238,7 @@ translate zh_Hans mc_alpha_storyline_311_de2d8bc2:
 translate zh_Hans mc_alpha_storyline_311_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:22492
 translate zh_Hans mc_alpha_storyline_312_3642e433:
@@ -43462,7 +43462,7 @@ translate zh_Hans mc_alpha_storyline_312_7508dbc9:
 translate zh_Hans mc_alpha_storyline_312_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:22629
 translate zh_Hans mc_alpha_storyline_313_035d5da6:
@@ -43608,7 +43608,7 @@ translate zh_Hans mc_alpha_storyline_313_0ae84d07:
 translate zh_Hans mc_alpha_storyline_313_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:22710
 translate zh_Hans mc_alpha_storyline_314_44b9c22b:
@@ -43916,7 +43916,7 @@ translate zh_Hans mc_alpha_storyline_314_936edf78:
 translate zh_Hans mc_alpha_storyline_314_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:22842
 translate zh_Hans mc_alpha_storyline_314_after_6383c275:
@@ -44104,7 +44104,7 @@ translate zh_Hans mc_alpha_storyline_315_438d2189:
 translate zh_Hans mc_alpha_storyline_315_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:22951
 translate zh_Hans mc_alpha_storyline_315_after_b24337f8:
@@ -44388,7 +44388,7 @@ translate zh_Hans mc_alpha_storyline_316_a9e6e01a:
 translate zh_Hans mc_alpha_storyline_316_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:23101
 translate zh_Hans mc_alpha_storyline_317_990afafe:
@@ -44678,7 +44678,7 @@ translate zh_Hans mc_alpha_storyline_317_0ce2b58d:
 translate zh_Hans mc_alpha_storyline_317_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:23244
 translate zh_Hans mc_alpha_storyline_318_36250650:
@@ -44806,7 +44806,7 @@ translate zh_Hans mc_alpha_storyline_318_055a5677:
 translate zh_Hans mc_alpha_storyline_318_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:23325
 translate zh_Hans mc_alpha_storyline_319_635831c5:
@@ -45102,7 +45102,7 @@ translate zh_Hans mc_alpha_storyline_319_2f97c931:
 translate zh_Hans mc_alpha_storyline_319_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:23459
 translate zh_Hans mc_alpha_storyline_319_after_716013e7:
@@ -45230,7 +45230,7 @@ translate zh_Hans mc_alpha_storyline_320_2a096c6d:
 translate zh_Hans mc_alpha_storyline_320_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:23551
 translate zh_Hans mc_alpha_storyline_321_9fbe34e0:
@@ -45274,7 +45274,7 @@ translate zh_Hans mc_alpha_storyline_321_80cfee41:
 translate zh_Hans mc_alpha_storyline_321_d4eb6095:
 
     # nvljohn "Only because of that?"
-    nvljohn "Only because of that?|仅仅因为这个吗？"
+    nvljohn "仅仅因为这个吗？"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:23571
 translate zh_Hans mc_alpha_storyline_321_785ee2f4:
@@ -45442,7 +45442,7 @@ translate zh_Hans mc_alpha_storyline_321_a7dd610c:
 translate zh_Hans mc_alpha_storyline_321_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:23669
 translate zh_Hans mc_alpha_storyline_322_44b9c22b:
@@ -45552,7 +45552,7 @@ translate zh_Hans mc_alpha_storyline_322_90b48fdb:
 translate zh_Hans mc_alpha_storyline_322_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:23735
 translate zh_Hans mc_alpha_storyline_322_after_83a362d1:
@@ -45734,7 +45734,7 @@ translate zh_Hans mc_alpha_storyline_323_ccbdb219:
 translate zh_Hans mc_alpha_storyline_323_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:23845
 translate zh_Hans mc_alpha_storyline_324_035d5da6:
@@ -45946,7 +45946,7 @@ translate zh_Hans mc_alpha_storyline_324_5ef56dcb:
 translate zh_Hans mc_alpha_storyline_324_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:23948
 translate zh_Hans mc_alpha_storyline_325_f0012356:
@@ -46236,7 +46236,7 @@ translate zh_Hans mc_alpha_storyline_325_07d8cb75:
 translate zh_Hans mc_alpha_storyline_325_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:24082
 translate zh_Hans mc_alpha_storyline_325_after_e04cc156:
@@ -46614,7 +46614,7 @@ translate zh_Hans mc_alpha_storyline_326_12cabb25:
 translate zh_Hans mc_alpha_storyline_326_8968bbca:
 
     # nvljohn "😘 😘"
-    nvljohn ""
+    nvljohn "😘 😘"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:24250
 translate zh_Hans mc_alpha_storyline_326_b8a7b6a0_1:
@@ -46770,7 +46770,7 @@ translate zh_Hans mc_alpha_storyline_326_6283cc4b_1:
 translate zh_Hans mc_alpha_storyline_326_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:24334
 translate zh_Hans mc_alpha_storyline_327_c6ef7d6f:
@@ -46928,7 +46928,7 @@ translate zh_Hans mc_alpha_storyline_327_a7dd610c_1:
 translate zh_Hans mc_alpha_storyline_327_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:24425
 translate zh_Hans mc_alpha_storyline_328_0a47bcd9:
@@ -47134,7 +47134,7 @@ translate zh_Hans mc_alpha_storyline_328_74d2904f:
 translate zh_Hans mc_alpha_storyline_328_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:24539
 translate zh_Hans mc_alpha_storyline_328_after_8be64ae1:
@@ -47334,7 +47334,7 @@ translate zh_Hans mc_alpha_storyline_329_22dca663:
 translate zh_Hans mc_alpha_storyline_329_c92c94b4:
 
     # nvlkioko "😘😘😘"
-    nvlkioko ""
+    nvlkioko "😘😘😘"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:24624
 translate zh_Hans mc_alpha_storyline_329_4d402ba9:
@@ -47466,7 +47466,7 @@ translate zh_Hans mc_alpha_storyline_329_2faa7d76:
 translate zh_Hans mc_alpha_storyline_329_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:24713
 translate zh_Hans mc_alpha_storyline_330_665619a1:
@@ -47582,7 +47582,7 @@ translate zh_Hans mc_alpha_storyline_330_856ecf83:
 translate zh_Hans mc_alpha_storyline_330_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:24784
 translate zh_Hans mc_alpha_storyline_331_44b9c22b:
@@ -47728,7 +47728,7 @@ translate zh_Hans mc_alpha_storyline_331_ee876810:
 translate zh_Hans mc_alpha_storyline_331_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:24875
 translate zh_Hans mc_alpha_storyline_332_f69e5542:
@@ -47976,7 +47976,7 @@ translate zh_Hans mc_alpha_storyline_332_7ade930e:
 translate zh_Hans mc_alpha_storyline_332_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:24996
 translate zh_Hans mc_alpha_storyline_333_8a0e012d:
@@ -48218,7 +48218,7 @@ translate zh_Hans mc_alpha_storyline_333_7a468561:
 translate zh_Hans mc_alpha_storyline_333_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:25119
 translate zh_Hans mc_alpha_storyline_334_e77abb7e:
@@ -48292,7 +48292,7 @@ translate zh_Hans mc_alpha_storyline_334_2faa7d76:
 translate zh_Hans mc_alpha_storyline_334_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:25176
 translate zh_Hans mc_alpha_storyline_335_76b2fe88:
@@ -48520,7 +48520,7 @@ translate zh_Hans mc_alpha_storyline_335_b4ca099c:
 translate zh_Hans mc_alpha_storyline_335_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:25305
 translate zh_Hans mc_alpha_storyline_336_e3432623:
@@ -48798,7 +48798,7 @@ translate zh_Hans mc_alpha_storyline_336_5f86a68a:
 translate zh_Hans mc_alpha_storyline_336_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:25454
 translate zh_Hans mc_alpha_storyline_337_cd8926f6:
@@ -48956,7 +48956,7 @@ translate zh_Hans mc_alpha_storyline_337_e4d4391b:
 translate zh_Hans mc_alpha_storyline_337_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:25578
 translate zh_Hans mc_alpha_storyline_338_75687732:
@@ -49096,7 +49096,7 @@ translate zh_Hans mc_alpha_storyline_338_4f309bd1:
 translate zh_Hans mc_alpha_storyline_338_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:25673
 translate zh_Hans mc_alpha_storyline_339_6ad86f15:
@@ -49290,7 +49290,7 @@ translate zh_Hans mc_alpha_storyline_339_12db710d:
 translate zh_Hans mc_alpha_storyline_339_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:25788
 translate zh_Hans mc_alpha_storyline_340_60479378:
@@ -49454,7 +49454,7 @@ translate zh_Hans mc_alpha_storyline_340_2143aad3:
 translate zh_Hans mc_alpha_storyline_340_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:25875
 translate zh_Hans mc_alpha_storyline_341_8a0e012d:
@@ -49672,7 +49672,7 @@ translate zh_Hans mc_alpha_storyline_341_db0293b2:
 translate zh_Hans mc_alpha_storyline_341_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:26018
 translate zh_Hans mc_alpha_storyline_342_e77abb7e:
@@ -49896,7 +49896,7 @@ translate zh_Hans mc_alpha_storyline_342_2faa7d76_1:
 translate zh_Hans mc_alpha_storyline_342_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:26137
 translate zh_Hans mc_alpha_storyline_343_a649b682:
@@ -49988,7 +49988,7 @@ translate zh_Hans mc_alpha_storyline_343_3044e151:
 translate zh_Hans mc_alpha_storyline_343_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:26211
 translate zh_Hans mc_alpha_storyline_343_after_c083b4f7:
@@ -50248,7 +50248,7 @@ translate zh_Hans mc_alpha_storyline_344_de2e042a:
 translate zh_Hans mc_alpha_storyline_344_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:26377
 translate zh_Hans mc_alpha_storyline_345_c530a336:
@@ -50292,7 +50292,7 @@ translate zh_Hans mc_alpha_storyline_345_47c30d10:
 translate zh_Hans mc_alpha_storyline_345_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:26424
 translate zh_Hans mc_alpha_storyline_346_2bea856f:
@@ -50570,7 +50570,7 @@ translate zh_Hans mc_alpha_storyline_346_c87430d6:
 translate zh_Hans mc_alpha_storyline_346_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:26555
 translate zh_Hans mc_alpha_storyline_347_990afafe:
@@ -50686,7 +50686,7 @@ translate zh_Hans mc_alpha_storyline_347_5a7de0f0:
 translate zh_Hans mc_alpha_storyline_347_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:26626
 translate zh_Hans mc_alpha_storyline_348_b195d157:
@@ -50826,7 +50826,7 @@ translate zh_Hans mc_alpha_storyline_348_459bb963:
 translate zh_Hans mc_alpha_storyline_348_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:26705
 translate zh_Hans mc_alpha_storyline_349_037220b8:
@@ -51068,7 +51068,7 @@ translate zh_Hans mc_alpha_storyline_349_16a6f838:
 translate zh_Hans mc_alpha_storyline_349_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:26830
 translate zh_Hans mc_alpha_storyline_350_15e1d0ec:
@@ -51334,7 +51334,7 @@ translate zh_Hans mc_alpha_storyline_350_b2149b1c:
 translate zh_Hans mc_alpha_storyline_350_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:26963
 translate zh_Hans mc_alpha_storyline_351_7c695d33:
@@ -51372,7 +51372,7 @@ translate zh_Hans mc_alpha_storyline_351_dd229457:
 translate zh_Hans mc_alpha_storyline_351_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:27007
 translate zh_Hans mc_alpha_storyline_351_after_79da612a:
@@ -51638,7 +51638,7 @@ translate zh_Hans mc_alpha_storyline_352_9efa14f0:
 translate zh_Hans mc_alpha_storyline_352_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:27145
 translate zh_Hans mc_alpha_storyline_353_a55b6db5:
@@ -51910,7 +51910,7 @@ translate zh_Hans mc_alpha_storyline_353_3395142c:
 translate zh_Hans mc_alpha_storyline_353_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:27296
 translate zh_Hans mc_alpha_storyline_354_f156e7e2:
@@ -52122,7 +52122,7 @@ translate zh_Hans mc_alpha_storyline_354_6155213f:
 translate zh_Hans mc_alpha_storyline_354_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:27421
 translate zh_Hans mc_alpha_storyline_355_5e2b778b:
@@ -52310,7 +52310,7 @@ translate zh_Hans mc_alpha_storyline_355_fbc8fe60:
 translate zh_Hans mc_alpha_storyline_355_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:27530
 translate zh_Hans mc_alpha_storyline_356_992dbac8:
@@ -52576,7 +52576,7 @@ translate zh_Hans mc_alpha_storyline_356_c864a424:
 translate zh_Hans mc_alpha_storyline_356_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:27665
 translate zh_Hans mc_alpha_storyline_357_44b9c22b:
@@ -53004,7 +53004,7 @@ translate zh_Hans mc_alpha_storyline_357_64d9d01f:
 translate zh_Hans mc_alpha_storyline_357_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:27851
 translate zh_Hans mc_alpha_storyline_358_76b2fe88:
@@ -53238,7 +53238,7 @@ translate zh_Hans mc_alpha_storyline_358_53079bb0:
 translate zh_Hans mc_alpha_storyline_358_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:27963
 translate zh_Hans mc_alpha_storyline_358_after_8092fb64:
@@ -53360,7 +53360,7 @@ translate zh_Hans mc_alpha_storyline_359_d81677c1:
 translate zh_Hans mc_alpha_storyline_359_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:28059
 translate zh_Hans mc_alpha_storyline_360_3d4a94fe:
@@ -53548,7 +53548,7 @@ translate zh_Hans mc_alpha_storyline_360_619567e0:
 translate zh_Hans mc_alpha_storyline_360_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:28154
 translate zh_Hans mc_alpha_storyline_361_76b2fe88:
@@ -53716,7 +53716,7 @@ translate zh_Hans mc_alpha_storyline_361_a9e6e01a:
 translate zh_Hans mc_alpha_storyline_361_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:28247
 translate zh_Hans mc_alpha_storyline_362_5052379f:
@@ -53760,7 +53760,7 @@ translate zh_Hans mc_alpha_storyline_362_51c36eb7:
 translate zh_Hans mc_alpha_storyline_362_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:28294
 translate zh_Hans mc_alpha_storyline_363_5d73dd47:
@@ -53966,7 +53966,7 @@ translate zh_Hans mc_alpha_storyline_363_8712e1e4:
 translate zh_Hans mc_alpha_storyline_363_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:28395
 translate zh_Hans mc_alpha_storyline_364_388f97c4:
@@ -54208,7 +54208,7 @@ translate zh_Hans mc_alpha_storyline_364_461461c7:
 translate zh_Hans mc_alpha_storyline_364_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:28520
 translate zh_Hans mc_alpha_storyline_365_d1f96012:
@@ -54402,7 +54402,7 @@ translate zh_Hans mc_alpha_storyline_365_5e89ed78:
 translate zh_Hans mc_alpha_storyline_365_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:28640
 translate zh_Hans mc_alpha_storyline_366_76b2fe88:
@@ -54696,7 +54696,7 @@ translate zh_Hans mc_alpha_storyline_366_6875b038:
 translate zh_Hans mc_alpha_storyline_366_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:28787
 translate zh_Hans mc_alpha_storyline_367_d7feff59:
@@ -54836,7 +54836,7 @@ translate zh_Hans mc_alpha_storyline_367_17801d60:
 translate zh_Hans mc_alpha_storyline_367_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:28872
 translate zh_Hans mc_alpha_storyline_368_8630844f:
@@ -54946,7 +54946,7 @@ translate zh_Hans mc_alpha_storyline_368_ee1fa573:
 translate zh_Hans mc_alpha_storyline_368_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:28938
 translate zh_Hans mc_alpha_storyline_368_after_bcad0ff8:
@@ -55176,7 +55176,7 @@ translate zh_Hans mc_alpha_storyline_369_be064abf_1:
 translate zh_Hans mc_alpha_storyline_369_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:29093
 translate zh_Hans mc_alpha_storyline_370_9fb1b8fc:
@@ -55358,7 +55358,7 @@ translate zh_Hans mc_alpha_storyline_370_88ddf7d0:
 translate zh_Hans mc_alpha_storyline_370_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:29196
 translate zh_Hans mc_alpha_storyline_371_76b2fe88:
@@ -55580,7 +55580,7 @@ translate zh_Hans mc_alpha_storyline_371_8c63ef11:
 translate zh_Hans mc_alpha_storyline_371_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:29317
 translate zh_Hans mc_alpha_storyline_372_76b2fe88:
@@ -55646,7 +55646,7 @@ translate zh_Hans mc_alpha_storyline_372_413691a6:
 translate zh_Hans mc_alpha_storyline_372_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:29374
 translate zh_Hans mc_alpha_storyline_373_ee75b6ef:
@@ -55732,7 +55732,7 @@ translate zh_Hans mc_alpha_storyline_373_e366d295:
 translate zh_Hans mc_alpha_storyline_373_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:29435
 translate zh_Hans mc_alpha_storyline_374_6321cba9:
@@ -55824,7 +55824,7 @@ translate zh_Hans mc_alpha_storyline_374_dff6377f:
 translate zh_Hans mc_alpha_storyline_374_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:29498
 translate zh_Hans mc_alpha_storyline_375_8af6d552:
@@ -55928,7 +55928,7 @@ translate zh_Hans mc_alpha_storyline_375_6f490e64:
 translate zh_Hans mc_alpha_storyline_375_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:29574
 translate zh_Hans mc_alpha_storyline_376_e77abb7e:
@@ -56026,7 +56026,7 @@ translate zh_Hans mc_alpha_storyline_376_2faa7d76:
 translate zh_Hans mc_alpha_storyline_376_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:29639
 translate zh_Hans mc_alpha_storyline_377_76b2fe88:
@@ -56176,7 +56176,7 @@ translate zh_Hans mc_alpha_storyline_377_b3f47975:
 translate zh_Hans mc_alpha_storyline_377_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:29726
 translate zh_Hans mc_alpha_storyline_378_0153b19d:
@@ -56328,7 +56328,7 @@ translate zh_Hans mc_alpha_storyline_378_936edf78:
 translate zh_Hans mc_alpha_storyline_378_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:29815
 translate zh_Hans mc_alpha_storyline_379_cac2eb2b:
@@ -56468,7 +56468,7 @@ translate zh_Hans mc_alpha_storyline_379_4b6d93c3:
 translate zh_Hans mc_alpha_storyline_379_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:29891
 translate zh_Hans mc_alpha_storyline_379_after_bc7b9ec8:
@@ -56614,7 +56614,7 @@ translate zh_Hans mc_alpha_storyline_380_532d6353:
 translate zh_Hans mc_alpha_storyline_380_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:29989
 translate zh_Hans mc_alpha_storyline_381_2a2b575f:
@@ -56778,7 +56778,7 @@ translate zh_Hans mc_alpha_storyline_381_8ebfe0e8:
 translate zh_Hans mc_alpha_storyline_381_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:30073
 translate zh_Hans mc_alpha_storyline_381_after_5173419c:
@@ -56912,7 +56912,7 @@ translate zh_Hans mc_alpha_storyline_382_7e8d80bd:
 translate zh_Hans mc_alpha_storyline_382_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:30167
 translate zh_Hans mc_alpha_storyline_383_f889a1f6:
@@ -57052,7 +57052,7 @@ translate zh_Hans mc_alpha_storyline_383_d8ad9eac:
 translate zh_Hans mc_alpha_storyline_383_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:30246
 translate zh_Hans mc_alpha_storyline_384_d682a3f8:
@@ -57300,7 +57300,7 @@ translate zh_Hans mc_alpha_storyline_384_c127db97:
 translate zh_Hans mc_alpha_storyline_384_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:30378
 translate zh_Hans mc_alpha_storyline_385_78b4517c:
@@ -57386,7 +57386,7 @@ translate zh_Hans mc_alpha_storyline_385_3a139191:
 translate zh_Hans mc_alpha_storyline_385_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:30439
 translate zh_Hans mc_alpha_storyline_386_cb96c5fe:
@@ -57592,7 +57592,7 @@ translate zh_Hans mc_alpha_storyline_386_bd7cdbf7:
 translate zh_Hans mc_alpha_storyline_386_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:30540
 translate zh_Hans mc_alpha_storyline_387_bd564ee1:
@@ -57618,7 +57618,7 @@ translate zh_Hans mc_alpha_storyline_387_c0d0affa:
 translate zh_Hans mc_alpha_storyline_387_768d3e82:
 
     # nvljohn "geo.com/344351347"
-    nvljohn ""
+    nvljohn "geo.com/344351347"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:30550
 translate zh_Hans mc_alpha_storyline_387_7bacd77f:
@@ -57756,7 +57756,7 @@ translate zh_Hans mc_alpha_storyline_387_8d87fbf9:
 translate zh_Hans mc_alpha_storyline_387_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:30627
 translate zh_Hans mc_alpha_storyline_388_a22fda98:
@@ -57908,7 +57908,7 @@ translate zh_Hans mc_alpha_storyline_388_b56a49a2:
 translate zh_Hans mc_alpha_storyline_388_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:30710
 translate zh_Hans mc_alpha_storyline_389_29d8f47d:
@@ -58078,7 +58078,7 @@ translate zh_Hans mc_alpha_storyline_389_54ad0682:
 translate zh_Hans mc_alpha_storyline_389_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:30805
 translate zh_Hans mc_alpha_storyline_390_0e0d21dc:
@@ -58320,7 +58320,7 @@ translate zh_Hans mc_alpha_storyline_390_8ebfe0e8:
 translate zh_Hans mc_alpha_storyline_390_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:30924
 translate zh_Hans mc_alpha_storyline_391_f511f2ea:
@@ -58574,7 +58574,7 @@ translate zh_Hans mc_alpha_storyline_391_2de92238:
 translate zh_Hans mc_alpha_storyline_391_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:31053
 translate zh_Hans mc_alpha_storyline_392_78b4517c:
@@ -58816,13 +58816,13 @@ translate zh_Hans mc_alpha_storyline_392_9efbdd2b:
 translate zh_Hans mc_alpha_storyline_392_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:31163
 translate zh_Hans mc_alpha_storyline_392_after_255024b9:
 
     # mc "{i}Damn!"
-    mc "{i}Damn!|{i}该死！"
+    mc "{i}该死！"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:31165
 translate zh_Hans mc_alpha_storyline_392_after_cb57d3b4:
@@ -58932,7 +58932,7 @@ translate zh_Hans mc_alpha_storyline_393_339035ec:
 translate zh_Hans mc_alpha_storyline_393_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:31257
 translate zh_Hans mc_alpha_storyline_394_c9852db1:
@@ -59228,7 +59228,7 @@ translate zh_Hans mc_alpha_storyline_394_15b26fac:
 translate zh_Hans mc_alpha_storyline_394_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:31400
 translate zh_Hans mc_alpha_storyline_395_78b4517c:
@@ -59350,7 +59350,7 @@ translate zh_Hans mc_alpha_storyline_395_b72882d6:
 translate zh_Hans mc_alpha_storyline_395_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:31473
 translate zh_Hans mc_alpha_storyline_396_a6246e55:
@@ -59466,7 +59466,7 @@ translate zh_Hans mc_alpha_storyline_396_90c18edf:
 translate zh_Hans mc_alpha_storyline_396_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:31547
 translate zh_Hans mc_alpha_storyline_396_after_d2005380:
@@ -59633,4 +59633,3 @@ translate zh_Hans strings:
     # scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:30282
     old "It's better not to do it"
     new "最好别这么干。"
-

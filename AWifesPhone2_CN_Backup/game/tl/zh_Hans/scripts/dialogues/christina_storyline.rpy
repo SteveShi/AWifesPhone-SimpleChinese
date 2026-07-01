@@ -144,7 +144,7 @@ translate zh_Hans christina_blacked_storyline_1_f6ed0091:
 translate zh_Hans christina_blacked_storyline_1_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/christina_storyline.rpy:114
 translate zh_Hans christina_blacked_storyline_2_a2d6ddfd:
@@ -482,7 +482,7 @@ translate zh_Hans christina_blacked_storyline_2_eb14ae33:
 translate zh_Hans christina_blacked_storyline_2_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/christina_storyline.rpy:263
 translate zh_Hans christina_blacked_storyline_3_e07719f8:
@@ -766,7 +766,7 @@ translate zh_Hans christina_blacked_storyline_3_67acbee1:
 translate zh_Hans christina_blacked_storyline_3_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/christina_storyline.rpy:390
 translate zh_Hans christina_blacked_storyline_4_07318885:
@@ -960,7 +960,7 @@ translate zh_Hans christina_blacked_storyline_4_ffe939e7:
 translate zh_Hans christina_blacked_storyline_4_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/christina_storyline.rpy:484
 translate zh_Hans christina_blacked_storyline_5_2e275e65:
@@ -1130,7 +1130,7 @@ translate zh_Hans christina_blacked_storyline_5_f3b17a93:
 translate zh_Hans christina_blacked_storyline_5_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/christina_storyline.rpy:570
 translate zh_Hans christina_blacked_storyline_6_3cfb6a8a:
@@ -1606,7 +1606,7 @@ translate zh_Hans christina_blacked_storyline_6_c8145e64:
 translate zh_Hans christina_blacked_storyline_6_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/christina_storyline.rpy:758
 translate zh_Hans christina_blacked_storyline_7_135a4e31:
@@ -2052,7 +2052,7 @@ translate zh_Hans christina_blacked_storyline_7_732b0303:
 translate zh_Hans christina_blacked_storyline_7_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/christina_storyline.rpy:936
 translate zh_Hans christina_blacked_storyline_8_8aeda1ae:
@@ -2522,7 +2522,7 @@ translate zh_Hans christina_blacked_storyline_8_e69f2832:
 translate zh_Hans christina_blacked_storyline_8_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/christina_storyline.rpy:1124
 translate zh_Hans christina_blacked_storyline_9_0ff64fc4:
@@ -2908,7 +2908,7 @@ translate zh_Hans christina_blacked_storyline_9_61c27fc9:
 translate zh_Hans christina_blacked_storyline_9_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/christina_storyline.rpy:1279
 translate zh_Hans christina_blacked_storyline_10_465f9f0d:
@@ -3054,7 +3054,7 @@ translate zh_Hans christina_blacked_storyline_10_fbfd8cec:
 translate zh_Hans christina_blacked_storyline_10_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/christina_storyline.rpy:1355
 translate zh_Hans christina_blacked_storyline_10_after_0d59bcd7:
@@ -3692,7 +3692,7 @@ translate zh_Hans christina_blacked_storyline_11_ee309e64:
 translate zh_Hans christina_blacked_storyline_11_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/christina_storyline.rpy:1632
 translate zh_Hans christina_blacked_storyline_12_e1a17f73:
@@ -3874,7 +3874,7 @@ translate zh_Hans christina_blacked_storyline_12_9762adda:
 translate zh_Hans christina_blacked_storyline_12_67d4e085:
 
     # nvlmarcus "I want to see your photo. Send me something interesting 😉"
-    nvlmarcus "我想看你的照片。发点骚货给我瞧瞧 😉"
+    nvlmarcus "我想看你的照片。发点有意思的给我看看 😉"
 
 # game/scripts/dialogues/christina_storyline.rpy:1694
 translate zh_Hans christina_blacked_storyline_12_c74989ab:
@@ -4108,13 +4108,13 @@ translate zh_Hans christina_blacked_storyline_12_bbed9a3e:
 translate zh_Hans christina_blacked_storyline_12_ba2552b3:
 
     # nvlchristina "A very bad girl 😉"
-    nvlchristina "一个非常坏的骚货 😉"
+    nvlchristina "一个非常坏的女孩 😉"
 
 # game/scripts/dialogues/christina_storyline.rpy:1784
 translate zh_Hans christina_blacked_storyline_12_347656e5:
 
     # nvlmarcus "I should punish you for that 😉"
-    nvlmarcus "我该好好肏你一顿 😉"
+    nvlmarcus "我该为此惩罚你一下 😉"
 
 # game/scripts/dialogues/christina_storyline.rpy:1786
 translate zh_Hans christina_blacked_storyline_12_6854e711:
@@ -4144,7 +4144,7 @@ translate zh_Hans christina_blacked_storyline_12_31916c86:
 translate zh_Hans christina_blacked_storyline_12_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/christina_storyline.rpy:1823
 translate zh_Hans christina_blacked_storyline_13_f1af2e02:
@@ -4554,43 +4554,43 @@ translate zh_Hans christina_blacked_storyline_13_d9b0c461:
 translate zh_Hans christina_blacked_storyline_13_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/christina_storyline.rpy:1987
 translate zh_Hans christina_blacked_storyline_13_after_541f852f:
 
     # mc "{i}I guess Christina gave that Marcus a blowjob..."
-    mc "{i}I guess Christina gave that Marcus a blowjob...|{i}我猜克里斯蒂娜给那个马库斯口交了……"
+    mc "{i}我猜克里斯蒂娜给那个马库斯口交了……"
 
 # game/scripts/dialogues/christina_storyline.rpy:1989
 translate zh_Hans christina_blacked_storyline_13_after_6db8023c:
 
     # mc "{i}Ah, I'd love to see her do that"
-    mc "{i}Ah, I'd love to see her do that|{i}啊，我真想看看她是怎么给他舔的。"
+    mc "{i}啊，我真想看看她是怎么给他舔的。"
 
 # game/scripts/dialogues/christina_storyline.rpy:1991
 translate zh_Hans christina_blacked_storyline_13_after_0c2ee9ca:
 
     # mc "{i}See her put her lips around his long black cock"
-    mc "{i}See her put her lips around his long black cock|{i}看她用骚嘴含住他那根又长又黑的鸡巴。"
+    mc "{i}看她用骚嘴含住他那根又长又黑的鸡巴。"
 
 # game/scripts/dialogues/christina_storyline.rpy:1993
 translate zh_Hans christina_blacked_storyline_13_after_560918d2:
 
     # mc "{i}I'm sure it was quite a sight"
-    mc "{i}I'm sure it was quite a sight|{i}我相信那场面一定很他妈壮观。"
+    mc "{i}我相信那场面一定很他妈壮观。"
 
 # game/scripts/dialogues/christina_storyline.rpy:1995
 translate zh_Hans christina_blacked_storyline_13_after_f7ee3df5:
 
     # mc "{i}It's a shame she didn't ask him to film it"
-    mc "{i}It's a shame she didn't ask him to film it|{i}真可惜她没让他拍下来。"
+    mc "{i}真可惜她没让他拍下来。"
 
 # game/scripts/dialogues/christina_storyline.rpy:1997
 translate zh_Hans christina_blacked_storyline_13_after_6504cb6e:
 
     # mc "{i}Maybe I'll have better luck next time"
-    mc "{i}Maybe I'll have better luck next time|{i}也许下次我会更走运"
+    mc "{i}也许下次我会更走运"
 
 # game/scripts/dialogues/christina_storyline.rpy:2016
 translate zh_Hans christina_blacked_storyline_14_14467712:
@@ -4646,7 +4646,7 @@ translate zh_Hans christina_blacked_storyline_14_33243886:
 translate zh_Hans christina_blacked_storyline_14_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/christina_storyline.rpy:2077
 translate zh_Hans christina_blacked_storyline_15_8aeda1ae:
@@ -4984,7 +4984,7 @@ translate zh_Hans christina_blacked_storyline_15_8a3f9ee8:
 translate zh_Hans christina_blacked_storyline_15_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/christina_storyline.rpy:2219
 translate zh_Hans christina_blacked_storyline_16_a8380274:
@@ -5340,7 +5340,7 @@ translate zh_Hans christina_blacked_storyline_16_950178af:
 translate zh_Hans christina_blacked_storyline_16_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/christina_storyline.rpy:2384
 translate zh_Hans christina_blacked_storyline_17_28d23f6e:
@@ -5624,7 +5624,7 @@ translate zh_Hans christina_blacked_storyline_17_c7093999:
 translate zh_Hans christina_blacked_storyline_17_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/christina_storyline.rpy:2511
 translate zh_Hans christina_blacked_storyline_18_042a376d:
@@ -5884,7 +5884,7 @@ translate zh_Hans christina_blacked_storyline_18_549f1a0c:
 translate zh_Hans christina_blacked_storyline_18_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/christina_storyline.rpy:2625
 translate zh_Hans christina_blacked_storyline_19_e76ae70b:
@@ -6228,7 +6228,7 @@ translate zh_Hans christina_blacked_storyline_19_dd6f350d:
 translate zh_Hans christina_blacked_storyline_19_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/christina_storyline.rpy:2869
 translate zh_Hans christina_storyline_1_c553152e:
@@ -6548,31 +6548,31 @@ translate zh_Hans christina_storyline_1_ea215e83:
 translate zh_Hans christina_storyline_1_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/christina_storyline.rpy:3003
 translate zh_Hans christina_storyline_1_after_e2b77382:
 
     # mc "{i}Man, I thought she'd be more flirty after I gave her a command"
-    mc "{i}Man, I thought she'd be more flirty after I gave her a command|{i}妈的，我还以为我给她下了命令后她会更骚呢。"
+    mc "{i}妈的，我还以为我给她下了命令后她会更骚呢。"
 
 # game/scripts/dialogues/christina_storyline.rpy:3005
 translate zh_Hans christina_storyline_1_after_b1bcec8a:
 
     # mc "{i}Actually, I think she used to be more forthcoming with me than she is now"
-    mc "{i}Actually, I think she used to be more forthcoming with me than she is now|{i}说实话，我觉得她以前比现在更主动跟我调情。"
+    mc "{i}说实话，我觉得她以前比现在更主动跟我调情。"
 
 # game/scripts/dialogues/christina_storyline.rpy:3007
 translate zh_Hans christina_storyline_1_after_70573d9a:
 
     # mc "{i}Okay, I need to keep giving her the same command"
-    mc "{i}Okay, I need to keep giving her the same command|{i}好吧，我得继续给她下同样的命令。"
+    mc "{i}好吧，我得继续给她下同样的命令。"
 
 # game/scripts/dialogues/christina_storyline.rpy:3009
 translate zh_Hans christina_storyline_1_after_0b2c5e46:
 
     # mc "{i}Especially if I want her to start to see me as a potential lover"
-    mc "{i}Especially if I want her to start to see me as a potential lover|{i}尤其是我希望她开始把我当成潜在的炮友。"
+    mc "{i}尤其是我希望她开始把我当成潜在的炮友。"
 
 # game/scripts/dialogues/christina_storyline.rpy:3025
 translate zh_Hans christina_storyline_2_5c2d5355:
@@ -6616,7 +6616,7 @@ translate zh_Hans christina_storyline_2_be673b4d:
 translate zh_Hans christina_storyline_2_cce7b393:
 
     # nvlchristina "That's good 😉"
-    nvlchristina "That's good 😉|那很好 😉"
+    nvlchristina "那很好 😉"
 
 # game/scripts/dialogues/christina_storyline.rpy:3041
 translate zh_Hans christina_storyline_2_9a920452:
@@ -6778,7 +6778,7 @@ translate zh_Hans christina_storyline_2_98ef785a:
 translate zh_Hans christina_storyline_2_57336c0a:
 
     # nvlchristina "Ah, well, in that case, I hope you get back to your office very soon 😉"
-    nvlchristina "Ah, well, in that case, I hope you get back to your office very soon 😉|啊，那好，希望你早日回到你的办公室 😉"
+    nvlchristina "啊，那好，希望你早日回到你的办公室 😉"
 
 # game/scripts/dialogues/christina_storyline.rpy:3095
 translate zh_Hans christina_storyline_2_2fcf7764:
@@ -6832,7 +6832,7 @@ translate zh_Hans christina_storyline_2_b3fb850e:
 translate zh_Hans christina_storyline_2_dacf0c52:
 
     # nvlchristina "Hehehe. Thank you 😉"
-    nvlchristina "Hehehe. Thank you 😉|呵呵呵。谢谢😉"
+    nvlchristina "呵呵呵。谢谢😉"
 
 # game/scripts/dialogues/christina_storyline.rpy:3117
 translate zh_Hans christina_storyline_2_5d90ed79:
@@ -6844,7 +6844,7 @@ translate zh_Hans christina_storyline_2_5d90ed79:
 translate zh_Hans christina_storyline_2_1e2b04d6:
 
     # nvljohn "You deserve them 😉"
-    nvljohn "You deserve them 😉|你值得拥有 😉"
+    nvljohn "你值得拥有 😉"
 
 # game/scripts/dialogues/christina_storyline.rpy:3121
 translate zh_Hans christina_storyline_2_b3997724:
@@ -6904,7 +6904,7 @@ translate zh_Hans christina_storyline_2_8058b92d:
 translate zh_Hans christina_storyline_2_c8bca54c:
 
     # nvlchristina "Hehe. You're welcome 😉"
-    nvlchristina "Hehe. You're welcome 😉|呵呵。不客气😉"
+    nvlchristina "呵呵。不客气😉"
 
 # game/scripts/dialogues/christina_storyline.rpy:3141
 translate zh_Hans christina_storyline_2_54559f42:
@@ -6946,43 +6946,43 @@ translate zh_Hans christina_storyline_2_e5c0f15e:
 translate zh_Hans christina_storyline_2_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/christina_storyline.rpy:3181
 translate zh_Hans christina_storyline_2_after_3ccd0080:
 
     # mc "{i}I think my actions are starting to bear fruit"
-    mc "{i}I think my actions are starting to bear fruit|{i}我觉得我的行动开始见效了。"
+    mc "{i}我觉得我的行动开始见效了。"
 
 # game/scripts/dialogues/christina_storyline.rpy:3183
 translate zh_Hans christina_storyline_2_after_00127270:
 
     # mc "{i}Christina is changing, and that's good for me"
-    mc "{i}Christina is changing, and that's good for me|{i}克里斯蒂娜正在改变，这对我来说是件好事。"
+    mc "{i}克里斯蒂娜正在改变，这对我来说是件好事。"
 
 # game/scripts/dialogues/christina_storyline.rpy:3185
 translate zh_Hans christina_storyline_2_after_2ecb55a9:
 
     # mc "{i}What she said about how she was feeling..."
-    mc "{i}What she said about how she was feeling...|{i}她说了她当时的感受……"
+    mc "{i}她说了她当时的感受……"
 
 # game/scripts/dialogues/christina_storyline.rpy:3187
 translate zh_Hans christina_storyline_2_after_97ac3e83:
 
     # mc "{i}I think she was talking about her BBC addiction. It's getting weaker"
-    mc "{i}I think she was talking about her BBC addiction. It's getting weaker|{i}我觉得她是在说她对黑鸡巴的痴迷。这种痴迷正在减弱。"
+    mc "{i}我觉得她是在说她对黑鸡巴的痴迷。这种痴迷正在减弱。"
 
 # game/scripts/dialogues/christina_storyline.rpy:3189
 translate zh_Hans christina_storyline_2_after_b462b5d1:
 
     # mc "{i}She said she no longer liked what she used to like"
-    mc "{i}She said she no longer liked what she used to like|{i}她说她不再喜欢以前喜欢的东西了。"
+    mc "{i}她说她不再喜欢以前喜欢的东西了。"
 
 # game/scripts/dialogues/christina_storyline.rpy:3191
 translate zh_Hans christina_storyline_2_after_ef0aa746:
 
     # mc "{i}Shit. Is this really working???"
-    mc "{i}Shit. Is this really working???|{i}卧槽。这他妈真的管用吗？？？"
+    mc "{i}卧槽。这他妈真的管用吗？？？"
 
 # game/scripts/dialogues/christina_storyline.rpy:3193
 translate zh_Hans christina_storyline_2_after_f49a5a62:
@@ -7278,7 +7278,7 @@ translate zh_Hans christina_storyline_3_4a0bb12a:
 translate zh_Hans christina_storyline_3_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/christina_storyline.rpy:3339
 translate zh_Hans christina_storyline_4_bc7edce3:
@@ -7688,7 +7688,7 @@ translate zh_Hans christina_storyline_4_934b547e:
 translate zh_Hans christina_storyline_4_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/christina_storyline.rpy:3512
 translate zh_Hans christina_storyline_5_c553152e:
@@ -8026,7 +8026,7 @@ translate zh_Hans christina_storyline_5_a023e1a0:
 translate zh_Hans christina_storyline_5_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/christina_storyline.rpy:3661
 translate zh_Hans christina_storyline_6_07318885:
@@ -8508,7 +8508,7 @@ translate zh_Hans christina_storyline_6_48d53ff3:
 translate zh_Hans christina_storyline_6_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/christina_storyline.rpy:3862
 translate zh_Hans christina_storyline_7_76b2fe88:
@@ -8676,7 +8676,7 @@ translate zh_Hans christina_storyline_7_16cb526b:
 translate zh_Hans christina_storyline_7_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/christina_storyline.rpy:3952
 translate zh_Hans christina_storyline_8_10aa6344:
@@ -8792,7 +8792,7 @@ translate zh_Hans christina_storyline_8_df829457:
 translate zh_Hans christina_storyline_8_48fe16b7:
 
     # nvlchristina "❤️ ❤️"
-    nvlchristina ""
+    nvlchristina "❤️ ❤️"
 
 # game/scripts/dialogues/christina_storyline.rpy:3996
 translate zh_Hans christina_storyline_8_7fbd8477:
@@ -9212,7 +9212,7 @@ translate zh_Hans christina_storyline_8_9567fae2:
 translate zh_Hans christina_storyline_8_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/christina_storyline.rpy:4168
 translate zh_Hans christina_storyline_9_76b2fe88:
@@ -9410,7 +9410,7 @@ translate zh_Hans christina_storyline_9_0f9b1636:
 translate zh_Hans christina_storyline_9_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/christina_storyline.rpy:4269
 translate zh_Hans christina_storyline_10_5c2d5355:
@@ -9670,7 +9670,7 @@ translate zh_Hans christina_storyline_10_bc78b9a7:
 translate zh_Hans christina_storyline_10_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/christina_storyline.rpy:4388
 translate zh_Hans christina_storyline_11_9aa27638:
@@ -10008,7 +10008,7 @@ translate zh_Hans christina_storyline_11_74b71742:
 translate zh_Hans christina_storyline_11_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/christina_storyline.rpy:4529
 translate zh_Hans christina_storyline_12_76b2fe88:
@@ -10350,7 +10350,7 @@ translate zh_Hans christina_storyline_12_8831ffdb:
 translate zh_Hans christina_storyline_12_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/christina_storyline.rpy:4676
 translate zh_Hans christina_storyline_13_e154e49d:
@@ -10616,7 +10616,7 @@ translate zh_Hans christina_storyline_13_0e6411b9:
 translate zh_Hans christina_storyline_13_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/christina_storyline.rpy:4798
 translate zh_Hans christina_storyline_14_59fa4d3a:
@@ -11128,5 +11128,4 @@ translate zh_Hans christina_storyline_14_ba42450c:
 translate zh_Hans christina_storyline_14_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
-
+    nvl_narrator "对话结束……"

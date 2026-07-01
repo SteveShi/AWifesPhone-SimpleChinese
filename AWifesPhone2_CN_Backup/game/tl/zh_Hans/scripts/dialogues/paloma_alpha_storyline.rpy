@@ -108,7 +108,7 @@ translate zh_Hans paloma_alpha_storyline_1_ea4dbbd7:
 translate zh_Hans paloma_alpha_storyline_1_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/paloma_alpha_storyline.rpy:107
 translate zh_Hans paloma_alpha_storyline_2_f396cbe6:
@@ -278,7 +278,7 @@ translate zh_Hans paloma_alpha_storyline_2_eb8dfba1:
 translate zh_Hans paloma_alpha_storyline_2_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/paloma_alpha_storyline.rpy:196
 translate zh_Hans paloma_alpha_storyline_3_35c2ea93:
@@ -448,7 +448,7 @@ translate zh_Hans paloma_alpha_storyline_3_4d1cb2a1:
 translate zh_Hans paloma_alpha_storyline_3_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/paloma_alpha_storyline.rpy:285
 translate zh_Hans paloma_alpha_storyline_4_9b0e13a2:
@@ -666,7 +666,7 @@ translate zh_Hans paloma_alpha_storyline_4_acb6c967:
 translate zh_Hans paloma_alpha_storyline_4_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/paloma_alpha_storyline.rpy:390
 translate zh_Hans paloma_alpha_storyline_5_a82eb997:
@@ -896,7 +896,7 @@ translate zh_Hans paloma_alpha_storyline_5_26c27a4a:
 translate zh_Hans paloma_alpha_storyline_5_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/paloma_alpha_storyline.rpy:495
 translate zh_Hans paloma_alpha_storyline_5_after_f945a682:
@@ -1228,7 +1228,7 @@ translate zh_Hans paloma_alpha_storyline_6_c2855466:
 translate zh_Hans paloma_alpha_storyline_6_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/paloma_alpha_storyline.rpy:667
 translate zh_Hans paloma_alpha_storyline_7_431f2a62:
@@ -1428,7 +1428,7 @@ translate zh_Hans paloma_alpha_storyline_7_6264ac5b:
 translate zh_Hans paloma_alpha_storyline_7_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/paloma_alpha_storyline.rpy:770
 translate zh_Hans paloma_alpha_storyline_8_60b468b5:
@@ -1634,7 +1634,7 @@ translate zh_Hans paloma_alpha_storyline_8_ecd07adf:
 translate zh_Hans paloma_alpha_storyline_8_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/paloma_alpha_storyline.rpy:871
 translate zh_Hans paloma_alpha_storyline_9_409adb7c:
@@ -1822,7 +1822,7 @@ translate zh_Hans paloma_alpha_storyline_9_21a7b93d:
 translate zh_Hans paloma_alpha_storyline_9_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/paloma_alpha_storyline.rpy:966
 translate zh_Hans paloma_alpha_storyline_10_4528ccdc:
@@ -1986,7 +1986,7 @@ translate zh_Hans paloma_alpha_storyline_10_49d7ab72:
 translate zh_Hans paloma_alpha_storyline_10_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/paloma_alpha_storyline.rpy:1053
 translate zh_Hans paloma_alpha_storyline_11_94ea1cd4:
@@ -2156,7 +2156,7 @@ translate zh_Hans paloma_alpha_storyline_11_4fca0edf:
 translate zh_Hans paloma_alpha_storyline_11_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/paloma_alpha_storyline.rpy:1142
 translate zh_Hans paloma_alpha_storyline_12_bee04bf6:
@@ -2350,7 +2350,7 @@ translate zh_Hans paloma_alpha_storyline_12_2d8c0bc3:
 translate zh_Hans paloma_alpha_storyline_12_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/paloma_alpha_storyline.rpy:1239
 translate zh_Hans paloma_alpha_storyline_13_5b27d7e1:
@@ -2556,7 +2556,7 @@ translate zh_Hans paloma_alpha_storyline_13_aa1cf25b:
 translate zh_Hans paloma_alpha_storyline_13_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/paloma_alpha_storyline.rpy:1344
 translate zh_Hans paloma_alpha_storyline_14_1bb0aa88:
@@ -2738,7 +2738,7 @@ translate zh_Hans paloma_alpha_storyline_14_5edc7e06:
 translate zh_Hans paloma_alpha_storyline_14_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/paloma_alpha_storyline.rpy:1437
 translate zh_Hans paloma_alpha_storyline_15_d0d1c733:
@@ -2908,7 +2908,7 @@ translate zh_Hans paloma_alpha_storyline_15_527fd88e:
 translate zh_Hans paloma_alpha_storyline_15_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/paloma_alpha_storyline.rpy:1530
 translate zh_Hans paloma_alpha_storyline_16_1da1e5b1:
@@ -3186,7 +3186,7 @@ translate zh_Hans paloma_alpha_storyline_16_66a6f152:
 translate zh_Hans paloma_alpha_storyline_16_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/paloma_alpha_storyline.rpy:1659
 translate zh_Hans paloma_alpha_storyline_17_7ea95ccc:
@@ -3368,7 +3368,7 @@ translate zh_Hans paloma_alpha_storyline_17_038c078c:
 translate zh_Hans paloma_alpha_storyline_17_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/paloma_alpha_storyline.rpy:1752
 translate zh_Hans paloma_alpha_storyline_17_after_ff52b91c:
@@ -3568,7 +3568,7 @@ translate zh_Hans paloma_alpha_storyline_18_f38fdd71:
 translate zh_Hans paloma_alpha_storyline_18_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/paloma_alpha_storyline.rpy:1868
 translate zh_Hans paloma_alpha_storyline_19_4b870274:
@@ -3726,7 +3726,7 @@ translate zh_Hans paloma_alpha_storyline_19_0514285e:
 translate zh_Hans paloma_alpha_storyline_19_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/paloma_alpha_storyline.rpy:1957
 translate zh_Hans paloma_alpha_storyline_20_2d496d1d:
@@ -3878,7 +3878,7 @@ translate zh_Hans paloma_alpha_storyline_20_9be40f45:
 translate zh_Hans paloma_alpha_storyline_20_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 translate zh_Hans strings:
 

@@ -898,7 +898,7 @@ translate zh_Hans julia_romance_storyline_2_dc8ebcce:
 translate zh_Hans julia_romance_storyline_2_364e338c:
 
     # nvljohn "I see 😊"
-    nvljohn "I see 😊|我明白了😊"
+    nvljohn "我明白了😊"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:441
 translate zh_Hans julia_romance_storyline_2_81eb82e1:
@@ -8856,7 +8856,7 @@ translate zh_Hans julia_romance_storyline_36_7604e3b2:
 translate zh_Hans julia_romance_storyline_36_be9824de:
 
     # nvlwsis "…"
-    nvlwsis ""
+    nvlwsis "…"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:4398
 translate zh_Hans julia_romance_storyline_36_797fe784:
@@ -12642,7 +12642,7 @@ translate zh_Hans julia_romance_storyline_64_37a90362:
 translate zh_Hans julia_romance_storyline_64_218532d0:
 
     # nvlwsis "I need time to think."
-    nvlwsis "I need time to think.|我需要时间好好想想。"
+    nvlwsis "我需要时间好好想想。"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:6638
 translate zh_Hans julia_romance_storyline_64_58cfec0b:
@@ -13366,7 +13366,7 @@ translate zh_Hans julia_romance_storyline_69_29f07ea2:
 translate zh_Hans julia_romance_storyline_69_e5c8623d:
 
     # nvljohn "[niece_name_is]…"
-    nvljohn ""
+    nvljohn "[niece_name_is]…"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:7058
 translate zh_Hans julia_romance_storyline_69_35072571:
@@ -14154,7 +14154,7 @@ translate zh_Hans julia_romance_storyline_73_0efc250f:
 translate zh_Hans julia_romance_storyline_73_edc73327:
 
     # nvljohn "…"
-    nvljohn ""
+    nvljohn "…"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:7471
 translate zh_Hans julia_romance_storyline_73_98fcf081:
@@ -14232,7 +14232,7 @@ translate zh_Hans julia_romance_storyline_73_68be9934:
 translate zh_Hans julia_romance_storyline_73_be9824de:
 
     # nvlwsis "…"
-    nvlwsis ""
+    nvlwsis "…"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:7497
 translate zh_Hans julia_romance_storyline_73_b40bcd37:
@@ -14534,7 +14534,7 @@ translate zh_Hans julia_romance_storyline_74_5237b982:
 translate zh_Hans julia_romance_storyline_74_be9824de:
 
     # nvlwsis "…"
-    nvlwsis ""
+    nvlwsis "…"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:7642
 translate zh_Hans julia_romance_storyline_74_e566dfbc:
@@ -14588,7 +14588,7 @@ translate zh_Hans julia_romance_storyline_74_6221e5c1:
 translate zh_Hans julia_romance_storyline_74_be9824de_1:
 
     # nvlwsis "…"
-    nvlwsis ""
+    nvlwsis "…"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:7660
 translate zh_Hans julia_romance_storyline_74_4039dd34:

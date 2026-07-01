@@ -378,7 +378,7 @@ translate zh_Hans talay_mc_storyline_5_5b778f4c:
 translate zh_Hans talay_mc_storyline_5_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:216
 translate zh_Hans talay_mc_storyline_6_c72e7af2:
@@ -668,7 +668,7 @@ translate zh_Hans talay_mc_storyline_6_24e8be75:
 translate zh_Hans talay_mc_storyline_6_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:345
 translate zh_Hans talay_mc_storyline_7_101fbd46:
@@ -904,7 +904,7 @@ translate zh_Hans talay_mc_storyline_7_e6a39ce1:
 translate zh_Hans talay_mc_storyline_7_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:460
 translate zh_Hans talay_mc_storyline_8_bd4b59a0:
@@ -1068,7 +1068,7 @@ translate zh_Hans talay_mc_storyline_8_1a483dfe_1:
 translate zh_Hans talay_mc_storyline_8_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:547
 translate zh_Hans talay_mc_storyline_9_9da2bd47:
@@ -1262,7 +1262,7 @@ translate zh_Hans talay_mc_storyline_9_26e9e0fd:
 translate zh_Hans talay_mc_storyline_9_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:644
 translate zh_Hans talay_mc_storyline_10_d16181dc:
@@ -1582,7 +1582,7 @@ translate zh_Hans talay_mc_storyline_10_8fae871c:
 translate zh_Hans talay_mc_storyline_10_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:783
 translate zh_Hans talay_mc_storyline_11_864d39e3:
@@ -2010,7 +2010,7 @@ translate zh_Hans talay_mc_storyline_11_05acbf4b:
 translate zh_Hans talay_mc_storyline_11_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:956
 translate zh_Hans talay_mc_storyline_11_after_b8e43091:
@@ -2204,7 +2204,7 @@ translate zh_Hans talay_mc_storyline_12_4cdc7732_1:
 translate zh_Hans talay_mc_storyline_12_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:1094
 translate zh_Hans talay_mc_storyline_13_9da2bd47:
@@ -2422,7 +2422,7 @@ translate zh_Hans talay_mc_storyline_13_0d34db79:
 translate zh_Hans talay_mc_storyline_13_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:1212
 translate zh_Hans talay_mc_storyline_14_b95c5629:
@@ -2490,7 +2490,7 @@ translate zh_Hans talay_mc_storyline_14_555aade0:
 translate zh_Hans talay_mc_storyline_14_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:1267
 translate zh_Hans talay_mc_storyline_15_5df687b3:
@@ -2780,7 +2780,7 @@ translate zh_Hans talay_mc_storyline_15_145c948e:
 translate zh_Hans talay_mc_storyline_15_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:1394
 translate zh_Hans talay_mc_storyline_16_59a6d454:
@@ -2980,7 +2980,7 @@ translate zh_Hans talay_mc_storyline_16_83752d07:
 translate zh_Hans talay_mc_storyline_16_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:1495
 translate zh_Hans talay_mc_storyline_17_ce5e3c25:
@@ -3270,7 +3270,7 @@ translate zh_Hans talay_mc_storyline_17_5f2f5da2:
 translate zh_Hans talay_mc_storyline_17_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:1622
 translate zh_Hans talay_mc_storyline_18_4e34d834:
@@ -3392,7 +3392,7 @@ translate zh_Hans talay_mc_storyline_18_a9503e1c:
 translate zh_Hans talay_mc_storyline_18_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:1693
 translate zh_Hans talay_mc_storyline_19_0b8629be:
@@ -3808,7 +3808,7 @@ translate zh_Hans talay_mc_storyline_19_83752d07:
 translate zh_Hans talay_mc_storyline_19_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:1876
 translate zh_Hans talay_mc_storyline_20_8355b2e8:
@@ -3966,7 +3966,7 @@ translate zh_Hans talay_mc_storyline_20_84832eaa:
 translate zh_Hans talay_mc_storyline_20_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:1961
 translate zh_Hans talay_mc_storyline_21_4e34d834:
@@ -4352,7 +4352,7 @@ translate zh_Hans talay_mc_storyline_21_2a60a2ba:
 translate zh_Hans talay_mc_storyline_21_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:2130
 translate zh_Hans talay_mc_storyline_22_76b2fe88:
@@ -4772,7 +4772,7 @@ translate zh_Hans talay_mc_storyline_22_00baa4e6:
 translate zh_Hans talay_mc_storyline_22_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:2307
 translate zh_Hans talay_mc_storyline_23_ebf7cc9f:
@@ -5038,7 +5038,7 @@ translate zh_Hans talay_mc_storyline_23_665415be:
 translate zh_Hans talay_mc_storyline_23_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:2428
 translate zh_Hans talay_mc_storyline_24_9da2bd47:
@@ -5184,7 +5184,7 @@ translate zh_Hans talay_mc_storyline_24_b1e0afa2:
 translate zh_Hans talay_mc_storyline_24_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:2509
 translate zh_Hans talay_mc_storyline_25_77a83585:
@@ -5486,7 +5486,7 @@ translate zh_Hans talay_mc_storyline_25_53310042:
 translate zh_Hans talay_mc_storyline_25_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:2658
 translate zh_Hans talay_mc_storyline_26_4e34d834:
@@ -5698,7 +5698,7 @@ translate zh_Hans talay_mc_storyline_26_df2f0dff:
 translate zh_Hans talay_mc_storyline_26_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:2765
 translate zh_Hans talay_mc_storyline_27_76b2fe88:
@@ -5962,7 +5962,7 @@ translate zh_Hans talay_mc_storyline_27_159b3de6:
 translate zh_Hans talay_mc_storyline_27_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:2902
 translate zh_Hans talay_mc_storyline_28_addf38c6:
@@ -6240,7 +6240,7 @@ translate zh_Hans talay_mc_storyline_28_84832eaa:
 translate zh_Hans talay_mc_storyline_28_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:3023
 translate zh_Hans talay_mc_storyline_28_after_dde012dd:
@@ -6470,7 +6470,7 @@ translate zh_Hans talay_mc_storyline_29_8c4ab429:
 translate zh_Hans talay_mc_storyline_29_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:3147
 translate zh_Hans talay_mc_storyline_30_eba4a596:
@@ -6730,7 +6730,7 @@ translate zh_Hans talay_mc_storyline_30_cfe20237:
 translate zh_Hans talay_mc_storyline_30_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:3272
 translate zh_Hans talay_mc_storyline_31_4e34d834:
@@ -6816,7 +6816,7 @@ translate zh_Hans talay_mc_storyline_31_b2998a71:
 translate zh_Hans talay_mc_storyline_31_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:3343
 translate zh_Hans talay_mc_storyline_32_d7966ee2:
@@ -7052,7 +7052,7 @@ translate zh_Hans talay_mc_storyline_32_dd4ea7aa:
 translate zh_Hans talay_mc_storyline_32_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:3456
 translate zh_Hans talay_mc_storyline_33_82efeb38:
@@ -7198,7 +7198,7 @@ translate zh_Hans talay_mc_storyline_33_ca287339:
 translate zh_Hans talay_mc_storyline_33_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:3537
 translate zh_Hans talay_mc_storyline_34_51594e09:
@@ -7272,7 +7272,7 @@ translate zh_Hans talay_mc_storyline_34_e3d06018:
 translate zh_Hans talay_mc_storyline_34_364e338c:
 
     # nvljohn "I see 😊"
-    nvljohn "I see 😊|我明白了😊"
+    nvljohn "我明白了😊"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:3563
 translate zh_Hans talay_mc_storyline_34_2a81edba:
@@ -7674,7 +7674,7 @@ translate zh_Hans talay_mc_storyline_34_52892467:
 translate zh_Hans talay_mc_storyline_34_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:3735
 translate zh_Hans talay_mc_storyline_34_after_dbb5d09d:
@@ -7728,7 +7728,7 @@ translate zh_Hans talay_mc_storyline_34_after_7f023c69:
 translate zh_Hans talay_mc_storyline_34_after_82b9f930:
 
     # mc "{i}Uhh!"
-    mc "{i}Uhh!|{i}呃！"
+    mc "{i}呃！"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:3753
 translate zh_Hans talay_mc_storyline_34_after_e0251405:
@@ -8120,7 +8120,7 @@ translate zh_Hans talay_mc_storyline_35_4cdc7732_1:
 translate zh_Hans talay_mc_storyline_35_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:3930
 translate zh_Hans talay_mc_storyline_35_after_a21da5ee:
@@ -8596,7 +8596,7 @@ translate zh_Hans talay_mc_storyline_36_22005661:
 translate zh_Hans talay_mc_storyline_36_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:4138
 translate zh_Hans talay_mc_storyline_37_76b2fe88:
@@ -8830,7 +8830,7 @@ translate zh_Hans talay_mc_storyline_37_c6a11759:
 translate zh_Hans talay_mc_storyline_37_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:4260
 translate zh_Hans talay_mc_storyline_38_ce5e3c25:
@@ -9114,7 +9114,7 @@ translate zh_Hans talay_mc_storyline_38_dce58886:
 translate zh_Hans talay_mc_storyline_38_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:4393
 translate zh_Hans talay_mc_storyline_39_addf38c6:
@@ -9488,7 +9488,7 @@ translate zh_Hans talay_mc_storyline_39_d9ab2a5f:
 translate zh_Hans talay_mc_storyline_39_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:4548
 translate zh_Hans talay_mc_storyline_40_addf38c6:
@@ -9736,7 +9736,7 @@ translate zh_Hans talay_mc_storyline_40_d709a655:
 translate zh_Hans talay_mc_storyline_40_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:4677
 translate zh_Hans talay_mc_storyline_41_f9160d91:
@@ -9960,7 +9960,7 @@ translate zh_Hans talay_mc_storyline_41_c675e48d:
 translate zh_Hans talay_mc_storyline_41_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:4784
 translate zh_Hans talay_mc_storyline_42_e894e6cc:
@@ -10442,7 +10442,7 @@ translate zh_Hans talay_mc_storyline_42_521c7406:
 translate zh_Hans talay_mc_storyline_42_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:4985
 translate zh_Hans talay_mc_storyline_43_99a9fac3:
@@ -10582,7 +10582,7 @@ translate zh_Hans talay_mc_storyline_43_12275a64:
 translate zh_Hans talay_mc_storyline_43_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:5066
 translate zh_Hans talay_mc_storyline_44_89cfa1c9:
@@ -10668,7 +10668,7 @@ translate zh_Hans talay_mc_storyline_44_d14ccb81:
 translate zh_Hans talay_mc_storyline_44_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:5127
 translate zh_Hans talay_mc_storyline_45_4aba78d1:
@@ -10802,7 +10802,7 @@ translate zh_Hans talay_mc_storyline_45_e0aa0567:
 translate zh_Hans talay_mc_storyline_45_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:5204
 translate zh_Hans talay_mc_storyline_46_311e9cea:
@@ -10948,7 +10948,7 @@ translate zh_Hans talay_mc_storyline_46_cff65f03:
 translate zh_Hans talay_mc_storyline_46_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:5285
 translate zh_Hans talay_mc_storyline_47_81aee5cf:
@@ -11094,7 +11094,7 @@ translate zh_Hans talay_mc_storyline_47_ec38f78c:
 translate zh_Hans talay_mc_storyline_47_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:5368
 translate zh_Hans talay_mc_storyline_48_a5098d8a:
@@ -11198,7 +11198,7 @@ translate zh_Hans talay_mc_storyline_48_c6b98201:
 translate zh_Hans talay_mc_storyline_48_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:5435
 translate zh_Hans talay_mc_storyline_49_dab10243:
@@ -11272,7 +11272,7 @@ translate zh_Hans talay_mc_storyline_49_5741a106:
 translate zh_Hans talay_mc_storyline_49_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:5492
 translate zh_Hans talay_mc_storyline_50_7e0b9abb:
@@ -11340,7 +11340,7 @@ translate zh_Hans talay_mc_storyline_50_b8c9401a:
 translate zh_Hans talay_mc_storyline_50_55150fbd:
 
     # nvljohn "😍😍"
-    nvljohn ""
+    nvljohn "😍😍"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:5520
 translate zh_Hans talay_mc_storyline_50_1005948d:
@@ -11382,7 +11382,7 @@ translate zh_Hans talay_mc_storyline_50_8ffa5ef4:
 translate zh_Hans talay_mc_storyline_50_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:5565
 translate zh_Hans talay_mc_storyline_51_8b34030e:
@@ -11468,7 +11468,7 @@ translate zh_Hans talay_mc_storyline_51_b49b0018:
 translate zh_Hans talay_mc_storyline_51_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:5626
 translate zh_Hans talay_mc_storyline_52_2b80a244:
@@ -11596,7 +11596,7 @@ translate zh_Hans talay_mc_storyline_52_36c72d6d:
 translate zh_Hans talay_mc_storyline_52_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:5718
 translate zh_Hans talay_mc_storyline_53_b745b71a:
@@ -11748,7 +11748,7 @@ translate zh_Hans talay_mc_storyline_53_27ab927a:
 translate zh_Hans talay_mc_storyline_53_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:5807
 translate zh_Hans talay_mc_storyline_54_b923f8b4:
@@ -11918,7 +11918,7 @@ translate zh_Hans talay_mc_storyline_54_0f033998:
 translate zh_Hans talay_mc_storyline_54_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:5896
 translate zh_Hans talay_mc_storyline_55_76b2fe88:
@@ -12116,7 +12116,7 @@ translate zh_Hans talay_mc_storyline_55_d6cef9a9:
 translate zh_Hans talay_mc_storyline_55_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:5999
 translate zh_Hans talay_mc_storyline_56_74d0b15c:
@@ -12196,7 +12196,7 @@ translate zh_Hans talay_mc_storyline_56_e0726537:
 translate zh_Hans talay_mc_storyline_56_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:6058
 translate zh_Hans talay_mc_storyline_57_d09f84d9:
@@ -12324,7 +12324,7 @@ translate zh_Hans talay_mc_storyline_57_fdf4b7d4:
 translate zh_Hans talay_mc_storyline_57_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:6133
 translate zh_Hans talay_mc_storyline_58_221f0fe4:
@@ -12434,7 +12434,7 @@ translate zh_Hans talay_mc_storyline_58_9181b2d6:
 translate zh_Hans talay_mc_storyline_58_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:6202
 translate zh_Hans talay_mc_storyline_59_c81697f0:
@@ -12562,7 +12562,7 @@ translate zh_Hans talay_mc_storyline_59_59e08f69:
 translate zh_Hans talay_mc_storyline_59_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:6279
 translate zh_Hans talay_mc_storyline_60_24f880ed:
@@ -12696,7 +12696,7 @@ translate zh_Hans talay_mc_storyline_60_ddcbb91b:
 translate zh_Hans talay_mc_storyline_60_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:6356
 translate zh_Hans talay_mc_storyline_61_96bd0900:
@@ -12788,7 +12788,7 @@ translate zh_Hans talay_mc_storyline_61_fe36c706:
 translate zh_Hans talay_mc_storyline_61_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:6419
 translate zh_Hans talay_mc_storyline_62_bd68197c:
@@ -12934,7 +12934,7 @@ translate zh_Hans talay_mc_storyline_62_e80467a0:
 translate zh_Hans talay_mc_storyline_62_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:6495
 translate zh_Hans talay_mc_storyline_62_after_3c5270ca:
@@ -13044,7 +13044,7 @@ translate zh_Hans talay_mc_storyline_63_c57d1838:
 translate zh_Hans talay_mc_storyline_63_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:6581
 translate zh_Hans talay_mc_storyline_64_a8804bd1:
@@ -13154,7 +13154,7 @@ translate zh_Hans talay_mc_storyline_64_bbb34aae:
 translate zh_Hans talay_mc_storyline_64_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:6643
 translate zh_Hans talay_mc_storyline_64_after_a9e9a675:
@@ -13282,7 +13282,7 @@ translate zh_Hans talay_mc_storyline_65_27ab927a:
 translate zh_Hans talay_mc_storyline_65_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:6735
 translate zh_Hans talay_mc_storyline_66_4a420048:
@@ -13380,7 +13380,7 @@ translate zh_Hans talay_mc_storyline_66_00f409e1:
 translate zh_Hans talay_mc_storyline_66_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:6802
 translate zh_Hans talay_mc_storyline_67_fcc0e9db:
@@ -13478,7 +13478,7 @@ translate zh_Hans talay_mc_storyline_67_65d4997c:
 translate zh_Hans talay_mc_storyline_67_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:6867
 translate zh_Hans talay_mc_storyline_68_d09f84d9:
@@ -13594,7 +13594,7 @@ translate zh_Hans talay_mc_storyline_68_ab621e92:
 translate zh_Hans talay_mc_storyline_68_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:6938
 translate zh_Hans talay_mc_storyline_69_d09f84d9:
@@ -13824,7 +13824,7 @@ translate zh_Hans talay_mc_storyline_69_42efb87d:
 translate zh_Hans talay_mc_storyline_69_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:7061
 translate zh_Hans talay_mc_storyline_70_e7b1babe:
@@ -13886,7 +13886,7 @@ translate zh_Hans talay_mc_storyline_70_5243488c:
 translate zh_Hans talay_mc_storyline_70_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:7114
 translate zh_Hans talay_mc_storyline_71_d09f84d9:
@@ -13972,7 +13972,7 @@ translate zh_Hans talay_mc_storyline_71_f0a6b47b:
 translate zh_Hans talay_mc_storyline_71_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:7175
 translate zh_Hans talay_mc_storyline_72_dd9e56d5:
@@ -14130,7 +14130,7 @@ translate zh_Hans talay_mc_storyline_72_bbb34aae:
 translate zh_Hans talay_mc_storyline_72_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:7262
 translate zh_Hans talay_mc_storyline_73_fcc0e9db:
@@ -14246,7 +14246,7 @@ translate zh_Hans talay_mc_storyline_73_f664f9ea:
 translate zh_Hans talay_mc_storyline_73_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:7333
 translate zh_Hans talay_mc_storyline_74_25c092eb:
@@ -14392,7 +14392,7 @@ translate zh_Hans talay_mc_storyline_74_5407f076:
 translate zh_Hans talay_mc_storyline_74_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:7414
 translate zh_Hans talay_mc_storyline_75_c389219c:
@@ -14496,7 +14496,7 @@ translate zh_Hans talay_mc_storyline_75_b3a78b91:
 translate zh_Hans talay_mc_storyline_75_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:7481
 translate zh_Hans talay_mc_storyline_76_a75b8612:
@@ -14642,7 +14642,7 @@ translate zh_Hans talay_mc_storyline_76_99511a6c:
 translate zh_Hans talay_mc_storyline_76_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:7562
 translate zh_Hans talay_mc_storyline_77_24f880ed:
@@ -14812,7 +14812,7 @@ translate zh_Hans talay_mc_storyline_77_0f033998:
 translate zh_Hans talay_mc_storyline_77_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:7651
 translate zh_Hans talay_mc_storyline_78_91c38929:
@@ -14994,7 +14994,7 @@ translate zh_Hans talay_mc_storyline_78_4da610ca:
 translate zh_Hans talay_mc_storyline_78_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:7746
 translate zh_Hans talay_mc_storyline_79_b01b5de3:
@@ -15146,7 +15146,7 @@ translate zh_Hans talay_mc_storyline_79_7aa7f00f:
 translate zh_Hans talay_mc_storyline_79_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:7831
 translate zh_Hans talay_mc_storyline_80_161b5d4a:
@@ -15226,7 +15226,7 @@ translate zh_Hans talay_mc_storyline_80_8ffa5ef4:
 translate zh_Hans talay_mc_storyline_80_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:7892
 translate zh_Hans talay_mc_storyline_81_a4ef6776:
@@ -15294,7 +15294,7 @@ translate zh_Hans talay_mc_storyline_81_d2e4b32e:
 translate zh_Hans talay_mc_storyline_81_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:7947
 translate zh_Hans talay_mc_storyline_82_fcc0e9db:
@@ -15416,7 +15416,7 @@ translate zh_Hans talay_mc_storyline_82_24c23e4d:
 translate zh_Hans talay_mc_storyline_82_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:8020
 translate zh_Hans talay_mc_storyline_83_9483af7e:
@@ -15550,7 +15550,7 @@ translate zh_Hans talay_mc_storyline_83_bef1a0d0:
 translate zh_Hans talay_mc_storyline_83_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:8097
 translate zh_Hans talay_mc_storyline_84_2f738e4a:
@@ -15660,7 +15660,7 @@ translate zh_Hans talay_mc_storyline_84_846fcd1a:
 translate zh_Hans talay_mc_storyline_84_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:8168
 translate zh_Hans talay_mc_storyline_85_b512bb12:
@@ -15722,7 +15722,7 @@ translate zh_Hans talay_mc_storyline_85_d0a310ee:
 translate zh_Hans talay_mc_storyline_85_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:8221
 translate zh_Hans talay_mc_storyline_86_3fff393e:
@@ -15838,7 +15838,7 @@ translate zh_Hans talay_mc_storyline_86_940fd15d:
 translate zh_Hans talay_mc_storyline_86_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:8292
 translate zh_Hans talay_mc_storyline_87_f9cd42ba:
@@ -15912,7 +15912,7 @@ translate zh_Hans talay_mc_storyline_87_d5faf447:
 translate zh_Hans talay_mc_storyline_87_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:8349
 translate zh_Hans talay_mc_storyline_88_13223823:
@@ -16016,7 +16016,7 @@ translate zh_Hans talay_mc_storyline_88_79a4ccf4:
 translate zh_Hans talay_mc_storyline_88_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:8418
 translate zh_Hans talay_mc_storyline_89_55b31bab:
@@ -16126,7 +16126,7 @@ translate zh_Hans talay_mc_storyline_89_4350cdc3:
 translate zh_Hans talay_mc_storyline_89_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:8487
 translate zh_Hans talay_mc_storyline_90_0381722d:
@@ -16194,7 +16194,7 @@ translate zh_Hans talay_mc_storyline_90_0807a8b8:
 translate zh_Hans talay_mc_storyline_90_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:8542
 translate zh_Hans talay_mc_storyline_91_9ea406f6:
@@ -16322,7 +16322,7 @@ translate zh_Hans talay_mc_storyline_91_37a86663:
 translate zh_Hans talay_mc_storyline_91_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:8619
 translate zh_Hans talay_mc_storyline_92_ab2004e6:
@@ -16402,7 +16402,7 @@ translate zh_Hans talay_mc_storyline_92_b9365247:
 translate zh_Hans talay_mc_storyline_92_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:8681
 translate zh_Hans talay_mc_storyline_93_76b2fe88:
@@ -16564,7 +16564,7 @@ translate zh_Hans talay_mc_storyline_93_f3b8118b:
 translate zh_Hans talay_mc_storyline_93_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:8772
 translate zh_Hans talay_mc_storyline_94_f2fc5dcc:
@@ -16710,7 +16710,7 @@ translate zh_Hans talay_mc_storyline_94_e26cf41b:
 translate zh_Hans talay_mc_storyline_94_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:8857
 translate zh_Hans talay_mc_storyline_95_6bcb5540:
@@ -16904,7 +16904,7 @@ translate zh_Hans talay_mc_storyline_95_562bdced:
 translate zh_Hans talay_mc_storyline_95_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:8958
 translate zh_Hans talay_mc_storyline_96_093ce4f4:
@@ -16978,7 +16978,7 @@ translate zh_Hans talay_mc_storyline_96_eaad6ec3:
 translate zh_Hans talay_mc_storyline_96_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:9016
 translate zh_Hans talay_mc_storyline_97_8929a529:
@@ -17052,7 +17052,7 @@ translate zh_Hans talay_mc_storyline_97_4fc00f2c:
 translate zh_Hans talay_mc_storyline_97_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:9074
 translate zh_Hans talay_mc_storyline_98_76335f0e:
@@ -17132,7 +17132,7 @@ translate zh_Hans talay_mc_storyline_98_49045293:
 translate zh_Hans talay_mc_storyline_98_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:9139
 translate zh_Hans talay_mc_storyline_99_430f53ff:
@@ -17200,7 +17200,7 @@ translate zh_Hans talay_mc_storyline_99_af0f412a:
 translate zh_Hans talay_mc_storyline_99_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:9195
 translate zh_Hans talay_mc_storyline_100_4f3b9dbb:
@@ -17298,7 +17298,7 @@ translate zh_Hans talay_mc_storyline_100_c061e3ae:
 translate zh_Hans talay_mc_storyline_100_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:9264
 translate zh_Hans talay_mc_storyline_101_699263fe:
@@ -17408,7 +17408,7 @@ translate zh_Hans talay_mc_storyline_101_05f44085:
 translate zh_Hans talay_mc_storyline_101_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:9338
 translate zh_Hans talay_mc_storyline_102_0b4ed472:
@@ -17494,7 +17494,7 @@ translate zh_Hans talay_mc_storyline_102_ce174581:
 translate zh_Hans talay_mc_storyline_102_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:9400
 translate zh_Hans talay_mc_storyline_103_e0358388:
@@ -17562,7 +17562,7 @@ translate zh_Hans talay_mc_storyline_103_53a582f4:
 translate zh_Hans talay_mc_storyline_103_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:9456
 translate zh_Hans talay_mc_storyline_104_7ff52b83:
@@ -17666,7 +17666,7 @@ translate zh_Hans talay_mc_storyline_104_e7d71202:
 translate zh_Hans talay_mc_storyline_104_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:9528
 translate zh_Hans talay_mc_storyline_105_b8bff85d:
@@ -17758,7 +17758,7 @@ translate zh_Hans talay_mc_storyline_105_f32826cc:
 translate zh_Hans talay_mc_storyline_105_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:9591
 translate zh_Hans talay_mc_storyline_106_93baf344:
@@ -17844,7 +17844,7 @@ translate zh_Hans talay_mc_storyline_106_70eabeac:
 translate zh_Hans talay_mc_storyline_106_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:9657
 translate zh_Hans talay_mc_storyline_107_85216cc2:
@@ -17918,7 +17918,7 @@ translate zh_Hans talay_mc_storyline_107_adea1e8b:
 translate zh_Hans talay_mc_storyline_107_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:9715
 translate zh_Hans talay_mc_storyline_108_a0475f66:
@@ -17962,7 +17962,7 @@ translate zh_Hans talay_mc_storyline_108_d793b83b:
 translate zh_Hans talay_mc_storyline_108_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:9763
 translate zh_Hans talay_mc_storyline_109_580d8474:
@@ -18030,7 +18030,7 @@ translate zh_Hans talay_mc_storyline_109_377d1e6d:
 translate zh_Hans talay_mc_storyline_109_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:9819
 translate zh_Hans talay_mc_storyline_110_21f8e9c3:
@@ -18104,7 +18104,7 @@ translate zh_Hans talay_mc_storyline_110_b30bc5d5:
 translate zh_Hans talay_mc_storyline_110_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:9876
 translate zh_Hans talay_mc_storyline_111_29ff3706:
@@ -18232,7 +18232,7 @@ translate zh_Hans talay_mc_storyline_111_b249e7a0:
 translate zh_Hans talay_mc_storyline_111_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:9952
 translate zh_Hans talay_mc_storyline_112_78283cb0:
@@ -18366,7 +18366,7 @@ translate zh_Hans talay_mc_storyline_112_62d4f92c:
 translate zh_Hans talay_mc_storyline_112_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10030
 translate zh_Hans talay_mc_storyline_113_c4693599:
@@ -18494,7 +18494,7 @@ translate zh_Hans talay_mc_storyline_113_4d86865d:
 translate zh_Hans talay_mc_storyline_113_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10110
 translate zh_Hans talay_mc_storyline_114_39340a1a:
@@ -18580,7 +18580,7 @@ translate zh_Hans talay_mc_storyline_114_d7662c9b:
 translate zh_Hans talay_mc_storyline_114_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10176
 translate zh_Hans talay_mc_storyline_115_66c77ad0:
@@ -18660,7 +18660,7 @@ translate zh_Hans talay_mc_storyline_115_2956fa9b:
 translate zh_Hans talay_mc_storyline_115_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10235
 translate zh_Hans talay_mc_storyline_116_e8670435:
@@ -18800,7 +18800,7 @@ translate zh_Hans talay_mc_storyline_116_e36f9716:
 translate zh_Hans talay_mc_storyline_116_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10315
 translate zh_Hans talay_mc_storyline_117_ec6838ec:
@@ -18928,7 +18928,7 @@ translate zh_Hans talay_mc_storyline_117_9acfff54:
 translate zh_Hans talay_mc_storyline_117_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10391
 translate zh_Hans talay_mc_storyline_118_5c7f53ff:
@@ -19038,7 +19038,7 @@ translate zh_Hans talay_mc_storyline_118_9d5b592e:
 translate zh_Hans talay_mc_storyline_118_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10462
 translate zh_Hans talay_mc_storyline_119_035fcba0:
@@ -19166,7 +19166,7 @@ translate zh_Hans talay_mc_storyline_119_66f5af16:
 translate zh_Hans talay_mc_storyline_119_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10538
 translate zh_Hans talay_mc_storyline_120_6f4201ce:
@@ -19270,19 +19270,19 @@ translate zh_Hans talay_mc_storyline_120_ae699893:
 translate zh_Hans talay_mc_storyline_120_d2e60115:
 
     # nvljohn "Love you too. Go get that promotion."
-    nvljohn "爱你。去争取升职吧，宝贝。|爱你。去把那升职机会狠狠拿下，宝贝。"
+    nvljohn "爱你。去把那升职机会狠狠拿下，宝贝。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10574
 translate zh_Hans talay_mc_storyline_120_6e5fb28e:
 
     # nvltalay "I’ll do my best!"
-    nvltalay "我会拼尽全力的！|我会拼尽全力的！"
+    nvltalay "我会拼尽全力的！"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10590
 translate zh_Hans talay_mc_storyline_120_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10609
 translate zh_Hans talay_mc_storyline_121_b909236d:
@@ -19290,31 +19290,31 @@ translate zh_Hans talay_mc_storyline_121_b909236d:
     # nvl clear
     # nvltalay "I’ve been thinking a lot these past days."
     nvl clear
-    nvltalay "这几天我一直在想很多事。|这几天我一直在想很多事，想得心痒痒的。"
+    nvltalay "这几天我一直在想很多事，想得心痒痒的。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10613
 translate zh_Hans talay_mc_storyline_121_5bd9817e:
 
     # nvltalay "About my life… and what I want."
-    nvltalay "关于我的生活……以及我真正想要什么。|关于我的生活……以及我这具身体到底渴望什么。"
+    nvltalay "关于我的生活……以及我这具身体到底渴望什么。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10615
 translate zh_Hans talay_mc_storyline_121_77a9f197:
 
     # nvlcecilia "Of course. You can tell me anything."
-    nvlcecilia "当然。你什么都可以告诉我。|当然。你什么都可以对我敞开。"
+    nvlcecilia "当然。你什么都可以对我敞开。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10617
 translate zh_Hans talay_mc_storyline_121_15420588:
 
     # nvltalay "I had another fight with your father."
-    nvltalay "我又跟你爸吵了一架。|我又跟你爸那老东西吵了一架。"
+    nvltalay "我又跟你爸那老东西吵了一架。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10619
 translate zh_Hans talay_mc_storyline_121_34eafb3e:
 
     # nvltalay "This time felt different."
-    nvltalay "这次的感觉很不一样。|这次的感觉，简直是天翻地覆。"
+    nvltalay "这次的感觉，简直是天翻地覆。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10621
 translate zh_Hans talay_mc_storyline_121_b6ed60bb:
@@ -19326,25 +19326,25 @@ translate zh_Hans talay_mc_storyline_121_b6ed60bb:
 translate zh_Hans talay_mc_storyline_121_e77e4c92:
 
     # nvltalay "I didn’t feel scared."
-    nvltalay "我一点都不觉得害怕。|我一点都不觉得害怕。"
+    nvltalay "我一点都不觉得害怕。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10625
 translate zh_Hans talay_mc_storyline_121_a8697468:
 
     # nvltalay "I didn’t apologise."
-    nvltalay "我没有道歉。|我没有道歉。"
+    nvltalay "我没有道歉。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10627
 translate zh_Hans talay_mc_storyline_121_642a2685:
 
     # nvltalay "I didn’t even feel guilty."
-    nvltalay "我甚至没有感到内疚。|我甚至连一丝内疚都没有。"
+    nvltalay "我甚至连一丝内疚都没有。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10629
 translate zh_Hans talay_mc_storyline_121_74a62fcd:
 
     # nvlcecilia "That sounds… big."
-    nvlcecilia "听起来……真是个大动作。|听起来……真是个大动作。"
+    nvlcecilia "听起来……真是个大动作。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10631
 translate zh_Hans talay_mc_storyline_121_a1a2daff:
@@ -19356,85 +19356,85 @@ translate zh_Hans talay_mc_storyline_121_a1a2daff:
 translate zh_Hans talay_mc_storyline_121_95da6f9f:
 
     # nvltalay "For the first time, I thought maybe I don’t want this marriage anymore."
-    nvltalay "我第一次觉得，也许我根本不想要这段婚姻了。|我第一次觉得，也许我根本不想要这段该死的婚姻了。"
+    nvltalay "我第一次觉得，也许我根本不想要这段该死的婚姻了。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10635
 translate zh_Hans talay_mc_storyline_121_afed9bd9:
 
     # nvltalay "Maybe I finally have the courage."
-    nvltalay "或许我终于鼓起了勇气。|或许我终于鼓起了那股子劲儿。"
+    nvltalay "或许我终于鼓起了那股子劲儿。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10637
 translate zh_Hans talay_mc_storyline_121_59cc0cc0:
 
     # nvlcecilia "Mum… that’s huge."
-    nvlcecilia "妈……那可真是个惊天动地的大事。|妈……那可真是个惊天动地的大事。"
+    nvlcecilia "妈……那可真是个惊天动地的大事。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10639
 translate zh_Hans talay_mc_storyline_121_3b3fb160:
 
     # nvltalay "I’m not saying I’ll do it tomorrow."
-    nvltalay "我不是说我明天就会去做。|我不是说我明天就会去干。"
+    nvltalay "我不是说我明天就会去干。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10641
 translate zh_Hans talay_mc_storyline_121_9b8eeca6:
 
     # nvltalay "But the thought doesn’t terrify me anymore."
-    nvltalay "但现在这种想法不再让我感到恐惧了。|但现在这种想法，再也吓不住我了。"
+    nvltalay "但现在这种想法，再也吓不住我了。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10643
 translate zh_Hans talay_mc_storyline_121_7634a475:
 
     # nvlcecilia "You deserve to be happy. Truly happy."
-    nvlcecilia "你值得拥有幸福。真正的幸福。|你值得拥有幸福。真正的、能让你浑身舒畅的幸福。"
+    nvlcecilia "你值得拥有幸福。真正的、能让你浑身舒畅的幸福。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10645
 translate zh_Hans talay_mc_storyline_121_7b43225f:
 
     # nvltalay "Hearing that from you means everything."
-    nvltalay "听到你这么说，对我来说意义非凡。|听到你这么说，对我来说，简直是天大的慰藉。"
+    nvltalay "听到你这么说，对我来说，简直是天大的慰藉。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10647
 translate zh_Hans talay_mc_storyline_121_6577cc8c:
 
     # nvltalay "I don’t want to live another year feeling invisible."
-    nvltalay "我不想再过一年感觉自己像个隐形人一样。|我不想再过一年，感觉自己像个透明的死人一样。"
+    nvltalay "我不想再过一年，感觉自己像个透明的死人一样。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10649
 translate zh_Hans talay_mc_storyline_121_a7608c5d:
 
     # nvlcecilia "Whatever you decide, I’m with you."
-    nvlcecilia "无论你做什么决定，我都支持你。|无论你做什么决定，我都挺你到底。"
+    nvlcecilia "无论你做什么决定，我都挺你到底。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10651
 translate zh_Hans talay_mc_storyline_121_7dfe6a26:
 
     # nvltalay "Thank you, my girl."
-    nvltalay "谢谢你，我的乖女儿。|谢谢你，我的乖女儿。"
+    nvltalay "谢谢你，我的乖女儿。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10653
 translate zh_Hans talay_mc_storyline_121_c84aac42:
 
     # nvltalay "I needed to say this out loud."
-    nvltalay "我需要把这些话说出来。|我需要把这些话痛痛快快地说出来。"
+    nvltalay "我需要把这些话痛痛快快地说出来。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10655
 translate zh_Hans talay_mc_storyline_121_773bf703:
 
     # nvlcecilia "Anytime. Always."
-    nvlcecilia "随时。永远。|随时。永远。"
+    nvlcecilia "随时。永远。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10657
 translate zh_Hans talay_mc_storyline_121_7368b483:
 
     # nvltalay "I feel lighter already."
-    nvltalay "我感觉轻松多了。|我感觉整个人都轻飘飘的了。"
+    nvltalay "我感觉整个人都轻飘飘的了。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10673
 translate zh_Hans talay_mc_storyline_121_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10693
 translate zh_Hans talay_mc_storyline_122_65456f90:
@@ -19448,37 +19448,37 @@ translate zh_Hans talay_mc_storyline_122_65456f90:
 translate zh_Hans talay_mc_storyline_122_0bcf9923:
 
     # nvltalay "I had a bad fight with Salim."
-    nvltalay "我和萨利姆大吵了一架。|我和萨利姆那混蛋大吵了一架。"
+    nvltalay "我和萨利姆那混蛋大吵了一架。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10699
 translate zh_Hans talay_mc_storyline_122_354b38c2:
 
     # nvltalay "Not shouting… just cold words."
-    nvltalay "没有大声争吵……只是冷冰冰的话语。|没有大声争吵……只是冷冰冰的，像刀子一样的话语。"
+    nvltalay "没有大声争吵……只是冷冰冰的，像刀子一样的话语。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10701
 translate zh_Hans talay_mc_storyline_122_81c15e34:
 
     # nvljohn "That’s usually worse."
-    nvljohn "通常情况下，那更糟糕。|通常情况下，那更他妈的糟糕。"
+    nvljohn "通常情况下，那更他妈的糟糕。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10703
 translate zh_Hans talay_mc_storyline_122_65994dba:
 
     # nvltalay "I didn’t back down."
-    nvltalay "我没有退缩。|我没有退缩。"
+    nvltalay "我没有退缩。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10705
 translate zh_Hans talay_mc_storyline_122_f8bae714:
 
     # nvltalay "I didn’t explain myself."
-    nvltalay "我没有解释自己。|我没有解释自己。"
+    nvltalay "我没有解释自己。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10707
 translate zh_Hans talay_mc_storyline_122_cf58780c:
 
     # nvltalay "And I realised something."
-    nvltalay "我意识到了一件事。|我意识到了一件事。"
+    nvltalay "我意识到了一件事。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10709
 translate zh_Hans talay_mc_storyline_122_ef9365ea:
@@ -19490,25 +19490,25 @@ translate zh_Hans talay_mc_storyline_122_ef9365ea:
 translate zh_Hans talay_mc_storyline_122_4c488c83:
 
     # nvltalay "I’m tired of him."
-    nvltalay "我受够他了。|我受够他了。"
+    nvltalay "我受够他了。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10713
 translate zh_Hans talay_mc_storyline_122_89cede78:
 
     # nvltalay "Of the control. Of the distance."
-    nvltalay "受够了他的控制。受够了这种距离感。|受够了他的控制。受够了这种他妈的距离感。"
+    nvltalay "受够了他的控制。受够了这种他妈的距离感。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10715
 translate zh_Hans talay_mc_storyline_122_0f1a8999:
 
     # nvltalay "I even talked to my daughter about separating."
-    nvltalay "我甚至和女儿谈过分居的事。|我甚至和女儿谈过分居的事。"
+    nvltalay "我甚至和女儿谈过分居的事。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10717
 translate zh_Hans talay_mc_storyline_122_d67cf4fc:
 
     # nvljohn "That must have taken a lot of courage."
-    nvljohn "那一定需要很大的勇气。|那一定需要很大的勇气。"
+    nvljohn "那一定需要很大的勇气。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10719
 translate zh_Hans talay_mc_storyline_122_f581fbd8:
@@ -19526,31 +19526,31 @@ translate zh_Hans talay_mc_storyline_122_c9d662c2:
 translate zh_Hans talay_mc_storyline_122_17ac9db5:
 
     # nvltalay "For the first time in years."
-    nvltalay "多年来第一次。|多年来第一次。"
+    nvltalay "多年来第一次。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10725
 translate zh_Hans talay_mc_storyline_122_d3aaf30c:
 
     # nvljohn "Whatever you decide, I’ll respect it."
-    nvljohn "无论你做什么决定，我都会尊重。|无论你做什么决定，我都会尊重。"
+    nvljohn "无论你做什么决定，我都会尊重。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10727
 translate zh_Hans talay_mc_storyline_122_d3424114:
 
     # nvljohn "I’m proud of you."
-    nvljohn "我为你感到骄傲。|我为你感到骄傲。"
+    nvljohn "我为你感到骄傲。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10729
 translate zh_Hans talay_mc_storyline_122_a1741800:
 
     # nvltalay "You make me feel strong."
-    nvltalay "你让我感觉自己很强大。|你让我感觉自己强大得能把天捅个窟窿。"
+    nvltalay "你让我感觉自己强大得能把天捅个窟窿。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10731
 translate zh_Hans talay_mc_storyline_122_04a5541b:
 
     # nvltalay "Like I’m allowed to want more."
-    nvltalay "好像我还有权利想要更多。|好像我还有权利，去渴望更多、更刺激的。"
+    nvltalay "好像我还有权利，去渴望更多、更刺激的。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10733
 translate zh_Hans talay_mc_storyline_122_761ebd02:
@@ -19562,31 +19562,31 @@ translate zh_Hans talay_mc_storyline_122_761ebd02:
 translate zh_Hans talay_mc_storyline_122_2465f6af:
 
     # nvltalay "I don’t know when…"
-    nvltalay "我不知道什么时候……|我不知道什么时候……"
+    nvltalay "我不知道什么时候……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10737
 translate zh_Hans talay_mc_storyline_122_602b7a2c:
 
     # nvltalay "But I think I’m finally done with him."
-    nvltalay "但我认为我终于和他彻底结束了。|但我认为我终于和他彻底玩完了。"
+    nvltalay "但我认为我终于和他彻底玩完了。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10739
 translate zh_Hans talay_mc_storyline_122_dd2eb8ae:
 
     # nvljohn "Take your time. I’m here."
-    nvljohn "别着急。我在这儿。|别着急。我在这儿，等你。"
+    nvljohn "别着急。我在这儿，等你。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10741
 translate zh_Hans talay_mc_storyline_122_5af99164:
 
     # nvltalay "That’s all I needed to hear."
-    nvltalay "我只需要听到这些就够了。|我只需要听到这些就够了。"
+    nvltalay "我只需要听到这些就够了。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10757
 translate zh_Hans talay_mc_storyline_122_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10777
 translate zh_Hans talay_mc_storyline_123_a9fb3641:
@@ -19594,13 +19594,13 @@ translate zh_Hans talay_mc_storyline_123_a9fb3641:
     # nvl clear
     # nvltalay "Salim is leaving for a work trip."
     nvl clear
-    nvltalay "萨利姆要出差了。|萨利姆那家伙要出差了。"
+    nvltalay "萨利姆那家伙要出差了。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10781
 translate zh_Hans talay_mc_storyline_123_f75bfce5:
 
     # nvltalay "He’ll be gone for a few days."
-    nvltalay "他将离开几天。|他将离开几天。"
+    nvltalay "他将离开几天。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10783
 translate zh_Hans talay_mc_storyline_123_51cda073:
@@ -19612,19 +19612,19 @@ translate zh_Hans talay_mc_storyline_123_51cda073:
 translate zh_Hans talay_mc_storyline_123_4709e6b5:
 
     # nvltalay "Relieved."
-    nvltalay "松了口气。|松了口气，浑身都酥了。"
+    nvltalay "松了口气，浑身都酥了。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10787
 translate zh_Hans talay_mc_storyline_123_099a1b7c:
 
     # nvltalay "And a little excited."
-    nvltalay "还有点兴奋。|还有点，该死的兴奋。"
+    nvltalay "还有点，该死的兴奋。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10789
 translate zh_Hans talay_mc_storyline_123_b966b8a4:
 
     # nvljohn "That sounds dangerous."
-    nvljohn "听起来很危险。|听起来很危险，很刺激。"
+    nvljohn "听起来很危险，很刺激。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10791
 translate zh_Hans talay_mc_storyline_123_b342fc64:
@@ -19636,13 +19636,13 @@ translate zh_Hans talay_mc_storyline_123_b342fc64:
 translate zh_Hans talay_mc_storyline_123_5d7f7cf3:
 
     # nvltalay "Would you like to stay with me?"
-    nvltalay "你愿意留下来陪我吗？|你愿意留下来，好好陪陪我吗？"
+    nvltalay "你愿意留下来，好好陪陪我吗？"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10795
 translate zh_Hans talay_mc_storyline_123_d653fd3f:
 
     # nvltalay "Just for these days."
-    nvltalay "仅限这几天。|就这几天，只属于我们的几天。"
+    nvltalay "就这几天，只属于我们的几天。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10797
 translate zh_Hans talay_mc_storyline_123_a98198c3:
@@ -19660,7 +19660,7 @@ translate zh_Hans talay_mc_storyline_123_749f373e:
 translate zh_Hans talay_mc_storyline_123_67e0ee8e:
 
     # nvltalay "You can come today."
-    nvltalay "今天就可以来。|今天就可以来，我等你。"
+    nvltalay "今天就可以来，我等你。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10803
 translate zh_Hans talay_mc_storyline_123_e1fab727:
@@ -19672,19 +19672,19 @@ translate zh_Hans talay_mc_storyline_123_e1fab727:
 translate zh_Hans talay_mc_storyline_123_42b83e1b:
 
     # nvltalay "I’ve never been more sure."
-    nvltalay "我从未如此确信过。|我从未如此确信过，我的心都快跳出来了。"
+    nvltalay "我从未如此确信过，我的心都快跳出来了。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10807
 translate zh_Hans talay_mc_storyline_123_74a7ad74:
 
     # nvltalay "I want to wake up next to you."
-    nvltalay "我想醒来时身边有你。|我想醒来时，你就在我身边，紧紧贴着我。"
+    nvltalay "我想醒来时，你就在我身边，紧紧贴着我。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10809
 translate zh_Hans talay_mc_storyline_123_32b82342:
 
     # nvljohn "Then I’m coming."
-    nvljohn "那我这就来。|那我这就来，迫不及待。"
+    nvljohn "那我这就来，迫不及待。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10811
 translate zh_Hans talay_mc_storyline_123_1dc7f2da:
@@ -19696,7 +19696,7 @@ translate zh_Hans talay_mc_storyline_123_1dc7f2da:
 translate zh_Hans talay_mc_storyline_123_add40ff9:
 
     # nvltalay "I’ll make something special for dinner."
-    nvltalay "我今晚会做点特别的菜。|我今晚会做点特别的菜，等你来尝。"
+    nvltalay "我今晚会做点特别的菜，等你来尝。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10815
 translate zh_Hans talay_mc_storyline_123_cb83256e:
@@ -19714,7 +19714,7 @@ translate zh_Hans talay_mc_storyline_123_ebe32b3e:
 translate zh_Hans talay_mc_storyline_123_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10853
 translate zh_Hans talay_mc_storyline_124_58210cf2:
@@ -19722,55 +19722,55 @@ translate zh_Hans talay_mc_storyline_124_58210cf2:
     # nvl clear
     # nvljohn "Waking up next to you felt unreal."
     nvl clear
-    nvljohn "醒来发现身边是你，感觉很不真实。|醒来发现身边是你，感觉很不真实，像做梦一样。"
+    nvljohn "醒来发现身边是你，感觉很不真实，像做梦一样。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10857
 translate zh_Hans talay_mc_storyline_124_bf40274e:
 
     # nvljohn "It reminded me of that hotel morning last week."
-    nvljohn "这让我想起了上周在酒店度过的那个早晨。|这让我想起了上周在酒店，我们缠绵的那个早晨。"
+    nvljohn "这让我想起了上周在酒店，我们缠绵的那个早晨。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10859
 translate zh_Hans talay_mc_storyline_124_73c9e427:
 
     # nvltalay "I thought the same thing."
-    nvltalay "我也这么想。|我也这么想。"
+    nvltalay "我也这么想。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10861
 translate zh_Hans talay_mc_storyline_124_0bf5ddd9:
 
     # nvltalay "Except this felt more… real."
-    nvltalay "但这感觉更……真实。|但这感觉更……真实，更深入骨髓。"
+    nvltalay "但这感觉更……真实，更深入骨髓。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10863
 translate zh_Hans talay_mc_storyline_124_5b7f8c62:
 
     # nvljohn "Your kitchen. Your bed."
-    nvljohn "你的厨房。你的床。|你的厨房。你的床。"
+    nvljohn "你的厨房。你的床。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10865
 translate zh_Hans talay_mc_storyline_124_3eb69f98:
 
     # nvljohn "Your sleepy smile."
-    nvljohn "你睡眼惺忪时的微笑。|你睡眼惺忪时，那勾人的微笑。"
+    nvljohn "你睡眼惺忪时，那勾人的微笑。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10867
 translate zh_Hans talay_mc_storyline_124_3c09497d:
 
     # nvltalay "I loved having you here."
-    nvltalay "我喜欢你在这里。|我喜欢你在这里，喜欢你的一切。"
+    nvltalay "我喜欢你在这里，喜欢你的一切。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10869
 translate zh_Hans talay_mc_storyline_124_72144a3f:
 
     # nvltalay "Walking around like it’s normal."
-    nvltalay "像往常一样四处走动。|像往常一样，自在地在我身边走动。"
+    nvltalay "像往常一样，自在地在我身边走动。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10871
 translate zh_Hans talay_mc_storyline_124_c5e76519:
 
     # nvljohn "It should be normal."
-    nvljohn "这应该是正常现象。|这他妈的就应该是正常现象。"
+    nvljohn "这他妈的就应该是正常现象。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10873
 translate zh_Hans talay_mc_storyline_124_17daad0a:
@@ -19782,61 +19782,61 @@ translate zh_Hans talay_mc_storyline_124_17daad0a:
 translate zh_Hans talay_mc_storyline_124_0ade48e5:
 
     # nvljohn "We’ll get there."
-    nvljohn "我们会到达那里的。|我们会到达那里的，宝贝。"
+    nvljohn "我们会到达那里的，宝贝。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10877
 translate zh_Hans talay_mc_storyline_124_65b23068:
 
     # nvltalay "I already miss you and you just left."
-    nvltalay "你刚走我就已经开始想你了。|你刚走我就已经开始想你了，想得我心痒难耐。"
+    nvltalay "你刚走我就已经开始想你了，想得我心痒难耐。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10879
 translate zh_Hans talay_mc_storyline_124_0d15a977:
 
     # nvljohn "That’s a good sign."
-    nvljohn "这是个好兆头。|这是个好兆头。"
+    nvljohn "这是个好兆头。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10881
 translate zh_Hans talay_mc_storyline_124_e7fc2425:
 
     # nvltalay "It really is."
-    nvltalay "确实如此。|确实如此。"
+    nvltalay "确实如此。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10883
 translate zh_Hans talay_mc_storyline_124_6ca4ce87:
 
     # nvljohn "Thank you for trusting me."
-    nvljohn "谢谢你信任我。|谢谢你信任我，把你自己交给我。"
+    nvljohn "谢谢你信任我，把你自己交给我。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10885
 translate zh_Hans talay_mc_storyline_124_59b49abc:
 
     # nvltalay "Thank you for making me feel at home."
-    nvltalay "谢谢你们让我感觉像在家里一样。|谢谢你，让我感觉像回到了家，回到了最温暖的港湾。"
+    nvltalay "谢谢你，让我感觉像回到了家，回到了最温暖的港湾。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10887
 translate zh_Hans talay_mc_storyline_124_2fea45e7:
 
     # nvljohn "You are home."
-    nvljohn "你到家了。|你到家了，我的宝贝。"
+    nvljohn "你到家了，我的宝贝。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10889
 translate zh_Hans talay_mc_storyline_124_608f3694:
 
     # nvltalay "You say things like that so easily…"
-    nvltalay "你说话真容易……|你说话真容易……"
+    nvltalay "你说话真容易……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10891
 translate zh_Hans talay_mc_storyline_124_85a8c071:
 
     # nvljohn "Because I mean them."
-    nvljohn "因为我指的是他们。|因为我说的，都是发自肺腑的真心话。"
+    nvljohn "因为我说的，都是发自肺腑的真心话。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10907
 translate zh_Hans talay_mc_storyline_124_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10927
 translate zh_Hans talay_mc_storyline_125_84a789a8:
@@ -19844,31 +19844,31 @@ translate zh_Hans talay_mc_storyline_125_84a789a8:
     # nvl clear
     # nvltalay "Guess who’s alone in the house again?"
     nvl clear
-    nvltalay "猜猜看谁又独自在家了？|猜猜看谁又独自在家，空虚寂寞了？"
+    nvltalay "猜猜看谁又独自在家，空虚寂寞了？"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10931
 translate zh_Hans talay_mc_storyline_125_2a83b878:
 
     # nvltalay "And feeling very free…"
-    nvltalay "感觉非常自由……|感觉非常自由……自由得想放纵一把。"
+    nvltalay "感觉非常自由……自由得想放纵一把。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10933
 translate zh_Hans talay_mc_storyline_125_b966b8a4:
 
     # nvljohn "That sounds dangerous."
-    nvljohn "听起来很危险。|听起来很危险，很刺激。"
+    nvljohn "听起来很危险，很刺激。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10935
 translate zh_Hans talay_mc_storyline_125_cd5de381:
 
     # nvltalay "Maybe I want to be dangerous."
-    nvltalay "或许我就是想做个危险人物。|或许我就是想做个危险人物，想玩点刺激的。"
+    nvltalay "或许我就是想做个危险人物，想玩点刺激的。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10937
 translate zh_Hans talay_mc_storyline_125_50d1b8e7:
 
     # nvltalay "Thinking about you nonstop."
-    nvltalay "我一直在想你。|我一直在想你，想得我浑身发烫。"
+    nvltalay "我一直在想你，想得我浑身发烫。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10941
 translate zh_Hans talay_mc_storyline_125_f84bf235:
@@ -19880,85 +19880,85 @@ translate zh_Hans talay_mc_storyline_125_f84bf235:
 translate zh_Hans talay_mc_storyline_125_74af4ff2:
 
     # nvltalay "I never would’ve done this before."
-    nvltalay "我以前绝对不会做这种事。|我以前绝对不会做这种事，太他妈大胆了。"
+    nvltalay "我以前绝对不会做这种事，太他妈大胆了。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10947
 translate zh_Hans talay_mc_storyline_125_2eec2955:
 
     # nvltalay "Now it feels natural."
-    nvltalay "现在感觉很自然了。|现在感觉很自然了，就像本该如此。"
+    nvltalay "现在感觉很自然了，就像本该如此。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10949
 translate zh_Hans talay_mc_storyline_125_a690bf0b:
 
     # nvljohn "You’re breathtaking."
-    nvljohn "你美得令人窒息。|你美得令人窒息，美得让我心跳加速。"
+    nvljohn "你美得令人窒息，美得让我心跳加速。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10951
 translate zh_Hans talay_mc_storyline_125_c782154b:
 
     # nvltalay "I like being seen."
-    nvltalay "我喜欢被人关注。|我喜欢被人关注，喜欢被人用炽热的目光盯着。"
+    nvltalay "我喜欢被人关注，喜欢被人用炽热的目光盯着。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10953
 translate zh_Hans talay_mc_storyline_125_1f70a870:
 
     # nvltalay "I like wanting and being wanted."
-    nvltalay "我喜欢渴望被需要的感觉。|我喜欢渴望，喜欢被你狠狠地需要。"
+    nvltalay "我喜欢渴望，喜欢被你狠狠地需要。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10955
 translate zh_Hans talay_mc_storyline_125_4ac1eabb:
 
     # nvljohn "You deserve that."
-    nvljohn "你值得拥有这一切。|你值得拥有这一切，值得被狠狠地爱。"
+    nvljohn "你值得拥有这一切，值得被狠狠地爱。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10957
 translate zh_Hans talay_mc_storyline_125_83d618fe:
 
     # nvltalay "I feel lighter every day."
-    nvltalay "我感觉每天都轻松多了。|我感觉每天都轻松多了，像卸下了千斤重担。"
+    nvltalay "我感觉每天都轻松多了，像卸下了千斤重担。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10959
 translate zh_Hans talay_mc_storyline_125_fe3fee44:
 
     # nvltalay "Like I’m finally living for myself."
-    nvltalay "感觉我终于可以为自己而活了。|感觉我终于可以为自己而活了，为自己的欲望而活。"
+    nvltalay "感觉我终于可以为自己而活了，为自己的欲望而活。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10961
 translate zh_Hans talay_mc_storyline_125_cd5bbbc4:
 
     # nvljohn "That’s the woman I fell for."
-    nvljohn "我爱上的就是她。|我爱上的就是她，这个大胆又迷人的女人。"
+    nvljohn "我爱上的就是她，这个大胆又迷人的女人。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10963
 translate zh_Hans talay_mc_storyline_125_325da402:
 
     # nvltalay "And I’m not done surprising you."
-    nvltalay "我还没说完，还会给你更多惊喜。|我还没说完，还会给你更多惊喜，更多刺激。"
+    nvltalay "我还没说完，还会给你更多惊喜，更多刺激。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10965
 translate zh_Hans talay_mc_storyline_125_5fce25b8:
 
     # nvljohn "I’m counting on that."
-    nvljohn "我指望着这一点。|我指望着这一点，期待着你的惊喜。"
+    nvljohn "我指望着这一点，期待着你的惊喜。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10967
 translate zh_Hans talay_mc_storyline_125_66368e44:
 
     # nvltalay "Sleep thinking of me tonight."
-    nvltalay "今晚想着我入睡。|今晚想着我入睡，想着我们在一起的缠绵。"
+    nvltalay "今晚想着我入睡，想着我们在一起的缠绵。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10969
 translate zh_Hans talay_mc_storyline_125_2ff830ba:
 
     # nvljohn "I definitely will."
-    nvljohn "我一定会的。|我一定会的，想得我睡不着。"
+    nvljohn "我一定会的，想得我睡不着。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:10985
 translate zh_Hans talay_mc_storyline_125_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:11004
 translate zh_Hans talay_mc_storyline_126_a3841128:
@@ -19966,43 +19966,43 @@ translate zh_Hans talay_mc_storyline_126_a3841128:
     # nvl clear
     # nvlcecilia "So, mum… can I ask a serious question?"
     nvl clear
-    nvlcecilia "所以，妈……我可以问个严肃的问题吗？|所以，妈……我可以问个严肃的问题吗？"
+    nvlcecilia "所以，妈……我可以问个严肃的问题吗？"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:11008
 translate zh_Hans talay_mc_storyline_126_419f8caa:
 
     # nvlcecilia "Don’t laugh, ok?"
-    nvlcecilia "别笑，好吗？|别笑，好吗？"
+    nvlcecilia "别笑，好吗？"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:11010
 translate zh_Hans talay_mc_storyline_126_999afae3:
 
     # nvltalay "I’m already laughing and I don’t even know what it is 😂"
-    nvltalay "我都不知道为什么笑了😂|我都不知道为什么笑了😂"
+    nvltalay "我都不知道为什么笑了😂"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:11012
 translate zh_Hans talay_mc_storyline_126_754a749a:
 
     # nvlcecilia "Are you in love with that guy?"
-    nvlcecilia "你爱上他了吗？|你爱上那个男人了吗？"
+    nvlcecilia "你爱上那个男人了吗？"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:11014
 translate zh_Hans talay_mc_storyline_126_05f614d6:
 
     # nvltalay "Oh God…"
-    nvltalay "我的天啊……|我的天啊……"
+    nvltalay "我的天啊……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:11016
 translate zh_Hans talay_mc_storyline_126_3360ff24:
 
     # nvltalay "You’re impossible, you know that?"
-    nvltalay "你知道吗，你真是个难搞的家伙！|你知道吗，你真是个难搞的家伙！"
+    nvltalay "你知道吗，你真是个难搞的家伙！"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:11018
 translate zh_Hans talay_mc_storyline_126_da3ea0b0:
 
     # nvlcecilia "Don’t change the subject!"
-    nvlcecilia "不要转移话题！|不要转移话题！快说！"
+    nvlcecilia "不要转移话题！快说！"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:11020
 translate zh_Hans talay_mc_storyline_126_7bfaf25c:
@@ -20020,13 +20020,13 @@ translate zh_Hans talay_mc_storyline_126_1cf12a2d:
 translate zh_Hans talay_mc_storyline_126_70bcd7aa:
 
     # nvltalay "Yes. I am."
-    nvltalay "我是。|我是。"
+    nvltalay "我是。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:11026
 translate zh_Hans talay_mc_storyline_126_536da4ff:
 
     # nvlcecilia "Aww! My heart 😍"
-    nvlcecilia "啊！我的心都化了😍|啊！我的心都化了😍"
+    nvlcecilia "啊！我的心都化了😍"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:11028
 translate zh_Hans talay_mc_storyline_126_f9d588bc:
@@ -20098,7 +20098,7 @@ translate zh_Hans talay_mc_storyline_126_84659732:
 translate zh_Hans talay_mc_storyline_126_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:11084
 translate zh_Hans talay_mc_storyline_127_52cac009:
@@ -20208,7 +20208,7 @@ translate zh_Hans talay_mc_storyline_127_fdf971ac:
 translate zh_Hans talay_mc_storyline_127_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:11154
 translate zh_Hans talay_mc_storyline_128_a9a0b486:
@@ -20312,7 +20312,7 @@ translate zh_Hans talay_mc_storyline_128_a71ab714:
 translate zh_Hans talay_mc_storyline_128_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:11222
 translate zh_Hans talay_mc_storyline_129_a2557d5b:
@@ -20404,7 +20404,7 @@ translate zh_Hans talay_mc_storyline_129_c592b9f3:
 translate zh_Hans talay_mc_storyline_129_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:11286
 translate zh_Hans talay_mc_storyline_130_234711be:
@@ -20508,7 +20508,7 @@ translate zh_Hans talay_mc_storyline_130_6d5eff57:
 translate zh_Hans talay_mc_storyline_130_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:11353
 translate zh_Hans talay_mc_storyline_131_5928e00d:
@@ -20582,7 +20582,7 @@ translate zh_Hans talay_mc_storyline_131_18e6abe6:
 translate zh_Hans talay_mc_storyline_131_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:11412
 translate zh_Hans talay_mc_storyline_132_2657f2e2:
@@ -20716,7 +20716,7 @@ translate zh_Hans talay_mc_storyline_132_2a7a50c5:
 translate zh_Hans talay_mc_storyline_132_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:11494
 translate zh_Hans talay_mc_storyline_133_b7740a4e:
@@ -20862,7 +20862,7 @@ translate zh_Hans talay_mc_storyline_133_75a7546c:
 translate zh_Hans talay_mc_storyline_133_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:11580
 translate zh_Hans talay_mc_storyline_134_432fb925:
@@ -20990,7 +20990,7 @@ translate zh_Hans talay_mc_storyline_134_7e1e6476:
 translate zh_Hans talay_mc_storyline_134_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:11660
 translate zh_Hans talay_mc_storyline_135_30740215:
@@ -21094,13 +21094,13 @@ translate zh_Hans talay_mc_storyline_135_f424a91f:
 translate zh_Hans talay_mc_storyline_135_7dfe6a26:
 
     # nvltalay "Thank you, my girl."
-    nvltalay "谢谢你，我的乖女儿。|谢谢你，我的乖女儿。"
+    nvltalay "谢谢你，我的乖女儿。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:11710
 translate zh_Hans talay_mc_storyline_135_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:11729
 translate zh_Hans talay_mc_storyline_136_2bd95b3b:
@@ -21210,7 +21210,7 @@ translate zh_Hans talay_mc_storyline_136_5331e23c:
 translate zh_Hans talay_mc_storyline_136_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:11799
 translate zh_Hans talay_mc_storyline_137_a99114a2:
@@ -21326,7 +21326,7 @@ translate zh_Hans talay_mc_storyline_137_75b02f78:
 translate zh_Hans talay_mc_storyline_137_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:11871
 translate zh_Hans talay_mc_storyline_138_65456f90:
@@ -21418,7 +21418,7 @@ translate zh_Hans talay_mc_storyline_138_69e01e8f:
 translate zh_Hans talay_mc_storyline_138_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:11935
 translate zh_Hans talay_mc_storyline_139_3fed6e6e:
@@ -21516,7 +21516,7 @@ translate zh_Hans talay_mc_storyline_139_3d540617:
 translate zh_Hans talay_mc_storyline_139_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:12001
 translate zh_Hans talay_mc_storyline_140_f9cb0433:
@@ -21596,7 +21596,7 @@ translate zh_Hans talay_mc_storyline_140_da82317f:
 translate zh_Hans talay_mc_storyline_140_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:12064
 translate zh_Hans talay_mc_storyline_141_670075b3:
@@ -21706,7 +21706,7 @@ translate zh_Hans talay_mc_storyline_141_960668e5:
 translate zh_Hans talay_mc_storyline_141_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:12139
 translate zh_Hans talay_mc_storyline_142_0f300666:
@@ -21816,5 +21816,5 @@ translate zh_Hans talay_mc_storyline_142_33813a4e:
 translate zh_Hans talay_mc_storyline_142_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 

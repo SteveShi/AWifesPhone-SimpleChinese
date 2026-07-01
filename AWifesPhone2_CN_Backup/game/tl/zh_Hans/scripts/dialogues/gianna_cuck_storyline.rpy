@@ -156,7 +156,7 @@ translate zh_Hans gianna_cuck_storyline_1_6373ba30:
 translate zh_Hans gianna_cuck_storyline_1_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:153
 translate zh_Hans gianna_cuck_storyline_2_b3843710:
@@ -212,7 +212,7 @@ translate zh_Hans gianna_cuck_storyline_2_4cd57a0d:
 translate zh_Hans gianna_cuck_storyline_2_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:204
 translate zh_Hans gianna_cuck_storyline_3_90796d47:
@@ -424,7 +424,7 @@ translate zh_Hans gianna_cuck_storyline_3_b5df1627:
 translate zh_Hans gianna_cuck_storyline_3_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:307
 translate zh_Hans gianna_cuck_storyline_4_abf0f698:
@@ -570,13 +570,13 @@ translate zh_Hans gianna_cuck_storyline_4_e91dd31d:
 translate zh_Hans gianna_cuck_storyline_4_89748bb0:
 
     # nvljohn "🐂"
-    nvljohn ""
+    nvljohn "🐂"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:377
 translate zh_Hans gianna_cuck_storyline_4_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:396
 translate zh_Hans gianna_cuck_storyline_5_3a85c2c6:
@@ -812,7 +812,7 @@ translate zh_Hans gianna_cuck_storyline_5_c09e9373:
 translate zh_Hans gianna_cuck_storyline_5_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:513
 translate zh_Hans gianna_cuck_storyline_6_228ee466:
@@ -1042,7 +1042,7 @@ translate zh_Hans gianna_cuck_storyline_6_6668d559:
 translate zh_Hans gianna_cuck_storyline_6_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:624
 translate zh_Hans gianna_cuck_storyline_7_6755c5a8:
@@ -1152,7 +1152,7 @@ translate zh_Hans gianna_cuck_storyline_7_75609779:
 translate zh_Hans gianna_cuck_storyline_7_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:693
 translate zh_Hans gianna_cuck_storyline_8_f41525eb:
@@ -1196,7 +1196,7 @@ translate zh_Hans gianna_cuck_storyline_8_9845f08e:
 translate zh_Hans gianna_cuck_storyline_8_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:740
 translate zh_Hans gianna_cuck_storyline_9_cc2ccd84:
@@ -1264,7 +1264,7 @@ translate zh_Hans gianna_cuck_storyline_9_8db51a6e:
 translate zh_Hans gianna_cuck_storyline_9_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:795
 translate zh_Hans gianna_cuck_storyline_10_6ae27d07:
@@ -1332,7 +1332,7 @@ translate zh_Hans gianna_cuck_storyline_10_89d81dd6:
 translate zh_Hans gianna_cuck_storyline_10_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:850
 translate zh_Hans gianna_cuck_storyline_11_b34566b5:
@@ -1478,7 +1478,7 @@ translate zh_Hans gianna_cuck_storyline_11_60c75472:
 translate zh_Hans gianna_cuck_storyline_11_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:933
 translate zh_Hans gianna_cuck_storyline_12_31dd9429:
@@ -1612,7 +1612,7 @@ translate zh_Hans gianna_cuck_storyline_12_159fd630:
 translate zh_Hans gianna_cuck_storyline_12_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:1012
 translate zh_Hans gianna_cuck_storyline_13_51fd4fd8:
@@ -1752,7 +1752,7 @@ translate zh_Hans gianna_cuck_storyline_13_157b5bd7:
 translate zh_Hans gianna_cuck_storyline_13_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:1092
 translate zh_Hans gianna_cuck_storyline_14_3ddbd46d:
@@ -1820,7 +1820,7 @@ translate zh_Hans gianna_cuck_storyline_14_859c4e14:
 translate zh_Hans gianna_cuck_storyline_14_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:1147
 translate zh_Hans gianna_cuck_storyline_15_9515c42c:
@@ -2038,7 +2038,7 @@ translate zh_Hans gianna_cuck_storyline_15_a005ad59:
 translate zh_Hans gianna_cuck_storyline_15_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:1254
 translate zh_Hans gianna_cuck_storyline_16_2bceab84:
@@ -2088,7 +2088,7 @@ translate zh_Hans gianna_cuck_storyline_16_8234be0b:
 translate zh_Hans gianna_cuck_storyline_16_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:1303
 translate zh_Hans gianna_cuck_storyline_17_a56c9d37:
@@ -2240,7 +2240,7 @@ translate zh_Hans gianna_cuck_storyline_17_93944e68:
 translate zh_Hans gianna_cuck_storyline_17_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:1388
 translate zh_Hans gianna_cuck_storyline_18_b47eb116:
@@ -2278,7 +2278,7 @@ translate zh_Hans gianna_cuck_storyline_18_f3c69a60:
 translate zh_Hans gianna_cuck_storyline_18_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:1433
 translate zh_Hans gianna_cuck_storyline_19_fcbec842:
@@ -2370,13 +2370,13 @@ translate zh_Hans gianna_cuck_storyline_19_d9dff16f:
 translate zh_Hans gianna_cuck_storyline_19_f09f0181:
 
     # nvlgianna "💋"
-    nvlgianna ""
+    nvlgianna "💋"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:1481
 translate zh_Hans gianna_cuck_storyline_19_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:1500
 translate zh_Hans gianna_cuck_storyline_20_029007fb:
@@ -2444,7 +2444,7 @@ translate zh_Hans gianna_cuck_storyline_20_842b59cd:
 translate zh_Hans gianna_cuck_storyline_20_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:1558
 translate zh_Hans gianna_cuck_storyline_21_5daf5f65:
@@ -2590,7 +2590,7 @@ translate zh_Hans gianna_cuck_storyline_21_fe303fbb:
 translate zh_Hans gianna_cuck_storyline_21_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:1643
 translate zh_Hans gianna_cuck_storyline_22_cd0899a0:
@@ -2790,7 +2790,7 @@ translate zh_Hans gianna_cuck_storyline_22_2f75d0d7:
 translate zh_Hans gianna_cuck_storyline_22_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:1742
 translate zh_Hans gianna_cuck_storyline_23_72ff9c99:
@@ -2966,7 +2966,7 @@ translate zh_Hans gianna_cuck_storyline_23_63b4f207:
 translate zh_Hans gianna_cuck_storyline_23_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:1833
 translate zh_Hans gianna_cuck_storyline_24_5c9936df:
@@ -3130,7 +3130,7 @@ translate zh_Hans gianna_cuck_storyline_24_a8e2c129:
 translate zh_Hans gianna_cuck_storyline_24_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:1941
 translate zh_Hans gianna_cuck_storyline_25_42d26a22:
@@ -3288,7 +3288,7 @@ translate zh_Hans gianna_cuck_storyline_25_6760eea9:
 translate zh_Hans gianna_cuck_storyline_25_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:2026
 translate zh_Hans gianna_cuck_storyline_26_0d8a0cfc:
@@ -3440,7 +3440,7 @@ translate zh_Hans gianna_cuck_storyline_26_f26371e9:
 translate zh_Hans gianna_cuck_storyline_26_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:2109
 translate zh_Hans gianna_cuck_storyline_27_d4ff54d4:
@@ -3610,7 +3610,7 @@ translate zh_Hans gianna_cuck_storyline_27_3b663a9e:
 translate zh_Hans gianna_cuck_storyline_27_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:2198
 translate zh_Hans gianna_cuck_storyline_28_befa5097:
@@ -3780,7 +3780,7 @@ translate zh_Hans gianna_cuck_storyline_28_33c37e84:
 translate zh_Hans gianna_cuck_storyline_28_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:2289
 translate zh_Hans gianna_cuck_storyline_29_94ca56cb:
@@ -3950,7 +3950,7 @@ translate zh_Hans gianna_cuck_storyline_29_5f1a862b:
 translate zh_Hans gianna_cuck_storyline_29_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:2378
 translate zh_Hans gianna_cuck_storyline_30_d64489b4:
@@ -4144,7 +4144,7 @@ translate zh_Hans gianna_cuck_storyline_30_51b2bbb2:
 translate zh_Hans gianna_cuck_storyline_30_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:2479
 translate zh_Hans gianna_cuck_storyline_31_503518a3:
@@ -4332,7 +4332,7 @@ translate zh_Hans gianna_cuck_storyline_31_5f1a862b:
 translate zh_Hans gianna_cuck_storyline_31_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:2574
 translate zh_Hans gianna_cuck_storyline_32_66a17f59:
@@ -4508,7 +4508,7 @@ translate zh_Hans gianna_cuck_storyline_32_bc077adb:
 translate zh_Hans gianna_cuck_storyline_32_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:2665
 translate zh_Hans gianna_cuck_storyline_33_2e2e3bb2:
@@ -4678,7 +4678,7 @@ translate zh_Hans gianna_cuck_storyline_33_4581f1d3:
 translate zh_Hans gianna_cuck_storyline_33_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:2754
 translate zh_Hans gianna_cuck_storyline_34_d06f82e4:
@@ -4848,7 +4848,7 @@ translate zh_Hans gianna_cuck_storyline_34_155450fc:
 translate zh_Hans gianna_cuck_storyline_34_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:2843
 translate zh_Hans gianna_cuck_storyline_35_6ae276a4:
@@ -5024,7 +5024,7 @@ translate zh_Hans gianna_cuck_storyline_35_37f6ad15:
 translate zh_Hans gianna_cuck_storyline_35_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:2934
 translate zh_Hans gianna_cuck_storyline_36_8d497769:
@@ -5152,7 +5152,7 @@ translate zh_Hans gianna_cuck_storyline_36_66ef3f56:
 translate zh_Hans gianna_cuck_storyline_36_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:3011
 translate zh_Hans gianna_cuck_storyline_37_afa41fc3:
@@ -5262,7 +5262,7 @@ translate zh_Hans gianna_cuck_storyline_37_3c27a195:
 translate zh_Hans gianna_cuck_storyline_37_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:3080
 translate zh_Hans gianna_cuck_storyline_38_d64489b4:
@@ -5342,7 +5342,7 @@ translate zh_Hans gianna_cuck_storyline_38_d1e79624:
 translate zh_Hans gianna_cuck_storyline_38_26b36ab0:
 
     # nvljohn "What’s that?"
-    nvljohn "What’s that?|什么事？"
+    nvljohn "什么事？"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:3108
 translate zh_Hans gianna_cuck_storyline_38_e439d7b8:
@@ -5492,7 +5492,7 @@ translate zh_Hans gianna_cuck_storyline_38_0e97cc08:
 translate zh_Hans gianna_cuck_storyline_38_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:3193
 translate zh_Hans gianna_cuck_storyline_39_d48904d8:
@@ -5650,7 +5650,7 @@ translate zh_Hans gianna_cuck_storyline_39_3c579a2d:
 translate zh_Hans gianna_cuck_storyline_39_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:3278
 translate zh_Hans gianna_cuck_storyline_40_d159ce9a:
@@ -5904,7 +5904,7 @@ translate zh_Hans gianna_cuck_storyline_40_d395f198:
 translate zh_Hans gianna_cuck_storyline_40_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:3399
 translate zh_Hans gianna_cuck_storyline_41_c55ea589:
@@ -6008,7 +6008,7 @@ translate zh_Hans gianna_cuck_storyline_41_21706469:
 translate zh_Hans gianna_cuck_storyline_41_3c876004:
 
     # nvlgianna "…"
-    nvlgianna ""
+    nvlgianna "…"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:3435
 translate zh_Hans gianna_cuck_storyline_41_cf38e1f0:
@@ -6128,7 +6128,7 @@ translate zh_Hans gianna_cuck_storyline_41_4fa35fa1:
 translate zh_Hans gianna_cuck_storyline_41_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:3508
 translate zh_Hans gianna_cuck_storyline_42_13f314b0:
@@ -6286,7 +6286,7 @@ translate zh_Hans gianna_cuck_storyline_42_1d9d231d:
 translate zh_Hans gianna_cuck_storyline_42_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:3593
 translate zh_Hans gianna_cuck_storyline_43_f0744a4e:
@@ -6546,7 +6546,7 @@ translate zh_Hans gianna_cuck_storyline_43_ddf81a64:
 translate zh_Hans gianna_cuck_storyline_43_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:3712
 translate zh_Hans gianna_cuck_storyline_44_2fb4f085:
@@ -6746,7 +6746,7 @@ translate zh_Hans gianna_cuck_storyline_44_25acd3e2:
 translate zh_Hans gianna_cuck_storyline_44_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:3813
 translate zh_Hans gianna_cuck_storyline_45_f605c599:
@@ -6910,7 +6910,7 @@ translate zh_Hans gianna_cuck_storyline_45_9fda630f:
 translate zh_Hans gianna_cuck_storyline_45_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:3900
 translate zh_Hans gianna_cuck_storyline_46_da97491e:
@@ -7056,7 +7056,7 @@ translate zh_Hans gianna_cuck_storyline_46_936ec9c1:
 translate zh_Hans gianna_cuck_storyline_46_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:3981
 translate zh_Hans gianna_cuck_storyline_47_350dfff9:
@@ -7220,7 +7220,7 @@ translate zh_Hans gianna_cuck_storyline_47_ef65cc76:
 translate zh_Hans gianna_cuck_storyline_47_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:4070
 translate zh_Hans gianna_cuck_storyline_48_3a19f915:
@@ -7354,7 +7354,7 @@ translate zh_Hans gianna_cuck_storyline_48_b6afbbfb:
 translate zh_Hans gianna_cuck_storyline_48_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:4147
 translate zh_Hans gianna_cuck_storyline_49_c52fb772:
@@ -7512,7 +7512,7 @@ translate zh_Hans gianna_cuck_storyline_49_fb96f305:
 translate zh_Hans gianna_cuck_storyline_49_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:4232
 translate zh_Hans gianna_cuck_storyline_50_5fa5953a:
@@ -7700,7 +7700,7 @@ translate zh_Hans gianna_cuck_storyline_50_a133c3e6:
 translate zh_Hans gianna_cuck_storyline_50_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:4331
 translate zh_Hans gianna_cuck_storyline_51_5daf5f65:
@@ -7840,7 +7840,7 @@ translate zh_Hans gianna_cuck_storyline_51_d1f7d59d:
 translate zh_Hans gianna_cuck_storyline_51_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:4410
 translate zh_Hans gianna_cuck_storyline_52_f3f6c579:
@@ -7968,7 +7968,7 @@ translate zh_Hans gianna_cuck_storyline_52_c6c991a2:
 translate zh_Hans gianna_cuck_storyline_52_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:4485
 translate zh_Hans gianna_cuck_storyline_53_3a59c704:
@@ -8240,7 +8240,7 @@ translate zh_Hans gianna_cuck_storyline_53_f755b78f:
 translate zh_Hans gianna_cuck_storyline_53_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:4616
 translate zh_Hans gianna_cuck_storyline_54_ee37a78c:
@@ -8434,7 +8434,7 @@ translate zh_Hans gianna_cuck_storyline_54_7cb1ea1d:
 translate zh_Hans gianna_cuck_storyline_54_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:4713
 translate zh_Hans gianna_cuck_storyline_55_3d1143fe:
@@ -8598,7 +8598,7 @@ translate zh_Hans gianna_cuck_storyline_55_41f82eef:
 translate zh_Hans gianna_cuck_storyline_55_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:4800
 translate zh_Hans gianna_cuck_storyline_56_61844749:
@@ -8768,7 +8768,7 @@ translate zh_Hans gianna_cuck_storyline_56_d8ca4ffb:
 translate zh_Hans gianna_cuck_storyline_56_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:4889
 translate zh_Hans gianna_cuck_storyline_57_19da5e69:
@@ -8914,7 +8914,7 @@ translate zh_Hans gianna_cuck_storyline_57_a9ee44d4:
 translate zh_Hans gianna_cuck_storyline_57_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:4970
 translate zh_Hans gianna_cuck_storyline_58_9cf09d1a:
@@ -9036,7 +9036,7 @@ translate zh_Hans gianna_cuck_storyline_58_1431986a:
 translate zh_Hans gianna_cuck_storyline_58_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:5043
 translate zh_Hans gianna_cuck_storyline_59_a5f196a2:
@@ -9146,7 +9146,7 @@ translate zh_Hans gianna_cuck_storyline_59_c4d7d779:
 translate zh_Hans gianna_cuck_storyline_59_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:5114
 translate zh_Hans gianna_cuck_storyline_60_25c7c181:
@@ -9268,7 +9268,7 @@ translate zh_Hans gianna_cuck_storyline_60_03454394:
 translate zh_Hans gianna_cuck_storyline_60_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:5187
 translate zh_Hans gianna_cuck_storyline_61_12e888de:
@@ -9444,7 +9444,7 @@ translate zh_Hans gianna_cuck_storyline_61_f78766d9:
 translate zh_Hans gianna_cuck_storyline_61_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:5286
 translate zh_Hans gianna_cuck_storyline_62_6311bef8:
@@ -9602,7 +9602,7 @@ translate zh_Hans gianna_cuck_storyline_62_b367b48e:
 translate zh_Hans gianna_cuck_storyline_62_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:5375
 translate zh_Hans gianna_cuck_storyline_63_1ea4056e:
@@ -9808,7 +9808,7 @@ translate zh_Hans gianna_cuck_storyline_63_eb04f902:
 translate zh_Hans gianna_cuck_storyline_63_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:5476
 translate zh_Hans gianna_cuck_storyline_64_98338e61:
@@ -9906,7 +9906,7 @@ translate zh_Hans gianna_cuck_storyline_64_32623396:
 translate zh_Hans gianna_cuck_storyline_64_1fcd391f:
 
     # nvljohn "Alright…"
-    nvljohn "Alright…|好吧…"
+    nvljohn "好吧…"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:5510
 translate zh_Hans gianna_cuck_storyline_64_25043346:
@@ -9984,7 +9984,7 @@ translate zh_Hans gianna_cuck_storyline_64_cde78858:
 translate zh_Hans gianna_cuck_storyline_64_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:5568
 translate zh_Hans gianna_cuck_storyline_64_after_bf4e3b49:
@@ -10334,7 +10334,7 @@ translate zh_Hans gianna_cuck_storyline_65_f1eff5c1:
 translate zh_Hans gianna_cuck_storyline_65_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:5746
 translate zh_Hans gianna_cuck_storyline_66_146c28e0:
@@ -10510,7 +10510,7 @@ translate zh_Hans gianna_cuck_storyline_66_4ef6de96:
 translate zh_Hans gianna_cuck_storyline_66_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:5841
 translate zh_Hans gianna_cuck_storyline_67_0210e9b3:
@@ -10692,7 +10692,7 @@ translate zh_Hans gianna_cuck_storyline_67_2d887003:
 translate zh_Hans gianna_cuck_storyline_67_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:5934
 translate zh_Hans gianna_cuck_storyline_68_1ea4056e:
@@ -10862,7 +10862,7 @@ translate zh_Hans gianna_cuck_storyline_68_acf8b219:
 translate zh_Hans gianna_cuck_storyline_68_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:6023
 translate zh_Hans gianna_cuck_storyline_69_044d0ceb:
@@ -11068,7 +11068,7 @@ translate zh_Hans gianna_cuck_storyline_69_13dfaa17:
 translate zh_Hans gianna_cuck_storyline_69_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:6124
 translate zh_Hans gianna_cuck_storyline_70_9118ac15:
@@ -11244,7 +11244,7 @@ translate zh_Hans gianna_cuck_storyline_70_bb024794:
 translate zh_Hans gianna_cuck_storyline_70_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:6215
 translate zh_Hans gianna_cuck_storyline_71_7744841a:
@@ -11420,7 +11420,7 @@ translate zh_Hans gianna_cuck_storyline_71_25ff96d4:
 translate zh_Hans gianna_cuck_storyline_71_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:6302
 translate zh_Hans gianna_cuck_storyline_71_after_c73c8d72:
@@ -11632,7 +11632,7 @@ translate zh_Hans gianna_cuck_storyline_72_8bf0833e:
 translate zh_Hans gianna_cuck_storyline_72_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:6422
 translate zh_Hans gianna_cuck_storyline_73_a9247fc6:
@@ -11796,7 +11796,7 @@ translate zh_Hans gianna_cuck_storyline_73_25c46ef2:
 translate zh_Hans gianna_cuck_storyline_73_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:6513
 translate zh_Hans gianna_cuck_storyline_74_cc160fec:
@@ -11954,7 +11954,7 @@ translate zh_Hans gianna_cuck_storyline_74_43141f5d:
 translate zh_Hans gianna_cuck_storyline_74_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:6598
 translate zh_Hans gianna_cuck_storyline_75_b89e5750:
@@ -12130,7 +12130,7 @@ translate zh_Hans gianna_cuck_storyline_75_53fe3568:
 translate zh_Hans gianna_cuck_storyline_75_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:6696
 translate zh_Hans gianna_cuck_storyline_75_after_20fa7431:
@@ -12336,7 +12336,7 @@ translate zh_Hans gianna_cuck_storyline_76_62754797:
 translate zh_Hans gianna_cuck_storyline_76_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:6810
 translate zh_Hans gianna_cuck_storyline_76_after_c1eed952:
@@ -12542,7 +12542,7 @@ translate zh_Hans gianna_cuck_storyline_77_1479fbda:
 translate zh_Hans gianna_cuck_storyline_77_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:6923
 translate zh_Hans gianna_cuck_storyline_77_after_478d37c8:
@@ -12748,7 +12748,7 @@ translate zh_Hans gianna_cuck_storyline_78_4c43d33c:
 translate zh_Hans gianna_cuck_storyline_78_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:7041
 translate zh_Hans gianna_cuck_storyline_79_5ec24fa4:
@@ -12912,7 +12912,7 @@ translate zh_Hans gianna_cuck_storyline_79_304191e2:
 translate zh_Hans gianna_cuck_storyline_79_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:7128
 translate zh_Hans gianna_cuck_storyline_80_20b20c7c:
@@ -13034,7 +13034,7 @@ translate zh_Hans gianna_cuck_storyline_80_c6093b16:
 translate zh_Hans gianna_cuck_storyline_80_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:7205
 translate zh_Hans gianna_cuck_storyline_81_e16f0e20:
@@ -13138,7 +13138,7 @@ translate zh_Hans gianna_cuck_storyline_81_6ad106ab:
 translate zh_Hans gianna_cuck_storyline_81_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:7272
 translate zh_Hans gianna_cuck_storyline_82_19cef681:
@@ -13248,7 +13248,7 @@ translate zh_Hans gianna_cuck_storyline_82_01b2e483:
 translate zh_Hans gianna_cuck_storyline_82_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:7345
 translate zh_Hans gianna_cuck_storyline_83_52bae81f:
@@ -13370,7 +13370,7 @@ translate zh_Hans gianna_cuck_storyline_83_a0396757:
 translate zh_Hans gianna_cuck_storyline_83_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:7422
 translate zh_Hans gianna_cuck_storyline_84_6fa2a610:
@@ -13462,7 +13462,7 @@ translate zh_Hans gianna_cuck_storyline_84_c4d7d779:
 translate zh_Hans gianna_cuck_storyline_84_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:7489
 translate zh_Hans gianna_cuck_storyline_85_7e196365:
@@ -13578,7 +13578,7 @@ translate zh_Hans gianna_cuck_storyline_85_cf0d9d6b:
 translate zh_Hans gianna_cuck_storyline_85_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:7564
 translate zh_Hans gianna_cuck_storyline_86_4dec4517:
@@ -13706,7 +13706,7 @@ translate zh_Hans gianna_cuck_storyline_86_f5915e63:
 translate zh_Hans gianna_cuck_storyline_86_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:7639
 translate zh_Hans gianna_cuck_storyline_87_0ef6bf89:
@@ -13798,7 +13798,7 @@ translate zh_Hans gianna_cuck_storyline_87_2a7758c0:
 translate zh_Hans gianna_cuck_storyline_87_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:7706
 translate zh_Hans gianna_cuck_storyline_88_3f3c20f3:
@@ -13950,7 +13950,7 @@ translate zh_Hans gianna_cuck_storyline_88_59e29de3:
 translate zh_Hans gianna_cuck_storyline_88_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:7789
 translate zh_Hans gianna_cuck_storyline_89_a62b0665:
@@ -14090,7 +14090,7 @@ translate zh_Hans gianna_cuck_storyline_89_250fde57:
 translate zh_Hans gianna_cuck_storyline_89_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:7868
 translate zh_Hans gianna_cuck_storyline_90_88e6a881:
@@ -14242,7 +14242,7 @@ translate zh_Hans gianna_cuck_storyline_90_623d2f1a:
 translate zh_Hans gianna_cuck_storyline_90_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:7955
 translate zh_Hans gianna_cuck_storyline_91_ab8e0bc1:
@@ -14406,7 +14406,7 @@ translate zh_Hans gianna_cuck_storyline_91_ee37c8d4:
 translate zh_Hans gianna_cuck_storyline_91_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:8058
 translate zh_Hans gianna_cuck_storyline_92_bdeace88:
@@ -14564,7 +14564,7 @@ translate zh_Hans gianna_cuck_storyline_92_d70c3ec9:
 translate zh_Hans gianna_cuck_storyline_92_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:8143
 translate zh_Hans gianna_cuck_storyline_93_949ed569:
@@ -14698,7 +14698,7 @@ translate zh_Hans gianna_cuck_storyline_93_962230be:
 translate zh_Hans gianna_cuck_storyline_93_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:8220
 translate zh_Hans gianna_cuck_storyline_94_ae534321:
@@ -14850,7 +14850,7 @@ translate zh_Hans gianna_cuck_storyline_94_3911d485:
 translate zh_Hans gianna_cuck_storyline_94_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:8303
 translate zh_Hans gianna_cuck_storyline_94_after_33a5d98d:
@@ -15008,7 +15008,7 @@ translate zh_Hans gianna_cuck_storyline_95_2f22b98f:
 translate zh_Hans gianna_cuck_storyline_95_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:8405
 translate zh_Hans gianna_cuck_storyline_96_ea6eb90d:
@@ -15148,7 +15148,7 @@ translate zh_Hans gianna_cuck_storyline_96_e35e6eb9:
 translate zh_Hans gianna_cuck_storyline_96_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:8484
 translate zh_Hans gianna_cuck_storyline_97_a7d5c860:
@@ -15312,7 +15312,7 @@ translate zh_Hans gianna_cuck_storyline_97_0da0d75f:
 translate zh_Hans gianna_cuck_storyline_97_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:8571
 translate zh_Hans gianna_cuck_storyline_98_ca746a7e:
@@ -15476,7 +15476,7 @@ translate zh_Hans gianna_cuck_storyline_98_85dbbc64:
 translate zh_Hans gianna_cuck_storyline_98_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:8666
 translate zh_Hans gianna_cuck_storyline_99_1a4ce3e5:
@@ -15664,7 +15664,7 @@ translate zh_Hans gianna_cuck_storyline_99_0c36cb3f:
 translate zh_Hans gianna_cuck_storyline_99_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:8765
 translate zh_Hans gianna_cuck_storyline_100_e32e2bcc:
@@ -15816,7 +15816,7 @@ translate zh_Hans gianna_cuck_storyline_100_6087fc26:
 translate zh_Hans gianna_cuck_storyline_100_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:8848
 translate zh_Hans gianna_cuck_storyline_101_c1ae79c9:
@@ -15992,7 +15992,7 @@ translate zh_Hans gianna_cuck_storyline_101_202868bf:
 translate zh_Hans gianna_cuck_storyline_101_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:8939
 translate zh_Hans gianna_cuck_storyline_102_5bd6e7d4:
@@ -16168,7 +16168,7 @@ translate zh_Hans gianna_cuck_storyline_102_946a5601:
 translate zh_Hans gianna_cuck_storyline_102_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:9030
 translate zh_Hans gianna_cuck_storyline_103_4cb2e1b9:
@@ -16314,7 +16314,7 @@ translate zh_Hans gianna_cuck_storyline_103_93269993:
 translate zh_Hans gianna_cuck_storyline_103_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:9116
 translate zh_Hans gianna_cuck_storyline_104_46807cdf:
@@ -16478,7 +16478,7 @@ translate zh_Hans gianna_cuck_storyline_104_3c750bac:
 translate zh_Hans gianna_cuck_storyline_104_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:9204
 translate zh_Hans gianna_cuck_storyline_105_373c2ab1:
@@ -16612,7 +16612,7 @@ translate zh_Hans gianna_cuck_storyline_105_156da355:
 translate zh_Hans gianna_cuck_storyline_105_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:9281
 translate zh_Hans gianna_cuck_storyline_106_175d74a6:
@@ -16770,7 +16770,7 @@ translate zh_Hans gianna_cuck_storyline_106_3e2b5154:
 translate zh_Hans gianna_cuck_storyline_106_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:9371
 translate zh_Hans gianna_cuck_storyline_107_5bd8994a:
@@ -16904,7 +16904,7 @@ translate zh_Hans gianna_cuck_storyline_107_c67c6908:
 translate zh_Hans gianna_cuck_storyline_107_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:9449
 translate zh_Hans gianna_cuck_storyline_108_779152a2:
@@ -17032,7 +17032,7 @@ translate zh_Hans gianna_cuck_storyline_108_3341f0d8:
 translate zh_Hans gianna_cuck_storyline_108_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:9525
 translate zh_Hans gianna_cuck_storyline_109_28886290:
@@ -17154,7 +17154,7 @@ translate zh_Hans gianna_cuck_storyline_109_1afaac76:
 translate zh_Hans gianna_cuck_storyline_109_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:9599
 translate zh_Hans gianna_cuck_storyline_110_d0d1ed74:
@@ -17264,7 +17264,7 @@ translate zh_Hans gianna_cuck_storyline_110_a478c2f5:
 translate zh_Hans gianna_cuck_storyline_110_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:9672
 translate zh_Hans gianna_cuck_storyline_111_284abc6f:
@@ -17422,7 +17422,7 @@ translate zh_Hans gianna_cuck_storyline_111_b6af9767:
 translate zh_Hans gianna_cuck_storyline_111_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:9758
 translate zh_Hans gianna_cuck_storyline_112_23962c78:
@@ -17562,7 +17562,7 @@ translate zh_Hans gianna_cuck_storyline_112_37dc746e:
 translate zh_Hans gianna_cuck_storyline_112_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:9838
 translate zh_Hans gianna_cuck_storyline_113_1bba0789:
@@ -17690,7 +17690,7 @@ translate zh_Hans gianna_cuck_storyline_113_2188016a:
 translate zh_Hans gianna_cuck_storyline_113_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:9914
 translate zh_Hans gianna_cuck_storyline_114_d37c769c:
@@ -17794,7 +17794,7 @@ translate zh_Hans gianna_cuck_storyline_114_eac7ea65:
 translate zh_Hans gianna_cuck_storyline_114_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:9990
 translate zh_Hans gianna_cuck_storyline_115_e3fba318:
@@ -17928,7 +17928,7 @@ translate zh_Hans gianna_cuck_storyline_115_7c4cd834:
 translate zh_Hans gianna_cuck_storyline_115_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:10067
 translate zh_Hans gianna_cuck_storyline_116_252386e5:
@@ -18086,7 +18086,7 @@ translate zh_Hans gianna_cuck_storyline_116_cfef0c14:
 translate zh_Hans gianna_cuck_storyline_116_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:10157
 translate zh_Hans gianna_cuck_storyline_117_4adb36c9:
@@ -18214,7 +18214,7 @@ translate zh_Hans gianna_cuck_storyline_117_d4d3a77b:
 translate zh_Hans gianna_cuck_storyline_117_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:10237
 translate zh_Hans gianna_cuck_storyline_118_1a10c9cf:
@@ -18354,7 +18354,7 @@ translate zh_Hans gianna_cuck_storyline_118_c3f66b2b:
 translate zh_Hans gianna_cuck_storyline_118_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:10317
 translate zh_Hans gianna_cuck_storyline_119_b1559019:
@@ -18470,7 +18470,7 @@ translate zh_Hans gianna_cuck_storyline_119_d069d4e1:
 translate zh_Hans gianna_cuck_storyline_119_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:10388
 translate zh_Hans gianna_cuck_storyline_120_56e7d4a7:
@@ -18820,7 +18820,7 @@ translate zh_Hans gianna_cuck_storyline_120_9db20ff0:
 translate zh_Hans gianna_cuck_storyline_120_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 translate zh_Hans strings:
 

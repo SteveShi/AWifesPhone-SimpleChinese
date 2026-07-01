@@ -684,7 +684,7 @@ translate zh_Hans paula_storyline_10_b41868da:
 translate zh_Hans paula_storyline_10_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:408
 translate zh_Hans paula_storyline_10_after_90ef08a1:
@@ -1116,7 +1116,7 @@ translate zh_Hans paula_storyline_11_2059e300:
 translate zh_Hans paula_storyline_11_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:601
 translate zh_Hans paula_storyline_12_9bddef5e:
@@ -1628,7 +1628,7 @@ translate zh_Hans paula_storyline_12_d5abeffb:
 translate zh_Hans paula_storyline_12_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:808
 translate zh_Hans paula_storyline_13_1bd6a26a:
@@ -1816,7 +1816,7 @@ translate zh_Hans paula_storyline_13_bd956dcc:
 translate zh_Hans paula_storyline_13_7b7c38ff:
 
     # nvlpaul "list.cvc"
-    nvlpaul ""
+    nvlpaul "list.cvc"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:872
 translate zh_Hans paula_storyline_13_5ddd1f23:
@@ -1912,7 +1912,7 @@ translate zh_Hans paula_storyline_13_2059e300:
 translate zh_Hans paula_storyline_13_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:931
 translate zh_Hans paula_storyline_14_52033bec:
@@ -2100,7 +2100,7 @@ translate zh_Hans paula_storyline_14_9b7026ce:
 translate zh_Hans paula_storyline_14_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:1022
 translate zh_Hans paula_storyline_14_after_99789195:
@@ -2330,7 +2330,7 @@ translate zh_Hans paula_storyline_15_5d069351:
 translate zh_Hans paula_storyline_15_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:1142
 translate zh_Hans paula_storyline_16_664dc42d:
@@ -2908,7 +2908,7 @@ translate zh_Hans paula_storyline_16_67ff6cf2:
 translate zh_Hans paula_storyline_16_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:1367
 translate zh_Hans paula_storyline_17_0db7e651:
@@ -3096,7 +3096,7 @@ translate zh_Hans paula_storyline_17_e0e8b665:
 translate zh_Hans paula_storyline_17_364e338c:
 
     # nvljohn "I see 😊"
-    nvljohn "I see 😊|我明白了😊"
+    nvljohn "我明白了😊"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:1439
 translate zh_Hans paula_storyline_17_b7449e2f:
@@ -3582,7 +3582,7 @@ translate zh_Hans paula_storyline_17_bd1a78a2:
 translate zh_Hans paula_storyline_17_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:1636
 translate zh_Hans paula_storyline_18_0e3a3cb4:
@@ -3812,7 +3812,7 @@ translate zh_Hans paula_storyline_18_31d92dc7:
 translate zh_Hans paula_storyline_18_82363dba:
 
     # nvlpaul "deals_10.cvc"
-    nvlpaul ""
+    nvlpaul "deals_10.cvc"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:1714
 translate zh_Hans paula_storyline_18_948271ca:
@@ -3872,7 +3872,7 @@ translate zh_Hans paula_storyline_18_2ecc6e0d:
 translate zh_Hans paula_storyline_18_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:1761
 translate zh_Hans paula_storyline_18_after_caf98e63:
@@ -3994,7 +3994,7 @@ translate zh_Hans paula_storyline_19_841770cb:
 translate zh_Hans paula_storyline_19_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:1845
 translate zh_Hans paula_storyline_20_269e1001:
@@ -4260,7 +4260,7 @@ translate zh_Hans paula_storyline_20_0af46b1a:
 translate zh_Hans paula_storyline_20_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:1962
 translate zh_Hans paula_storyline_21_f42f3358:
@@ -4586,7 +4586,7 @@ translate zh_Hans paula_storyline_21_f06231c9:
 translate zh_Hans paula_storyline_21_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:2103
 translate zh_Hans paula_storyline_22_64c85f88:
@@ -4888,7 +4888,7 @@ translate zh_Hans paula_storyline_22_e7743dd7:
 translate zh_Hans paula_storyline_22_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:2232
 translate zh_Hans paula_storyline_23_7079054a:
@@ -5118,7 +5118,7 @@ translate zh_Hans paula_storyline_23_7b3b9322:
 translate zh_Hans paula_storyline_23_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:2338
 translate zh_Hans paula_storyline_24_81007f6b:
@@ -5270,7 +5270,7 @@ translate zh_Hans paula_storyline_24_3111f4f0:
 translate zh_Hans paula_storyline_24_364e338c:
 
     # nvljohn "I see 😊"
-    nvljohn "I see 😊|我明白了😊"
+    nvljohn "我明白了😊"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:2390
 translate zh_Hans paula_storyline_24_41222516:
@@ -5822,7 +5822,7 @@ translate zh_Hans paula_storyline_24_614e25df_1:
 translate zh_Hans paula_storyline_24_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:2609
 translate zh_Hans paula_storyline_25_e56a208a:
@@ -6232,7 +6232,7 @@ translate zh_Hans paula_storyline_25_ef67e5f2:
 translate zh_Hans paula_storyline_25_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:2778
 translate zh_Hans paula_storyline_26_35f751af:
@@ -6666,7 +6666,7 @@ translate zh_Hans paula_storyline_26_95e0504a:
 translate zh_Hans paula_storyline_26_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:2951
 translate zh_Hans paula_storyline_27_72272065:
@@ -6692,7 +6692,7 @@ translate zh_Hans paula_storyline_27_35260a13:
 translate zh_Hans paula_storyline_27_59251a0b:
 
     # nvlpaul "new_document.docx"
-    nvlpaul ""
+    nvlpaul "new_document.docx"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:2961
 translate zh_Hans paula_storyline_27_9d151b8f:
@@ -6830,7 +6830,7 @@ translate zh_Hans paula_storyline_27_9137ad2c:
 translate zh_Hans paula_storyline_27_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:3035
 translate zh_Hans paula_storyline_28_76b2fe88:
@@ -7154,7 +7154,7 @@ translate zh_Hans paula_storyline_28_4b4d82f8:
 translate zh_Hans paula_storyline_28_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:3178
 translate zh_Hans paula_storyline_28_after_e4106513:
@@ -7432,7 +7432,7 @@ translate zh_Hans paula_storyline_29_fc22b781:
 translate zh_Hans paula_storyline_29_364e338c:
 
     # nvljohn "I see 😊"
-    nvljohn "I see 😊|我明白了😊"
+    nvljohn "我明白了😊"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:3299
 translate zh_Hans paula_storyline_29_4533b12f:
@@ -7804,7 +7804,7 @@ translate zh_Hans paula_storyline_29_9ac983b5:
 translate zh_Hans paula_storyline_29_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:3457
 translate zh_Hans paula_storyline_30_bbcd5936:
@@ -8262,7 +8262,7 @@ translate zh_Hans paula_storyline_30_1e263d1e:
 translate zh_Hans paula_storyline_30_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:3638
 translate zh_Hans paula_storyline_31_64f87d55:
@@ -8498,7 +8498,7 @@ translate zh_Hans paula_storyline_31_after_5d8b83fc:
 translate zh_Hans paula_storyline_31_after_b7dedc3b:
 
     # mc "{i}Hahaha"
-    mc "{i}Hahaha|{i}哈哈哈哈"
+    mc "{i}哈哈哈哈"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:3749
 translate zh_Hans paula_storyline_31_after_bf57119e:
@@ -8516,7 +8516,7 @@ translate zh_Hans paula_storyline_31_after_1eca8e77:
 translate zh_Hans paula_storyline_31_after_b7dedc3b_1:
 
     # mc "{i}Hahaha"
-    mc "{i}Hahaha|{i}哈哈哈哈"
+    mc "{i}哈哈哈哈"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:3755
 translate zh_Hans paula_storyline_31_after_433b08df:
@@ -8836,7 +8836,7 @@ translate zh_Hans paula_storyline_32_be73a263:
 translate zh_Hans paula_storyline_32_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:3910
 translate zh_Hans paula_storyline_33_db87f4f0:
@@ -8910,7 +8910,7 @@ translate zh_Hans paula_storyline_33_c3a50b96:
 translate zh_Hans paula_storyline_33_364e338c:
 
     # nvljohn "I see 😊"
-    nvljohn "I see 😊|我明白了😊"
+    nvljohn "我明白了😊"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:3936
 translate zh_Hans paula_storyline_33_ff0bcd92:
@@ -9108,7 +9108,7 @@ translate zh_Hans paula_storyline_33_4954e772:
 translate zh_Hans paula_storyline_33_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:4032
 translate zh_Hans paula_storyline_34_76b2fe88:
@@ -9150,7 +9150,7 @@ translate zh_Hans paula_storyline_34_dcf4f3a6:
 translate zh_Hans paula_storyline_34_364e338c:
 
     # nvljohn "I see 😊"
-    nvljohn "I see 😊|我明白了😊"
+    nvljohn "我明白了😊"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:4050
 translate zh_Hans paula_storyline_34_3191ec28:
@@ -9258,7 +9258,7 @@ translate zh_Hans paula_storyline_34_f6c86790:
 translate zh_Hans paula_storyline_34_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:4116
 translate zh_Hans paula_storyline_35_8cfaeec9:
@@ -9338,7 +9338,7 @@ translate zh_Hans paula_storyline_35_1d40033f:
 translate zh_Hans paula_storyline_35_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:4173
 translate zh_Hans paula_storyline_36_2218b3ba:
@@ -9682,7 +9682,7 @@ translate zh_Hans paula_storyline_36_84446246:
 translate zh_Hans paula_storyline_36_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:4322
 translate zh_Hans paula_storyline_37_16297d94:
@@ -9918,7 +9918,7 @@ translate zh_Hans paula_storyline_37_3b77f313:
 translate zh_Hans paula_storyline_37_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:4437
 translate zh_Hans paula_storyline_38_26b371cc:
@@ -10230,7 +10230,7 @@ translate zh_Hans paula_storyline_38_024dcf15:
 translate zh_Hans paula_storyline_38_9c960196:
 
     # mc "{i}And now..."
-    mc "{i}And now...|{i}而现在……"
+    mc "{i}而现在……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:4563
 translate zh_Hans paula_storyline_38_53758eea:
@@ -10590,13 +10590,13 @@ translate zh_Hans paula_storyline_38_75d666be:
 translate zh_Hans paula_storyline_38_bc222f80:
 
     # mc "{i}I wonder how far this could go"
-    mc "{i}I wonder how far this could go|我想知道这事儿能玩儿多大。"
+    mc "我想知道这事儿能玩儿多大。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:4710
 translate zh_Hans paula_storyline_38_82ace64f:
 
     # mc "{i}If anything happens between them..."
-    mc "{i}If anything happens between them...|要是他们之间真擦出火花……"
+    mc "要是他们之间真擦出火花……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:4712
 translate zh_Hans paula_storyline_38_08a357b4_1:
@@ -10626,103 +10626,103 @@ translate zh_Hans paula_storyline_38_4ab55de3_1:
 translate zh_Hans paula_storyline_38_ed05916a:
 
     # paula "Okay... let's go then"
-    paula "Okay... let's go then|行吧……那走着。"
+    paula "行吧……那走着。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:4722
 translate zh_Hans paula_storyline_38_fbb3d021:
 
     # mc "{i}Yeah, of course she's supposed to believe he's going to drive her home..."
-    mc "{i}Yeah, of course she's supposed to believe he's going to drive her home...|是啊，她当然得相信那家伙会送她回家……"
+    mc "是啊，她当然得相信那家伙会送她回家……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:4724
 translate zh_Hans paula_storyline_38_59a88cd4:
 
     # paula_boss "Can you go, or do you need me to carry you?"
-    paula_boss "Can you go, or do you need me to carry you?|能自己走吗？还是想让我抱你？"
+    paula_boss "能自己走吗？还是想让我抱你？"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:4726
 translate zh_Hans paula_storyline_38_9dce8131:
 
     # paula "I can go... Everything's fine"
-    paula "I can go... Everything's fine|我能走……一切都好。"
+    paula "我能走……一切都好。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:4728
 translate zh_Hans paula_storyline_38_37a4a73a:
 
     # mc "{i}You shouldn't have drunk so much, Paul"
-    mc "{i}You shouldn't have drunk so much, Paul|保罗，你他妈不该喝那么多。"
+    mc "保罗，你他妈不该喝那么多。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:4730
 translate zh_Hans paula_storyline_38_f8573a1d:
 
     # mc "{i}It was a mistake"
-    mc "{i}It was a mistake|这他妈就是个错误。"
+    mc "这他妈就是个错误。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:4743
 translate zh_Hans paula_storyline_38_47bea40a:
 
     # mc "{i}I guess that's his house"
-    mc "{i}I guess that's his house|我猜那就是他家了。"
+    mc "我猜那就是他家了。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:4745
 translate zh_Hans paula_storyline_38_5b0688c0:
 
     # mc "{i}I'm not surprised he brought her here"
-    mc "{i}I'm not surprised he brought her here|他把她带到这儿来，我一点都不意外。"
+    mc "他把她带到这儿来，我一点都不意外。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:4747
 translate zh_Hans paula_storyline_38_517b82b5:
 
     # mc "{i}It's Paul's fault too"
-    mc "{i}It's Paul's fault too|这他妈也是保罗的错。"
+    mc "这他妈也是保罗的错。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:4749
 translate zh_Hans paula_storyline_38_6e18a428:
 
     # mc "{i}He told me something could go wrong, but he still drank himself silly"
-    mc "{i}He told me something could go wrong, but he still drank himself silly|他明明知道可能会出事，却还是把自己灌得烂醉如泥。"
+    mc "他明明知道可能会出事，却还是把自己灌得烂醉如泥。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:4751
 translate zh_Hans paula_storyline_38_5e61aa9f:
 
     # mc "{i}He knew the potential consequences, damn it"
-    mc "{i}He knew the potential consequences, damn it|他知道后果会是什么，该死的！"
+    mc "他知道后果会是什么，该死的！"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:4753
 translate zh_Hans paula_storyline_38_ba6fd1f2:
 
     # mc "{i}Anyway, it's his problem, not mine"
-    mc "{i}Anyway, it's his problem, not mine|反正，那是他的烂摊子，不关我的事。"
+    mc "反正，那是他的烂摊子，不关我的事。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:4755
 translate zh_Hans paula_storyline_38_bf7b4476:
 
     # mc "{i}Maybe he drank so much alcohol because he was sure I'd help him, but..."
-    mc "{i}Maybe he drank so much alcohol because he was sure I'd help him, but...|也许他喝那么多酒，是笃定我会帮他擦屁股，但是……"
+    mc "也许他喝那么多酒，是笃定我会帮他擦屁股，但是……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:4757
 translate zh_Hans paula_storyline_38_f2efb5b8:
 
     # mc "{i}He has to realise that you can't fully trust anyone"
-    mc "{i}He has to realise that you can't fully trust anyone|他必须明白，你不能完全相信任何人。"
+    mc "他必须明白，你不能完全相信任何人。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:4759
 translate zh_Hans paula_storyline_38_a9825657:
 
     # mc "{i}You always need to be careful"
-    mc "{i}You always need to be careful|你总得小心提防。"
+    mc "你总得小心提防。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:4761
 translate zh_Hans paula_storyline_38_fceecbaa:
 
     # mc "{i}I guess what happened today will help him understand that"
-    mc "{i}I guess what happened today will help him understand that|我想今天发生的事，会让他彻底明白这一点。"
+    mc "我想今天发生的事，会让他彻底明白这一点。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:4763
 translate zh_Hans paula_storyline_38_d0354246:
 
     # mc "{i}Hehehe"
-    mc "{i}Hehehe|{i}嘿嘿嘿"
+    mc "{i}嘿嘿嘿"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:4788
 translate zh_Hans paula_storyline_39_14467712:
@@ -10880,7 +10880,7 @@ translate zh_Hans paula_storyline_39_c6215361:
 translate zh_Hans paula_storyline_39_a378835c:
 
     # nvlunknown "Here you go. Enjoy 😊"
-    nvlunknown "Here you go. Enjoy 😊|给你。好好享受吧😊"
+    nvlunknown "给你。好好享受吧😊"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:4846
 translate zh_Hans paula_storyline_39_4cdc7732:
@@ -10910,7 +10910,7 @@ translate zh_Hans paula_storyline_39_b64a49c5:
 translate zh_Hans paula_storyline_39_5918d2ed:
 
     # nvlunknown "Happy to be of service 😉"
-    nvlunknown "Happy to be of service 😉|乐意效劳，我的小宝贝😉"
+    nvlunknown "乐意效劳，我的小宝贝😉"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:4862
 translate zh_Hans paula_storyline_39_4545bbca:
@@ -10970,7 +10970,7 @@ translate zh_Hans paula_storyline_39_0ea4b3e4:
 translate zh_Hans paula_storyline_39_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:4913
 translate zh_Hans paula_storyline_40_6ea3ad94:
@@ -11188,13 +11188,13 @@ translate zh_Hans paula_storyline_40_3f53b579:
 translate zh_Hans paula_storyline_40_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5015
 translate zh_Hans paula_storyline_40_after_d1210a40:
 
     # mc "{i}Looks like Paul is really worried about what happened"
-    mc "{i}Looks like Paul is really worried about what happened|看来保罗真他妈担心发生的事。"
+    mc "看来保罗真他妈担心发生的事。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5017
 translate zh_Hans paula_storyline_40_after_61c4692f:
@@ -11206,121 +11206,121 @@ translate zh_Hans paula_storyline_40_after_61c4692f:
 translate zh_Hans paula_storyline_40_after_ef96acb6:
 
     # mc "{i}I guess that's understandable"
-    mc "{i}I guess that's understandable|我想这也能理解。"
+    mc "我想这也能理解。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5021
 translate zh_Hans paula_storyline_40_after_8aabd49c:
 
     # mc "{i}It was the first time he'd ever had sex in his feminine body"
-    mc "{i}It was the first time he'd ever had sex in his feminine body|这可是他第一次用这具骚浪的女性身体被干。"
+    mc "这可是他第一次用这具骚浪的女性身体被干。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5023
 translate zh_Hans paula_storyline_40_after_8a0c48ed:
 
     # mc "{i}I wonder what he felt when a man's cock penetrated him for the first time"
-    mc "{i}I wonder what he felt when a man's cock penetrated him for the first time|我真想知道，当男人的鸡巴第一次插进他身体的时候，他是什么感觉。"
+    mc "我真想知道，当男人的鸡巴第一次插进他身体的时候，他是什么感觉。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5025
 translate zh_Hans paula_storyline_40_after_1696fd13:
 
     # mc "{i}Was he a virgin?"
-    mc "{i}Was he a virgin?|他还是个处吗？"
+    mc "他还是个处吗？"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5027
 translate zh_Hans paula_storyline_40_after_86047200:
 
     # mc "{i}Does transformation make you a virgin?"
-    mc "{i}Does transformation make you a virgin?|变身之后，还能算是处吗？"
+    mc "变身之后，还能算是处吗？"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5029
 translate zh_Hans paula_storyline_40_after_82b9f930:
 
     # mc "{i}Uhh!"
-    mc "{i}Uhh!|{i}呃！"
+    mc "{i}呃！"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5031
 translate zh_Hans paula_storyline_40_after_526e71a8:
 
     # mc "{i}My former employee, a man, turned into a woman and had sex with his new boss"
-    mc "{i}My former employee, a man, turned into a woman and had sex with his new boss|我以前的一个男员工，变成了女人，然后被他的新老板给操了。"
+    mc "我以前的一个男员工，变成了女人，然后被他的新老板给操了。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5033
 translate zh_Hans paula_storyline_40_after_83c3b33a:
 
     # mc "{i}Damn, that's..."
-    mc "{i}Damn, that's...|操，这他妈……"
+    mc "操，这他妈……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5035
 translate zh_Hans paula_storyline_40_after_6081534f:
 
     # mc "{i}I'd never believe such nonsense if I didn't know it was true"
-    mc "{i}I'd never believe such nonsense if I didn't know it was true|要不是我亲眼所见，打死我也不信这种鬼话。"
+    mc "要不是我亲眼所见，打死我也不信这种鬼话。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5037
 translate zh_Hans paula_storyline_40_after_ad2d6f76:
 
     # mc "{i}But I know that it's possible"
-    mc "{i}But I know that it's possible|但我知道，这他妈就是可能的。"
+    mc "但我知道，这他妈就是可能的。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5039
 translate zh_Hans paula_storyline_40_after_322dffbe:
 
     # mc "{i}Poor Paul, haha"
-    mc "{i}Poor Paul, haha|可怜的保罗，哈哈。"
+    mc "可怜的保罗，哈哈。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5041
 translate zh_Hans paula_storyline_40_after_e283d5e3:
 
     # mc "{i}His own boss fucked him..."
-    mc "{i}His own boss fucked him...|他自己的老板，把他给操了……"
+    mc "他自己的老板，把他给操了……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5043
 translate zh_Hans paula_storyline_40_after_2bedd88b:
 
     # mc "{i}His boss used him like a cheap whore"
-    mc "{i}His boss used him like a cheap whore|他的老板把他当成一个廉价的骚货一样玩弄。"
+    mc "他的老板把他当成一个廉价的骚货一样玩弄。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5045
 translate zh_Hans paula_storyline_40_after_b6dfc5e0:
 
     # mc "{i}And he... he couldn't even do anything to avoid that"
-    mc "{i}And he... he couldn't even do anything to avoid that|而他……他甚至他妈的什么都做不了来阻止这一切。"
+    mc "而他……他甚至他妈的什么都做不了来阻止这一切。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5047
 translate zh_Hans paula_storyline_40_after_0a42ef30:
 
     # mc "{i}He just lay there and let his boss fuck him, haha"
-    mc "{i}He just lay there and let his boss fuck him, haha|他就那么躺在那儿，任由他老板操他，哈哈。"
+    mc "他就那么躺在那儿，任由他老板操他，哈哈。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5049
 translate zh_Hans paula_storyline_40_after_c54c89df:
 
     # mc "{i}Who knows? Maybe I'll fuck him one day too..."
-    mc "{i}Who knows? Maybe I'll fuck him one day too...|谁知道呢？说不定哪天，我也会操他……"
+    mc "谁知道呢？说不定哪天，我也会操他……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5051
 translate zh_Hans paula_storyline_40_after_6627eee4:
 
     # mc "{i}Paul is so gorgeous. I wouldn't mind having sex with him"
-    mc "{i}Paul is so gorgeous. I wouldn't mind having sex with him|保罗真是个尤物。我一点都不介意和他滚床单。"
+    mc "保罗真是个尤物。我一点都不介意和他滚床单。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5053
 translate zh_Hans paula_storyline_40_after_9788aa17:
 
     # mc "{i}But I need to corrupt him first"
-    mc "{i}But I need to corrupt him first|但我得先把他彻底玩坏。"
+    mc "但我得先把他彻底玩坏。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5055
 translate zh_Hans paula_storyline_40_after_1303ce24:
 
     # mc "{i}I need to corrupt his feminine side, to be exact, hehe"
-    mc "{i}I need to corrupt his feminine side, to be exact, hehe|确切地说，我得彻底开发他那骚浪的女性一面，呵呵。"
+    mc "确切地说，我得彻底开发他那骚浪的女性一面，呵呵。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5057
 translate zh_Hans paula_storyline_40_after_63a09e73:
 
     # mc "{i}And that's what I'm going to do..."
-    mc "{i}And that's what I'm going to do...|而这，就是我接下来要做的……"
+    mc "而这，就是我接下来要做的……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5076
 translate zh_Hans paula_storyline_41_90790968:
@@ -11406,7 +11406,7 @@ translate zh_Hans paula_storyline_41_5a7bb978:
 translate zh_Hans paula_storyline_41_03615047:
 
     # nvlfpaul "But I don't remember when exactly I saw you 😊"
-    nvlfpaul "But I don't remember when exactly I saw you 😊|但我记不清具体是什么时候见到你的了😊"
+    nvlfpaul "但我记不清具体是什么时候见到你的了😊"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5106
 translate zh_Hans paula_storyline_41_c238336d:
@@ -11616,7 +11616,7 @@ translate zh_Hans paula_storyline_41_44d1b828:
 translate zh_Hans paula_storyline_41_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5204
 translate zh_Hans paula_storyline_41_after_dde012dd:
@@ -11628,79 +11628,79 @@ translate zh_Hans paula_storyline_41_after_dde012dd:
 translate zh_Hans paula_storyline_41_after_fd47673e:
 
     # mc "{i}Is it just me, or is Paul more... feminine and gentle now?"
-    mc "{i}Is it just me, or is Paul more... feminine and gentle now?|是不是只有我一个人觉得，保罗现在更……娇媚、更温顺了？"
+    mc "是不是只有我一个人觉得，保罗现在更……娇媚、更温顺了？"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5208
 translate zh_Hans paula_storyline_41_after_d9945b2c:
 
     # mc "{i}He would never have thanked me for something like that before, but now..."
-    mc "{i}He would never have thanked me for something like that before, but now...|他以前绝不会因为这种事感谢我，但现在……"
+    mc "他以前绝不会因为这种事感谢我，但现在……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5210
 translate zh_Hans paula_storyline_41_after_5084ef23:
 
     # mc "{i}I'm almost a hero to him, haha"
-    mc "{i}I'm almost a hero to him, haha|在他眼里，我简直就是个救世主，哈哈。"
+    mc "在他眼里，我简直就是个救世主，哈哈。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5212
 translate zh_Hans paula_storyline_41_after_7804e3fb:
 
     # mc "{i}That's nice... very nice"
-    mc "{i}That's nice... very nice|那真不错……非常不错。"
+    mc "那真不错……非常不错。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5214
 translate zh_Hans paula_storyline_41_after_78338d58:
 
     # mc "{i}If I do something like that for him a couple more times, I might be able to get him to trust me completely"
-    mc "{i}If I do something like that for him a couple more times, I might be able to get him to trust me completely|如果我再为他做几次这种事，或许就能让他彻底对我死心塌地了。"
+    mc "如果我再为他做几次这种事，或许就能让他彻底对我死心塌地了。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5216
 translate zh_Hans paula_storyline_41_after_1cbdf97c:
 
     # mc "{i}Perhaps he'll even develop feelings for me"
-    mc "{i}Perhaps he'll even develop feelings for me|或许他还会对我产生情愫。"
+    mc "或许他还会对我产生情愫。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5218
 translate zh_Hans paula_storyline_41_after_46c1933d:
 
     # mc "{i}It sounds strange, of course, but... I can give it a try"
-    mc "{i}It sounds strange, of course, but... I can give it a try|听起来当然很奇怪，但是……我可以试试看。"
+    mc "听起来当然很奇怪，但是……我可以试试看。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5220
 translate zh_Hans paula_storyline_41_after_a9c33b90:
 
     # mc "{i}I mean, I'd love to fuck him when he's in his feminine body"
-    mc "{i}I mean, I'd love to fuck him when he's in his feminine body|我的意思是，我真想在他变成女人的时候，狠狠地操他一顿。"
+    mc "我的意思是，我真想在他变成女人的时候，狠狠地操他一顿。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5222
 translate zh_Hans paula_storyline_41_after_5b206c45:
 
     # mc "{i}Fuck her, I mean. I'd love to fuck Paula"
-    mc "{i}Fuck her, I mean. I'd love to fuck Paula|操她，我是说。我真想操宝拉。"
+    mc "操她，我是说。我真想操宝拉。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5224
 translate zh_Hans paula_storyline_41_after_d5f06b86:
 
     # mc "{i}Perhaps she could even be my lover"
-    mc "{i}Perhaps she could even be my lover|或许她甚至可以成为我的禁脔。"
+    mc "或许她甚至可以成为我的禁脔。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5226
 translate zh_Hans paula_storyline_41_after_eb655995:
 
     # mc "{i}If I manage to do that, he won't want to go back to his original body, haha"
-    mc "{i}If I manage to do that, he won't want to go back to his original body, haha|如果我成功做到这一点，他肯定不想变回他那男人的身体了，哈哈。"
+    mc "如果我成功做到这一点，他肯定不想变回他那男人的身体了，哈哈。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5228
 translate zh_Hans paula_storyline_41_after_18585436:
 
     # mc "{i}But my main goal is to get back at Mr Salim"
-    mc "{i}But my main goal is to get back at Mr Salim|但我主要的目标是报复萨利姆那个老混蛋。"
+    mc "但我主要的目标是报复萨利姆那个老混蛋。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5230
 translate zh_Hans paula_storyline_41_after_4f2707d8:
 
     # mc "{i}I shouldn't forget that I need Paul to help me get back at Salim..."
-    mc "{i}I shouldn't forget that I need Paul to help me get back at Salim...|我不能忘记，我需要保罗来帮我报复萨利姆……"
+    mc "我不能忘记，我需要保罗来帮我报复萨利姆……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5249
 translate zh_Hans paula_storyline_42_b392195d:
@@ -11774,7 +11774,7 @@ translate zh_Hans paula_storyline_42_eec4a7ba:
 translate zh_Hans paula_storyline_42_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5305
 translate zh_Hans paula_storyline_43_f1592c3d:
@@ -11902,7 +11902,7 @@ translate zh_Hans paula_storyline_43_6cfff932:
 translate zh_Hans paula_storyline_43_50516dec:
 
     # nvljohn "You should've appreciated what you had, Paul 😊"
-    nvljohn "You should've appreciated what you had, Paul 😊|你应该珍惜你曾经拥有的，保罗😊"
+    nvljohn "你应该珍惜你曾经拥有的，保罗😊"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5349
 translate zh_Hans paula_storyline_43_cf1094bd:
@@ -11956,7 +11956,7 @@ translate zh_Hans paula_storyline_43_e800b995:
 translate zh_Hans paula_storyline_43_fc3d8ea3:
 
     # nvljohn "And take a full-length photo for me later 😉"
-    nvljohn "And take a full-length photo for me later 😉|待会儿帮我拍张全身照吧 😉"
+    nvljohn "待会儿帮我拍张全身照吧 😉"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5367
 translate zh_Hans paula_storyline_43_d47eafed:
@@ -12040,7 +12040,7 @@ translate zh_Hans paula_storyline_43_cf9d7beb:
 translate zh_Hans paula_storyline_43_23069433:
 
     # nvljohn "Just curious where you were if you had to put on make-up like that 😊"
-    nvljohn "Just curious where you were if you had to put on make-up like that 😊|只是好奇你当时在哪里，才会化那样的骚妆😊"
+    nvljohn "只是好奇你当时在哪里，才会化那样的骚妆😊"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5399
 translate zh_Hans paula_storyline_43_de339710:
@@ -12136,7 +12136,7 @@ translate zh_Hans paula_storyline_43_cdd96133:
 translate zh_Hans paula_storyline_43_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5460
 translate zh_Hans paula_storyline_44_76b2fe88:
@@ -12220,7 +12220,7 @@ translate zh_Hans paula_storyline_44_fddf5dea:
 translate zh_Hans paula_storyline_44_78c59b1d:
 
     # nvljohn "Especially your lips 😉"
-    nvljohn "Especially your lips 😉|尤其是你那诱人的嘴唇😉"
+    nvljohn "尤其是你那诱人的嘴唇😉"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5492
 translate zh_Hans paula_storyline_44_f9ce16a8:
@@ -12436,7 +12436,7 @@ translate zh_Hans paula_storyline_44_15abdf59:
 translate zh_Hans paula_storyline_44_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5601
 translate zh_Hans paula_storyline_45_b392195d:
@@ -12630,7 +12630,7 @@ translate zh_Hans paula_storyline_45_6000ca6c:
 translate zh_Hans paula_storyline_45_2f80a649:
 
     # nvljohn "That's why I told you we could meet up and spend some time together last time 😊"
-    nvljohn "That's why I told you we could meet up and spend some time together last time 😊|所以我上次才说我们可以见面，好好温存一下😊"
+    nvljohn "所以我上次才说我们可以见面，好好温存一下😊"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5667
 translate zh_Hans paula_storyline_45_d98ba82d:
@@ -12696,7 +12696,7 @@ translate zh_Hans paula_storyline_45_415d044e:
 translate zh_Hans paula_storyline_45_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5718
 translate zh_Hans paula_storyline_46_51338001:
@@ -12872,7 +12872,7 @@ translate zh_Hans paula_storyline_46_fd4798b8:
 translate zh_Hans paula_storyline_46_f7167b0b:
 
     # nvlfpaul "There's no need for that 😊"
-    nvlfpaul "There's no need for that 😊|没必要那样😊"
+    nvlfpaul "没必要那样😊"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5778
 translate zh_Hans paula_storyline_46_9b1dfd60:
@@ -12980,7 +12980,7 @@ translate zh_Hans paula_storyline_46_521c7406:
 translate zh_Hans paula_storyline_46_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5843
 translate zh_Hans paula_storyline_47_1f042945:
@@ -13270,7 +13270,7 @@ translate zh_Hans paula_storyline_47_15abdf59:
 translate zh_Hans paula_storyline_47_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:5970
 translate zh_Hans paula_storyline_48_b392195d:
@@ -13500,7 +13500,7 @@ translate zh_Hans paula_storyline_48_d15cdba1:
 translate zh_Hans paula_storyline_48_9a889592:
 
     # nvljohn "Well, who knows? 😊"
-    nvljohn "Well, who knows? 😊|嗯，谁知道呢？😊"
+    nvljohn "嗯，谁知道呢？😊"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6048
 translate zh_Hans paula_storyline_48_5a4b66f4:
@@ -13530,7 +13530,7 @@ translate zh_Hans paula_storyline_48_4a5d03ca:
 translate zh_Hans paula_storyline_48_91bbf726:
 
     # nvljohn "Don't thank me yet 😊"
-    nvljohn "Don't thank me yet 😊|别急着谢我😊"
+    nvljohn "别急着谢我😊"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6058
 translate zh_Hans paula_storyline_48_2173409f:
@@ -13590,7 +13590,7 @@ translate zh_Hans paula_storyline_48_f9ba55cb:
 translate zh_Hans paula_storyline_48_cb9baffe:
 
     # nvlfpaul "What about this? 😉"
-    nvlfpaul "What about this? 😉|这样如何？😉"
+    nvlfpaul "这样如何？😉"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6086
 translate zh_Hans paula_storyline_48_10560a9e:
@@ -13734,7 +13734,7 @@ translate zh_Hans paula_storyline_48_721b42e3:
 translate zh_Hans paula_storyline_48_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6163
 translate zh_Hans paula_storyline_49_c2aa8640:
@@ -13922,19 +13922,19 @@ translate zh_Hans paula_storyline_49_521c7406:
 translate zh_Hans paula_storyline_49_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6260
 translate zh_Hans paula_storyline_50_6e84e29a:
 
     # mc "{i}Well, it's Saturday. Finally"
-    mc "{i}Well, it's Saturday. Finally|嗯，终于到周六了。"
+    mc "嗯，终于到周六了。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6262
 translate zh_Hans paula_storyline_50_717d442c:
 
     # mc "{i}Today I need to go to that corporate party with Paul"
-    mc "{i}Today I need to go to that corporate party with Paul|今天我得和保罗一起去参加那个公司派对。"
+    mc "今天我得和保罗一起去参加那个公司派对。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6264
 translate zh_Hans paula_storyline_50_a04ce5ad:
@@ -13946,151 +13946,151 @@ translate zh_Hans paula_storyline_50_a04ce5ad:
 translate zh_Hans paula_storyline_50_0d93c520:
 
     # mc "{i}It's strange that I agreed to help me"
-    mc "{i}It's strange that I agreed to help me|我竟然同意帮他，这他妈真是太奇怪了。"
+    mc "我竟然同意帮他，这他妈真是太奇怪了。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6268
 translate zh_Hans paula_storyline_50_9113bf3c:
 
     # mc "{i}That's not something I would normally do"
-    mc "{i}That's not something I would normally do|那可不是我平时会干的事。"
+    mc "那可不是我平时会干的事。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6270
 translate zh_Hans paula_storyline_50_46fa6e30:
 
     # mc "{i}Maybe I'm too nice to him. I hope he doesn't notice that"
-    mc "{i}Maybe I'm too nice to him. I hope he doesn't notice that|也许我对那家伙太好了。我希望他别察觉到这一点。"
+    mc "也许我对那家伙太好了。我希望他别察觉到这一点。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6272
 translate zh_Hans paula_storyline_50_c60e8a16:
 
     # mc "{i}I can't allow him to stop being afraid of me"
-    mc "{i}I can't allow him to stop being afraid of me|我不能让他不再害怕我。"
+    mc "我不能让他不再害怕我。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6274
 translate zh_Hans paula_storyline_50_8364b04a:
 
     # mc "{i}On the other hand, I can earn his loyalty if I keep helping him"
-    mc "{i}On the other hand, I can earn his loyalty if I keep helping him|另一方面，如果我一直帮他，就能赢得他的忠诚。"
+    mc "另一方面，如果我一直帮他，就能赢得他的忠诚。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6276
 translate zh_Hans paula_storyline_50_82c0c89e:
 
     # mc "{i}If he sees me as a friend..."
-    mc "{i}If he sees me as a friend...|如果他把我当朋友……"
+    mc "如果他把我当朋友……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6278
 translate zh_Hans paula_storyline_50_47d5d4b1:
 
     # mc "{i}Okay, I can think about that later"
-    mc "{i}Okay, I can think about that later|行吧，这事儿我以后再琢磨。"
+    mc "行吧，这事儿我以后再琢磨。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6280
 translate zh_Hans paula_storyline_50_07be4fa1:
 
     # mc "{i}I have to do what is required of me first"
-    mc "{i}I have to do what is required of me first|我必须先完成我该做的事。"
+    mc "我必须先完成我该做的事。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6282
 translate zh_Hans paula_storyline_50_7df8ceab:
 
     # mc "{i}I still have some time until 7 o'clock, so I can do some other stuff now"
-    mc "{i}I still have some time until 7 o'clock, so I can do some other stuff now|离七点还有点时间，所以我现在可以先干点别的。"
+    mc "离七点还有点时间，所以我现在可以先干点别的。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6309
 translate zh_Hans paula_storyline_51_89d1afc9:
 
     # mc "{i}It's time to go"
-    mc "{i}It's time to go|该走了。"
+    mc "该走了。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6311
 translate zh_Hans paula_storyline_51_0f78c17a:
 
     # mc "{i}It's almost 7 o'clock"
-    mc "{i}It's almost 7 o'clock|快到七点了。"
+    mc "快到七点了。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6313
 translate zh_Hans paula_storyline_51_21e30e9b:
 
     # mc "{i}Paul and I agreed to meet at 7 o'clock"
-    mc "{i}Paul and I agreed to meet at 7 o'clock|我和保罗约定七点见面。"
+    mc "我和保罗约定七点见面。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6315
 translate zh_Hans paula_storyline_51_a4f9351a:
 
     # mc "{i}Damn, I can't believe I'm doing this"
-    mc "{i}Damn, I can't believe I'm doing this|操，我真不敢相信我他妈在干这事儿。"
+    mc "操，我真不敢相信我他妈在干这事儿。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6317
 translate zh_Hans paula_storyline_51_f367cf0d:
 
     # mc "{i}I'll have to play the role of my enemy's husband while he lives in his feminine body..."
-    mc "{i}I'll have to play the role of my enemy's husband while he lives in his feminine body...|我竟然要扮演我敌人的丈夫，而他则以这具骚浪的女性身体苟活于世……"
+    mc "我竟然要扮演我敌人的丈夫，而他则以这具骚浪的女性身体苟活于世……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6319
 translate zh_Hans paula_storyline_51_b7dedc3b:
 
     # mc "{i}Hahaha"
-    mc "{i}Hahaha|{i}哈哈哈哈"
+    mc "{i}哈哈哈哈"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6321
 translate zh_Hans paula_storyline_51_d285b65e:
 
     # mc "{i}That's so... absurd"
-    mc "{i}That's so... absurd|这他妈太……荒谬了。"
+    mc "这他妈太……荒谬了。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6323
 translate zh_Hans paula_storyline_51_a3f89449:
 
     # mc "{i}I never thought something like that could happen in my life"
-    mc "{i}I never thought something like that could happen in my life|我从未想过这种操蛋的事会发生在我的人生里。"
+    mc "我从未想过这种操蛋的事会发生在我的人生里。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6325
 translate zh_Hans paula_storyline_51_f3f11e6f:
 
     # mc "{i}But it's happening. Damn it"
-    mc "{i}But it's happening. Damn it|但它他妈的正在发生。该死的！"
+    mc "但它他妈的正在发生。该死的！"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6327
 translate zh_Hans paula_storyline_51_8692b3f3:
 
     # mc "{i}Okay, I need to go"
-    mc "{i}Okay, I need to go|行了，我得走了。"
+    mc "行了，我得走了。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6329
 translate zh_Hans paula_storyline_51_25f91468:
 
     # mc "{i}I agreed to help him, so I have to help him"
-    mc "{i}I agreed to help him, so I have to help him|我答应帮他，所以就得帮他。"
+    mc "我答应帮他，所以就得帮他。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6340
 translate zh_Hans paula_storyline_51_9f305b1d:
 
     # paula "You came after all"
-    paula "You came after all|你最终还是来了。"
+    paula "你最终还是来了。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6342
 translate zh_Hans paula_storyline_51_941948ff:
 
     # mc "Well, I promised to help you"
-    mc "Well, I promised to help you|嗯，我答应过要帮你的。"
+    mc "嗯，我答应过要帮你的。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6344
 translate zh_Hans paula_storyline_51_473c08f8:
 
     # paula "Yeah, I remember that, but still..."
-    paula "Yeah, I remember that, but still...|是啊，我记得，但还是……"
+    paula "是啊，我记得，但还是……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6346
 translate zh_Hans paula_storyline_51_2005bfc8:
 
     # paula "Until this very moment, I had my doubts"
-    paula "Until this very moment, I had my doubts|直到此刻，我仍然心存疑虑。"
+    paula "直到此刻，我仍然心存疑虑。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6348
 translate zh_Hans paula_storyline_51_d86a27ba:
 
     # paula "I thought you'd change your mind"
-    paula "I thought you'd change your mind|我以为你会改变主意。"
+    paula "我以为你会改变主意。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6350
 translate zh_Hans paula_storyline_51_9ca2dcda:
@@ -14102,13 +14102,13 @@ translate zh_Hans paula_storyline_51_9ca2dcda:
 translate zh_Hans paula_storyline_51_8cd45e88:
 
     # mc "Even I don't want to do it"
-    mc "Even I don't want to do it|连我都不想干这事儿。"
+    mc "连我都不想干这事儿。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6354
 translate zh_Hans paula_storyline_51_14b7f2e7:
 
     # paula "Does that mean you don't want to do this?"
-    paula "Does that mean you don't want to do this?|那是不是意味着你不想干这事儿了？"
+    paula "那是不是意味着你不想干这事儿了？"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6356
 translate zh_Hans paula_storyline_51_f25813d2:
@@ -14498,7 +14498,7 @@ translate zh_Hans paula_storyline_51_5d474622:
 translate zh_Hans paula_storyline_51_e1786913:
 
     # mc "She used to be an escort"
-    mc "She used to be an escort|她以前是个高级妓女。"
+    mc "她以前是个高级妓女。"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:6529
 translate zh_Hans paula_storyline_51_5a857089:
@@ -16730,7 +16730,7 @@ translate zh_Hans paula_storyline_51_e132e5d2:
 translate zh_Hans paula_storyline_51_82b9f930:
 
     # mc "{i}Uhh!"
-    mc "{i}Uhh!|{i}呃！"
+    mc "{i}呃！"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:7477
 translate zh_Hans paula_storyline_51_f7db2e91:
@@ -16808,7 +16808,7 @@ translate zh_Hans paula_storyline_51_91b9080d:
 translate zh_Hans paula_storyline_51_d0354246:
 
     # mc "{i}Hehehe"
-    mc "{i}Hehehe|{i}嘿嘿嘿"
+    mc "{i}嘿嘿嘿"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:7524
 translate zh_Hans paula_storyline_51_c17cb3a3:
@@ -18382,7 +18382,7 @@ translate zh_Hans paula_storyline_53_15abdf59:
 translate zh_Hans paula_storyline_53_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:8193
 translate zh_Hans paula_storyline_54_58f9440c:
@@ -18732,7 +18732,7 @@ translate zh_Hans paula_storyline_54_e360a383:
 translate zh_Hans paula_storyline_54_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:8340
 translate zh_Hans paula_storyline_55_b392195d:
@@ -18860,7 +18860,7 @@ translate zh_Hans paula_storyline_55_edaa9961:
 translate zh_Hans paula_storyline_55_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:8413
 translate zh_Hans paula_storyline_56_4ac7bd68:
@@ -19222,7 +19222,7 @@ translate zh_Hans paula_storyline_56_e5c0f15e:
 translate zh_Hans paula_storyline_56_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:8568
 translate zh_Hans paula_storyline_57_76b2fe88:
@@ -19582,7 +19582,7 @@ translate zh_Hans paula_storyline_57_679b7911:
 translate zh_Hans paula_storyline_57_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:8720
 translate zh_Hans paula_storyline_57_after_034c3296:
@@ -20034,7 +20034,7 @@ translate zh_Hans paula_storyline_58_52892467:
 translate zh_Hans paula_storyline_58_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:8926
 translate zh_Hans paula_storyline_59_16297d94:
@@ -20138,7 +20138,7 @@ translate zh_Hans paula_storyline_59_f556ee1e:
 translate zh_Hans paula_storyline_59_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:8995
 translate zh_Hans paula_storyline_60_14467712:
@@ -20608,7 +20608,7 @@ translate zh_Hans paula_storyline_60_e5c0f15e:
 translate zh_Hans paula_storyline_60_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:9190
 translate zh_Hans paula_storyline_61_16297d94:
@@ -21138,7 +21138,7 @@ translate zh_Hans paula_storyline_61_3c79178a:
 translate zh_Hans paula_storyline_61_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:9432
 translate zh_Hans paula_storyline_63_d109ab88:
@@ -21362,7 +21362,7 @@ translate zh_Hans paula_storyline_63_505286bd:
 translate zh_Hans paula_storyline_63_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:9538
 translate zh_Hans paula_storyline_64_d109ab88:
@@ -21616,7 +21616,7 @@ translate zh_Hans paula_storyline_64_4ecd353f:
 translate zh_Hans paula_storyline_64_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:9658
 translate zh_Hans paula_storyline_65_d109ab88:
@@ -21888,7 +21888,7 @@ translate zh_Hans paula_storyline_65_c6ac9ad1:
 translate zh_Hans paula_storyline_65_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:9782
 translate zh_Hans paula_storyline_66_589ad7dc:
@@ -22166,7 +22166,7 @@ translate zh_Hans paula_storyline_66_74d2904f:
 translate zh_Hans paula_storyline_66_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:9913
 translate zh_Hans paula_storyline_67_52ac7061:
@@ -22336,7 +22336,7 @@ translate zh_Hans paula_storyline_67_cc35d1dd:
 translate zh_Hans paula_storyline_67_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:10000
 translate zh_Hans paula_storyline_68_74d0ed3b:
@@ -22506,7 +22506,7 @@ translate zh_Hans paula_storyline_68_ba9887e1:
 translate zh_Hans paula_storyline_68_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:10089
 translate zh_Hans paula_storyline_69_6829f843:
@@ -22682,7 +22682,7 @@ translate zh_Hans paula_storyline_69_a90ebe86:
 translate zh_Hans paula_storyline_69_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:10174
 translate zh_Hans paula_storyline_69_after_c51b9d0a:
@@ -22948,7 +22948,7 @@ translate zh_Hans paula_storyline_70_31754c16:
 translate zh_Hans paula_storyline_70_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:10310
 translate zh_Hans paula_storyline_71_5f072623:
@@ -23094,7 +23094,7 @@ translate zh_Hans paula_storyline_71_22ad56f0:
 translate zh_Hans paula_storyline_71_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:10384
 translate zh_Hans paula_storyline_71_after_d9db46d4:
@@ -23294,7 +23294,7 @@ translate zh_Hans paula_storyline_72_e20265b8:
 translate zh_Hans paula_storyline_72_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:10499
 translate zh_Hans paula_storyline_72_after_8d0a9eb8:
@@ -23620,7 +23620,7 @@ translate zh_Hans paula_storyline_73_9efbdd2b:
 translate zh_Hans paula_storyline_73_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:10665
 translate zh_Hans paula_storyline_74_d109ab88:
@@ -23826,7 +23826,7 @@ translate zh_Hans paula_storyline_74_a37fe484:
 translate zh_Hans paula_storyline_74_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:10763
 translate zh_Hans paula_storyline_75_d109ab88:
@@ -24080,7 +24080,7 @@ translate zh_Hans paula_storyline_75_f870321a:
 translate zh_Hans paula_storyline_75_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:10892
 translate zh_Hans paula_storyline_76_d109ab88:
@@ -24280,7 +24280,7 @@ translate zh_Hans paula_storyline_76_c6df2ae5:
 translate zh_Hans paula_storyline_76_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:10990
 translate zh_Hans paula_storyline_77_74d0ed3b:
@@ -24474,7 +24474,7 @@ translate zh_Hans paula_storyline_77_60bb5741:
 translate zh_Hans paula_storyline_77_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:11089
 translate zh_Hans paula_storyline_78_52ac7061:
@@ -24662,7 +24662,7 @@ translate zh_Hans paula_storyline_78_22ad56f0:
 translate zh_Hans paula_storyline_78_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:11182
 translate zh_Hans paula_storyline_79_18f37144:
@@ -24784,7 +24784,7 @@ translate zh_Hans paula_storyline_79_94c0e29a:
 translate zh_Hans paula_storyline_79_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:11253
 translate zh_Hans paula_storyline_80_c24a321f:
@@ -24978,7 +24978,7 @@ translate zh_Hans paula_storyline_80_69d22d87:
 translate zh_Hans paula_storyline_80_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:11349
 translate zh_Hans paula_storyline_80_after_27d4ca76:
@@ -25238,7 +25238,7 @@ translate zh_Hans paula_storyline_81_22ad56f0:
 translate zh_Hans paula_storyline_81_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:11483
 translate zh_Hans paula_storyline_82_1b6835d4:
@@ -25450,7 +25450,7 @@ translate zh_Hans paula_storyline_82_c35cee0b:
 translate zh_Hans paula_storyline_82_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:11584
 translate zh_Hans paula_storyline_83_ffe50e11:
@@ -25656,7 +25656,7 @@ translate zh_Hans paula_storyline_83_4bac5515:
 translate zh_Hans paula_storyline_83_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:11683
 translate zh_Hans paula_storyline_84_93a15a1e:
@@ -25856,7 +25856,7 @@ translate zh_Hans paula_storyline_84_3447c2f0:
 translate zh_Hans paula_storyline_84_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:11782
 translate zh_Hans paula_storyline_85_1e3494f9:
@@ -26026,7 +26026,7 @@ translate zh_Hans paula_storyline_85_7cb3100d:
 translate zh_Hans paula_storyline_85_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:11870
 translate zh_Hans paula_storyline_85_after_731cfba9:
@@ -26220,7 +26220,7 @@ translate zh_Hans paula_storyline_86_ccde04ee:
 translate zh_Hans paula_storyline_86_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:11982
 translate zh_Hans paula_storyline_87_52ac7061:
@@ -26432,7 +26432,7 @@ translate zh_Hans paula_storyline_87_7130802e:
 translate zh_Hans paula_storyline_87_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:12083
 translate zh_Hans paula_storyline_88_52ac7061:
@@ -26668,7 +26668,7 @@ translate zh_Hans paula_storyline_88_fa5ba103:
 translate zh_Hans paula_storyline_88_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:12193
 translate zh_Hans paula_storyline_88_after_8020a64c:
@@ -26898,7 +26898,7 @@ translate zh_Hans paula_storyline_89_15b42df9:
 translate zh_Hans paula_storyline_89_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:12321
 translate zh_Hans paula_storyline_90_52ac7061:
@@ -27098,7 +27098,7 @@ translate zh_Hans paula_storyline_90_552aa455:
 translate zh_Hans paula_storyline_90_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:12420
 translate zh_Hans paula_storyline_91_52ac7061:
@@ -27280,7 +27280,7 @@ translate zh_Hans paula_storyline_91_e5c4b94c:
 translate zh_Hans paula_storyline_91_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:12515
 translate zh_Hans paula_storyline_92_1e3494f9:
@@ -27480,7 +27480,7 @@ translate zh_Hans paula_storyline_92_801cacff:
 translate zh_Hans paula_storyline_92_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:12613
 translate zh_Hans paula_storyline_92_after_0da4a7a6:
@@ -27794,7 +27794,7 @@ translate zh_Hans paula_storyline_93_171511d6:
 translate zh_Hans paula_storyline_93_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:12775
 translate zh_Hans paula_storyline_94_a05d3436:
@@ -27970,7 +27970,7 @@ translate zh_Hans paula_storyline_94_190a897d:
 translate zh_Hans paula_storyline_94_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:12864
 translate zh_Hans paula_storyline_95_a05d3436:
@@ -28152,7 +28152,7 @@ translate zh_Hans paula_storyline_95_fbd4a89c:
 translate zh_Hans paula_storyline_95_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:12959
 translate zh_Hans paula_storyline_96_1e3494f9:
@@ -28310,7 +28310,7 @@ translate zh_Hans paula_storyline_96_6b5ae10f:
 translate zh_Hans paula_storyline_96_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:13046
 translate zh_Hans paula_storyline_97_52ac7061:
@@ -28606,7 +28606,7 @@ translate zh_Hans paula_storyline_97_05fcce4d:
 translate zh_Hans paula_storyline_97_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:13172
 translate zh_Hans paula_storyline_97_after_597772ec:
@@ -28938,7 +28938,7 @@ translate zh_Hans paula_storyline_98_22ad56f0:
 translate zh_Hans paula_storyline_98_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:13330
 translate zh_Hans paula_storyline_99_1e3494f9:
@@ -29138,7 +29138,7 @@ translate zh_Hans paula_storyline_99_bd4b717e:
 translate zh_Hans paula_storyline_99_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:13431
 translate zh_Hans paula_storyline_100_52ac7061:
@@ -29386,7 +29386,7 @@ translate zh_Hans paula_storyline_100_856673e2:
 translate zh_Hans paula_storyline_100_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:13562
 translate zh_Hans paula_storyline_101_1e3494f9:
@@ -29556,7 +29556,7 @@ translate zh_Hans paula_storyline_101_9444d321:
 translate zh_Hans paula_storyline_101_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:13651
 translate zh_Hans paula_storyline_102_52ac7061:
@@ -29714,7 +29714,7 @@ translate zh_Hans paula_storyline_102_039043f5:
 translate zh_Hans paula_storyline_102_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:13734
 translate zh_Hans paula_storyline_103_52ac7061:
@@ -29920,7 +29920,7 @@ translate zh_Hans paula_storyline_103_48f01869:
 translate zh_Hans paula_storyline_103_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:13837
 translate zh_Hans paula_storyline_104_02bc3a89:
@@ -30114,7 +30114,7 @@ translate zh_Hans paula_storyline_104_b7a59075:
 translate zh_Hans paula_storyline_104_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:13930
 translate zh_Hans paula_storyline_500_d109ab88:
@@ -30248,7 +30248,7 @@ translate zh_Hans paula_storyline_500_cc72bf90:
 translate zh_Hans paula_storyline_500_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/paula_storyline.rpy:14009
 translate zh_Hans paula_storyline_501_1e3494f9:
@@ -30430,7 +30430,7 @@ translate zh_Hans paula_storyline_501_40c55d11:
 translate zh_Hans paula_storyline_501_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 translate zh_Hans strings:
 

@@ -120,7 +120,7 @@ translate zh_Hans wife_mark_cuck_storyline_1_cbf02b6e:
 translate zh_Hans wife_mark_cuck_storyline_1_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_mark_cuck_storyline.rpy:103
 translate zh_Hans wife_mark_cuck_storyline_2_76b2fe88:
@@ -186,7 +186,7 @@ translate zh_Hans wife_mark_cuck_storyline_2_4659cc53:
 translate zh_Hans wife_mark_cuck_storyline_2_d4561157:
 
     # nvljohn "But you enjoyed fucking my wife, right?"
-    nvljohn "但你 XTAG0X 我妻子很开心，对吧？"
+    nvljohn "但你和我妻子做的时候很享受，对吧？"
 
 # game/scripts/dialogues/wife/wife_mark_cuck_storyline.rpy:129
 translate zh_Hans wife_mark_cuck_storyline_2_184d7b6b:
@@ -480,7 +480,7 @@ translate zh_Hans wife_mark_cuck_storyline_2_4cdc7732:
 translate zh_Hans wife_mark_cuck_storyline_2_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_mark_cuck_storyline.rpy:257
 translate zh_Hans wife_mark_cuck_storyline_3_4bf85411:
@@ -854,7 +854,7 @@ translate zh_Hans wife_mark_cuck_storyline_3_21fdc4a0:
 translate zh_Hans wife_mark_cuck_storyline_3_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_mark_cuck_storyline.rpy:419
 translate zh_Hans wife_mark_cuck_storyline_4_a118addb:
@@ -994,7 +994,7 @@ translate zh_Hans wife_mark_cuck_storyline_4_a404670d:
 translate zh_Hans wife_mark_cuck_storyline_4_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_mark_cuck_storyline.rpy:491
 translate zh_Hans wife_mark_cuck_storyline_5_76b2fe88:
@@ -1174,7 +1174,7 @@ translate zh_Hans wife_mark_cuck_storyline_5_a7aef57f:
 translate zh_Hans wife_mark_cuck_storyline_5_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_mark_cuck_storyline.rpy:586
 translate zh_Hans wife_mark_cuck_storyline_6_76b2fe88:
@@ -1726,7 +1726,7 @@ translate zh_Hans wife_mark_cuck_storyline_6_a231b118:
 translate zh_Hans wife_mark_cuck_storyline_6_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_mark_cuck_storyline.rpy:813
 translate zh_Hans wife_mark_cuck_storyline_7_f870c2b0:
@@ -1962,7 +1962,7 @@ translate zh_Hans wife_mark_cuck_storyline_7_9d51738b:
 translate zh_Hans wife_mark_cuck_storyline_7_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_mark_cuck_storyline.rpy:925
 translate zh_Hans wife_mark_cuck_storyline_8_a118addb:
@@ -2120,7 +2120,7 @@ translate zh_Hans wife_mark_cuck_storyline_8_a404670d:
 translate zh_Hans wife_mark_cuck_storyline_8_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_mark_cuck_storyline.rpy:1005
 translate zh_Hans wife_mark_cuck_storyline_9_76b2fe88:
@@ -2300,7 +2300,7 @@ translate zh_Hans wife_mark_cuck_storyline_9_a7aef57f:
 translate zh_Hans wife_mark_cuck_storyline_9_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_mark_cuck_storyline.rpy:1100
 translate zh_Hans wife_mark_cuck_storyline_10_76b2fe88:
@@ -2852,7 +2852,7 @@ translate zh_Hans wife_mark_cuck_storyline_10_a231b118:
 translate zh_Hans wife_mark_cuck_storyline_10_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_mark_cuck_storyline.rpy:1328
 translate zh_Hans wife_mark_cuck_storyline_11_debdc4f2:
@@ -3034,7 +3034,7 @@ translate zh_Hans wife_mark_cuck_storyline_11_5e1abfc0:
 translate zh_Hans wife_mark_cuck_storyline_11_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_mark_cuck_storyline.rpy:1418
 translate zh_Hans wife_mark_cuck_storyline_12_77c7e551:
@@ -3216,7 +3216,7 @@ translate zh_Hans wife_mark_cuck_storyline_12_648c6c77:
 translate zh_Hans wife_mark_cuck_storyline_12_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_mark_cuck_storyline.rpy:1507
 translate zh_Hans wife_mark_cuck_storyline_13_82e01826:
@@ -3922,13 +3922,13 @@ translate zh_Hans wife_mark_cuck_storyline_14_0afe9d90:
 translate zh_Hans wife_mark_cuck_storyline_14_da475e50:
 
     # nvlwife "I promise 😉"
-    nvlwife "I promise 😉|我保证 😉"
+    nvlwife "我保证 😉"
 
 # game/scripts/dialogues/wife/wife_mark_cuck_storyline.rpy:1892
 translate zh_Hans wife_mark_cuck_storyline_14_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_mark_cuck_storyline.rpy:1908
 translate zh_Hans wife_mark_cuck_storyline_15_9d4ce000:
@@ -4122,11 +4122,10 @@ translate zh_Hans wife_mark_cuck_storyline_15_feca9abf:
 translate zh_Hans wife_mark_cuck_storyline_15_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 translate zh_Hans strings:
 
     # scripts/dialogues/wife/wife_mark_cuck_storyline.rpy:277
     old "We could do it at the club"
     new "我们可以去俱乐部做"
-

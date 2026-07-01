@@ -390,7 +390,7 @@ translate zh_Hans wife_fuckstagram_storyline_0_19eec72a:
 translate zh_Hans wife_fuckstagram_storyline_0_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:253
 translate zh_Hans wife_fuckstagram_storyline_0_after_cee90d41:
@@ -830,7 +830,7 @@ translate zh_Hans wife_fuckstagram_storyline_1_2b991cbc:
 translate zh_Hans wife_fuckstagram_storyline_1_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:458
 translate zh_Hans wife_fuckstagram_storyline_1_after_a820b588:
@@ -1378,7 +1378,7 @@ translate zh_Hans wife_fuckstagram_storyline_2_79375e5a:
 translate zh_Hans wife_fuckstagram_storyline_2_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:688
 translate zh_Hans wife_fuckstagram_storyline_3_9ae601da:
@@ -1824,7 +1824,7 @@ translate zh_Hans wife_fuckstagram_storyline_3_e7d7b236:
 translate zh_Hans wife_fuckstagram_storyline_3_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:871
 translate zh_Hans wife_fuckstagram_storyline_4_94cf9329:
@@ -2234,7 +2234,7 @@ translate zh_Hans wife_fuckstagram_storyline_4_a2211a97:
 translate zh_Hans wife_fuckstagram_storyline_4_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:1056
 translate zh_Hans wife_fuckstagram_storyline_4_after_dad91148:
@@ -2246,25 +2246,25 @@ translate zh_Hans wife_fuckstagram_storyline_4_after_dad91148:
 translate zh_Hans wife_fuckstagram_storyline_4_after_c897ace5:
 
     # "{i}Damn, this is so..."
-    "{i}Damn, this is so...|{i}该死，这感觉真是……"
+    "{i}该死，这感觉真是……"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:1060
 translate zh_Hans wife_fuckstagram_storyline_4_after_87c88dea:
 
     # "{i}I'm incredibly aroused"
-    "{i}I'm incredibly aroused|{i}我他妈的欲火焚身。"
+    "{i}我他妈的欲火焚身。"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:1062
 translate zh_Hans wife_fuckstagram_storyline_4_after_923d8980:
 
     # "{i}This conversation really turned me on"
-    "{i}This conversation really turned me on|{i}这段对话真把我撩拨得发情了。"
+    "{i}这段对话真把我撩拨得发情了。"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:1064
 translate zh_Hans wife_fuckstagram_storyline_4_after_cba5be88:
 
     # "{i}I never thought I'd feel like this"
-    "{i}I never thought I'd feel like this|{i}我从没想过自己会这么骚动。"
+    "{i}我从没想过自己会这么骚动。"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:1066
 translate zh_Hans wife_fuckstagram_storyline_4_after_083963b5:
@@ -2276,19 +2276,19 @@ translate zh_Hans wife_fuckstagram_storyline_4_after_083963b5:
 translate zh_Hans wife_fuckstagram_storyline_4_after_494e7843:
 
     # "{i}Need to text my wife"
-    "{i}Need to text my wife|{i}得给凯茜发短信了。"
+    "{i}得给凯茜发短信了。"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:1070
 translate zh_Hans wife_fuckstagram_storyline_4_after_a4c76e59:
 
     # "{i}Tell her she's meeting one of her followers tonight"
-    "{i}Tell her she's meeting one of her followers tonight|{i}告诉她今晚要见她的一个舔狗。"
+    "{i}告诉她今晚要见她的一个舔狗。"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:1072
 translate zh_Hans wife_fuckstagram_storyline_4_after_cc3661b3:
 
     # "{i}That'll make her happy"
-    "{i}That'll make her happy|{i}那样她会很开心的。"
+    "{i}那样她会很开心的。"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:1091
 translate zh_Hans wife_fuckstagram_storyline_5_377ae757:
@@ -2434,7 +2434,7 @@ translate zh_Hans wife_fuckstagram_storyline_5_521c7406:
 translate zh_Hans wife_fuckstagram_storyline_5_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:1170
 translate zh_Hans wife_fuckstagram_storyline_6_91d1149b:
@@ -2724,13 +2724,13 @@ translate zh_Hans wife_fuckstagram_storyline_6_16e5e245:
 translate zh_Hans wife_fuckstagram_storyline_6_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:1306
 translate zh_Hans wife_fuckstagram_storyline_6_after_b1adbca9:
 
     # "{i}I need to check her fuckstagram more often since she doesn't mind"
-    "{i}I need to check her fuckstagram more often since she doesn't mind|{i}既然凯茜不介意，我就得更频繁地查看她的骚浪圈了。"
+    "{i}既然凯茜不介意，我就得更频繁地查看她的骚浪圈了。"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:1308
 translate zh_Hans wife_fuckstagram_storyline_6_after_ed924672:
@@ -2742,19 +2742,19 @@ translate zh_Hans wife_fuckstagram_storyline_6_after_ed924672:
 translate zh_Hans wife_fuckstagram_storyline_6_after_720cee93:
 
     # "{i}It's really arousing"
-    "{i}It's really arousing|{i}这真让人欲火焚身。"
+    "{i}这真让人欲火焚身。"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:1312
 translate zh_Hans wife_fuckstagram_storyline_6_after_489930ef:
 
     # "{i}I want to chat with her followers"
-    "{i}I want to chat with her followers|{i}我想和她的舔狗们聊骚。"
+    "{i}我想和她的舔狗们聊骚。"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:1314
 translate zh_Hans wife_fuckstagram_storyline_6_after_7622e382:
 
     # "{i}To chat with them as if my wife is a slut who's ready for anything"
-    "{i}To chat with them as if my wife is a slut who's ready for anything|{i}跟他们聊骚，就好像凯茜是个什么都愿意做的荡妇。"
+    "{i}跟他们聊骚，就好像凯茜是个什么都愿意做的荡妇。"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:1316
 translate zh_Hans wife_fuckstagram_storyline_6_after_a0d98f34:
@@ -2766,37 +2766,37 @@ translate zh_Hans wife_fuckstagram_storyline_6_after_a0d98f34:
 translate zh_Hans wife_fuckstagram_storyline_6_after_11707470:
 
     # "{i}It's incredibly arousing"
-    "{i}It's incredibly arousing|{i}这令人无比发情。"
+    "{i}这令人无比发情。"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:1320
 translate zh_Hans wife_fuckstagram_storyline_6_after_aadc9b02:
 
     # "{i}I want to log in right now"
-    "{i}I want to log in right now|{i}我想立即登录。"
+    "{i}我想立即登录。"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:1322
 translate zh_Hans wife_fuckstagram_storyline_6_after_063c139f:
 
     # "{i}But I need to work"
-    "{i}But I need to work|{i}但我得工作。"
+    "{i}但我得工作。"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:1324
 translate zh_Hans wife_fuckstagram_storyline_6_after_e98fbc15:
 
     # "{i}Maybe I'll try tonight"
-    "{i}Maybe I'll try tonight|{i}也许我今晚会试试。"
+    "{i}也许我今晚会试试。"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:1326
 translate zh_Hans wife_fuckstagram_storyline_6_after_c0cf7aa5:
 
     # "{i}Or tomorrow"
-    "{i}Or tomorrow|{i}或者明天。"
+    "{i}或者明天。"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:1328
 translate zh_Hans wife_fuckstagram_storyline_6_after_b048e656:
 
     # "{i}I should also find someone else for her to hook up with"
-    "{i}I should also find someone else for her to hook up with|{i}我还应该给凯茜找个其他人约炮。"
+    "{i}我还应该给凯茜找个其他人约炮。"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:1345
 translate zh_Hans wife_fuckstagram_storyline_7_a2afed71:
@@ -3092,7 +3092,7 @@ translate zh_Hans wife_fuckstagram_storyline_7_d9470c94:
 translate zh_Hans wife_fuckstagram_storyline_7_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:1474
 translate zh_Hans wife_fuckstagram_storyline_8_3c16eeec:
@@ -3688,7 +3688,7 @@ translate zh_Hans wife_fuckstagram_storyline_8_e5809e84:
 translate zh_Hans wife_fuckstagram_storyline_8_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:1727
 translate zh_Hans wife_fuckstagram_storyline_9_27f80237:
@@ -3744,7 +3744,7 @@ translate zh_Hans wife_fuckstagram_storyline_9_521c7406:
 translate zh_Hans wife_fuckstagram_storyline_9_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:1776
 translate zh_Hans wife_fuckstagram_storyline_10_e364b639:
@@ -3968,7 +3968,7 @@ translate zh_Hans wife_fuckstagram_storyline_10_2b991cbc:
 translate zh_Hans wife_fuckstagram_storyline_10_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:1886
 translate zh_Hans wife_fuckstagram_storyline_11_3c16eeec:
@@ -4276,7 +4276,7 @@ translate zh_Hans wife_fuckstagram_storyline_11_6c5de749_1:
 translate zh_Hans wife_fuckstagram_storyline_11_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:2033
 translate zh_Hans wife_fuckstagram_storyline_12_8e27cf85:
@@ -4458,7 +4458,7 @@ translate zh_Hans wife_fuckstagram_storyline_12_0f66dde8:
 translate zh_Hans wife_fuckstagram_storyline_12_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:2120
 translate zh_Hans wife_fuckstagram_storyline_12_after_f378fd80:
@@ -4712,7 +4712,7 @@ translate zh_Hans wife_fuckstagram_storyline_13_9ef137e4:
 translate zh_Hans wife_fuckstagram_storyline_13_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:2252
 translate zh_Hans wife_fuckstagram_storyline_14_a1d5b3d5:
@@ -5092,7 +5092,7 @@ translate zh_Hans wife_fuckstagram_storyline_14_75d0f1eb:
 translate zh_Hans wife_fuckstagram_storyline_14_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:2416
 translate zh_Hans wife_fuckstagram_storyline_15_87fc9ec1:
@@ -5358,7 +5358,7 @@ translate zh_Hans wife_fuckstagram_storyline_15_521c7406:
 translate zh_Hans wife_fuckstagram_storyline_15_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:2543
 translate zh_Hans wife_fuckstagram_storyline_16_06cf7092:
@@ -5576,7 +5576,7 @@ translate zh_Hans wife_fuckstagram_storyline_16_21a6a730:
 translate zh_Hans wife_fuckstagram_storyline_16_36d57897:
 
     # nvlwife "Will you show me?"
-    nvlwife "XTAG0X你会给我看吗？"
+    nvlwife "你会给我看吗？"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:2633
 translate zh_Hans wife_fuckstagram_storyline_16_5b57324c:
@@ -6224,7 +6224,7 @@ translate zh_Hans wife_fuckstagram_storyline_16_e6995590:
 translate zh_Hans wife_fuckstagram_storyline_16_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:2887
 translate zh_Hans wife_fuckstagram_storyline_17_7ced4ffb:
@@ -6604,7 +6604,7 @@ translate zh_Hans wife_fuckstagram_storyline_17_f92707bf:
 translate zh_Hans wife_fuckstagram_storyline_17_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:3048
 translate zh_Hans wife_fuckstagram_storyline_18_307de872:
@@ -7116,7 +7116,7 @@ translate zh_Hans wife_fuckstagram_storyline_18_3b520da3:
 translate zh_Hans wife_fuckstagram_storyline_18_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:3262
 translate zh_Hans wife_fuckstagram_storyline_19_591e09fc:
@@ -8078,7 +8078,7 @@ translate zh_Hans wife_fuckstagram_storyline_19_d0e06d4a:
 translate zh_Hans wife_fuckstagram_storyline_19_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:3644
 translate zh_Hans wife_fuckstagram_storyline_20_81103122:
@@ -8416,7 +8416,7 @@ translate zh_Hans wife_fuckstagram_storyline_20_623ce74c:
 translate zh_Hans wife_fuckstagram_storyline_20_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:3789
 translate zh_Hans wife_fuckstagram_storyline_21_6179d141:
@@ -8700,7 +8700,7 @@ translate zh_Hans wife_fuckstagram_storyline_21_66058df4:
 translate zh_Hans wife_fuckstagram_storyline_21_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:3931
 translate zh_Hans wife_fuckstagram_storyline_22_3098c13d:
@@ -9026,7 +9026,7 @@ translate zh_Hans wife_fuckstagram_storyline_22_521c7406:
 translate zh_Hans wife_fuckstagram_storyline_22_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:4086
 translate zh_Hans wife_fuckstagram_storyline_23_09266dda:
@@ -9136,7 +9136,7 @@ translate zh_Hans wife_fuckstagram_storyline_23_4bb63f75:
 translate zh_Hans wife_fuckstagram_storyline_23_d3a3f820:
 
     # nvlwife "I see 😊"
-    nvlwife "I see 😊|我明白了😊"
+    nvlwife "我明白了😊"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:4124
 translate zh_Hans wife_fuckstagram_storyline_23_4f76ff5b:
@@ -9310,7 +9310,7 @@ translate zh_Hans wife_fuckstagram_storyline_23_df56f4ab:
 translate zh_Hans wife_fuckstagram_storyline_23_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:4223
 translate zh_Hans wife_fuckstagram_storyline_24_6fa1ecb5:
@@ -10044,7 +10044,7 @@ translate zh_Hans wife_fuckstagram_storyline_24_062e49c5:
 translate zh_Hans wife_fuckstagram_storyline_24_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:4518
 translate zh_Hans wife_fuckstagram_storyline_24_after_7806b5bf:
@@ -10080,7 +10080,7 @@ translate zh_Hans wife_fuckstagram_storyline_24_after_a07103d1:
 translate zh_Hans wife_fuckstagram_storyline_24_after_6a81da64:
 
     # "{i}Since nothing's going to happen between my wife and them anyway"
-    "{i}反正我老婆 XTAG1X 和他们之间也不会发生什么。"
+    "{i}反正我老婆和他们之间也不会发生什么。"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:4532
 translate zh_Hans wife_fuckstagram_storyline_24_after_040c7f11:
@@ -10148,7 +10148,7 @@ translate zh_Hans wife_fuckstagram_storyline_25_76f71d06:
 translate zh_Hans wife_fuckstagram_storyline_25_d3a3f820:
 
     # nvlwife "I see 😊"
-    nvlwife "I see 😊|我明白了😊"
+    nvlwife "我明白了😊"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:4575
 translate zh_Hans wife_fuckstagram_storyline_25_fc3eac4f:
@@ -10796,7 +10796,7 @@ translate zh_Hans wife_fuckstagram_storyline_25_e6995590:
 translate zh_Hans wife_fuckstagram_storyline_25_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:4854
 translate zh_Hans wife_fuckstagram_storyline_26_91e95910:
@@ -11092,7 +11092,7 @@ translate zh_Hans wife_fuckstagram_storyline_26_4cd6920c:
 translate zh_Hans wife_fuckstagram_storyline_26_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:4987
 translate zh_Hans wife_fuckstagram_storyline_27_71f3d6e2:
@@ -11580,7 +11580,7 @@ translate zh_Hans wife_fuckstagram_storyline_27_75b7cf86:
 translate zh_Hans wife_fuckstagram_storyline_27_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:5191
 translate zh_Hans wife_fuckstagram_storyline_28_9ae601da:
@@ -11864,7 +11864,7 @@ translate zh_Hans wife_fuckstagram_storyline_28_280d13cb:
 translate zh_Hans wife_fuckstagram_storyline_28_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:5322
 translate zh_Hans wife_fuckstagram_storyline_29_9ae601da:
@@ -12214,7 +12214,7 @@ translate zh_Hans wife_fuckstagram_storyline_29_52892467:
 translate zh_Hans wife_fuckstagram_storyline_29_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:5475
 translate zh_Hans wife_fuckstagram_storyline_30_102937cf:
@@ -13284,7 +13284,7 @@ translate zh_Hans wife_fuckstagram_storyline_30_3412b289:
 translate zh_Hans wife_fuckstagram_storyline_30_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:5873
 translate zh_Hans wife_fuckstagram_storyline_30_after_323922a1:
@@ -13838,7 +13838,7 @@ translate zh_Hans wife_fuckstagram_storyline_31_036de206:
 translate zh_Hans wife_fuckstagram_storyline_31_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 translate zh_Hans strings:
 
@@ -13880,7 +13880,7 @@ translate zh_Hans strings:
 
     # scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:2625
     old "Will you show me?"
-    new "XTAG0X你会给我看吗？"
+    new "你会给我看吗？"
 
     # scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:3066
     old "Tease him"
@@ -13957,4 +13957,3 @@ translate zh_Hans strings:
     # scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:5974
     old "The more cocks, the better"
     new "屌越多越好"
-

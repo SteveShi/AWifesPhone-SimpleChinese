@@ -312,7 +312,7 @@ translate zh_Hans daughter_storyline_85_65b45c36:
 translate zh_Hans daughter_storyline_85_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:265
 translate zh_Hans daughter_storyline_86_ef0fa7a2:
@@ -506,7 +506,7 @@ translate zh_Hans daughter_storyline_86_9a050a28:
 translate zh_Hans daughter_storyline_86_b807b903:
 
     # nvljenna "Why not? 😊"
-    nvljenna "Why not? 😊|为什么不呢？😊"
+    nvljenna "为什么不呢？😊"
 
 # game/scripts/dialogues/daughter_storyline.rpy:335
 translate zh_Hans daughter_storyline_86_c48e8d56:
@@ -518,7 +518,7 @@ translate zh_Hans daughter_storyline_86_c48e8d56:
 translate zh_Hans daughter_storyline_86_a60146cb:
 
     # nvljenna "I think the video would've turned out great 😉"
-    nvljenna "I think the video would've turned out great 😉|我觉得那视频肯定会拍得超棒 😉"
+    nvljenna "我觉得那视频肯定会拍得超棒 😉"
 
 # game/scripts/dialogues/daughter_storyline.rpy:339
 translate zh_Hans daughter_storyline_86_ed6853fb:
@@ -554,7 +554,7 @@ translate zh_Hans daughter_storyline_86_c38508d9:
 translate zh_Hans daughter_storyline_86_844f6da7:
 
     # nvljenna "Ask her yourself 😊"
-    nvljenna "Ask her yourself 😊|你自己去问问她吧😊"
+    nvljenna "你自己去问问她吧😊"
 
 # game/scripts/dialogues/daughter_storyline.rpy:351
 translate zh_Hans daughter_storyline_86_92695cfa:
@@ -668,109 +668,109 @@ translate zh_Hans daughter_storyline_86_6a20c7ed:
 translate zh_Hans daughter_storyline_86_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:414
 translate zh_Hans daughter_storyline_86_after_fb2a5941:
 
     # mc "{i}Elsa..."
-    mc "{i}Elsa...|{i}艾尔莎……"
+    mc "{i}艾尔莎……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:416
 translate zh_Hans daughter_storyline_86_after_a58c1c93:
 
     # mc "{i}Damn, did that really happen to her?"
-    mc "{i}Damn, did that really happen to her?|{i}天哪，她真被那样玩弄了吗？"
+    mc "{i}天哪，她真被那样玩弄了吗？"
 
 # game/scripts/dialogues/daughter_storyline.rpy:418
 translate zh_Hans daughter_storyline_86_after_337fc782:
 
     # mc "{i}She..."
-    mc "{i}She...|{i}她……"
+    mc "{i}她……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:420
 translate zh_Hans daughter_storyline_86_after_ed31fdc9:
 
     # mc "{i}Maybe I should text her"
-    mc "{i}Maybe I should text her|{i}或许我该给她发个信息。"
+    mc "{i}或许我该给她发个信息。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:422
 translate zh_Hans daughter_storyline_86_after_621c94ed:
 
     # mc "{i}Find out how she's feeling"
-    mc "{i}Find out how she's feeling|{i}打听打听她现在感觉如何。"
+    mc "{i}打听打听她现在感觉如何。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:424
 translate zh_Hans daughter_storyline_86_after_80bb39bf:
 
     # mc "{i}Damn, this is so..."
-    mc "{i}Damn, this is so...|{i}该死，这感觉真是……"
+    mc "{i}该死，这感觉真是……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:426
 translate zh_Hans daughter_storyline_86_after_e9824f86:
 
     # mc "{i}Why do I always get so aroused when something like this happens?"
-    mc "{i}Why do I always get so aroused when something like this happens?|{i}为什么每次遇到这种事，我下面都会这么骚动？"
+    mc "{i}为什么每次遇到这种事，我下面都会这么骚动？"
 
 # game/scripts/dialogues/daughter_storyline.rpy:428
 translate zh_Hans daughter_storyline_86_after_7f0a2afa:
 
     # mc "{i}Well, I know why I get aroused"
-    mc "{i}Well, I know why I get aroused|{i}嗯，我知道我为什么会骚动。"
+    mc "{i}嗯，我知道我为什么会骚动。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:430
 translate zh_Hans daughter_storyline_86_after_3e01ec8c:
 
     # mc "{i}But still, it feels so strange every time"
-    mc "{i}But still, it feels so strange every time|{i}但每次都还是觉得好奇怪。"
+    mc "{i}但每次都还是觉得好奇怪。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:432
 translate zh_Hans daughter_storyline_86_after_ad65502e:
 
     # mc "{i}It always feels like I'm doing something wrong"
-    mc "{i}It always feels like I'm doing something wrong|{i}我总觉得自己做错了什么。"
+    mc "{i}我总觉得自己做错了什么。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:434
 translate zh_Hans daughter_storyline_86_after_82b9f930:
 
     # mc "{i}Uhh!"
-    mc "{i}Uhh!|{i}呃！"
+    mc "{i}呃！"
 
 # game/scripts/dialogues/daughter_storyline.rpy:436
 translate zh_Hans daughter_storyline_86_after_432a193f:
 
     # mc "{i}Yes, I need to text her"
-    mc "{i}Yes, I need to text her|{i}是的，我得给她发信息。"
+    mc "{i}是的，我得给她发信息。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:438
 translate zh_Hans daughter_storyline_86_after_c450339b:
 
     # mc "{i}I want to hear what she has to say"
-    mc "{i}I want to hear what she has to say|{i}我想听听她会怎么说。"
+    mc "{i}我想听听她会怎么说。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:440
 translate zh_Hans daughter_storyline_86_after_6037f92a:
 
     # mc "{i}I wonder if she's willing to tell me what happened"
-    mc "{i}I wonder if she's willing to tell me what happened|{i}不知道她愿不愿意告诉我到底发生了什么。"
+    mc "{i}不知道她愿不愿意告诉我到底发生了什么。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:442
 translate zh_Hans daughter_storyline_86_after_3aabd907:
 
     # mc "{i}If not, what will she come up with?"
-    mc "{i}If not, what will she come up with?|{i}如果她不肯说，又会编出什么谎话？"
+    mc "{i}如果她不肯说，又会编出什么谎话？"
 
 # game/scripts/dialogues/daughter_storyline.rpy:444
 translate zh_Hans daughter_storyline_86_after_2c504968:
 
     # mc "{i}Damn, this is turning me on so much"
-    mc "{i}Damn, this is turning me on so much|{i}该死，这真是把我搞得欲火焚身！"
+    mc "{i}该死，这真是把我搞得欲火焚身！"
 
 # game/scripts/dialogues/daughter_storyline.rpy:446
 translate zh_Hans daughter_storyline_86_after_e0acc965:
 
     # mc "{i}I need to text her quickly"
-    mc "{i}I need to text her quickly|{i}我得赶紧给她发信息了。"
+    mc "{i}我得赶紧给她发信息了。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:465
 translate zh_Hans daughter_storyline_87_b56bde17:
@@ -826,7 +826,7 @@ translate zh_Hans daughter_storyline_87_afd887be:
 translate zh_Hans daughter_storyline_87_09ec8161:
 
     # nvljohn "You wanted to follow [d_name_is]"
-    nvljohn "You wanted to follow [d_name_is]|你想关注 [d_name_is]"
+    nvljohn "你想关注 [d_name_is]"
 
 # game/scripts/dialogues/daughter_storyline.rpy:485
 translate zh_Hans daughter_storyline_87_148618db:
@@ -898,7 +898,7 @@ translate zh_Hans daughter_storyline_87_278aeecb:
 translate zh_Hans daughter_storyline_87_1a967ebe:
 
     # nvlhelsa "I decided to give [d_name_is] the right to choose how to live her life"
-    nvlhelsa "I decided to give [d_name_is] the right to choose how to live her life|我决定给予 [d_name_is] 凯茜选择自己生活方式的权利。"
+    nvlhelsa "我决定给予 [d_name_is] 凯茜选择自己生活方式的权利。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:509
 translate zh_Hans daughter_storyline_87_4483794c:
@@ -988,55 +988,55 @@ translate zh_Hans daughter_storyline_87_722ea763:
 translate zh_Hans daughter_storyline_87_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:566
 translate zh_Hans daughter_storyline_87_after_003edb73:
 
     # mc "{i}She decided not to tell me anything"
-    mc "{i}She decided not to tell me anything|{i}她决定什么都不告诉我。"
+    mc "{i}她决定什么都不告诉我。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:568
 translate zh_Hans daughter_storyline_87_after_e8b39101:
 
     # mc "{i}Sigh, too bad"
-    mc "{i}Sigh, too bad|{i}唉，真可惜。"
+    mc "{i}唉，真可惜。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:570
 translate zh_Hans daughter_storyline_87_after_ba259959:
 
     # mc "{i}I knew she wouldn't admit it"
-    mc "{i}I knew she wouldn't admit it|{i}我就知道她不会承认的。"
+    mc "{i}我就知道她不会承认的。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:572
 translate zh_Hans daughter_storyline_87_after_6df9b5e1:
 
     # mc "{i}I was more interested in what exactly she would say"
-    mc "{i}I was more interested in what exactly she would say|{i}我更感兴趣的是她究竟会怎么说。"
+    mc "{i}我更感兴趣的是她究竟会怎么说。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:574
 translate zh_Hans daughter_storyline_87_after_a282fa48:
 
     # mc "{i}How she would say that nothing happened"
-    mc "{i}How she would say that nothing happened|{i}她会怎么说得好像什么都没发生过一样。"
+    mc "{i}她会怎么说得好像什么都没发生过一样。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:576
 translate zh_Hans daughter_storyline_87_after_621804ef:
 
     # mc "{i}Even though in reality..."
-    mc "{i}Even though in reality...|{i}尽管事实上……"
+    mc "{i}尽管事实上……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:578
 translate zh_Hans daughter_storyline_87_after_2385c8d6:
 
     # mc "{i}Anyway"
-    mc "{i}Anyway|{i}算了。"
+    mc "{i}算了。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:580
 translate zh_Hans daughter_storyline_87_after_69407ae9:
 
     # mc "{i}I need to get on with things"
-    mc "{i}I need to get on with things|{i}我得继续忙我的事了。"
+    mc "{i}我得继续忙我的事了。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:599
 translate zh_Hans daughter_storyline_88_b500b157:
@@ -1362,7 +1362,7 @@ translate zh_Hans daughter_storyline_88_1c8896b5:
 translate zh_Hans daughter_storyline_88_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:744
 translate zh_Hans daughter_storyline_89_1ed49976:
@@ -1760,7 +1760,7 @@ translate zh_Hans daughter_storyline_89_01efeeb6:
 translate zh_Hans daughter_storyline_89_5ce6758f:
 
     # nvljohn "I love you too, [d_name_is]"
-    nvljohn "I love you too, [d_name_is]|我也爱你，[d_name_is]。"
+    nvljohn "我也爱你，[d_name_is]。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:882
 translate zh_Hans daughter_storyline_89_e46a1751:
@@ -1778,7 +1778,7 @@ translate zh_Hans daughter_storyline_89_e630db56:
 translate zh_Hans daughter_storyline_89_d3e587bb:
 
     # nvld "I'll take a couple of photos for you 😉"
-    nvld "I'll take a couple of photos for you 😉|我给你拍几张照片吧 😉"
+    nvld "我给你拍几张照片吧 😉"
 
 # game/scripts/dialogues/daughter_storyline.rpy:888
 translate zh_Hans daughter_storyline_89_521c7406:
@@ -1838,7 +1838,7 @@ translate zh_Hans daughter_storyline_89_ec35c6a5:
 translate zh_Hans daughter_storyline_89_a6118934:
 
     # nvld "But this will be even better 😊"
-    nvld "But this will be even better 😊|但这样会更好😊"
+    nvld "但这样会更好😊"
 
 # game/scripts/dialogues/daughter_storyline.rpy:908
 translate zh_Hans daughter_storyline_89_f20e37ea:
@@ -1904,7 +1904,7 @@ translate zh_Hans daughter_storyline_89_f20e37ea_1:
 translate zh_Hans daughter_storyline_89_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:959
 translate zh_Hans daughter_storyline_90_48f70817:
@@ -2020,7 +2020,7 @@ translate zh_Hans daughter_storyline_90_4e4bbf7b:
 translate zh_Hans daughter_storyline_90_8f720a4b:
 
     # nvljenna "It turns you on so much 😊"
-    nvljenna "It turns you on so much 😊|这让你欲火焚身，是吧？😊"
+    nvljenna "这让你欲火焚身，是吧？😊"
 
 # game/scripts/dialogues/daughter_storyline.rpy:999
 translate zh_Hans daughter_storyline_90_12b1e191:
@@ -2104,7 +2104,7 @@ translate zh_Hans daughter_storyline_90_1a65da2c:
 translate zh_Hans daughter_storyline_90_82b9937d:
 
     # nvljenna "If she enjoys it 😊"
-    nvljenna "If she enjoys it 😊|如果她喜欢的话😊"
+    nvljenna "如果她喜欢的话😊"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1035
 translate zh_Hans daughter_storyline_90_477f8754:
@@ -2224,7 +2224,7 @@ translate zh_Hans daughter_storyline_90_e5fa0cad:
 translate zh_Hans daughter_storyline_90_dbcb1789:
 
     # nvljenna "Well, then think about it 😊"
-    nvljenna "Well, then think about it 😊|嗯，那就好好想想吧😊"
+    nvljenna "嗯，那就好好想想吧😊"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1075
 translate zh_Hans daughter_storyline_90_c68c63dc:
@@ -2242,7 +2242,7 @@ translate zh_Hans daughter_storyline_90_02a7ebab:
 translate zh_Hans daughter_storyline_90_3df172e0:
 
     # nvljenna "Isn't that right? 😊"
-    nvljenna "Isn't that right? 😊|对吧？😊"
+    nvljenna "对吧？😊"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1081
 translate zh_Hans daughter_storyline_90_27099b24:
@@ -2260,7 +2260,7 @@ translate zh_Hans daughter_storyline_90_e5ebf159:
 translate zh_Hans daughter_storyline_90_89dbcddd:
 
     # nvljenna "Alright, think about it 😊"
-    nvljenna "Alright, think about it 😊|好吧，好好想想😊"
+    nvljenna "好吧，好好想想😊"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1087
 translate zh_Hans daughter_storyline_90_ced53a01:
@@ -2278,7 +2278,7 @@ translate zh_Hans daughter_storyline_90_521c7406:
 translate zh_Hans daughter_storyline_90_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1124
 translate zh_Hans daughter_storyline_91_9cc45c23:
@@ -2316,7 +2316,7 @@ translate zh_Hans daughter_storyline_91_d1c6b7c6:
 translate zh_Hans daughter_storyline_91_d1b7b626:
 
     # nvld "To let you know I'm going to Scott's 😊"
-    nvld "To let you know I'm going to Scott's 😊|告诉你一声，我要去斯科特家了😊"
+    nvld "告诉你一声，我要去斯科特家了😊"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1138
 translate zh_Hans daughter_storyline_91_d3ab4ca6:
@@ -2376,7 +2376,7 @@ translate zh_Hans daughter_storyline_91_a45c875e:
 translate zh_Hans daughter_storyline_91_58cdec9e:
 
     # nvld "I see 😊"
-    nvld "I see 😊|我明白了😊"
+    nvld "我明白了😊"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1158
 translate zh_Hans daughter_storyline_91_c67301ce:
@@ -2424,7 +2424,7 @@ translate zh_Hans daughter_storyline_91_521c7406:
 translate zh_Hans daughter_storyline_91_1195f311:
 
     # nvld "Wish me luck 😉"
-    nvld "Wish me luck 😉|祝我好运 😉"
+    nvld "祝我好运 😉"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1174
 translate zh_Hans daughter_storyline_91_a84548f3:
@@ -2436,31 +2436,31 @@ translate zh_Hans daughter_storyline_91_a84548f3:
 translate zh_Hans daughter_storyline_91_b52e79d4:
 
     # nvld "Thanks ❤️"
-    nvld "Thanks ❤️|谢谢❤️"
+    nvld "谢谢❤️"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1188
 translate zh_Hans daughter_storyline_91_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1203
 translate zh_Hans daughter_storyline_91_after_b7465daa:
 
     # mc "{i}I wonder how they'll fuck her..."
-    mc "{i}I wonder how they'll fuck her...|{i}我猜他们会怎么肏她呢……"
+    mc "{i}我猜他们会怎么肏她呢……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1205
 translate zh_Hans daughter_storyline_91_after_8b5c0182:
 
     # mc "{i}And will they start right away?"
-    mc "{i}And will they start right away?|{i}他们会直接开干吗？"
+    mc "{i}他们会直接开干吗？"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1207
 translate zh_Hans daughter_storyline_91_after_ac13c793:
 
     # mc "{i}Or will they just sit around and drink first?"
-    mc "{i}Or will they just sit around and drink first?|{i}还是会先坐下来喝点酒再玩？"
+    mc "{i}还是会先坐下来喝点酒再玩？"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1209
 translate zh_Hans daughter_storyline_91_after_a04ce5ad:
@@ -2472,7 +2472,7 @@ translate zh_Hans daughter_storyline_91_after_a04ce5ad:
 translate zh_Hans daughter_storyline_91_after_d2f749b0:
 
     # mc "{i}I think they'll get straight to the main event"
-    mc "{i}I think they'll get straight to the main event|{i}我想他们会直接进入主题，猛干一场。"
+    mc "{i}我想他们会直接进入主题，猛干一场。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1213
 translate zh_Hans daughter_storyline_91_after_d51c2d94:
@@ -2484,7 +2484,7 @@ translate zh_Hans daughter_storyline_91_after_d51c2d94:
 translate zh_Hans daughter_storyline_91_after_82b9f930:
 
     # mc "{i}Uhh!"
-    mc "{i}Uhh!|{i}呃！"
+    mc "{i}呃！"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1217
 translate zh_Hans daughter_storyline_91_after_2439cdd7:
@@ -2508,13 +2508,13 @@ translate zh_Hans daughter_storyline_91_after_8a42fb93:
 translate zh_Hans daughter_storyline_91_after_3a9b4584:
 
     # mc "{i}Wow..."
-    mc "{i}Wow...|{i}哇……"
+    mc "{i}哇……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1225
 translate zh_Hans daughter_storyline_91_after_e14a757c:
 
     # mc "{i}Damn, I never thought before that this could be so enjoyable"
-    mc "{i}Damn, I never thought before that this could be so enjoyable|{i}真没想到，以前从未想过这会如此令人欲罢不能。"
+    mc "{i}真没想到，以前从未想过这会如此令人欲罢不能。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1227
 translate zh_Hans daughter_storyline_91_after_8346de55:
@@ -2526,31 +2526,31 @@ translate zh_Hans daughter_storyline_91_after_8346de55:
 translate zh_Hans daughter_storyline_91_after_9c960196:
 
     # mc "{i}And now..."
-    mc "{i}And now...|{i}而现在……"
+    mc "{i}而现在……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1231
 translate zh_Hans daughter_storyline_91_after_9af77659:
 
     # mc "{i}I can't even imagine my life without all of this"
-    mc "{i}I can't even imagine my life without all of this|{i}我简直无法想象没有这一切的生活。"
+    mc "{i}我简直无法想象没有这一切的生活。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1233
 translate zh_Hans daughter_storyline_91_after_0cecf017:
 
     # mc "{i}Without this pleasure"
-    mc "{i}Without this pleasure|{i}没有这种肉欲的快感。"
+    mc "{i}没有这种肉欲的快感。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1235
 translate zh_Hans daughter_storyline_91_after_c818b180:
 
     # mc "{i}I think I need to relieve myself"
-    mc "{i}I think I need to relieve myself|{i}我想我得去撸一管了。"
+    mc "{i}我想我得去撸一管了。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1237
 translate zh_Hans daughter_storyline_91_after_45a38a4e:
 
     # mc "{i}I'm too aroused"
-    mc "{i}I'm too aroused|{i}我下面太硬了。"
+    mc "{i}我下面太硬了。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1256
 translate zh_Hans daughter_storyline_92_ebcb036b:
@@ -2624,7 +2624,7 @@ translate zh_Hans daughter_storyline_92_c5fb488d:
 translate zh_Hans daughter_storyline_92_b150fc35:
 
     # nvld "This is for you 😉"
-    nvld "This is for you 😉|这是给你的 😉"
+    nvld "这是给你的 😉"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1286
 translate zh_Hans daughter_storyline_92_acd5ade3:
@@ -2738,49 +2738,49 @@ translate zh_Hans daughter_storyline_92_94c42ad0:
 translate zh_Hans daughter_storyline_92_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1351
 translate zh_Hans daughter_storyline_92_after_89cc8493:
 
     # mc "{i}She's not seriously planning to get pregnant, is she?"
-    mc "{i}She's not seriously planning to get pregnant, is she?|{i}她不会真的打算怀上他们的种吧？"
+    mc "{i}她不会真的打算怀上他们的种吧？"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1353
 translate zh_Hans daughter_storyline_92_after_3054f0d8:
 
     # mc "{i}That's..."
-    mc "{i}That's...|{i}那……"
+    mc "{i}那……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1355
 translate zh_Hans daughter_storyline_92_after_751dffcb:
 
     # mc "{i}It's too soon"
-    mc "{i}It's too soon|{i}现在还太早了。"
+    mc "{i}现在还太早了。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1357
 translate zh_Hans daughter_storyline_92_after_3051d7d2:
 
     # mc "{i}She's still a child"
-    mc "{i}She's still a child|{i}她还是个孩子。"
+    mc "{i}她还是个孩子。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1359
 translate zh_Hans daughter_storyline_92_after_4c9e8642:
 
     # mc "{i}Besides, she'd have to raise the child alone"
-    mc "{i}Besides, she'd have to raise the child alone|{i}再说，她还得独自抚养孩子。"
+    mc "{i}再说，她还得独自抚养孩子。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1361
 translate zh_Hans daughter_storyline_92_after_b34fa88a:
 
     # mc "{i}I doubt Scott or any of his friends would want to be involved"
-    mc "{i}I doubt Scott or any of his friends would want to be involved|{i}我怀疑斯科特或他的任何朋友都不想负责。"
+    mc "{i}我怀疑斯科特或他的任何朋友都不想负责。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1363
 translate zh_Hans daughter_storyline_92_after_d0cd44f1:
 
     # mc "{i}They're only interested in fucking"
-    mc "{i}They're only interested in fucking|{i}他们只对肏逼感兴趣。"
+    mc "{i}他们只对肏逼感兴趣。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1365
 translate zh_Hans daughter_storyline_92_after_a04ce5ad:
@@ -2792,13 +2792,13 @@ translate zh_Hans daughter_storyline_92_after_a04ce5ad:
 translate zh_Hans daughter_storyline_92_after_bfe42a80:
 
     # mc "{i}I should probably talk to [d_name_is] about this"
-    mc "{i}I should probably talk to [d_name_is] about this|{i}我或许应该和 [d_name_is] 凯茜谈谈这事。"
+    mc "{i}我或许应该和 [d_name_is] 凯茜谈谈这事。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1369
 translate zh_Hans daughter_storyline_92_after_30343734:
 
     # mc "{i}Make sure she doesn't do something stupid"
-    mc "{i}Make sure she doesn't do something stupid|{i}确保她不会做出什么蠢事。"
+    mc "{i}确保她不会做出什么蠢事。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1371
 translate zh_Hans daughter_storyline_92_after_a04ce5ad_1:
@@ -2816,13 +2816,13 @@ translate zh_Hans daughter_storyline_92_after_a04ce5ad_2:
 translate zh_Hans daughter_storyline_92_after_a5d07f58:
 
     # mc "{i}But what if she gets pregnant tonight?"
-    mc "{i}But what if she gets pregnant tonight?|{i}但如果她今晚就怀上了呢？"
+    mc "{i}但如果她今晚就怀上了呢？"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1377
 translate zh_Hans daughter_storyline_92_after_2c580901:
 
     # mc "{i}What if she's getting pregnant right now?"
-    mc "{i}What if she's getting pregnant right now?|{i}如果她现在就被播种了呢？"
+    mc "{i}如果她现在就被播种了呢？"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1379
 translate zh_Hans daughter_storyline_92_after_a04ce5ad_3:
@@ -2834,25 +2834,25 @@ translate zh_Hans daughter_storyline_92_after_a04ce5ad_3:
 translate zh_Hans daughter_storyline_92_after_255024b9:
 
     # mc "{i}Damn!"
-    mc "{i}Damn!|{i}该死！"
+    mc "{i}该死！"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1383
 translate zh_Hans daughter_storyline_92_after_9e3bbd42:
 
     # mc "{i}This is... These thoughts are turning me on"
-    mc "{i}This is... These thoughts are turning me on|{i}这……这些想法真是把我搞得欲火焚身。"
+    mc "{i}这……这些想法真是把我搞得欲火焚身。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1385
 translate zh_Hans daughter_storyline_92_after_2eb88440:
 
     # mc "{i}The thought of them cumming inside her"
-    mc "{i}The thought of them cumming inside her|{i}想到他们把精液射在她体内……"
+    mc "{i}想到他们把精液射在她体内……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1387
 translate zh_Hans daughter_storyline_92_after_43d79a02:
 
     # mc "{i}The thought that she could get pregnant"
-    mc "{i}The thought that she could get pregnant|{i}想到她可能会怀上他们的孩子……"
+    mc "{i}想到她可能会怀上他们的孩子……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1389
 translate zh_Hans daughter_storyline_92_after_a04ce5ad_4:
@@ -2864,7 +2864,7 @@ translate zh_Hans daughter_storyline_92_after_a04ce5ad_4:
 translate zh_Hans daughter_storyline_92_after_e7286f66:
 
     # mc "{i}Uh!"
-    mc "{i}Uh!|{i}呃！"
+    mc "{i}呃！"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1393
 translate zh_Hans daughter_storyline_92_after_695f1f24:
@@ -2888,13 +2888,13 @@ translate zh_Hans daughter_storyline_92_after_c56e4f8d:
 translate zh_Hans daughter_storyline_92_after_da685824:
 
     # mc "{i}I'll need to talk to her"
-    mc "{i}I'll need to talk to her|{i}我需要和她谈谈。"
+    mc "{i}我需要和她谈谈。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1401
 translate zh_Hans daughter_storyline_92_after_06d6447a:
 
     # mc "{i}Tomorrow..."
-    mc "{i}Tomorrow...|{i}明天……"
+    mc "{i}明天……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1420
 translate zh_Hans daughter_storyline_93_0c731987:
@@ -2968,7 +2968,7 @@ translate zh_Hans daughter_storyline_93_7f47e5f1:
 translate zh_Hans daughter_storyline_93_cdf29007:
 
     # nvlscott "If you didn't like the one I sent you yesterday, you'll definitely like this one"
-    nvlscott "当有人操你的屁股时的感觉，比你操别人时好得多"
+    nvlscott "如果你不喜欢我昨天发给你的那张，那你肯定会喜欢这张。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1446
 translate zh_Hans daughter_storyline_93_0612daea:
@@ -3124,7 +3124,7 @@ translate zh_Hans daughter_storyline_93_811138dc:
 translate zh_Hans daughter_storyline_93_849073f5:
 
     # nvlscott "I promise 😉"
-    nvlscott "I promise 😉|我保证 😉"
+    nvlscott "我保证 😉"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1502
 translate zh_Hans daughter_storyline_93_e7b6b5d9:
@@ -3160,7 +3160,7 @@ translate zh_Hans daughter_storyline_93_5729b407:
 translate zh_Hans daughter_storyline_93_8e5afe0e:
 
     # nvljohn "[d_name_is] said you came inside her yesterday"
-    nvljohn "[d_name_is] said you came inside her yesterday|[d_name_is] 凯茜说你昨天内射了她。"
+    nvljohn "[d_name_is] 说你昨天内射了她。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1514
 translate zh_Hans daughter_storyline_93_3262e80a:
@@ -3280,7 +3280,7 @@ translate zh_Hans daughter_storyline_93_60bb5741_2:
 translate zh_Hans daughter_storyline_93_239da57f:
 
     # nvlscott "But you can try talking to her 😊"
-    nvlscott "But you can try talking to her 😊|但你可以试着和她聊聊😊"
+    nvlscott "但你可以试着和她聊聊😊"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1554
 translate zh_Hans daughter_storyline_93_643041c2:
@@ -3304,7 +3304,7 @@ translate zh_Hans daughter_storyline_93_7a5dae9d:
 translate zh_Hans daughter_storyline_93_b4784376:
 
     # nvlscott "Goodbye 😊"
-    nvlscott "Goodbye 😊|再见😊"
+    nvlscott "再见😊"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1562
 translate zh_Hans daughter_storyline_93_d86188d3:
@@ -3316,7 +3316,7 @@ translate zh_Hans daughter_storyline_93_d86188d3:
 translate zh_Hans daughter_storyline_93_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1593
 translate zh_Hans daughter_storyline_93_after_2f344041:
@@ -3576,7 +3576,7 @@ translate zh_Hans daughter_storyline_94_5ca52fbf:
 translate zh_Hans daughter_storyline_94_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1735
 translate zh_Hans daughter_storyline_95_9da2bd47:
@@ -3890,13 +3890,13 @@ translate zh_Hans daughter_storyline_95_7a5dae9d:
 translate zh_Hans daughter_storyline_95_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1869
 translate zh_Hans daughter_storyline_95_after_255024b9:
 
     # mc "{i}Damn!"
-    mc "{i}Damn!|{i}该死！"
+    mc "{i}该死！"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1871
 translate zh_Hans daughter_storyline_95_after_3d17ac0a:
@@ -4168,7 +4168,7 @@ translate zh_Hans daughter_storyline_96_8840a8c8:
 translate zh_Hans daughter_storyline_96_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:2011
 translate zh_Hans daughter_storyline_97_b56bde17:
@@ -4206,7 +4206,7 @@ translate zh_Hans daughter_storyline_97_ef0d38e3:
 translate zh_Hans daughter_storyline_97_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:2053
 translate zh_Hans daughter_storyline_97_after_4d23975f:
@@ -4730,7 +4730,7 @@ translate zh_Hans daughter_storyline_98_d607e313:
 translate zh_Hans daughter_storyline_98_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:2279
 translate zh_Hans daughter_storyline_99_944dd063:
@@ -4822,7 +4822,7 @@ translate zh_Hans daughter_storyline_99_b596e009:
 translate zh_Hans daughter_storyline_99_67584b54:
 
     # nvljohn "And that you would have replied if you'd seen my message, and if you'd had the time"
-    nvljohn "或者你遇到了一个男人，然后去了他家？一个决定和你做爱的男人"
+    nvljohn "而且如果你看到了我的消息，又有时间的话，你肯定会回复我。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:2311
 translate zh_Hans daughter_storyline_99_877c0f57_1:
@@ -4930,7 +4930,7 @@ translate zh_Hans daughter_storyline_99_906d86db:
 translate zh_Hans daughter_storyline_99_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:2375
 translate zh_Hans daughter_storyline_99_after_21e1cbb6:
@@ -5286,7 +5286,7 @@ translate zh_Hans daughter_storyline_100_dc78fb39:
 translate zh_Hans daughter_storyline_100_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:2547
 translate zh_Hans daughter_storyline_101_2edb8bd0:
@@ -5714,7 +5714,7 @@ translate zh_Hans daughter_storyline_101_d3ea2617:
 translate zh_Hans daughter_storyline_101_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:2724
 translate zh_Hans daughter_storyline_102_f964e761:
@@ -6082,7 +6082,7 @@ translate zh_Hans daughter_storyline_102_eff56a30:
 translate zh_Hans daughter_storyline_102_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:2882
 translate zh_Hans daughter_storyline_102_after_242fb0ee:
@@ -6118,7 +6118,7 @@ translate zh_Hans daughter_storyline_102_after_c50b973d:
 translate zh_Hans daughter_storyline_102_after_82b9f930:
 
     # mc "{i}Uhh!"
-    mc "{i}Uhh!|{i}呃！"
+    mc "{i}呃！"
 
 # game/scripts/dialogues/daughter_storyline.rpy:2894
 translate zh_Hans daughter_storyline_102_after_a3cd595a:
@@ -6540,7 +6540,7 @@ translate zh_Hans daughter_storyline_103_83752d07:
 translate zh_Hans daughter_storyline_103_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:3088
 translate zh_Hans daughter_storyline_103_after_184c9c7a:
@@ -6630,7 +6630,7 @@ translate zh_Hans daughter_storyline_103_after_d684f2f3:
 translate zh_Hans daughter_storyline_103_after_82b9f930:
 
     # mc "{i}Uhh!"
-    mc "{i}Uhh!|{i}呃！"
+    mc "{i}呃！"
 
 # game/scripts/dialogues/daughter_storyline.rpy:3118
 translate zh_Hans daughter_storyline_103_after_7a8c2d68:
@@ -6932,7 +6932,7 @@ translate zh_Hans daughter_storyline_104_9f77434e:
 translate zh_Hans daughter_storyline_104_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:3268
 translate zh_Hans daughter_storyline_105_39559b53:
@@ -7204,7 +7204,7 @@ translate zh_Hans daughter_storyline_105_bb1a7da5:
 translate zh_Hans daughter_storyline_105_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:3393
 translate zh_Hans daughter_storyline_106_0c731987:
@@ -7458,7 +7458,7 @@ translate zh_Hans daughter_storyline_106_95c93687:
 translate zh_Hans daughter_storyline_106_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:3510
 translate zh_Hans daughter_storyline_107_14467712:
@@ -7688,7 +7688,7 @@ translate zh_Hans daughter_storyline_107_83752d07:
 translate zh_Hans daughter_storyline_107_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:3613
 translate zh_Hans daughter_storyline_107_after_78662868:
@@ -7778,7 +7778,7 @@ translate zh_Hans daughter_storyline_107_after_ca0a740d:
 translate zh_Hans daughter_storyline_107_after_255024b9:
 
     # mc "{i}Damn!"
-    mc "{i}Damn!|{i}该死！"
+    mc "{i}该死！"
 
 # game/scripts/dialogues/daughter_storyline.rpy:3643
 translate zh_Hans daughter_storyline_107_after_d6d39be8:
@@ -8194,7 +8194,7 @@ translate zh_Hans daughter_storyline_108_4eea8597:
 translate zh_Hans daughter_storyline_108_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:3825
 translate zh_Hans daughter_storyline_108_after_a04ce5ad:
@@ -8862,7 +8862,7 @@ translate zh_Hans daughter_storyline_109_d880d3d5:
 translate zh_Hans daughter_storyline_109_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:4107
 translate zh_Hans daughter_storyline_110_ce5e3c25:
@@ -9278,7 +9278,7 @@ translate zh_Hans daughter_storyline_110_37a3a62b:
 translate zh_Hans daughter_storyline_110_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:4280
 translate zh_Hans daughter_storyline_111_76b2fe88:
@@ -9506,7 +9506,7 @@ translate zh_Hans daughter_storyline_111_36b5c7fc_1:
 translate zh_Hans daughter_storyline_111_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:4391
 translate zh_Hans daughter_storyline_112_58012663:
@@ -9940,7 +9940,7 @@ translate zh_Hans daughter_storyline_112_52892467:
 translate zh_Hans daughter_storyline_112_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:4576
 translate zh_Hans daughter_storyline_113_4c41d8b7:
@@ -10296,7 +10296,7 @@ translate zh_Hans daughter_storyline_113_0bbefdf9:
 translate zh_Hans daughter_storyline_113_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:4733
 translate zh_Hans daughter_storyline_114_c0f202da:
@@ -10544,7 +10544,7 @@ translate zh_Hans daughter_storyline_114_9c9d0c21:
 translate zh_Hans daughter_storyline_114_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:4846
 translate zh_Hans daughter_storyline_114_after_89a66d8f:
@@ -11236,7 +11236,7 @@ translate zh_Hans daughter_storyline_115_fa924b42:
 translate zh_Hans daughter_storyline_115_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:5128
 translate zh_Hans daughter_storyline_115_after_70e40f87:
@@ -11580,7 +11580,7 @@ translate zh_Hans daughter_storyline_116_94a8939b:
 translate zh_Hans daughter_storyline_116_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:5286
 translate zh_Hans daughter_storyline_116_after_59a92b94:
@@ -11900,7 +11900,7 @@ translate zh_Hans daughter_storyline_117_521c7406_1:
 translate zh_Hans daughter_storyline_117_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:5440
 translate zh_Hans daughter_storyline_118_ce5e3c25:
@@ -12292,7 +12292,7 @@ translate zh_Hans daughter_storyline_118_376503af:
 translate zh_Hans daughter_storyline_118_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:5613
 translate zh_Hans daughter_storyline_118_after_a04ce5ad:
@@ -12750,7 +12750,7 @@ translate zh_Hans daughter_storyline_119_521c7406:
 translate zh_Hans daughter_storyline_119_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:5821
 translate zh_Hans daughter_storyline_120_76b2fe88:
@@ -13086,7 +13086,7 @@ translate zh_Hans daughter_storyline_120_d5ebb991:
 translate zh_Hans daughter_storyline_120_75ba9380:
 
     # nvljohn "She's a grown woman, unlike [d_name_is]"
-    nvljohn "她是个成年骚货，不像 [d_name_is] 那样。"
+    nvljohn "她是个成年女人，不像 [d_name_is] 那样。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:5949
 translate zh_Hans daughter_storyline_120_181ec1b5:
@@ -13314,13 +13314,13 @@ translate zh_Hans daughter_storyline_120_6ade0518:
 translate zh_Hans daughter_storyline_120_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:6050
 translate zh_Hans daughter_storyline_120_after_fb2a5941:
 
     # mc "{i}Elsa..."
-    mc "{i}Elsa...|{i}艾尔莎……"
+    mc "{i}艾尔莎……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:6052
 translate zh_Hans daughter_storyline_120_after_46ef120d:
@@ -13814,7 +13814,7 @@ translate zh_Hans daughter_storyline_121_588c98ab:
 translate zh_Hans daughter_storyline_121_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:6258
 translate zh_Hans daughter_storyline_121_after_dff2f5a5:
@@ -14254,7 +14254,7 @@ translate zh_Hans daughter_storyline_122_794c1107:
 translate zh_Hans daughter_storyline_122_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:6452
 translate zh_Hans daughter_storyline_123_ac0794b0:
@@ -14628,7 +14628,7 @@ translate zh_Hans daughter_storyline_123_531f13d5:
 translate zh_Hans daughter_storyline_123_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:6619
 translate zh_Hans daughter_storyline_124_f6aea86a:
@@ -15200,7 +15200,7 @@ translate zh_Hans daughter_storyline_124_243cc77b:
 translate zh_Hans daughter_storyline_124_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:6852
 translate zh_Hans daughter_storyline_125_872a7a1f:
@@ -15676,7 +15676,7 @@ translate zh_Hans daughter_storyline_125_96f6924e:
 translate zh_Hans daughter_storyline_125_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:7037
 translate zh_Hans daughter_storyline_125_after_46075a2b:
@@ -15730,7 +15730,7 @@ translate zh_Hans daughter_storyline_125_after_03e03351:
 translate zh_Hans daughter_storyline_125_after_82b9f930:
 
     # mc "{i}Uhh!"
-    mc "{i}Uhh!|{i}呃！"
+    mc "{i}呃！"
 
 # game/scripts/dialogues/daughter_storyline.rpy:7055
 translate zh_Hans daughter_storyline_125_after_28bf5c3e:
@@ -16080,7 +16080,7 @@ translate zh_Hans daughter_storyline_126_856f955c:
 translate zh_Hans daughter_storyline_126_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:7219
 translate zh_Hans daughter_storyline_127_443a7c0d:
@@ -16430,7 +16430,7 @@ translate zh_Hans daughter_storyline_127_f20e37ea:
 translate zh_Hans daughter_storyline_127_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:7362
 translate zh_Hans daughter_storyline_127_after_7d2f4ae8:
@@ -16766,7 +16766,7 @@ translate zh_Hans daughter_storyline_128_9986992e:
 translate zh_Hans daughter_storyline_128_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:7530
 translate zh_Hans daughter_storyline_129_9da2bd47:
@@ -17140,7 +17140,7 @@ translate zh_Hans daughter_storyline_129_2479429f:
 translate zh_Hans daughter_storyline_129_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:7693
 translate zh_Hans daughter_storyline_130_0f8693a5:
@@ -17334,7 +17334,7 @@ translate zh_Hans daughter_storyline_130_b8e77033:
 translate zh_Hans daughter_storyline_130_2b3635e8:
 
     # nvljenna "It so happens that we have a mutual friend, through whom I'll be acting"
-    nvljenna "而且，知道你以前是谁，他们和你做爱会更享受。"
+    nvljenna "正好我们有个共同的朋友，我会通过他来行动。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:7759
 translate zh_Hans daughter_storyline_130_af81af59:
@@ -17646,7 +17646,7 @@ translate zh_Hans daughter_storyline_130_52892467:
 translate zh_Hans daughter_storyline_130_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:7892
 translate zh_Hans daughter_storyline_131_9da2bd47:
@@ -17960,7 +17960,7 @@ translate zh_Hans daughter_storyline_131_8840a8c8_1:
 translate zh_Hans daughter_storyline_131_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:8023
 translate zh_Hans daughter_storyline_131_after_3b033d99:
@@ -18502,7 +18502,7 @@ translate zh_Hans daughter_storyline_132_83752d07:
 translate zh_Hans daughter_storyline_132_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:8269
 translate zh_Hans daughter_storyline_133_58012663:
@@ -18954,7 +18954,7 @@ translate zh_Hans daughter_storyline_133_2cbf5ced:
 translate zh_Hans daughter_storyline_133_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:8460
 translate zh_Hans daughter_storyline_134_b16a1b12:
@@ -19124,7 +19124,7 @@ translate zh_Hans daughter_storyline_134_52892467:
 translate zh_Hans daughter_storyline_134_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:8555
 translate zh_Hans daughter_storyline_135_76b2fe88:
@@ -19220,7 +19220,7 @@ translate zh_Hans daughter_storyline_135_96b0c95e:
 translate zh_Hans daughter_storyline_135_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:8616
 translate zh_Hans daughter_storyline_135_after_99d3ac4a:
@@ -19744,7 +19744,7 @@ translate zh_Hans daughter_storyline_136_c24ef834:
 translate zh_Hans daughter_storyline_136_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:8838
 translate zh_Hans daughter_storyline_137_9da2bd47:
@@ -19872,7 +19872,7 @@ translate zh_Hans daughter_storyline_137_7d7b36c8:
 translate zh_Hans daughter_storyline_137_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:8911
 translate zh_Hans daughter_storyline_138_c85e118e:
@@ -20246,7 +20246,7 @@ translate zh_Hans daughter_storyline_138_2059e300:
 translate zh_Hans daughter_storyline_138_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:9066
 translate zh_Hans daughter_storyline_139_b0ea0aae:
@@ -20572,7 +20572,7 @@ translate zh_Hans daughter_storyline_139_c23d4d0c:
 translate zh_Hans daughter_storyline_139_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:9205
 translate zh_Hans daughter_storyline_140_9da2bd47:
@@ -20868,7 +20868,7 @@ translate zh_Hans daughter_storyline_140_2059e300:
 translate zh_Hans daughter_storyline_140_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:9334
 translate zh_Hans daughter_storyline_141_76b2fe88:
@@ -21198,7 +21198,7 @@ translate zh_Hans daughter_storyline_141_c61740c8:
 translate zh_Hans daughter_storyline_141_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:9485
 translate zh_Hans daughter_storyline_142_a51da5ab:
@@ -21446,7 +21446,7 @@ translate zh_Hans daughter_storyline_142_856f955c:
 translate zh_Hans daughter_storyline_142_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:9600
 translate zh_Hans daughter_storyline_143_e51422a6:
@@ -21754,7 +21754,7 @@ translate zh_Hans daughter_storyline_143_52892467:
 translate zh_Hans daughter_storyline_143_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:9735
 translate zh_Hans daughter_storyline_144_d39af50d:
@@ -22158,7 +22158,7 @@ translate zh_Hans daughter_storyline_144_fcf10031:
 translate zh_Hans daughter_storyline_144_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:9900
 translate zh_Hans daughter_storyline_145_58012663:
@@ -22508,7 +22508,7 @@ translate zh_Hans daughter_storyline_145_5a474228:
 translate zh_Hans daughter_storyline_145_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:10063
 translate zh_Hans daughter_storyline_146_76b2fe88:
@@ -22874,7 +22874,7 @@ translate zh_Hans daughter_storyline_146_1823b535:
 translate zh_Hans daughter_storyline_146_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:10218
 translate zh_Hans daughter_storyline_147_76b2fe88:
@@ -23186,7 +23186,7 @@ translate zh_Hans daughter_storyline_147_ab66338b:
 translate zh_Hans daughter_storyline_147_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:10361
 translate zh_Hans daughter_storyline_148_40793208:
@@ -23392,7 +23392,7 @@ translate zh_Hans daughter_storyline_148_f9b7cb84:
 translate zh_Hans daughter_storyline_148_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:10460
 translate zh_Hans daughter_storyline_149_435c1c12:
@@ -23616,7 +23616,7 @@ translate zh_Hans daughter_storyline_149_bc1c571a:
 translate zh_Hans daughter_storyline_149_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:10567
 translate zh_Hans daughter_storyline_150_eb9f84e7:
@@ -23762,7 +23762,7 @@ translate zh_Hans daughter_storyline_150_d8190a96:
 translate zh_Hans daughter_storyline_150_b52e79d4:
 
     # nvld "Thanks ❤️"
-    nvld "Thanks ❤️|谢谢❤️"
+    nvld "谢谢❤️"
 
 # game/scripts/dialogues/daughter_storyline.rpy:10617
 translate zh_Hans daughter_storyline_150_53a54136:
@@ -23966,7 +23966,7 @@ translate zh_Hans daughter_storyline_150_1ccc98df:
 translate zh_Hans daughter_storyline_150_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:10714
 translate zh_Hans daughter_storyline_151_7ce56858:
@@ -24226,7 +24226,7 @@ translate zh_Hans daughter_storyline_151_7c4f2df1:
 translate zh_Hans daughter_storyline_151_bedf03cd:
 
     # nvlscott "I see 😊"
-    nvlscott "I see 😊|我明白了😊"
+    nvlscott "我明白了😊"
 
 # game/scripts/dialogues/daughter_storyline.rpy:10818
 translate zh_Hans daughter_storyline_151_047c59f5:
@@ -24388,7 +24388,7 @@ translate zh_Hans daughter_storyline_151_2059e300:
 translate zh_Hans daughter_storyline_151_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:10901
 translate zh_Hans daughter_storyline_152_872a7a1f:
@@ -24540,7 +24540,7 @@ translate zh_Hans daughter_storyline_152_94bf3815:
 translate zh_Hans daughter_storyline_152_68c98e8f:
 
     # nvlhelsa "I see 😊"
-    nvlhelsa "I see 😊|我明白了😊"
+    nvlhelsa "我明白了😊"
 
 # game/scripts/dialogues/daughter_storyline.rpy:10961
 translate zh_Hans daughter_storyline_152_eef00d10:
@@ -24774,7 +24774,7 @@ translate zh_Hans daughter_storyline_152_6c7af0f3:
 translate zh_Hans daughter_storyline_152_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:11068
 translate zh_Hans daughter_storyline_153_eb9f84e7:
@@ -25250,7 +25250,7 @@ translate zh_Hans daughter_storyline_153_b66135a3_1:
 translate zh_Hans daughter_storyline_153_58cdec9e:
 
     # nvld "I see 😊"
-    nvld "I see 😊|我明白了😊"
+    nvld "我明白了😊"
 
 # game/scripts/dialogues/daughter_storyline.rpy:11232
 translate zh_Hans daughter_storyline_153_cb5587aa:
@@ -25346,7 +25346,7 @@ translate zh_Hans daughter_storyline_153_721b42e3:
 translate zh_Hans daughter_storyline_153_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:11293
 translate zh_Hans daughter_storyline_154_b88a4ddd:
@@ -25564,7 +25564,7 @@ translate zh_Hans daughter_storyline_154_4cdc7732:
 translate zh_Hans daughter_storyline_154_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:11396
 translate zh_Hans daughter_storyline_155_7742b1f3:
@@ -25818,7 +25818,7 @@ translate zh_Hans daughter_storyline_155_2059e300:
 translate zh_Hans daughter_storyline_155_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:11519
 translate zh_Hans daughter_storyline_156_58012663:
@@ -26252,7 +26252,7 @@ translate zh_Hans daughter_storyline_156_ead46d23:
 translate zh_Hans daughter_storyline_156_58cdec9e:
 
     # nvld "I see 😊"
-    nvld "I see 😊|我明白了😊"
+    nvld "我明白了😊"
 
 # game/scripts/dialogues/daughter_storyline.rpy:11673
 translate zh_Hans daughter_storyline_156_1987fe5d:
@@ -26318,7 +26318,7 @@ translate zh_Hans daughter_storyline_156_4efa4432:
 translate zh_Hans daughter_storyline_156_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:11724
 translate zh_Hans daughter_storyline_157_872a7a1f:
@@ -26722,7 +26722,7 @@ translate zh_Hans daughter_storyline_157_f1daf942:
 translate zh_Hans daughter_storyline_157_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:11889
 translate zh_Hans daughter_storyline_158_d77f25a7:
@@ -27150,7 +27150,7 @@ translate zh_Hans daughter_storyline_158_0d4e394f:
 translate zh_Hans daughter_storyline_158_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:12076
 translate zh_Hans daughter_storyline_159_9da2bd47:
@@ -27296,7 +27296,7 @@ translate zh_Hans daughter_storyline_159_02df7c98:
 translate zh_Hans daughter_storyline_159_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:12157
 translate zh_Hans daughter_storyline_160_11d01803:
@@ -27514,7 +27514,7 @@ translate zh_Hans daughter_storyline_160_7c973769:
 translate zh_Hans daughter_storyline_160_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:12260
 translate zh_Hans daughter_storyline_161_9da2bd47:
@@ -27894,7 +27894,7 @@ translate zh_Hans daughter_storyline_161_3aeb6793:
 translate zh_Hans daughter_storyline_161_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:12417
 translate zh_Hans daughter_storyline_162_76b2fe88:
@@ -28416,7 +28416,7 @@ translate zh_Hans daughter_storyline_162_79747869:
 translate zh_Hans daughter_storyline_162_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:12634
 translate zh_Hans daughter_storyline_163_93d2e174:
@@ -28778,7 +28778,7 @@ translate zh_Hans daughter_storyline_163_521c7406:
 translate zh_Hans daughter_storyline_163_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:12787
 translate zh_Hans daughter_storyline_164_9da2bd47:
@@ -29290,7 +29290,7 @@ translate zh_Hans daughter_storyline_164_3b77f313:
 translate zh_Hans daughter_storyline_164_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:12988
 translate zh_Hans daughter_storyline_165_872a7a1f:
@@ -29484,7 +29484,7 @@ translate zh_Hans daughter_storyline_165_6be30e50:
 translate zh_Hans daughter_storyline_165_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:13083
 translate zh_Hans daughter_storyline_166_517cb68b:
@@ -29768,7 +29768,7 @@ translate zh_Hans daughter_storyline_166_f20e37ea:
 translate zh_Hans daughter_storyline_166_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:13204
 translate zh_Hans daughter_storyline_166_after_ececd25b:
@@ -29786,13 +29786,13 @@ translate zh_Hans daughter_storyline_166_after_15032824:
 translate zh_Hans daughter_storyline_166_after_938491cf:
 
     # mc "{i}I'm glad because she'll experience real pleasure there"
-    mc "{i}我高兴，是因为她会在那里被肏到爽翻天，体验真正的肉欲快感。"
+    mc "{i}我高兴，是因为她会在那里体验到真正的快乐。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:13210
 translate zh_Hans daughter_storyline_166_after_0a2e0cc5:
 
     # mc "{i}The only thing I want to ask of her is to share as many photos as possible with me while she's there"
-    mc "{i}我唯一的要求就是，她在那儿的时候，把她被操的骚样儿都他妈给我拍下来，越多越好！"
+    mc "{i}我唯一想拜托她的，就是她在那里时尽可能多给我分享照片。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:13212
 translate zh_Hans daughter_storyline_166_after_f46e6e9c:
@@ -29804,7 +29804,7 @@ translate zh_Hans daughter_storyline_166_after_f46e6e9c:
 translate zh_Hans daughter_storyline_166_after_1eb0af39:
 
     # mc "{i}I wonder if she's already talked to Jenna"
-    mc "{i}我倒想知道，她是不是已经跟珍娜那小骚货勾搭上了。"
+    mc "{i}我倒想知道，她是不是已经和珍娜聊过了。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:13216
 translate zh_Hans daughter_storyline_166_after_6d41a69c:
@@ -30238,7 +30238,7 @@ translate zh_Hans daughter_storyline_167_18ba44e6:
 translate zh_Hans daughter_storyline_167_2b4125fe:
 
     # nvld "Uh-huh 😊 I'll send it now"
-    nvld "嗯哼😊 我现在就发给你，让你好好撸一发。"
+    nvld "嗯哼😊 我现在就发给你。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:13379
 translate zh_Hans daughter_storyline_167_338df687:
@@ -30292,7 +30292,7 @@ translate zh_Hans daughter_storyline_167_08df80cd:
 translate zh_Hans daughter_storyline_167_711e0920:
 
     # nvld "Glad you like it 😊"
-    nvld "很高兴你喜欢这骚货😊"
+    nvld "很高兴你喜欢 😊"
 
 # game/scripts/dialogues/daughter_storyline.rpy:13401
 translate zh_Hans daughter_storyline_167_55cd4112:
@@ -30436,7 +30436,7 @@ translate zh_Hans daughter_storyline_167_dcacf5e7:
 translate zh_Hans daughter_storyline_167_51fa50d8:
 
     # nvld "And sometimes I give him handjobs 😊"
-    nvld "有时候我还会用我的骚手给他撸硬呢😊"
+    nvld "有时候我还会帮他用手解决 😊"
 
 # game/scripts/dialogues/daughter_storyline.rpy:13453
 translate zh_Hans daughter_storyline_167_944e6281:
@@ -30520,7 +30520,7 @@ translate zh_Hans daughter_storyline_167_ea409957:
 translate zh_Hans daughter_storyline_167_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:13510
 translate zh_Hans daughter_storyline_168_a1d5b3d5:
@@ -30750,7 +30750,7 @@ translate zh_Hans daughter_storyline_168_fc2ed3bd:
 translate zh_Hans daughter_storyline_168_22598451:
 
     # nvljenna "Too much work 😊"
-    nvljenna "活儿太多了，都快被操死了😊"
+    nvljenna "事情太多了 😊"
 
 # game/scripts/dialogues/daughter_storyline.rpy:13588
 translate zh_Hans daughter_storyline_168_e21ace56:
@@ -30768,7 +30768,7 @@ translate zh_Hans daughter_storyline_168_40f75b14:
 translate zh_Hans daughter_storyline_168_618ec769:
 
     # nvljenna "You know what I mean 😉"
-    nvljenna "你懂我这骚货的意思吧😉"
+    nvljenna "你懂我的意思吧😉"
 
 # game/scripts/dialogues/daughter_storyline.rpy:13594
 translate zh_Hans daughter_storyline_168_ba8c927d:
@@ -30900,7 +30900,7 @@ translate zh_Hans daughter_storyline_168_cf7af4ac:
 translate zh_Hans daughter_storyline_168_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:13667
 translate zh_Hans daughter_storyline_169_b7651d5d:
@@ -31202,7 +31202,7 @@ translate zh_Hans daughter_storyline_169_521c7406_1:
 translate zh_Hans daughter_storyline_169_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:13798
 translate zh_Hans daughter_storyline_170_078f3881:
@@ -31672,7 +31672,7 @@ translate zh_Hans daughter_storyline_170_521c7406:
 translate zh_Hans daughter_storyline_170_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:13993
 translate zh_Hans daughter_storyline_171_c2db1a30:
@@ -31680,7 +31680,7 @@ translate zh_Hans daughter_storyline_171_c2db1a30:
     # nvl clear
     # nvld "Hey, daddy 😇"
     nvl clear
-    nvld ""
+    nvld "嗨，爸爸 😇"
 
 # game/scripts/dialogues/daughter_storyline.rpy:13997
 translate zh_Hans daughter_storyline_171_d760354e:
@@ -31842,7 +31842,7 @@ translate zh_Hans daughter_storyline_171_10790d19:
 translate zh_Hans daughter_storyline_171_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:14086
 translate zh_Hans daughter_storyline_172_7aeab8db:
@@ -32108,7 +32108,7 @@ translate zh_Hans daughter_storyline_172_1dc8474d:
 translate zh_Hans daughter_storyline_172_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:14207
 translate zh_Hans daughter_storyline_173_9850d133:
@@ -32254,7 +32254,7 @@ translate zh_Hans daughter_storyline_173_efaf9685:
 translate zh_Hans daughter_storyline_173_0d8c2925:
 
     # nvljohn "But in return... you're gonna send me *lots* of pics and videos from the trip, right?"
-    nvljohn "但作为回报...你得给我发*好多*旅行照片和视频，对吧？那种能让我硬起来的..."
+    nvljohn "但作为回报……你得给我发*好多*旅行中的照片和视频，对吧？"
 
 # game/scripts/dialogues/daughter_storyline.rpy:14257
 translate zh_Hans daughter_storyline_173_ee94063d:
@@ -32296,7 +32296,7 @@ translate zh_Hans daughter_storyline_173_10790d19:
 translate zh_Hans daughter_storyline_173_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:14303
 translate zh_Hans daughter_storyline_174_33e1932b:
@@ -32328,7 +32328,7 @@ translate zh_Hans daughter_storyline_174_a3619075:
 translate zh_Hans daughter_storyline_174_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:14342
 translate zh_Hans daughter_storyline_174_after_aa88d506:
@@ -32534,7 +32534,7 @@ translate zh_Hans daughter_storyline_175_5c0a5f93:
 translate zh_Hans daughter_storyline_175_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:14464
 translate zh_Hans daughter_storyline_176_bc624226:
@@ -32626,7 +32626,7 @@ translate zh_Hans daughter_storyline_176_5a720b00:
 translate zh_Hans daughter_storyline_176_46db3cca:
 
     # nvld "Don't be shy about giving your honest reactions to the things I send you, okay?"
-    nvld "别他妈害羞，尽管告诉我你对我发给你的那些骚货的真实感受，好吗？"
+    nvld "别不好意思，尽管告诉我你对我发给你的东西有什么真实反应，好吗？"
 
 # game/scripts/dialogues/daughter_storyline.rpy:14509
 translate zh_Hans daughter_storyline_176_8be5ec19:
@@ -32656,7 +32656,7 @@ translate zh_Hans daughter_storyline_176_c6c05408:
 translate zh_Hans daughter_storyline_176_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:14550
 translate zh_Hans daughter_storyline_177_96fe5b28:
@@ -32784,7 +32784,7 @@ translate zh_Hans daughter_storyline_177_e3de2293:
 translate zh_Hans daughter_storyline_177_a18820eb:
 
     # nvljenna "She looked like an experienced porn actress, honestly 😂"
-    nvljenna "说真的，她看起来简直就像个经验丰富的骚货😂"
+    nvljenna "说真的，她看起来简直就像个经验丰富的演员😂"
 
 # game/scripts/dialogues/daughter_storyline.rpy:14598
 translate zh_Hans daughter_storyline_177_4cd57a98:
@@ -32856,7 +32856,7 @@ translate zh_Hans daughter_storyline_177_927b814d:
 translate zh_Hans daughter_storyline_177_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:14653
 translate zh_Hans daughter_storyline_178_cdb3898b:
@@ -33098,7 +33098,7 @@ translate zh_Hans daughter_storyline_178_45b5583f:
 translate zh_Hans daughter_storyline_178_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:14774
 translate zh_Hans daughter_storyline_179_cb3ce3f5:
@@ -33316,7 +33316,7 @@ translate zh_Hans daughter_storyline_179_a58ffc0a:
 translate zh_Hans daughter_storyline_179_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:14879
 translate zh_Hans daughter_storyline_180_88b1addb:
@@ -33450,7 +33450,7 @@ translate zh_Hans daughter_storyline_180_0d77f7c5:
 translate zh_Hans daughter_storyline_180_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:14956
 translate zh_Hans daughter_storyline_181_7bea5e21:
@@ -33590,7 +33590,7 @@ translate zh_Hans daughter_storyline_181_a0e138b6:
 translate zh_Hans daughter_storyline_181_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:15047
 translate zh_Hans daughter_storyline_182_4e2eacda:
@@ -33748,7 +33748,7 @@ translate zh_Hans daughter_storyline_182_d730b4bb:
 translate zh_Hans daughter_storyline_182_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:15132
 translate zh_Hans daughter_storyline_183_831efe5b:
@@ -33840,7 +33840,7 @@ translate zh_Hans daughter_storyline_183_a3cf963a:
 translate zh_Hans daughter_storyline_183_b52e79d4:
 
     # nvld "Thanks ❤️"
-    nvld "Thanks ❤️|谢谢❤️"
+    nvld "谢谢❤️"
 
 # game/scripts/dialogues/daughter_storyline.rpy:15164
 translate zh_Hans daughter_storyline_183_728587a3:
@@ -33870,7 +33870,7 @@ translate zh_Hans daughter_storyline_183_d7a8c96b:
 translate zh_Hans daughter_storyline_183_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:15205
 translate zh_Hans daughter_storyline_184_c51f8595:
@@ -33962,7 +33962,7 @@ translate zh_Hans daughter_storyline_184_dba792fb:
 translate zh_Hans daughter_storyline_184_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:15276
 translate zh_Hans daughter_storyline_185_c90c268e:
@@ -34102,7 +34102,7 @@ translate zh_Hans daughter_storyline_185_e6734beb:
 translate zh_Hans daughter_storyline_185_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:15359
 translate zh_Hans daughter_storyline_186_c3f9e1d1:
@@ -34254,7 +34254,7 @@ translate zh_Hans daughter_storyline_186_5a2b9257:
 translate zh_Hans daughter_storyline_186_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:15442
 translate zh_Hans daughter_storyline_187_96fe5b28:
@@ -34382,7 +34382,7 @@ translate zh_Hans daughter_storyline_187_fbf5497a:
 translate zh_Hans daughter_storyline_187_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:15517
 translate zh_Hans daughter_storyline_188_8e5c9cb0:
@@ -34558,7 +34558,7 @@ translate zh_Hans daughter_storyline_188_e91d152a:
 translate zh_Hans daughter_storyline_188_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:15608
 translate zh_Hans daughter_storyline_189_5d9eb08e:
@@ -34632,7 +34632,7 @@ translate zh_Hans daughter_storyline_189_00baa4e6:
 translate zh_Hans daughter_storyline_189_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:15665
 translate zh_Hans daughter_storyline_190_73ac7f2f:
@@ -34850,7 +34850,7 @@ translate zh_Hans daughter_storyline_190_4daffb38:
 translate zh_Hans daughter_storyline_190_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:15770
 translate zh_Hans daughter_storyline_191_3f2f47b4:
@@ -34930,13 +34930,13 @@ translate zh_Hans daughter_storyline_191_2e5b5c58:
 translate zh_Hans daughter_storyline_191_f593892a:
 
     # nvljohn "I’ll be counting on it, baby 😏"
-    nvljohn "爸爸可就等着你的骚货表演了，宝贝😏"
+    nvljohn "爸爸可就等着了，宝贝😏"
 
 # game/scripts/dialogues/daughter_storyline.rpy:15812
 translate zh_Hans daughter_storyline_191_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:15831
 translate zh_Hans daughter_storyline_192_14c685f7:
@@ -35004,7 +35004,7 @@ translate zh_Hans daughter_storyline_192_bc768727:
 translate zh_Hans daughter_storyline_192_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:15882
 translate zh_Hans daughter_storyline_192_after_90ac0eaf:
@@ -35084,7 +35084,7 @@ translate zh_Hans daughter_storyline_193_198952af:
 translate zh_Hans daughter_storyline_193_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:15958
 translate zh_Hans daughter_storyline_194_506fdbdd:
@@ -35242,7 +35242,7 @@ translate zh_Hans daughter_storyline_194_ccbdb219:
 translate zh_Hans daughter_storyline_194_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:16043
 translate zh_Hans daughter_storyline_195_3961634a:
@@ -35370,7 +35370,7 @@ translate zh_Hans daughter_storyline_195_68624f46:
 translate zh_Hans daughter_storyline_195_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:16122
 translate zh_Hans daughter_storyline_196_c1b94482:
@@ -35528,7 +35528,7 @@ translate zh_Hans daughter_storyline_196_efcfc034:
 translate zh_Hans daughter_storyline_196_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:16219
 translate zh_Hans daughter_storyline_197_b94ad42a:
@@ -35644,7 +35644,7 @@ translate zh_Hans daughter_storyline_197_94ebd80b:
 translate zh_Hans daughter_storyline_197_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:16290
 translate zh_Hans daughter_storyline_198_81821bc2:
@@ -35820,7 +35820,7 @@ translate zh_Hans daughter_storyline_198_e8aaba00:
 translate zh_Hans daughter_storyline_198_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:16385
 translate zh_Hans daughter_storyline_199_7aeab8db:
@@ -35936,7 +35936,7 @@ translate zh_Hans daughter_storyline_199_7b2dea9d:
 translate zh_Hans daughter_storyline_199_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:16456
 translate zh_Hans daughter_storyline_200_48937876:
@@ -36058,7 +36058,7 @@ translate zh_Hans daughter_storyline_200_307e6ce9:
 translate zh_Hans daughter_storyline_200_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:16537
 translate zh_Hans daughter_storyline_201_f3208742:
@@ -36156,7 +36156,7 @@ translate zh_Hans daughter_storyline_201_37d06693:
 translate zh_Hans daughter_storyline_201_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:16606
 translate zh_Hans daughter_storyline_202_91542674:
@@ -36338,7 +36338,7 @@ translate zh_Hans daughter_storyline_202_dba792fb:
 translate zh_Hans daughter_storyline_202_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:16703
 translate zh_Hans daughter_storyline_203_19013cb9:
@@ -36466,7 +36466,7 @@ translate zh_Hans daughter_storyline_203_221c9e48:
 translate zh_Hans daughter_storyline_203_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:16790
 translate zh_Hans daughter_storyline_204_15d7cdd1:
@@ -36546,7 +36546,7 @@ translate zh_Hans daughter_storyline_204_125748e4:
 translate zh_Hans daughter_storyline_204_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:16849
 translate zh_Hans daughter_storyline_205_ac0955ab:
@@ -36656,7 +36656,7 @@ translate zh_Hans daughter_storyline_205_4aa472da:
 translate zh_Hans daughter_storyline_205_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:16918
 translate zh_Hans daughter_storyline_206_f6ab9b91:
@@ -36778,7 +36778,7 @@ translate zh_Hans daughter_storyline_206_556c5df8:
 translate zh_Hans daughter_storyline_206_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:16995
 translate zh_Hans daughter_storyline_207_22b5e8e3:
@@ -36918,7 +36918,7 @@ translate zh_Hans daughter_storyline_207_512580f6:
 translate zh_Hans daughter_storyline_207_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:17078
 translate zh_Hans daughter_storyline_208_5c6fbcbb:
@@ -37064,7 +37064,7 @@ translate zh_Hans daughter_storyline_208_9f8d0b9d:
 translate zh_Hans daughter_storyline_208_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:17163
 translate zh_Hans daughter_storyline_209_83d2972d:
@@ -37168,7 +37168,7 @@ translate zh_Hans daughter_storyline_209_ae781044:
 translate zh_Hans daughter_storyline_209_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:17230
 translate zh_Hans daughter_storyline_210_7792afc6:
@@ -37248,7 +37248,7 @@ translate zh_Hans daughter_storyline_210_f8b05ccc:
 translate zh_Hans daughter_storyline_210_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:17295
 translate zh_Hans daughter_storyline_211_a684e061:
@@ -37472,7 +37472,7 @@ translate zh_Hans daughter_storyline_211_98e5f9a3:
 translate zh_Hans daughter_storyline_211_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:17402
 translate zh_Hans daughter_storyline_212_5c7896eb:
@@ -37660,7 +37660,7 @@ translate zh_Hans daughter_storyline_212_349d57e7:
 translate zh_Hans daughter_storyline_212_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:17497
 translate zh_Hans daughter_storyline_213_cb3ce3f5:
@@ -37842,7 +37842,7 @@ translate zh_Hans daughter_storyline_213_1512ac3a:
 translate zh_Hans daughter_storyline_213_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:17590
 translate zh_Hans daughter_storyline_214_77b17913:
@@ -37994,7 +37994,7 @@ translate zh_Hans daughter_storyline_214_46d88eb2:
 translate zh_Hans daughter_storyline_214_b6b0bf72:
 
     # nvld "Now you’ll be thinking of me all night 😘"
-    nvld "现在你今晚肯定会满脑子都是我，想着怎么把我操翻了😘"
+    nvld "现在你今晚肯定会满脑子都是我了😘"
 
 # game/scripts/dialogues/daughter_storyline.rpy:17646
 translate zh_Hans daughter_storyline_214_e5f6b2d7:
@@ -38006,7 +38006,7 @@ translate zh_Hans daughter_storyline_214_e5f6b2d7:
 translate zh_Hans daughter_storyline_214_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:17681
 translate zh_Hans daughter_storyline_215_6e47a7ce:
@@ -38056,7 +38056,7 @@ translate zh_Hans daughter_storyline_215_8ea0874f:
 translate zh_Hans daughter_storyline_215_9031b18d:
 
     # nvljohn "Poor thing, must’ve been really nervous"
-    nvljohn "可怜的小骚货，肯定紧张得要命。"
+    nvljohn "可怜的孩子，肯定紧张坏了。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:17699
 translate zh_Hans daughter_storyline_215_3d84f77b:
@@ -38164,7 +38164,7 @@ translate zh_Hans daughter_storyline_215_905a9cec:
 translate zh_Hans daughter_storyline_215_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:17766
 translate zh_Hans daughter_storyline_216_17c815ae:
@@ -38208,7 +38208,7 @@ translate zh_Hans daughter_storyline_216_2d6b4e76:
 translate zh_Hans daughter_storyline_216_e226fc58:
 
     # nvld "We’re in the hotel lounge now, it’s super cozy"
-    nvld ""
+    nvld "我们现在在酒店休息区，这里特别舒服。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:17782
 translate zh_Hans daughter_storyline_216_73589095:
@@ -38358,7 +38358,7 @@ translate zh_Hans daughter_storyline_216_cefe03dc:
 translate zh_Hans daughter_storyline_216_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:17867
 translate zh_Hans daughter_storyline_217_cb3ce3f5:
@@ -38528,7 +38528,7 @@ translate zh_Hans daughter_storyline_217_f6896e4e:
 translate zh_Hans daughter_storyline_217_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:17960
 translate zh_Hans daughter_storyline_218_89f8a154:
@@ -38710,7 +38710,7 @@ translate zh_Hans daughter_storyline_218_d898f04c:
 translate zh_Hans daughter_storyline_218_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:18057
 translate zh_Hans daughter_storyline_219_4d73f4c5:
@@ -38874,7 +38874,7 @@ translate zh_Hans daughter_storyline_219_ae8cbf95:
 translate zh_Hans daughter_storyline_219_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:18144
 translate zh_Hans daughter_storyline_220_c3e49c9c:
@@ -39080,7 +39080,7 @@ translate zh_Hans daughter_storyline_220_d6edef32:
 translate zh_Hans daughter_storyline_220_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:18249
 translate zh_Hans daughter_storyline_221_d19a07de:
@@ -39256,7 +39256,7 @@ translate zh_Hans daughter_storyline_221_92c2a2db:
 translate zh_Hans daughter_storyline_221_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:18340
 translate zh_Hans daughter_storyline_222_613907ca:
@@ -39264,7 +39264,7 @@ translate zh_Hans daughter_storyline_222_613907ca:
     # nvl clear
     # nvlscott "Yo bro, check this out 🔥"
     nvl clear
-    nvlscott "哟，兄弟，快看这个骚货 🔥"
+    nvlscott "哟，兄弟，快看这个 🔥"
 
 # game/scripts/dialogues/daughter_storyline.rpy:18346
 translate zh_Hans daughter_storyline_222_d0734898:
@@ -39462,7 +39462,7 @@ translate zh_Hans daughter_storyline_222_fbf5497a:
 translate zh_Hans daughter_storyline_222_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:18445
 translate zh_Hans daughter_storyline_223_62903b89:
@@ -39470,7 +39470,7 @@ translate zh_Hans daughter_storyline_223_62903b89:
     # nvl clear
     # nvljohn "Hey Jenna, do you have any new info about Elsa?"
     nvl clear
-    nvljohn "嘿，珍娜，关于艾莎那骚货，你有什么新消息吗？"
+    nvljohn "嘿，珍娜，关于艾莎，你有什么新消息吗？"
 
 # game/scripts/dialogues/daughter_storyline.rpy:18449
 translate zh_Hans daughter_storyline_223_94b6e8bb:
@@ -39566,7 +39566,7 @@ translate zh_Hans daughter_storyline_223_4fc65061:
 translate zh_Hans daughter_storyline_223_b10974c9:
 
     # nvljenna "Hahaha, Elsa always had her 'moments'"
-    nvljenna "哈哈，艾莎那骚货总有她的‘高光时刻’。"
+    nvljenna "哈哈，艾莎一直都会有这种‘时刻’。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:18481
 translate zh_Hans daughter_storyline_223_59b57098:
@@ -39626,7 +39626,7 @@ translate zh_Hans daughter_storyline_223_829d67ce:
 translate zh_Hans daughter_storyline_223_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:18532
 translate zh_Hans daughter_storyline_224_61ea0540:
@@ -39700,7 +39700,7 @@ translate zh_Hans daughter_storyline_224_a76f25ff:
 translate zh_Hans daughter_storyline_224_5195dab0:
 
     # nvld "The instructor said the machine helps us get used to the rhythm and depth"
-    nvld "教练说那机器能帮助我们适应节奏和深度，更好地被操开。"
+    nvld "教练说那机器能帮助我们适应节奏和深度。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:18558
 translate zh_Hans daughter_storyline_224_9fe5cb59:
@@ -39808,73 +39808,73 @@ translate zh_Hans daughter_storyline_224_6d4b08d0:
 translate zh_Hans daughter_storyline_224_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:18621
 translate zh_Hans daughter_storyline_224_after_797adb07:
 
     # mc "{i}I really hope all these sexual exercises don’t harm her…"
-    mc ""
+    mc "{i}真希望这些性爱练习不会伤到她……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:18623
 translate zh_Hans daughter_storyline_224_after_4448b2f3:
 
     # mc "{i}She’s pregnant, after all."
-    mc ""
+    mc "{i}毕竟她怀孕了。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:18625
 translate zh_Hans daughter_storyline_224_after_d09fbb08:
 
     # mc "{i}But she sounds so happy and confident about it."
-    mc ""
+    mc "{i}可她听起来又那么开心、那么有信心。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:18627
 translate zh_Hans daughter_storyline_224_after_f9b56c2f:
 
     # mc "{i}Still, I can’t stop worrying about her health."
-    mc ""
+    mc "{i}即便如此，我还是忍不住担心她的身体。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:18629
 translate zh_Hans daughter_storyline_224_after_b24cf86f:
 
     # mc "{i}I’ll have to keep paying close attention to everything she tells me."
-    mc ""
+    mc "{i}我得继续认真留意她告诉我的每一件事。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:18631
 translate zh_Hans daughter_storyline_224_after_fac665e9:
 
     # mc "{i}And speaking of paying attention…"
-    mc ""
+    mc "{i}说到留意……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:18633
 translate zh_Hans daughter_storyline_224_after_dbafa40f:
 
     # mc "{i}Elsa’s been acting too strange lately."
-    mc ""
+    mc "{i}Elsa 最近的样子也太奇怪了。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:18635
 translate zh_Hans daughter_storyline_224_after_87e11898:
 
     # mc "{i}First the drinking, then those nervous looks when we met at the park…"
-    mc ""
+    mc "{i}先是喝酒，然后又是在公园见面时那些紧张的眼神……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:18637
 translate zh_Hans daughter_storyline_224_after_927deecb:
 
     # mc "{i}Something’s not right with her."
-    mc ""
+    mc "{i}她肯定有哪里不对劲。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:18639
 translate zh_Hans daughter_storyline_224_after_7ccedbcd:
 
     # mc "{i}Maybe I should start investigating what’s really going on."
-    mc ""
+    mc "{i}也许我该开始查查到底发生了什么。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:18641
 translate zh_Hans daughter_storyline_224_after_a7077ccd:
 
     # mc "{i}If she doesn’t want to tell me, I’ll find out another way…"
-    mc ""
+    mc "{i}如果她不愿意告诉我，我就换个办法弄清楚……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:18660
 translate zh_Hans daughter_storyline_225_08c75daf:
@@ -39906,7 +39906,7 @@ translate zh_Hans daughter_storyline_225_46d4272f:
 translate zh_Hans daughter_storyline_225_e878bf8f:
 
     # nvljohn "Seeing you taking it like that drives me crazy 😍"
-    nvljohn "看到你那样被操，我简直要疯了！😍"
+    nvljohn "看到你那样承受，我简直要疯了！😍"
 
 # game/scripts/dialogues/daughter_storyline.rpy:18676
 translate zh_Hans daughter_storyline_225_be6bc2a6:
@@ -40056,7 +40056,7 @@ translate zh_Hans daughter_storyline_225_72094482:
 translate zh_Hans daughter_storyline_225_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:18757
 translate zh_Hans daughter_storyline_226_72400d00:
@@ -40232,7 +40232,7 @@ translate zh_Hans daughter_storyline_226_186c74c6:
 translate zh_Hans daughter_storyline_226_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:18848
 translate zh_Hans daughter_storyline_227_0be0d9c9:
@@ -40408,7 +40408,7 @@ translate zh_Hans daughter_storyline_227_15022eae:
 translate zh_Hans daughter_storyline_227_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:18940
 translate zh_Hans daughter_storyline_228_b0095232:
@@ -40536,7 +40536,7 @@ translate zh_Hans daughter_storyline_228_5cb450b3:
 translate zh_Hans daughter_storyline_228_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:19015
 translate zh_Hans daughter_storyline_229_478a5b5f:
@@ -40718,7 +40718,7 @@ translate zh_Hans daughter_storyline_229_8c8c12f0:
 translate zh_Hans daughter_storyline_229_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:19108
 translate zh_Hans daughter_storyline_230_39307518:
@@ -40894,7 +40894,7 @@ translate zh_Hans daughter_storyline_230_860011e1:
 translate zh_Hans daughter_storyline_230_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:19203
 translate zh_Hans daughter_storyline_231_fc764d44:
@@ -40998,7 +40998,7 @@ translate zh_Hans daughter_storyline_231_df268c1f:
 translate zh_Hans daughter_storyline_231_7d6bda60:
 
     # nvlhelsa "…"
-    nvlhelsa ""
+    nvlhelsa "…"
 
 # game/scripts/dialogues/daughter_storyline.rpy:19239
 translate zh_Hans daughter_storyline_231_ba13cdea:
@@ -41034,7 +41034,7 @@ translate zh_Hans daughter_storyline_231_b69de9cc:
 translate zh_Hans daughter_storyline_231_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:19282
 translate zh_Hans daughter_storyline_232_53d8e70e:
@@ -41186,7 +41186,7 @@ translate zh_Hans daughter_storyline_232_8b9d78df:
 translate zh_Hans daughter_storyline_232_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:19365
 translate zh_Hans daughter_storyline_233_b680dc8b:
@@ -41356,7 +41356,7 @@ translate zh_Hans daughter_storyline_233_722ea763:
 translate zh_Hans daughter_storyline_233_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:19454
 translate zh_Hans daughter_storyline_234_515e2589:
@@ -41538,7 +41538,7 @@ translate zh_Hans daughter_storyline_234_8f9fad57:
 translate zh_Hans daughter_storyline_234_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:19552
 translate zh_Hans daughter_storyline_235_f5c6dd48:
@@ -41750,7 +41750,7 @@ translate zh_Hans daughter_storyline_235_880b73f5:
 translate zh_Hans daughter_storyline_235_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:19655
 translate zh_Hans daughter_storyline_236_c19bb1b2:
@@ -41926,7 +41926,7 @@ translate zh_Hans daughter_storyline_236_61bc99a1:
 translate zh_Hans daughter_storyline_236_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:19746
 translate zh_Hans daughter_storyline_237_880615ce:
@@ -42018,7 +42018,7 @@ translate zh_Hans daughter_storyline_237_56a49513:
 translate zh_Hans daughter_storyline_237_a77826ab:
 
     # nvld "I felt like a proper pornstar tonight 🤣"
-    nvld "我今晚感觉自己像个真正的骚货，AV女优 🤣"
+    nvld "我今晚感觉自己像个真正的成人电影演员 🤣"
 
 # game/scripts/dialogues/daughter_storyline.rpy:19786
 translate zh_Hans daughter_storyline_237_606d79fb:
@@ -42054,7 +42054,7 @@ translate zh_Hans daughter_storyline_237_cdf27df7:
 translate zh_Hans daughter_storyline_237_e86966bf:
 
     # nvljohn "Then rest, sweetheart, you deserve it"
-    nvljohn "那就好好休息吧，宝贝，你值得被肏得这么爽。"
+    nvljohn "那就好好休息吧，宝贝，这是你应得的。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:19798
 translate zh_Hans daughter_storyline_237_6f52a30d:
@@ -42078,7 +42078,7 @@ translate zh_Hans daughter_storyline_237_879eeda4:
 translate zh_Hans daughter_storyline_237_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:19837
 translate zh_Hans daughter_storyline_238_3bd97609:
@@ -42128,7 +42128,7 @@ translate zh_Hans daughter_storyline_238_1e83e45a:
 translate zh_Hans daughter_storyline_238_7d6bda60:
 
     # nvlhelsa "…"
-    nvlhelsa ""
+    nvlhelsa "…"
 
 # game/scripts/dialogues/daughter_storyline.rpy:19855
 translate zh_Hans daughter_storyline_238_497cdc9c:
@@ -42212,7 +42212,7 @@ translate zh_Hans daughter_storyline_238_6b08730e:
 translate zh_Hans daughter_storyline_238_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:19914
 translate zh_Hans daughter_storyline_239_f930ee9d:
@@ -42370,7 +42370,7 @@ translate zh_Hans daughter_storyline_239_ac588721:
 translate zh_Hans daughter_storyline_239_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:19999
 translate zh_Hans daughter_storyline_240_cbdbcfee:
@@ -42438,7 +42438,7 @@ translate zh_Hans daughter_storyline_240_68bddf10:
 translate zh_Hans daughter_storyline_240_edc73327:
 
     # nvljohn "…"
-    nvljohn ""
+    nvljohn "…"
 
 # game/scripts/dialogues/daughter_storyline.rpy:20027
 translate zh_Hans daughter_storyline_240_17d3ea47:
@@ -42528,7 +42528,7 @@ translate zh_Hans daughter_storyline_240_a0c76732:
 translate zh_Hans daughter_storyline_240_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:20088
 translate zh_Hans daughter_storyline_241_24c4638a:
@@ -42662,7 +42662,7 @@ translate zh_Hans daughter_storyline_241_f82c7ada:
 translate zh_Hans daughter_storyline_241_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:20169
 translate zh_Hans daughter_storyline_242_c90c268e:
@@ -42838,7 +42838,7 @@ translate zh_Hans daughter_storyline_242_b1408433:
 translate zh_Hans daughter_storyline_242_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:20268
 translate zh_Hans daughter_storyline_243_95085d4c:
@@ -43008,7 +43008,7 @@ translate zh_Hans daughter_storyline_243_f567c5a3:
 translate zh_Hans daughter_storyline_243_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:20357
 translate zh_Hans daughter_storyline_244_0ef2b934:
@@ -43142,7 +43142,7 @@ translate zh_Hans daughter_storyline_244_cbd7120b:
 translate zh_Hans daughter_storyline_244_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:20438
 translate zh_Hans daughter_storyline_245_39e1bbf1:
@@ -43318,7 +43318,7 @@ translate zh_Hans daughter_storyline_245_53a78454:
 translate zh_Hans daughter_storyline_245_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:20529
 translate zh_Hans daughter_storyline_246_a2998a2f:
@@ -43386,7 +43386,7 @@ translate zh_Hans daughter_storyline_246_fef72132:
 translate zh_Hans daughter_storyline_246_c2709b45:
 
     # nvlscott "Yeah well, I’m done babysitting drunk women"
-    nvlscott "是啊，我他妈受够了伺候那些醉酒的骚货了。"
+    nvlscott "是啊，我已经受够了照看那些喝醉的女人。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:20553
 translate zh_Hans daughter_storyline_246_11acf1d2:
@@ -43488,7 +43488,7 @@ translate zh_Hans daughter_storyline_246_9058ad11:
 translate zh_Hans daughter_storyline_246_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:20618
 translate zh_Hans daughter_storyline_247_434cd7f9:
@@ -43652,7 +43652,7 @@ translate zh_Hans daughter_storyline_247_a6ad8f5c:
 translate zh_Hans daughter_storyline_247_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:20709
 translate zh_Hans daughter_storyline_248_72400d00:
@@ -43762,7 +43762,7 @@ translate zh_Hans daughter_storyline_248_8a721089:
 translate zh_Hans daughter_storyline_248_7d6bda60:
 
     # nvlhelsa "…"
-    nvlhelsa ""
+    nvlhelsa "…"
 
 # game/scripts/dialogues/daughter_storyline.rpy:20747
 translate zh_Hans daughter_storyline_248_b93453ed:
@@ -43840,7 +43840,7 @@ translate zh_Hans daughter_storyline_248_9e2527de:
 translate zh_Hans daughter_storyline_248_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:20804
 translate zh_Hans daughter_storyline_249_72680770:
@@ -43962,7 +43962,7 @@ translate zh_Hans daughter_storyline_249_f56d97d2:
 translate zh_Hans daughter_storyline_249_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:20877
 translate zh_Hans daughter_storyline_250_07752c7a:
@@ -44132,7 +44132,7 @@ translate zh_Hans daughter_storyline_250_7e94f423:
 translate zh_Hans daughter_storyline_250_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:20966
 translate zh_Hans daughter_storyline_251_324bbf33:
@@ -44266,7 +44266,7 @@ translate zh_Hans daughter_storyline_251_b5d17c4d:
 translate zh_Hans daughter_storyline_251_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:21051
 translate zh_Hans daughter_storyline_252_3ed6ffca:
@@ -44418,7 +44418,7 @@ translate zh_Hans daughter_storyline_252_98ffeba3:
 translate zh_Hans daughter_storyline_252_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:21134
 translate zh_Hans daughter_storyline_253_92d76e7b:
@@ -44540,7 +44540,7 @@ translate zh_Hans daughter_storyline_253_908f0b27:
 translate zh_Hans daughter_storyline_253_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:21211
 translate zh_Hans daughter_storyline_254_a3b54b1c:
@@ -44686,7 +44686,7 @@ translate zh_Hans daughter_storyline_254_7d4752e2:
 translate zh_Hans daughter_storyline_254_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:21296
 translate zh_Hans daughter_storyline_255_e7022000:
@@ -44790,7 +44790,7 @@ translate zh_Hans daughter_storyline_255_68f3d39a:
 translate zh_Hans daughter_storyline_255_edc73327:
 
     # nvljohn "…"
-    nvljohn ""
+    nvljohn "…"
 
 # game/scripts/dialogues/daughter_storyline.rpy:21332
 translate zh_Hans daughter_storyline_255_4672701a:
@@ -44826,7 +44826,7 @@ translate zh_Hans daughter_storyline_255_4d2990d8:
 translate zh_Hans daughter_storyline_255_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:21375
 translate zh_Hans daughter_storyline_256_b789048f:
@@ -44858,7 +44858,7 @@ translate zh_Hans daughter_storyline_256_2d0bf6e2:
 translate zh_Hans daughter_storyline_256_0ef54abc:
 
     # nvld "It’s DP time… both holes filled 😈"
-    nvld "是时候双龙入洞了……两个骚穴都要被塞满啦 😈"
+    nvld "是时候双重挑战了……前后都要被填满啦 😈"
 
 # game/scripts/dialogues/daughter_storyline.rpy:21387
 translate zh_Hans daughter_storyline_256_6e398e13:
@@ -44960,7 +44960,7 @@ translate zh_Hans daughter_storyline_256_47d899fd:
 translate zh_Hans daughter_storyline_256_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:21452
 translate zh_Hans daughter_storyline_257_16c81332:
@@ -45070,7 +45070,7 @@ translate zh_Hans daughter_storyline_257_17c8a897:
 translate zh_Hans daughter_storyline_257_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:21521
 translate zh_Hans daughter_storyline_258_52f54653:
@@ -45096,7 +45096,7 @@ translate zh_Hans daughter_storyline_258_d41dd969:
 translate zh_Hans daughter_storyline_258_35cef81a:
 
     # nvld "Both holes filled the whole time 😏"
-    nvld "前后两个骚穴都被塞得满满的😏"
+    nvld "前后都被填得满满的😏"
 
 # game/scripts/dialogues/daughter_storyline.rpy:21531
 translate zh_Hans daughter_storyline_258_18c87397:
@@ -45198,7 +45198,7 @@ translate zh_Hans daughter_storyline_258_4fecd8bd:
 translate zh_Hans daughter_storyline_258_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:21600
 translate zh_Hans daughter_storyline_259_4e2eacda:
@@ -45362,7 +45362,7 @@ translate zh_Hans daughter_storyline_259_908f0b27:
 translate zh_Hans daughter_storyline_259_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:21691
 translate zh_Hans daughter_storyline_260_f8d99800:
@@ -45514,7 +45514,7 @@ translate zh_Hans daughter_storyline_260_137775a6:
 translate zh_Hans daughter_storyline_260_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:21797
 translate zh_Hans daughter_storyline_1000_58012663:
@@ -45576,7 +45576,7 @@ translate zh_Hans daughter_storyline_1000_e46a1751:
 translate zh_Hans daughter_storyline_1000_364e338c:
 
     # nvljohn "I see 😊"
-    nvljohn "I see 😊|我明白了😊"
+    nvljohn "我明白了😊"
 
 # game/scripts/dialogues/daughter_storyline.rpy:21823
 translate zh_Hans daughter_storyline_1000_574ae2f6:
@@ -45648,7 +45648,7 @@ translate zh_Hans daughter_storyline_1000_c7df8bc7:
 translate zh_Hans daughter_storyline_1000_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:21876
 translate zh_Hans daughter_storyline_1001_872a7a1f:
@@ -45974,7 +45974,7 @@ translate zh_Hans daughter_storyline_1001_f532077b:
 translate zh_Hans daughter_storyline_1001_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:22015
 translate zh_Hans daughter_storyline_1002_37cdddc5:
@@ -46300,7 +46300,7 @@ translate zh_Hans daughter_storyline_1002_7a5dae9d:
 translate zh_Hans daughter_storyline_1002_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:22168
 translate zh_Hans daughter_storyline_1003_58012663:
@@ -46602,7 +46602,7 @@ translate zh_Hans daughter_storyline_1003_79c6fc91:
 translate zh_Hans daughter_storyline_1003_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:22305
 translate zh_Hans daughter_storyline_1004_fad54452:
@@ -46916,7 +46916,7 @@ translate zh_Hans daughter_storyline_1004_00baa4e6:
 translate zh_Hans daughter_storyline_1004_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:22444
 translate zh_Hans daughter_storyline_1005_76b2fe88:
@@ -47006,7 +47006,7 @@ translate zh_Hans daughter_storyline_1005_e9ac7129:
 translate zh_Hans daughter_storyline_1005_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:22515
 translate zh_Hans daughter_storyline_1006_1b82d69e:
@@ -47260,7 +47260,7 @@ translate zh_Hans daughter_storyline_1006_83752d07:
 translate zh_Hans daughter_storyline_1006_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:22642
 translate zh_Hans daughter_storyline_1007_76b2fe88:
@@ -47284,7 +47284,7 @@ translate zh_Hans daughter_storyline_1007_d104b6dd:
 translate zh_Hans daughter_storyline_1007_051aac3e:
 
     # nvljohn "[d_name_is]??"
-    nvljohn ""
+    nvljohn "[d_name_is]??"
 
 # game/scripts/dialogues/daughter_storyline.rpy:22654
 translate zh_Hans daughter_storyline_1007_d4110ac0:
@@ -47410,37 +47410,37 @@ translate zh_Hans daughter_storyline_1007_1c068fa3:
 translate zh_Hans daughter_storyline_1007_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:22721
 translate zh_Hans daughter_storyline_1007_after_cbb9e9e7:
 
     # mc "{i}Strange"
-    mc ""
+    mc "{i}奇怪。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:22723
 translate zh_Hans daughter_storyline_1007_after_973d9846:
 
     # mc "{i}I have a feeling she sent that photo to me on purpose"
-    mc ""
+    mc "{i}我总觉得那张照片是她故意发给我的。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:22725
 translate zh_Hans daughter_storyline_1007_after_a3a80bc5:
 
     # mc "{i}Like she wanted to do it"
-    mc ""
+    mc "{i}就像她本来就想这么做。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:22727
 translate zh_Hans daughter_storyline_1007_after_27c0dc53:
 
     # mc "{i}Maybe I'm just overthinking it though"
-    mc ""
+    mc "{i}不过也可能只是我想太多了。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:22729
 translate zh_Hans daughter_storyline_1007_after_f61c8bdf:
 
     # mc "{i}Maybe she really did send it by accident"
-    mc ""
+    mc "{i}也许她真的是不小心发错了。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:22731
 translate zh_Hans daughter_storyline_1007_after_a04ce5ad:
@@ -47452,31 +47452,31 @@ translate zh_Hans daughter_storyline_1007_after_a04ce5ad:
 translate zh_Hans daughter_storyline_1007_after_4ec5a588:
 
     # mc "{i}She can't feel anything like that towards me"
-    mc ""
+    mc "{i}她不可能对我有那种感觉。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:22735
 translate zh_Hans daughter_storyline_1007_after_0947fd66:
 
     # mc "{i}She's my daughter, and she sees me as her father"
-    mc ""
+    mc "{i}她是我的女儿，她把我当成父亲。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:22737
 translate zh_Hans daughter_storyline_1007_after_749d1648:
 
     # mc "{i}Just as her father"
-    mc ""
+    mc "{i}只是父亲。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:22739
 translate zh_Hans daughter_storyline_1007_after_eebe989b:
 
     # mc "{i}She can't feel anything else towards me"
-    mc ""
+    mc "{i}她不可能对我有别的感情。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:22741
 translate zh_Hans daughter_storyline_1007_after_f257d969:
 
     # mc "{i}Yes, I'm probably just overthinking it"
-    mc ""
+    mc "{i}没错，大概只是我想太多了。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:22760
 translate zh_Hans daughter_storyline_1008_48f70817:
@@ -47916,7 +47916,7 @@ translate zh_Hans daughter_storyline_1008_7aed28d2:
 translate zh_Hans daughter_storyline_1008_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:22950
 translate zh_Hans daughter_storyline_1009_944dd063:
@@ -48176,7 +48176,7 @@ translate zh_Hans daughter_storyline_1009_33321b19:
 translate zh_Hans daughter_storyline_1009_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:23059
 translate zh_Hans daughter_storyline_1009_after_22cc5ccc:
@@ -48267,4 +48267,3 @@ translate zh_Hans daughter_storyline_1009_after_77930b49:
 
     # mc "{i}I can't do anything like that to her"
     mc "{i}我不能对她做那种事。"
-

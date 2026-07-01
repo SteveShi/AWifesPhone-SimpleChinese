@@ -84,7 +84,7 @@ translate zh_Hans wife_gym_storyline_0_a0c9de7f:
 translate zh_Hans wife_gym_storyline_0_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:110
 translate zh_Hans wife_gym_storyline_1_8aeb598f:
@@ -206,7 +206,7 @@ translate zh_Hans wife_gym_storyline_1_55726787:
 translate zh_Hans wife_gym_storyline_1_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:186
 translate zh_Hans wife_gym_storyline_2_14467712:
@@ -382,7 +382,7 @@ translate zh_Hans wife_gym_storyline_2_af044d20:
 translate zh_Hans wife_gym_storyline_2_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:283
 translate zh_Hans wife_gym_storyline_2_after_31689849:
@@ -624,7 +624,7 @@ translate zh_Hans wife_gym_storyline_3_52892467:
 translate zh_Hans wife_gym_storyline_3_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:416
 translate zh_Hans wife_gym_storyline_4_253c5385:
@@ -746,7 +746,7 @@ translate zh_Hans wife_gym_storyline_4_4ef60ac1:
 translate zh_Hans wife_gym_storyline_4_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:495
 translate zh_Hans wife_gym_storyline_5_37cdddc5:
@@ -898,7 +898,7 @@ translate zh_Hans wife_gym_storyline_5_2612df7c:
 translate zh_Hans wife_gym_storyline_5_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:580
 translate zh_Hans wife_gym_storyline_5_after_5a10c33c:
@@ -1068,7 +1068,7 @@ translate zh_Hans wife_gym_storyline_6_bc544011:
 translate zh_Hans wife_gym_storyline_6_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:689
 translate zh_Hans wife_gym_storyline_7_76b2fe88:
@@ -1260,7 +1260,7 @@ translate zh_Hans wife_gym_storyline_7_e8419e42:
 translate zh_Hans wife_gym_storyline_7_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:788
 translate zh_Hans wife_gym_storyline_8_14467712:
@@ -1454,7 +1454,7 @@ translate zh_Hans wife_gym_storyline_8_218e3866:
 translate zh_Hans wife_gym_storyline_8_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:895
 translate zh_Hans wife_gym_storyline_9_e37cd402:
@@ -1684,7 +1684,7 @@ translate zh_Hans wife_gym_storyline_9_79a2cc60:
 translate zh_Hans wife_gym_storyline_9_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:1008
 translate zh_Hans wife_gym_storyline_10_68e89eae:
@@ -1746,7 +1746,7 @@ translate zh_Hans wife_gym_storyline_10_15036790:
 translate zh_Hans wife_gym_storyline_10_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:1063
 translate zh_Hans wife_gym_storyline_11_37cdddc5:
@@ -1814,7 +1814,7 @@ translate zh_Hans wife_gym_storyline_11_51e53c64_1:
 translate zh_Hans wife_gym_storyline_11_d76b5685:
 
     # nvljenna "I see 😊"
-    nvljenna "I see 😊|我明白了😊"
+    nvljenna "我明白了😊"
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:1087
 translate zh_Hans wife_gym_storyline_11_f0321683:
@@ -1982,7 +1982,7 @@ translate zh_Hans wife_gym_storyline_11_36a0ece4:
 translate zh_Hans wife_gym_storyline_11_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:1176
 translate zh_Hans wife_gym_storyline_11_after_98a2d5e3:
@@ -2260,7 +2260,7 @@ translate zh_Hans wife_gym_storyline_12_10befb9c:
 translate zh_Hans wife_gym_storyline_12_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:1320
 translate zh_Hans wife_gym_storyline_13_1e530d7b:
@@ -2616,7 +2616,7 @@ translate zh_Hans wife_gym_storyline_13_f0def87e:
 translate zh_Hans wife_gym_storyline_13_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:1471
 translate zh_Hans wife_gym_storyline_13_after_a04ce5ad:
@@ -2952,7 +2952,7 @@ translate zh_Hans wife_gym_storyline_14_821674fc:
 translate zh_Hans wife_gym_storyline_14_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:1637
 translate zh_Hans wife_gym_storyline_15_14467712:
@@ -3164,7 +3164,7 @@ translate zh_Hans wife_gym_storyline_15_5906797e:
 translate zh_Hans wife_gym_storyline_15_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:1744
 translate zh_Hans wife_gym_storyline_16_76b2fe88:
@@ -3398,7 +3398,7 @@ translate zh_Hans wife_gym_storyline_16_2b991cbc:
 translate zh_Hans wife_gym_storyline_16_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:1853
 translate zh_Hans wife_gym_storyline_16_after_59b72ec0:
@@ -3754,7 +3754,7 @@ translate zh_Hans wife_gym_storyline_17_e1727126:
 translate zh_Hans wife_gym_storyline_17_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:2027
 translate zh_Hans wife_gym_storyline_18_88334d25:
@@ -3990,7 +3990,7 @@ translate zh_Hans wife_gym_storyline_18_83683ea6:
 translate zh_Hans wife_gym_storyline_18_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:2138
 translate zh_Hans wife_gym_storyline_18_after_b06fd747:
@@ -4190,7 +4190,7 @@ translate zh_Hans wife_gym_storyline_19_521c7406:
 translate zh_Hans wife_gym_storyline_19_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:2252
 translate zh_Hans wife_gym_storyline_20_325b3dfa:
@@ -4228,7 +4228,7 @@ translate zh_Hans wife_gym_storyline_20_15036790:
 translate zh_Hans wife_gym_storyline_20_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_gym_storyline.rpy:2295
 translate zh_Hans wife_gym_storyline_20_after_52c162de:
@@ -4470,5 +4470,5 @@ translate zh_Hans wife_gym_storyline_21_bf4912e3:
 translate zh_Hans wife_gym_storyline_21_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 

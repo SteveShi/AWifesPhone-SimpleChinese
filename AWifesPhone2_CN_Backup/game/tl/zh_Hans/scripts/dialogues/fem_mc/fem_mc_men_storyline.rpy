@@ -216,7 +216,7 @@ translate zh_Hans fem_mc_men_storyline_0_9eaf1c46:
 translate zh_Hans fem_mc_men_storyline_0_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:169
 translate zh_Hans fem_mc_men_storyline_0_after_9cd01a99:
@@ -458,7 +458,7 @@ translate zh_Hans fem_mc_men_storyline_1_3eaec3b9:
 translate zh_Hans fem_mc_men_storyline_1_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:303
 translate zh_Hans fem_mc_men_storyline_2_4c707c1b:
@@ -742,7 +742,7 @@ translate zh_Hans fem_mc_men_storyline_2_3e953c47:
 translate zh_Hans fem_mc_men_storyline_2_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:437
 translate zh_Hans fem_mc_men_storyline_2_after_9adc17f0:
@@ -1032,7 +1032,7 @@ translate zh_Hans fem_mc_men_storyline_3_8d2dbdb9:
 translate zh_Hans fem_mc_men_storyline_3_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:582
 translate zh_Hans fem_mc_men_storyline_3_after_25aba8d3:
@@ -1328,7 +1328,7 @@ translate zh_Hans fem_mc_men_storyline_4_06f82655:
 translate zh_Hans fem_mc_men_storyline_4_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:728
 translate zh_Hans fem_mc_men_storyline_5_58dedb49:
@@ -1774,7 +1774,7 @@ translate zh_Hans fem_mc_men_storyline_5_2e576812_1:
 translate zh_Hans fem_mc_men_storyline_5_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:908
 translate zh_Hans fem_mc_men_storyline_5_after_05cb6349:
@@ -2088,7 +2088,7 @@ translate zh_Hans fem_mc_men_storyline_6_cced1ae7:
 translate zh_Hans fem_mc_men_storyline_6_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:1070
 translate zh_Hans fem_mc_men_storyline_7_738538e6:
@@ -2456,7 +2456,7 @@ translate zh_Hans fem_mc_men_storyline_7_42761557:
 translate zh_Hans fem_mc_men_storyline_7_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:1234
 translate zh_Hans fem_mc_men_storyline_7_after_bb016b15:
@@ -2746,7 +2746,7 @@ translate zh_Hans fem_mc_men_storyline_8_6796e065:
 translate zh_Hans fem_mc_men_storyline_8_c58b864f:
 
     # nvlgeorge "I'm not letting anyone touch my friend"
-    nvlgeorge "我不会让任何人碰我朋友的骚穴"
+    nvlgeorge "我不会让任何人碰我的朋友。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:1349
 translate zh_Hans fem_mc_men_storyline_8_e0392ca9:
@@ -2854,7 +2854,7 @@ translate zh_Hans fem_mc_men_storyline_8_3c79178a:
 translate zh_Hans fem_mc_men_storyline_8_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:1414
 translate zh_Hans fem_mc_men_storyline_9_1ebd0fcc:
@@ -3258,7 +3258,7 @@ translate zh_Hans fem_mc_men_storyline_9_2dd7a182:
 translate zh_Hans fem_mc_men_storyline_9_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:1582
 translate zh_Hans fem_mc_men_storyline_9_after_f214f7bb:
@@ -3584,7 +3584,7 @@ translate zh_Hans fem_mc_men_storyline_10_40c56830:
 translate zh_Hans fem_mc_men_storyline_10_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:1742
 translate zh_Hans fem_mc_men_storyline_11_9aa27638:
@@ -4360,7 +4360,7 @@ translate zh_Hans fem_mc_men_storyline_11_7e9dd2a6:
 translate zh_Hans fem_mc_men_storyline_11_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:2031
 translate zh_Hans fem_mc_men_storyline_12_93647242:
@@ -4494,7 +4494,7 @@ translate zh_Hans fem_mc_men_storyline_12_f488e43a:
 translate zh_Hans fem_mc_men_storyline_12_3a49b2ef:
 
     # nvljenna "You can't even imagine how good you'll feel once you start living like other women do"
-    nvljenna "看视频，然后想象艾尔莎是在她女儿旁边做爱，而不是在她朋友旁边"
+    nvljenna "等你开始像其他女人一样生活，你根本想象不到那感觉会有多好。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:2077
 translate zh_Hans fem_mc_men_storyline_12_e943418a:
@@ -4698,7 +4698,7 @@ translate zh_Hans fem_mc_men_storyline_12_81d87e4a:
 translate zh_Hans fem_mc_men_storyline_12_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:2176
 translate zh_Hans fem_mc_men_storyline_13_b5e7a6f2:
@@ -5066,7 +5066,7 @@ translate zh_Hans fem_mc_men_storyline_13_58a32414:
 translate zh_Hans fem_mc_men_storyline_13_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:2340
 translate zh_Hans fem_mc_men_storyline_13_after_18b4dc3a:
@@ -5506,7 +5506,7 @@ translate zh_Hans fem_mc_men_storyline_14_2dd7a182:
 translate zh_Hans fem_mc_men_storyline_14_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:2540
 translate zh_Hans fem_mc_men_storyline_15_dfb41690:
@@ -5796,7 +5796,7 @@ translate zh_Hans fem_mc_men_storyline_15_f7d4e9f4_1:
 translate zh_Hans fem_mc_men_storyline_15_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:2667
 translate zh_Hans fem_mc_men_storyline_16_a0e01dbe:
@@ -6170,7 +6170,7 @@ translate zh_Hans fem_mc_men_storyline_16_0a6a2fce:
 translate zh_Hans fem_mc_men_storyline_16_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:2821
 translate zh_Hans fem_mc_men_storyline_16_after_95c53766:
@@ -6272,7 +6272,7 @@ translate zh_Hans fem_mc_men_storyline_16_after_8509e776:
 translate zh_Hans fem_mc_men_storyline_16_after_5a669fab:
 
     # mc "{i}I'm sure"
-    mc "{i}I'm sure|我敢肯定。"
+    mc "我敢肯定。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:2855
 translate zh_Hans fem_mc_men_storyline_16_after_12e3c47c:
@@ -6724,7 +6724,7 @@ translate zh_Hans fem_mc_men_storyline_17_b25e41c4:
 translate zh_Hans fem_mc_men_storyline_17_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:3057
 translate zh_Hans fem_mc_men_storyline_18_2e275e65:
@@ -6810,7 +6810,7 @@ translate zh_Hans fem_mc_men_storyline_18_ee9c21cf:
 translate zh_Hans fem_mc_men_storyline_18_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:3118
 translate zh_Hans fem_mc_men_storyline_19_ea1142b5:
@@ -7022,7 +7022,7 @@ translate zh_Hans fem_mc_men_storyline_19_b25e41c4:
 translate zh_Hans fem_mc_men_storyline_19_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:3219
 translate zh_Hans fem_mc_men_storyline_20_37235e97:
@@ -7450,7 +7450,7 @@ translate zh_Hans fem_mc_men_storyline_20_40518271_2:
 translate zh_Hans fem_mc_men_storyline_20_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:3399
 translate zh_Hans fem_mc_men_storyline_20_after_eef92cc0:
@@ -7842,7 +7842,7 @@ translate zh_Hans fem_mc_men_storyline_21_ccedc5f0:
 translate zh_Hans fem_mc_men_storyline_21_fd007de1:
 
     # nvlgreg "After that, if I see you're really not interested, I'll leave you alone"
-    nvlgreg "尤其是当他们同时操我的下面和后面时"
+    nvlgreg "之后如果我发现你真的不感兴趣，我就不会再打扰你了。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:3548
 translate zh_Hans fem_mc_men_storyline_21_cc10f754:
@@ -8040,7 +8040,7 @@ translate zh_Hans fem_mc_men_storyline_21_2dd7a182:
 translate zh_Hans fem_mc_men_storyline_21_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:3643
 translate zh_Hans fem_mc_men_storyline_22_2e275e65:
@@ -8234,7 +8234,7 @@ translate zh_Hans fem_mc_men_storyline_22_4d8a2b66:
 translate zh_Hans fem_mc_men_storyline_22_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:3736
 translate zh_Hans fem_mc_men_storyline_23_c9f8c62e:
@@ -8470,7 +8470,7 @@ translate zh_Hans fem_mc_men_storyline_23_acedcbfe:
 translate zh_Hans fem_mc_men_storyline_23_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:3845
 translate zh_Hans fem_mc_men_storyline_24_2e275e65:
@@ -8766,7 +8766,7 @@ translate zh_Hans fem_mc_men_storyline_24_2dd7a182:
 translate zh_Hans fem_mc_men_storyline_24_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:3976
 translate zh_Hans fem_mc_men_storyline_25_f15d133f:
@@ -8948,7 +8948,7 @@ translate zh_Hans fem_mc_men_storyline_25_710d2c2d:
 translate zh_Hans fem_mc_men_storyline_25_816e63eb:
 
     # nvljenna "Did you know that, in most friendships between men and women, one of them wants to sleep with the other?"
-    nvljenna "他们操我的下面和嘴巴时也不错，但没那么强烈"
+    nvljenna "你知道吗，在大多数男女友谊里，总有一方想和另一方上床。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:4038
 translate zh_Hans fem_mc_men_storyline_25_6b897b58:
@@ -9206,7 +9206,7 @@ translate zh_Hans fem_mc_men_storyline_25_376503af:
 translate zh_Hans fem_mc_men_storyline_25_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:4166
 translate zh_Hans fem_mc_men_storyline_25_after_a04ce5ad:
@@ -9424,7 +9424,7 @@ translate zh_Hans fem_mc_men_storyline_26_9f268a36:
 translate zh_Hans fem_mc_men_storyline_26_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:4286
 translate zh_Hans fem_mc_men_storyline_27_76b2fe88:
@@ -9928,7 +9928,7 @@ translate zh_Hans fem_mc_men_storyline_27_2dd7a182:
 translate zh_Hans fem_mc_men_storyline_27_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:4487
 translate zh_Hans fem_mc_men_storyline_28_d689d23e:
@@ -10284,7 +10284,7 @@ translate zh_Hans fem_mc_men_storyline_28_6e75c36a:
 translate zh_Hans fem_mc_men_storyline_28_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:4650
 translate zh_Hans fem_mc_men_storyline_29_737cfc2e:
@@ -10562,7 +10562,7 @@ translate zh_Hans fem_mc_men_storyline_29_2dd7a182:
 translate zh_Hans fem_mc_men_storyline_29_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:4778
 translate zh_Hans fem_mc_men_storyline_29_after_2a75fc7f:
@@ -10954,7 +10954,7 @@ translate zh_Hans fem_mc_men_storyline_30_b25e41c4:
 translate zh_Hans fem_mc_men_storyline_30_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:4962
 translate zh_Hans fem_mc_men_storyline_31_2e275e65:
@@ -11520,7 +11520,7 @@ translate zh_Hans fem_mc_men_storyline_31_ae1d81a3:
 translate zh_Hans fem_mc_men_storyline_31_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:5181
 translate zh_Hans fem_mc_men_storyline_32_76b2fe88:
@@ -11952,7 +11952,7 @@ translate zh_Hans fem_mc_men_storyline_32_4528aaba:
 translate zh_Hans fem_mc_men_storyline_32_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:5357
 translate zh_Hans fem_mc_men_storyline_32_after_5eec76bb:
@@ -12146,7 +12146,7 @@ translate zh_Hans fem_mc_men_storyline_33_59893765:
 translate zh_Hans fem_mc_men_storyline_33_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_men_storyline.rpy:5466
 translate zh_Hans fem_mc_men_storyline_33_after_f1081d1f:
@@ -12183,4 +12183,3 @@ translate zh_Hans fem_mc_men_storyline_33_after_abdb2948:
 
     # mc "{i}He'll answer for everything if he tries it again"
     mc "{i}如果他再犯，他将承担一切后果。"
-

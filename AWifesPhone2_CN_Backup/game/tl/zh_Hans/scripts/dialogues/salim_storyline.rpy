@@ -180,7 +180,7 @@ translate zh_Hans salim_new_storyline_0_c3c6fa21:
 translate zh_Hans salim_new_storyline_0_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:158
 translate zh_Hans salim_new_storyline_1_a9b44661:
@@ -356,7 +356,7 @@ translate zh_Hans salim_new_storyline_1_183e3658:
 translate zh_Hans salim_new_storyline_1_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:247
 translate zh_Hans salim_new_storyline_2_8c00d40a:
@@ -478,7 +478,7 @@ translate zh_Hans salim_new_storyline_2_eac0400f:
 translate zh_Hans salim_new_storyline_2_edc73327:
 
     # nvljohn "…"
-    nvljohn ""
+    nvljohn "…"
 
 # game/scripts/dialogues/salim_storyline.rpy:289
 translate zh_Hans salim_new_storyline_2_5ebc5221:
@@ -496,7 +496,7 @@ translate zh_Hans salim_new_storyline_2_60762882:
 translate zh_Hans salim_new_storyline_2_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:323
 translate zh_Hans salim_new_storyline_2_after_7abdaf43:
@@ -774,7 +774,7 @@ translate zh_Hans salim_new_storyline_3_89c497b9:
 translate zh_Hans salim_new_storyline_3_0d10ab2c:
 
     # nvlwife "…"
-    nvlwife ""
+    nvlwife "…"
 
 # game/scripts/dialogues/salim_storyline.rpy:434
 translate zh_Hans salim_new_storyline_3_37fc1006:
@@ -804,7 +804,7 @@ translate zh_Hans salim_new_storyline_3_8997ce1e:
 translate zh_Hans salim_new_storyline_3_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:475
 translate zh_Hans salim_new_storyline_4_a3b6c5f4:
@@ -1070,7 +1070,7 @@ translate zh_Hans salim_new_storyline_4_a2776adb:
 translate zh_Hans salim_new_storyline_4_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:594
 translate zh_Hans salim_new_storyline_5_d81de316:
@@ -1252,7 +1252,7 @@ translate zh_Hans salim_new_storyline_5_6e764a9c:
 translate zh_Hans salim_new_storyline_5_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:685
 translate zh_Hans salim_new_storyline_6_f91b26cf:
@@ -1404,7 +1404,7 @@ translate zh_Hans salim_new_storyline_6_d76b2cbb:
 translate zh_Hans salim_new_storyline_6_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:766
 translate zh_Hans salim_new_storyline_7_a4894553:
@@ -1598,7 +1598,7 @@ translate zh_Hans salim_new_storyline_7_418cae9f:
 translate zh_Hans salim_new_storyline_7_edc73327:
 
     # nvljohn "…"
-    nvljohn ""
+    nvljohn "…"
 
 # game/scripts/dialogues/salim_storyline.rpy:832
 translate zh_Hans salim_new_storyline_7_3351113f:
@@ -1640,7 +1640,7 @@ translate zh_Hans salim_new_storyline_7_cb4c5d02:
 translate zh_Hans salim_new_storyline_7_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:872
 translate zh_Hans salim_new_storyline_7_after_81630157:
@@ -1960,7 +1960,7 @@ translate zh_Hans salim_new_storyline_8_d65c506a:
 translate zh_Hans salim_new_storyline_8_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:1023
 translate zh_Hans salim_new_storyline_8_after_5e24b9c1:
@@ -2220,7 +2220,7 @@ translate zh_Hans salim_new_storyline_9_d7b5a7d7:
 translate zh_Hans salim_new_storyline_9_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:1155
 translate zh_Hans salim_new_storyline_9_after_42e1ef80:
@@ -2564,7 +2564,7 @@ translate zh_Hans salim_new_storyline_10_b46f2bca:
 translate zh_Hans salim_new_storyline_10_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:1321
 translate zh_Hans salim_new_storyline_11_c10d00f8:
@@ -2764,7 +2764,7 @@ translate zh_Hans salim_new_storyline_11_21b689de:
 translate zh_Hans salim_new_storyline_11_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:1422
 translate zh_Hans salim_new_storyline_12_5f93998a:
@@ -2952,7 +2952,7 @@ translate zh_Hans salim_new_storyline_12_2a739497:
 translate zh_Hans salim_new_storyline_12_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:1512
 translate zh_Hans salim_new_storyline_12_after_ee49e5d0:
@@ -3206,7 +3206,7 @@ translate zh_Hans salim_new_storyline_13_9cb04812:
 translate zh_Hans salim_new_storyline_13_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:1644
 translate zh_Hans salim_new_storyline_14_f1fe792d:
@@ -3298,7 +3298,7 @@ translate zh_Hans salim_new_storyline_14_8f018db9:
 translate zh_Hans salim_new_storyline_14_edc73327:
 
     # nvljohn "…"
-    nvljohn ""
+    nvljohn "…"
 
 # game/scripts/dialogues/salim_storyline.rpy:1676
 translate zh_Hans salim_new_storyline_14_b6b7f083:
@@ -3340,7 +3340,7 @@ translate zh_Hans salim_new_storyline_14_7eb1cbd5:
 translate zh_Hans salim_new_storyline_14_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:1719
 translate zh_Hans salim_new_storyline_15_56bcd918:
@@ -3468,7 +3468,7 @@ translate zh_Hans salim_new_storyline_15_e2c989d8:
 translate zh_Hans salim_new_storyline_15_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:1792
 translate zh_Hans salim_new_storyline_16_56bcd918:
@@ -3602,7 +3602,7 @@ translate zh_Hans salim_new_storyline_16_c75606a9:
 translate zh_Hans salim_new_storyline_16_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:1864
 translate zh_Hans salim_new_storyline_16_after_77a79918:
@@ -3868,7 +3868,7 @@ translate zh_Hans salim_new_storyline_17_bb7e562a:
 translate zh_Hans salim_new_storyline_17_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:2005
 translate zh_Hans salim_new_storyline_18_56bcd918:
@@ -3984,7 +3984,7 @@ translate zh_Hans salim_new_storyline_18_8ebfe0e8:
 translate zh_Hans salim_new_storyline_18_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:2074
 translate zh_Hans salim_new_storyline_19_2e9f21ed:
@@ -4136,7 +4136,7 @@ translate zh_Hans salim_new_storyline_19_c5ef0d12:
 translate zh_Hans salim_new_storyline_19_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:2155
 translate zh_Hans salim_new_storyline_20_5f45f568:
@@ -4318,7 +4318,7 @@ translate zh_Hans salim_new_storyline_20_31c7a4b8:
 translate zh_Hans salim_new_storyline_20_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:2243
 translate zh_Hans salim_new_storyline_20_after_acdd2f79:
@@ -4458,7 +4458,7 @@ translate zh_Hans salim_new_storyline_21_165b0e10:
 translate zh_Hans salim_new_storyline_21_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:2337
 translate zh_Hans salim_new_storyline_22_089acf79:
@@ -4592,7 +4592,7 @@ translate zh_Hans salim_new_storyline_22_c3c6fa21:
 translate zh_Hans salim_new_storyline_22_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:2411
 translate zh_Hans salim_new_storyline_22_after_90decab9:
@@ -4804,7 +4804,7 @@ translate zh_Hans salim_new_storyline_23_13ef85aa:
 translate zh_Hans salim_new_storyline_23_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:2531
 translate zh_Hans salim_new_storyline_24_0ed369da:
@@ -5028,7 +5028,7 @@ translate zh_Hans salim_new_storyline_24_cce37ab5:
 translate zh_Hans salim_new_storyline_24_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:2638
 translate zh_Hans salim_new_storyline_25_7b4fc6f7:
@@ -5198,7 +5198,7 @@ translate zh_Hans salim_new_storyline_25_8d214863:
 translate zh_Hans salim_new_storyline_25_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:2725
 translate zh_Hans salim_new_storyline_26_b0adeb93:
@@ -5368,7 +5368,7 @@ translate zh_Hans salim_new_storyline_26_5f2a078b:
 translate zh_Hans salim_new_storyline_26_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:2812
 translate zh_Hans salim_new_storyline_27_93a15a1e:
@@ -5664,7 +5664,7 @@ translate zh_Hans salim_new_storyline_27_70c5921a:
 translate zh_Hans salim_new_storyline_27_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:2942
 translate zh_Hans salim_new_storyline_27_after_cac4d81e:
@@ -5960,7 +5960,7 @@ translate zh_Hans salim_new_storyline_28_bb3306c3:
 translate zh_Hans salim_new_storyline_28_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:3088
 translate zh_Hans salim_new_storyline_29_457cb292:
@@ -6100,7 +6100,7 @@ translate zh_Hans salim_new_storyline_29_f254e938:
 translate zh_Hans salim_new_storyline_29_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:3165
 translate zh_Hans salim_new_storyline_30_0ed369da:
@@ -6294,7 +6294,7 @@ translate zh_Hans salim_new_storyline_30_c3c6fa21:
 translate zh_Hans salim_new_storyline_30_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:3260
 translate zh_Hans salim_new_storyline_31_a5451a39:
@@ -6494,7 +6494,7 @@ translate zh_Hans salim_new_storyline_31_3236dcd6:
 translate zh_Hans salim_new_storyline_31_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:3357
 translate zh_Hans salim_new_storyline_32_03d9ae14:
@@ -6592,7 +6592,7 @@ translate zh_Hans salim_new_storyline_32_c840bc81:
 translate zh_Hans salim_new_storyline_32_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:3424
 translate zh_Hans salim_new_storyline_33_a216725c:
@@ -6882,7 +6882,7 @@ translate zh_Hans salim_new_storyline_33_d813ba41:
 translate zh_Hans salim_new_storyline_33_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:3551
 translate zh_Hans salim_new_storyline_34_d4eac9a0:
@@ -7148,7 +7148,7 @@ translate zh_Hans salim_new_storyline_34_e8b5f9b4:
 translate zh_Hans salim_new_storyline_34_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:3668
 translate zh_Hans salim_new_storyline_34_after_d108ef6a:
@@ -7384,7 +7384,7 @@ translate zh_Hans salim_new_storyline_35_8aeb823a:
 translate zh_Hans salim_new_storyline_35_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:3798
 translate zh_Hans salim_new_storyline_36_0e53a211:
@@ -7662,7 +7662,7 @@ translate zh_Hans salim_new_storyline_36_77326afc:
 translate zh_Hans salim_new_storyline_36_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:3922
 translate zh_Hans salim_new_storyline_36_after_fd211b29:
@@ -7826,7 +7826,7 @@ translate zh_Hans salim_new_storyline_37_cb4c5d02:
 translate zh_Hans salim_new_storyline_37_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:4024
 translate zh_Hans salim_new_storyline_38_0ed369da:
@@ -7978,7 +7978,7 @@ translate zh_Hans salim_new_storyline_38_40632cd4:
 translate zh_Hans salim_new_storyline_38_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:4118
 translate zh_Hans salim_demo_storyline_0_51f56748:
@@ -8100,7 +8100,7 @@ translate zh_Hans salim_demo_storyline_0_7a5dae9d:
 translate zh_Hans salim_demo_storyline_0_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/salim_storyline.rpy:4186
 translate zh_Hans salim_demo_storyline_0_after_5a10c33c:

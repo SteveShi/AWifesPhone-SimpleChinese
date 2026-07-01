@@ -102,7 +102,7 @@ translate zh_Hans dani_cuck_storyline_1_36c72d6d:
 translate zh_Hans dani_cuck_storyline_1_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:103
 translate zh_Hans dani_cuck_storyline_2_7d17c4c5:
@@ -440,7 +440,7 @@ translate zh_Hans dani_cuck_storyline_2_f88380fe:
 translate zh_Hans dani_cuck_storyline_2_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:258
 translate zh_Hans dani_cuck_storyline_3_6d499bb0:
@@ -646,7 +646,7 @@ translate zh_Hans dani_cuck_storyline_3_e1088776:
 translate zh_Hans dani_cuck_storyline_3_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:361
 translate zh_Hans dani_cuck_storyline_4_32c749f3:
@@ -852,7 +852,7 @@ translate zh_Hans dani_cuck_storyline_4_8eb5e5ab:
 translate zh_Hans dani_cuck_storyline_4_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:462
 translate zh_Hans dani_cuck_storyline_5_dc223ec7:
@@ -992,7 +992,7 @@ translate zh_Hans dani_cuck_storyline_5_92d5228b:
 translate zh_Hans dani_cuck_storyline_5_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:541
 translate zh_Hans dani_cuck_storyline_6_c9de2572:
@@ -1048,7 +1048,7 @@ translate zh_Hans dani_cuck_storyline_6_f0322f5b:
 translate zh_Hans dani_cuck_storyline_6_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:592
 translate zh_Hans dani_cuck_storyline_7_84c564b4:
@@ -1116,7 +1116,7 @@ translate zh_Hans dani_cuck_storyline_7_9b2ec09b:
 translate zh_Hans dani_cuck_storyline_7_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:647
 translate zh_Hans dani_cuck_storyline_8_47825235:
@@ -1232,7 +1232,7 @@ translate zh_Hans dani_cuck_storyline_8_453ea9e4:
 translate zh_Hans dani_cuck_storyline_8_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:718
 translate zh_Hans dani_cuck_storyline_9_9cf182d2:
@@ -1312,7 +1312,7 @@ translate zh_Hans dani_cuck_storyline_9_ded2dba5:
 translate zh_Hans dani_cuck_storyline_9_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:777
 translate zh_Hans dani_cuck_storyline_10_86817758:
@@ -1482,7 +1482,7 @@ translate zh_Hans dani_cuck_storyline_10_999030fb:
 translate zh_Hans dani_cuck_storyline_10_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:868
 translate zh_Hans dani_cuck_storyline_11_5b6dfd95:
@@ -1586,7 +1586,7 @@ translate zh_Hans dani_cuck_storyline_11_d9cd1b11:
 translate zh_Hans dani_cuck_storyline_11_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:935
 translate zh_Hans dani_cuck_storyline_12_75965b73:
@@ -1696,7 +1696,7 @@ translate zh_Hans dani_cuck_storyline_12_12ebe624:
 translate zh_Hans dani_cuck_storyline_12_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:1006
 translate zh_Hans dani_cuck_storyline_13_c8bc4e34:
@@ -1794,7 +1794,7 @@ translate zh_Hans dani_cuck_storyline_13_19d027b6:
 translate zh_Hans dani_cuck_storyline_13_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:1071
 translate zh_Hans dani_cuck_storyline_14_00f1c1af:
@@ -2044,7 +2044,7 @@ translate zh_Hans dani_cuck_storyline_15_5e8c8cbf:
 translate zh_Hans dani_cuck_storyline_15_c4a3450e:
 
     # nvldani "You’re gonna miss out being with two hotties like us ☺️"
-    nvldani "你将会错过和我们两个骚货在一起的机会哦☺️"
+    nvldani "你会错过和我们两个美人在一起的机会哦☺️"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:1192
 translate zh_Hans dani_cuck_storyline_15_fb03e782:
@@ -2122,7 +2122,7 @@ translate zh_Hans dani_cuck_storyline_15_67c39d96:
 translate zh_Hans dani_cuck_storyline_15_fa037237:
 
     # nvljohn "You’re so naughty. I like that."
-    nvljohn "哇，你的肉棒真雄伟。"
+    nvljohn "你真调皮。我喜欢。"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:1219
 translate zh_Hans dani_cuck_storyline_15_4f8e0bb0:
@@ -2836,7 +2836,7 @@ translate zh_Hans dani_cuck_storyline_21_5e4a5f50:
 translate zh_Hans dani_cuck_storyline_21_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:1709
 translate zh_Hans dani_cuck_storyline_22_94cfc0d1:
@@ -2970,7 +2970,7 @@ translate zh_Hans dani_cuck_storyline_22_d8285bb2:
 translate zh_Hans dani_cuck_storyline_22_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:1786
 translate zh_Hans dani_cuck_storyline_23_b1404920:
@@ -3074,7 +3074,7 @@ translate zh_Hans dani_cuck_storyline_23_865e2b5e:
 translate zh_Hans dani_cuck_storyline_23_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:1861
 translate zh_Hans dani_cuck_storyline_24_e2e86d39:
@@ -3094,7 +3094,7 @@ translate zh_Hans dani_cuck_storyline_24_01a0a505:
 translate zh_Hans dani_cuck_storyline_24_cc5474db:
 
     # nvljohn "Everything is set. The girls are on board."
-    nvljohn "一切都搞定了。那两个小骚货都同意了。"
+    nvljohn "一切都搞定了。女孩们也都同意了。"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:1869
 translate zh_Hans dani_cuck_storyline_24_5112b345:
@@ -3190,7 +3190,7 @@ translate zh_Hans dani_cuck_storyline_24_e95ab831:
 translate zh_Hans dani_cuck_storyline_24_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:1932
 translate zh_Hans dani_cuck_storyline_25_6bec27bd:
@@ -3210,7 +3210,7 @@ translate zh_Hans dani_cuck_storyline_25_68aa7b2a:
 translate zh_Hans dani_cuck_storyline_25_53d94e24:
 
     # nvlhenrique2 "Seriously, that was incredible."
-    nvlhenrique2 "说真的，那简直是操翻天了。"
+    nvlhenrique2 "说真的，那太不可思议了。"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:1940
 translate zh_Hans dani_cuck_storyline_25_4cc9df32:
@@ -3282,7 +3282,7 @@ translate zh_Hans dani_cuck_storyline_25_afff9c69:
 translate zh_Hans dani_cuck_storyline_25_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:1995
 translate zh_Hans dani_cuck_storyline_26_354bdf9c:
@@ -3386,7 +3386,7 @@ translate zh_Hans dani_cuck_storyline_26_042f3cab:
 translate zh_Hans dani_cuck_storyline_26_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:2066
 translate zh_Hans dani_cuck_storyline_27_2a6b8346:
@@ -3514,7 +3514,7 @@ translate zh_Hans dani_cuck_storyline_27_9675c8b6:
 translate zh_Hans dani_cuck_storyline_27_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:2143
 translate zh_Hans dani_cuck_storyline_28_ace90d9d:
@@ -3654,7 +3654,7 @@ translate zh_Hans dani_cuck_storyline_28_fb7215c3:
 translate zh_Hans dani_cuck_storyline_28_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:2222
 translate zh_Hans dani_cuck_storyline_29_830dd3f7:
@@ -3770,7 +3770,7 @@ translate zh_Hans dani_cuck_storyline_29_bbd67052:
 translate zh_Hans dani_cuck_storyline_29_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:2293
 translate zh_Hans dani_cuck_storyline_30_62075eb8:
@@ -3892,7 +3892,7 @@ translate zh_Hans dani_cuck_storyline_30_33e9c783:
 translate zh_Hans dani_cuck_storyline_30_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:2370
 translate zh_Hans dani_cuck_storyline_31_a5509c04:
@@ -3990,7 +3990,7 @@ translate zh_Hans dani_cuck_storyline_31_050efc36:
 translate zh_Hans dani_cuck_storyline_31_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:2435
 translate zh_Hans dani_cuck_storyline_32_fe165a2a:
@@ -4082,7 +4082,7 @@ translate zh_Hans dani_cuck_storyline_32_b2deb267:
 translate zh_Hans dani_cuck_storyline_32_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:2498
 translate zh_Hans dani_cuck_storyline_33_4f90cbe0:
@@ -4162,7 +4162,7 @@ translate zh_Hans dani_cuck_storyline_33_c2740064:
 translate zh_Hans dani_cuck_storyline_33_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:2565
 translate zh_Hans dani_cuck_storyline_34_27131fa3:
@@ -4230,7 +4230,7 @@ translate zh_Hans dani_cuck_storyline_34_4b0ce9d8:
 translate zh_Hans dani_cuck_storyline_34_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:2620
 translate zh_Hans dani_cuck_storyline_35_4850bb9b:
@@ -4328,7 +4328,7 @@ translate zh_Hans dani_cuck_storyline_35_202746d8:
 translate zh_Hans dani_cuck_storyline_35_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:2685
 translate zh_Hans dani_cuck_storyline_36_5f40ce04:
@@ -4426,7 +4426,7 @@ translate zh_Hans dani_cuck_storyline_36_9da620dc:
 translate zh_Hans dani_cuck_storyline_36_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:2750
 translate zh_Hans dani_cuck_storyline_37_605ac0ad:
@@ -4470,7 +4470,7 @@ translate zh_Hans dani_cuck_storyline_37_5202d6a3:
 translate zh_Hans dani_cuck_storyline_37_ca9bc06a:
 
     # nvlwife "Honestly? I like it sometimes. Maybe I’ll join in."
-    nvlwife "说实话？有时候我还挺喜欢的。也许我会加入，一起被肏。"
+    nvlwife "说实话？有时候我还挺喜欢的。也许我会加入。"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:2766
 translate zh_Hans dani_cuck_storyline_37_04b873e2:
@@ -4488,7 +4488,7 @@ translate zh_Hans dani_cuck_storyline_37_d884c9d5:
 translate zh_Hans dani_cuck_storyline_37_86623bfc:
 
     # nvlwife "If Dani goes first, I’ll have to follow her lead."
-    nvlwife "如果丹妮先被肛了，那我也得跟着她一起被操屁股。"
+    nvlwife "如果丹妮先试了，那我也得跟着她试试。"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:2772
 translate zh_Hans dani_cuck_storyline_37_fa54b7c0:
@@ -4536,7 +4536,7 @@ translate zh_Hans dani_cuck_storyline_37_a502135d:
 translate zh_Hans dani_cuck_storyline_37_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:2819
 translate zh_Hans dani_cuck_storyline_38_fee4c102:
@@ -4604,7 +4604,7 @@ translate zh_Hans dani_cuck_storyline_38_15e673da:
 translate zh_Hans dani_cuck_storyline_38_89bb7e39:
 
     # nvlhenrique2 "Tell Dani and [wife_name_is] they’re legends."
-    nvlhenrique2 "告诉丹妮和凯茜，她们是真正的传奇荡妇。"
+    nvlhenrique2 "告诉丹妮和凯茜，她们真是传奇。"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:2843
 translate zh_Hans dani_cuck_storyline_38_7cdcd298:
@@ -4622,7 +4622,7 @@ translate zh_Hans dani_cuck_storyline_38_37f75763:
 translate zh_Hans dani_cuck_storyline_38_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:2880
 translate zh_Hans dani_cuck_storyline_39_9e56cf03:
@@ -4630,7 +4630,7 @@ translate zh_Hans dani_cuck_storyline_39_9e56cf03:
     # nvl clear
     # nvlwife "My arse is on fire today, not even kidding."
     nvl clear
-    nvlwife "我今天屁股火辣辣的疼，真没开玩笑，感觉被操烂了。"
+    nvlwife "我今天屁股火辣辣地疼，真没开玩笑。"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:2884
 translate zh_Hans dani_cuck_storyline_39_c054bd9b:
@@ -4642,7 +4642,7 @@ translate zh_Hans dani_cuck_storyline_39_c054bd9b:
 translate zh_Hans dani_cuck_storyline_39_af9a6fb5:
 
     # nvljohn "Guess I'm the only one walking normal here 😂"
-    nvljohn "看来这里只有我走路正常😂 你们都被操废了。"
+    nvljohn "看来这里只有我走路正常😂"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:2888
 translate zh_Hans dani_cuck_storyline_39_c340057c:
@@ -4660,7 +4660,7 @@ translate zh_Hans dani_cuck_storyline_39_275797e0:
 translate zh_Hans dani_cuck_storyline_39_d383368b:
 
     # nvljohn "Alright, two masterpieces coming your way."
-    nvljohn "好了，两部杰作即将呈现在你面前，让你好好撸一发。"
+    nvljohn "好了，两部杰作马上发给你。"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:2896
 translate zh_Hans dani_cuck_storyline_39_6418fb6c:
@@ -4678,7 +4678,7 @@ translate zh_Hans dani_cuck_storyline_39_a2c3c223:
 translate zh_Hans dani_cuck_storyline_39_1cab2740:
 
     # nvlwife "Wow… seeing it is almost as intense as living it."
-    nvlwife "哇……亲眼所见几乎和亲身经历一样震撼，感觉又硬了。"
+    nvlwife "哇……亲眼看到，几乎和亲身经历一样强烈。"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:2908
 translate zh_Hans dani_cuck_storyline_39_ca2aef24:
@@ -4708,7 +4708,7 @@ translate zh_Hans dani_cuck_storyline_39_cf124710:
 translate zh_Hans dani_cuck_storyline_39_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:2949
 translate zh_Hans dani_cuck_storyline_40_33a43de9:
@@ -4788,7 +4788,7 @@ translate zh_Hans dani_cuck_storyline_40_aa8156bb:
 translate zh_Hans dani_cuck_storyline_40_8b286ec3:
 
     # nvljohn "Deal. See you soon, girls!"
-    nvljohn "成交！回头见，小骚货们！"
+    nvljohn "成交！回头见，姑娘们！"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:2977
 translate zh_Hans dani_cuck_storyline_40_eca61ded:
@@ -4800,7 +4800,7 @@ translate zh_Hans dani_cuck_storyline_40_eca61ded:
 translate zh_Hans dani_cuck_storyline_40_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:3012
 translate zh_Hans dani_cuck_storyline_41_7cc4cb92:
@@ -4856,7 +4856,7 @@ translate zh_Hans dani_cuck_storyline_41_02c8f440:
 translate zh_Hans dani_cuck_storyline_41_9bf50c53:
 
     # nvljohn "You’re impossible to please, Jenna."
-    nvljohn "珍娜，你真是个喂不饱的骚货。"
+    nvljohn "珍娜，你可真难取悦。"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:3036
 translate zh_Hans dani_cuck_storyline_41_668d5688:
@@ -4892,7 +4892,7 @@ translate zh_Hans dani_cuck_storyline_41_7f13ce94:
 translate zh_Hans dani_cuck_storyline_41_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:3079
 translate zh_Hans dani_cuck_storyline_42_2e2cf804:
@@ -4996,7 +4996,7 @@ translate zh_Hans dani_cuck_storyline_42_6447017f:
 translate zh_Hans dani_cuck_storyline_42_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:3146
 translate zh_Hans dani_cuck_storyline_43_34039ebb:
@@ -5040,7 +5040,7 @@ translate zh_Hans dani_cuck_storyline_43_2baa90d4:
 translate zh_Hans dani_cuck_storyline_43_35ea8592:
 
     # nvlwife "Dani, remember when you slipped your finger in me?"
-    nvlwife "丹妮，你还记得你把手指插进我骚穴里的那次吗？"
+    nvlwife "丹妮，你还记得你把手指伸进我身体里的那次吗？"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:3166
 translate zh_Hans dani_cuck_storyline_43_3a9a9ae9:
@@ -5088,7 +5088,7 @@ translate zh_Hans dani_cuck_storyline_43_ac7e0688:
 translate zh_Hans dani_cuck_storyline_43_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:3213
 translate zh_Hans dani_cuck_storyline_44_3e05914f:
@@ -5174,7 +5174,7 @@ translate zh_Hans dani_cuck_storyline_44_18e9e833:
 translate zh_Hans dani_cuck_storyline_44_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:3274
 translate zh_Hans dani_cuck_storyline_45_990693b0:
@@ -5254,7 +5254,7 @@ translate zh_Hans dani_cuck_storyline_45_5665e5e9:
 translate zh_Hans dani_cuck_storyline_45_671d0eef:
 
     # nvlwife "It’s a date. Can’t wait!"
-    nvlwife "约会定了！等不及要穿上新衣服被操了！"
+    nvlwife "约会定了！等不及要穿上新衣服了！"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:3302
 translate zh_Hans dani_cuck_storyline_45_71b509a4:
@@ -5266,7 +5266,7 @@ translate zh_Hans dani_cuck_storyline_45_71b509a4:
 translate zh_Hans dani_cuck_storyline_45_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:3337
 translate zh_Hans dani_cuck_storyline_46_320f413a:
@@ -5340,7 +5340,7 @@ translate zh_Hans dani_cuck_storyline_46_7e9e3ed7:
 translate zh_Hans dani_cuck_storyline_46_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:3394
 translate zh_Hans dani_cuck_storyline_47_2fb9e1cd:
@@ -5408,7 +5408,7 @@ translate zh_Hans dani_cuck_storyline_47_acbc2f10:
 translate zh_Hans dani_cuck_storyline_47_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:3449
 translate zh_Hans dani_cuck_storyline_48_cf157918:
@@ -5500,7 +5500,7 @@ translate zh_Hans dani_cuck_storyline_48_3bf195b8:
 translate zh_Hans dani_cuck_storyline_48_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:3512
 translate zh_Hans dani_cuck_storyline_49_70a237af:
@@ -5580,7 +5580,7 @@ translate zh_Hans dani_cuck_storyline_49_2d41a197:
 translate zh_Hans dani_cuck_storyline_49_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:3571
 translate zh_Hans dani_cuck_storyline_50_978721ea:
@@ -5684,7 +5684,7 @@ translate zh_Hans dani_cuck_storyline_50_4705d149:
 translate zh_Hans dani_cuck_storyline_50_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:3642
 translate zh_Hans dani_cuck_storyline_51_a49f070a:
@@ -5788,7 +5788,7 @@ translate zh_Hans dani_cuck_storyline_51_a280813a:
 translate zh_Hans dani_cuck_storyline_51_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:3709
 translate zh_Hans dani_cuck_storyline_52_e52a42ec:
@@ -5880,7 +5880,7 @@ translate zh_Hans dani_cuck_storyline_52_fd4f9ae4:
 translate zh_Hans dani_cuck_storyline_52_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:3776
 translate zh_Hans dani_cuck_storyline_53_7fa22ee6:
@@ -5960,7 +5960,7 @@ translate zh_Hans dani_cuck_storyline_53_5a7de0f0:
 translate zh_Hans dani_cuck_storyline_53_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:3837
 translate zh_Hans dani_cuck_storyline_54_ee479eb8:
@@ -6052,7 +6052,7 @@ translate zh_Hans dani_cuck_storyline_54_4b984eed:
 translate zh_Hans dani_cuck_storyline_54_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:3900
 translate zh_Hans dani_cuck_storyline_55_3242d5ae:
@@ -6126,7 +6126,7 @@ translate zh_Hans dani_cuck_storyline_55_eca61ded:
 translate zh_Hans dani_cuck_storyline_55_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:3957
 translate zh_Hans dani_cuck_storyline_56_0691b2cc:
@@ -6236,7 +6236,7 @@ translate zh_Hans dani_cuck_storyline_56_ba69b706:
 translate zh_Hans dani_cuck_storyline_56_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:4026
 translate zh_Hans dani_cuck_storyline_57_902e1584:
@@ -6334,7 +6334,7 @@ translate zh_Hans dani_cuck_storyline_57_e99f3825:
 translate zh_Hans dani_cuck_storyline_57_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:4091
 translate zh_Hans dani_cuck_storyline_58_ea4e6dfc:
@@ -6420,7 +6420,7 @@ translate zh_Hans dani_cuck_storyline_58_2fc1db08:
 translate zh_Hans dani_cuck_storyline_58_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:4152
 translate zh_Hans dani_cuck_storyline_59_86a470e5:
@@ -6494,7 +6494,7 @@ translate zh_Hans dani_cuck_storyline_59_50ae2f59:
 translate zh_Hans dani_cuck_storyline_59_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:4209
 translate zh_Hans dani_cuck_storyline_60_2fd2f40c:
@@ -6574,7 +6574,7 @@ translate zh_Hans dani_cuck_storyline_60_dca96885:
 translate zh_Hans dani_cuck_storyline_60_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:4268
 translate zh_Hans dani_cuck_storyline_61_1292a4d9:
@@ -6612,7 +6612,7 @@ translate zh_Hans dani_cuck_storyline_61_968bb9e6:
 translate zh_Hans dani_cuck_storyline_61_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:4313
 translate zh_Hans dani_cuck_storyline_62_fbb2e9ca:
@@ -6698,7 +6698,7 @@ translate zh_Hans dani_cuck_storyline_62_7ddb88a2:
 translate zh_Hans dani_cuck_storyline_62_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:4378
 translate zh_Hans dani_cuck_storyline_63_774f82a5:
@@ -6778,7 +6778,7 @@ translate zh_Hans dani_cuck_storyline_63_6248034f:
 translate zh_Hans dani_cuck_storyline_63_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:4437
 translate zh_Hans dani_cuck_storyline_64_d5314203:
@@ -6900,7 +6900,7 @@ translate zh_Hans dani_cuck_storyline_64_d3b383e7:
 translate zh_Hans dani_cuck_storyline_64_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:4510
 translate zh_Hans dani_cuck_storyline_65_0b4ba395:
@@ -6974,7 +6974,7 @@ translate zh_Hans dani_cuck_storyline_65_2b157d53:
 translate zh_Hans dani_cuck_storyline_65_7b28df4d:
 
     # nvljohn "We want to make it official. A real throuple."
-    nvljohn "我们想正式确立关系。真正的三人行，三个人一起肏！"
+    nvljohn "我们想正式确立关系。真正的三人关系。"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:4536
 translate zh_Hans dani_cuck_storyline_65_909c252d:
@@ -7016,7 +7016,7 @@ translate zh_Hans dani_cuck_storyline_65_070898b2:
 translate zh_Hans dani_cuck_storyline_65_6668deb7:
 
     # nvljohn "All of us dating each other, freely."
-    nvljohn "我们三个人，想怎么爱就怎么爱，想怎么肏就怎么肏，完全自由。"
+    nvljohn "我们三个人彼此交往，自由地在一起。"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:4550
 translate zh_Hans dani_cuck_storyline_65_9f95910a:
@@ -7076,7 +7076,7 @@ translate zh_Hans dani_cuck_storyline_65_87423626:
 translate zh_Hans dani_cuck_storyline_65_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:4601
 translate zh_Hans dani_cuck_storyline_66_120d8697:
@@ -7192,7 +7192,7 @@ translate zh_Hans dani_cuck_storyline_66_a78e48cf:
 translate zh_Hans dani_cuck_storyline_66_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:4672
 translate zh_Hans dani_cuck_storyline_67_f13eb30a:
@@ -7308,7 +7308,7 @@ translate zh_Hans dani_cuck_storyline_67_fd141fb6:
 translate zh_Hans dani_cuck_storyline_67_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:4743
 translate zh_Hans dani_cuck_storyline_68_673be979:
@@ -7398,7 +7398,7 @@ translate zh_Hans dani_cuck_storyline_68_a280813a:
 translate zh_Hans dani_cuck_storyline_68_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:4808
 translate zh_Hans dani_cuck_storyline_69_46a823b8:
@@ -7502,7 +7502,7 @@ translate zh_Hans dani_cuck_storyline_69_1e42f364:
 translate zh_Hans dani_cuck_storyline_69_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:4879
 translate zh_Hans dani_cuck_storyline_70_d8c47cb0:
@@ -7672,5 +7672,4 @@ translate zh_Hans dani_cuck_storyline_70_cf3cf751:
 translate zh_Hans dani_cuck_storyline_70_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
-
+    nvl_narrator "对话结束……"

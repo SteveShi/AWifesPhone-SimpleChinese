@@ -318,7 +318,7 @@ translate zh_Hans son_ahat_storyline_11_fb99e972:
 translate zh_Hans son_ahat_storyline_11_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:171
 translate zh_Hans son_ahat_storyline_12_a0700caa:
@@ -524,7 +524,7 @@ translate zh_Hans son_ahat_storyline_12_8eb8213e:
 translate zh_Hans son_ahat_storyline_12_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:267
 translate zh_Hans son_ahat_storyline_13_b78c685c:
@@ -952,7 +952,7 @@ translate zh_Hans son_ahat_storyline_13_3d20873e:
 translate zh_Hans son_ahat_storyline_13_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:448
 translate zh_Hans son_ahat_storyline_14_3f2d6b75:
@@ -1134,7 +1134,7 @@ translate zh_Hans son_ahat_storyline_14_96125d43:
 translate zh_Hans son_ahat_storyline_14_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:537
 translate zh_Hans son_ahat_storyline_15_3fb56c46:
@@ -1472,7 +1472,7 @@ translate zh_Hans son_ahat_storyline_15_3f4439d7:
 translate zh_Hans son_ahat_storyline_15_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:679
 translate zh_Hans son_ahat_storyline_16_91e55436:
@@ -1546,7 +1546,7 @@ translate zh_Hans son_ahat_storyline_16_f2c2b846:
 translate zh_Hans son_ahat_storyline_16_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:730
 translate zh_Hans son_ahat_storyline_17_14467712:
@@ -1902,7 +1902,7 @@ translate zh_Hans son_ahat_storyline_17_d9066eb6:
 translate zh_Hans son_ahat_storyline_17_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:881
 translate zh_Hans son_ahat_storyline_18_ec03661c:
@@ -1964,7 +1964,7 @@ translate zh_Hans son_ahat_storyline_18_6c7db550:
 translate zh_Hans son_ahat_storyline_18_0217a68b:
 
     # nvlsson "😔"
-    nvlsson ""
+    nvlsson "😔"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:903
 translate zh_Hans son_ahat_storyline_18_5b498e90:
@@ -2096,7 +2096,7 @@ translate zh_Hans son_ahat_storyline_18_7f6bd157:
 translate zh_Hans son_ahat_storyline_18_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:975
 translate zh_Hans son_ahat_storyline_19_93e6e524:
@@ -2548,7 +2548,7 @@ translate zh_Hans son_ahat_storyline_19_888db9c7:
 translate zh_Hans son_ahat_storyline_19_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:1155
 translate zh_Hans son_ahat_storyline_20_ba376cb5:
@@ -2892,7 +2892,7 @@ translate zh_Hans son_ahat_storyline_20_7a928b27:
 translate zh_Hans son_ahat_storyline_20_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:1299
 translate zh_Hans son_ahat_storyline_21_3f42c9e0:
@@ -3170,7 +3170,7 @@ translate zh_Hans son_ahat_storyline_21_c537bd5d:
 translate zh_Hans son_ahat_storyline_21_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:1425
 translate zh_Hans son_ahat_storyline_22_bda6d236:
@@ -3490,7 +3490,7 @@ translate zh_Hans son_ahat_storyline_22_fe77adb8:
 translate zh_Hans son_ahat_storyline_22_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:1565
 translate zh_Hans son_ahat_storyline_23_7cc6d485:
@@ -3690,7 +3690,7 @@ translate zh_Hans son_ahat_storyline_23_39a51e7d:
 translate zh_Hans son_ahat_storyline_23_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:1665
 translate zh_Hans son_ahat_storyline_24_75d09e6d:
@@ -3770,7 +3770,7 @@ translate zh_Hans son_ahat_storyline_24_ec575c4e:
 translate zh_Hans son_ahat_storyline_24_a029718f:
 
     # nvlahat "I see 😊"
-    nvlahat "I see 😊|我明白了😊"
+    nvlahat "我明白了😊"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:1697
 translate zh_Hans son_ahat_storyline_24_da9eafc1:
@@ -3950,7 +3950,7 @@ translate zh_Hans son_ahat_storyline_24_ac229cc1:
 translate zh_Hans son_ahat_storyline_24_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:1784
 translate zh_Hans son_ahat_storyline_25_0c669975:
@@ -4306,7 +4306,7 @@ translate zh_Hans son_ahat_storyline_25_37ccd183:
 translate zh_Hans son_ahat_storyline_25_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:1937
 translate zh_Hans son_ahat_storyline_26_66954bb1:
@@ -4566,7 +4566,7 @@ translate zh_Hans son_ahat_storyline_26_5ddd1f23:
 translate zh_Hans son_ahat_storyline_26_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/son/son_ahat_storyline.rpy:2051
 translate zh_Hans son_ahat_storyline_26_after_b84c969b:

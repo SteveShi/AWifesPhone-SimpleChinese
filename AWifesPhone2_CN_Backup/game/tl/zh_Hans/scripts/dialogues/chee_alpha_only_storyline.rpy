@@ -96,7 +96,7 @@ translate zh_Hans chee_storyline_1_e8fd9b66:
 translate zh_Hans chee_storyline_1_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:150
 translate zh_Hans chee_storyline_1_after_28be47d0:
@@ -446,7 +446,7 @@ translate zh_Hans chee_storyline_2_eb5375cb:
 translate zh_Hans chee_storyline_2_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:316
 translate zh_Hans chee_storyline_3_aa6769fa:
@@ -712,7 +712,7 @@ translate zh_Hans chee_storyline_3_8cb4dcc1:
 translate zh_Hans chee_storyline_3_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:439
 translate zh_Hans chee_storyline_4_4a227db6:
@@ -978,7 +978,7 @@ translate zh_Hans chee_storyline_4_e307eca6:
 translate zh_Hans chee_storyline_4_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:560
 translate zh_Hans chee_storyline_5_0564cd0e:
@@ -1160,7 +1160,7 @@ translate zh_Hans chee_storyline_5_dc0b5072:
 translate zh_Hans chee_storyline_5_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:670
 translate zh_Hans chee_storyline_6_031a7404:
@@ -1252,7 +1252,7 @@ translate zh_Hans chee_storyline_6_d34f161f:
 translate zh_Hans chee_storyline_6_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:733
 translate zh_Hans chee_storyline_7_d7983fe4:
@@ -1434,7 +1434,7 @@ translate zh_Hans chee_storyline_7_11dad7c9:
 translate zh_Hans chee_storyline_7_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:830
 translate zh_Hans chee_storyline_8_47e7d773:
@@ -1682,7 +1682,7 @@ translate zh_Hans chee_storyline_8_ff8c50cf:
 translate zh_Hans chee_storyline_8_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:945
 translate zh_Hans chee_storyline_9_eb7511cc:
@@ -1834,7 +1834,7 @@ translate zh_Hans chee_storyline_9_f21c6d31:
 translate zh_Hans chee_storyline_9_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:1028
 translate zh_Hans chee_storyline_10_e01abeb8:
@@ -1920,7 +1920,7 @@ translate zh_Hans chee_storyline_10_e56feab3:
 translate zh_Hans chee_storyline_10_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:1089
 translate zh_Hans chee_storyline_11_75e80f0e:
@@ -2090,7 +2090,7 @@ translate zh_Hans chee_storyline_11_e69b86a6:
 translate zh_Hans chee_storyline_11_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:1178
 translate zh_Hans chee_storyline_12_f38c3e07:
@@ -2266,7 +2266,7 @@ translate zh_Hans chee_storyline_12_83c04880:
 translate zh_Hans chee_storyline_12_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:1269
 translate zh_Hans chee_storyline_13_be68a0b1:
@@ -2370,7 +2370,7 @@ translate zh_Hans chee_storyline_13_8ab01e34:
 translate zh_Hans chee_storyline_13_14e55301:
 
     # nvljohn "Aaaaah, you’re on your period 😅"
-    nvljohn "啊哈，原来是你的小穴在流血啊😅"
+    nvljohn "啊，原来你来例假了啊😅"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:1305
 translate zh_Hans chee_storyline_13_d7465cce:
@@ -2550,7 +2550,7 @@ translate zh_Hans chee_storyline_13_1e93a670:
 translate zh_Hans chee_storyline_13_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:1398
 translate zh_Hans chee_storyline_14_5c0c4b1a:
@@ -2588,7 +2588,7 @@ translate zh_Hans chee_storyline_14_c7409f6f:
 translate zh_Hans chee_storyline_14_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:1443
 translate zh_Hans chee_storyline_15_d0caf87f:
@@ -2698,7 +2698,7 @@ translate zh_Hans chee_storyline_15_cb654512:
 translate zh_Hans chee_storyline_15_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:1512
 translate zh_Hans chee_storyline_16_49470bd4:
@@ -3024,7 +3024,7 @@ translate zh_Hans chee_storyline_16_7a52bdf4:
 translate zh_Hans chee_storyline_16_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:1653
 translate zh_Hans chee_storyline_17_bcab4b77:
@@ -3128,7 +3128,7 @@ translate zh_Hans chee_storyline_17_7f4be33b:
 translate zh_Hans chee_storyline_17_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:1722
 translate zh_Hans chee_storyline_18_14362a61:
@@ -3196,7 +3196,7 @@ translate zh_Hans chee_storyline_18_e927e047:
 translate zh_Hans chee_storyline_18_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:1777
 translate zh_Hans chee_storyline_19_509740ce:
@@ -3354,7 +3354,7 @@ translate zh_Hans chee_storyline_19_60c6400f:
 translate zh_Hans chee_storyline_19_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:1862
 translate zh_Hans chee_storyline_20_8e31a4fc:
@@ -3506,7 +3506,7 @@ translate zh_Hans chee_storyline_20_5a134516:
 translate zh_Hans chee_storyline_20_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:1940
 translate zh_Hans chee_storyline_20_after_fd5af088:
@@ -3754,7 +3754,7 @@ translate zh_Hans chee_storyline_21_7577223b:
 translate zh_Hans chee_storyline_21_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:2067
 translate zh_Hans chee_storyline_21_after_cc9d77e5:
@@ -3906,7 +3906,7 @@ translate zh_Hans chee_storyline_22_90484039:
 translate zh_Hans chee_storyline_22_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:2167
 translate zh_Hans chee_storyline_23_f38c3e07:
@@ -3950,7 +3950,7 @@ translate zh_Hans chee_storyline_23_0f2a7172:
 translate zh_Hans chee_storyline_23_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:2209
 translate zh_Hans chee_storyline_23_after_65b33e7b:
@@ -4144,7 +4144,7 @@ translate zh_Hans chee_storyline_24_d56dd0fb:
 translate zh_Hans chee_storyline_24_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:2323
 translate zh_Hans chee_storyline_25_83ffa6ee:
@@ -4554,7 +4554,7 @@ translate zh_Hans chee_storyline_25_73e33e9b:
 translate zh_Hans chee_storyline_25_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:2496
 translate zh_Hans chee_storyline_26_2e0e043e:
@@ -4658,7 +4658,7 @@ translate zh_Hans chee_storyline_26_d13420d6:
 translate zh_Hans chee_storyline_26_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:2563
 translate zh_Hans chee_storyline_27_880ac124:
@@ -4912,7 +4912,7 @@ translate zh_Hans chee_storyline_27_82246adb:
 translate zh_Hans chee_storyline_27_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:2680
 translate zh_Hans chee_storyline_28_15cdfcf8:
@@ -5040,7 +5040,7 @@ translate zh_Hans chee_storyline_28_f2f362b8:
 translate zh_Hans chee_storyline_28_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:2755
 translate zh_Hans chee_storyline_29_add746b2:
@@ -5228,7 +5228,7 @@ translate zh_Hans chee_storyline_29_71774ca6:
 translate zh_Hans chee_storyline_29_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:2850
 translate zh_Hans chee_storyline_30_e4c13518:
@@ -5560,7 +5560,7 @@ translate zh_Hans chee_storyline_30_03e87334:
 translate zh_Hans chee_storyline_30_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:2993
 translate zh_Hans chee_storyline_31_d3f28437:
@@ -5682,7 +5682,7 @@ translate zh_Hans chee_storyline_31_afaaa305:
 translate zh_Hans chee_storyline_31_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:3066
 translate zh_Hans chee_storyline_32_c3edbd73:
@@ -5714,7 +5714,7 @@ translate zh_Hans chee_storyline_32_4617402f:
 translate zh_Hans chee_storyline_32_5d481a2f:
 
     # nvlchee "🙈"
-    nvlchee ""
+    nvlchee "🙈"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:3078
 translate zh_Hans chee_storyline_32_3de6a3f6:
@@ -5858,7 +5858,7 @@ translate zh_Hans chee_storyline_32_cff65f03:
 translate zh_Hans chee_storyline_32_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:3161
 translate zh_Hans chee_storyline_33_4a3b5d2a:
@@ -6154,7 +6154,7 @@ translate zh_Hans chee_storyline_33_aed4db1f:
 translate zh_Hans chee_storyline_33_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:3292
 translate zh_Hans chee_storyline_34_9702f41f:
@@ -6288,7 +6288,7 @@ translate zh_Hans chee_storyline_34_1bbef37d:
 translate zh_Hans chee_storyline_34_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:3373
 translate zh_Hans chee_storyline_35_666ad14d:
@@ -6488,7 +6488,7 @@ translate zh_Hans chee_storyline_35_ee623657:
 translate zh_Hans chee_storyline_35_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:3476
 translate zh_Hans chee_storyline_36_65f80366:
@@ -6502,7 +6502,7 @@ translate zh_Hans chee_storyline_36_65f80366:
 translate zh_Hans chee_storyline_36_9d1815e6:
 
     # nvlgeorge "Damn, now I’m curious. Spill it!"
-    nvlgeorge "操，我现在鸡巴都硬了，快说！"
+    nvlgeorge "靠，我现在好奇死了，快说！"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:3482
 translate zh_Hans chee_storyline_36_500e65b0:
@@ -6574,7 +6574,7 @@ translate zh_Hans chee_storyline_36_3577552b:
 translate zh_Hans chee_storyline_36_545d8a4a:
 
     # nvlgeorge "Damn! That girl’s evolving FAST 🔥"
-    nvlgeorge "操！那小骚货进化得他妈真快啊 🔥"
+    nvlgeorge "靠！那女孩进步得也太快了吧 🔥"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:3506
 translate zh_Hans chee_storyline_36_d1a9e1d5:
@@ -6616,7 +6616,7 @@ translate zh_Hans chee_storyline_36_f7e2f3fa:
 translate zh_Hans chee_storyline_36_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:3551
 translate zh_Hans chee_storyline_37_b6534a04:
@@ -6750,7 +6750,7 @@ translate zh_Hans chee_storyline_37_524b4345:
 translate zh_Hans chee_storyline_37_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:3628
 translate zh_Hans chee_storyline_38_62043a7d:
@@ -6908,7 +6908,7 @@ translate zh_Hans chee_storyline_38_34813e7a:
 translate zh_Hans chee_storyline_38_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:3714
 translate zh_Hans chee_storyline_39_77ab7842:
@@ -7324,7 +7324,7 @@ translate zh_Hans chee_storyline_39_e2184bdd:
 translate zh_Hans chee_storyline_39_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:3885
 translate zh_Hans chee_storyline_40_b4e8891e:
@@ -7458,7 +7458,7 @@ translate zh_Hans chee_storyline_40_aee72264:
 translate zh_Hans chee_storyline_40_1f9f1404:
 
     # nvljohn "Do you have any photos so I can see?"
-    nvljohn "有照片吗？快给我看看，小骚货？"
+    nvljohn "有照片吗？能给我看看吗？"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:3931
 translate zh_Hans chee_storyline_40_08ba45a6:
@@ -7578,13 +7578,13 @@ translate zh_Hans chee_storyline_40_f2ea5a9b:
 translate zh_Hans chee_storyline_40_0d6ffa79:
 
     # nvlchee "😇😍😍😍🙈"
-    nvlchee ""
+    nvlchee "😇😍😍😍🙈"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:3991
 translate zh_Hans chee_storyline_40_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:4011
 translate zh_Hans chee_storyline_41_6b215e21:
@@ -7592,7 +7592,7 @@ translate zh_Hans chee_storyline_41_6b215e21:
     # nvl clear
     # nvljohn "Hey Chee 😊 did you try any of the new clothes today?"
     nvl clear
-    nvljohn "嘿 Chee 😊 你今天有没有试穿那些新买的骚货？"
+    nvljohn "嘿 Chee 😊 你今天有没有试穿那些新衣服？"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:4015
 translate zh_Hans chee_storyline_41_5c4e247e:
@@ -7742,7 +7742,7 @@ translate zh_Hans chee_storyline_41_8076db09:
 translate zh_Hans chee_storyline_41_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:4100
 translate zh_Hans chee_storyline_42_13d7b018:
@@ -7774,7 +7774,7 @@ translate zh_Hans chee_storyline_42_d670eb77:
 translate zh_Hans chee_storyline_42_77ecc9be:
 
     # nvlchee "Both! My heart is racing just thinking about it ❤️"
-    nvlchee "两个都有！光是想想就让我心跳加速，骚穴都湿了❤️"
+    nvlchee "两个都有！光是想想就让我心跳加速❤️"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:4112
 translate zh_Hans chee_storyline_42_5630344d:
@@ -7798,7 +7798,7 @@ translate zh_Hans chee_storyline_42_df3e13a5:
 translate zh_Hans chee_storyline_42_ae40a3de:
 
     # nvlchee "When is it again? Tell me the exact time."
-    nvlchee "又是什么时候？告诉我确切时间，我的小骚货。"
+    nvlchee "又是什么时候？告诉我确切时间。"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:4120
 translate zh_Hans chee_storyline_42_57058782:
@@ -7894,7 +7894,7 @@ translate zh_Hans chee_storyline_42_97bd9597:
 translate zh_Hans chee_storyline_42_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:4183
 translate zh_Hans chee_storyline_43_fcafee76:
@@ -8064,7 +8064,7 @@ translate zh_Hans chee_storyline_43_4e94e13b:
 translate zh_Hans chee_storyline_43_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:4276
 translate zh_Hans chee_storyline_44_152287b3:
@@ -8138,7 +8138,7 @@ translate zh_Hans chee_storyline_44_d3669aaf:
 translate zh_Hans chee_storyline_44_463c4a97:
 
     # nvlchee "Big guy! Don’t say it like that 😖"
-    nvlchee "大块头！不许你这么说人家啦😖"
+    nvlchee "大块头！别那样说嘛😖"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:4302
 translate zh_Hans chee_storyline_44_44eb8c40:
@@ -8330,7 +8330,7 @@ translate zh_Hans chee_storyline_44_8850fc84:
 translate zh_Hans chee_storyline_44_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:4405
 translate zh_Hans chee_storyline_45_65c276ba:
@@ -8548,7 +8548,7 @@ translate zh_Hans chee_storyline_45_5709e51f:
 translate zh_Hans chee_storyline_45_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:4510
 translate zh_Hans chee_storyline_46_52387c5c:
@@ -8724,7 +8724,7 @@ translate zh_Hans chee_storyline_46_6094e8f8:
 translate zh_Hans chee_storyline_46_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:4605
 translate zh_Hans chee_storyline_47_e695cad6:
@@ -8894,7 +8894,7 @@ translate zh_Hans chee_storyline_47_299c0f50:
 translate zh_Hans chee_storyline_47_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:4694
 translate zh_Hans chee_storyline_48_05de6f81:
@@ -9034,7 +9034,7 @@ translate zh_Hans chee_storyline_48_95d0039a:
 translate zh_Hans chee_storyline_48_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:4773
 translate zh_Hans chee_storyline_49_1198775f:
@@ -9198,7 +9198,7 @@ translate zh_Hans chee_storyline_49_89c7e25b:
 translate zh_Hans chee_storyline_49_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:4860
 translate zh_Hans chee_storyline_50_59488a19:
@@ -9374,7 +9374,7 @@ translate zh_Hans chee_storyline_50_295f31a4:
 translate zh_Hans chee_storyline_50_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:4951
 translate zh_Hans chee_storyline_51_35480268:
@@ -9526,7 +9526,7 @@ translate zh_Hans chee_storyline_51_52fb95a1:
 translate zh_Hans chee_storyline_51_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:5038
 translate zh_Hans chee_storyline_52_2c5e8c43:
@@ -9714,7 +9714,7 @@ translate zh_Hans chee_storyline_52_af0bfae2:
 translate zh_Hans chee_storyline_52_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:5141
 translate zh_Hans chee_storyline_53_74ef816f:
@@ -9896,7 +9896,7 @@ translate zh_Hans chee_storyline_53_5cbe34d3:
 translate zh_Hans chee_storyline_53_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:5238
 translate zh_Hans chee_storyline_54_705c5495:
@@ -10048,7 +10048,7 @@ translate zh_Hans chee_storyline_54_49335631:
 translate zh_Hans chee_storyline_54_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:5321
 translate zh_Hans chee_storyline_55_6a536d5d:
@@ -10206,7 +10206,7 @@ translate zh_Hans chee_storyline_55_95c63477:
 translate zh_Hans chee_storyline_55_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:5406
 translate zh_Hans chee_storyline_56_63a6cf2b:
@@ -10358,7 +10358,7 @@ translate zh_Hans chee_storyline_56_e50af9d3:
 translate zh_Hans chee_storyline_56_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:5489
 translate zh_Hans chee_storyline_57_4e5ed0df:
@@ -10510,7 +10510,7 @@ translate zh_Hans chee_storyline_57_c57a6546:
 translate zh_Hans chee_storyline_57_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:5572
 translate zh_Hans chee_storyline_58_2558ea60:
@@ -10656,7 +10656,7 @@ translate zh_Hans chee_storyline_58_c6ce59a1:
 translate zh_Hans chee_storyline_58_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:5653
 translate zh_Hans chee_storyline_59_4d544ebd:
@@ -10838,7 +10838,7 @@ translate zh_Hans chee_storyline_59_295f31a4:
 translate zh_Hans chee_storyline_59_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:5750
 translate zh_Hans chee_storyline_60_7558e517:
@@ -10978,7 +10978,7 @@ translate zh_Hans chee_storyline_60_405d2486:
 translate zh_Hans chee_storyline_60_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:5829
 translate zh_Hans chee_storyline_61_440d72a1:
@@ -11094,7 +11094,7 @@ translate zh_Hans chee_storyline_61_295f31a4:
 translate zh_Hans chee_storyline_61_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:5904
 translate zh_Hans chee_storyline_62_264b87d7:
@@ -11240,7 +11240,7 @@ translate zh_Hans chee_storyline_62_7b67c8c2:
 translate zh_Hans chee_storyline_62_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:5989
 translate zh_Hans chee_storyline_63_adfdc696:
@@ -11368,7 +11368,7 @@ translate zh_Hans chee_storyline_63_10f291d6:
 translate zh_Hans chee_storyline_63_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:6064
 translate zh_Hans chee_storyline_64_a750b141:
@@ -11526,7 +11526,7 @@ translate zh_Hans chee_storyline_64_eada67b2:
 translate zh_Hans chee_storyline_64_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:6153
 translate zh_Hans chee_storyline_65_2c942d44:
@@ -11720,7 +11720,7 @@ translate zh_Hans chee_storyline_65_301c0897:
 translate zh_Hans chee_storyline_65_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:6250
 translate zh_Hans chee_storyline_66_bec88069:
@@ -11860,7 +11860,7 @@ translate zh_Hans chee_storyline_66_db52ffaf:
 translate zh_Hans chee_storyline_66_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:6333
 translate zh_Hans chee_storyline_67_c6bb825e:
@@ -12000,7 +12000,7 @@ translate zh_Hans chee_storyline_67_eed74505:
 translate zh_Hans chee_storyline_67_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:6412
 translate zh_Hans chee_storyline_68_0acdb5f3:
@@ -12038,7 +12038,7 @@ translate zh_Hans chee_storyline_68_d1133712:
 translate zh_Hans chee_storyline_68_67c6f345:
 
     # nvlchee "This time... I slipped a finger inside."
-    nvlchee "这一次……我把一根手指悄悄地探进了我的骚穴。"
+    nvlchee "这一次……我把一根手指伸了进去。"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:6426
 translate zh_Hans chee_storyline_68_93bdceeb:
@@ -12218,7 +12218,7 @@ translate zh_Hans chee_storyline_68_3632d21c:
 translate zh_Hans chee_storyline_68_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:6521
 translate zh_Hans chee_storyline_69_6347620d:
@@ -12370,7 +12370,7 @@ translate zh_Hans chee_storyline_69_941a1850:
 translate zh_Hans chee_storyline_69_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:6604
 translate zh_Hans chee_storyline_70_0305708d:
@@ -12504,7 +12504,7 @@ translate zh_Hans chee_storyline_70_6095227c:
 translate zh_Hans chee_storyline_70_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 translate zh_Hans strings:
 
@@ -12519,4 +12519,3 @@ translate zh_Hans strings:
     # scripts/dialogues/chee_alpha_only_storyline.rpy:602
     old "Third"
     new "第三个"
-

@@ -132,7 +132,7 @@ translate zh_Hans wife_random_storyline_0_4ceb3c25:
 translate zh_Hans wife_random_storyline_0_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_random_storyline.rpy:103
 translate zh_Hans wife_random_storyline_1_e9c3b05d:
@@ -398,7 +398,7 @@ translate zh_Hans wife_random_storyline_1_f20e37ea:
 translate zh_Hans wife_random_storyline_1_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_random_storyline.rpy:228
 translate zh_Hans wife_random_storyline_2_44c5213d:
@@ -676,7 +676,7 @@ translate zh_Hans wife_random_storyline_2_1d926e9c:
 translate zh_Hans wife_random_storyline_2_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_random_storyline.rpy:352
 translate zh_Hans wife_random_storyline_3_8acfce50:
@@ -738,7 +738,7 @@ translate zh_Hans wife_random_storyline_3_d0995496:
 translate zh_Hans wife_random_storyline_3_d76b5685:
 
     # nvljenna "I see 😊"
-    nvljenna "I see 😊|我明白了😊"
+    nvljenna "我明白了😊"
 
 # game/scripts/dialogues/wife/wife_random_storyline.rpy:374
 translate zh_Hans wife_random_storyline_3_c79c9274:
@@ -1098,7 +1098,7 @@ translate zh_Hans wife_random_storyline_3_7b7f0f78:
 translate zh_Hans wife_random_storyline_3_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_random_storyline.rpy:525
 translate zh_Hans wife_random_storyline_4_38ceeb51:
@@ -1442,7 +1442,7 @@ translate zh_Hans wife_random_storyline_4_4cd6920c:
 translate zh_Hans wife_random_storyline_4_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_random_storyline.rpy:676
 translate zh_Hans wife_random_storyline_5_38ceeb51:
@@ -1462,5 +1462,5 @@ translate zh_Hans wife_random_storyline_5_c068535f:
 translate zh_Hans wife_random_storyline_5_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 

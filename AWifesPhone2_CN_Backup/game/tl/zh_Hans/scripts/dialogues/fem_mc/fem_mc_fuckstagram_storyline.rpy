@@ -102,13 +102,13 @@ translate zh_Hans fem_mc_fuckstagram_storyline_0_123854c7:
 translate zh_Hans fem_mc_fuckstagram_storyline_0_92a87066:
 
     # nvljohn_f "@kendralust"
-    nvljohn_f ""
+    nvljohn_f "@kendralust"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:109
 translate zh_Hans fem_mc_fuckstagram_storyline_0_14635a7d:
 
     # nvlwife "Thanks ❤️"
-    nvlwife "Thanks ❤️|谢谢❤️"
+    nvlwife "谢谢❤️"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:111
 translate zh_Hans fem_mc_fuckstagram_storyline_0_10a54fc6:
@@ -198,7 +198,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_0_80a9e65a:
 translate zh_Hans fem_mc_fuckstagram_storyline_0_d3a3f820:
 
     # nvlwife "I see 😊"
-    nvlwife "I see 😊|我明白了😊"
+    nvlwife "我明白了😊"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:141
 translate zh_Hans fem_mc_fuckstagram_storyline_0_ff64098c:
@@ -564,7 +564,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_0_70216c09:
 translate zh_Hans fem_mc_fuckstagram_storyline_0_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:298
 translate zh_Hans fem_mc_fuckstagram_storyline_1_f6c0a49f:
@@ -1088,7 +1088,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_1_b25e41c4:
 translate zh_Hans fem_mc_fuckstagram_storyline_1_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:506
 translate zh_Hans fem_mc_fuckstagram_storyline_2_3c16eeec:
@@ -1288,7 +1288,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_2_5dd3ac4a:
 translate zh_Hans fem_mc_fuckstagram_storyline_2_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:606
 translate zh_Hans fem_mc_fuckstagram_storyline_2_after_a04ce5ad:
@@ -1482,7 +1482,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_3_59efe626:
 translate zh_Hans fem_mc_fuckstagram_storyline_3_ff0fccc9:
 
     # nvljohn_f "Sorry, but I don't meet people online"
-    nvljohn_f "抱歉，我不跟网上的人约炮。"
+    nvljohn_f "抱歉，我不和网上认识的人见面。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:689
 translate zh_Hans fem_mc_fuckstagram_storyline_3_9bec426b:
@@ -1518,7 +1518,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_3_b25e41c4:
 translate zh_Hans fem_mc_fuckstagram_storyline_3_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:734
 translate zh_Hans fem_mc_fuckstagram_storyline_4_1fc46226:
@@ -1628,7 +1628,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_4_fb466002:
 translate zh_Hans fem_mc_fuckstagram_storyline_4_b3f51ad9:
 
     # nvljohn_f "I'm not interesting in meeting new people"
-    nvljohn_f "我对跟陌生人约炮没兴趣。"
+    nvljohn_f "我对认识新朋友没兴趣。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:772
 translate zh_Hans fem_mc_fuckstagram_storyline_4_c54c757f:
@@ -1694,7 +1694,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_4_e16c6c39:
 translate zh_Hans fem_mc_fuckstagram_storyline_4_935f5319:
 
     # nvlmike2 "I'm just suggesting we meet. It's not a date 😊"
-    nvlmike2 "我只是建议我们出来见一面，又不是约炮😊"
+    nvlmike2 "我只是建议我们出来见一面，又不是约会😊"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:794
 translate zh_Hans fem_mc_fuckstagram_storyline_4_3630a143:
@@ -1838,7 +1838,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_4_4c3c5b22:
 translate zh_Hans fem_mc_fuckstagram_storyline_4_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:875
 translate zh_Hans fem_mc_fuckstagram_storyline_5_0f8693a5:
@@ -2266,7 +2266,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_5_0313a428_1:
 translate zh_Hans fem_mc_fuckstagram_storyline_5_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1050
 translate zh_Hans fem_mc_fuckstagram_storyline_6_f742cda7:
@@ -2478,7 +2478,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_6_1a914fbc:
 translate zh_Hans fem_mc_fuckstagram_storyline_6_a31df109:
 
     # nvltuck "Wannd do it?"
-    nvltuck "想被干吗？"
+    nvltuck "想来吗？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1126
 translate zh_Hans fem_mc_fuckstagram_storyline_6_b202da8e:
@@ -2562,31 +2562,31 @@ translate zh_Hans fem_mc_fuckstagram_storyline_6_4f636323:
 translate zh_Hans fem_mc_fuckstagram_storyline_6_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1182
 translate zh_Hans fem_mc_fuckstagram_storyline_6_after_1efa8151:
 
     # mc "{i}I feel like only perverts message me"
-    mc "{i}I feel like only perverts message me|{i}我觉得只有变态才会给我发信息。"
+    mc "{i}我觉得只有变态才会给我发信息。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1184
 translate zh_Hans fem_mc_fuckstagram_storyline_6_after_fb4aa3ca:
 
     # mc "{i}And they're all men"
-    mc "{i}And they're all men|{i}他们都是男人。"
+    mc "{i}他们都是男人。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1186
 translate zh_Hans fem_mc_fuckstagram_storyline_6_after_942871ea:
 
     # mc "{i}It's not that surprising though"
-    mc "{i}It's not that surprising though|{i}不过，这并不令人意外。"
+    mc "{i}不过，这并不令人意外。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1188
 translate zh_Hans fem_mc_fuckstagram_storyline_6_after_99af76d0:
 
     # mc "{i}After all, I'm a woman now"
-    mc "{i}After all, I'm a woman now|{i}毕竟，我现在是个女人了。"
+    mc "{i}毕竟，我现在是个女人了。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1190
 translate zh_Hans fem_mc_fuckstagram_storyline_6_after_a04ce5ad:
@@ -2598,31 +2598,31 @@ translate zh_Hans fem_mc_fuckstagram_storyline_6_after_a04ce5ad:
 translate zh_Hans fem_mc_fuckstagram_storyline_6_after_d340d219:
 
     # mc "{i}Damn, maybe this was a mistake"
-    mc "{i}Damn, maybe this was a mistake|{i}该死，也许这是个错误。"
+    mc "{i}该死，也许这是个错误。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1194
 translate zh_Hans fem_mc_fuckstagram_storyline_6_after_6a97bd12:
 
     # mc "{i}This whole fuckstagram idea"
-    mc "{i}This whole fuckstagram idea|{i}这个他妈的“操逼社交”主意。"
+    mc "{i}这个他妈的“操逼社交”主意。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1196
 translate zh_Hans fem_mc_fuckstagram_storyline_6_after_a54c89e8:
 
     # mc "{i}Maybe I shouldn't have done it"
-    mc "{i}Maybe I shouldn't have done it|{i}或许我不该那么做。"
+    mc "{i}或许我不该那么做。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1198
 translate zh_Hans fem_mc_fuckstagram_storyline_6_after_b3051cc9:
 
     # mc "{i}Now I'm going to keep getting these messages"
-    mc "{i}Now I'm going to keep getting these messages|{i}现在我会一直收到这些信息。"
+    mc "{i}现在我会一直收到这些信息。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1200
 translate zh_Hans fem_mc_fuckstagram_storyline_6_after_f8de78a7:
 
     # mc "{i}It's never going to end"
-    mc "{i}It's never going to end|{i}这永远不会结束。"
+    mc "{i}这永远不会结束。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1202
 translate zh_Hans fem_mc_fuckstagram_storyline_6_after_2bccccc8:
@@ -2646,67 +2646,67 @@ translate zh_Hans fem_mc_fuckstagram_storyline_6_after_a04ce5ad_2:
 translate zh_Hans fem_mc_fuckstagram_storyline_6_after_479f9df7:
 
     # mc "{i}Alright, I'll just turn off notifications, I guess"
-    mc "{i}Alright, I'll just turn off notifications, I guess|{i}好吧，那我还是把通知关掉吧。"
+    mc "{i}好吧，那我还是把通知关掉吧。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1210
 translate zh_Hans fem_mc_fuckstagram_storyline_6_after_6b30d7db:
 
     # mc "{i}If I don't read these messages, everything will be fine, right?"
-    mc "{i}If I don't read these messages, everything will be fine, right?|{i}如果我不看这些信息，一切都会没事的，对吗？"
+    mc "{i}如果我不看这些信息，一切都会没事的，对吗？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1212
 translate zh_Hans fem_mc_fuckstagram_storyline_6_after_644bb1d2:
 
     # mc "{i}My follower count is growing"
-    mc "{i}My follower count is growing|{i}我的粉丝数量正在增长。"
+    mc "{i}我的粉丝数量正在增长。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1214
 translate zh_Hans fem_mc_fuckstagram_storyline_6_after_0ee1a3fe:
 
     # mc "{i}If this keeps up, I'll get even more"
-    mc "{i}If this keeps up, I'll get even more|{i}如果这种情况持续下去，我会得到更多。"
+    mc "{i}如果这种情况持续下去，我会得到更多。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1216
 translate zh_Hans fem_mc_fuckstagram_storyline_6_after_78ac3788:
 
     # mc "{i}It's kind of nice, in a way"
-    mc "{i}It's kind of nice, in a way|{i}从某种程度上来说，这还挺不错的。"
+    mc "{i}从某种程度上来说，这还挺不错的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1218
 translate zh_Hans fem_mc_fuckstagram_storyline_6_after_f46c16ed:
 
     # mc "{i}I'm curious how many followers I can get"
-    mc "{i}I'm curious how many followers I can get|{i}我很好奇我能获得多少粉丝。"
+    mc "{i}我很好奇我能获得多少粉丝。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1220
 translate zh_Hans fem_mc_fuckstagram_storyline_6_after_856565d5:
 
     # mc "{i}Will it be a few thousand or tens of thousands?"
-    mc "{i}Will it be a few thousand or tens of thousands?|{i}是几千个还是几万个？"
+    mc "{i}是几千个还是几万个？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1222
 translate zh_Hans fem_mc_fuckstagram_storyline_6_after_42516ee2:
 
     # mc "{i}Or will I be able to reach a million?"
-    mc "{i}Or will I be able to reach a million?|{i}或者我能达到一百万吗？"
+    mc "{i}或者我能达到一百万吗？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1224
 translate zh_Hans fem_mc_fuckstagram_storyline_6_after_7ae7a192:
 
     # mc "{i}Alright, I'll just keep posting content"
-    mc "{i}Alright, I'll just keep posting content|{i}好的，我会继续发布内容。"
+    mc "{i}好的，我会继续发布内容。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1226
 translate zh_Hans fem_mc_fuckstagram_storyline_6_after_a81123b1:
 
     # mc "{i}And pay less attention to the messages"
-    mc "{i}And pay less attention to the messages|{i}少关注这些信息。"
+    mc "{i}少关注这些信息。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1228
 translate zh_Hans fem_mc_fuckstagram_storyline_6_after_912fbe0e:
 
     # mc "{i}Or better yet, ignore them completely"
-    mc "{i}Or better yet, ignore them completely|{i}或者更好的办法是，完全无视它们。"
+    mc "{i}或者更好的办法是，完全无视它们。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1250
 translate zh_Hans fem_mc_fuckstagram_storyline_7_028dd0ca:
@@ -2714,13 +2714,13 @@ translate zh_Hans fem_mc_fuckstagram_storyline_7_028dd0ca:
     # nvl clear
     # nvlniko "When will there be new photos, gorgeous?"
     nvl clear
-    nvlniko "When will there be new photos, gorgeous?|美人儿，什么时候能有新照片啊？"
+    nvlniko "美人儿，什么时候能有新照片啊？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1254
 translate zh_Hans fem_mc_fuckstagram_storyline_7_cdf3bf24:
 
     # nvlniko "You haven't posted anything in a while"
-    nvlniko "You haven't posted anything in a while|你好久没发帖了。"
+    nvlniko "你好久没发帖了。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1256
 translate zh_Hans fem_mc_fuckstagram_storyline_7_10894231:
@@ -2732,13 +2732,13 @@ translate zh_Hans fem_mc_fuckstagram_storyline_7_10894231:
 translate zh_Hans fem_mc_fuckstagram_storyline_7_4e952483:
 
     # nvlniko "Post content for us to enjoy more often, haha"
-    nvlniko "Post content for us to enjoy more often, haha|多发点货色给我们好好爽爽，哈哈。"
+    nvlniko "多发点货色给我们好好爽爽，哈哈。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1260
 translate zh_Hans fem_mc_fuckstagram_storyline_7_4689c15a:
 
     # nvlniko "Your photos really lift my spirits"
-    nvlniko "Your photos really lift my spirits|你的照片真的让我心情愉悦。"
+    nvlniko "你的照片真的让我心情愉悦。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1262
 translate zh_Hans fem_mc_fuckstagram_storyline_7_eca31bfd:
@@ -2750,13 +2750,13 @@ translate zh_Hans fem_mc_fuckstagram_storyline_7_eca31bfd:
 translate zh_Hans fem_mc_fuckstagram_storyline_7_6a5cecb4:
 
     # nvlniko "And not just my spirits 😉"
-    nvlniko "And not just my spirits 😉|不只是我的心情 😉"
+    nvlniko "不只是我的心情 😉"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1266
 translate zh_Hans fem_mc_fuckstagram_storyline_7_1e256eba:
 
     # nvlniko "They lift something else too 😉"
-    nvlniko "They lift something else too 😉|它们还让我的鸡巴也硬了 😉"
+    nvlniko "它们还让我的鸡巴也硬了 😉"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1268
 translate zh_Hans fem_mc_fuckstagram_storyline_7_40518271:
@@ -2774,7 +2774,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_7_623f31a7:
 translate zh_Hans fem_mc_fuckstagram_storyline_7_5bd2c470:
 
     # nvlniko "But they really are exciting"
-    nvlniko "But they really are exciting|但它们确实令人兴奋。"
+    nvlniko "但它们确实令人兴奋。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1274
 translate zh_Hans fem_mc_fuckstagram_storyline_7_547d1807:
@@ -2792,7 +2792,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_7_f7d4e9f4:
 translate zh_Hans fem_mc_fuckstagram_storyline_7_35672e72:
 
     # nvlniko "By the way, have you changed your mind about getting to know each other?"
-    nvlniko "By the way, have you changed your mind about getting to know each other?|对了，你改变主意想互相了解一下了吗？"
+    nvlniko "对了，你改变主意想互相了解一下了吗？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1280
 translate zh_Hans fem_mc_fuckstagram_storyline_7_e55217b2:
@@ -2804,7 +2804,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_7_e55217b2:
 translate zh_Hans fem_mc_fuckstagram_storyline_7_559db293:
 
     # nvlniko "I'm a decent guy, by the way"
-    nvlniko "I'm a decent guy, by the way|顺便说一句，我是一个不错的人。"
+    nvlniko "顺便说一句，我是一个不错的人。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1284
 translate zh_Hans fem_mc_fuckstagram_storyline_7_0d8590cb:
@@ -2816,13 +2816,13 @@ translate zh_Hans fem_mc_fuckstagram_storyline_7_0d8590cb:
 translate zh_Hans fem_mc_fuckstagram_storyline_7_17161f88:
 
     # nvlniko "Got a house, a car, everything"
-    nvlniko "Got a house, a car, everything|有房子，有车，什么都有了。"
+    nvlniko "有房子，有车，什么都有了。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1288
 translate zh_Hans fem_mc_fuckstagram_storyline_7_7b36f6f1:
 
     # nvlniko "A good job too"
-    nvlniko "A good job too|也有份好工作。"
+    nvlniko "也有份好工作。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1290
 translate zh_Hans fem_mc_fuckstagram_storyline_7_69566c9c:
@@ -2834,37 +2834,37 @@ translate zh_Hans fem_mc_fuckstagram_storyline_7_69566c9c:
 translate zh_Hans fem_mc_fuckstagram_storyline_7_093f6970:
 
     # nvljohn_f "I don't meet people online"
-    nvljohn_f "I don't meet people online|我不在网上认识人。"
+    nvljohn_f "我不在网上认识人。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1294
 translate zh_Hans fem_mc_fuckstagram_storyline_7_67bd3416:
 
     # nvlniko "What if we just meet up?"
-    nvlniko "What if we just meet up?|我们直接见面怎么样？"
+    nvlniko "我们直接见面怎么样？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1296
 translate zh_Hans fem_mc_fuckstagram_storyline_7_792e712c:
 
     # nvlniko "Spend a little time together"
-    nvlniko "Spend a little time together|花点时间在一起。"
+    nvlniko "花点时间在一起。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1298
 translate zh_Hans fem_mc_fuckstagram_storyline_7_2e20a8a5:
 
     # nvljohn_f "You don't even know where I'm from"
-    nvljohn_f "You don't even know where I'm from|你甚至不知道我来自哪里。"
+    nvljohn_f "你甚至不知道我来自哪里。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1300
 translate zh_Hans fem_mc_fuckstagram_storyline_7_6ffe85b0:
 
     # nvlniko "Well, yeah, I don't"
-    nvlniko "Well, yeah, I don't|嗯，是的，我没有。"
+    nvlniko "嗯，是的，我没有。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1302
 translate zh_Hans fem_mc_fuckstagram_storyline_7_f78ad9e9:
 
     # nvlniko "But I can come wherever, if needed"
-    nvlniko "But I can come wherever, if needed|但要是需要，我哪儿都能去，去干你。"
+    nvlniko "但要是需要，我哪儿都能去，去干你。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1304
 translate zh_Hans fem_mc_fuckstagram_storyline_7_88638cd3:
@@ -2888,7 +2888,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_7_a18aa4b2:
 translate zh_Hans fem_mc_fuckstagram_storyline_7_91ab2ee1:
 
     # nvlniko "Why are beautiful women always so unattainable?"
-    nvlniko "Why are beautiful women always so unattainable?|为什么漂亮的女人总是那么遥不可及？"
+    nvlniko "为什么漂亮的女人总是那么遥不可及？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1312
 translate zh_Hans fem_mc_fuckstagram_storyline_7_10894231_1:
@@ -2900,19 +2900,19 @@ translate zh_Hans fem_mc_fuckstagram_storyline_7_10894231_1:
 translate zh_Hans fem_mc_fuckstagram_storyline_7_8ffb64dc:
 
     # nvlniko "You're not married, are you?"
-    nvlniko "You're not married, are you?|你还没结婚吧？"
+    nvlniko "你还没结婚吧？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1316
 translate zh_Hans fem_mc_fuckstagram_storyline_7_07b0b0be:
 
     # nvlniko "I just don't get what's stopping us from meeting up?"
-    nvlniko "I just don't get what's stopping us from meeting up?|我就是不明白是什么阻止我们见面？"
+    nvlniko "我就是不明白是什么阻止我们见面？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1318
 translate zh_Hans fem_mc_fuckstagram_storyline_7_5590bfdc:
 
     # nvlniko "Why are you against it?"
-    nvlniko "Why are you against it?|你为什么反对？"
+    nvlniko "你为什么反对？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1320
 translate zh_Hans fem_mc_fuckstagram_storyline_7_396a0785:
@@ -2924,7 +2924,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_7_396a0785:
 translate zh_Hans fem_mc_fuckstagram_storyline_7_c4dcc3e0:
 
     # nvljohn_f "I'm happy living on my own"
-    nvljohn_f "I'm happy living on my own|我一个人生活很开心。"
+    nvljohn_f "我一个人生活很开心。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1324
 translate zh_Hans fem_mc_fuckstagram_storyline_7_a442495d:
@@ -2936,19 +2936,19 @@ translate zh_Hans fem_mc_fuckstagram_storyline_7_a442495d:
 translate zh_Hans fem_mc_fuckstagram_storyline_7_3103fe7e:
 
     # nvljohn_f "It is, as you can see"
-    nvljohn_f "It is, as you can see|正如你所看到的，的确如此。"
+    nvljohn_f "正如你所看到的，的确如此。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1328
 translate zh_Hans fem_mc_fuckstagram_storyline_7_f99a8409:
 
     # nvlniko "Are you saying you don't have anyone?"
-    nvlniko "Are you saying you don't have anyone?|你是说你没男人吗？"
+    nvlniko "你是说你没男人吗？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1330
 translate zh_Hans fem_mc_fuckstagram_storyline_7_eac5ea8c:
 
     # nvljohn_f "I don't have anyone"
-    nvljohn_f "I don't have anyone|我没男人。"
+    nvljohn_f "我没男人。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1332
 translate zh_Hans fem_mc_fuckstagram_storyline_7_091f85fa:
@@ -2966,43 +2966,43 @@ translate zh_Hans fem_mc_fuckstagram_storyline_7_a0ed62df:
 translate zh_Hans fem_mc_fuckstagram_storyline_7_64bc79a3:
 
     # nvlniko "A beautiful woman like you?"
-    nvlniko "A beautiful woman like you?|像你这样美丽的女人？"
+    nvlniko "像你这样美丽的女人？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1338
 translate zh_Hans fem_mc_fuckstagram_storyline_7_bfa24a9d:
 
     # nvlniko "Are you avoiding relationships after your first marriage?"
-    nvlniko "Are you avoiding relationships after your first marriage?|你在第一次婚姻结束后是否在回避恋爱关系？"
+    nvlniko "你在第一次婚姻结束后是否在回避恋爱关系？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1340
 translate zh_Hans fem_mc_fuckstagram_storyline_7_cbaf0198:
 
     # nvlniko "How long ago did you get divorced?"
-    nvlniko "How long ago did you get divorced?|你离婚多久了？"
+    nvlniko "你离婚多久了？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1342
 translate zh_Hans fem_mc_fuckstagram_storyline_7_f16050ef:
 
     # nvljohn_f "I haven't been married"
-    nvljohn_f "I haven't been married|我还没结婚。"
+    nvljohn_f "我还没结婚。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1344
 translate zh_Hans fem_mc_fuckstagram_storyline_7_531aa20d:
 
     # nvlniko "And kids?"
-    nvlniko "And kids?|孩子们呢？"
+    nvlniko "孩子们呢？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1346
 translate zh_Hans fem_mc_fuckstagram_storyline_7_a37bf9fb:
 
     # nvljohn_f "No kids"
-    nvljohn_f "No kids|没有孩子。"
+    nvljohn_f "没有孩子。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1348
 translate zh_Hans fem_mc_fuckstagram_storyline_7_2c6ef78d:
 
     # nvlniko "Next you'll tell me you're a virgin, right?"
-    nvlniko "Next you'll tell me you're a virgin, right?|接下来你是不是要告诉我你是处女？"
+    nvlniko "接下来你是不是要告诉我你是处女？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1350
 translate zh_Hans fem_mc_fuckstagram_storyline_7_fd408538:
@@ -3020,13 +3020,13 @@ translate zh_Hans fem_mc_fuckstagram_storyline_7_a7fc7ad7:
 translate zh_Hans fem_mc_fuckstagram_storyline_7_5f8e3fdb:
 
     # nvlniko "No, that can't be true"
-    nvlniko "No, that can't be true|不，那不可能是真的。"
+    nvlniko "不，那不可能是真的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1356
 translate zh_Hans fem_mc_fuckstagram_storyline_7_bf153258:
 
     # nvlniko "With a body like that, you can't possibly be a virgin"
-    nvlniko "With a body like that, you can't possibly be a virgin|拥有这样的身材，你不可能还是处女。"
+    nvlniko "拥有这样的身材，你不可能还是处女。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1358
 translate zh_Hans fem_mc_fuckstagram_storyline_7_cad34638:
@@ -3050,13 +3050,13 @@ translate zh_Hans fem_mc_fuckstagram_storyline_7_61f75fa7:
 translate zh_Hans fem_mc_fuckstagram_storyline_7_cc087385:
 
     # nvlniko "You're not going to answer my question, are you?"
-    nvlniko "You're not going to answer my question, are you?|你不会回答我的问题，是吗？"
+    nvlniko "你不会回答我的问题，是吗？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1366
 translate zh_Hans fem_mc_fuckstagram_storyline_7_79c05f62:
 
     # nvljohn_f "Maybe another time 😊"
-    nvljohn_f "Maybe another time 😊|或许下次吧😊"
+    nvljohn_f "或许下次吧😊"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1368
 translate zh_Hans fem_mc_fuckstagram_storyline_7_4eb9436b:
@@ -3068,7 +3068,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_7_4eb9436b:
 translate zh_Hans fem_mc_fuckstagram_storyline_7_d69091b5:
 
     # nvlniko "So you don't mind if I keep messaging you"
-    nvlniko "So you don't mind if I keep messaging you|所以你不介意我继续给你发消息吧？"
+    nvlniko "所以你不介意我继续给你发消息吧？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1372
 translate zh_Hans fem_mc_fuckstagram_storyline_7_3449424a:
@@ -3086,13 +3086,13 @@ translate zh_Hans fem_mc_fuckstagram_storyline_7_61f75fa7_1:
 translate zh_Hans fem_mc_fuckstagram_storyline_7_9339b7a9:
 
     # nvlniko "Yeah, goodbye"
-    nvlniko "Yeah, goodbye|是啊，再见。"
+    nvlniko "是啊，再见。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1392
 translate zh_Hans fem_mc_fuckstagram_storyline_7_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1411
 translate zh_Hans fem_mc_fuckstagram_storyline_8_8a0778da:
@@ -3100,7 +3100,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_8_8a0778da:
     # nvl clear
     # nvlfrick "I'd fuck you, babe"
     nvl clear
-    nvlfrick "I'd fuck you, babe|宝贝，我想肏你。"
+    nvlfrick "宝贝，我想肏你。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1415
 translate zh_Hans fem_mc_fuckstagram_storyline_8_f8986f3e:
@@ -3112,7 +3112,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_8_f8986f3e:
 translate zh_Hans fem_mc_fuckstagram_storyline_8_be841348:
 
     # nvlfrick "If we're from the same city, we could meet up"
-    nvlfrick "If we're from the same city, we could meet up|要是同城，咱们就能约出来干了。"
+    nvlfrick "要是同城，咱们就能约出来干了。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1419
 translate zh_Hans fem_mc_fuckstagram_storyline_8_0efbf82c:
@@ -3130,7 +3130,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_8_603542ad:
 translate zh_Hans fem_mc_fuckstagram_storyline_8_f818ab1c:
 
     # nvlfrick "Don't you want to fuck?"
-    nvlfrick "Don't you want to fuck?|你不想被肏吗？"
+    nvlfrick "你不想被肏吗？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1425
 translate zh_Hans fem_mc_fuckstagram_storyline_8_b202da8e:
@@ -3142,13 +3142,13 @@ translate zh_Hans fem_mc_fuckstagram_storyline_8_b202da8e:
 translate zh_Hans fem_mc_fuckstagram_storyline_8_16538b22:
 
     # nvljohn_f "I definitely don't want to have sex with a jerk like you"
-    nvljohn_f "I definitely don't want to have sex with a jerk like you|我他妈才不想被你这种混蛋肏！"
+    nvljohn_f "我他妈才不想被你这种混蛋肏！"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1429
 translate zh_Hans fem_mc_fuckstagram_storyline_8_360f0eec:
 
     # nvlfrick "Are you nuts?"
-    nvlfrick "Are you nuts?|你疯了吗？"
+    nvlfrick "你疯了吗？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1431
 translate zh_Hans fem_mc_fuckstagram_storyline_8_b26e4439:
@@ -3160,25 +3160,25 @@ translate zh_Hans fem_mc_fuckstagram_storyline_8_b26e4439:
 translate zh_Hans fem_mc_fuckstagram_storyline_8_325cd5ca:
 
     # nvljohn_f "You watch yours"
-    nvljohn_f "You watch yours|你给我小心点。"
+    nvljohn_f "你给我小心点。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1435
 translate zh_Hans fem_mc_fuckstagram_storyline_8_ada8ad9b:
 
     # nvlfrick "Tell me where you're from"
-    nvlfrick "Tell me where you're from|告诉我你来自哪里。"
+    nvlfrick "告诉我你来自哪里。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1437
 translate zh_Hans fem_mc_fuckstagram_storyline_8_392ea968:
 
     # nvlfrick "So I can come over and fuck you properly"
-    nvlfrick "So I can come over and fuck you properly|这样我就可以过来好好操你了。"
+    nvlfrick "这样我就可以过来好好操你了。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1439
 translate zh_Hans fem_mc_fuckstagram_storyline_8_c7879104:
 
     # nvlfrick "So you can learn how to talk to men like me"
-    nvlfrick "So you can learn how to talk to men like me|所以你可以学习如何与像我这样的男人交谈。"
+    nvlfrick "所以你可以学习如何与像我这样的男人交谈。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1443
 translate zh_Hans fem_mc_fuckstagram_storyline_8_8f31929f:
@@ -3190,7 +3190,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_8_8f31929f:
 translate zh_Hans fem_mc_fuckstagram_storyline_8_dc79d2b0:
 
     # nvlfrick "My cock's fully ready for you"
-    nvlfrick "My cock's fully ready for you|我的鸡巴早就为你硬透了。"
+    nvlfrick "我的鸡巴早就为你硬透了。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1449
 translate zh_Hans fem_mc_fuckstagram_storyline_8_1cce0662:
@@ -3202,7 +3202,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_8_1cce0662:
 translate zh_Hans fem_mc_fuckstagram_storyline_8_172deea4:
 
     # nvljohn_f "Sick jerk"
-    nvljohn_f "Sick jerk|变态混蛋。"
+    nvljohn_f "变态混蛋。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1453
 translate zh_Hans fem_mc_fuckstagram_storyline_8_996774a4:
@@ -3214,97 +3214,97 @@ translate zh_Hans fem_mc_fuckstagram_storyline_8_996774a4:
 translate zh_Hans fem_mc_fuckstagram_storyline_8_e506a4d2:
 
     # nvlfrick "Another slut acting all holy"
-    nvlfrick "Another slut acting all holy|又一个荡妇装出一副圣洁的样子。"
+    nvlfrick "又一个荡妇装出一副圣洁的样子。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1457
 translate zh_Hans fem_mc_fuckstagram_storyline_8_2c475f3f:
 
     # nvlfrick "There are so many of you"
-    nvlfrick "There are so many of you|你们人真多啊。"
+    nvlfrick "你们人真多啊。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1459
 translate zh_Hans fem_mc_fuckstagram_storyline_8_3334c903:
 
     # nvljohn_f "How many horny jerks like you are there?"
-    nvljohn_f "How many horny jerks like you are there?|像你这样的色狼有多少？"
+    nvljohn_f "像你这样的色狼有多少？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1461
 translate zh_Hans fem_mc_fuckstagram_storyline_8_e4572c9b:
 
     # nvlfrick "Whatever, get lost"
-    nvlfrick "Whatever, get lost|随便吧，滚开。"
+    nvlfrick "随便吧，滚开。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1463
 translate zh_Hans fem_mc_fuckstagram_storyline_8_666e5045:
 
     # nvlfrick "I'm not gonna waste my time on you"
-    nvlfrick "I'm not gonna waste my time on you|我不会在你身上浪费时间。"
+    nvlfrick "我不会在你身上浪费时间。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1465
 translate zh_Hans fem_mc_fuckstagram_storyline_8_abd10d1f:
 
     # nvlfrick "If you don't want to fuck, there's no point in talking to you"
-    nvlfrick "If you don't want to fuck, there's no point in talking to you|如果你不想被肏，那跟你说话也没用。"
+    nvlfrick "如果你不想被肏，那跟你说话也没用。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1483
 translate zh_Hans fem_mc_fuckstagram_storyline_8_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1501
 translate zh_Hans fem_mc_fuckstagram_storyline_8_after_2aab5051:
 
     # mc "{i}What a jerk"
-    mc "{i}What a jerk|{i}真是个混蛋。"
+    mc "{i}真是个混蛋。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1503
 translate zh_Hans fem_mc_fuckstagram_storyline_8_after_6d0d443e:
 
     # mc "{i}It's really tough living as a woman"
-    mc "{i}It's really tough living as a woman|{i}做女人真的太难了。"
+    mc "{i}做女人真的太难了。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1505
 translate zh_Hans fem_mc_fuckstagram_storyline_8_after_c6440b02:
 
     # mc "{i}I never thought about it before"
-    mc "{i}I never thought about it before|{i}我以前从来没想过这个问题。"
+    mc "{i}我以前从来没想过这个问题。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1507
 translate zh_Hans fem_mc_fuckstagram_storyline_8_after_9f880798:
 
     # mc "{i}That they constantly have to deal with this"
-    mc "{i}That they constantly have to deal with this|{i}他们不得不不断应对这种情况。"
+    mc "{i}他们不得不不断应对这种情况。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1509
 translate zh_Hans fem_mc_fuckstagram_storyline_8_after_5245d2d6:
 
     # mc "{i}That they get these messages from idiots offering them things like this"
-    mc "{i}That they get these messages from idiots offering them things like this|{i}他们收到这些信息，都是些白痴向他们兜售类似这样的东西。"
+    mc "{i}他们收到这些信息，都是些白痴向他们兜售类似这样的东西。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1511
 translate zh_Hans fem_mc_fuckstagram_storyline_8_after_c88d80ce:
 
     # mc "{i}My wife probably received messages like this too"
-    mc "{i}My wife probably received messages like this too|{i}我的凯茜可能也收到过类似的短信。"
+    mc "{i}我的凯茜可能也收到过类似的短信。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1513
 translate zh_Hans fem_mc_fuckstagram_storyline_8_after_cbd3204d:
 
     # mc "{i}Before she became the way she is now"
-    mc "{i}Before she became the way she is now|{i}在她变成现在这样之前。"
+    mc "{i}在她变成现在这样之前。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1515
 translate zh_Hans fem_mc_fuckstagram_storyline_8_after_97e24fc8:
 
     # mc "{i}Maybe that's what changed her"
-    mc "{i}Maybe that's what changed her|{i}或许正是这件事改变了她。"
+    mc "{i}或许正是这件事改变了她。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1517
 translate zh_Hans fem_mc_fuckstagram_storyline_8_after_bd7203fd:
 
     # mc "{i}It must affect your mind in some way"
-    mc "{i}It must affect your mind in some way|{i}它必然会以某种方式影响你的思维。"
+    mc "{i}它必然会以某种方式影响你的思维。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1519
 translate zh_Hans fem_mc_fuckstagram_storyline_8_after_39aba565:
@@ -3402,7 +3402,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_9_b453184a:
 translate zh_Hans fem_mc_fuckstagram_storyline_9_1197e6a3:
 
     # nvljohn_f "I see 😊"
-    nvljohn_f "I see 😊|我明白了😊"
+    nvljohn_f "我明白了😊"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1570
 translate zh_Hans fem_mc_fuckstagram_storyline_9_24c61788:
@@ -3846,7 +3846,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_9_69082505:
 translate zh_Hans fem_mc_fuckstagram_storyline_9_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1758
 translate zh_Hans fem_mc_fuckstagram_storyline_10_09266dda:
@@ -4016,7 +4016,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_10_2f084aa4:
 translate zh_Hans fem_mc_fuckstagram_storyline_10_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1845
 translate zh_Hans fem_mc_fuckstagram_storyline_11_6fea0497:
@@ -4126,7 +4126,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_11_97dc6a40:
 translate zh_Hans fem_mc_fuckstagram_storyline_11_3ed05bc2:
 
     # nvljohn_f "When I get to know you better, I'll tell you"
-    nvljohn_f "等我更了解你这骚货之后，我会告诉你的。"
+    nvljohn_f "等我更了解你之后，我会告诉你的。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1883
 translate zh_Hans fem_mc_fuckstagram_storyline_11_30b8b78f:
@@ -4186,7 +4186,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_11_094d54ea:
 translate zh_Hans fem_mc_fuckstagram_storyline_11_f512b06a:
 
     # nvlniko "I'll just know that meeting up isn't an option"
-    nvlniko "我只会知道，约炮是没戏了。"
+    nvlniko "我只会知道，见面是没戏了。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1903
 translate zh_Hans fem_mc_fuckstagram_storyline_11_1df02cb8:
@@ -4258,7 +4258,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_11_0313a428_1:
 translate zh_Hans fem_mc_fuckstagram_storyline_11_a38d76fc:
 
     # nvlniko "Now I'll be waiting for your next post"
-    nvlniko "现在我可要翘首以盼你的下一篇骚货了。"
+    nvlniko "现在我可要等着你的下一篇动态了。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1927
 translate zh_Hans fem_mc_fuckstagram_storyline_11_fd408538_1:
@@ -4270,7 +4270,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_11_fd408538_1:
 translate zh_Hans fem_mc_fuckstagram_storyline_11_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:1960
 translate zh_Hans fem_mc_fuckstagram_storyline_12_4603e2fd:
@@ -4590,7 +4590,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_12_2ab7dd83:
 translate zh_Hans fem_mc_fuckstagram_storyline_12_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:2100
 translate zh_Hans fem_mc_fuckstagram_storyline_13_9b2f2e0d:
@@ -5132,7 +5132,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_13_ae1d81a3:
 translate zh_Hans fem_mc_fuckstagram_storyline_13_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:2320
 translate zh_Hans fem_mc_fuckstagram_storyline_13_after_679a934f:
@@ -5536,7 +5536,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_14_0313a428:
 translate zh_Hans fem_mc_fuckstagram_storyline_14_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:2506
 translate zh_Hans fem_mc_fuckstagram_storyline_15_ff5f09f3:
@@ -6102,7 +6102,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_15_410d17d3:
 translate zh_Hans fem_mc_fuckstagram_storyline_15_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:2740
 translate zh_Hans fem_mc_fuckstagram_storyline_15_after_45e44d16:
@@ -6428,7 +6428,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_16_2dd7a182:
 translate zh_Hans fem_mc_fuckstagram_storyline_16_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:2899
 translate zh_Hans fem_mc_fuckstagram_storyline_17_edb8e95a:
@@ -6742,7 +6742,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_17_67a6c876:
 translate zh_Hans fem_mc_fuckstagram_storyline_17_d50f7004:
 
     # nvlroy "Or if you tell me where you live, I could come over"
-    nvlroy "或者如果你告诉我你住哪儿，我他妈的可以直接过去操你。"
+    nvlroy "或者如果你告诉我你住哪儿，我可以直接过去。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:3013
 translate zh_Hans fem_mc_fuckstagram_storyline_17_764b4135:
@@ -6784,7 +6784,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_17_13e2dcfc:
 translate zh_Hans fem_mc_fuckstagram_storyline_17_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:3058
 translate zh_Hans fem_mc_fuckstagram_storyline_18_3c16eeec:
@@ -7122,7 +7122,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_18_61f07576:
 translate zh_Hans fem_mc_fuckstagram_storyline_18_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:3203
 translate zh_Hans fem_mc_fuckstagram_storyline_18_after_ff3b3eec:
@@ -7164,7 +7164,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_18_after_8a1b442f:
 translate zh_Hans fem_mc_fuckstagram_storyline_18_after_8ff0bae2:
 
     # mc "{i}That I shouldn't be meeting up with anyone"
-    mc "{i}我不该跟任何人约炮。"
+    mc "{i}我不该和任何人见面。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:3217
 translate zh_Hans fem_mc_fuckstagram_storyline_18_after_48ccee6a:
@@ -7820,7 +7820,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_19_b25e41c4:
 translate zh_Hans fem_mc_fuckstagram_storyline_19_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:3488
 translate zh_Hans fem_mc_fuckstagram_storyline_19_after_61f954b5:
@@ -8374,7 +8374,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_20_ae1d81a3:
 translate zh_Hans fem_mc_fuckstagram_storyline_20_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:3727
 translate zh_Hans fem_mc_fuckstagram_storyline_21_775cde58:
@@ -8394,7 +8394,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_21_a268647f:
 translate zh_Hans fem_mc_fuckstagram_storyline_21_67e04c16:
 
     # nvlniko "Are you going to post any new content?"
-    nvlniko "你会发布新骚货吗？"
+    nvlniko "你还会发布新内容吗？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:3735
 translate zh_Hans fem_mc_fuckstagram_storyline_21_fbacc18b:
@@ -8412,7 +8412,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_21_c6d26955:
 translate zh_Hans fem_mc_fuckstagram_storyline_21_ff4c828e:
 
     # nvljohn_f "I just don't have time to upload anything new"
-    nvljohn_f "我实在没时间上传任何新骚货。"
+    nvljohn_f "我实在没时间上传任何新内容。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:3741
 translate zh_Hans fem_mc_fuckstagram_storyline_21_ab90b391:
@@ -8490,13 +8490,13 @@ translate zh_Hans fem_mc_fuckstagram_storyline_21_f023a981:
 translate zh_Hans fem_mc_fuckstagram_storyline_21_4aff75ba:
 
     # nvlniko "By the way, if you tell me where you live, I might try moving to your city"
-    nvlniko "对了，如果你告诉我你住在哪里，我或许会考虑搬到你身边来操你。"
+    nvlniko "对了，如果你告诉我你住在哪里，我或许会考虑搬到你的城市。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:3767
 translate zh_Hans fem_mc_fuckstagram_storyline_21_ffb52799:
 
     # nvlniko "Maybe I'll have better chances finding work there"
-    nvlniko "或许我在那里更容易找到操你的机会。"
+    nvlniko "或许我在那里更容易找到工作。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:3769
 translate zh_Hans fem_mc_fuckstagram_storyline_21_937d83b0:
@@ -8658,7 +8658,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_21_b5769c5e:
 translate zh_Hans fem_mc_fuckstagram_storyline_21_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:3854
 translate zh_Hans fem_mc_fuckstagram_storyline_22_1608d6fb:
@@ -8702,7 +8702,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_22_e6acd26a:
 translate zh_Hans fem_mc_fuckstagram_storyline_22_d4b778b0:
 
     # nvlbarsik "Don't you want to fuck?"
-    nvlbarsik "Don't you want to fuck?|你不想被肏吗？"
+    nvlbarsik "你不想被肏吗？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:3870
 translate zh_Hans fem_mc_fuckstagram_storyline_22_46aa69a4:
@@ -8846,7 +8846,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_22_8582d4ee:
 translate zh_Hans fem_mc_fuckstagram_storyline_22_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:3951
 translate zh_Hans fem_mc_fuckstagram_storyline_23_e3ce6408:
@@ -9046,7 +9046,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_23_2395e686:
 translate zh_Hans fem_mc_fuckstagram_storyline_23_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:4059
 translate zh_Hans fem_mc_fuckstagram_storyline_23_after_eb4534ab:
@@ -9082,7 +9082,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_23_after_ee5996e2:
 translate zh_Hans fem_mc_fuckstagram_storyline_23_after_3054f0d8:
 
     # mc "{i}That's..."
-    mc "{i}That's...|{i}那……"
+    mc "{i}那……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:4071
 translate zh_Hans fem_mc_fuckstagram_storyline_23_after_97b3e2d7:
@@ -9624,7 +9624,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_24_b25e41c4:
 translate zh_Hans fem_mc_fuckstagram_storyline_24_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:4302
 translate zh_Hans fem_mc_fuckstagram_storyline_24_after_3777c99f:
@@ -10124,7 +10124,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_25_8de1fa4d:
 translate zh_Hans fem_mc_fuckstagram_storyline_25_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:4522
 translate zh_Hans fem_mc_fuckstagram_storyline_26_88040782:
@@ -10420,7 +10420,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_26_e0b92ef5:
 translate zh_Hans fem_mc_fuckstagram_storyline_26_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:4653
 translate zh_Hans fem_mc_fuckstagram_storyline_27_02383080:
@@ -10788,7 +10788,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_27_886796fe:
 translate zh_Hans fem_mc_fuckstagram_storyline_27_d87b7620:
 
     # nvlchad "I'd love to meet a woman like you"
-    nvlchad "我真想操你这种女人。"
+    nvlchad "我真想见见你这样的女人。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:4785
 translate zh_Hans fem_mc_fuckstagram_storyline_27_0915f6ad:
@@ -10818,7 +10818,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_27_0313a428_1:
 translate zh_Hans fem_mc_fuckstagram_storyline_27_822c4893:
 
     # nvlchad "Honestly, this photo turned me on a lot"
-    nvlchad "说实话，这张照片看得我鸡巴都硬了。"
+    nvlchad "说实话，这张照片让我很有感觉。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:4795
 translate zh_Hans fem_mc_fuckstagram_storyline_27_179bd693:
@@ -10866,7 +10866,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_27_f8dfa562:
 translate zh_Hans fem_mc_fuckstagram_storyline_27_5467f0aa:
 
     # nvlchad "23"
-    nvlchad ""
+    nvlchad "23"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:4811
 translate zh_Hans fem_mc_fuckstagram_storyline_27_40518271:
@@ -11022,7 +11022,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_27_2dd7a182:
 translate zh_Hans fem_mc_fuckstagram_storyline_27_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:4891
 translate zh_Hans fem_mc_fuckstagram_storyline_27_after_0ce0ca7e:
@@ -11190,7 +11190,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_27_after_0cec6d0e:
 translate zh_Hans fem_mc_fuckstagram_storyline_27_after_dc3827ef:
 
     # mc "{i}I even get a little turned on myself thinking about this"
-    mc "{i}光是想到这些，我骚穴里都开始湿润了。"
+    mc "{i}光是想到这些，我自己都有点兴奋了。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:4947
 translate zh_Hans fem_mc_fuckstagram_storyline_27_after_2aac1374:
@@ -11618,7 +11618,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_28_5c4c20d4:
 translate zh_Hans fem_mc_fuckstagram_storyline_28_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:5144
 translate zh_Hans fem_mc_fuckstagram_storyline_29_f3f51a91:
@@ -11782,7 +11782,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_29_3e0f595c:
 translate zh_Hans fem_mc_fuckstagram_storyline_29_bf7592ab:
 
     # nvlchad "I see 😊"
-    nvlchad "I see 😊|我明白了😊"
+    nvlchad "我明白了😊"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:5204
 translate zh_Hans fem_mc_fuckstagram_storyline_29_f0450700:
@@ -12166,7 +12166,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_29_9954833c:
 translate zh_Hans fem_mc_fuckstagram_storyline_29_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:5373
 translate zh_Hans fem_mc_fuckstagram_storyline_29_after_80c3d4e9:
@@ -12882,7 +12882,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_30_0313a428_2:
 translate zh_Hans fem_mc_fuckstagram_storyline_30_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:5664
 translate zh_Hans fem_mc_fuckstagram_storyline_31_1e9b5998:
@@ -13334,7 +13334,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_31_b25e41c4_1:
 translate zh_Hans fem_mc_fuckstagram_storyline_31_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:5853
 translate zh_Hans fem_mc_fuckstagram_storyline_32_a01e9306:
@@ -13576,7 +13576,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_32_1a3781f4:
 translate zh_Hans fem_mc_fuckstagram_storyline_32_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:5976
 translate zh_Hans fem_mc_fuckstagram_storyline_33_76d689b4:
@@ -14010,7 +14010,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_33_d90c792c:
 translate zh_Hans fem_mc_fuckstagram_storyline_33_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:6151
 translate zh_Hans fem_mc_fuckstagram_storyline_33_after_b7e4459e:
@@ -14108,7 +14108,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_34_5525b501:
 translate zh_Hans fem_mc_fuckstagram_storyline_34_8ee0d81c:
 
     # nvlchad "Who were you out with?"
-    nvlchad "你当时是跟哪个小骚货出去浪的？"
+    nvlchad "你当时是和谁出去的？"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:6202
 translate zh_Hans fem_mc_fuckstagram_storyline_34_064e4859:
@@ -14426,7 +14426,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_34_1b3d840a:
 translate zh_Hans fem_mc_fuckstagram_storyline_34_6abde530:
 
     # nvlchad "I don't need anything else"
-    nvlchad "我不需要其他任何东西，有这张就够我撸一晚上了。"
+    nvlchad "我不需要别的了。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:6312
 translate zh_Hans fem_mc_fuckstagram_storyline_34_85a0f3a5:
@@ -14636,13 +14636,13 @@ translate zh_Hans fem_mc_fuckstagram_storyline_34_43f043eb:
 translate zh_Hans fem_mc_fuckstagram_storyline_34_b34b2275:
 
     # nvljohn_f "I'm sure there are plenty of girls you like"
-    nvljohn_f "我相信你喜欢的骚货多的是。"
+    nvljohn_f "我相信你喜欢的女孩多的是。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:6382
 translate zh_Hans fem_mc_fuckstagram_storyline_34_384350a4:
 
     # nvlchad "Yeah, there are girls I like"
-    nvlchad "是啊，我喜欢一些骚货。"
+    nvlchad "是啊，我有喜欢的女孩。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:6384
 translate zh_Hans fem_mc_fuckstagram_storyline_34_857715e0:
@@ -14726,7 +14726,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_34_9954833c:
 translate zh_Hans fem_mc_fuckstagram_storyline_34_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:6441
 translate zh_Hans fem_mc_fuckstagram_storyline_34_after_a04ce5ad:
@@ -15190,7 +15190,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_35_8ae40134:
 translate zh_Hans fem_mc_fuckstagram_storyline_35_b893767d:
 
     # nvlzack "From some, even too beautiful"
-    nvlzack "从某些角度看，简直美得让人发狂，想把你狠狠操翻。"
+    nvlzack "从某些角度看，甚至美得有点过分。"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:6618
 translate zh_Hans fem_mc_fuckstagram_storyline_35_29afe0e7:
@@ -15244,7 +15244,7 @@ translate zh_Hans fem_mc_fuckstagram_storyline_35_e61b3bea:
 translate zh_Hans fem_mc_fuckstagram_storyline_35_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/fem_mc/fem_mc_fuckstagram_storyline.rpy:6664
 translate zh_Hans fem_mc_fuckstagram_storyline_36_a2d6ddfd:
@@ -16050,5 +16050,4 @@ translate zh_Hans fem_mc_fuckstagram_storyline_36_da4834d7:
 translate zh_Hans fem_mc_fuckstagram_storyline_36_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
-
+    nvl_narrator "对话结束……"

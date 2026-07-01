@@ -162,7 +162,7 @@ translate zh_Hans kirely_storyline_50_4cdc7732:
 translate zh_Hans kirely_storyline_50_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:145
 translate zh_Hans kirely_storyline_50_after_44eab2ce:
@@ -518,7 +518,7 @@ translate zh_Hans kirely_storyline_51_7a5dae9d:
 translate zh_Hans kirely_storyline_51_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:319
 translate zh_Hans kirely_storyline_52_fc2c8bbb:
@@ -790,7 +790,7 @@ translate zh_Hans kirely_storyline_52_7a5dae9d:
 translate zh_Hans kirely_storyline_52_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:442
 translate zh_Hans kirely_storyline_53_b7965edb:
@@ -966,7 +966,7 @@ translate zh_Hans kirely_storyline_53_7a5dae9d:
 translate zh_Hans kirely_storyline_53_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:545
 translate zh_Hans kirely_storyline_54_14467712:
@@ -1202,7 +1202,7 @@ translate zh_Hans kirely_storyline_54_d9066eb6:
 translate zh_Hans kirely_storyline_54_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:654
 translate zh_Hans kirely_storyline_55_450867b2:
@@ -1396,7 +1396,7 @@ translate zh_Hans kirely_storyline_55_6e2d4499:
 translate zh_Hans kirely_storyline_55_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:749
 translate zh_Hans kirely_storyline_56_4d49f34c:
@@ -1722,7 +1722,7 @@ translate zh_Hans kirely_storyline_56_7901bddb:
 translate zh_Hans kirely_storyline_56_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:898
 translate zh_Hans kirely_storyline_60_83ffa6ee:
@@ -1892,7 +1892,7 @@ translate zh_Hans kirely_storyline_60_add49b16:
 translate zh_Hans kirely_storyline_60_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:987
 translate zh_Hans kirely_storyline_61_76b2fe88:
@@ -1922,7 +1922,7 @@ translate zh_Hans kirely_storyline_61_7a56f92c:
 translate zh_Hans kirely_storyline_61_cdfacefd:
 
     # nvlkirely "Thanks ❤️"
-    nvlkirely "Thanks ❤️|谢谢❤️"
+    nvlkirely "谢谢❤️"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:1007
 translate zh_Hans kirely_storyline_61_f353e221:
@@ -2114,7 +2114,7 @@ translate zh_Hans kirely_storyline_61_3adfc931:
 translate zh_Hans kirely_storyline_61_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:1104
 translate zh_Hans kirely_storyline_62_76b2fe88:
@@ -2294,7 +2294,7 @@ translate zh_Hans kirely_storyline_62_9eed3071:
 translate zh_Hans kirely_storyline_62_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:1203
 translate zh_Hans kirely_storyline_63_d82c2068:
@@ -2524,7 +2524,7 @@ translate zh_Hans kirely_storyline_63_e06ad602:
 translate zh_Hans kirely_storyline_63_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:1320
 translate zh_Hans kirely_storyline_64_4b110570:
@@ -2832,7 +2832,7 @@ translate zh_Hans kirely_storyline_64_5ddd1f23_1:
 translate zh_Hans kirely_storyline_64_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:1457
 translate zh_Hans kirely_storyline_65_8a007acd:
@@ -3032,7 +3032,7 @@ translate zh_Hans kirely_storyline_65_7d79557b:
 translate zh_Hans kirely_storyline_65_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:1556
 translate zh_Hans kirely_storyline_66_c09bb155:
@@ -3292,7 +3292,7 @@ translate zh_Hans kirely_storyline_66_72567ba1:
 translate zh_Hans kirely_storyline_66_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:1697
 translate zh_Hans kirely_storyline_67_14467712:
@@ -3522,7 +3522,7 @@ translate zh_Hans kirely_storyline_67_d15785ce:
 translate zh_Hans kirely_storyline_67_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:1804
 translate zh_Hans kirely_storyline_68_7f806515:
@@ -3794,7 +3794,7 @@ translate zh_Hans kirely_storyline_68_3ddf74e1_1:
 translate zh_Hans kirely_storyline_68_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:1927
 translate zh_Hans kirely_storyline_69_1ab2f597:
@@ -4084,7 +4084,7 @@ translate zh_Hans kirely_storyline_69_d5c663d3:
 translate zh_Hans kirely_storyline_69_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:2057
 translate zh_Hans kirely_storyline_69_after_eec3fbd9:
@@ -4398,7 +4398,7 @@ translate zh_Hans kirely_storyline_70_e0efd09e:
 translate zh_Hans kirely_storyline_70_cdfacefd:
 
     # nvlkirely "Thanks ❤️"
-    nvlkirely "Thanks ❤️|谢谢❤️"
+    nvlkirely "谢谢❤️"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:2192
 translate zh_Hans kirely_storyline_70_30e14e8e:
@@ -4458,7 +4458,7 @@ translate zh_Hans kirely_storyline_70_56f0f9d4:
 translate zh_Hans kirely_storyline_70_cdfacefd_1:
 
     # nvlkirely "Thanks ❤️"
-    nvlkirely "Thanks ❤️|谢谢❤️"
+    nvlkirely "谢谢❤️"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:2218
 translate zh_Hans kirely_storyline_70_278b0475:
@@ -4572,7 +4572,7 @@ translate zh_Hans kirely_storyline_70_a52094c2:
 translate zh_Hans kirely_storyline_70_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:2284
 translate zh_Hans kirely_storyline_70_after_c3ad84b8:
@@ -4970,7 +4970,7 @@ translate zh_Hans kirely_storyline_71_297f63c1_1:
 translate zh_Hans kirely_storyline_71_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:2482
 translate zh_Hans kirely_storyline_72_7f806515:
@@ -5170,7 +5170,7 @@ translate zh_Hans kirely_storyline_72_0ff99c8b:
 translate zh_Hans kirely_storyline_72_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:2585
 translate zh_Hans kirely_storyline_73_7f806515:
@@ -5322,7 +5322,7 @@ translate zh_Hans kirely_storyline_73_094c86b4:
 translate zh_Hans kirely_storyline_73_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:2674
 translate zh_Hans kirely_storyline_74_acd686c5:
@@ -5678,7 +5678,7 @@ translate zh_Hans kirely_storyline_74_bdcad317:
 translate zh_Hans kirely_storyline_74_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:2833
 translate zh_Hans kirely_storyline_75_f1b11302:
@@ -5800,7 +5800,7 @@ translate zh_Hans kirely_storyline_75_0c2777ee:
 translate zh_Hans kirely_storyline_75_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:2912
 translate zh_Hans kirely_storyline_76_76b2fe88:
@@ -6106,7 +6106,7 @@ translate zh_Hans kirely_storyline_76_ce1998c4:
 translate zh_Hans kirely_storyline_76_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:3055
 translate zh_Hans kirely_storyline_77_88505211:
@@ -6288,7 +6288,7 @@ translate zh_Hans kirely_storyline_77_bfeaf5a5:
 translate zh_Hans kirely_storyline_77_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:3148
 translate zh_Hans kirely_storyline_78_9328f8e9:
@@ -6470,7 +6470,7 @@ translate zh_Hans kirely_storyline_78_c8c583b0:
 translate zh_Hans kirely_storyline_78_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:3241
 translate zh_Hans kirely_storyline_79_00097ab3:
@@ -6712,7 +6712,7 @@ translate zh_Hans kirely_storyline_79_db463f74:
 translate zh_Hans kirely_storyline_79_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:3364
 translate zh_Hans kirely_storyline_80_9328f8e9:
@@ -6906,7 +6906,7 @@ translate zh_Hans kirely_storyline_80_858917a6:
 translate zh_Hans kirely_storyline_80_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:3461
 translate zh_Hans kirely_storyline_81_8de21f00:
@@ -7148,7 +7148,7 @@ translate zh_Hans kirely_storyline_81_633f3596:
 translate zh_Hans kirely_storyline_81_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:3574
 translate zh_Hans kirely_storyline_82_3076f641:
@@ -7354,7 +7354,7 @@ translate zh_Hans kirely_storyline_82_32feaea3:
 translate zh_Hans kirely_storyline_82_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:3675
 translate zh_Hans kirely_storyline_83_29bbc4f0:
@@ -7488,7 +7488,7 @@ translate zh_Hans kirely_storyline_83_cbf9e6c1:
 translate zh_Hans kirely_storyline_83_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:3756
 translate zh_Hans kirely_storyline_84_adae01b4:
@@ -7676,7 +7676,7 @@ translate zh_Hans kirely_storyline_84_5bafa840:
 translate zh_Hans kirely_storyline_84_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:3855
 translate zh_Hans kirely_storyline_85_17955e25:
@@ -7810,7 +7810,7 @@ translate zh_Hans kirely_storyline_85_f7cf5986:
 translate zh_Hans kirely_storyline_85_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:3932
 translate zh_Hans kirely_storyline_86_2d75434b:
@@ -7968,7 +7968,7 @@ translate zh_Hans kirely_storyline_86_86966c16:
 translate zh_Hans kirely_storyline_86_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:4017
 translate zh_Hans kirely_storyline_87_e6dfd302:
@@ -8162,7 +8162,7 @@ translate zh_Hans kirely_storyline_87_640357a8:
 translate zh_Hans kirely_storyline_87_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:4114
 translate zh_Hans kirely_storyline_88_2eae0319:
@@ -8368,7 +8368,7 @@ translate zh_Hans kirely_storyline_88_6fbe0111:
 translate zh_Hans kirely_storyline_88_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:4217
 translate zh_Hans kirely_storyline_89_14ba2b97:
@@ -8604,7 +8604,7 @@ translate zh_Hans kirely_storyline_89_e12bd47a:
 translate zh_Hans kirely_storyline_89_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:4336
 translate zh_Hans kirely_storyline_90_adf2294f:
@@ -8918,7 +8918,7 @@ translate zh_Hans kirely_storyline_90_51678b47:
 translate zh_Hans kirely_storyline_90_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:4473
 translate zh_Hans kirely_storyline_91_8cb08966:
@@ -9172,7 +9172,7 @@ translate zh_Hans kirely_storyline_91_ff77a688:
 translate zh_Hans kirely_storyline_91_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:4590
 translate zh_Hans kirely_storyline_92_b5f731c8:
@@ -9372,7 +9372,7 @@ translate zh_Hans kirely_storyline_92_6d189c45:
 translate zh_Hans kirely_storyline_92_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:4689
 translate zh_Hans kirely_storyline_93_868c5596:
@@ -9578,7 +9578,7 @@ translate zh_Hans kirely_storyline_93_004c609a:
 translate zh_Hans kirely_storyline_93_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:4796
 translate zh_Hans kirely_storyline_94_228b5120:
@@ -9802,7 +9802,7 @@ translate zh_Hans kirely_storyline_94_23dbdf06:
 translate zh_Hans kirely_storyline_94_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:4898
 translate zh_Hans kirely_storyline_94_after_fe7ccd92:
@@ -10080,7 +10080,7 @@ translate zh_Hans kirely_storyline_95_7a6d2fa8:
 translate zh_Hans kirely_storyline_95_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:5040
 translate zh_Hans kirely_storyline_96_cb031130:
@@ -10346,7 +10346,7 @@ translate zh_Hans kirely_storyline_96_2e5bc3f9:
 translate zh_Hans kirely_storyline_96_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:5161
 translate zh_Hans kirely_storyline_97_b98a1adc:
@@ -10546,7 +10546,7 @@ translate zh_Hans kirely_storyline_97_28891f41:
 translate zh_Hans kirely_storyline_97_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:5260
 translate zh_Hans kirely_storyline_98_e9aa870d:
@@ -10734,7 +10734,7 @@ translate zh_Hans kirely_storyline_98_b7331b4b:
 translate zh_Hans kirely_storyline_98_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:5363
 translate zh_Hans kirely_storyline_99_edf618e2:
@@ -10946,7 +10946,7 @@ translate zh_Hans kirely_storyline_99_0a645c97:
 translate zh_Hans kirely_storyline_99_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:5466
 translate zh_Hans kirely_storyline_100_42171a5e:
@@ -11188,7 +11188,7 @@ translate zh_Hans kirely_storyline_100_b7331b4b:
 translate zh_Hans kirely_storyline_100_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:5579
 translate zh_Hans kirely_storyline_101_b2f2ff76:
@@ -11388,7 +11388,7 @@ translate zh_Hans kirely_storyline_101_dfb6b13d:
 translate zh_Hans kirely_storyline_101_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:5686
 translate zh_Hans kirely_storyline_102_01f5092c:
@@ -11594,7 +11594,7 @@ translate zh_Hans kirely_storyline_102_6840e9ec:
 translate zh_Hans kirely_storyline_102_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:5787
 translate zh_Hans kirely_storyline_103_70c9145e:
@@ -11782,7 +11782,7 @@ translate zh_Hans kirely_storyline_103_39cfb9b6:
 translate zh_Hans kirely_storyline_103_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:5882
 translate zh_Hans kirely_storyline_104_9b42b28d:
@@ -11976,7 +11976,7 @@ translate zh_Hans kirely_storyline_104_bb5518b5:
 translate zh_Hans kirely_storyline_104_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:5979
 translate zh_Hans kirely_storyline_105_00097ab3:
@@ -12200,7 +12200,7 @@ translate zh_Hans kirely_storyline_105_f6840ccf:
 translate zh_Hans kirely_storyline_105_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:6094
 translate zh_Hans kirely_storyline_106_3ca0f859:
@@ -12406,7 +12406,7 @@ translate zh_Hans kirely_storyline_106_cc8d0555:
 translate zh_Hans kirely_storyline_106_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:6195
 translate zh_Hans kirely_storyline_107_d939092a:
@@ -12630,7 +12630,7 @@ translate zh_Hans kirely_storyline_107_587fb90d:
 translate zh_Hans kirely_storyline_107_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:6302
 translate zh_Hans kirely_storyline_108_3521dfa0:
@@ -12878,7 +12878,7 @@ translate zh_Hans kirely_storyline_108_b1810cc6:
 translate zh_Hans kirely_storyline_108_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:6417
 translate zh_Hans kirely_storyline_109_e37f716b:
@@ -13030,7 +13030,7 @@ translate zh_Hans kirely_storyline_109_8af7fd85:
 translate zh_Hans kirely_storyline_109_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:6500
 translate zh_Hans kirely_storyline_110_1c0ebac0:
@@ -13254,7 +13254,7 @@ translate zh_Hans kirely_storyline_110_6d189c45:
 translate zh_Hans kirely_storyline_110_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:6607
 translate zh_Hans kirely_storyline_111_b1fd8077:
@@ -13436,7 +13436,7 @@ translate zh_Hans kirely_storyline_111_158bc6c4:
 translate zh_Hans kirely_storyline_111_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:6702
 translate zh_Hans kirely_storyline_112_74b0c289:
@@ -13618,7 +13618,7 @@ translate zh_Hans kirely_storyline_112_37822f3e:
 translate zh_Hans kirely_storyline_112_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:6799
 translate zh_Hans kirely_storyline_113_9889dd4e:
@@ -13812,7 +13812,7 @@ translate zh_Hans kirely_storyline_113_34e2dd03:
 translate zh_Hans kirely_storyline_113_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:6896
 translate zh_Hans kirely_storyline_114_9d848277:
@@ -14018,7 +14018,7 @@ translate zh_Hans kirely_storyline_114_e8a02202:
 translate zh_Hans kirely_storyline_114_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:6997
 translate zh_Hans kirely_storyline_115_56b1f72f:
@@ -14206,7 +14206,7 @@ translate zh_Hans kirely_storyline_115_69634b16:
 translate zh_Hans kirely_storyline_115_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:7092
 translate zh_Hans kirely_storyline_116_65799d72:
@@ -14334,7 +14334,7 @@ translate zh_Hans kirely_storyline_116_c923db47:
 translate zh_Hans kirely_storyline_116_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:7171
 translate zh_Hans kirely_storyline_117_59fea2a3:
@@ -14642,7 +14642,7 @@ translate zh_Hans kirely_storyline_117_1cbc54c6:
 translate zh_Hans kirely_storyline_117_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:7306
 translate zh_Hans kirely_storyline_118_597912c8:
@@ -14818,7 +14818,7 @@ translate zh_Hans kirely_storyline_118_e56feab3:
 translate zh_Hans kirely_storyline_118_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:7397
 translate zh_Hans kirely_storyline_119_bf094f14:
@@ -14970,7 +14970,7 @@ translate zh_Hans kirely_storyline_119_043126cd:
 translate zh_Hans kirely_storyline_119_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:7488
 translate zh_Hans kirely_storyline_120_17ff6783:
@@ -15152,7 +15152,7 @@ translate zh_Hans kirely_storyline_120_bc20117b:
 translate zh_Hans kirely_storyline_120_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:7585
 translate zh_Hans kirely_storyline_121_00097ab3:
@@ -15364,7 +15364,7 @@ translate zh_Hans kirely_storyline_121_70e90d2d:
 translate zh_Hans kirely_storyline_121_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:7688
 translate zh_Hans kirely_storyline_122_74b0c289:
@@ -15600,7 +15600,7 @@ translate zh_Hans kirely_storyline_122_85ef3e1d:
 translate zh_Hans kirely_storyline_122_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:7799
 translate zh_Hans kirely_storyline_123_7a065e5c:
@@ -15878,7 +15878,7 @@ translate zh_Hans kirely_storyline_123_2ce86153:
 translate zh_Hans kirely_storyline_123_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:7924
 translate zh_Hans kirely_storyline_124_43da1463:
@@ -16096,7 +16096,7 @@ translate zh_Hans kirely_storyline_124_1dd4c799:
 translate zh_Hans kirely_storyline_124_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:8029
 translate zh_Hans kirely_storyline_125_7898b868:
@@ -16236,7 +16236,7 @@ translate zh_Hans kirely_storyline_125_750b3751:
 translate zh_Hans kirely_storyline_125_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/kirely_storyline.rpy:8110
 translate zh_Hans kirely_storyline_126_e9aa870d:
@@ -16418,7 +16418,7 @@ translate zh_Hans kirely_storyline_126_0b63b6e0:
 translate zh_Hans kirely_storyline_126_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 translate zh_Hans strings:
 

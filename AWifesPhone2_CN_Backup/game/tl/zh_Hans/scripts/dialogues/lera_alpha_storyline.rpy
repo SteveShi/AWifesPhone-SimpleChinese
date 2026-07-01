@@ -156,7 +156,7 @@ translate zh_Hans lera_storyline_1_bc1c571a:
 translate zh_Hans lera_storyline_1_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:151
 translate zh_Hans lera_storyline_2_1d1451b4:
@@ -362,7 +362,7 @@ translate zh_Hans lera_storyline_2_a00dee2c:
 translate zh_Hans lera_storyline_2_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:256
 translate zh_Hans lera_storyline_3_cb8ffc46:
@@ -406,7 +406,7 @@ translate zh_Hans lera_storyline_3_00cb32b2:
 translate zh_Hans lera_storyline_3_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:303
 translate zh_Hans lera_storyline_4_9b43c920:
@@ -552,7 +552,7 @@ translate zh_Hans lera_storyline_4_a1f43b18:
 translate zh_Hans lera_storyline_4_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:386
 translate zh_Hans lera_storyline_5_ac430d8a:
@@ -626,7 +626,7 @@ translate zh_Hans lera_storyline_5_bce7b78f:
 translate zh_Hans lera_storyline_5_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:443
 translate zh_Hans lera_storyline_6_10225116:
@@ -808,7 +808,7 @@ translate zh_Hans lera_storyline_6_a037acf2:
 translate zh_Hans lera_storyline_6_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:538
 translate zh_Hans lera_storyline_7_91c38929:
@@ -930,7 +930,7 @@ translate zh_Hans lera_storyline_7_3ec68add:
 translate zh_Hans lera_storyline_7_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:608
 translate zh_Hans lera_storyline_7_after_97d30579:
@@ -1190,7 +1190,7 @@ translate zh_Hans lera_storyline_8_a753bf2a:
 translate zh_Hans lera_storyline_8_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:744
 translate zh_Hans lera_storyline_9_116fc1e0:
@@ -1240,7 +1240,7 @@ translate zh_Hans lera_storyline_9_cb1daf10:
 translate zh_Hans lera_storyline_9_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:793
 translate zh_Hans lera_storyline_10_db394e1b:
@@ -1494,7 +1494,7 @@ translate zh_Hans lera_storyline_10_a037acf2:
 translate zh_Hans lera_storyline_10_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:916
 translate zh_Hans lera_storyline_11_1ea85b3c:
@@ -1550,7 +1550,7 @@ translate zh_Hans lera_storyline_11_a6cd3ad3:
 translate zh_Hans lera_storyline_11_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:967
 translate zh_Hans lera_storyline_12_5ddf644d:
@@ -1714,7 +1714,7 @@ translate zh_Hans lera_storyline_12_42d73792:
 translate zh_Hans lera_storyline_12_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:1056
 translate zh_Hans lera_storyline_13_137229d0:
@@ -1752,7 +1752,7 @@ translate zh_Hans lera_storyline_13_27c505fa:
 translate zh_Hans lera_storyline_13_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:1101
 translate zh_Hans lera_storyline_14_9824f45c:
@@ -1886,7 +1886,7 @@ translate zh_Hans lera_storyline_14_a037acf2:
 translate zh_Hans lera_storyline_14_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:1179
 translate zh_Hans lera_storyline_15_6da1ff9d:
@@ -1954,7 +1954,7 @@ translate zh_Hans lera_storyline_15_82744542:
 translate zh_Hans lera_storyline_15_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:1234
 translate zh_Hans lera_storyline_16_4a4bd320:
@@ -2154,7 +2154,7 @@ translate zh_Hans lera_storyline_16_5ca74374:
 translate zh_Hans lera_storyline_16_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:1335
 translate zh_Hans lera_storyline_17_09cd0b89:
@@ -2354,7 +2354,7 @@ translate zh_Hans lera_storyline_17_93505f29:
 translate zh_Hans lera_storyline_17_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:1436
 translate zh_Hans lera_storyline_18_6807a2fc:
@@ -2428,7 +2428,7 @@ translate zh_Hans lera_storyline_18_4f20d642:
 translate zh_Hans lera_storyline_18_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:1493
 translate zh_Hans lera_storyline_19_c635120b:
@@ -2520,7 +2520,7 @@ translate zh_Hans lera_storyline_19_669c226a:
 translate zh_Hans lera_storyline_19_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:1558
 translate zh_Hans lera_storyline_20_a883dfb5:
@@ -2624,7 +2624,7 @@ translate zh_Hans lera_storyline_20_9c0564e6:
 translate zh_Hans lera_storyline_20_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:1625
 translate zh_Hans lera_storyline_21_fe8a846f:
@@ -2770,7 +2770,7 @@ translate zh_Hans lera_storyline_21_6b42f01b:
 translate zh_Hans lera_storyline_21_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:1706
 translate zh_Hans lera_storyline_22_af3a5cd1:
@@ -2916,7 +2916,7 @@ translate zh_Hans lera_storyline_22_3efefb1d:
 translate zh_Hans lera_storyline_22_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:1787
 translate zh_Hans lera_storyline_23_2be988ce:
@@ -3050,7 +3050,7 @@ translate zh_Hans lera_storyline_23_2a858f00:
 translate zh_Hans lera_storyline_23_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:1870
 translate zh_Hans lera_storyline_24_8c256c0e:
@@ -3226,7 +3226,7 @@ translate zh_Hans lera_storyline_24_3be6648d:
 translate zh_Hans lera_storyline_24_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:1961
 translate zh_Hans lera_storyline_25_477a0410:
@@ -3402,7 +3402,7 @@ translate zh_Hans lera_storyline_25_0a6a4eb7:
 translate zh_Hans lera_storyline_25_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:2054
 translate zh_Hans lera_storyline_26_502d9574:
@@ -3566,7 +3566,7 @@ translate zh_Hans lera_storyline_26_1643707f:
 translate zh_Hans lera_storyline_26_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:2147
 translate zh_Hans lera_storyline_27_845c20d8:
@@ -3682,7 +3682,7 @@ translate zh_Hans lera_storyline_27_a037acf2:
 translate zh_Hans lera_storyline_27_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:2220
 translate zh_Hans lera_storyline_28_d79536de:
@@ -3846,7 +3846,7 @@ translate zh_Hans lera_storyline_28_dbcf3af1:
 translate zh_Hans lera_storyline_28_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:2311
 translate zh_Hans lera_storyline_29_037395a4:
@@ -4034,7 +4034,7 @@ translate zh_Hans lera_storyline_29_2fb24062:
 translate zh_Hans lera_storyline_29_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:2410
 translate zh_Hans lera_storyline_30_7d306ad7:
@@ -4168,7 +4168,7 @@ translate zh_Hans lera_storyline_30_d0603c58:
 translate zh_Hans lera_storyline_30_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:2487
 translate zh_Hans lera_storyline_31_83ab9d07:
@@ -4302,7 +4302,7 @@ translate zh_Hans lera_storyline_31_aaf4fd24:
 translate zh_Hans lera_storyline_31_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:2566
 translate zh_Hans lera_storyline_32_6f657dc6:
@@ -4454,7 +4454,7 @@ translate zh_Hans lera_storyline_32_259c9dd5:
 translate zh_Hans lera_storyline_32_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:2651
 translate zh_Hans lera_storyline_33_ff3510c7:
@@ -4636,7 +4636,7 @@ translate zh_Hans lera_storyline_33_4813408e:
 translate zh_Hans lera_storyline_33_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:2744
 translate zh_Hans lera_storyline_34_f92d6f29:
@@ -4770,7 +4770,7 @@ translate zh_Hans lera_storyline_34_5b777745:
 translate zh_Hans lera_storyline_34_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:2821
 translate zh_Hans lera_storyline_35_e0c365b6:
@@ -4952,7 +4952,7 @@ translate zh_Hans lera_storyline_35_65f7117e:
 translate zh_Hans lera_storyline_35_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:2914
 translate zh_Hans lera_storyline_36_c5222563:
@@ -5038,7 +5038,7 @@ translate zh_Hans lera_storyline_36_21bd556c:
 translate zh_Hans lera_storyline_36_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:2975
 translate zh_Hans lera_storyline_37_e73df61f:
@@ -5256,7 +5256,7 @@ translate zh_Hans lera_storyline_37_4dc3bb03:
 translate zh_Hans lera_storyline_37_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:3084
 translate zh_Hans lera_storyline_38_7c3289a3:
@@ -5384,7 +5384,7 @@ translate zh_Hans lera_storyline_38_82d83c7b:
 translate zh_Hans lera_storyline_38_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:3159
 translate zh_Hans lera_storyline_39_5876737a:
@@ -5548,7 +5548,7 @@ translate zh_Hans lera_storyline_39_8323e3a5:
 translate zh_Hans lera_storyline_39_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:3246
 translate zh_Hans lera_storyline_40_01c52089:
@@ -5772,7 +5772,7 @@ translate zh_Hans lera_storyline_40_0c8d6f97:
 translate zh_Hans lera_storyline_40_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:3357
 translate zh_Hans lera_storyline_41_3caa1ceb:
@@ -5912,7 +5912,7 @@ translate zh_Hans lera_storyline_41_fc951468:
 translate zh_Hans lera_storyline_41_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:3436
 translate zh_Hans lera_storyline_42_24f5d50b:
@@ -5998,7 +5998,7 @@ translate zh_Hans lera_storyline_42_497d839a:
 translate zh_Hans lera_storyline_42_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:3497
 translate zh_Hans lera_storyline_43_673be979:
@@ -6112,7 +6112,7 @@ translate zh_Hans lera_storyline_43_fff30576:
 translate zh_Hans lera_storyline_43_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:3568
 translate zh_Hans lera_storyline_44_7fce612f:
@@ -6312,7 +6312,7 @@ translate zh_Hans lera_storyline_44_fccc19b5:
 translate zh_Hans lera_storyline_44_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:3667
 translate zh_Hans lera_storyline_45_da62b434:
@@ -6404,7 +6404,7 @@ translate zh_Hans lera_storyline_45_e3346733:
 translate zh_Hans lera_storyline_45_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:3730
 translate zh_Hans lera_storyline_46_19697d1d:
@@ -6562,7 +6562,7 @@ translate zh_Hans lera_storyline_46_5eebcf06:
 translate zh_Hans lera_storyline_46_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:3810
 translate zh_Hans lera_storyline_46_after_d5e566eb:
@@ -6774,7 +6774,7 @@ translate zh_Hans lera_storyline_47_cbfe0edf:
 translate zh_Hans lera_storyline_47_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:3936
 translate zh_Hans lera_storyline_48_70a68ed4:
@@ -6878,7 +6878,7 @@ translate zh_Hans lera_storyline_48_ddd6a883:
 translate zh_Hans lera_storyline_48_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:4003
 translate zh_Hans lera_storyline_49_77199628:
@@ -7072,7 +7072,7 @@ translate zh_Hans lera_storyline_49_bcbb4e71:
 translate zh_Hans lera_storyline_49_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/lera_alpha_storyline.rpy:4102
 translate zh_Hans lera_storyline_50_1740539d:
@@ -7248,5 +7248,5 @@ translate zh_Hans lera_storyline_50_9fe56cf4:
 translate zh_Hans lera_storyline_50_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 

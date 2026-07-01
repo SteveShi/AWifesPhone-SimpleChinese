@@ -108,7 +108,7 @@ translate zh_Hans son_sissy_greg_storyline_27_d73770d0:
 translate zh_Hans son_sissy_greg_storyline_27_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/son/son_sissy_greg_storyline.rpy:97
 translate zh_Hans son_sissy_greg_storyline_28_d689d23e:
@@ -200,7 +200,7 @@ translate zh_Hans son_sissy_greg_storyline_28_eeca8858:
 translate zh_Hans son_sissy_greg_storyline_28_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/son/son_sissy_greg_storyline.rpy:158
 translate zh_Hans son_sissy_greg_storyline_29_c4ec4e47:
@@ -532,7 +532,7 @@ translate zh_Hans son_sissy_greg_storyline_29_587478e9:
 translate zh_Hans son_sissy_greg_storyline_29_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/son/son_sissy_greg_storyline.rpy:299
 translate zh_Hans son_sissy_greg_storyline_30_4c707c1b:
@@ -726,7 +726,7 @@ translate zh_Hans son_sissy_greg_storyline_30_c81e1432:
 translate zh_Hans son_sissy_greg_storyline_30_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/son/son_sissy_greg_storyline.rpy:394
 translate zh_Hans son_sissy_greg_storyline_31_d689d23e:
@@ -980,7 +980,7 @@ translate zh_Hans son_sissy_greg_storyline_31_fc1fd044:
 translate zh_Hans son_sissy_greg_storyline_31_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/son/son_sissy_greg_storyline.rpy:509
 translate zh_Hans son_sissy_greg_storyline_32_553d8c75:
@@ -1222,7 +1222,7 @@ translate zh_Hans son_sissy_greg_storyline_32_78563ca0:
 translate zh_Hans son_sissy_greg_storyline_32_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/son/son_sissy_greg_storyline.rpy:622
 translate zh_Hans son_sissy_greg_storyline_33_5f33c247:
@@ -1482,5 +1482,5 @@ translate zh_Hans son_sissy_greg_storyline_33_44f3665d:
 translate zh_Hans son_sissy_greg_storyline_33_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 

@@ -252,7 +252,7 @@ translate zh_Hans cecilia_storyline_21_8b781cf4:
 translate zh_Hans cecilia_storyline_21_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:191
 translate zh_Hans cecilia_storyline_22_28866352:
@@ -392,7 +392,7 @@ translate zh_Hans cecilia_storyline_22_ec371b83:
 translate zh_Hans cecilia_storyline_22_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:270
 translate zh_Hans cecilia_storyline_23_76b2fe88:
@@ -668,7 +668,7 @@ translate zh_Hans cecilia_storyline_23_4350cdc3:
 translate zh_Hans cecilia_storyline_23_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:397
 translate zh_Hans cecilia_storyline_24_df6b5795:
@@ -958,7 +958,7 @@ translate zh_Hans cecilia_storyline_24_52892467:
 translate zh_Hans cecilia_storyline_24_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:525
 translate zh_Hans cecilia_storyline_25_63122ce6:
@@ -1224,7 +1224,7 @@ translate zh_Hans cecilia_storyline_25_4e8266bb:
 translate zh_Hans cecilia_storyline_25_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:646
 translate zh_Hans cecilia_storyline_26_df6b5795:
@@ -1904,7 +1904,7 @@ translate zh_Hans cecilia_storyline_26_52892467:
 translate zh_Hans cecilia_storyline_26_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:921
 translate zh_Hans cecilia_storyline_27_d34410bc:
@@ -2140,7 +2140,7 @@ translate zh_Hans cecilia_storyline_27_fcf10031:
 translate zh_Hans cecilia_storyline_27_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:1038
 translate zh_Hans cecilia_storyline_28_12f2f792:
@@ -2202,7 +2202,7 @@ translate zh_Hans cecilia_storyline_28_a1d31388:
 translate zh_Hans cecilia_storyline_28_63e507c9:
 
     # nvljohn "Will you show me?"
-    nvljohn "XTAG0X你会给我看吗？"
+    nvljohn "你会给我看吗？"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:1060
 translate zh_Hans cecilia_storyline_28_2fa3599e:
@@ -2310,7 +2310,7 @@ translate zh_Hans cecilia_storyline_28_9939e463:
 translate zh_Hans cecilia_storyline_28_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:1133
 translate zh_Hans cecilia_storyline_29_f00b2eb7:
@@ -2618,7 +2618,7 @@ translate zh_Hans cecilia_storyline_29_83752d07:
 translate zh_Hans cecilia_storyline_29_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:1266
 translate zh_Hans cecilia_storyline_30_df6b5795:
@@ -2830,7 +2830,7 @@ translate zh_Hans cecilia_storyline_30_8fae871c:
 translate zh_Hans cecilia_storyline_30_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:1377
 translate zh_Hans cecilia_storyline_31_3f1bf796:
@@ -3024,7 +3024,7 @@ translate zh_Hans cecilia_storyline_31_52892467:
 translate zh_Hans cecilia_storyline_31_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:1474
 translate zh_Hans cecilia_storyline_32_e604d79f:
@@ -3194,7 +3194,7 @@ translate zh_Hans cecilia_storyline_32_df0af060:
 translate zh_Hans cecilia_storyline_32_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:1563
 translate zh_Hans cecilia_storyline_33_df6b5795:
@@ -3484,7 +3484,7 @@ translate zh_Hans cecilia_storyline_33_39ef043f:
 translate zh_Hans cecilia_storyline_33_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:1692
 translate zh_Hans cecilia_storyline_34_ce20de56:
@@ -3720,7 +3720,7 @@ translate zh_Hans cecilia_storyline_34_daf9bcea:
 translate zh_Hans cecilia_storyline_34_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:1811
 translate zh_Hans cecilia_storyline_35_ae1a4974:
@@ -3788,7 +3788,7 @@ translate zh_Hans cecilia_storyline_35_7f4b010c:
 translate zh_Hans cecilia_storyline_35_364e338c:
 
     # nvljohn "I see 😊"
-    nvljohn "I see 😊|我明白了😊"
+    nvljohn "我明白了😊"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:1835
 translate zh_Hans cecilia_storyline_35_fe34250d:
@@ -4028,7 +4028,7 @@ translate zh_Hans cecilia_storyline_35_aa26a666:
 translate zh_Hans cecilia_storyline_35_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:1948
 translate zh_Hans cecilia_storyline_36_5a6afe2f:
@@ -4300,7 +4300,7 @@ translate zh_Hans cecilia_storyline_36_9e1a6712:
 translate zh_Hans cecilia_storyline_36_55d74413:
 
     # nvlcecilia "❤️❤️❤️"
-    nvlcecilia ""
+    nvlcecilia "❤️❤️❤️"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:2052
 translate zh_Hans cecilia_storyline_36_ed45fe81:
@@ -4534,7 +4534,7 @@ translate zh_Hans cecilia_storyline_36_fdd4cecf:
 translate zh_Hans cecilia_storyline_36_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:2161
 translate zh_Hans cecilia_storyline_37_0c07f726:
@@ -4662,7 +4662,7 @@ translate zh_Hans cecilia_storyline_37_f7ad99cd:
 translate zh_Hans cecilia_storyline_37_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:2236
 translate zh_Hans cecilia_storyline_38_5113d2bd:
@@ -4838,7 +4838,7 @@ translate zh_Hans cecilia_storyline_38_419a67ba:
 translate zh_Hans cecilia_storyline_38_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:2327
 translate zh_Hans cecilia_storyline_39_2ed80669:
@@ -5038,7 +5038,7 @@ translate zh_Hans cecilia_storyline_39_d9ab2a5f:
 translate zh_Hans cecilia_storyline_39_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:2430
 translate zh_Hans cecilia_storyline_40_2f30e015:
@@ -5526,7 +5526,7 @@ translate zh_Hans cecilia_storyline_40_daf9bcea:
 translate zh_Hans cecilia_storyline_40_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:2633
 translate zh_Hans cecilia_storyline_41_df6b5795:
@@ -5654,7 +5654,7 @@ translate zh_Hans cecilia_storyline_41_f20e37ea:
 translate zh_Hans cecilia_storyline_41_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:2706
 translate zh_Hans cecilia_storyline_42_1282f971:
@@ -5848,7 +5848,7 @@ translate zh_Hans cecilia_storyline_42_4350cdc3:
 translate zh_Hans cecilia_storyline_42_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:2807
 translate zh_Hans cecilia_storyline_43_bde82565:
@@ -5976,7 +5976,7 @@ translate zh_Hans cecilia_storyline_43_a84456a7:
 translate zh_Hans cecilia_storyline_43_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:2882
 translate zh_Hans cecilia_storyline_44_5b299fe6:
@@ -6374,7 +6374,7 @@ translate zh_Hans cecilia_storyline_44_93374c4f:
 translate zh_Hans cecilia_storyline_44_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3047
 translate zh_Hans cecilia_storyline_45_df6b5795:
@@ -6526,7 +6526,7 @@ translate zh_Hans cecilia_storyline_45_d9ab2a5f:
 translate zh_Hans cecilia_storyline_45_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3130
 translate zh_Hans cecilia_storyline_46_4fbf4367:
@@ -6888,7 +6888,7 @@ translate zh_Hans cecilia_storyline_46_c38d3f62:
 translate zh_Hans cecilia_storyline_46_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3291
 translate zh_Hans cecilia_storyline_47_14467712:
@@ -7166,7 +7166,7 @@ translate zh_Hans cecilia_storyline_47_4cdc7732_2:
 translate zh_Hans cecilia_storyline_47_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3416
 translate zh_Hans cecilia_storyline_48_df6b5795:
@@ -7366,7 +7366,7 @@ translate zh_Hans cecilia_storyline_48_019cf88b:
 translate zh_Hans cecilia_storyline_48_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3513
 translate zh_Hans cecilia_storyline_49_868ccbdc:
@@ -7722,7 +7722,7 @@ translate zh_Hans cecilia_storyline_49_6578ff14:
 translate zh_Hans cecilia_storyline_49_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3670
 translate zh_Hans cecilia_storyline_50_df6b5795:
@@ -8024,7 +8024,7 @@ translate zh_Hans cecilia_storyline_50_e8705001:
 translate zh_Hans cecilia_storyline_50_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3807
 translate zh_Hans cecilia_storyline_51_6d49bdd6:
@@ -8260,25 +8260,25 @@ translate zh_Hans cecilia_storyline_51_95a8f087:
 translate zh_Hans cecilia_storyline_51_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3919
 translate zh_Hans cecilia_storyline_51_after_ba6189db:
 
     # mc "{i}I think it's time to take the next step"
-    mc "{i}I think it's time to take the next step|{i}我觉得是时候更进一步了。"
+    mc "{i}我觉得是时候更进一步了。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3921
 translate zh_Hans cecilia_storyline_51_after_9235b963:
 
     # mc "{i}I've corrupted her enough to turn her into a slut"
-    mc "{i}I've corrupted her enough to turn her into a slut|{i}我已经把她调教得够骚了，足以让她变成一个荡妇。"
+    mc "{i}我已经把她调教得够骚了，足以让她变成一个荡妇。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3923
 translate zh_Hans cecilia_storyline_51_after_bbb89768:
 
     # mc "{i}A slut not just for me, but for others as well"
-    mc "{i}A slut not just for me, but for others as well|{i}她不光是我的荡妇，也得是其他男人的骚货。"
+    mc "{i}她不光是我的荡妇，也得是其他男人的骚货。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3925
 translate zh_Hans cecilia_storyline_51_after_19c74389:
@@ -8290,7 +8290,7 @@ translate zh_Hans cecilia_storyline_51_after_19c74389:
 translate zh_Hans cecilia_storyline_51_after_339a4f82:
 
     # mc "{i}No, I will turn her into a slut"
-    mc "{i}No, I will turn her into a slut|{i}不，我要把她彻底变成一个荡妇。"
+    mc "{i}不，我要把她彻底变成一个荡妇。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3929
 translate zh_Hans cecilia_storyline_51_after_0700b44e:
@@ -8302,13 +8302,13 @@ translate zh_Hans cecilia_storyline_51_after_0700b44e:
 translate zh_Hans cecilia_storyline_51_after_7ba4b72c:
 
     # mc "{i}That'll be the perfect revenge"
-    mc "{i}That'll be the perfect revenge|{i}这他妈才是最完美的复仇。"
+    mc "{i}这他妈才是最完美的复仇。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3933
 translate zh_Hans cecilia_storyline_51_after_feb06f3c:
 
     # mc "{i}Oh yes"
-    mc "{i}Oh yes|{i}哦，没错。"
+    mc "{i}哦，没错。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3935
 translate zh_Hans cecilia_storyline_51_after_5a596657:
@@ -8320,61 +8320,61 @@ translate zh_Hans cecilia_storyline_51_after_5a596657:
 translate zh_Hans cecilia_storyline_51_after_b7dedc3b:
 
     # mc "{i}Hahaha"
-    mc "{i}Hahaha|{i}哈哈哈哈"
+    mc "{i}哈哈哈哈"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3939
 translate zh_Hans cecilia_storyline_51_after_0770f57c:
 
     # mc "{i}He's going to be so surprised"
-    mc "{i}He's going to be so surprised|{i}他一定会惊掉下巴的。"
+    mc "{i}他一定会惊掉下巴的。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3941
 translate zh_Hans cecilia_storyline_51_after_9f5cabca:
 
     # mc "{i}Hahahaha"
-    mc "{i}Hahahaha|{i}哈哈哈哈"
+    mc "{i}哈哈哈哈"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3943
 translate zh_Hans cecilia_storyline_51_after_c7032949:
 
     # mc "{i}I just need to figure out how to get her to agree to this"
-    mc "{i}I just need to figure out how to get her to agree to this|{i}我只需要想办法让她乖乖同意就行了。"
+    mc "{i}我只需要想办法让她乖乖同意就行了。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3945
 translate zh_Hans cecilia_storyline_51_after_1dc49c34:
 
     # mc "{i}She's not in my app, so I can't just command her to do what I want"
-    mc "{i}She's not in my app, so I can't just command her to do what I want|{i}她又不在我的APP里，所以我不能直接命令她去干我想让她干的事。"
+    mc "{i}她又不在我的APP里，所以我不能直接命令她去干我想让她干的事。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3947
 translate zh_Hans cecilia_storyline_51_after_86af5ced:
 
     # mc "{i}But I'm lucky that she loves sex so much"
-    mc "{i}But I'm lucky that she loves sex so much|{i}但我很幸运，她竟然如此饥渴，如此爱性。"
+    mc "{i}但我很幸运，她竟然如此饥渴，如此爱性。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3949
 translate zh_Hans cecilia_storyline_51_after_c74eae76:
 
     # mc "{i}I've corrupted her quite a bit recently"
-    mc "{i}I've corrupted her quite a bit recently|{i}我最近确实把她调教得够骚了。"
+    mc "{i}我最近确实把她调教得够骚了。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3951
 translate zh_Hans cecilia_storyline_51_after_fbc09cfa:
 
     # mc "{i}Maybe I can do it without the app"
-    mc "{i}Maybe I can do it without the app|{i}或许不用这个APP我也能搞定她。"
+    mc "{i}或许不用这个APP我也能搞定她。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3953
 translate zh_Hans cecilia_storyline_51_after_ade65803:
 
     # mc "{i}I just need to come up with a good plan"
-    mc "{i}I just need to come up with a good plan|{i}我只需要想出一个绝妙的计划。"
+    mc "{i}我只需要想出一个绝妙的计划。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3955
 translate zh_Hans cecilia_storyline_51_after_4dcce85b:
 
     # mc "{i}Convince her that she needs to sleep with another man"
-    mc "{i}Convince her that she needs to sleep with another man|{i}说服她，让她心甘情愿地去被别的男人操。"
+    mc "{i}说服她，让她心甘情愿地去被别的男人操。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3957
 translate zh_Hans cecilia_storyline_51_after_859803b9:
@@ -8386,7 +8386,7 @@ translate zh_Hans cecilia_storyline_51_after_859803b9:
 translate zh_Hans cecilia_storyline_51_after_2cb58edb:
 
     # mc "{i}I'll have to think about all this"
-    mc "{i}I'll have to think about all this|{i}我得好好琢磨琢磨这些事。"
+    mc "{i}我得好好琢磨琢磨这些事。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3978
 translate zh_Hans cecilia_storyline_52_b56bde17:
@@ -8496,7 +8496,7 @@ translate zh_Hans cecilia_storyline_52_b1e0afa2:
 translate zh_Hans cecilia_storyline_52_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:4045
 translate zh_Hans cecilia_storyline_53_d97a6e80:
@@ -8786,7 +8786,7 @@ translate zh_Hans cecilia_storyline_53_8ee7c23c:
 translate zh_Hans cecilia_storyline_53_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:4174
 translate zh_Hans cecilia_storyline_54_df6b5795:
@@ -8890,7 +8890,7 @@ translate zh_Hans cecilia_storyline_54_4350cdc3:
 translate zh_Hans cecilia_storyline_54_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:4239
 translate zh_Hans cecilia_storyline_55_2174726d:
@@ -9090,7 +9090,7 @@ translate zh_Hans cecilia_storyline_55_cf039a71:
 translate zh_Hans cecilia_storyline_55_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:4346
 translate zh_Hans cecilia_storyline_56_df6b5795:
@@ -9266,49 +9266,49 @@ translate zh_Hans cecilia_storyline_56_744efbc9:
 translate zh_Hans cecilia_storyline_56_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:4432
 translate zh_Hans cecilia_storyline_56_after_0a80999e:
 
     # mc "{i}Well, the first step is done"
-    mc "{i}Well, the first step is done|{i}嗯，第一步已经搞定了。"
+    mc "{i}嗯，第一步已经搞定了。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:4434
 translate zh_Hans cecilia_storyline_56_after_19b52898:
 
     # mc "{i}I hope this idea of mine about the debt works out"
-    mc "{i}I hope this idea of mine about the debt works out|{i}我希望我这个关于债务的计划能顺利进行。"
+    mc "{i}我希望我这个关于债务的计划能顺利进行。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:4436
 translate zh_Hans cecilia_storyline_56_after_0877bc1a:
 
     # mc "{i}I'll also need to find someone to play the thug I owe"
-    mc "{i}I'll also need to find someone to play the thug I owe|{i}我还需要找个人来扮演那个我欠债的恶棍。"
+    mc "{i}我还需要找个人来扮演那个我欠债的恶棍。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:4438
 translate zh_Hans cecilia_storyline_56_after_de7db091:
 
     # mc "{i}Salim would be perfect for the role, but Salim is her father"
-    mc "{i}Salim would be perfect for the role, but Salim is her father|{i}萨利姆很适合这个角色，但他妈的他是她老爹。"
+    mc "{i}萨利姆很适合这个角色，但他妈的他是她老爹。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:4440
 translate zh_Hans cecilia_storyline_56_after_e7ef1ecf:
 
     # mc "{i}I'll need to find someone I can trust with something like this"
-    mc "{i}I'll need to find someone I can trust with something like this|{i}我需要找一个能完全信任的人来办这种事。"
+    mc "{i}我需要找一个能完全信任的人来办这种事。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:4442
 translate zh_Hans cecilia_storyline_56_after_0255001a:
 
     # mc "{i}In the meantime, I'll focus on Cecilia"
-    mc "{i}In the meantime, I'll focus on Cecilia|{i}与此同时，我得把注意力放在塞西莉亚身上。"
+    mc "{i}与此同时，我得把注意力放在塞西莉亚身上。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:4444
 translate zh_Hans cecilia_storyline_56_after_7d38012f:
 
     # mc "{i}I wonder how she'll react when I tell her that my bully wants her to give him a blowjob"
-    mc "{i}I wonder how she'll react when I tell her that my bully wants her to give him a blowjob|{i}我真想知道，当我告诉她，我的债主想让她给他口交时，她会作何反应。"
+    mc "{i}我真想知道，当我告诉她，我的债主想让她给他口交时，她会作何反应。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:4446
 translate zh_Hans cecilia_storyline_56_after_7794ec02:
@@ -9326,61 +9326,61 @@ translate zh_Hans cecilia_storyline_56_after_859803b9:
 translate zh_Hans cecilia_storyline_56_after_43d690d1:
 
     # mc "{i}I'm not even worried about this"
-    mc "{i}I'm not even worried about this|{i}我对此一点都不担心。"
+    mc "{i}我对此一点都不担心。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:4452
 translate zh_Hans cecilia_storyline_56_after_41ac0a17:
 
     # mc "{i}If she refuses, we'll just break up"
-    mc "{i}If she refuses, we'll just break up|{i}如果她拒绝，那我们就直接分手。"
+    mc "{i}如果她拒绝，那我们就直接分手。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:4454
 translate zh_Hans cecilia_storyline_56_after_d7f27f6f:
 
     # mc "{i}In the grand scheme of things, Cecilia isn't that important to me"
-    mc "{i}In the grand scheme of things, Cecilia isn't that important to me|{i}从长远来看，塞西莉亚对我来说没那么重要。"
+    mc "{i}从长远来看，塞西莉亚对我来说没那么重要。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:4456
 translate zh_Hans cecilia_storyline_56_after_a28188fb:
 
     # mc "{i}At least, not as much as Talay is"
-    mc "{i}At least, not as much as Talay is|{i}至少，没有塔莱那么重要。"
+    mc "{i}至少，没有塔莱那么重要。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:4458
 translate zh_Hans cecilia_storyline_56_after_e0897906:
 
     # mc "{i}So even if she leaves me, it's no big deal"
-    mc "{i}So even if she leaves me, it's no big deal|{i}所以就算她离开我，也没什么大不了的。"
+    mc "{i}所以就算她离开我，也没什么大不了的。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:4460
 translate zh_Hans cecilia_storyline_56_after_2400291e:
 
     # mc "{i}I just won't be able to get my revenge on Salim the way I want"
-    mc "{i}I just won't be able to get my revenge on Salim the way I want|{i}我只是不能以我想要的方式向萨利姆复仇罢了。"
+    mc "{i}我只是不能以我想要的方式向萨利姆复仇罢了。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:4462
 translate zh_Hans cecilia_storyline_56_after_f74c2756:
 
     # mc "{i}But I still hope she'll be willing to help me"
-    mc "{i}But I still hope she'll be willing to help me|{i}但我仍然希望她会乖乖帮我。"
+    mc "{i}但我仍然希望她会乖乖帮我。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:4464
 translate zh_Hans cecilia_storyline_56_after_39c258fd:
 
     # mc "{i}And give a blowjob to the guy I tell her to"
-    mc "{i}And give a blowjob to the guy I tell her to|{i}然后给那个我让她去伺候的男人好好口交。"
+    mc "{i}然后给那个我让她去伺候的男人好好口交。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:4466
 translate zh_Hans cecilia_storyline_56_after_2cd258dd:
 
     # mc "{i}That's where it all starts"
-    mc "{i}That's where it all starts|{i}一切都将从这里开始。"
+    mc "{i}一切都将从这里开始。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:4468
 translate zh_Hans cecilia_storyline_56_after_24357d9c:
 
     # mc "{i}That's where her long journey to becoming a true slut begins"
-    mc "{i}That's where her long journey to becoming a true slut begins|{i}这就是她漫长堕落之路的开端，从此她将彻底沦为一个真正的骚货。"
+    mc "{i}这就是她漫长堕落之路的开端，从此她将彻底沦为一个真正的骚货。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:4487
 translate zh_Hans cecilia_storyline_57_e4658d29:
@@ -9844,7 +9844,7 @@ translate zh_Hans cecilia_storyline_57_b6112d75:
 translate zh_Hans cecilia_storyline_57_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:4674
 translate zh_Hans cecilia_storyline_58_addf38c6:
@@ -10218,7 +10218,7 @@ translate zh_Hans cecilia_storyline_58_d9ab2a5f:
 translate zh_Hans cecilia_storyline_58_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:4829
 translate zh_Hans cecilia_storyline_59_28866352:
@@ -10712,7 +10712,7 @@ translate zh_Hans cecilia_storyline_59_26d603e2_1:
 translate zh_Hans cecilia_storyline_59_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:5030
 translate zh_Hans cecilia_storyline_60_76b2fe88:
@@ -11066,7 +11066,7 @@ translate zh_Hans cecilia_storyline_60_1ac94040:
 translate zh_Hans cecilia_storyline_60_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:5193
 translate zh_Hans cecilia_storyline_61_dfe2fbde:
@@ -11440,7 +11440,7 @@ translate zh_Hans cecilia_storyline_61_145c948e:
 translate zh_Hans cecilia_storyline_61_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:5350
 translate zh_Hans cecilia_storyline_62_a2a467b1:
@@ -11688,7 +11688,7 @@ translate zh_Hans cecilia_storyline_62_baadd4e8:
 translate zh_Hans cecilia_storyline_62_82d3cb81:
 
     # nvlcecilia "😔"
-    nvlcecilia ""
+    nvlcecilia "😔"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:5434
 translate zh_Hans cecilia_storyline_62_2a0f67c7:
@@ -12144,97 +12144,97 @@ translate zh_Hans cecilia_storyline_62_0f7f749f:
 translate zh_Hans cecilia_storyline_62_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:5612
 translate zh_Hans cecilia_storyline_62_after_5cadcdc1:
 
     # mc "{i}Perfect"
-    mc "{i}Perfect|{i}完美。"
+    mc "{i}完美。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:5614
 translate zh_Hans cecilia_storyline_62_after_9bd23d82:
 
     # mc "{i}Everything is going just as I planned"
-    mc "{i}Everything is going just as I planned|{i}一切都按我的计划进行着，简直天衣无缝。"
+    mc "{i}一切都按我的计划进行着，简直天衣无缝。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:5616
 translate zh_Hans cecilia_storyline_62_after_d0354246:
 
     # mc "{i}Hehehe"
-    mc "{i}Hehehe|{i}嘿嘿嘿"
+    mc "{i}嘿嘿嘿"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:5618
 translate zh_Hans cecilia_storyline_62_after_1623be0c:
 
     # mc "{i}God, I'm a genius"
-    mc "{i}God, I'm a genius|{i}天哪，我真是个他妈的天才。"
+    mc "{i}天哪，我真是个他妈的天才。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:5620
 translate zh_Hans cecilia_storyline_62_after_e1db17b9:
 
     # mc "{i}Very soon, and I'll make that slut give a blowjob to another man"
-    mc "{i}Very soon, and I'll make that slut give a blowjob to another man|{i}很快，我就要让那个贱货去给别的男人舔鸡巴。"
+    mc "{i}很快，我就要让那个贱货去给别的男人舔鸡巴。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:5622
 translate zh_Hans cecilia_storyline_62_after_8f824c35:
 
     # mc "{i}And then another one"
-    mc "{i}And then another one|{i}然后是下一个。"
+    mc "{i}然后是下一个。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:5624
 translate zh_Hans cecilia_storyline_62_after_3b422c7e:
 
     # mc "{i}And another"
-    mc "{i}And another|{i}再下一个。"
+    mc "{i}再下一个。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:5626
 translate zh_Hans cecilia_storyline_62_after_94966f11:
 
     # mc "{i}And another..."
-    mc "{i}And another...|{i}还有下一个……"
+    mc "{i}还有下一个……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:5628
 translate zh_Hans cecilia_storyline_62_after_37aa19e0:
 
     # mc "{i}I'll make sure she becomes a real whore"
-    mc "{i}I'll make sure she becomes a real whore|{i}我要确保她彻底沦为一个真正的婊子。"
+    mc "{i}我要确保她彻底沦为一个真正的婊子。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:5630
 translate zh_Hans cecilia_storyline_62_after_37055dca:
 
     # mc "{i}It will happen very soon"
-    mc "{i}It will happen very soon|{i}这很快就会发生。"
+    mc "{i}这很快就会发生。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:5632
 translate zh_Hans cecilia_storyline_62_after_997f117d:
 
     # mc "{i}Now I just need to find someone to help with all this"
-    mc "{i}Now I just need to find someone to help with all this|{i}现在我只需要找个人来帮我把这一切都搞定。"
+    mc "{i}现在我只需要找个人来帮我把这一切都搞定。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:5634
 translate zh_Hans cecilia_storyline_62_after_d3d47b90:
 
     # mc "{i}Someone Cecilia can meet"
-    mc "{i}Someone Cecilia can meet|{i}一个塞西莉亚可以认识的人。"
+    mc "{i}一个塞西莉亚可以认识的人。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:5636
 translate zh_Hans cecilia_storyline_62_after_51a7f06d:
 
     # mc "{i}Maybe I should check a dating site"
-    mc "{i}Maybe I should check a dating site|{i}或许我该去约炮网站看看。"
+    mc "{i}或许我该去约炮网站看看。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:5638
 translate zh_Hans cecilia_storyline_62_after_d6a319c7:
 
     # mc "{i}I think I might find someone on M&F"
-    mc "{i}I think I might find someone on M&F|{i}我觉得我可能会在M&F上找到合适的人选。"
+    mc "{i}我觉得我可能会在M&F上找到合适的人选。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:5640
 translate zh_Hans cecilia_storyline_62_after_66017614:
 
     # mc "{i}Yes, I'm gonna check M&F"
-    mc "{i}Yes, I'm gonna check M&F|{i}是的，我要去M&F上好好物色一番。"
+    mc "{i}是的，我要去M&F上好好物色一番。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:5659
 translate zh_Hans cecilia_storyline_63_7b7d0d89:
@@ -12386,7 +12386,7 @@ translate zh_Hans cecilia_storyline_63_84832eaa:
 translate zh_Hans cecilia_storyline_63_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:5744
 translate zh_Hans cecilia_storyline_64_38aa9801:
@@ -12760,7 +12760,7 @@ translate zh_Hans cecilia_storyline_64_6a3b67b2_1:
 translate zh_Hans cecilia_storyline_64_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:5907
 translate zh_Hans cecilia_storyline_65_b56bde17:
@@ -13176,7 +13176,7 @@ translate zh_Hans cecilia_storyline_65_d9ab2a5f:
 translate zh_Hans cecilia_storyline_65_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:6078
 translate zh_Hans cecilia_storyline_66_7b8f2ec1:
@@ -13364,7 +13364,7 @@ translate zh_Hans cecilia_storyline_66_209cf5f9:
 translate zh_Hans cecilia_storyline_66_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:6179
 translate zh_Hans cecilia_storyline_67_b56bde17:
@@ -13738,7 +13738,7 @@ translate zh_Hans cecilia_storyline_67_6a3b67b2_1:
 translate zh_Hans cecilia_storyline_67_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:6336
 translate zh_Hans cecilia_storyline_68_8082810a:
@@ -14040,7 +14040,7 @@ translate zh_Hans cecilia_storyline_68_a84456a7_1:
 translate zh_Hans cecilia_storyline_68_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:6469
 translate zh_Hans cecilia_storyline_69_1ac5b812:
@@ -14084,7 +14084,7 @@ translate zh_Hans cecilia_storyline_69_632337da:
 translate zh_Hans cecilia_storyline_69_f7c5a0cf:
 
     # nvlrick_cecilia "Man, it's been ages since I had sex with a young chick like your girlfriend"
-    nvlrick_cecilia "妈的，我好久没干过你女朋友这种小骚货了！XTAG0X"
+    nvlrick_cecilia "妈的，我好久没干过你女朋友这种小骚货了！"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:6485
 translate zh_Hans cecilia_storyline_69_4a442ef8:
@@ -14210,25 +14210,25 @@ translate zh_Hans cecilia_storyline_69_eaaec7d1:
 translate zh_Hans cecilia_storyline_69_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:6556
 translate zh_Hans cecilia_storyline_69_after_04b60e8b:
 
     # mc "{i}So, the day has come"
-    mc "{i}So, the day has come|{i}所以，这一天终于来了。"
+    mc "{i}所以，这一天终于来了。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:6558
 translate zh_Hans cecilia_storyline_69_after_24f7673d:
 
     # mc "{i}Soon, Cecilia will try her second cock"
-    mc "{i}Soon, Cecilia will try her second cock|{i}很快，塞西莉亚就要去尝尝第二根鸡巴的滋味了。"
+    mc "{i}很快，塞西莉亚就要去尝尝第二根鸡巴的滋味了。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:6560
 translate zh_Hans cecilia_storyline_69_after_bab00622:
 
     # mc "{i}And it's far from the last"
-    mc "{i}And it's far from the last|{i}而且这他妈的还远不是最后一根。"
+    mc "{i}而且这他妈的还远不是最后一根。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:6562
 translate zh_Hans cecilia_storyline_69_after_b23d39c6:
@@ -14512,7 +14512,7 @@ translate zh_Hans cecilia_storyline_70_7a5dae9d:
 translate zh_Hans cecilia_storyline_70_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:6711
 translate zh_Hans cecilia_storyline_71_cde6e2d0:
@@ -14808,7 +14808,7 @@ translate zh_Hans cecilia_storyline_71_4a26bd94:
 translate zh_Hans cecilia_storyline_71_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:6851
 translate zh_Hans cecilia_storyline_71_after_a99adecb:
@@ -14996,7 +14996,7 @@ translate zh_Hans cecilia_storyline_72_475ce2f3:
 translate zh_Hans cecilia_storyline_72_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:6963
 translate zh_Hans cecilia_storyline_73_fcea7274:
@@ -15172,7 +15172,7 @@ translate zh_Hans cecilia_storyline_73_61269569:
 translate zh_Hans cecilia_storyline_73_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:7056
 translate zh_Hans cecilia_storyline_74_570ae01f:
@@ -15342,7 +15342,7 @@ translate zh_Hans cecilia_storyline_74_0cff30ed:
 translate zh_Hans cecilia_storyline_74_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:7149
 translate zh_Hans cecilia_storyline_75_6d499bb0:
@@ -15524,7 +15524,7 @@ translate zh_Hans cecilia_storyline_75_b4930dd0:
 translate zh_Hans cecilia_storyline_75_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:7238
 translate zh_Hans cecilia_storyline_75_after_00907572:
@@ -15760,7 +15760,7 @@ translate zh_Hans cecilia_storyline_76_ef8a109d:
 translate zh_Hans cecilia_storyline_76_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:7366
 translate zh_Hans cecilia_storyline_77_8dfa5cbf:
@@ -15900,7 +15900,7 @@ translate zh_Hans cecilia_storyline_77_2dceb2a3:
 translate zh_Hans cecilia_storyline_77_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:7445
 translate zh_Hans cecilia_storyline_78_3821c183:
@@ -16178,7 +16178,7 @@ translate zh_Hans cecilia_storyline_78_cdb23950:
 translate zh_Hans cecilia_storyline_78_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:7572
 translate zh_Hans cecilia_storyline_79_96bd0900:
@@ -16258,7 +16258,7 @@ translate zh_Hans cecilia_storyline_79_82d5ca73:
 translate zh_Hans cecilia_storyline_79_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:7631
 translate zh_Hans cecilia_storyline_80_8a9f93ac:
@@ -16446,7 +16446,7 @@ translate zh_Hans cecilia_storyline_80_8c858e26:
 translate zh_Hans cecilia_storyline_80_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:7730
 translate zh_Hans cecilia_storyline_81_9b42b28d:
@@ -16778,7 +16778,7 @@ translate zh_Hans cecilia_storyline_81_b64211a5:
 translate zh_Hans cecilia_storyline_81_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:7869
 translate zh_Hans cecilia_storyline_81_after_b712e117:
@@ -16904,7 +16904,7 @@ translate zh_Hans cecilia_storyline_82_4399cacb:
 translate zh_Hans cecilia_storyline_82_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:7957
 translate zh_Hans cecilia_storyline_82_after_321b6e2a:
@@ -17068,7 +17068,7 @@ translate zh_Hans cecilia_storyline_83_9aa2c45e:
 translate zh_Hans cecilia_storyline_83_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:8057
 translate zh_Hans cecilia_storyline_83_after_0f4338d8:
@@ -17208,7 +17208,7 @@ translate zh_Hans cecilia_storyline_84_efbf8143:
 translate zh_Hans cecilia_storyline_84_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:8153
 translate zh_Hans cecilia_storyline_85_7ccdb0a6:
@@ -17336,7 +17336,7 @@ translate zh_Hans cecilia_storyline_85_c71cc22b:
 translate zh_Hans cecilia_storyline_85_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:8232
 translate zh_Hans cecilia_storyline_86_67ed896f:
@@ -17416,7 +17416,7 @@ translate zh_Hans cecilia_storyline_86_74c35c2f:
 translate zh_Hans cecilia_storyline_86_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:8291
 translate zh_Hans cecilia_storyline_87_9483af7e:
@@ -17532,7 +17532,7 @@ translate zh_Hans cecilia_storyline_87_8fa9a624:
 translate zh_Hans cecilia_storyline_87_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:8362
 translate zh_Hans cecilia_storyline_88_074cae60:
@@ -17630,7 +17630,7 @@ translate zh_Hans cecilia_storyline_88_12fb1a30:
 translate zh_Hans cecilia_storyline_88_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:8431
 translate zh_Hans cecilia_storyline_89_d2a8ca55:
@@ -17758,7 +17758,7 @@ translate zh_Hans cecilia_storyline_89_79f9556d:
 translate zh_Hans cecilia_storyline_89_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:8510
 translate zh_Hans cecilia_storyline_90_0e9e6db7:
@@ -17826,7 +17826,7 @@ translate zh_Hans cecilia_storyline_90_3e8dce5d:
 translate zh_Hans cecilia_storyline_90_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:8565
 translate zh_Hans cecilia_storyline_91_c5714c84:
@@ -17996,7 +17996,7 @@ translate zh_Hans cecilia_storyline_91_93af1e5c:
 translate zh_Hans cecilia_storyline_91_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:8656
 translate zh_Hans cecilia_storyline_92_b22996f9:
@@ -18220,7 +18220,7 @@ translate zh_Hans cecilia_storyline_92_e893b9c6:
 translate zh_Hans cecilia_storyline_92_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:8763
 translate zh_Hans cecilia_storyline_93_8bf408a0:
@@ -18402,13 +18402,13 @@ translate zh_Hans cecilia_storyline_93_28e78661:
 translate zh_Hans cecilia_storyline_93_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:8851
 translate zh_Hans cecilia_storyline_93_after_6fd8f479:
 
     # mc "{i}Did I tell them not to use her arse out of jealousy?"
-    mc "{i}Did I tell them not to use her arse out of jealousy?|{i}我因为嫉妒才告诉他们不要用她的屁股吗？"
+    mc "{i}我因为嫉妒才告诉他们不要用她的屁股吗？"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:8853
 translate zh_Hans cecilia_storyline_93_after_172cb55d:
@@ -18420,49 +18420,49 @@ translate zh_Hans cecilia_storyline_93_after_172cb55d:
 translate zh_Hans cecilia_storyline_93_after_134de7fc:
 
     # mc "{i}It’s just... I want to feel like *something* is still only mine"
-    mc "{i}It’s just... I want to feel like *something* is still only mine|{i}只是……我渴望感觉*某些东西*仍然只属于我。"
+    mc "{i}只是……我渴望感觉*某些东西*仍然只属于我。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:8857
 translate zh_Hans cecilia_storyline_93_after_025a71b9:
 
     # mc "{i}Even if I’m playing out this whole plan"
-    mc "{i}Even if I’m playing out this whole plan|{i}即使我正在执行整个计划"
+    mc "{i}即使我正在执行整个计划"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:8859
 translate zh_Hans cecilia_storyline_93_after_3b16e88f:
 
     # mc "{i}Cecilia’s actually a really nice girl..."
-    mc "{i}Cecilia’s actually a really nice girl...|{i}塞西莉亚其实是个很不错的女孩……"
+    mc "{i}塞西莉亚其实是个很不错的女孩……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:8861
 translate zh_Hans cecilia_storyline_93_after_670e1ba5:
 
     # mc "{i}And I’m going to make her fall in love with this lifestyle"
-    mc "{i}And I’m going to make her fall in love with this lifestyle|{i}我要让她爱上这种生活方式。"
+    mc "{i}我要让她爱上这种生活方式。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:8863
 translate zh_Hans cecilia_storyline_93_after_65ffe484:
 
     # mc "{i}Serving other men..."
-    mc "{i}Serving other men...|{i}服侍其他男人……"
+    mc "{i}服侍其他男人……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:8865
 translate zh_Hans cecilia_storyline_93_after_91073068:
 
     # mc "{i}Being used..."
-    mc "{i}Being used...|{i}正在被玩弄……"
+    mc "{i}正在被玩弄……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:8867
 translate zh_Hans cecilia_storyline_93_after_063789a2:
 
     # mc "{i}I’ll corrupt her completely"
-    mc "{i}I’ll corrupt her completely|{i}我会彻底腐化她。"
+    mc "{i}我会彻底腐化她。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:8869
 translate zh_Hans cecilia_storyline_93_after_a04037fc:
 
     # mc "{i}But that arse stays mine — at least for now"
-    mc "{i}But that arse stays mine — at least for now|{i}但那个屁股还是我一个人的——至少目前是这样。"
+    mc "{i}但那个屁股还是我一个人的——至少目前是这样。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:8888
 translate zh_Hans cecilia_storyline_94_9483af7e:
@@ -18620,7 +18620,7 @@ translate zh_Hans cecilia_storyline_94_2fc395be:
 translate zh_Hans cecilia_storyline_94_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:8973
 translate zh_Hans cecilia_storyline_95_d0f8bb02:
@@ -18772,7 +18772,7 @@ translate zh_Hans cecilia_storyline_95_bbb34aae:
 translate zh_Hans cecilia_storyline_95_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:9062
 translate zh_Hans cecilia_storyline_96_6df9e3d6:
@@ -18858,7 +18858,7 @@ translate zh_Hans cecilia_storyline_96_198d8d8a:
 translate zh_Hans cecilia_storyline_96_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:9123
 translate zh_Hans cecilia_storyline_97_9483af7e:
@@ -18962,7 +18962,7 @@ translate zh_Hans cecilia_storyline_97_8295138e:
 translate zh_Hans cecilia_storyline_97_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:9190
 translate zh_Hans cecilia_storyline_98_5e34c4e9:
@@ -19150,7 +19150,7 @@ translate zh_Hans cecilia_storyline_98_853d7c75:
 translate zh_Hans cecilia_storyline_98_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:9287
 translate zh_Hans cecilia_storyline_99_a56c9d37:
@@ -19314,7 +19314,7 @@ translate zh_Hans cecilia_storyline_99_c03310c0:
 translate zh_Hans cecilia_storyline_99_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:9374
 translate zh_Hans cecilia_storyline_100_9483af7e:
@@ -19478,7 +19478,7 @@ translate zh_Hans cecilia_storyline_100_b4930dd0:
 translate zh_Hans cecilia_storyline_100_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:9461
 translate zh_Hans cecilia_storyline_101_80050b7c:
@@ -19618,7 +19618,7 @@ translate zh_Hans cecilia_storyline_101_8f7770db:
 translate zh_Hans cecilia_storyline_101_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:9540
 translate zh_Hans cecilia_storyline_102_9483af7e:
@@ -19824,7 +19824,7 @@ translate zh_Hans cecilia_storyline_102_a58b1faa:
 translate zh_Hans cecilia_storyline_102_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:9648
 translate zh_Hans cecilia_storyline_103_29f595c0:
@@ -20018,7 +20018,7 @@ translate zh_Hans cecilia_storyline_103_7fd26556:
 translate zh_Hans cecilia_storyline_103_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:9751
 translate zh_Hans cecilia_storyline_104_61aaf32e:
@@ -20116,7 +20116,7 @@ translate zh_Hans cecilia_storyline_104_f6cf5bf6:
 translate zh_Hans cecilia_storyline_104_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:9816
 translate zh_Hans cecilia_storyline_105_71acb739:
@@ -20220,7 +20220,7 @@ translate zh_Hans cecilia_storyline_105_39c143ab:
 translate zh_Hans cecilia_storyline_105_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:9885
 translate zh_Hans cecilia_storyline_106_65443b5a:
@@ -20294,7 +20294,7 @@ translate zh_Hans cecilia_storyline_106_9efef009:
 translate zh_Hans cecilia_storyline_106_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:9936
 translate zh_Hans cecilia_storyline_106_after_56d6ca25:
@@ -20410,7 +20410,7 @@ translate zh_Hans cecilia_storyline_107_f89da8ea:
 translate zh_Hans cecilia_storyline_107_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:10026
 translate zh_Hans cecilia_storyline_108_b22996f9:
@@ -20526,7 +20526,7 @@ translate zh_Hans cecilia_storyline_108_e0726537:
 translate zh_Hans cecilia_storyline_108_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:10097
 translate zh_Hans cecilia_storyline_109_c3c545a7:
@@ -20678,7 +20678,7 @@ translate zh_Hans cecilia_storyline_109_7dafbc4e:
 translate zh_Hans cecilia_storyline_109_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:10191
 translate zh_Hans cecilia_storyline_110_ed9bafaf:
@@ -20758,7 +20758,7 @@ translate zh_Hans cecilia_storyline_110_c52a1bd9:
 translate zh_Hans cecilia_storyline_110_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:10252
 translate zh_Hans cecilia_storyline_111_fde00745:
@@ -20850,7 +20850,7 @@ translate zh_Hans cecilia_storyline_111_385f32b3:
 translate zh_Hans cecilia_storyline_111_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:10315
 translate zh_Hans cecilia_storyline_112_028a0d4e:
@@ -20972,7 +20972,7 @@ translate zh_Hans cecilia_storyline_112_72425451:
 translate zh_Hans cecilia_storyline_112_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:10388
 translate zh_Hans cecilia_storyline_113_8f9b6860:
@@ -21100,7 +21100,7 @@ translate zh_Hans cecilia_storyline_113_8ffa5ef4:
 translate zh_Hans cecilia_storyline_113_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:10463
 translate zh_Hans cecilia_storyline_114_51a9f0d0:
@@ -21210,7 +21210,7 @@ translate zh_Hans cecilia_storyline_114_1c1b8c4f:
 translate zh_Hans cecilia_storyline_114_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:10532
 translate zh_Hans cecilia_storyline_115_7c55a5cf:
@@ -21284,7 +21284,7 @@ translate zh_Hans cecilia_storyline_115_9b09b232:
 translate zh_Hans cecilia_storyline_115_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:10589
 translate zh_Hans cecilia_storyline_116_4401729c:
@@ -21388,7 +21388,7 @@ translate zh_Hans cecilia_storyline_116_28543798:
 translate zh_Hans cecilia_storyline_116_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:10658
 translate zh_Hans cecilia_storyline_117_15cdfcf8:
@@ -21552,7 +21552,7 @@ translate zh_Hans cecilia_storyline_117_1e10f262:
 translate zh_Hans cecilia_storyline_117_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:10747
 translate zh_Hans cecilia_storyline_118_06adda37:
@@ -21620,7 +21620,7 @@ translate zh_Hans cecilia_storyline_118_647e6071:
 translate zh_Hans cecilia_storyline_118_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:10802
 translate zh_Hans cecilia_storyline_119_8797f17f:
@@ -21730,7 +21730,7 @@ translate zh_Hans cecilia_storyline_119_47b0401f:
 translate zh_Hans cecilia_storyline_119_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:10875
 translate zh_Hans cecilia_storyline_120_26125238:
@@ -21834,7 +21834,7 @@ translate zh_Hans cecilia_storyline_120_0d406251:
 translate zh_Hans cecilia_storyline_120_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:10935
 translate zh_Hans cecilia_storyline_120_after_48ca56b7:
@@ -22040,7 +22040,7 @@ translate zh_Hans cecilia_storyline_121_145c948e:
 translate zh_Hans cecilia_storyline_121_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:11056
 translate zh_Hans cecilia_storyline_122_b684c7a6:
@@ -22210,7 +22210,7 @@ translate zh_Hans cecilia_storyline_122_78cddd2e:
 translate zh_Hans cecilia_storyline_122_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:11153
 translate zh_Hans cecilia_storyline_123_f33a24ed:
@@ -22380,7 +22380,7 @@ translate zh_Hans cecilia_storyline_123_9ae3d690:
 translate zh_Hans cecilia_storyline_123_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:11243
 translate zh_Hans cecilia_storyline_124_d83c44b9:
@@ -22520,7 +22520,7 @@ translate zh_Hans cecilia_storyline_124_07b9007a:
 translate zh_Hans cecilia_storyline_124_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:11323
 translate zh_Hans cecilia_storyline_125_ec0480d8:
@@ -22642,7 +22642,7 @@ translate zh_Hans cecilia_storyline_125_7cf34cfc:
 translate zh_Hans cecilia_storyline_125_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:11397
 translate zh_Hans cecilia_storyline_126_5fef1f97:
@@ -22764,7 +22764,7 @@ translate zh_Hans cecilia_storyline_126_719a32b1:
 translate zh_Hans cecilia_storyline_126_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:11471
 translate zh_Hans cecilia_storyline_127_d1853789:
@@ -22886,7 +22886,7 @@ translate zh_Hans cecilia_storyline_127_e400c4a2:
 translate zh_Hans cecilia_storyline_127_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:11544
 translate zh_Hans cecilia_storyline_128_ca7806d1:
@@ -23026,7 +23026,7 @@ translate zh_Hans cecilia_storyline_128_7cb7a7f5:
 translate zh_Hans cecilia_storyline_128_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:11637
 translate zh_Hans cecilia_storyline_129_cf678082:
@@ -23178,7 +23178,7 @@ translate zh_Hans cecilia_storyline_129_a97e9013:
 translate zh_Hans cecilia_storyline_129_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:11721
 translate zh_Hans cecilia_storyline_130_83ffa6ee:
@@ -23300,7 +23300,7 @@ translate zh_Hans cecilia_storyline_130_5bc70221:
 translate zh_Hans cecilia_storyline_130_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:11797
 translate zh_Hans cecilia_storyline_131_a184bc40:
@@ -23422,7 +23422,7 @@ translate zh_Hans cecilia_storyline_131_91b8163e:
 translate zh_Hans cecilia_storyline_131_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:11871
 translate zh_Hans cecilia_storyline_132_71acb739:
@@ -23556,7 +23556,7 @@ translate zh_Hans cecilia_storyline_132_17d83039:
 translate zh_Hans cecilia_storyline_132_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:11948
 translate zh_Hans cecilia_storyline_133_b965c892:
@@ -23666,7 +23666,7 @@ translate zh_Hans cecilia_storyline_133_304bf3b2:
 translate zh_Hans cecilia_storyline_133_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:12017
 translate zh_Hans cecilia_storyline_134_e1622d08:
@@ -23782,7 +23782,7 @@ translate zh_Hans cecilia_storyline_134_7cb7a7f5:
 translate zh_Hans cecilia_storyline_134_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:12088
 translate zh_Hans cecilia_storyline_135_1e556e69:
@@ -23898,7 +23898,7 @@ translate zh_Hans cecilia_storyline_135_ca8b1229:
 translate zh_Hans cecilia_storyline_135_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:12159
 translate zh_Hans cecilia_storyline_136_902e3b96:
@@ -23990,7 +23990,7 @@ translate zh_Hans cecilia_storyline_136_6dbab307:
 translate zh_Hans cecilia_storyline_136_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:12222
 translate zh_Hans cecilia_storyline_137_df0fdfa6:
@@ -24100,7 +24100,7 @@ translate zh_Hans cecilia_storyline_137_6777786f:
 translate zh_Hans cecilia_storyline_137_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:12297
 translate zh_Hans cecilia_storyline_138_b193ff89:
@@ -24210,7 +24210,7 @@ translate zh_Hans cecilia_storyline_138_34e42348:
 translate zh_Hans cecilia_storyline_138_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:12372
 translate zh_Hans cecilia_storyline_139_115d3b5a:
@@ -24296,7 +24296,7 @@ translate zh_Hans cecilia_storyline_139_75625cb4:
 translate zh_Hans cecilia_storyline_139_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:12433
 translate zh_Hans cecilia_storyline_140_c343e0a7:
@@ -24388,7 +24388,7 @@ translate zh_Hans cecilia_storyline_140_c07512e8:
 translate zh_Hans cecilia_storyline_140_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:12496
 translate zh_Hans cecilia_storyline_141_777ed6cd:
@@ -24480,7 +24480,7 @@ translate zh_Hans cecilia_storyline_141_8eab9fbd:
 translate zh_Hans cecilia_storyline_141_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:12559
 translate zh_Hans cecilia_storyline_142_df9404f6:
@@ -24572,7 +24572,7 @@ translate zh_Hans cecilia_storyline_142_f208df43:
 translate zh_Hans cecilia_storyline_142_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:12625
 translate zh_Hans cecilia_storyline_143_c3811a20:
@@ -24724,7 +24724,7 @@ translate zh_Hans cecilia_storyline_143_91d31cca:
 translate zh_Hans cecilia_storyline_143_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:12708
 translate zh_Hans cecilia_storyline_144_0331956b:
@@ -24852,7 +24852,7 @@ translate zh_Hans cecilia_storyline_144_1c92be8c:
 translate zh_Hans cecilia_storyline_144_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:12783
 translate zh_Hans cecilia_storyline_145_ac243b3f:
@@ -24968,7 +24968,7 @@ translate zh_Hans cecilia_storyline_145_340154e7:
 translate zh_Hans cecilia_storyline_145_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:12874
 translate zh_Hans cecilia_storyline_146_6bf43dd5:
@@ -25084,7 +25084,7 @@ translate zh_Hans cecilia_storyline_146_d6611147:
 translate zh_Hans cecilia_storyline_146_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:12945
 translate zh_Hans cecilia_storyline_147_0678df66:
@@ -25206,7 +25206,7 @@ translate zh_Hans cecilia_storyline_147_a2dc381b:
 translate zh_Hans cecilia_storyline_147_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:13018
 translate zh_Hans cecilia_storyline_148_c042dbb3:
@@ -25328,7 +25328,7 @@ translate zh_Hans cecilia_storyline_148_644f472d:
 translate zh_Hans cecilia_storyline_148_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:13091
 translate zh_Hans cecilia_storyline_149_2543e036:
@@ -25438,7 +25438,7 @@ translate zh_Hans cecilia_storyline_149_1f3d9ac3:
 translate zh_Hans cecilia_storyline_149_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:13160
 translate zh_Hans cecilia_storyline_150_0095067e:
@@ -25530,7 +25530,7 @@ translate zh_Hans cecilia_storyline_150_10c8f602:
 translate zh_Hans cecilia_storyline_150_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:13223
 translate zh_Hans cecilia_storyline_151_76b2fe88:
@@ -25638,7 +25638,7 @@ translate zh_Hans cecilia_storyline_151_9e83feca:
 translate zh_Hans cecilia_storyline_151_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:13299
 translate zh_Hans cecilia_storyline_152_76b2fe88:
@@ -25746,7 +25746,7 @@ translate zh_Hans cecilia_storyline_152_bb6e4c5e:
 translate zh_Hans cecilia_storyline_152_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:13372
 translate zh_Hans cecilia_storyline_153_5fc96e0c:
@@ -25886,7 +25886,7 @@ translate zh_Hans cecilia_storyline_153_23f23c12:
 translate zh_Hans cecilia_storyline_153_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:13451
 translate zh_Hans cecilia_storyline_154_f33a24ed:
@@ -25978,7 +25978,7 @@ translate zh_Hans cecilia_storyline_154_ee5faacc:
 translate zh_Hans cecilia_storyline_154_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:13514
 translate zh_Hans cecilia_storyline_155_3a08780f:
@@ -26076,7 +26076,7 @@ translate zh_Hans cecilia_storyline_155_6440f3e6:
 translate zh_Hans cecilia_storyline_155_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:13579
 translate zh_Hans cecilia_storyline_156_c56ac37c:
@@ -26174,7 +26174,7 @@ translate zh_Hans cecilia_storyline_156_6a48c115:
 translate zh_Hans cecilia_storyline_156_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:13644
 translate zh_Hans cecilia_storyline_157_47a02a97:
@@ -26266,7 +26266,7 @@ translate zh_Hans cecilia_storyline_157_03981223:
 translate zh_Hans cecilia_storyline_157_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:13707
 translate zh_Hans cecilia_storyline_158_d6239d8d:
@@ -26364,7 +26364,7 @@ translate zh_Hans cecilia_storyline_158_cfbcaa92:
 translate zh_Hans cecilia_storyline_158_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:13784
 translate zh_Hans cecilia_storyline_159_f8ba93bf:
@@ -26462,7 +26462,7 @@ translate zh_Hans cecilia_storyline_159_85d93058:
 translate zh_Hans cecilia_storyline_159_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:13849
 translate zh_Hans cecilia_storyline_160_144f186f:
@@ -26560,7 +26560,7 @@ translate zh_Hans cecilia_storyline_160_15ffc783:
 translate zh_Hans cecilia_storyline_160_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:13914
 translate zh_Hans cecilia_storyline_161_5a7cf6d0:
@@ -26658,7 +26658,7 @@ translate zh_Hans cecilia_storyline_161_6e14a7d7:
 translate zh_Hans cecilia_storyline_161_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:13979
 translate zh_Hans cecilia_storyline_162_15230e2a:
@@ -26750,7 +26750,7 @@ translate zh_Hans cecilia_storyline_162_c072be36:
 translate zh_Hans cecilia_storyline_162_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:14042
 translate zh_Hans cecilia_storyline_163_027515d9:
@@ -26872,7 +26872,7 @@ translate zh_Hans cecilia_storyline_163_d09e1fce:
 translate zh_Hans cecilia_storyline_163_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:14115
 translate zh_Hans cecilia_storyline_164_d9788c77:
@@ -26970,7 +26970,7 @@ translate zh_Hans cecilia_storyline_164_554a6454:
 translate zh_Hans cecilia_storyline_164_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:14180
 translate zh_Hans cecilia_storyline_165_1ce399e2:
@@ -27080,7 +27080,7 @@ translate zh_Hans cecilia_storyline_165_7c9e2405:
 translate zh_Hans cecilia_storyline_165_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:14249
 translate zh_Hans cecilia_storyline_166_164e3614:
@@ -27196,7 +27196,7 @@ translate zh_Hans cecilia_storyline_166_78fb8872:
 translate zh_Hans cecilia_storyline_166_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:14321
 translate zh_Hans cecilia_storyline_167_259bd7bf:
@@ -27294,7 +27294,7 @@ translate zh_Hans cecilia_storyline_167_0f606bdb:
 translate zh_Hans cecilia_storyline_167_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:14386
 translate zh_Hans cecilia_storyline_168_f93f509d:
@@ -27410,7 +27410,7 @@ translate zh_Hans cecilia_storyline_168_1c3791fe:
 translate zh_Hans cecilia_storyline_168_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:14457
 translate zh_Hans cecilia_storyline_169_990768f2:
@@ -27532,7 +27532,7 @@ translate zh_Hans cecilia_storyline_169_a75d2157:
 translate zh_Hans cecilia_storyline_169_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:14530
 translate zh_Hans cecilia_storyline_170_8472350f:
@@ -27654,7 +27654,7 @@ translate zh_Hans cecilia_storyline_170_ffd384ec:
 translate zh_Hans cecilia_storyline_170_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:14603
 translate zh_Hans cecilia_storyline_171_7d968b61:
@@ -27764,5 +27764,5 @@ translate zh_Hans cecilia_storyline_171_ae2dfe8a:
 translate zh_Hans cecilia_storyline_171_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 

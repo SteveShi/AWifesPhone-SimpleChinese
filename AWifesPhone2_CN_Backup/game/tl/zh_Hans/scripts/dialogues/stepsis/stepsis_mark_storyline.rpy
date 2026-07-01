@@ -384,7 +384,7 @@ translate zh_Hans stepsis_mark_storyline_0_a465fdcb:
 translate zh_Hans stepsis_mark_storyline_0_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:226
 translate zh_Hans stepsis_mark_storyline_1_b475afa9:
@@ -920,7 +920,7 @@ translate zh_Hans stepsis_mark_storyline_1_655e74d8:
 translate zh_Hans stepsis_mark_storyline_1_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:451
 translate zh_Hans stepsis_mark_storyline_2_76b2fe88:
@@ -1112,7 +1112,7 @@ translate zh_Hans stepsis_mark_storyline_2_6d53cf9c:
 translate zh_Hans stepsis_mark_storyline_2_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:560
 translate zh_Hans stepsis_mark_storyline_3_fd6ca537:
@@ -1372,7 +1372,7 @@ translate zh_Hans stepsis_mark_storyline_3_a465fdcb:
 translate zh_Hans stepsis_mark_storyline_3_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:681
 translate zh_Hans stepsis_mark_storyline_4_76b2fe88:
@@ -1660,7 +1660,7 @@ translate zh_Hans stepsis_mark_storyline_4_655e74d8:
 translate zh_Hans stepsis_mark_storyline_4_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:814
 translate zh_Hans stepsis_mark_storyline_5_1c52f597:
@@ -1848,7 +1848,7 @@ translate zh_Hans stepsis_mark_storyline_5_32e44f56:
 translate zh_Hans stepsis_mark_storyline_5_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:911
 translate zh_Hans stepsis_mark_storyline_6_d11d24da:
@@ -1988,7 +1988,7 @@ translate zh_Hans stepsis_mark_storyline_6_fc1ba559:
 translate zh_Hans stepsis_mark_storyline_6_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:992
 translate zh_Hans stepsis_mark_storyline_7_c1cc7a1c:
@@ -2362,7 +2362,7 @@ translate zh_Hans stepsis_mark_storyline_7_32e44f56:
 translate zh_Hans stepsis_mark_storyline_7_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:1151
 translate zh_Hans stepsis_mark_storyline_8_3dff9e2d:
@@ -2604,7 +2604,7 @@ translate zh_Hans stepsis_mark_storyline_8_dcc73dbd:
 translate zh_Hans stepsis_mark_storyline_8_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:1286
 translate zh_Hans stepsis_mark_storyline_9_ff9ae856:
@@ -2894,7 +2894,7 @@ translate zh_Hans stepsis_mark_storyline_9_cd1eb1bd:
 translate zh_Hans stepsis_mark_storyline_9_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:1429
 translate zh_Hans stepsis_mark_storyline_10_0c38ee80:
@@ -3166,7 +3166,7 @@ translate zh_Hans stepsis_mark_storyline_10_2f6b9bb8:
 translate zh_Hans stepsis_mark_storyline_10_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:1556
 translate zh_Hans stepsis_mark_storyline_11_213ea63e:
@@ -3306,7 +3306,7 @@ translate zh_Hans stepsis_mark_storyline_11_e950da0e:
 translate zh_Hans stepsis_mark_storyline_11_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:1637
 translate zh_Hans stepsis_mark_storyline_12_0138ea90:
@@ -3740,7 +3740,7 @@ translate zh_Hans stepsis_mark_storyline_12_e13fc4a7:
 translate zh_Hans stepsis_mark_storyline_12_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:1828
 translate zh_Hans stepsis_mark_storyline_13_76b2fe88:
@@ -3932,7 +3932,7 @@ translate zh_Hans stepsis_mark_storyline_13_e61de4bf:
 translate zh_Hans stepsis_mark_storyline_13_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:1931
 translate zh_Hans stepsis_mark_storyline_14_1fa16b4b:
@@ -4216,7 +4216,7 @@ translate zh_Hans stepsis_mark_storyline_14_c13c2c60:
 translate zh_Hans stepsis_mark_storyline_14_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:2064
 translate zh_Hans stepsis_mark_storyline_15_146aed1d:
@@ -4398,7 +4398,7 @@ translate zh_Hans stepsis_mark_storyline_15_e76ce403:
 translate zh_Hans stepsis_mark_storyline_15_569c9bf0:
 
     # nvlmark "You think so? 😊"
-    nvlmark "You think so? 😊|你觉得呢？😊"
+    nvlmark "你觉得呢？😊"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:2126
 translate zh_Hans stepsis_mark_storyline_15_2ca59e9b:
@@ -4566,7 +4566,7 @@ translate zh_Hans stepsis_mark_storyline_15_697aad7d:
 translate zh_Hans stepsis_mark_storyline_15_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:2215
 translate zh_Hans stepsis_mark_storyline_16_c9bd1d17:
@@ -5024,7 +5024,7 @@ translate zh_Hans stepsis_mark_storyline_16_fb023f5e:
 translate zh_Hans stepsis_mark_storyline_16_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:2418
 translate zh_Hans stepsis_mark_storyline_17_50dc6537:
@@ -5446,7 +5446,7 @@ translate zh_Hans stepsis_mark_storyline_17_46fb7507:
 translate zh_Hans stepsis_mark_storyline_17_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:2593
 translate zh_Hans stepsis_mark_storyline_18_79650b4d:
@@ -5700,7 +5700,7 @@ translate zh_Hans stepsis_mark_storyline_18_a465fdcb:
 translate zh_Hans stepsis_mark_storyline_18_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:2712
 translate zh_Hans stepsis_mark_storyline_19_254c8f69:
@@ -5966,7 +5966,7 @@ translate zh_Hans stepsis_mark_storyline_19_28e5675f:
 translate zh_Hans stepsis_mark_storyline_19_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:2841
 translate zh_Hans stepsis_mark_storyline_20_bd860cff:
@@ -6238,7 +6238,7 @@ translate zh_Hans stepsis_mark_storyline_20_2666dec0:
 translate zh_Hans stepsis_mark_storyline_20_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:2966
 translate zh_Hans stepsis_mark_storyline_21_7f98623a:
@@ -6336,7 +6336,7 @@ translate zh_Hans stepsis_mark_storyline_21_6aec3063:
 translate zh_Hans stepsis_mark_storyline_21_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:3033
 translate zh_Hans stepsis_mark_storyline_22_5ac0a2b0:
@@ -6614,7 +6614,7 @@ translate zh_Hans stepsis_mark_storyline_22_f6e42a3e:
 translate zh_Hans stepsis_mark_storyline_22_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:3162
 translate zh_Hans stepsis_mark_storyline_23_15da096d:
@@ -6670,7 +6670,7 @@ translate zh_Hans stepsis_mark_storyline_23_b295099c:
 translate zh_Hans stepsis_mark_storyline_23_cdedc342:
 
     # nvlmark "I see 😊"
-    nvlmark "I see 😊|我明白了😊"
+    nvlmark "我明白了😊"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:3182
 translate zh_Hans stepsis_mark_storyline_23_b821ee65:
@@ -7126,7 +7126,7 @@ translate zh_Hans stepsis_mark_storyline_23_8f506e0b:
 translate zh_Hans stepsis_mark_storyline_23_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:3375
 translate zh_Hans stepsis_mark_storyline_24_0f878b3f:
@@ -7242,7 +7242,7 @@ translate zh_Hans stepsis_mark_storyline_24_a465fdcb:
 translate zh_Hans stepsis_mark_storyline_24_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:3448
 translate zh_Hans stepsis_mark_storyline_25_32b679b9:
@@ -7418,7 +7418,7 @@ translate zh_Hans stepsis_mark_storyline_25_61658ba6:
 translate zh_Hans stepsis_mark_storyline_25_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:3541
 translate zh_Hans stepsis_mark_storyline_26_1c52f597:
@@ -7936,7 +7936,7 @@ translate zh_Hans stepsis_mark_storyline_26_ac681201:
 translate zh_Hans stepsis_mark_storyline_26_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:3748
 translate zh_Hans stepsis_mark_storyline_27_1c52f597:
@@ -8190,7 +8190,7 @@ translate zh_Hans stepsis_mark_storyline_27_4c983cef:
 translate zh_Hans stepsis_mark_storyline_27_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:3867
 translate zh_Hans stepsis_mark_storyline_28_debdc4f2:
@@ -8444,7 +8444,7 @@ translate zh_Hans stepsis_mark_storyline_28_16543de4:
 translate zh_Hans stepsis_mark_storyline_28_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_mark_storyline.rpy:3986
 translate zh_Hans stepsis_mark_storyline_29_cda0bf3b:
@@ -8548,5 +8548,5 @@ translate zh_Hans stepsis_mark_storyline_29_deeed682:
 translate zh_Hans stepsis_mark_storyline_29_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 

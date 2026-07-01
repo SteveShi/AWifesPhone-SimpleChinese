@@ -132,7 +132,7 @@ translate zh_Hans talay_salim_storyline_10_4a4500d7:
 translate zh_Hans talay_salim_storyline_10_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_salim_storyline.rpy:90
 translate zh_Hans talay_salim_storyline_11_042e610d:
@@ -290,7 +290,7 @@ translate zh_Hans talay_salim_storyline_11_e8ac54ac:
 translate zh_Hans talay_salim_storyline_11_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/talay/talay_salim_storyline.rpy:170
 translate zh_Hans talay_salim_storyline_12_c98a6eb7:
@@ -472,5 +472,5 @@ translate zh_Hans talay_salim_storyline_12_7a5204c4:
 translate zh_Hans talay_salim_storyline_12_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 

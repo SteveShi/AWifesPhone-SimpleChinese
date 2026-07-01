@@ -132,7 +132,7 @@ translate zh_Hans wife_netorase_storyline_71_4ceb3c25:
 translate zh_Hans wife_netorase_storyline_71_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:161
 translate zh_Hans wife_netorase_storyline_72_e9c3b05d:
@@ -398,7 +398,7 @@ translate zh_Hans wife_netorase_storyline_72_f20e37ea:
 translate zh_Hans wife_netorase_storyline_72_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:284
 translate zh_Hans wife_netorase_storyline_73_44c5213d:
@@ -676,7 +676,7 @@ translate zh_Hans wife_netorase_storyline_73_1d926e9c:
 translate zh_Hans wife_netorase_storyline_73_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:408
 translate zh_Hans wife_netorase_storyline_74_8acfce50:
@@ -738,7 +738,7 @@ translate zh_Hans wife_netorase_storyline_74_d0995496:
 translate zh_Hans wife_netorase_storyline_74_d76b5685:
 
     # nvljenna "I see 😊"
-    nvljenna "I see 😊|我明白了😊"
+    nvljenna "我明白了😊"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:430
 translate zh_Hans wife_netorase_storyline_74_c79c9274:
@@ -1098,7 +1098,7 @@ translate zh_Hans wife_netorase_storyline_74_7b7f0f78:
 translate zh_Hans wife_netorase_storyline_74_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:581
 translate zh_Hans wife_netorase_storyline_75_38ceeb51:
@@ -1442,7 +1442,7 @@ translate zh_Hans wife_netorase_storyline_75_4cd6920c:
 translate zh_Hans wife_netorase_storyline_75_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:732
 translate zh_Hans wife_netorase_storyline_76_c95862ca:
@@ -1684,7 +1684,7 @@ translate zh_Hans wife_netorase_storyline_76_f57bdc62:
 translate zh_Hans wife_netorase_storyline_76_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:845
 translate zh_Hans wife_netorase_storyline_77_88e8db95:
@@ -1914,7 +1914,7 @@ translate zh_Hans wife_netorase_storyline_77_306223b0:
 translate zh_Hans wife_netorase_storyline_77_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:955
 translate zh_Hans wife_netorase_storyline_78_883abcba:
@@ -2204,7 +2204,7 @@ translate zh_Hans wife_netorase_storyline_78_52fd2697:
 translate zh_Hans wife_netorase_storyline_78_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:1088
 translate zh_Hans wife_netorase_storyline_79_d7d12598:
@@ -2368,7 +2368,7 @@ translate zh_Hans wife_netorase_storyline_79_cbb840b7:
 translate zh_Hans wife_netorase_storyline_79_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:1175
 translate zh_Hans wife_netorase_storyline_80_4a2d1653:
@@ -2622,7 +2622,7 @@ translate zh_Hans wife_netorase_storyline_80_711888d0:
 translate zh_Hans wife_netorase_storyline_80_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:1296
 translate zh_Hans wife_netorase_storyline_81_f11e6aff:
@@ -2810,7 +2810,7 @@ translate zh_Hans wife_netorase_storyline_81_2059e300:
 translate zh_Hans wife_netorase_storyline_81_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:1391
 translate zh_Hans wife_netorase_storyline_82_c997f4d9:
@@ -3372,7 +3372,7 @@ translate zh_Hans wife_netorase_storyline_83_83752d07:
 translate zh_Hans wife_netorase_storyline_83_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:1667
 translate zh_Hans wife_netorase_storyline_84_3dce6d67:
@@ -3584,7 +3584,7 @@ translate zh_Hans wife_netorase_storyline_84_10befb9c:
 translate zh_Hans wife_netorase_storyline_84_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:1770
 translate zh_Hans wife_netorase_storyline_85_91dac261:
@@ -3748,7 +3748,7 @@ translate zh_Hans wife_netorase_storyline_85_dabf9d6d:
 translate zh_Hans wife_netorase_storyline_85_bfdc13fe:
 
     # nvlwife "❤️ ❤️"
-    nvlwife ""
+    nvlwife "❤️ ❤️"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:1838
 translate zh_Hans wife_netorase_storyline_85_6488938b:
@@ -3874,7 +3874,7 @@ translate zh_Hans wife_netorase_storyline_85_869c9d72:
 translate zh_Hans wife_netorase_storyline_85_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:1909
 translate zh_Hans wife_netorase_storyline_86_856f8949:
@@ -4278,7 +4278,7 @@ translate zh_Hans wife_netorase_storyline_86_99ea36b2:
 translate zh_Hans wife_netorase_storyline_86_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:2084
 translate zh_Hans wife_netorase_storyline_87_1f73cb8c:
@@ -4730,7 +4730,7 @@ translate zh_Hans wife_netorase_storyline_87_ad0522e0:
 translate zh_Hans wife_netorase_storyline_87_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:2271
 translate zh_Hans wife_netorase_storyline_88_387a7fcf:
@@ -4996,7 +4996,7 @@ translate zh_Hans wife_netorase_storyline_88_33a96f09:
 translate zh_Hans wife_netorase_storyline_88_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:2390
 translate zh_Hans wife_netorase_storyline_89_6020ddc2:
@@ -5190,7 +5190,7 @@ translate zh_Hans wife_netorase_storyline_89_c4d85680:
 translate zh_Hans wife_netorase_storyline_89_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:2485
 translate zh_Hans wife_netorase_storyline_90_13b4757e:
@@ -5498,7 +5498,7 @@ translate zh_Hans wife_netorase_storyline_90_cbb840b7:
 translate zh_Hans wife_netorase_storyline_90_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:2628
 translate zh_Hans wife_netorase_storyline_91_2c5a2912:
@@ -5884,7 +5884,7 @@ translate zh_Hans wife_netorase_storyline_91_0246023b:
 translate zh_Hans wife_netorase_storyline_91_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:2795
 translate zh_Hans wife_netorase_storyline_92_c8dc8301:
@@ -6138,7 +6138,7 @@ translate zh_Hans wife_netorase_storyline_92_55726787:
 translate zh_Hans wife_netorase_storyline_92_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:2912
 translate zh_Hans wife_netorase_storyline_93_61c5656b:
@@ -6536,7 +6536,7 @@ translate zh_Hans wife_netorase_storyline_93_e54d52bb:
 translate zh_Hans wife_netorase_storyline_93_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:3085
 translate zh_Hans wife_netorase_storyline_94_544b683e:
@@ -6760,7 +6760,7 @@ translate zh_Hans wife_netorase_storyline_94_05bbbfee:
 translate zh_Hans wife_netorase_storyline_94_b0960e6b:
 
     # nvlrae "I see 😊"
-    nvlrae "I see 😊|我明白了😊"
+    nvlrae "我明白了😊"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:3173
 translate zh_Hans wife_netorase_storyline_94_16036270:
@@ -6820,7 +6820,7 @@ translate zh_Hans wife_netorase_storyline_94_e7c3116e:
 translate zh_Hans wife_netorase_storyline_94_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:3224
 translate zh_Hans wife_netorase_storyline_95_0f34fd01:
@@ -7074,13 +7074,13 @@ translate zh_Hans wife_netorase_storyline_95_6570c98b:
 translate zh_Hans wife_netorase_storyline_95_7661c5d6:
 
     # nvljohn "I love you, baby ❤️"
-    nvljohn "I love you, baby ❤️|宝贝，我爱你❤️"
+    nvljohn "宝贝，我爱你❤️"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:3322
 translate zh_Hans wife_netorase_storyline_95_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:3341
 translate zh_Hans wife_netorase_storyline_96_5681d39e:
@@ -7202,7 +7202,7 @@ translate zh_Hans wife_netorase_storyline_96_5ddd1f23_1:
 translate zh_Hans wife_netorase_storyline_96_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:3416
 translate zh_Hans wife_netorase_storyline_97_3af34b7f:
@@ -7216,7 +7216,7 @@ translate zh_Hans wife_netorase_storyline_97_3af34b7f:
 translate zh_Hans wife_netorase_storyline_97_ee1f200b:
 
     # nvljustin "[mc_name_is]??"
-    nvljustin ""
+    nvljustin "[mc_name_is]??"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:3422
 translate zh_Hans wife_netorase_storyline_97_63e84a4d:
@@ -7360,7 +7360,7 @@ translate zh_Hans wife_netorase_storyline_97_5d3636bd:
 translate zh_Hans wife_netorase_storyline_97_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:3499
 translate zh_Hans wife_netorase_storyline_98_e0aaf2d4:
@@ -7620,7 +7620,7 @@ translate zh_Hans wife_netorase_storyline_98_c5ce8be5:
 translate zh_Hans wife_netorase_storyline_98_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:3626
 translate zh_Hans wife_netorase_storyline_99_2320bb83:
@@ -7982,7 +7982,7 @@ translate zh_Hans wife_netorase_storyline_99_5ddd1f23:
 translate zh_Hans wife_netorase_storyline_99_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:3791
 translate zh_Hans wife_netorase_storyline_100_efbf6317:
@@ -8104,7 +8104,7 @@ translate zh_Hans wife_netorase_storyline_100_6c5de749:
 translate zh_Hans wife_netorase_storyline_100_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:3864
 translate zh_Hans wife_netorase_storyline_101_4393d668:
@@ -8364,7 +8364,7 @@ translate zh_Hans wife_netorase_storyline_101_23511036:
 translate zh_Hans wife_netorase_storyline_101_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:3991
 translate zh_Hans wife_netorase_storyline_102_3907db81:
@@ -8780,7 +8780,7 @@ translate zh_Hans wife_netorase_storyline_102_30ea1d25:
 translate zh_Hans wife_netorase_storyline_102_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:4172
 translate zh_Hans wife_netorase_storyline_103_6ae8781d:
@@ -8998,7 +8998,7 @@ translate zh_Hans wife_netorase_storyline_103_d3bf2c3c:
 translate zh_Hans wife_netorase_storyline_103_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:4273
 translate zh_Hans wife_netorase_storyline_104_261fb0b2:
@@ -9432,7 +9432,7 @@ translate zh_Hans wife_netorase_storyline_104_7028def7:
 translate zh_Hans wife_netorase_storyline_104_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:4450
 translate zh_Hans wife_netorase_storyline_105_b57de3b8:
@@ -9518,7 +9518,7 @@ translate zh_Hans wife_netorase_storyline_105_83a3dcfa:
 translate zh_Hans wife_netorase_storyline_105_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:4511
 translate zh_Hans wife_netorase_storyline_106_d29d928b:
@@ -9880,7 +9880,7 @@ translate zh_Hans wife_netorase_storyline_106_cbb840b7:
 translate zh_Hans wife_netorase_storyline_106_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:4664
 translate zh_Hans wife_netorase_storyline_107_152dbc59:
@@ -10254,7 +10254,7 @@ translate zh_Hans wife_netorase_storyline_107_df56f4ab:
 translate zh_Hans wife_netorase_storyline_107_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:4825
 translate zh_Hans wife_netorase_storyline_108_3af34b7f:
@@ -10400,7 +10400,7 @@ translate zh_Hans wife_netorase_storyline_108_7fea35b7:
 translate zh_Hans wife_netorase_storyline_108_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:4912
 translate zh_Hans wife_netorase_storyline_109_0de6f929:
@@ -10618,7 +10618,7 @@ translate zh_Hans wife_netorase_storyline_109_0a82aca2:
 translate zh_Hans wife_netorase_storyline_109_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:5019
 translate zh_Hans wife_netorase_storyline_110_c07adfb9:
@@ -10956,7 +10956,7 @@ translate zh_Hans wife_netorase_storyline_110_55726787:
 translate zh_Hans wife_netorase_storyline_110_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:5166
 translate zh_Hans wife_netorase_storyline_111_151bfdd8:
@@ -11300,7 +11300,7 @@ translate zh_Hans wife_netorase_storyline_111_905b16f7:
 translate zh_Hans wife_netorase_storyline_111_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:5321
 translate zh_Hans wife_netorase_storyline_112_f20b9601:
@@ -11590,7 +11590,7 @@ translate zh_Hans wife_netorase_storyline_112_d813ba41_1:
 translate zh_Hans wife_netorase_storyline_112_7661c5d6:
 
     # nvljohn "I love you, baby ❤️"
-    nvljohn "I love you, baby ❤️|宝贝，我爱你❤️"
+    nvljohn "宝贝，我爱你❤️"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:5419
 translate zh_Hans wife_netorase_storyline_112_f92707bf:
@@ -11830,7 +11830,7 @@ translate zh_Hans wife_netorase_storyline_112_a7aef57f:
 translate zh_Hans wife_netorase_storyline_112_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:5532
 translate zh_Hans wife_netorase_storyline_113_98b6567f:
@@ -11994,7 +11994,7 @@ translate zh_Hans wife_netorase_storyline_113_2b991cbc:
 translate zh_Hans wife_netorase_storyline_113_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:5615
 translate zh_Hans wife_netorase_storyline_113_after_cfff16c0:
@@ -12042,7 +12042,7 @@ translate zh_Hans wife_netorase_storyline_113_after_0225104c:
 translate zh_Hans wife_netorase_storyline_113_after_82b9f930:
 
     # mc "{i}Uhh!"
-    mc "{i}Uhh!|{i}呃！"
+    mc "{i}呃！"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:5631
 translate zh_Hans wife_netorase_storyline_113_after_3c64eeca:
@@ -12272,7 +12272,7 @@ translate zh_Hans wife_netorase_storyline_114_ad0522e0:
 translate zh_Hans wife_netorase_storyline_114_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:5759
 translate zh_Hans wife_netorase_storyline_115_6f98bd25:
@@ -12670,7 +12670,7 @@ translate zh_Hans wife_netorase_storyline_115_971a7156:
 translate zh_Hans wife_netorase_storyline_115_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:5930
 translate zh_Hans wife_netorase_storyline_116_dda8ad2a:
@@ -12966,7 +12966,7 @@ translate zh_Hans wife_netorase_storyline_116_6c5de749:
 translate zh_Hans wife_netorase_storyline_116_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:6065
 translate zh_Hans wife_netorase_storyline_117_f6edca17:
@@ -13274,7 +13274,7 @@ translate zh_Hans wife_netorase_storyline_117_521c7406:
 translate zh_Hans wife_netorase_storyline_117_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:6200
 translate zh_Hans wife_netorase_storyline_118_5545ffbd:
@@ -13576,7 +13576,7 @@ translate zh_Hans wife_netorase_storyline_118_5b2084a2:
 translate zh_Hans wife_netorase_storyline_118_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:6331
 translate zh_Hans wife_netorase_storyline_119_c11c0682:
@@ -13698,7 +13698,7 @@ translate zh_Hans wife_netorase_storyline_119_3b520da3:
 translate zh_Hans wife_netorase_storyline_119_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:6412
 translate zh_Hans wife_netorase_storyline_120_1e6c1d58:
@@ -14024,7 +14024,7 @@ translate zh_Hans wife_netorase_storyline_120_7772bb70:
 translate zh_Hans wife_netorase_storyline_120_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:6557
 translate zh_Hans wife_netorase_storyline_121_8b5cd16a:
@@ -14512,7 +14512,7 @@ translate zh_Hans wife_netorase_storyline_121_6c5de749:
 translate zh_Hans wife_netorase_storyline_121_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:6750
 translate zh_Hans wife_netorase_storyline_122_2c5a2912:
@@ -14916,7 +14916,7 @@ translate zh_Hans wife_netorase_storyline_122_e7c3116e:
 translate zh_Hans wife_netorase_storyline_122_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:6931
 translate zh_Hans wife_netorase_storyline_123_a529a749:
@@ -15074,7 +15074,7 @@ translate zh_Hans wife_netorase_storyline_123_ac5c72b3:
 translate zh_Hans wife_netorase_storyline_123_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:7016
 translate zh_Hans wife_netorase_storyline_124_767c0c7f:
@@ -15400,7 +15400,7 @@ translate zh_Hans wife_netorase_storyline_124_8a4a7737:
 translate zh_Hans wife_netorase_storyline_124_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:7157
 translate zh_Hans wife_netorase_storyline_125_76b2fe88:
@@ -15724,7 +15724,7 @@ translate zh_Hans wife_netorase_storyline_125_5e55ceba:
 translate zh_Hans wife_netorase_storyline_125_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:7310
 translate zh_Hans wife_netorase_storyline_126_a529a749:
@@ -15858,7 +15858,7 @@ translate zh_Hans wife_netorase_storyline_126_d5dae36d:
 translate zh_Hans wife_netorase_storyline_126_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:7381
 translate zh_Hans wife_netorase_storyline_126_after_3e823177:
@@ -16070,7 +16070,7 @@ translate zh_Hans wife_netorase_storyline_127_df7d1371:
 translate zh_Hans wife_netorase_storyline_127_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:7521
 translate zh_Hans wife_netorase_storyline_128_81ab2cf9:
@@ -16174,7 +16174,7 @@ translate zh_Hans wife_netorase_storyline_128_dede8c61:
 translate zh_Hans wife_netorase_storyline_128_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:7586
 translate zh_Hans wife_netorase_storyline_129_399dae09:
@@ -16290,7 +16290,7 @@ translate zh_Hans wife_netorase_storyline_129_6f8bd910:
 translate zh_Hans wife_netorase_storyline_129_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:7655
 translate zh_Hans wife_netorase_storyline_130_e71456d9:
@@ -16376,7 +16376,7 @@ translate zh_Hans wife_netorase_storyline_130_4438f3ae:
 translate zh_Hans wife_netorase_storyline_130_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:7718
 translate zh_Hans wife_netorase_storyline_131_7d54b951:
@@ -16462,7 +16462,7 @@ translate zh_Hans wife_netorase_storyline_131_4abb1e6f:
 translate zh_Hans wife_netorase_storyline_131_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:7771
 translate zh_Hans wife_netorase_storyline_131_after_192634f2:
@@ -16560,7 +16560,7 @@ translate zh_Hans wife_netorase_storyline_132_dd4d09b2:
 translate zh_Hans wife_netorase_storyline_132_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:7851
 translate zh_Hans wife_netorase_storyline_133_08fc44cb:
@@ -16634,7 +16634,7 @@ translate zh_Hans wife_netorase_storyline_133_091ae6cd:
 translate zh_Hans wife_netorase_storyline_133_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:7901
 translate zh_Hans wife_netorase_storyline_133_after_cbe38b52:
@@ -16750,7 +16750,7 @@ translate zh_Hans wife_netorase_storyline_134_c4034820:
 translate zh_Hans wife_netorase_storyline_134_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:7987
 translate zh_Hans wife_netorase_storyline_135_b0332513:
@@ -16806,7 +16806,7 @@ translate zh_Hans wife_netorase_storyline_135_015d9263:
 translate zh_Hans wife_netorase_storyline_135_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:8036
 translate zh_Hans wife_netorase_storyline_136_1f297a78:
@@ -16880,7 +16880,7 @@ translate zh_Hans wife_netorase_storyline_136_e2b8ad81:
 translate zh_Hans wife_netorase_storyline_136_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:8088
 translate zh_Hans wife_netorase_storyline_136_after_0c338419:
@@ -17026,7 +17026,7 @@ translate zh_Hans wife_netorase_storyline_137_d4cf2519:
 translate zh_Hans wife_netorase_storyline_137_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:8185
 translate zh_Hans wife_netorase_storyline_137_after_0454474d:
@@ -17232,7 +17232,7 @@ translate zh_Hans wife_netorase_storyline_138_475e19f0:
 translate zh_Hans wife_netorase_storyline_138_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:8321
 translate zh_Hans wife_netorase_storyline_138_after_65dc430d:
@@ -17372,7 +17372,7 @@ translate zh_Hans wife_netorase_storyline_139_2a43cb1d:
 translate zh_Hans wife_netorase_storyline_139_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:8412
 translate zh_Hans wife_netorase_storyline_139_after_615244bf:
@@ -17554,7 +17554,7 @@ translate zh_Hans wife_netorase_storyline_140_6b03f8d2:
 translate zh_Hans wife_netorase_storyline_140_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:8519
 translate zh_Hans wife_netorase_storyline_140_after_c7e08f63:
@@ -17700,7 +17700,7 @@ translate zh_Hans wife_netorase_storyline_141_60c09648:
 translate zh_Hans wife_netorase_storyline_141_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:8615
 translate zh_Hans wife_netorase_storyline_142_8cb3cde6:
@@ -17774,7 +17774,7 @@ translate zh_Hans wife_netorase_storyline_142_6bdc4d48:
 translate zh_Hans wife_netorase_storyline_142_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:8674
 translate zh_Hans wife_netorase_storyline_143_87467852:
@@ -17872,7 +17872,7 @@ translate zh_Hans wife_netorase_storyline_143_b09fe74e:
 translate zh_Hans wife_netorase_storyline_143_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:8741
 translate zh_Hans wife_netorase_storyline_144_97e10945:
@@ -17976,7 +17976,7 @@ translate zh_Hans wife_netorase_storyline_144_ed7cfe3f:
 translate zh_Hans wife_netorase_storyline_144_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:8808
 translate zh_Hans wife_netorase_storyline_145_c6e04a78:
@@ -18062,7 +18062,7 @@ translate zh_Hans wife_netorase_storyline_145_cc97dc00:
 translate zh_Hans wife_netorase_storyline_145_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:8867
 translate zh_Hans wife_netorase_storyline_146_a8748471:
@@ -18160,7 +18160,7 @@ translate zh_Hans wife_netorase_storyline_146_8cf2b0aa:
 translate zh_Hans wife_netorase_storyline_146_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:8933
 translate zh_Hans wife_netorase_storyline_146_after_039775c3:
@@ -18306,7 +18306,7 @@ translate zh_Hans wife_netorase_storyline_147_0dd7e1d0:
 translate zh_Hans wife_netorase_storyline_147_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:9033
 translate zh_Hans wife_netorase_storyline_148_12221574:
@@ -18392,7 +18392,7 @@ translate zh_Hans wife_netorase_storyline_148_4e4f1b04:
 translate zh_Hans wife_netorase_storyline_148_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:9096
 translate zh_Hans wife_netorase_storyline_149_54f3f873:
@@ -18466,7 +18466,7 @@ translate zh_Hans wife_netorase_storyline_149_bba76ddf:
 translate zh_Hans wife_netorase_storyline_149_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:9148
 translate zh_Hans wife_netorase_storyline_149_after_45feb08c:
@@ -18588,7 +18588,7 @@ translate zh_Hans wife_netorase_storyline_150_f57b409b:
 translate zh_Hans wife_netorase_storyline_150_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:9230
 translate zh_Hans wife_netorase_storyline_150_after_082970b7:
@@ -18704,7 +18704,7 @@ translate zh_Hans wife_netorase_storyline_151_4e4f1b04:
 translate zh_Hans wife_netorase_storyline_151_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:9316
 translate zh_Hans wife_netorase_storyline_152_70660825:
@@ -18874,7 +18874,7 @@ translate zh_Hans wife_netorase_storyline_152_dfccd3e4:
 translate zh_Hans wife_netorase_storyline_152_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:9398
 translate zh_Hans wife_netorase_storyline_152_after_25530f86:
@@ -19014,7 +19014,7 @@ translate zh_Hans wife_netorase_storyline_153_06360df1:
 translate zh_Hans wife_netorase_storyline_153_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:9496
 translate zh_Hans wife_netorase_storyline_154_03f10485:
@@ -19136,7 +19136,7 @@ translate zh_Hans wife_netorase_storyline_154_723c63bd:
 translate zh_Hans wife_netorase_storyline_154_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:9569
 translate zh_Hans wife_netorase_storyline_155_76b2fe88:
@@ -19286,7 +19286,7 @@ translate zh_Hans wife_netorase_storyline_155_6c86a097:
 translate zh_Hans wife_netorase_storyline_155_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:9661
 translate zh_Hans wife_netorase_storyline_155_after_24f0acce:
@@ -19456,7 +19456,7 @@ translate zh_Hans wife_netorase_storyline_156_ec507ed1:
 translate zh_Hans wife_netorase_storyline_156_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:9765
 translate zh_Hans wife_netorase_storyline_157_3d99b6ec:
@@ -19548,7 +19548,7 @@ translate zh_Hans wife_netorase_storyline_157_ca78ad36:
 translate zh_Hans wife_netorase_storyline_157_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:9826
 translate zh_Hans wife_netorase_storyline_158_72924c05:
@@ -19622,7 +19622,7 @@ translate zh_Hans wife_netorase_storyline_158_5046b1f6:
 translate zh_Hans wife_netorase_storyline_158_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:9881
 translate zh_Hans wife_netorase_storyline_159_bf39f2a6:
@@ -19720,7 +19720,7 @@ translate zh_Hans wife_netorase_storyline_159_85fc2407:
 translate zh_Hans wife_netorase_storyline_159_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:9952
 translate zh_Hans wife_netorase_storyline_160_af5d58ef:
@@ -19806,7 +19806,7 @@ translate zh_Hans wife_netorase_storyline_160_dff42b70:
 translate zh_Hans wife_netorase_storyline_160_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:10013
 translate zh_Hans wife_netorase_storyline_161_5d2935c3:
@@ -19892,7 +19892,7 @@ translate zh_Hans wife_netorase_storyline_161_7739a4b8:
 translate zh_Hans wife_netorase_storyline_161_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:10080
 translate zh_Hans wife_netorase_storyline_162_f72000f0:
@@ -19978,7 +19978,7 @@ translate zh_Hans wife_netorase_storyline_162_5668ec5a:
 translate zh_Hans wife_netorase_storyline_162_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:10139
 translate zh_Hans wife_netorase_storyline_163_8ff08556:
@@ -20088,7 +20088,7 @@ translate zh_Hans wife_netorase_storyline_163_af1086be:
 translate zh_Hans wife_netorase_storyline_163_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:10209
 translate zh_Hans wife_netorase_storyline_163_after_3fec5ea3:
@@ -20180,7 +20180,7 @@ translate zh_Hans wife_netorase_storyline_164_3254e769:
 translate zh_Hans wife_netorase_storyline_164_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:10287
 translate zh_Hans wife_netorase_storyline_165_e93fdf5e:
@@ -20248,7 +20248,7 @@ translate zh_Hans wife_netorase_storyline_165_4e6493c6:
 translate zh_Hans wife_netorase_storyline_165_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:10342
 translate zh_Hans wife_netorase_storyline_166_e598c265:
@@ -20334,7 +20334,7 @@ translate zh_Hans wife_netorase_storyline_166_8a49e7dc:
 translate zh_Hans wife_netorase_storyline_166_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:10405
 translate zh_Hans wife_netorase_storyline_167_62fec17a:
@@ -20438,7 +20438,7 @@ translate zh_Hans wife_netorase_storyline_167_2ea14ffc:
 translate zh_Hans wife_netorase_storyline_167_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:10474
 translate zh_Hans wife_netorase_storyline_168_5b9fbfc9:
@@ -20566,7 +20566,7 @@ translate zh_Hans wife_netorase_storyline_168_0de16bab:
 translate zh_Hans wife_netorase_storyline_168_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:10542
 translate zh_Hans wife_netorase_storyline_168_after_b64f48b5:
@@ -20688,7 +20688,7 @@ translate zh_Hans wife_netorase_storyline_169_521531d9:
 translate zh_Hans wife_netorase_storyline_169_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:10630
 translate zh_Hans wife_netorase_storyline_170_97e10945:
@@ -20762,7 +20762,7 @@ translate zh_Hans wife_netorase_storyline_170_a3cd806c:
 translate zh_Hans wife_netorase_storyline_170_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:10685
 translate zh_Hans wife_netorase_storyline_171_f17dc6a6:
@@ -20818,7 +20818,7 @@ translate zh_Hans wife_netorase_storyline_171_2ff2c478:
 translate zh_Hans wife_netorase_storyline_171_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:10734
 translate zh_Hans wife_netorase_storyline_172_78d3918f:
@@ -20910,7 +20910,7 @@ translate zh_Hans wife_netorase_storyline_172_60bb5741:
 translate zh_Hans wife_netorase_storyline_172_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:10796
 translate zh_Hans wife_netorase_storyline_172_after_87349b7a:
@@ -21002,7 +21002,7 @@ translate zh_Hans wife_netorase_storyline_173_e2b71ab5:
 translate zh_Hans wife_netorase_storyline_173_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:10876
 translate zh_Hans wife_netorase_storyline_174_f9e5c3ac:
@@ -21088,7 +21088,7 @@ translate zh_Hans wife_netorase_storyline_174_32b246cc:
 translate zh_Hans wife_netorase_storyline_174_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:10934
 translate zh_Hans wife_netorase_storyline_174_after_47bb0d7d:
@@ -21252,7 +21252,7 @@ translate zh_Hans wife_netorase_storyline_175_00143947:
 translate zh_Hans wife_netorase_storyline_175_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:11031
 translate zh_Hans wife_netorase_storyline_175_after_8802c963:
@@ -21374,7 +21374,7 @@ translate zh_Hans wife_netorase_storyline_176_f576be25:
 translate zh_Hans wife_netorase_storyline_176_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:11111
 translate zh_Hans wife_netorase_storyline_176_after_a18d158c:

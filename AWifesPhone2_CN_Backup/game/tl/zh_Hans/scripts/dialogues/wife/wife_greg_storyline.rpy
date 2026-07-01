@@ -264,7 +264,7 @@ translate zh_Hans wife_greg_storyline_53_402374b0:
 translate zh_Hans wife_greg_storyline_53_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:224
 translate zh_Hans wife_greg_storyline_54_d15e4804:
@@ -692,7 +692,7 @@ translate zh_Hans wife_greg_storyline_54_0d031fa2_1:
 translate zh_Hans wife_greg_storyline_54_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:397
 translate zh_Hans wife_greg_storyline_55_70b40a4c:
@@ -880,7 +880,7 @@ translate zh_Hans wife_greg_storyline_55_d3f22a1d:
 translate zh_Hans wife_greg_storyline_55_f9f699d7:
 
     # nvlwife "This is for you 😉"
-    nvlwife "This is for you 😉|这是给你的 😉"
+    nvlwife "这是给你的 😉"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:465
 translate zh_Hans wife_greg_storyline_55_938f39d9:
@@ -916,7 +916,7 @@ translate zh_Hans wife_greg_storyline_55_80598382:
 translate zh_Hans wife_greg_storyline_55_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:503
 translate zh_Hans wife_greg_storyline_56_76b2fe88:
@@ -1168,7 +1168,7 @@ translate zh_Hans wife_greg_storyline_56_7e8c1094:
 translate zh_Hans wife_greg_storyline_56_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:617
 translate zh_Hans wife_greg_storyline_57_4546f1b5:
@@ -1326,7 +1326,7 @@ translate zh_Hans wife_greg_storyline_57_4055930d:
 translate zh_Hans wife_greg_storyline_57_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:697
 translate zh_Hans wife_greg_storyline_58_76b2fe88:
@@ -1602,7 +1602,7 @@ translate zh_Hans wife_greg_storyline_58_6c5de749:
 translate zh_Hans wife_greg_storyline_58_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:819
 translate zh_Hans wife_greg_storyline_59_764b55ff:
@@ -1736,7 +1736,7 @@ translate zh_Hans wife_greg_storyline_59_8ce2acfe:
 translate zh_Hans wife_greg_storyline_59_e8109ca3:
 
     # nvlgreg "This is for you 😉"
-    nvlgreg "This is for you 😉|这是给你的 😉"
+    nvlgreg "这是给你的 😉"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:869
 translate zh_Hans wife_greg_storyline_59_cd694008:
@@ -1760,7 +1760,7 @@ translate zh_Hans wife_greg_storyline_59_f2220805:
 translate zh_Hans wife_greg_storyline_59_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:903
 translate zh_Hans wife_greg_storyline_60_eef9d238:
@@ -1996,7 +1996,7 @@ translate zh_Hans wife_greg_storyline_60_1405000d:
 translate zh_Hans wife_greg_storyline_60_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:1021
 translate zh_Hans wife_greg_storyline_61_c50ee00c:
@@ -2322,7 +2322,7 @@ translate zh_Hans wife_greg_storyline_61_4ceb3c25:
 translate zh_Hans wife_greg_storyline_61_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:1169
 translate zh_Hans wife_greg_storyline_62_e5eee18d:
@@ -2480,7 +2480,7 @@ translate zh_Hans wife_greg_storyline_62_7eb9a7bb:
 translate zh_Hans wife_greg_storyline_62_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:1254
 translate zh_Hans wife_greg_storyline_63_e8112cce:
@@ -2668,7 +2668,7 @@ translate zh_Hans wife_greg_storyline_63_d17db0d4:
 translate zh_Hans wife_greg_storyline_63_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:1351
 translate zh_Hans wife_greg_storyline_64_f86af53f:
@@ -2838,7 +2838,7 @@ translate zh_Hans wife_greg_storyline_64_6f4e8058:
 translate zh_Hans wife_greg_storyline_64_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:1437
 translate zh_Hans wife_greg_storyline_65_f86af53f:
@@ -3002,7 +3002,7 @@ translate zh_Hans wife_greg_storyline_65_6c5de749:
 translate zh_Hans wife_greg_storyline_65_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:1522
 translate zh_Hans wife_greg_storyline_66_4c707c1b:
@@ -3106,7 +3106,7 @@ translate zh_Hans wife_greg_storyline_66_6c5de749:
 translate zh_Hans wife_greg_storyline_66_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:1595
 translate zh_Hans wife_greg_storyline_67_8fa7461c:
@@ -3222,7 +3222,7 @@ translate zh_Hans wife_greg_storyline_67_3947bb6c:
 translate zh_Hans wife_greg_storyline_67_a38b8397:
 
     # nvlson "I see 😊"
-    nvlson "I see 😊|我明白了😊"
+    nvlson "我明白了😊"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:1643
 translate zh_Hans wife_greg_storyline_67_d5f527a3:
@@ -3630,7 +3630,7 @@ translate zh_Hans wife_greg_storyline_67_a5a8b27b:
 translate zh_Hans wife_greg_storyline_67_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:1812
 translate zh_Hans wife_greg_storyline_68_d689d23e:
@@ -3770,7 +3770,7 @@ translate zh_Hans wife_greg_storyline_68_c2dc6a3d:
 translate zh_Hans wife_greg_storyline_68_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:1889
 translate zh_Hans wife_greg_storyline_69_aa0dc54a:
@@ -3964,7 +3964,7 @@ translate zh_Hans wife_greg_storyline_69_49ae38a1:
 translate zh_Hans wife_greg_storyline_69_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:1988
 translate zh_Hans wife_greg_storyline_70_e7cb5b55:
@@ -4194,7 +4194,7 @@ translate zh_Hans wife_greg_storyline_70_5d0bdc4c:
 translate zh_Hans wife_greg_storyline_70_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:2107
 translate zh_Hans wife_greg_storyline_73_60271f47:
@@ -4556,7 +4556,7 @@ translate zh_Hans wife_greg_storyline_73_345a900b:
 translate zh_Hans wife_greg_storyline_73_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:2258
 translate zh_Hans wife_greg_storyline_74_b288ccdf:
@@ -4870,7 +4870,7 @@ translate zh_Hans wife_greg_storyline_74_ff3938e0:
 translate zh_Hans wife_greg_storyline_74_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:2409
 translate zh_Hans wife_greg_storyline_75_bd525cbe:
@@ -5334,7 +5334,7 @@ translate zh_Hans wife_greg_storyline_75_591bf449:
 translate zh_Hans wife_greg_storyline_75_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:2594
 translate zh_Hans wife_greg_storyline_76_7d644752:
@@ -5462,7 +5462,7 @@ translate zh_Hans wife_greg_storyline_76_d13865e9:
 translate zh_Hans wife_greg_storyline_76_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:2669
 translate zh_Hans wife_greg_storyline_77_14467712:
@@ -5572,7 +5572,7 @@ translate zh_Hans wife_greg_storyline_77_83752d07:
 translate zh_Hans wife_greg_storyline_77_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:2750
 translate zh_Hans wife_greg_storyline_78_260c879b:
@@ -5766,7 +5766,7 @@ translate zh_Hans wife_greg_storyline_78_71190730:
 translate zh_Hans wife_greg_storyline_78_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:2852
 translate zh_Hans wife_greg_storyline_79_4c707c1b:
@@ -6134,7 +6134,7 @@ translate zh_Hans wife_greg_storyline_79_cf69c59f:
 translate zh_Hans wife_greg_storyline_79_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:3005
 translate zh_Hans wife_greg_storyline_80_555a382f:
@@ -6412,7 +6412,7 @@ translate zh_Hans wife_greg_storyline_80_fc22a997:
 translate zh_Hans wife_greg_storyline_80_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:3136
 translate zh_Hans wife_greg_storyline_81_717733b5:
@@ -6564,7 +6564,7 @@ translate zh_Hans wife_greg_storyline_81_125b0240:
 translate zh_Hans wife_greg_storyline_81_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:3221
 translate zh_Hans wife_greg_storyline_82_111673b9:
@@ -6830,7 +6830,7 @@ translate zh_Hans wife_greg_storyline_82_42b0cadf:
 translate zh_Hans wife_greg_storyline_82_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:3344
 translate zh_Hans wife_greg_storyline_83_8848ba49:
@@ -7060,7 +7060,7 @@ translate zh_Hans wife_greg_storyline_83_1b13c906:
 translate zh_Hans wife_greg_storyline_83_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:3451
 translate zh_Hans wife_greg_storyline_84_1a8d32ca:
@@ -7164,7 +7164,7 @@ translate zh_Hans wife_greg_storyline_84_60a7e33f:
 translate zh_Hans wife_greg_storyline_84_14635a7d:
 
     # nvlwife "Thanks ❤️"
-    nvlwife "Thanks ❤️|谢谢❤️"
+    nvlwife "谢谢❤️"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:3487
 translate zh_Hans wife_greg_storyline_84_68c12ef7:
@@ -7182,7 +7182,7 @@ translate zh_Hans wife_greg_storyline_84_a5e3526a:
 translate zh_Hans wife_greg_storyline_84_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:3524
 translate zh_Hans wife_greg_storyline_85_14467712:
@@ -7316,7 +7316,7 @@ translate zh_Hans wife_greg_storyline_85_94aaa757:
 translate zh_Hans wife_greg_storyline_85_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:3605
 translate zh_Hans wife_greg_storyline_86_df1bf00e:
@@ -7522,7 +7522,7 @@ translate zh_Hans wife_greg_storyline_86_398389f4:
 translate zh_Hans wife_greg_storyline_86_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:3704
 translate zh_Hans wife_greg_storyline_87_aabfcc33:
@@ -7764,7 +7764,7 @@ translate zh_Hans wife_greg_storyline_87_8eddd530:
 translate zh_Hans wife_greg_storyline_87_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:3813
 translate zh_Hans wife_greg_storyline_87_after_919a031b:
@@ -7914,7 +7914,7 @@ translate zh_Hans wife_greg_storyline_88_83752d07:
 translate zh_Hans wife_greg_storyline_88_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:3915
 translate zh_Hans wife_greg_storyline_88_after_a021779d:
@@ -8510,7 +8510,7 @@ translate zh_Hans wife_greg_storyline_89_2234ad6f:
 translate zh_Hans wife_greg_storyline_89_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:4161
 translate zh_Hans wife_greg_storyline_90_41fc8bca:
@@ -8782,7 +8782,7 @@ translate zh_Hans wife_greg_storyline_90_c4d85680:
 translate zh_Hans wife_greg_storyline_90_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:4296
 translate zh_Hans wife_greg_storyline_91_767d8495:
@@ -9048,7 +9048,7 @@ translate zh_Hans wife_greg_storyline_91_b0047479:
 translate zh_Hans wife_greg_storyline_91_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:4417
 translate zh_Hans wife_greg_storyline_92_ca7877fb:
@@ -9194,7 +9194,7 @@ translate zh_Hans wife_greg_storyline_92_040f6483:
 translate zh_Hans wife_greg_storyline_92_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:4506
 translate zh_Hans wife_greg_storyline_93_4c707c1b:
@@ -9424,7 +9424,7 @@ translate zh_Hans wife_greg_storyline_93_d8430c33:
 translate zh_Hans wife_greg_storyline_93_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:4636
 translate zh_Hans wife_greg_storyline_100_0488ef3b:
@@ -9654,7 +9654,7 @@ translate zh_Hans wife_greg_storyline_100_e29e6ce7:
 translate zh_Hans wife_greg_storyline_100_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:4745
 translate zh_Hans wife_greg_storyline_101_738538e6:
@@ -9830,7 +9830,7 @@ translate zh_Hans wife_greg_storyline_101_07adb0b0:
 translate zh_Hans wife_greg_storyline_101_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:4840
 translate zh_Hans wife_greg_storyline_102_a98a228e:
@@ -10144,7 +10144,7 @@ translate zh_Hans wife_greg_storyline_102_e202ca1a:
 translate zh_Hans wife_greg_storyline_102_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:4981
 translate zh_Hans wife_greg_storyline_103_738538e6:
@@ -10236,7 +10236,7 @@ translate zh_Hans wife_greg_storyline_103_b0e4b2a2:
 translate zh_Hans wife_greg_storyline_103_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:5044
 translate zh_Hans wife_greg_storyline_104_998933c8:
@@ -10472,7 +10472,7 @@ translate zh_Hans wife_greg_storyline_104_ffe939e7:
 translate zh_Hans wife_greg_storyline_104_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:5159
 translate zh_Hans wife_greg_storyline_105_3c132c0d:
@@ -10696,13 +10696,13 @@ translate zh_Hans wife_greg_storyline_105_51954adb:
 translate zh_Hans wife_greg_storyline_105_14635a7d:
 
     # nvlwife "Thanks ❤️"
-    nvlwife "Thanks ❤️|谢谢❤️"
+    nvlwife "谢谢❤️"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:5251
 translate zh_Hans wife_greg_storyline_105_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:5270
 translate zh_Hans wife_greg_storyline_106_17fcbdf0:
@@ -10914,13 +10914,13 @@ translate zh_Hans wife_greg_storyline_106_61f0e312:
 translate zh_Hans wife_greg_storyline_106_863ee80a:
 
     # nvlgreg "Thanks ❤️"
-    nvlgreg "Thanks ❤️|谢谢❤️"
+    nvlgreg "谢谢❤️"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:5356
 translate zh_Hans wife_greg_storyline_106_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:5375
 translate zh_Hans wife_greg_storyline_107_40677364:
@@ -11072,7 +11072,7 @@ translate zh_Hans wife_greg_storyline_107_396e09df:
 translate zh_Hans wife_greg_storyline_107_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:5464
 translate zh_Hans wife_greg_storyline_108_95192ed8:
@@ -11134,7 +11134,7 @@ translate zh_Hans wife_greg_storyline_108_ba7bed79:
 translate zh_Hans wife_greg_storyline_108_1a04de05:
 
     # nvlcanela "Everything’s great"
-    nvlcanela "Everything’s great|一切都棒极了。"
+    nvlcanela "一切都棒极了。"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:5486
 translate zh_Hans wife_greg_storyline_108_666742df:
@@ -11254,7 +11254,7 @@ translate zh_Hans wife_greg_storyline_108_8ef3cdbd:
 translate zh_Hans wife_greg_storyline_108_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:5557
 translate zh_Hans wife_greg_storyline_109_db645b62:
@@ -11334,7 +11334,7 @@ translate zh_Hans wife_greg_storyline_109_6e05a19d:
 translate zh_Hans wife_greg_storyline_109_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:5616
 translate zh_Hans wife_greg_storyline_110_380a2154:
@@ -11510,7 +11510,7 @@ translate zh_Hans wife_greg_storyline_110_a2782664:
 translate zh_Hans wife_greg_storyline_110_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:5711
 translate zh_Hans wife_greg_storyline_111_5602a6c4:
@@ -11662,7 +11662,7 @@ translate zh_Hans wife_greg_storyline_111_29cce304:
 translate zh_Hans wife_greg_storyline_111_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:5792
 translate zh_Hans wife_greg_storyline_112_e52e959a:
@@ -11778,7 +11778,7 @@ translate zh_Hans wife_greg_storyline_112_e379bada:
 translate zh_Hans wife_greg_storyline_112_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:5867
 translate zh_Hans wife_greg_storyline_113_e31db48d:
@@ -12128,7 +12128,7 @@ translate zh_Hans wife_greg_storyline_113_96d2de4b:
 translate zh_Hans wife_greg_storyline_113_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:6020
 translate zh_Hans wife_greg_storyline_114_93cc721b:
@@ -12280,7 +12280,7 @@ translate zh_Hans wife_greg_storyline_114_df56f4ab:
 translate zh_Hans wife_greg_storyline_114_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:6103
 translate zh_Hans wife_greg_storyline_115_8d3cf7a4:
@@ -12438,7 +12438,7 @@ translate zh_Hans wife_greg_storyline_115_9ef137e4:
 translate zh_Hans wife_greg_storyline_115_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:6186
 translate zh_Hans wife_greg_storyline_116_738538e6:
@@ -12572,7 +12572,7 @@ translate zh_Hans wife_greg_storyline_116_df56f4ab:
 translate zh_Hans wife_greg_storyline_116_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:6263
 translate zh_Hans wife_greg_storyline_117_95192ed8:
@@ -12700,7 +12700,7 @@ translate zh_Hans wife_greg_storyline_117_ae8e4c05:
 translate zh_Hans wife_greg_storyline_117_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:6338
 translate zh_Hans wife_greg_storyline_118_48e5eeb9:
@@ -12888,7 +12888,7 @@ translate zh_Hans wife_greg_storyline_118_6420fdb8:
 translate zh_Hans wife_greg_storyline_118_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:6439
 translate zh_Hans wife_greg_storyline_119_95192ed8:
@@ -12944,7 +12944,7 @@ translate zh_Hans wife_greg_storyline_119_905cd52b:
 translate zh_Hans wife_greg_storyline_119_ef767f11:
 
     # nvlsteven2 "What’s that?"
-    nvlsteven2 "What’s that?|什么事？"
+    nvlsteven2 "什么事？"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:6459
 translate zh_Hans wife_greg_storyline_119_38460b8f:
@@ -13076,7 +13076,7 @@ translate zh_Hans wife_greg_storyline_119_df56f4ab:
 translate zh_Hans wife_greg_storyline_119_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:6534
 translate zh_Hans wife_greg_storyline_120_0ac323c7:
@@ -13270,7 +13270,7 @@ translate zh_Hans wife_greg_storyline_120_7b906cd1:
 translate zh_Hans wife_greg_storyline_120_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:6631
 translate zh_Hans wife_greg_storyline_121_5604e0e0:
@@ -13410,7 +13410,7 @@ translate zh_Hans wife_greg_storyline_121_b9333208:
 translate zh_Hans wife_greg_storyline_121_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:6714
 translate zh_Hans wife_greg_storyline_122_82e76143:
@@ -13466,7 +13466,7 @@ translate zh_Hans wife_greg_storyline_122_0c387fc3:
 translate zh_Hans wife_greg_storyline_122_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:6765
 translate zh_Hans wife_greg_storyline_123_bb22d38a:
@@ -13534,7 +13534,7 @@ translate zh_Hans wife_greg_storyline_123_df56f4ab:
 translate zh_Hans wife_greg_storyline_123_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:6820
 translate zh_Hans wife_greg_storyline_124_5ccc69ce:
@@ -13686,7 +13686,7 @@ translate zh_Hans wife_greg_storyline_124_c6bfdeff:
 translate zh_Hans wife_greg_storyline_124_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:6903
 translate zh_Hans wife_greg_storyline_125_bf1a95a1:
@@ -13844,7 +13844,7 @@ translate zh_Hans wife_greg_storyline_125_80219f64:
 translate zh_Hans wife_greg_storyline_125_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:6992
 translate zh_Hans wife_greg_storyline_126_76b2fe88:
@@ -14024,7 +14024,7 @@ translate zh_Hans wife_greg_storyline_126_ddeecbc9:
 translate zh_Hans wife_greg_storyline_126_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:7085
 translate zh_Hans wife_greg_storyline_127_0e32bbdc:
@@ -14110,7 +14110,7 @@ translate zh_Hans wife_greg_storyline_127_69ead339:
 translate zh_Hans wife_greg_storyline_127_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:7148
 translate zh_Hans wife_greg_storyline_128_5db8a3bf:
@@ -14280,7 +14280,7 @@ translate zh_Hans wife_greg_storyline_128_95642a3c:
 translate zh_Hans wife_greg_storyline_128_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:7237
 translate zh_Hans wife_greg_storyline_129_95192ed8:
@@ -14390,7 +14390,7 @@ translate zh_Hans wife_greg_storyline_129_13649011:
 translate zh_Hans wife_greg_storyline_129_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:7306
 translate zh_Hans wife_greg_storyline_130_b6117c2a:
@@ -14488,7 +14488,7 @@ translate zh_Hans wife_greg_storyline_130_cd0ec74d:
 translate zh_Hans wife_greg_storyline_130_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:7371
 translate zh_Hans wife_greg_storyline_131_74034262:
@@ -14676,7 +14676,7 @@ translate zh_Hans wife_greg_storyline_131_6ffe2f32:
 translate zh_Hans wife_greg_storyline_131_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:7466
 translate zh_Hans wife_greg_storyline_132_b913ecdd:
@@ -14834,7 +14834,7 @@ translate zh_Hans wife_greg_storyline_132_8b86ed3b:
 translate zh_Hans wife_greg_storyline_132_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:7555
 translate zh_Hans wife_greg_storyline_133_a6291c2f:
@@ -14890,7 +14890,7 @@ translate zh_Hans wife_greg_storyline_133_80219f64:
 translate zh_Hans wife_greg_storyline_133_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:7606
 translate zh_Hans wife_greg_storyline_134_bcf462cb:
@@ -15078,7 +15078,7 @@ translate zh_Hans wife_greg_storyline_134_b14b0fef:
 translate zh_Hans wife_greg_storyline_134_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:7705
 translate zh_Hans wife_greg_storyline_135_d2424805:
@@ -15200,7 +15200,7 @@ translate zh_Hans wife_greg_storyline_135_f6e2fad7:
 translate zh_Hans wife_greg_storyline_135_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:7778
 translate zh_Hans wife_greg_storyline_136_95192ed8:
@@ -15298,7 +15298,7 @@ translate zh_Hans wife_greg_storyline_136_dd847a4b:
 translate zh_Hans wife_greg_storyline_136_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:7843
 translate zh_Hans wife_greg_storyline_137_459c3034:
@@ -15456,7 +15456,7 @@ translate zh_Hans wife_greg_storyline_137_82ba9fff:
 translate zh_Hans wife_greg_storyline_137_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wife/wife_greg_storyline.rpy:7932
 translate zh_Hans wife_greg_storyline_138_221bf794:
@@ -15674,5 +15674,5 @@ translate zh_Hans wife_greg_storyline_138_1020f7dc:
 translate zh_Hans wife_greg_storyline_138_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 

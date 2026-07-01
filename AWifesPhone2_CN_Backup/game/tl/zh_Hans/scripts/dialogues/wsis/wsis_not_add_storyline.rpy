@@ -228,7 +228,7 @@ translate zh_Hans wsis_not_add_storyline_20_536a1d75:
 translate zh_Hans wsis_not_add_storyline_20_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:166
 translate zh_Hans wsis_not_add_storyline_21_3f5eb2ad:
@@ -446,7 +446,7 @@ translate zh_Hans wsis_not_add_storyline_21_ffe939e7:
 translate zh_Hans wsis_not_add_storyline_21_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:269
 translate zh_Hans wsis_not_add_storyline_22_b56bde17:
@@ -844,7 +844,7 @@ translate zh_Hans wsis_not_add_storyline_22_5585654a:
 translate zh_Hans wsis_not_add_storyline_22_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:429
 translate zh_Hans wsis_not_add_storyline_22_after_8252a093:
@@ -1020,7 +1020,7 @@ translate zh_Hans wsis_not_add_storyline_23_65335c39:
 translate zh_Hans wsis_not_add_storyline_23_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:537
 translate zh_Hans wsis_not_add_storyline_24_59b80ff9:
@@ -1196,7 +1196,7 @@ translate zh_Hans wsis_not_add_storyline_24_dfdbc3f3:
 translate zh_Hans wsis_not_add_storyline_24_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:626
 translate zh_Hans wsis_not_add_storyline_25_d16181dc:
@@ -1360,7 +1360,7 @@ translate zh_Hans wsis_not_add_storyline_25_75d0f1eb:
 translate zh_Hans wsis_not_add_storyline_25_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:711
 translate zh_Hans wsis_not_add_storyline_26_5e34118c:
@@ -1710,7 +1710,7 @@ translate zh_Hans wsis_not_add_storyline_26_c53d67e8:
 translate zh_Hans wsis_not_add_storyline_26_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:878
 translate zh_Hans wsis_not_add_storyline_27_d9838c57:
@@ -2024,7 +2024,7 @@ translate zh_Hans wsis_not_add_storyline_27_d6485f95:
 translate zh_Hans wsis_not_add_storyline_27_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:1015
 translate zh_Hans wsis_not_add_storyline_28_14467712:
@@ -2284,7 +2284,7 @@ translate zh_Hans wsis_not_add_storyline_28_4cdc7732:
 translate zh_Hans wsis_not_add_storyline_28_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:1141
 translate zh_Hans wsis_not_add_storyline_28_after_a04ce5ad:
@@ -2326,7 +2326,7 @@ translate zh_Hans wsis_not_add_storyline_28_after_3aadb1a3:
 translate zh_Hans wsis_not_add_storyline_28_after_9c960196:
 
     # mc "{i}And now..."
-    mc "{i}And now...|{i}而现在……"
+    mc "{i}而现在……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:1155
 translate zh_Hans wsis_not_add_storyline_28_after_73285a69:
@@ -2646,13 +2646,13 @@ translate zh_Hans wsis_not_add_storyline_29_521c7406:
 translate zh_Hans wsis_not_add_storyline_29_78b82605:
 
     # nvlwsis "Thanks ❤️"
-    nvlwsis "Thanks ❤️|谢谢❤️"
+    nvlwsis "谢谢❤️"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:1296
 translate zh_Hans wsis_not_add_storyline_29_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:1315
 translate zh_Hans wsis_not_add_storyline_30_5bf964e5:
@@ -2780,7 +2780,7 @@ translate zh_Hans wsis_not_add_storyline_30_83752d07:
 translate zh_Hans wsis_not_add_storyline_30_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:1385
 translate zh_Hans wsis_not_add_storyline_30_after_7d4ece36:
@@ -2998,7 +2998,7 @@ translate zh_Hans wsis_not_add_storyline_31_487a4de6:
 translate zh_Hans wsis_not_add_storyline_31_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:1507
 translate zh_Hans wsis_not_add_storyline_32_5181b01d:
@@ -3186,7 +3186,7 @@ translate zh_Hans wsis_not_add_storyline_32_1178d43e:
 translate zh_Hans wsis_not_add_storyline_32_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:1614
 translate zh_Hans wsis_not_add_storyline_33_76b2fe88:
@@ -3204,7 +3204,7 @@ translate zh_Hans wsis_not_add_storyline_33_bb867535:
 translate zh_Hans wsis_not_add_storyline_33_bce652ca:
 
     # nvlwsis "Do you like it? 😊"
-    nvlwsis "Do you like it? 😊|你喜欢吗？😊"
+    nvlwsis "你喜欢吗？😊"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:1624
 translate zh_Hans wsis_not_add_storyline_33_43254ade:
@@ -3306,7 +3306,7 @@ translate zh_Hans wsis_not_add_storyline_33_611ab9f9:
 translate zh_Hans wsis_not_add_storyline_33_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:1687
 translate zh_Hans wsis_not_add_storyline_34_5acd27b9:
@@ -3560,7 +3560,7 @@ translate zh_Hans wsis_not_add_storyline_34_ab66338b:
 translate zh_Hans wsis_not_add_storyline_34_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:1802
 translate zh_Hans wsis_not_add_storyline_35_14467712:
@@ -3754,7 +3754,7 @@ translate zh_Hans wsis_not_add_storyline_35_fb0fa577:
 translate zh_Hans wsis_not_add_storyline_35_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:1906
 translate zh_Hans wsis_not_add_storyline_35_after_fbede2b9:
@@ -4200,7 +4200,7 @@ translate zh_Hans wsis_not_add_storyline_36_b34fd6b0:
 translate zh_Hans wsis_not_add_storyline_36_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:2120
 translate zh_Hans wsis_not_add_storyline_37_bd999a4c:
@@ -4328,7 +4328,7 @@ translate zh_Hans wsis_not_add_storyline_37_fe6a3631:
 translate zh_Hans wsis_not_add_storyline_37_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:2193
 translate zh_Hans wsis_not_add_storyline_38_b7cffe80:
@@ -4444,7 +4444,7 @@ translate zh_Hans wsis_not_add_storyline_38_4cdc7732_1:
 translate zh_Hans wsis_not_add_storyline_38_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:2274
 translate zh_Hans wsis_not_add_storyline_39_2e5a5ed4:
@@ -4812,7 +4812,7 @@ translate zh_Hans wsis_not_add_storyline_39_b6e4464a:
 translate zh_Hans wsis_not_add_storyline_39_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:2427
 translate zh_Hans wsis_not_add_storyline_40_9ff160e1:
@@ -5066,7 +5066,7 @@ translate zh_Hans wsis_not_add_storyline_40_f174f764:
 translate zh_Hans wsis_not_add_storyline_40_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:2539
 translate zh_Hans wsis_not_add_storyline_40_after_d4b99985:
@@ -5332,7 +5332,7 @@ translate zh_Hans wsis_not_add_storyline_41_7a29ba87:
 translate zh_Hans wsis_not_add_storyline_41_f011d87e:
 
     # nvlwsis "This is for you 😉"
-    nvlwsis "This is for you 😉|这是给你的 😉"
+    nvlwsis "这是给你的 😉"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:2650
 translate zh_Hans wsis_not_add_storyline_41_5183b6fa:
@@ -5374,7 +5374,7 @@ translate zh_Hans wsis_not_add_storyline_41_63c750c1:
 translate zh_Hans wsis_not_add_storyline_41_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:2695
 translate zh_Hans wsis_not_add_storyline_42_ff8fd4c8:
@@ -5670,7 +5670,7 @@ translate zh_Hans wsis_not_add_storyline_42_91ba5712:
 translate zh_Hans wsis_not_add_storyline_42_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:2832
 translate zh_Hans wsis_not_add_storyline_43_eacc36ae:
@@ -5864,7 +5864,7 @@ translate zh_Hans wsis_not_add_storyline_43_521c7406:
 translate zh_Hans wsis_not_add_storyline_43_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:2927
 translate zh_Hans wsis_not_add_storyline_44_3ed5ce52:
@@ -6016,7 +6016,7 @@ translate zh_Hans wsis_not_add_storyline_44_a7ee767a:
 translate zh_Hans wsis_not_add_storyline_44_78b82605:
 
     # nvlwsis "Thanks ❤️"
-    nvlwsis "Thanks ❤️|谢谢❤️"
+    nvlwsis "谢谢❤️"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:2979
 translate zh_Hans wsis_not_add_storyline_44_d8f88ed7:
@@ -6130,7 +6130,7 @@ translate zh_Hans wsis_not_add_storyline_44_52892467:
 translate zh_Hans wsis_not_add_storyline_44_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:3054
 translate zh_Hans wsis_not_add_storyline_45_1b2c4db4:
@@ -6378,7 +6378,7 @@ translate zh_Hans wsis_not_add_storyline_45_662bf1c3:
 translate zh_Hans wsis_not_add_storyline_45_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:3173
 translate zh_Hans wsis_not_add_storyline_46_9ff160e1:
@@ -6494,7 +6494,7 @@ translate zh_Hans wsis_not_add_storyline_46_521c7406:
 translate zh_Hans wsis_not_add_storyline_46_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:3239
 translate zh_Hans wsis_not_add_storyline_46_after_6e2c5983:
@@ -6814,7 +6814,7 @@ translate zh_Hans wsis_not_add_storyline_47_63c750c1:
 translate zh_Hans wsis_not_add_storyline_47_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:3403
 translate zh_Hans wsis_not_add_storyline_48_2622e6af:
@@ -7062,7 +7062,7 @@ translate zh_Hans wsis_not_add_storyline_48_83752d07:
 translate zh_Hans wsis_not_add_storyline_48_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:3516
 translate zh_Hans wsis_not_add_storyline_49_d9838c57:
@@ -7172,7 +7172,7 @@ translate zh_Hans wsis_not_add_storyline_49_521c7406:
 translate zh_Hans wsis_not_add_storyline_49_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:3580
 translate zh_Hans wsis_not_add_storyline_49_after_217f2959:
@@ -7372,7 +7372,7 @@ translate zh_Hans wsis_not_add_storyline_50_befcdee8:
 translate zh_Hans wsis_not_add_storyline_50_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:3694
 translate zh_Hans wsis_not_add_storyline_51_76b2fe88:
@@ -7642,7 +7642,7 @@ translate zh_Hans wsis_not_add_storyline_51_7aa34a5c:
 translate zh_Hans wsis_not_add_storyline_51_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:3825
 translate zh_Hans wsis_not_add_storyline_52_14467712:
@@ -7776,7 +7776,7 @@ translate zh_Hans wsis_not_add_storyline_52_83752d07:
 translate zh_Hans wsis_not_add_storyline_52_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:3912
 translate zh_Hans wsis_not_add_storyline_53_2db108ec:
@@ -7856,7 +7856,7 @@ translate zh_Hans wsis_not_add_storyline_53_7905486d:
 translate zh_Hans wsis_not_add_storyline_53_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:3969
 translate zh_Hans wsis_not_add_storyline_54_d6d71291:
@@ -8200,7 +8200,7 @@ translate zh_Hans wsis_not_add_storyline_54_4c844064:
 translate zh_Hans wsis_not_add_storyline_54_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:4116
 translate zh_Hans wsis_not_add_storyline_55_b7bd62e4:
@@ -8346,7 +8346,7 @@ translate zh_Hans wsis_not_add_storyline_55_1591aa79:
 translate zh_Hans wsis_not_add_storyline_55_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:4200
 translate zh_Hans wsis_not_add_storyline_55_after_a04ce5ad:
@@ -8756,7 +8756,7 @@ translate zh_Hans wsis_not_add_storyline_56_0cb54af3:
 translate zh_Hans wsis_not_add_storyline_56_e80a3a7b:
 
     # nvlwsis "I see 😊"
-    nvlwsis "I see 😊|我明白了😊"
+    nvlwsis "我明白了😊"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:4367
 translate zh_Hans wsis_not_add_storyline_56_0b8f9c39:
@@ -8858,7 +8858,7 @@ translate zh_Hans wsis_not_add_storyline_56_7aa34a5c:
 translate zh_Hans wsis_not_add_storyline_56_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:4434
 translate zh_Hans wsis_not_add_storyline_57_c6be2355:
@@ -9136,13 +9136,13 @@ translate zh_Hans wsis_not_add_storyline_57_871a7f0c:
 translate zh_Hans wsis_not_add_storyline_57_4cdedef9:
 
     # nvljenna "I promise 😉"
-    nvljenna "I promise 😉|我保证 😉"
+    nvljenna "我保证 😉"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:4550
 translate zh_Hans wsis_not_add_storyline_57_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:4570
 translate zh_Hans wsis_not_add_storyline_58_0da02b33:
@@ -9372,7 +9372,7 @@ translate zh_Hans wsis_not_add_storyline_58_38de225c:
 translate zh_Hans wsis_not_add_storyline_58_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:4683
 translate zh_Hans wsis_not_add_storyline_59_668b633b:
@@ -9380,7 +9380,7 @@ translate zh_Hans wsis_not_add_storyline_59_668b633b:
     # nvl clear
     # nvlwsis "😏"
     nvl clear
-    nvlwsis ""
+    nvlwsis "😏"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:4687
 translate zh_Hans wsis_not_add_storyline_59_a6615dfb:
@@ -9632,7 +9632,7 @@ translate zh_Hans wsis_not_add_storyline_59_80d51d25:
 translate zh_Hans wsis_not_add_storyline_59_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:4802
 translate zh_Hans wsis_not_add_storyline_60_7b0e3a67:
@@ -9958,7 +9958,7 @@ translate zh_Hans wsis_not_add_storyline_60_659145ff:
 translate zh_Hans wsis_not_add_storyline_60_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:4943
 translate zh_Hans wsis_not_add_storyline_61_13b4ab57:
@@ -10152,7 +10152,7 @@ translate zh_Hans wsis_not_add_storyline_61_63c750c1:
 translate zh_Hans wsis_not_add_storyline_61_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:5044
 translate zh_Hans wsis_not_add_storyline_62_e8f87361:
@@ -10370,7 +10370,7 @@ translate zh_Hans wsis_not_add_storyline_62_6b839d4b:
 translate zh_Hans wsis_not_add_storyline_62_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:5149
 translate zh_Hans wsis_not_add_storyline_63_3df75193:
@@ -10636,7 +10636,7 @@ translate zh_Hans wsis_not_add_storyline_63_43141f5d:
 translate zh_Hans wsis_not_add_storyline_63_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:5270
 translate zh_Hans wsis_not_add_storyline_64_7eb0aff3:
@@ -10866,7 +10866,7 @@ translate zh_Hans wsis_not_add_storyline_64_2d887003:
 translate zh_Hans wsis_not_add_storyline_64_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:5383
 translate zh_Hans wsis_not_add_storyline_65_45c74411:
@@ -11096,7 +11096,7 @@ translate zh_Hans wsis_not_add_storyline_65_5db326ae:
 translate zh_Hans wsis_not_add_storyline_65_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:5493
 translate zh_Hans wsis_not_add_storyline_65_after_d0aef450:
@@ -11458,7 +11458,7 @@ translate zh_Hans wsis_not_add_storyline_66_73017bc1:
 translate zh_Hans wsis_not_add_storyline_66_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:5663
 translate zh_Hans wsis_not_add_storyline_67_2772919f:
@@ -11724,7 +11724,7 @@ translate zh_Hans wsis_not_add_storyline_67_385f32b3:
 translate zh_Hans wsis_not_add_storyline_67_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:5784
 translate zh_Hans wsis_not_add_storyline_68_9da2bd47:
@@ -11942,7 +11942,7 @@ translate zh_Hans wsis_not_add_storyline_68_95a1dbc2:
 translate zh_Hans wsis_not_add_storyline_68_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:5889
 translate zh_Hans wsis_not_add_storyline_69_bd999a4c:
@@ -12118,7 +12118,7 @@ translate zh_Hans wsis_not_add_storyline_69_5123c766:
 translate zh_Hans wsis_not_add_storyline_69_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:5977
 translate zh_Hans wsis_not_add_storyline_69_after_4ad868b1:
@@ -12408,7 +12408,7 @@ translate zh_Hans wsis_not_add_storyline_70_b470e577:
 translate zh_Hans wsis_not_add_storyline_70_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:6123
 translate zh_Hans wsis_not_add_storyline_71_d16f7c1d:
@@ -12668,7 +12668,7 @@ translate zh_Hans wsis_not_add_storyline_71_965a13d8:
 translate zh_Hans wsis_not_add_storyline_71_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:6242
 translate zh_Hans wsis_not_add_storyline_72_1577f27c:
@@ -12910,7 +12910,7 @@ translate zh_Hans wsis_not_add_storyline_72_4baccc50:
 translate zh_Hans wsis_not_add_storyline_72_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:6355
 translate zh_Hans wsis_not_add_storyline_73_1b278f7f:
@@ -13128,7 +13128,7 @@ translate zh_Hans wsis_not_add_storyline_73_f34d1d39:
 translate zh_Hans wsis_not_add_storyline_73_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:6460
 translate zh_Hans wsis_not_add_storyline_74_b4e64650:
@@ -13280,7 +13280,7 @@ translate zh_Hans wsis_not_add_storyline_74_06096292:
 translate zh_Hans wsis_not_add_storyline_74_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:6536
 translate zh_Hans wsis_not_add_storyline_74_after_790bd9af:
@@ -13534,7 +13534,7 @@ translate zh_Hans wsis_not_add_storyline_75_22bad8ba:
 translate zh_Hans wsis_not_add_storyline_75_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:6670
 translate zh_Hans wsis_not_add_storyline_76_3d0db975:
@@ -13698,7 +13698,7 @@ translate zh_Hans wsis_not_add_storyline_76_4818e5e1:
 translate zh_Hans wsis_not_add_storyline_76_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:6767
 translate zh_Hans wsis_not_add_storyline_77_36493a23:
@@ -13832,7 +13832,7 @@ translate zh_Hans wsis_not_add_storyline_77_cc5fc41f:
 translate zh_Hans wsis_not_add_storyline_77_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:6844
 translate zh_Hans wsis_not_add_storyline_78_7c7a0ec0:
@@ -14020,7 +14020,7 @@ translate zh_Hans wsis_not_add_storyline_78_eb548a50:
 translate zh_Hans wsis_not_add_storyline_78_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:6939
 translate zh_Hans wsis_not_add_storyline_79_9442c812:
@@ -14166,7 +14166,7 @@ translate zh_Hans wsis_not_add_storyline_79_bb9a868d:
 translate zh_Hans wsis_not_add_storyline_79_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:7024
 translate zh_Hans wsis_not_add_storyline_108_a2a2dbec:
@@ -14324,7 +14324,7 @@ translate zh_Hans wsis_not_add_storyline_108_8e8c634e:
 translate zh_Hans wsis_not_add_storyline_108_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:7109
 translate zh_Hans wsis_not_add_storyline_80_0f73892e:
@@ -14464,7 +14464,7 @@ translate zh_Hans wsis_not_add_storyline_80_a2ec9829:
 translate zh_Hans wsis_not_add_storyline_80_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:7188
 translate zh_Hans wsis_not_add_storyline_81_ad49d8ac:
@@ -14574,13 +14574,13 @@ translate zh_Hans wsis_not_add_storyline_81_3e95a1cc:
 translate zh_Hans wsis_not_add_storyline_81_78b82605:
 
     # nvlwsis "Thanks ❤️"
-    nvlwsis "Thanks ❤️|谢谢❤️"
+    nvlwsis "谢谢❤️"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:7244
 translate zh_Hans wsis_not_add_storyline_81_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:7263
 translate zh_Hans wsis_not_add_storyline_82_1ec54dca:
@@ -14726,7 +14726,7 @@ translate zh_Hans wsis_not_add_storyline_82_a57c3a40:
 translate zh_Hans wsis_not_add_storyline_82_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:7346
 translate zh_Hans wsis_not_add_storyline_83_5fccbe41:
@@ -14812,7 +14812,7 @@ translate zh_Hans wsis_not_add_storyline_83_f9380b57:
 translate zh_Hans wsis_not_add_storyline_83_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:7407
 translate zh_Hans wsis_not_add_storyline_84_11cee15c:
@@ -14946,7 +14946,7 @@ translate zh_Hans wsis_not_add_storyline_84_c4d73557:
 translate zh_Hans wsis_not_add_storyline_84_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:7488
 translate zh_Hans wsis_not_add_storyline_85_17be61c0:
@@ -15068,7 +15068,7 @@ translate zh_Hans wsis_not_add_storyline_85_9d7ac86f:
 translate zh_Hans wsis_not_add_storyline_85_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:7563
 translate zh_Hans wsis_not_add_storyline_86_2e6eb1da:
@@ -15148,7 +15148,7 @@ translate zh_Hans wsis_not_add_storyline_86_df5ac09e:
 translate zh_Hans wsis_not_add_storyline_86_1b609e4b:
 
     # nvlwsis "😮"
-    nvlwsis ""
+    nvlwsis "😮"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:7591
 translate zh_Hans wsis_not_add_storyline_86_748bbcd5:
@@ -15214,7 +15214,7 @@ translate zh_Hans wsis_not_add_storyline_86_c60d03eb:
 translate zh_Hans wsis_not_add_storyline_86_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:7644
 translate zh_Hans wsis_not_add_storyline_87_75ad98fe:
@@ -15276,7 +15276,7 @@ translate zh_Hans wsis_not_add_storyline_87_ad2bf7bf:
 translate zh_Hans wsis_not_add_storyline_87_a28f344e:
 
     # nvljohn "😂😂😂"
-    nvljohn ""
+    nvljohn "😂😂😂"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:7666
 translate zh_Hans wsis_not_add_storyline_87_0cba8ad6:
@@ -15420,7 +15420,7 @@ translate zh_Hans wsis_not_add_storyline_87_578fd750:
 translate zh_Hans wsis_not_add_storyline_87_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:7745
 translate zh_Hans wsis_not_add_storyline_88_a31da0bb:
@@ -15548,7 +15548,7 @@ translate zh_Hans wsis_not_add_storyline_88_209a86d5:
 translate zh_Hans wsis_not_add_storyline_88_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:7824
 translate zh_Hans wsis_not_add_storyline_89_c90753a1:
@@ -15766,7 +15766,7 @@ translate zh_Hans wsis_not_add_storyline_89_e8ffa88f:
 translate zh_Hans wsis_not_add_storyline_89_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:7929
 translate zh_Hans wsis_not_add_storyline_90_bd999a4c:
@@ -15930,7 +15930,7 @@ translate zh_Hans wsis_not_add_storyline_90_33af8a96:
 translate zh_Hans wsis_not_add_storyline_90_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:8016
 translate zh_Hans wsis_not_add_storyline_91_a0845b7a:
@@ -16022,7 +16022,7 @@ translate zh_Hans wsis_not_add_storyline_91_0d78d24e:
 translate zh_Hans wsis_not_add_storyline_91_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:8079
 translate zh_Hans wsis_not_add_storyline_92_29381969:
@@ -16198,7 +16198,7 @@ translate zh_Hans wsis_not_add_storyline_92_659145ff:
 translate zh_Hans wsis_not_add_storyline_92_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:8163
 translate zh_Hans wsis_not_add_storyline_92_after_f0ff41b9:
@@ -16374,7 +16374,7 @@ translate zh_Hans wsis_not_add_storyline_93_9dd95732:
 translate zh_Hans wsis_not_add_storyline_93_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:8275
 translate zh_Hans wsis_not_add_storyline_94_8e73c35e:
@@ -16508,7 +16508,7 @@ translate zh_Hans wsis_not_add_storyline_94_2ed1ef4b:
 translate zh_Hans wsis_not_add_storyline_94_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:8349
 translate zh_Hans wsis_not_add_storyline_94_after_52e3cd67:
@@ -16654,7 +16654,7 @@ translate zh_Hans wsis_not_add_storyline_95_115c5337:
 translate zh_Hans wsis_not_add_storyline_95_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:8447
 translate zh_Hans wsis_not_add_storyline_96_349d8fc8:
@@ -16728,7 +16728,7 @@ translate zh_Hans wsis_not_add_storyline_96_5ee8ef9f:
 translate zh_Hans wsis_not_add_storyline_96_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:8504
 translate zh_Hans wsis_not_add_storyline_97_8bda4d8b:
@@ -16826,7 +16826,7 @@ translate zh_Hans wsis_not_add_storyline_97_276e3f39:
 translate zh_Hans wsis_not_add_storyline_97_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:8562
 translate zh_Hans wsis_not_add_storyline_97_after_c6671b09:
@@ -16978,7 +16978,7 @@ translate zh_Hans wsis_not_add_storyline_98_d134ed07:
 translate zh_Hans wsis_not_add_storyline_98_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:8662
 translate zh_Hans wsis_not_add_storyline_99_2772919f:
@@ -17094,7 +17094,7 @@ translate zh_Hans wsis_not_add_storyline_99_c2338b61:
 translate zh_Hans wsis_not_add_storyline_99_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:8737
 translate zh_Hans wsis_not_add_storyline_100_ea405d96:
@@ -17186,7 +17186,7 @@ translate zh_Hans wsis_not_add_storyline_100_44a7283a:
 translate zh_Hans wsis_not_add_storyline_100_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:8800
 translate zh_Hans wsis_not_add_storyline_101_36493a23:
@@ -17272,7 +17272,7 @@ translate zh_Hans wsis_not_add_storyline_101_83243870:
 translate zh_Hans wsis_not_add_storyline_101_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:8861
 translate zh_Hans wsis_not_add_storyline_102_bd999a4c:
@@ -17382,7 +17382,7 @@ translate zh_Hans wsis_not_add_storyline_102_5115f79f:
 translate zh_Hans wsis_not_add_storyline_102_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:8942
 translate zh_Hans wsis_not_add_storyline_103_72b98bfe:
@@ -17534,7 +17534,7 @@ translate zh_Hans wsis_not_add_storyline_103_44b81bbe:
 translate zh_Hans wsis_not_add_storyline_103_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:9025
 translate zh_Hans wsis_not_add_storyline_104_b7a29f27:
@@ -17596,7 +17596,7 @@ translate zh_Hans wsis_not_add_storyline_104_e52fd121:
 translate zh_Hans wsis_not_add_storyline_104_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:9078
 translate zh_Hans wsis_not_add_storyline_105_b8fdd5a7:
@@ -17730,7 +17730,7 @@ translate zh_Hans wsis_not_add_storyline_105_8d4257c4:
 translate zh_Hans wsis_not_add_storyline_105_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:9148
 translate zh_Hans wsis_not_add_storyline_105_after_7938fe6e:
@@ -17870,7 +17870,7 @@ translate zh_Hans wsis_not_add_storyline_106_45f0dd14:
 translate zh_Hans wsis_not_add_storyline_106_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:9244
 translate zh_Hans wsis_not_add_storyline_107_a996746c:
@@ -17986,5 +17986,5 @@ translate zh_Hans wsis_not_add_storyline_107_3f69d9f3:
 translate zh_Hans wsis_not_add_storyline_107_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 

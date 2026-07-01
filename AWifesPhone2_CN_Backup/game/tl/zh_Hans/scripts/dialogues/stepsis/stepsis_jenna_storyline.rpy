@@ -378,7 +378,7 @@ translate zh_Hans stepsis_jenna_storyline_0_74bf71be:
 translate zh_Hans stepsis_jenna_storyline_0_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:225
 translate zh_Hans stepsis_jenna_storyline_1_79650b4d:
@@ -764,7 +764,7 @@ translate zh_Hans stepsis_jenna_storyline_1_6d58eae9:
 translate zh_Hans stepsis_jenna_storyline_1_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:384
 translate zh_Hans stepsis_jenna_storyline_2_255464a3:
@@ -976,7 +976,7 @@ translate zh_Hans stepsis_jenna_storyline_2_ebab496b:
 translate zh_Hans stepsis_jenna_storyline_2_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:485
 translate zh_Hans stepsis_jenna_storyline_3_96c0c4e9:
@@ -1236,7 +1236,7 @@ translate zh_Hans stepsis_jenna_storyline_3_b5f827e5:
 translate zh_Hans stepsis_jenna_storyline_3_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:602
 translate zh_Hans stepsis_jenna_storyline_4_e6060576:
@@ -1448,7 +1448,7 @@ translate zh_Hans stepsis_jenna_storyline_4_926db912:
 translate zh_Hans stepsis_jenna_storyline_4_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:711
 translate zh_Hans stepsis_jenna_storyline_5_8c648268:
@@ -1774,7 +1774,7 @@ translate zh_Hans stepsis_jenna_storyline_5_8f506e0b:
 translate zh_Hans stepsis_jenna_storyline_5_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:850
 translate zh_Hans stepsis_jenna_storyline_6_255464a3:
@@ -2076,7 +2076,7 @@ translate zh_Hans stepsis_jenna_storyline_6_655e74d8:
 translate zh_Hans stepsis_jenna_storyline_6_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:985
 translate zh_Hans stepsis_jenna_storyline_7_e87f4c12:
@@ -2396,7 +2396,7 @@ translate zh_Hans stepsis_jenna_storyline_7_02b527c8:
 translate zh_Hans stepsis_jenna_storyline_7_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:1122
 translate zh_Hans stepsis_jenna_storyline_8_f6edca17:
@@ -2710,7 +2710,7 @@ translate zh_Hans stepsis_jenna_storyline_8_0b006524:
 translate zh_Hans stepsis_jenna_storyline_8_d76b5685:
 
     # nvljenna "I see 😊"
-    nvljenna "I see 😊|我明白了😊"
+    nvljenna "我明白了😊"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:1232
 translate zh_Hans stepsis_jenna_storyline_8_3431b9a6:
@@ -2788,7 +2788,7 @@ translate zh_Hans stepsis_jenna_storyline_8_b08d4a5c:
 translate zh_Hans stepsis_jenna_storyline_8_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:1287
 translate zh_Hans stepsis_jenna_storyline_9_135a4e31:
@@ -3156,7 +3156,7 @@ translate zh_Hans stepsis_jenna_storyline_9_033950ba:
 translate zh_Hans stepsis_jenna_storyline_9_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:1440
 translate zh_Hans stepsis_jenna_storyline_10_b8548b67:
@@ -3482,7 +3482,7 @@ translate zh_Hans stepsis_jenna_storyline_10_a8e896c3:
 translate zh_Hans stepsis_jenna_storyline_10_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:1591
 translate zh_Hans stepsis_jenna_storyline_11_4107ef03:
@@ -3628,7 +3628,7 @@ translate zh_Hans stepsis_jenna_storyline_11_29286069:
 translate zh_Hans stepsis_jenna_storyline_11_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:1674
 translate zh_Hans stepsis_jenna_storyline_12_20160a2f:
@@ -3744,7 +3744,7 @@ translate zh_Hans stepsis_jenna_storyline_12_9b0183a2:
 translate zh_Hans stepsis_jenna_storyline_12_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:1749
 translate zh_Hans stepsis_jenna_storyline_13_6cb2a535:
@@ -3968,7 +3968,7 @@ translate zh_Hans stepsis_jenna_storyline_13_f9ef3b22:
 translate zh_Hans stepsis_jenna_storyline_13_8159aa73:
 
     # nvlstepsis "I see 😊"
-    nvlstepsis "I see 😊|我明白了😊"
+    nvlstepsis "我明白了😊"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:1833
 translate zh_Hans stepsis_jenna_storyline_13_fcb05d86:
@@ -4082,7 +4082,7 @@ translate zh_Hans stepsis_jenna_storyline_13_e8b8ec01:
 translate zh_Hans stepsis_jenna_storyline_13_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:1908
 translate zh_Hans stepsis_jenna_storyline_14_8c648268:
@@ -4528,7 +4528,7 @@ translate zh_Hans stepsis_jenna_storyline_14_42885c7e:
 translate zh_Hans stepsis_jenna_storyline_14_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:2099
 translate zh_Hans stepsis_jenna_storyline_15_135a4e31:
@@ -4758,7 +4758,7 @@ translate zh_Hans stepsis_jenna_storyline_15_5f2f5da2:
 translate zh_Hans stepsis_jenna_storyline_15_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:2214
 translate zh_Hans stepsis_jenna_storyline_16_6748b913:
@@ -4850,7 +4850,7 @@ translate zh_Hans stepsis_jenna_storyline_16_d81677c1:
 translate zh_Hans stepsis_jenna_storyline_16_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:2282
 translate zh_Hans stepsis_jenna_storyline_17_48d377cd:
@@ -5080,7 +5080,7 @@ translate zh_Hans stepsis_jenna_storyline_17_32e44f56:
 translate zh_Hans stepsis_jenna_storyline_17_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:2402
 translate zh_Hans stepsis_jenna_storyline_18_67ef019e:
@@ -5118,7 +5118,7 @@ translate zh_Hans stepsis_jenna_storyline_18_8f5a9ffe:
 translate zh_Hans stepsis_jenna_storyline_18_d76b5685:
 
     # nvljenna "I see 😊"
-    nvljenna "I see 😊|我明白了😊"
+    nvljenna "我明白了😊"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:2416
 translate zh_Hans stepsis_jenna_storyline_18_96d12b94:
@@ -5256,7 +5256,7 @@ translate zh_Hans stepsis_jenna_storyline_18_6c5de749:
 translate zh_Hans stepsis_jenna_storyline_18_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:2492
 translate zh_Hans stepsis_jenna_storyline_19_dabfec47:
@@ -5558,7 +5558,7 @@ translate zh_Hans stepsis_jenna_storyline_19_655e74d8:
 translate zh_Hans stepsis_jenna_storyline_19_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:2631
 translate zh_Hans stepsis_jenna_storyline_20_ca381abb:
@@ -5740,7 +5740,7 @@ translate zh_Hans stepsis_jenna_storyline_20_2854d05f:
 translate zh_Hans stepsis_jenna_storyline_20_f04a5a47:
 
     # nvlwife "Hahahaah"
-    nvlwife ""
+    nvlwife "Hahahaah"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:2697
 translate zh_Hans stepsis_jenna_storyline_20_847347e0:
@@ -5830,7 +5830,7 @@ translate zh_Hans stepsis_jenna_storyline_20_4ceb3c25:
 translate zh_Hans stepsis_jenna_storyline_20_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:2757
 translate zh_Hans stepsis_jenna_storyline_21_ee2f6266:
@@ -6234,7 +6234,7 @@ translate zh_Hans stepsis_jenna_storyline_21_167e596c:
 translate zh_Hans stepsis_jenna_storyline_21_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:2927
 translate zh_Hans stepsis_jenna_storyline_22_9ef59598:
@@ -6452,7 +6452,7 @@ translate zh_Hans stepsis_jenna_storyline_22_a465fdcb:
 translate zh_Hans stepsis_jenna_storyline_22_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:3030
 translate zh_Hans stepsis_jenna_storyline_23_0c847999:
@@ -6604,7 +6604,7 @@ translate zh_Hans stepsis_jenna_storyline_23_2a976427:
 translate zh_Hans stepsis_jenna_storyline_23_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:3111
 translate zh_Hans stepsis_jenna_storyline_24_a246d001:
@@ -6720,7 +6720,7 @@ translate zh_Hans stepsis_jenna_storyline_24_055cb61b:
 translate zh_Hans stepsis_jenna_storyline_24_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:3188
 translate zh_Hans stepsis_jenna_storyline_25_227648ae:
@@ -6836,7 +6836,7 @@ translate zh_Hans stepsis_jenna_storyline_25_50e625f3:
 translate zh_Hans stepsis_jenna_storyline_25_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:3269
 translate zh_Hans stepsis_jenna_storyline_26_78c4f29a:
@@ -6940,7 +6940,7 @@ translate zh_Hans stepsis_jenna_storyline_26_e8086e2f:
 translate zh_Hans stepsis_jenna_storyline_26_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:3334
 translate zh_Hans stepsis_jenna_storyline_27_3236d8b7:
@@ -7032,7 +7032,7 @@ translate zh_Hans stepsis_jenna_storyline_27_07973d05:
 translate zh_Hans stepsis_jenna_storyline_27_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:3395
 translate zh_Hans stepsis_jenna_storyline_28_1f012395:
@@ -7148,7 +7148,7 @@ translate zh_Hans stepsis_jenna_storyline_28_ed6774ce:
 translate zh_Hans stepsis_jenna_storyline_28_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:3464
 translate zh_Hans stepsis_jenna_storyline_29_b9c90a51:
@@ -7324,7 +7324,7 @@ translate zh_Hans stepsis_jenna_storyline_29_b78f4299:
 translate zh_Hans stepsis_jenna_storyline_29_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:3579
 translate zh_Hans stepsis_jenna_storyline_30_7f7ac1aa:
@@ -7410,7 +7410,7 @@ translate zh_Hans stepsis_jenna_storyline_30_50b76b9b:
 translate zh_Hans stepsis_jenna_storyline_30_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:3640
 translate zh_Hans stepsis_jenna_storyline_31_f08d32a9:
@@ -7466,7 +7466,7 @@ translate zh_Hans stepsis_jenna_storyline_31_e18be22a:
 translate zh_Hans stepsis_jenna_storyline_31_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:3689
 translate zh_Hans stepsis_jenna_storyline_32_d6f281c6:
@@ -7588,7 +7588,7 @@ translate zh_Hans stepsis_jenna_storyline_32_a51a03b4:
 translate zh_Hans stepsis_jenna_storyline_32_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:3764
 translate zh_Hans stepsis_jenna_storyline_33_76b2fe88:
@@ -7684,7 +7684,7 @@ translate zh_Hans stepsis_jenna_storyline_33_a76db2f0:
 translate zh_Hans stepsis_jenna_storyline_33_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:3829
 translate zh_Hans stepsis_jenna_storyline_34_37a0fee0:
@@ -7758,7 +7758,7 @@ translate zh_Hans stepsis_jenna_storyline_34_fc2f286a:
 translate zh_Hans stepsis_jenna_storyline_34_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:3884
 translate zh_Hans stepsis_jenna_storyline_35_c5fa36c9:
@@ -7832,7 +7832,7 @@ translate zh_Hans stepsis_jenna_storyline_35_2ff434ea:
 translate zh_Hans stepsis_jenna_storyline_35_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:3939
 translate zh_Hans stepsis_jenna_storyline_36_a246d001:
@@ -7912,7 +7912,7 @@ translate zh_Hans stepsis_jenna_storyline_36_688523df:
 translate zh_Hans stepsis_jenna_storyline_36_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:3996
 translate zh_Hans stepsis_jenna_storyline_37_b1cc75c6:
@@ -8004,7 +8004,7 @@ translate zh_Hans stepsis_jenna_storyline_37_71570926:
 translate zh_Hans stepsis_jenna_storyline_37_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:4061
 translate zh_Hans stepsis_jenna_storyline_38_85a7788a:
@@ -8114,7 +8114,7 @@ translate zh_Hans stepsis_jenna_storyline_38_b13b7540:
 translate zh_Hans stepsis_jenna_storyline_38_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:4134
 translate zh_Hans stepsis_jenna_storyline_39_d6605f19:
@@ -8206,7 +8206,7 @@ translate zh_Hans stepsis_jenna_storyline_39_cbdbed6a:
 translate zh_Hans stepsis_jenna_storyline_39_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:4197
 translate zh_Hans stepsis_jenna_storyline_40_6af2bc88:
@@ -8292,7 +8292,7 @@ translate zh_Hans stepsis_jenna_storyline_40_b54e8859:
 translate zh_Hans stepsis_jenna_storyline_40_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:4256
 translate zh_Hans stepsis_jenna_storyline_41_8aee544d:
@@ -8372,7 +8372,7 @@ translate zh_Hans stepsis_jenna_storyline_41_891e642b:
 translate zh_Hans stepsis_jenna_storyline_41_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:4313
 translate zh_Hans stepsis_jenna_storyline_42_156d4569:
@@ -8518,7 +8518,7 @@ translate zh_Hans stepsis_jenna_storyline_42_dc22d77c:
 translate zh_Hans stepsis_jenna_storyline_42_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:4392
 translate zh_Hans stepsis_jenna_storyline_43_30685498:
@@ -8592,7 +8592,7 @@ translate zh_Hans stepsis_jenna_storyline_43_385a4dc4:
 translate zh_Hans stepsis_jenna_storyline_43_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:4447
 translate zh_Hans stepsis_jenna_storyline_44_70a80f06:
@@ -8630,7 +8630,7 @@ translate zh_Hans stepsis_jenna_storyline_44_f358b6d9:
 translate zh_Hans stepsis_jenna_storyline_44_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:4490
 translate zh_Hans stepsis_jenna_storyline_45_8f84a95e:
@@ -8704,7 +8704,7 @@ translate zh_Hans stepsis_jenna_storyline_45_f7f8bdce:
 translate zh_Hans stepsis_jenna_storyline_45_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:4545
 translate zh_Hans stepsis_jenna_storyline_46_7cc944fe:
@@ -8814,7 +8814,7 @@ translate zh_Hans stepsis_jenna_storyline_46_32b7223d:
 translate zh_Hans stepsis_jenna_storyline_46_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:4616
 translate zh_Hans stepsis_jenna_storyline_47_124df5b3:
@@ -8906,7 +8906,7 @@ translate zh_Hans stepsis_jenna_storyline_47_eb13a990:
 translate zh_Hans stepsis_jenna_storyline_47_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:4681
 translate zh_Hans stepsis_jenna_storyline_48_48efb6d8:
@@ -9106,7 +9106,7 @@ translate zh_Hans stepsis_jenna_storyline_48_8be310d6:
 translate zh_Hans stepsis_jenna_storyline_48_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:4779
 translate zh_Hans stepsis_jenna_storyline_49_c4e5fd65:
@@ -9114,7 +9114,7 @@ translate zh_Hans stepsis_jenna_storyline_49_c4e5fd65:
     # nvl clear
     # nvlstepsis "👀"
     nvl clear
-    nvlstepsis ""
+    nvlstepsis "👀"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:4783
 translate zh_Hans stepsis_jenna_storyline_49_c3f3249e:
@@ -9252,7 +9252,7 @@ translate zh_Hans stepsis_jenna_storyline_49_8f1f2a49:
 translate zh_Hans stepsis_jenna_storyline_49_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:4866
 translate zh_Hans stepsis_jenna_storyline_50_a4d04f5a:
@@ -9380,7 +9380,7 @@ translate zh_Hans stepsis_jenna_storyline_50_8be310d6:
 translate zh_Hans stepsis_jenna_storyline_50_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:4939
 translate zh_Hans stepsis_jenna_storyline_51_e6b1e1ac:
@@ -9574,7 +9574,7 @@ translate zh_Hans stepsis_jenna_storyline_51_624bd291:
 translate zh_Hans stepsis_jenna_storyline_51_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:5034
 translate zh_Hans stepsis_jenna_storyline_52_8a68d43c:
@@ -9624,7 +9624,7 @@ translate zh_Hans stepsis_jenna_storyline_52_f1e8e7f0:
 translate zh_Hans stepsis_jenna_storyline_52_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:5081
 translate zh_Hans stepsis_jenna_storyline_53_14f5a745:
@@ -9926,7 +9926,7 @@ translate zh_Hans stepsis_jenna_storyline_53_884d9403:
 translate zh_Hans stepsis_jenna_storyline_53_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:5216
 translate zh_Hans stepsis_jenna_storyline_54_86b6de41:
@@ -10102,7 +10102,7 @@ translate zh_Hans stepsis_jenna_storyline_54_f9d2bfe3:
 translate zh_Hans stepsis_jenna_storyline_54_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:5307
 translate zh_Hans stepsis_jenna_storyline_55_65d14e92:
@@ -10266,7 +10266,7 @@ translate zh_Hans stepsis_jenna_storyline_55_8f916ee3:
 translate zh_Hans stepsis_jenna_storyline_55_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:5392
 translate zh_Hans stepsis_jenna_storyline_56_5c956763:
@@ -10424,7 +10424,7 @@ translate zh_Hans stepsis_jenna_storyline_56_ff5302d8:
 translate zh_Hans stepsis_jenna_storyline_56_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:5475
 translate zh_Hans stepsis_jenna_storyline_57_1a37db85:
@@ -10480,7 +10480,7 @@ translate zh_Hans stepsis_jenna_storyline_57_8a63338f:
 translate zh_Hans stepsis_jenna_storyline_57_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:5524
 translate zh_Hans stepsis_jenna_storyline_58_1ac93618:
@@ -10626,7 +10626,7 @@ translate zh_Hans stepsis_jenna_storyline_58_1d8a914f:
 translate zh_Hans stepsis_jenna_storyline_58_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:5603
 translate zh_Hans stepsis_jenna_storyline_59_89e3aede:
@@ -10760,7 +10760,7 @@ translate zh_Hans stepsis_jenna_storyline_59_45c81210:
 translate zh_Hans stepsis_jenna_storyline_59_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:5684
 translate zh_Hans stepsis_jenna_storyline_60_76b2fe88:
@@ -10892,7 +10892,7 @@ translate zh_Hans stepsis_jenna_storyline_60_895203b1:
 translate zh_Hans stepsis_jenna_storyline_60_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:5765
 translate zh_Hans stepsis_jenna_storyline_61_f2d8e570:
@@ -11014,7 +11014,7 @@ translate zh_Hans stepsis_jenna_storyline_61_492eaeb4:
 translate zh_Hans stepsis_jenna_storyline_61_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:5850
 translate zh_Hans stepsis_jenna_storyline_62_a6daf385:
@@ -11142,7 +11142,7 @@ translate zh_Hans stepsis_jenna_storyline_62_faa41da8:
 translate zh_Hans stepsis_jenna_storyline_62_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:5923
 translate zh_Hans stepsis_jenna_storyline_63_04553f5a:
@@ -11198,7 +11198,7 @@ translate zh_Hans stepsis_jenna_storyline_63_fd685a54:
 translate zh_Hans stepsis_jenna_storyline_63_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:5972
 translate zh_Hans stepsis_jenna_storyline_64_bfd6ec60:
@@ -11260,7 +11260,7 @@ translate zh_Hans stepsis_jenna_storyline_64_db145871:
 translate zh_Hans stepsis_jenna_storyline_64_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:6027
 translate zh_Hans stepsis_jenna_storyline_65_8e05e91d:
@@ -11418,7 +11418,7 @@ translate zh_Hans stepsis_jenna_storyline_65_e52a55b3:
 translate zh_Hans stepsis_jenna_storyline_65_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:6114
 translate zh_Hans stepsis_jenna_storyline_66_30136a48:
@@ -11630,7 +11630,7 @@ translate zh_Hans stepsis_jenna_storyline_66_cccbd34c:
 translate zh_Hans stepsis_jenna_storyline_66_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:6217
 translate zh_Hans stepsis_jenna_storyline_67_26772a78:
@@ -11800,7 +11800,7 @@ translate zh_Hans stepsis_jenna_storyline_67_bb0f77e0:
 translate zh_Hans stepsis_jenna_storyline_67_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:6304
 translate zh_Hans stepsis_jenna_storyline_68_4f33d0de:
@@ -11922,13 +11922,13 @@ translate zh_Hans stepsis_jenna_storyline_68_b51d6400:
 translate zh_Hans stepsis_jenna_storyline_68_a5ae81c7:
 
     # nvljenna "That’s my girl 😏"
-    nvljenna "再见，XTAG0X ❤️"
+    nvljenna "这才是我的好姑娘 😏"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:6358
 translate zh_Hans stepsis_jenna_storyline_68_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:6377
 translate zh_Hans stepsis_jenna_storyline_69_51b4f718:
@@ -12128,7 +12128,7 @@ translate zh_Hans stepsis_jenna_storyline_69_91ef543f:
 translate zh_Hans stepsis_jenna_storyline_69_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:6490
 translate zh_Hans stepsis_jenna_storyline_70_1924429c:
@@ -12250,7 +12250,7 @@ translate zh_Hans stepsis_jenna_storyline_70_14d0ad85:
 translate zh_Hans stepsis_jenna_storyline_70_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:6561
 translate zh_Hans stepsis_jenna_storyline_71_1ef667af:
@@ -12330,7 +12330,7 @@ translate zh_Hans stepsis_jenna_storyline_71_84ae3f9a:
 translate zh_Hans stepsis_jenna_storyline_71_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:6618
 translate zh_Hans stepsis_jenna_storyline_72_1f30f8c3:
@@ -12416,5 +12416,4 @@ translate zh_Hans stepsis_jenna_storyline_72_e6450071:
 translate zh_Hans stepsis_jenna_storyline_72_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
-
+    nvl_narrator "对话结束……"

@@ -324,7 +324,7 @@ translate zh_Hans sola_storyline_50_7ee72464:
 translate zh_Hans sola_storyline_50_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:205
 translate zh_Hans sola_storyline_51_f10e9f89:
@@ -500,7 +500,7 @@ translate zh_Hans sola_storyline_51_4d62d3c0:
 translate zh_Hans sola_storyline_51_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:308
 translate zh_Hans sola_storyline_52_17a4230c:
@@ -814,7 +814,7 @@ translate zh_Hans sola_storyline_52_83752d07:
 translate zh_Hans sola_storyline_52_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:440
 translate zh_Hans sola_storyline_52_after_8fc30580:
@@ -1164,7 +1164,7 @@ translate zh_Hans sola_storyline_53_90ece0cb:
 translate zh_Hans sola_storyline_53_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:622
 translate zh_Hans sola_storyline_54_e12e7c92:
@@ -2066,13 +2066,13 @@ translate zh_Hans sola_storyline_54_7705fea6:
 translate zh_Hans sola_storyline_54_8dc87157:
 
     # nvljohn "Goodbye 😊"
-    nvljohn "Goodbye 😊|再见😊"
+    nvljohn "再见😊"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:950
 translate zh_Hans sola_storyline_54_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:969
 translate zh_Hans sola_storyline_55_b071e577:
@@ -2356,7 +2356,7 @@ translate zh_Hans sola_storyline_55_856f955c:
 translate zh_Hans sola_storyline_55_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:1094
 translate zh_Hans sola_storyline_56_c0287e50:
@@ -2706,7 +2706,7 @@ translate zh_Hans sola_storyline_56_85cc8d03:
 translate zh_Hans sola_storyline_56_364e338c:
 
     # nvljohn "I see 😊"
-    nvljohn "I see 😊|我明白了😊"
+    nvljohn "我明白了😊"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:1218
 translate zh_Hans sola_storyline_56_4c26732b_1:
@@ -2748,7 +2748,7 @@ translate zh_Hans sola_storyline_56_e43e393d:
 translate zh_Hans sola_storyline_56_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:1263
 translate zh_Hans sola_storyline_57_7715431e:
@@ -3068,7 +3068,7 @@ translate zh_Hans sola_storyline_57_46c59772:
 translate zh_Hans sola_storyline_57_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:1400
 translate zh_Hans sola_storyline_58_eefa3647:
@@ -3256,7 +3256,7 @@ translate zh_Hans sola_storyline_58_9939e463:
 translate zh_Hans sola_storyline_58_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:1499
 translate zh_Hans sola_storyline_59_eefa3647:
@@ -3882,7 +3882,7 @@ translate zh_Hans sola_storyline_59_3bec1dc3:
 translate zh_Hans sola_storyline_59_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:1776
 translate zh_Hans sola_storyline_60_76b2fe88:
@@ -4044,7 +4044,7 @@ translate zh_Hans sola_storyline_60_2d887003:
 translate zh_Hans sola_storyline_60_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:1867
 translate zh_Hans sola_storyline_61_eefa3647:
@@ -4190,7 +4190,7 @@ translate zh_Hans sola_storyline_61_c5b999dc:
 translate zh_Hans sola_storyline_61_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:1948
 translate zh_Hans sola_storyline_62_c032e996:
@@ -4516,7 +4516,7 @@ translate zh_Hans sola_storyline_62_8bfb0d2d:
 translate zh_Hans sola_storyline_62_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:2093
 translate zh_Hans sola_storyline_63_862aca9d:
@@ -4752,7 +4752,7 @@ translate zh_Hans sola_storyline_63_9ac983b5:
 translate zh_Hans sola_storyline_63_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:2204
 translate zh_Hans sola_storyline_64_1ff74470:
@@ -4952,7 +4952,7 @@ translate zh_Hans sola_storyline_64_52892467:
 translate zh_Hans sola_storyline_64_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:2300
 translate zh_Hans sola_storyline_64_after_dd4f8e65:
@@ -5218,7 +5218,7 @@ translate zh_Hans sola_storyline_65_f0f53fa1:
 translate zh_Hans sola_storyline_65_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:2450
 translate zh_Hans sola_storyline_66_76b2fe88:
@@ -5368,7 +5368,7 @@ translate zh_Hans sola_storyline_66_f20e37ea:
 translate zh_Hans sola_storyline_66_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:2534
 translate zh_Hans sola_storyline_66_after_c11e2941:
@@ -5568,7 +5568,7 @@ translate zh_Hans sola_storyline_67_46c59772:
 translate zh_Hans sola_storyline_67_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:2650
 translate zh_Hans sola_storyline_68_bbaca27c:
@@ -6068,7 +6068,7 @@ translate zh_Hans sola_storyline_68_ec84f179:
 translate zh_Hans sola_storyline_68_48c7233f:
 
     # nvlsola "Why not? 😊"
-    nvlsola "Why not? 😊|为什么不呢？😊"
+    nvlsola "为什么不呢？😊"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:2830
 translate zh_Hans sola_storyline_68_2df1800b:
@@ -6104,7 +6104,7 @@ translate zh_Hans sola_storyline_68_bc1c571a:
 translate zh_Hans sola_storyline_68_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:2873
 translate zh_Hans sola_storyline_69_d04798e8:
@@ -6184,7 +6184,7 @@ translate zh_Hans sola_storyline_69_d5c3db5b:
 translate zh_Hans sola_storyline_69_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:2932
 translate zh_Hans sola_storyline_70_76b2fe88:
@@ -6490,7 +6490,7 @@ translate zh_Hans sola_storyline_70_2544013e:
 translate zh_Hans sola_storyline_70_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:3083
 translate zh_Hans sola_storyline_71_d97c8976:
@@ -6840,7 +6840,7 @@ translate zh_Hans sola_storyline_71_856f955c:
 translate zh_Hans sola_storyline_71_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:3232
 translate zh_Hans sola_storyline_72_4291d542:
@@ -7112,7 +7112,7 @@ translate zh_Hans sola_storyline_72_52892467:
 translate zh_Hans sola_storyline_72_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:3365
 translate zh_Hans sola_storyline_73_76b2fe88:
@@ -7370,7 +7370,7 @@ translate zh_Hans sola_storyline_73_e7ec6e39:
 translate zh_Hans sola_storyline_73_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:3498
 translate zh_Hans sola_storyline_74_eefa3647:
@@ -7660,7 +7660,7 @@ translate zh_Hans sola_storyline_74_521c7406:
 translate zh_Hans sola_storyline_74_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:3627
 translate zh_Hans sola_storyline_75_9da2bd47:
@@ -7800,7 +7800,7 @@ translate zh_Hans sola_storyline_75_15f1f309:
 translate zh_Hans sola_storyline_75_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:3706
 translate zh_Hans sola_storyline_76_9da2bd47:
@@ -8492,7 +8492,7 @@ translate zh_Hans sola_storyline_76_297f63c1_2:
 translate zh_Hans sola_storyline_76_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:3997
 translate zh_Hans sola_storyline_77_729b6c82:
@@ -8908,7 +8908,7 @@ translate zh_Hans sola_storyline_77_c386dfb8:
 translate zh_Hans sola_storyline_77_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:4184
 translate zh_Hans sola_storyline_78_2c809e01:
@@ -9192,7 +9192,7 @@ translate zh_Hans sola_storyline_78_64c2b7c0:
 translate zh_Hans sola_storyline_78_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:4313
 translate zh_Hans sola_storyline_79_53444f59:
@@ -9338,7 +9338,7 @@ translate zh_Hans sola_storyline_79_c63d6d2e:
 translate zh_Hans sola_storyline_79_2f6f597e:
 
     # nvlsola "Thanks ❤️"
-    nvlsola "Thanks ❤️|谢谢❤️"
+    nvlsola "谢谢❤️"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:4375
 translate zh_Hans sola_storyline_79_0f51cd6c:
@@ -9476,7 +9476,7 @@ translate zh_Hans sola_storyline_79_02e32c04:
 translate zh_Hans sola_storyline_79_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:4452
 translate zh_Hans sola_storyline_80_93753a30:
@@ -9802,7 +9802,7 @@ translate zh_Hans sola_storyline_80_7f6e7106:
 translate zh_Hans sola_storyline_80_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:4593
 translate zh_Hans sola_storyline_81_ca371d01:
@@ -9936,7 +9936,7 @@ translate zh_Hans sola_storyline_81_ec4dee13:
 translate zh_Hans sola_storyline_81_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:4674
 translate zh_Hans sola_storyline_82_eefa3647:
@@ -10034,7 +10034,7 @@ translate zh_Hans sola_storyline_82_297f63c1:
 translate zh_Hans sola_storyline_82_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:4745
 translate zh_Hans sola_storyline_83_eefa3647:
@@ -10096,7 +10096,7 @@ translate zh_Hans sola_storyline_83_4c26732b:
 translate zh_Hans sola_storyline_83_ec745cbb:
 
     # nvlsola "Do you like it? 😊"
-    nvlsola "Do you like it? 😊|你喜欢吗？😊"
+    nvlsola "你喜欢吗？😊"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:4785
 translate zh_Hans sola_storyline_83_dc645139:
@@ -10318,7 +10318,7 @@ translate zh_Hans sola_storyline_83_1075e227:
 translate zh_Hans sola_storyline_83_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:4890
 translate zh_Hans sola_storyline_84_43efc00c:
@@ -10434,7 +10434,7 @@ translate zh_Hans sola_storyline_84_445107d7:
 translate zh_Hans sola_storyline_84_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:4959
 translate zh_Hans sola_storyline_85_a8c565ba:
@@ -10610,7 +10610,7 @@ translate zh_Hans sola_storyline_85_5e4ad73e:
 translate zh_Hans sola_storyline_85_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:5062
 translate zh_Hans sola_storyline_86_76b2fe88:
@@ -10706,7 +10706,7 @@ translate zh_Hans sola_storyline_86_98b61035:
 translate zh_Hans sola_storyline_86_a8de09fe:
 
     # nvlsola "I see 😊"
-    nvlsola "I see 😊|我明白了😊"
+    nvlsola "我明白了😊"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:5106
 translate zh_Hans sola_storyline_86_a312dc64:
@@ -10874,7 +10874,7 @@ translate zh_Hans sola_storyline_86_4d62d3c0:
 translate zh_Hans sola_storyline_86_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:5193
 translate zh_Hans sola_storyline_87_75ae73e2:
@@ -10984,7 +10984,7 @@ translate zh_Hans sola_storyline_87_d28105b2:
 translate zh_Hans sola_storyline_87_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:5262
 translate zh_Hans sola_storyline_88_76b2fe88:
@@ -11242,7 +11242,7 @@ translate zh_Hans sola_storyline_88_0aaaa0d6:
 translate zh_Hans sola_storyline_88_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:5387
 translate zh_Hans sola_storyline_89_7715431e:
@@ -11556,7 +11556,7 @@ translate zh_Hans sola_storyline_89_4dbaa658:
 translate zh_Hans sola_storyline_89_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:5524
 translate zh_Hans sola_storyline_90_76b2fe88:
@@ -11694,7 +11694,7 @@ translate zh_Hans sola_storyline_90_89d8a823:
 translate zh_Hans sola_storyline_90_9d873ebc:
 
     # nvlkirely "I see 😊"
-    nvlkirely "I see 😊|我明白了😊"
+    nvlkirely "我明白了😊"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:5576
 translate zh_Hans sola_storyline_90_d57cd60f:
@@ -11724,7 +11724,7 @@ translate zh_Hans sola_storyline_90_521c7406:
 translate zh_Hans sola_storyline_90_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:5777
 translate zh_Hans henrique_storyline_5_d6d2024d:
@@ -12104,7 +12104,7 @@ translate zh_Hans henrique_storyline_5_046040e9:
 translate zh_Hans henrique_storyline_5_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:5936
 translate zh_Hans henrique_storyline_6_7d8f70e2:
@@ -12196,7 +12196,7 @@ translate zh_Hans henrique_storyline_6_5ebbbac0:
 translate zh_Hans henrique_storyline_6_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:6001
 translate zh_Hans henrique_storyline_7_d6d2024d:
@@ -12828,7 +12828,7 @@ translate zh_Hans henrique_storyline_7_856f955c:
 translate zh_Hans henrique_storyline_7_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:6244
 translate zh_Hans henrique_storyline_8_d6d2024d:
@@ -13124,7 +13124,7 @@ translate zh_Hans henrique_storyline_8_c8ae2d6d:
 translate zh_Hans henrique_storyline_8_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:6377
 translate zh_Hans henrique_storyline_9_8fd93138:
@@ -13330,7 +13330,7 @@ translate zh_Hans henrique_storyline_9_83752d07:
 translate zh_Hans henrique_storyline_9_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:6478
 translate zh_Hans henrique_storyline_10_8660ce3a:
@@ -13410,7 +13410,7 @@ translate zh_Hans henrique_storyline_10_f48f8675:
 translate zh_Hans henrique_storyline_10_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:6537
 translate zh_Hans henrique_storyline_11_3406fd3a:
@@ -13526,5 +13526,5 @@ translate zh_Hans henrique_storyline_11_4673e8a7:
 translate zh_Hans henrique_storyline_11_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 

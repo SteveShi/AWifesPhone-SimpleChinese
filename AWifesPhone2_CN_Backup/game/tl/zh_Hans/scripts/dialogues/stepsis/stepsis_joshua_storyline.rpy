@@ -132,7 +132,7 @@ translate zh_Hans stepsis_joshua_storyline_1_4884f7b2:
 translate zh_Hans stepsis_joshua_storyline_1_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:98
 translate zh_Hans stepsis_joshua_storyline_2_5a0080e5:
@@ -248,7 +248,7 @@ translate zh_Hans stepsis_joshua_storyline_2_204310d5:
 translate zh_Hans stepsis_joshua_storyline_2_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:173
 translate zh_Hans stepsis_joshua_storyline_3_48ae0793:
@@ -352,7 +352,7 @@ translate zh_Hans stepsis_joshua_storyline_3_7ab3876c:
 translate zh_Hans stepsis_joshua_storyline_3_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:244
 translate zh_Hans stepsis_joshua_storyline_4_fb964df4:
@@ -462,7 +462,7 @@ translate zh_Hans stepsis_joshua_storyline_4_aa174bb6:
 translate zh_Hans stepsis_joshua_storyline_4_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:311
 translate zh_Hans stepsis_joshua_storyline_5_673be979:
@@ -582,7 +582,7 @@ translate zh_Hans stepsis_joshua_storyline_5_6c5d93de:
 translate zh_Hans stepsis_joshua_storyline_5_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:386
 translate zh_Hans stepsis_joshua_storyline_6_40fe056e:
@@ -734,7 +734,7 @@ translate zh_Hans stepsis_joshua_storyline_6_528e1c52:
 translate zh_Hans stepsis_joshua_storyline_6_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:475
 translate zh_Hans stepsis_joshua_storyline_7_76b2fe88:
@@ -830,7 +830,7 @@ translate zh_Hans stepsis_joshua_storyline_7_14d0ad85:
 translate zh_Hans stepsis_joshua_storyline_7_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:544
 translate zh_Hans stepsis_joshua_storyline_8_2c4bb3e0:
@@ -928,7 +928,7 @@ translate zh_Hans stepsis_joshua_storyline_8_fc0a60f8:
 translate zh_Hans stepsis_joshua_storyline_8_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:611
 translate zh_Hans stepsis_joshua_storyline_9_32db6e3b:
@@ -1026,7 +1026,7 @@ translate zh_Hans stepsis_joshua_storyline_9_ad796fc1:
 translate zh_Hans stepsis_joshua_storyline_9_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:678
 translate zh_Hans stepsis_joshua_storyline_10_dad5d530:
@@ -1160,7 +1160,7 @@ translate zh_Hans stepsis_joshua_storyline_10_e9cdcf51:
 translate zh_Hans stepsis_joshua_storyline_10_9077222c:
 
     # nvlstepsis "😢"
-    nvlstepsis ""
+    nvlstepsis "😢"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:724
 translate zh_Hans stepsis_joshua_storyline_10_4de1d5a9:
@@ -1268,7 +1268,7 @@ translate zh_Hans stepsis_joshua_storyline_10_4d5993e0:
 translate zh_Hans stepsis_joshua_storyline_10_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:791
 translate zh_Hans stepsis_joshua_storyline_11_48ae0793:
@@ -1426,7 +1426,7 @@ translate zh_Hans stepsis_joshua_storyline_11_2ab156dd:
 translate zh_Hans stepsis_joshua_storyline_11_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:876
 translate zh_Hans stepsis_joshua_storyline_12_3641f8a6:
@@ -1554,7 +1554,7 @@ translate zh_Hans stepsis_joshua_storyline_12_a41f40e4:
 translate zh_Hans stepsis_joshua_storyline_12_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:953
 translate zh_Hans stepsis_joshua_storyline_13_7fb9a7d9:
@@ -1748,7 +1748,7 @@ translate zh_Hans stepsis_joshua_storyline_13_92b4bcea:
 translate zh_Hans stepsis_joshua_storyline_13_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:1056
 translate zh_Hans stepsis_joshua_storyline_14_0ba93633:
@@ -1834,7 +1834,7 @@ translate zh_Hans stepsis_joshua_storyline_14_13cb24a0:
 translate zh_Hans stepsis_joshua_storyline_14_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:1115
 translate zh_Hans stepsis_joshua_storyline_15_860eb7c9:
@@ -1962,7 +1962,7 @@ translate zh_Hans stepsis_joshua_storyline_15_65919d5a:
 translate zh_Hans stepsis_joshua_storyline_15_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:1194
 translate zh_Hans stepsis_joshua_storyline_16_ce209b1f:
@@ -2090,7 +2090,7 @@ translate zh_Hans stepsis_joshua_storyline_16_76be1ae9:
 translate zh_Hans stepsis_joshua_storyline_16_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:1273
 translate zh_Hans stepsis_joshua_storyline_17_1ecff36c:
@@ -2164,7 +2164,7 @@ translate zh_Hans stepsis_joshua_storyline_17_9c370628:
 translate zh_Hans stepsis_joshua_storyline_17_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:1330
 translate zh_Hans stepsis_joshua_storyline_18_7f1571aa:
@@ -2244,7 +2244,7 @@ translate zh_Hans stepsis_joshua_storyline_18_9637a023:
 translate zh_Hans stepsis_joshua_storyline_18_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:1389
 translate zh_Hans stepsis_joshua_storyline_19_d4f12e82:
@@ -2456,7 +2456,7 @@ translate zh_Hans stepsis_joshua_storyline_19_311ce71e:
 translate zh_Hans stepsis_joshua_storyline_19_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:1494
 translate zh_Hans stepsis_joshua_storyline_20_26cc38f0:
@@ -2572,7 +2572,7 @@ translate zh_Hans stepsis_joshua_storyline_20_54f0c047:
 translate zh_Hans stepsis_joshua_storyline_20_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:1569
 translate zh_Hans stepsis_joshua_storyline_21_e94b039b:
@@ -2634,7 +2634,7 @@ translate zh_Hans stepsis_joshua_storyline_21_6ad2b9b2:
 translate zh_Hans stepsis_joshua_storyline_21_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:1622
 translate zh_Hans stepsis_joshua_storyline_22_3394c783:
@@ -2780,7 +2780,7 @@ translate zh_Hans stepsis_joshua_storyline_22_8d057ef0:
 translate zh_Hans stepsis_joshua_storyline_22_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:1705
 translate zh_Hans stepsis_joshua_storyline_23_1273bede:
@@ -2878,7 +2878,7 @@ translate zh_Hans stepsis_joshua_storyline_23_0b04723e:
 translate zh_Hans stepsis_joshua_storyline_23_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:1774
 translate zh_Hans stepsis_joshua_storyline_24_a7228944:
@@ -2982,7 +2982,7 @@ translate zh_Hans stepsis_joshua_storyline_24_7c6dbc3b:
 translate zh_Hans stepsis_joshua_storyline_24_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:1841
 translate zh_Hans stepsis_joshua_storyline_25_311651a2:
@@ -3128,7 +3128,7 @@ translate zh_Hans stepsis_joshua_storyline_25_25b4e8ef:
 translate zh_Hans stepsis_joshua_storyline_25_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:1926
 translate zh_Hans stepsis_joshua_storyline_26_76b2fe88:
@@ -3266,7 +3266,7 @@ translate zh_Hans stepsis_joshua_storyline_26_2bfd346e:
 translate zh_Hans stepsis_joshua_storyline_26_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:2009
 translate zh_Hans stepsis_joshua_storyline_27_769b74a5:
@@ -3382,7 +3382,7 @@ translate zh_Hans stepsis_joshua_storyline_27_fdca4ef3:
 translate zh_Hans stepsis_joshua_storyline_27_5840ae89:
 
     # nvlstepsis "👀💦😈"
-    nvlstepsis ""
+    nvlstepsis "👀💦😈"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:2057
 translate zh_Hans stepsis_joshua_storyline_27_1b472267:
@@ -3478,7 +3478,7 @@ translate zh_Hans stepsis_joshua_storyline_27_02e7b1a9:
 translate zh_Hans stepsis_joshua_storyline_27_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:2128
 translate zh_Hans stepsis_joshua_storyline_28_4d36f01f:
@@ -3600,7 +3600,7 @@ translate zh_Hans stepsis_joshua_storyline_28_89366e77:
 translate zh_Hans stepsis_joshua_storyline_28_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:2201
 translate zh_Hans stepsis_joshua_storyline_29_b0139e20:
@@ -3680,7 +3680,7 @@ translate zh_Hans stepsis_joshua_storyline_29_e4e65cf5:
 translate zh_Hans stepsis_joshua_storyline_29_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:2264
 translate zh_Hans stepsis_joshua_storyline_30_48ae0793:
@@ -3796,7 +3796,7 @@ translate zh_Hans stepsis_joshua_storyline_30_262bc5cd:
 translate zh_Hans stepsis_joshua_storyline_30_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:2341
 translate zh_Hans stepsis_joshua_storyline_31_28f28f32:
@@ -3870,7 +3870,7 @@ translate zh_Hans stepsis_joshua_storyline_31_9d294c2a:
 translate zh_Hans stepsis_joshua_storyline_31_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:2400
 translate zh_Hans stepsis_joshua_storyline_32_ce209b1f:
@@ -3920,7 +3920,7 @@ translate zh_Hans stepsis_joshua_storyline_32_2ad240e1:
 translate zh_Hans stepsis_joshua_storyline_32_2ce690e1:
 
     # nvljoshua "😐"
-    nvljoshua ""
+    nvljoshua "😐"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:2418
 translate zh_Hans stepsis_joshua_storyline_32_c136d85b:
@@ -3956,7 +3956,7 @@ translate zh_Hans stepsis_joshua_storyline_32_04f423e3:
 translate zh_Hans stepsis_joshua_storyline_32_7ee2c7fb:
 
     # nvljoshua "😳😳😳"
-    nvljoshua ""
+    nvljoshua "😳😳😳"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:2430
 translate zh_Hans stepsis_joshua_storyline_32_4ce3c680:
@@ -3992,7 +3992,7 @@ translate zh_Hans stepsis_joshua_storyline_32_2da19463:
 translate zh_Hans stepsis_joshua_storyline_32_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:2473
 translate zh_Hans stepsis_joshua_storyline_33_bb43039e:
@@ -4096,7 +4096,7 @@ translate zh_Hans stepsis_joshua_storyline_33_0d676f4a:
 translate zh_Hans stepsis_joshua_storyline_33_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:2542
 translate zh_Hans stepsis_joshua_storyline_34_860eb7c9:
@@ -4206,7 +4206,7 @@ translate zh_Hans stepsis_joshua_storyline_34_c8007289:
 translate zh_Hans stepsis_joshua_storyline_34_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:2609
 translate zh_Hans stepsis_joshua_storyline_35_0a518846:
@@ -4322,7 +4322,7 @@ translate zh_Hans stepsis_joshua_storyline_35_5bc8e6a1:
 translate zh_Hans stepsis_joshua_storyline_35_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:2678
 translate zh_Hans stepsis_joshua_storyline_36_95bb6821:
@@ -4468,7 +4468,7 @@ translate zh_Hans stepsis_joshua_storyline_36_4004113b:
 translate zh_Hans stepsis_joshua_storyline_36_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:2765
 translate zh_Hans stepsis_joshua_storyline_37_8ff16881:
@@ -4644,7 +4644,7 @@ translate zh_Hans stepsis_joshua_storyline_37_04999d2b:
 translate zh_Hans stepsis_joshua_storyline_37_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:2858
 translate zh_Hans stepsis_joshua_storyline_38_e0ed06c8:
@@ -4742,7 +4742,7 @@ translate zh_Hans stepsis_joshua_storyline_38_1aba0a64:
 translate zh_Hans stepsis_joshua_storyline_38_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:2923
 translate zh_Hans stepsis_joshua_storyline_39_7175997f:
@@ -4930,7 +4930,7 @@ translate zh_Hans stepsis_joshua_storyline_39_2b80432b:
 translate zh_Hans stepsis_joshua_storyline_39_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:3026
 translate zh_Hans stepsis_joshua_storyline_40_860eb7c9:
@@ -5112,7 +5112,7 @@ translate zh_Hans stepsis_joshua_storyline_40_ebb761c5:
 translate zh_Hans stepsis_joshua_storyline_40_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:3125
 translate zh_Hans stepsis_joshua_storyline_41_31748c3c:
@@ -5186,7 +5186,7 @@ translate zh_Hans stepsis_joshua_storyline_41_f8e337d6:
 translate zh_Hans stepsis_joshua_storyline_41_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:3182
 translate zh_Hans stepsis_joshua_storyline_42_0e29d189:
@@ -5260,7 +5260,7 @@ translate zh_Hans stepsis_joshua_storyline_42_7e5f29bb:
 translate zh_Hans stepsis_joshua_storyline_42_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:3241
 translate zh_Hans stepsis_joshua_storyline_43_f627745a:
@@ -5394,7 +5394,7 @@ translate zh_Hans stepsis_joshua_storyline_43_9f187e7c:
 translate zh_Hans stepsis_joshua_storyline_43_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:3322
 translate zh_Hans stepsis_joshua_storyline_44_db2a0938:
@@ -5612,7 +5612,7 @@ translate zh_Hans stepsis_joshua_storyline_44_4ab3c015:
 translate zh_Hans stepsis_joshua_storyline_44_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:3425
 translate zh_Hans stepsis_joshua_storyline_45_7ce3a767:
@@ -5746,7 +5746,7 @@ translate zh_Hans stepsis_joshua_storyline_45_04204a8e:
 translate zh_Hans stepsis_joshua_storyline_45_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:3508
 translate zh_Hans stepsis_joshua_storyline_46_8cbeceb2:
@@ -5850,7 +5850,7 @@ translate zh_Hans stepsis_joshua_storyline_46_cab4680f:
 translate zh_Hans stepsis_joshua_storyline_46_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:3577
 translate zh_Hans stepsis_joshua_storyline_47_7b47d425:
@@ -5966,7 +5966,7 @@ translate zh_Hans stepsis_joshua_storyline_47_093a83ef:
 translate zh_Hans stepsis_joshua_storyline_47_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:3646
 translate zh_Hans stepsis_joshua_storyline_48_31748c3c:
@@ -6100,7 +6100,7 @@ translate zh_Hans stepsis_joshua_storyline_48_bb5d6dd6:
 translate zh_Hans stepsis_joshua_storyline_48_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:3721
 translate zh_Hans stepsis_joshua_storyline_49_ce209b1f:
@@ -6264,7 +6264,7 @@ translate zh_Hans stepsis_joshua_storyline_49_669c8740:
 translate zh_Hans stepsis_joshua_storyline_49_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 
 # game/scripts/dialogues/stepsis/stepsis_joshua_storyline.rpy:3810
 translate zh_Hans stepsis_joshua_storyline_50_c0c3a339:
@@ -6422,5 +6422,5 @@ translate zh_Hans stepsis_joshua_storyline_50_c0ef5bf9:
 translate zh_Hans stepsis_joshua_storyline_50_53c71d7c:
 
     # nvl_narrator "\nEnd of the conversation...\n"
-    nvl_narrator "\\nEnd of the conversation...\\n|对话结束……"
+    nvl_narrator "对话结束……"
 

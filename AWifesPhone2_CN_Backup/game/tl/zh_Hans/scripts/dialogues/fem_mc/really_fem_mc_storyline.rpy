@@ -130,7 +130,7 @@ translate zh_Hans fem_mc_storyline_10000_e5e75c3b:
 translate zh_Hans fem_mc_storyline_10000_9ef137e4:
 
     # nvljohn "❤️"
-    nvljohn ""
+    nvljohn "❤️"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:134
 translate zh_Hans fem_mc_storyline_10000_3b0399b9:
@@ -252,7 +252,7 @@ translate zh_Hans fem_mc_storyline_10001_e7a3abfa:
 translate zh_Hans fem_mc_storyline_10001_2b991cbc:
 
     # nvlwife "❤️"
-    nvlwife ""
+    nvlwife "❤️"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:211
 translate zh_Hans fem_mc_storyline_10001_e1339597:
@@ -1116,7 +1116,7 @@ translate zh_Hans fem_mc_storyline_10005_0a7c78a9:
 translate zh_Hans fem_mc_storyline_10005_b239a54b:
 
     # nvljohn_f "❤️"
-    nvljohn_f ""
+    nvljohn_f "❤️"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:664
 translate zh_Hans fem_mc_storyline_10005_53c71d7c:
@@ -2128,7 +2128,7 @@ translate zh_Hans fem_mc_storyline_10010_1fdd619c:
 translate zh_Hans fem_mc_storyline_10010_dddf6aa7:
 
     # nvljenna "❤️"
-    nvljenna ""
+    nvljenna "❤️"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:1204
 translate zh_Hans fem_mc_storyline_10010_53c71d7c:
@@ -2358,7 +2358,7 @@ translate zh_Hans fem_mc_storyline_10011_fce1372c:
 translate zh_Hans fem_mc_storyline_10011_2b991cbc:
 
     # nvlwife "❤️"
-    nvlwife ""
+    nvlwife "❤️"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:1305
 translate zh_Hans fem_mc_storyline_10011_e90226ea:
@@ -2486,7 +2486,7 @@ translate zh_Hans fem_mc_storyline_10012_28bba050:
 translate zh_Hans fem_mc_storyline_10012_e306d4ba:
 
     # nvlwife "😍😍😈"
-    nvlwife ""
+    nvlwife "😍😍😈"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:1386
 translate zh_Hans fem_mc_storyline_10012_18e395fd:
@@ -2886,7 +2886,7 @@ translate zh_Hans fem_mc_storyline_10014_3d2c61ac:
 translate zh_Hans fem_mc_storyline_10014_bf3a127a:
 
     # nvlwife "Don’t forget to get ready and bring your butt plug 😉"
-    nvlwife "别忘了好好打扮一下，还有带上你的XTAG0X后庭塞哦😉"
+    nvlwife "别忘了好好打扮一下，还有带上你的后庭塞哦😉"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:1596
 translate zh_Hans fem_mc_storyline_10014_8de8b0d9:
@@ -2984,7 +2984,7 @@ translate zh_Hans fem_mc_storyline_10015_d7efd80a:
 translate zh_Hans fem_mc_storyline_10015_26e56243:
 
     # nvlchristina "Bring lube, condoms, and anything else you need"
-    nvlchristina "带上润滑剂、XTAG0X安全套，还有其他你可能需要的一切。"
+    nvlchristina "带上润滑剂、安全套，还有其他你可能需要的一切。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:1661
 translate zh_Hans fem_mc_storyline_10015_84512a24:
@@ -2996,7 +2996,7 @@ translate zh_Hans fem_mc_storyline_10015_84512a24:
 translate zh_Hans fem_mc_storyline_10015_0838e245:
 
     # nvljohn_f "Definitely don’t need condoms. I don’t have vaginal sex"
-    nvljohn_f "我肯定不需要XTAG0X安全套。我又不走XTAG0X下面。"
+    nvljohn_f "我肯定不需要安全套。我又不走下面。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:1665
 translate zh_Hans fem_mc_storyline_10015_26c015e8:
@@ -3014,7 +3014,7 @@ translate zh_Hans fem_mc_storyline_10015_f5ba05e0:
 translate zh_Hans fem_mc_storyline_10015_14d568cd:
 
     # nvlchristina "They’ll just fuck you, that’s it"
-    nvlchristina "他们只会直接XTAG0X操翻你，就这么简单。"
+    nvlchristina "他们只会直接操翻你，就这么简单。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:1671
 translate zh_Hans fem_mc_storyline_10015_e5547c8f:
@@ -3026,7 +3026,7 @@ translate zh_Hans fem_mc_storyline_10015_e5547c8f:
 translate zh_Hans fem_mc_storyline_10015_1499119a:
 
     # nvlchristina "Or you could enjoy creampies like me"
-    nvlchristina "或者你也可以像我一样，享受XTAG0X内射的滋味啊。"
+    nvlchristina "或者你也可以像我一样，享受内射的滋味啊。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:1675
 translate zh_Hans fem_mc_storyline_10015_ce611d39:
@@ -3130,7 +3130,7 @@ translate zh_Hans fem_mc_storyline_10016_723849d9:
 translate zh_Hans fem_mc_storyline_10016_a03cec03:
 
     # nvljohn_f "I lost my virginity last night"
-    nvljohn_f "我昨晚XTAG0X失身了。"
+    nvljohn_f "我昨晚失身了。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:1742
 translate zh_Hans fem_mc_storyline_10016_60215483:
@@ -3142,13 +3142,13 @@ translate zh_Hans fem_mc_storyline_10016_60215483:
 translate zh_Hans fem_mc_storyline_10016_07478292:
 
     # nvljohn_f "I had my first real sex"
-    nvljohn_f "我经历了我的第一次XTAG0X真正的性爱。"
+    nvljohn_f "我经历了我的第一次真正的性爱。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:1746
 translate zh_Hans fem_mc_storyline_10016_b9804535:
 
     # nvljohn_f "I got fucked in my pussy and lost my virginity"
-    nvljohn_f "我的XTAG0X小穴被XTAG0X操了，然后就XTAG0X失身了。"
+    nvljohn_f "我的小穴被操了，然后就失身了。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:1748
 translate zh_Hans fem_mc_storyline_10016_731155a9:
@@ -3310,7 +3310,7 @@ translate zh_Hans fem_mc_storyline_10016_ff762e3b:
 translate zh_Hans fem_mc_storyline_10016_2b991cbc:
 
     # nvlwife "❤️"
-    nvlwife ""
+    nvlwife "❤️"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:1802
 translate zh_Hans fem_mc_storyline_10016_e2228eec:
@@ -4798,7 +4798,7 @@ translate zh_Hans fem_mc_storyline_10022_d61edcab:
 translate zh_Hans fem_mc_storyline_10022_5e03516b:
 
     # nvljohn_f "geo.com/3345153"
-    nvljohn_f ""
+    nvljohn_f "geo.com/3345153"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:2551
 translate zh_Hans fem_mc_storyline_10022_8ef9ccc7:
@@ -5148,7 +5148,7 @@ translate zh_Hans fem_mc_storyline_10023_5fdd4cbf:
 translate zh_Hans fem_mc_storyline_10023_34f326e1:
 
     # nvlted "geo.com/355133461"
-    nvlted ""
+    nvlted "geo.com/355133461"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:2718
 translate zh_Hans fem_mc_storyline_10023_39747563:
@@ -5428,7 +5428,7 @@ translate zh_Hans fem_mc_storyline_10025_84923397:
 translate zh_Hans fem_mc_storyline_10025_b239a54b:
 
     # nvljohn_f "❤️"
-    nvljohn_f ""
+    nvljohn_f "❤️"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:2888
 translate zh_Hans fem_mc_storyline_10025_411f7865:
@@ -5634,7 +5634,7 @@ translate zh_Hans fem_mc_storyline_10026_a5260358:
 translate zh_Hans fem_mc_storyline_10026_4b54e32d:
 
     # nvlwife "😘😘😘"
-    nvlwife ""
+    nvlwife "😘😘😘"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3029
 translate zh_Hans fem_mc_storyline_10026_53c71d7c:
@@ -7030,7 +7030,7 @@ translate zh_Hans fem_mc_storyline_10031_fd408538:
 translate zh_Hans fem_mc_storyline_10031_ba5b2c04:
 
     # nvljohn_f "You should've grabbed it if you wanted it so much 😉"
-    nvljohn_f "XTAG0X既然那么想，当时就该直接抓上来嘛😉。"
+    nvljohn_f "既然那么想，当时就该直接抓上来嘛😉。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3693
 translate zh_Hans fem_mc_storyline_10031_6b7db50f:
@@ -7042,19 +7042,19 @@ translate zh_Hans fem_mc_storyline_10031_6b7db50f:
 translate zh_Hans fem_mc_storyline_10031_f9261693:
 
     # nvlraul "But you said I need to keep myself in check at the office"
-    nvlraul "XTAG0X可你不是说在办公室要收敛点吗？"
+    nvlraul "可你不是说在办公室要收敛点吗？"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3697
 translate zh_Hans fem_mc_storyline_10031_64db33d3:
 
     # nvljohn_f "Yeah, that's right"
-    nvljohn_f "XTAG0X嗯，没错。"
+    nvljohn_f "嗯，没错。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3699
 translate zh_Hans fem_mc_storyline_10031_7a61fa0d:
 
     # nvljohn_f "But if there's no one around..."
-    nvljohn_f "XTAG0X但要是周围没人呢……"
+    nvljohn_f "但要是周围没人呢……"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3701
 translate zh_Hans fem_mc_storyline_10031_beae8cb3:
@@ -7066,7 +7066,7 @@ translate zh_Hans fem_mc_storyline_10031_beae8cb3:
 translate zh_Hans fem_mc_storyline_10031_29dbc8d2:
 
     # nvlraul "Teasing me again"
-    nvlraul "XTAG0X又来逗我了。"
+    nvlraul "又来逗我了。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3705
 translate zh_Hans fem_mc_storyline_10031_4290d04d:
@@ -7078,25 +7078,25 @@ translate zh_Hans fem_mc_storyline_10031_4290d04d:
 translate zh_Hans fem_mc_storyline_10031_facc4cad:
 
     # nvlraul "Why are you hiding?"
-    nvlraul "XTAG0X你干嘛躲躲藏藏的？"
+    nvlraul "你干嘛躲躲藏藏的？"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3709
 translate zh_Hans fem_mc_storyline_10031_831d7495:
 
     # nvlraul "Or is it that you don't want people thinking there's something going on between you and your subordinate? 😊"
-    nvlraul "XTAG0X还是说，你不想让别人觉得你和你的下属之间有什么不可告人的秘密？😊"
+    nvlraul "还是说，你不想让别人觉得你和你的下属之间有什么不可告人的秘密？😊"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3711
 translate zh_Hans fem_mc_storyline_10031_b6cd36ca:
 
     # nvljohn_f "I just don't want any office gossip"
-    nvljohn_f "XTAG0X我只是不想有办公室八卦。"
+    nvljohn_f "我只是不想有办公室八卦。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3713
 translate zh_Hans fem_mc_storyline_10031_3e39cdcd:
 
     # nvlraul "Isn't there a spark between us?"
-    nvlraul "XTAG0X难道我们之间就没有一点火花吗？"
+    nvlraul "难道我们之间就没有一点火花吗？"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3715
 translate zh_Hans fem_mc_storyline_10031_fd408538_1:
@@ -7108,85 +7108,85 @@ translate zh_Hans fem_mc_storyline_10031_fd408538_1:
 translate zh_Hans fem_mc_storyline_10031_e8b05ad9:
 
     # nvlraul "I'm not joking"
-    nvlraul "XTAG0X我可没开玩笑。"
+    nvlraul "我可没开玩笑。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3719
 translate zh_Hans fem_mc_storyline_10031_b4338733:
 
     # nvlraul "I think we both feel something for each other"
-    nvlraul "XTAG0X我觉得我们俩都对彼此有感觉。"
+    nvlraul "我觉得我们俩都对彼此有感觉。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3721
 translate zh_Hans fem_mc_storyline_10031_f81bf828:
 
     # nvlraul "At least, I definitely feel something for you"
-    nvlraul "XTAG0X至少，我对你绝对是心动了。"
+    nvlraul "至少，我对你绝对是心动了。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3723
 translate zh_Hans fem_mc_storyline_10031_47b76d4d:
 
     # nvlraul "I'm drawn to you"
-    nvlraul "XTAG0X我被你深深吸引着。"
+    nvlraul "我被你深深吸引着。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3725
 translate zh_Hans fem_mc_storyline_10031_e2f36ab8:
 
     # nvlraul "And very strongly"
-    nvlraul "XTAG0X而且是那么强烈，让我无法自拔。"
+    nvlraul "而且是那么强烈，让我无法自拔。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3727
 translate zh_Hans fem_mc_storyline_10031_80643ade:
 
     # nvljohn_f "That's enough"
-    nvljohn_f "XTAG0X够了。"
+    nvljohn_f "够了。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3729
 translate zh_Hans fem_mc_storyline_10031_a28a7b1e:
 
     # nvljohn_f "I'm your boss"
-    nvljohn_f "XTAG0X我是你的上司。"
+    nvljohn_f "我是你的上司。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3731
 translate zh_Hans fem_mc_storyline_10031_7f8ea0c3:
 
     # nvljohn_f "And you should behave accordingly"
-    nvljohn_f "XTAG0X你应该表现得更得体一些。"
+    nvljohn_f "你应该表现得更得体一些。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3733
 translate zh_Hans fem_mc_storyline_10031_66055c72:
 
     # nvljohn_f "Is that clear?"
-    nvljohn_f "XTAG0X明白了吗？"
+    nvljohn_f "明白了吗？"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3735
 translate zh_Hans fem_mc_storyline_10031_792a042f:
 
     # nvlraul "Yes"
-    nvlraul "XTAG0X是的。"
+    nvlraul "是的。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3737
 translate zh_Hans fem_mc_storyline_10031_a0fb9940:
 
     # nvlraul "But outside of work, I can behave however I want around you, right?"
-    nvlraul "XTAG0X可是在工作之外，我对你怎么放肆都可以，对吧？"
+    nvlraul "可是在工作之外，我对你怎么放肆都可以，对吧？"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3739
 translate zh_Hans fem_mc_storyline_10031_16a58923:
 
     # nvlraul "Right?"
-    nvlraul "XTAG0X对不对？"
+    nvlraul "对不对？"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3741
 translate zh_Hans fem_mc_storyline_10031_dfcc5fd7:
 
     # nvljohn_f "Yes"
-    nvljohn_f "XTAG0X是的。"
+    nvljohn_f "是的。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3743
 translate zh_Hans fem_mc_storyline_10031_81715be2:
 
     # nvljohn_f "Well, not exactly"
-    nvljohn_f "XTAG0X嗯……不完全是。"
+    nvljohn_f "嗯……不完全是。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3745
 translate zh_Hans fem_mc_storyline_10031_a23e55f0:
@@ -7556,19 +7556,19 @@ translate zh_Hans fem_mc_storyline_10033_722d0996:
 translate zh_Hans fem_mc_storyline_10033_0d6b2902:
 
     # nvlted "I don’t know if it counts as a compliment, but you were damn good"
-    nvlted "XTAG0X我不知道这算不算夸奖，但你他妈的真厉害"
+    nvlted "我不知道这算不算夸奖，但你他妈的真厉害"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3963
 translate zh_Hans fem_mc_storyline_10033_2cbd847a:
 
     # nvlted "I don’t think anyone has ever sucked me off as good as you did"
-    nvlted "XTAG0X我觉得从来没有人能像你一样把我舔得这么爽"
+    nvlted "我觉得从来没有人能像你一样把我舔得这么爽"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3965
 translate zh_Hans fem_mc_storyline_10033_e45810c8:
 
     # nvljohn_f "😘😍"
-    nvljohn_f ""
+    nvljohn_f "😘😍"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:3967
 translate zh_Hans fem_mc_storyline_10033_d6982e59:
@@ -7972,7 +7972,7 @@ translate zh_Hans fem_mc_storyline_10034_3761dfb3:
 translate zh_Hans fem_mc_storyline_10034_8e736ec6:
 
     # nvljenna "So we can actually get some sleep after 😉"
-    nvljenna "这样我们之后就能好好地XTAG0X温存XTAG0X一下了呢 😉"
+    nvljenna "这样我们之后就能好好地温存一下了呢 😉"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:4148
 translate zh_Hans fem_mc_storyline_10034_e6239571:
@@ -7998,7 +7998,7 @@ translate zh_Hans fem_mc_storyline_10035_3faa6b4c:
     # nvl clear
     # nvlwife "Hey, baby"
     nvl clear
-    nvlwife "XTAG0X亲爱的XTAG0X~"
+    nvlwife "亲爱的~"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:4189
 translate zh_Hans fem_mc_storyline_10035_444e73d2:
@@ -8082,7 +8082,7 @@ translate zh_Hans fem_mc_storyline_10035_b25e41c4:
 translate zh_Hans fem_mc_storyline_10035_35fa43e8:
 
     # nvlwife "I’ll be waiting for you ❤️"
-    nvlwife "我在这里XTAG0X乖乖地XTAG0X等你哦 ❤️"
+    nvlwife "我在这里乖乖地等你哦 ❤️"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:4231
 translate zh_Hans fem_mc_storyline_10035_53c71d7c:
@@ -8222,13 +8222,13 @@ translate zh_Hans fem_mc_storyline_10036_934e4f9b:
 translate zh_Hans fem_mc_storyline_10036_bb4f2f95:
 
     # nvlwife "Think about it? Are you serious?"
-    nvlwife "考虑一下？XTAG0X你是不是傻呀XTAG0X？"
+    nvlwife "考虑一下？你是不是傻呀？"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:4296
 translate zh_Hans fem_mc_storyline_10036_0d888992:
 
     # nvlwife "You should accept, dummy"
-    nvlwife "XTAG0X快接受啦，傻瓜XTAG0X！"
+    nvlwife "快接受啦，傻瓜！"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:4298
 translate zh_Hans fem_mc_storyline_10036_5dea0763:
@@ -8742,7 +8742,7 @@ translate zh_Hans fem_mc_storyline_10038_de89cdaa:
 translate zh_Hans fem_mc_storyline_10038_b5cdddd1:
 
     # nvljohn_f "😘😘"
-    nvljohn_f ""
+    nvljohn_f "😘😘"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:4559
 translate zh_Hans fem_mc_storyline_10038_8f303e44:
@@ -11120,7 +11120,7 @@ translate zh_Hans fem_mc_storyline_10048_102b2a03:
 translate zh_Hans fem_mc_storyline_10048_e45810c8:
 
     # nvljohn_f "😘😍"
-    nvljohn_f ""
+    nvljohn_f "😘😍"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:5711
 translate zh_Hans fem_mc_storyline_10048_c8577219:
@@ -13176,13 +13176,13 @@ translate zh_Hans fem_mc_storyline_10053_2899732b:
 translate zh_Hans fem_mc_storyline_10053_cb43f2c4:
 
     # nvlwife "There have already been plenty of cocks in her little arse, trust me"
-    nvlwife "相信我，她的小屁股里早就被好多根大肉棒XTAG0X过了。"
+    nvlwife "相信我，她的小屁股里早就被好多根大肉棒过了。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:6634
 translate zh_Hans fem_mc_storyline_10053_8633c21f:
 
     # nvlwife "This slut really knows a thing or two about anal sex"
-    nvlwife "这小骚货对后庭XTAG0X可真是门儿清呢。"
+    nvlwife "这小骚货对后庭可真是门儿清呢。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:6636
 translate zh_Hans fem_mc_storyline_10053_5dea0763:
@@ -13194,13 +13194,13 @@ translate zh_Hans fem_mc_storyline_10053_5dea0763:
 translate zh_Hans fem_mc_storyline_10053_d84ac87d:
 
     # nvlasa "Looks like we’ve got ourselves a new queen of anal sex?"
-    nvlasa "看来我们这儿又多了一位后庭XTAG0X女王了？"
+    nvlasa "看来我们这儿又多了一位后庭女王了？"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:6640
 translate zh_Hans fem_mc_storyline_10053_e07a60eb:
 
     # nvlmay "Nah, you’ll always be the queen of anal sex here"
-    nvlmay "哪有，你永远是这里的后庭XTAG0X女王嘛。"
+    nvlmay "哪有，你永远是这里的后庭女王嘛。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:6642
 translate zh_Hans fem_mc_storyline_10053_1418aa52:
@@ -13326,7 +13326,7 @@ translate zh_Hans fem_mc_storyline_10053_c18411e8:
 translate zh_Hans fem_mc_storyline_10053_50224853:
 
     # nvlgianna "Btw, I fucked my neighbour again"
-    nvlgianna "顺便说一句，人家又把邻居给XTAG0X了呢。"
+    nvlgianna "顺便说一句，人家又把邻居给了呢。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:6689
 translate zh_Hans fem_mc_storyline_10053_9d8ea618:
@@ -13338,13 +13338,13 @@ translate zh_Hans fem_mc_storyline_10053_9d8ea618:
 translate zh_Hans fem_mc_storyline_10053_c8eaa5d9:
 
     # nvlabella "Did you fuck him or suck him off?"
-    nvlabella "你是XTAG0X了他，还是给他口了呀？"
+    nvlabella "你是了他，还是给他口了呀？"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:6694
 translate zh_Hans fem_mc_storyline_10053_209b4d95:
 
     # nvlgianna "I fucked him 😉"
-    nvlgianna "人家XTAG0X了他哦😉"
+    nvlgianna "人家了他哦😉"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:6697
 translate zh_Hans fem_mc_storyline_10053_1ab09356:
@@ -13362,13 +13362,13 @@ translate zh_Hans fem_mc_storyline_10053_456eaf3a:
 translate zh_Hans fem_mc_storyline_10053_36571ccd:
 
     # nvlasa "Why not anal sex though?"
-    nvlasa "不过为什么不玩后庭XTAG0X呢？"
+    nvlasa "不过为什么不玩后庭呢？"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:6704
 translate zh_Hans fem_mc_storyline_10053_fd231dbe:
 
     # nvlgianna "I told him we could have anal sex, but he refused"
-    nvlgianna "人家跟他说我们可以玩后庭XTAG0X的，可他居然拒绝了。"
+    nvlgianna "人家跟他说我们可以玩后庭的，可他居然拒绝了。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:6706
 translate zh_Hans fem_mc_storyline_10053_5f12f132:
@@ -13386,7 +13386,7 @@ translate zh_Hans fem_mc_storyline_10053_664081e3:
 translate zh_Hans fem_mc_storyline_10053_098f7a85:
 
     # nvlasa "Men who don't like anal sex still exist, don't they??"
-    nvlasa "居然还有不喜欢后庭XTAG0X的男人存在吗？？"
+    nvlasa "居然还有不喜欢后庭的男人存在吗？？"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:6712
 translate zh_Hans fem_mc_storyline_10053_8eca743e:
@@ -13762,7 +13762,7 @@ translate zh_Hans fem_mc_storyline_10055_0ef55cd6:
 translate zh_Hans fem_mc_storyline_10055_aba89b91:
 
     # nvlraul "😍😍"
-    nvlraul ""
+    nvlraul "😍😍"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:6910
 translate zh_Hans fem_mc_storyline_10055_1c00de55:
@@ -13978,7 +13978,7 @@ translate zh_Hans fem_mc_storyline_10055_abded2f1:
 translate zh_Hans fem_mc_storyline_10055_dfcc5fd7:
 
     # nvljohn_f "Yes"
-    nvljohn_f "XTAG0X是的。"
+    nvljohn_f "是的。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:6986
 translate zh_Hans fem_mc_storyline_10055_8dd37227:
@@ -15286,7 +15286,7 @@ translate zh_Hans fem_mc_storyline_10061_e25d5226:
 translate zh_Hans fem_mc_storyline_10061_213a60b0:
 
     # nvljenna "😘😘"
-    nvljenna ""
+    nvljenna "😘😘"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:7690
 translate zh_Hans fem_mc_storyline_10061_53c71d7c:
@@ -16096,7 +16096,7 @@ translate zh_Hans fem_mc_storyline_10064_c332e26c:
 translate zh_Hans fem_mc_storyline_10064_59bd3a8c:
 
     # nvljohn_f "😍😍😍"
-    nvljohn_f ""
+    nvljohn_f "😍😍😍"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:8069
 translate zh_Hans fem_mc_storyline_10064_b292c0eb:
@@ -16894,7 +16894,7 @@ translate zh_Hans fem_mc_storyline_10067_d47084a8:
 translate zh_Hans fem_mc_storyline_10067_b5cdddd1:
 
     # nvljohn_f "😘😘"
-    nvljohn_f ""
+    nvljohn_f "😘😘"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:8444
 translate zh_Hans fem_mc_storyline_10067_d4840c31:
@@ -17414,7 +17414,7 @@ translate zh_Hans fem_mc_storyline_10069_f19399ec:
 translate zh_Hans fem_mc_storyline_10069_6f9b1bfc:
 
     # nvljohn_f "😘😘😘"
-    nvljohn_f ""
+    nvljohn_f "😘😘😘"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:8704
 translate zh_Hans fem_mc_storyline_10069_03f87dc7:
@@ -21938,169 +21938,169 @@ translate zh_Hans fem_mc_storyline_10089_f6dfb839:
     # nvl clear
     # nvlmom "Just wanted to say again…"
     nvl clear
-    nvlmom "XTAG0X我只是想再跟你说一遍……"
+    nvlmom "我只是想再跟你说一遍……"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11047
 translate zh_Hans fem_mc_storyline_10089_0f02ef02:
 
     # nvlmom "I’m really proud of you for yesterday."
-    nvlmom "XTAG0X我真为你昨天感到骄傲。"
+    nvlmom "我真为你昨天感到骄傲。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11049
 translate zh_Hans fem_mc_storyline_10089_63ec1731:
 
     # nvlmom "I know it wasn’t easy."
-    nvlmom "XTAG0X我知道那不容易。"
+    nvlmom "我知道那不容易。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11051
 translate zh_Hans fem_mc_storyline_10089_fb02f689:
 
     # nvlmom "But seeing you there, standing in front of us like that it meant everything."
-    nvlmom "XTAG0X但看到你那样站在我们面前，对我来说意味着一切。"
+    nvlmom "但看到你那样站在我们面前，对我来说意味着一切。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11053
 translate zh_Hans fem_mc_storyline_10089_4c96bb28:
 
     # nvljohn_f "Thanks mum"
-    nvljohn_f "XTAG0X谢谢妈咪。"
+    nvljohn_f "谢谢妈咪。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11055
 translate zh_Hans fem_mc_storyline_10089_bed7849d:
 
     # nvljohn_f "Wasn’t sure I’d actually go through with it"
-    nvljohn_f "XTAG0X我当时还不确定自己真的能做到呢。"
+    nvljohn_f "我当时还不确定自己真的能做到呢。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11057
 translate zh_Hans fem_mc_storyline_10089_001d253d:
 
     # nvljohn_f "I almost turned around at the last second"
-    nvljohn_f "XTAG0X我差点在最后一秒钟就打退堂鼓了。"
+    nvljohn_f "我差点在最后一秒钟就打退堂鼓了。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11059
 translate zh_Hans fem_mc_storyline_10089_3fdea91a:
 
     # nvlmom "But you didn’t"
-    nvlmom "XTAG0X但你没有。"
+    nvlmom "但你没有。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11061
 translate zh_Hans fem_mc_storyline_10089_e31ac699:
 
     # nvlmom "And you looked… honestly?"
-    nvlmom "XTAG0X而且你看起来……说真的？"
+    nvlmom "而且你看起来……说真的？"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11063
 translate zh_Hans fem_mc_storyline_10089_c6c0b679:
 
     # nvlmom "Breathtaking."
-    nvlmom "XTAG0X美得让人窒息。"
+    nvlmom "美得让人窒息。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11065
 translate zh_Hans fem_mc_storyline_10089_8f895a4b:
 
     # nvlmom "Like you belonged in your own skin for the first time."
-    nvlmom "XTAG0X就像你第一次真正活出了自我。"
+    nvlmom "就像你第一次真正活出了自我。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11067
 translate zh_Hans fem_mc_storyline_10089_6e99a42a:
 
     # nvljohn_f "You’re being too nice"
-    nvljohn_f "XTAG0X你太会说话了。"
+    nvljohn_f "你太会说话了。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11069
 translate zh_Hans fem_mc_storyline_10089_3bc12498:
 
     # nvljohn_f "I was so nervous."
-    nvljohn_f "XTAG0X我当时可紧张了。"
+    nvljohn_f "我当时可紧张了。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11071
 translate zh_Hans fem_mc_storyline_10089_e3d4df4a:
 
     # nvljohn_f "Dad didn’t say a word"
-    nvljohn_f "XTAG0X爸爸一句话都没说。"
+    nvljohn_f "爸爸一句话都没说。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11073
 translate zh_Hans fem_mc_storyline_10089_8739b3b1:
 
     # nvlmom "He’s just… digesting."
-    nvlmom "XTAG0X他只是……在消化这件事。"
+    nvlmom "他只是……在消化这件事。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11075
 translate zh_Hans fem_mc_storyline_10089_87531900:
 
     # nvlmom "He’ll come around"
-    nvlmom "XTAG0X他会慢慢接受的。"
+    nvlmom "他会慢慢接受的。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11077
 translate zh_Hans fem_mc_storyline_10089_0c879d76:
 
     # nvlmom "But I couldn’t stop looking at you"
-    nvlmom "XTAG0X但我就是忍不住一直看着你。"
+    nvlmom "但我就是忍不住一直看着你。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11079
 translate zh_Hans fem_mc_storyline_10089_14e4465d:
 
     # nvlmom "You were glowing."
-    nvlmom "XTAG0X你整个人都在发光。"
+    nvlmom "你整个人都在发光。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11081
 translate zh_Hans fem_mc_storyline_10089_6f09e0a6:
 
     # nvlmom "So elegant"
-    nvlmom "XTAG0X那么优雅。"
+    nvlmom "那么优雅。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11083
 translate zh_Hans fem_mc_storyline_10089_3e09059b:
 
     # nvlmom "Honestly, sitting next to you…"
-    nvlmom "XTAG0X说真的，坐在你旁边……"
+    nvlmom "说真的，坐在你旁边……"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11085
 translate zh_Hans fem_mc_storyline_10089_835a3c29:
 
     # nvlmom "I almost felt like I was out with my sister"
-    nvlmom "XTAG0X我差点以为我是和我的姐妹出门呢。"
+    nvlmom "我差点以为我是和我的姐妹出门呢。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11087
 translate zh_Hans fem_mc_storyline_10089_f1d1cea9:
 
     # nvljohn_f "Lol"
-    nvljohn_f "XTAG0X哈哈。"
+    nvljohn_f "哈哈。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11089
 translate zh_Hans fem_mc_storyline_10089_631ce109:
 
     # nvljohn_f "That’s weird"
-    nvljohn_f "XTAG0X那可真奇怪。"
+    nvljohn_f "那可真奇怪。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11091
 translate zh_Hans fem_mc_storyline_10089_9bcf992a:
 
     # nvljohn_f "You know I’m still me, right?"
-    nvljohn_f "XTAG0X你知道我还是我，对不对？"
+    nvljohn_f "你知道我还是我，对不对？"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11093
 translate zh_Hans fem_mc_storyline_10089_dab0b486:
 
     # nvlmom "Of course, sweetie."
-    nvlmom "XTAG0X当然了，宝贝。"
+    nvlmom "当然了，宝贝。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11095
 translate zh_Hans fem_mc_storyline_10089_f8ce98c9:
 
     # nvlmom "But you’ve… blossomed."
-    nvlmom "XTAG0X但你……绽放了。"
+    nvlmom "但你……绽放了。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11097
 translate zh_Hans fem_mc_storyline_10089_d418a24e:
 
     # nvlmom "That’s the word"
-    nvlmom "XTAG0X就是这个词。"
+    nvlmom "就是这个词。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11099
 translate zh_Hans fem_mc_storyline_10089_3c2fc80d:
 
     # nvlmom "I always knew there was something delicate inside you."
-    nvlmom "XTAG0X我一直都知道，你内心深处藏着一份娇柔。"
+    nvlmom "我一直都知道，你内心深处藏着一份娇柔。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11101
 translate zh_Hans fem_mc_storyline_10089_1a3f0a5c:
@@ -23116,7 +23116,7 @@ translate zh_Hans fem_mc_storyline_10094_d6bc1119:
 translate zh_Hans fem_mc_storyline_10094_0228519b:
 
     # nvljohn_f "You said Christina would be gone for a week"
-    nvljohn_f "你不是说XTAG0XChristinaXTAG0X要离开一周吗？"
+    nvljohn_f "你不是说Christina要离开一周吗？"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11646
 translate zh_Hans fem_mc_storyline_10094_c2bb66eb:
@@ -23178,7 +23178,7 @@ translate zh_Hans fem_mc_storyline_10095_f47291ed:
     # nvl clear
     # nvljohn_f "I slept with George 😊"
     nvl clear
-    nvljohn_f "人家和XTAG0XGeorgeXTAG0X睡了哦~ 😊"
+    nvljohn_f "人家和George睡了哦~ 😊"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11699
 translate zh_Hans fem_mc_storyline_10095_b15c0eb3:
@@ -23190,13 +23190,13 @@ translate zh_Hans fem_mc_storyline_10095_b15c0eb3:
 translate zh_Hans fem_mc_storyline_10095_30e6f46e:
 
     # nvljenna "Who's George?"
-    nvljenna "XTAG0XGeorgeXTAG0X是谁？"
+    nvljenna "George是谁？"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11703
 translate zh_Hans fem_mc_storyline_10095_61e8ee64:
 
     # nvljohn_f "Christina's husband"
-    nvljohn_f "XTAG0XChristinaXTAG0X的老公呀~"
+    nvljohn_f "Christina的老公呀~"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:11705
 translate zh_Hans fem_mc_storyline_10095_afa9250e:
@@ -24082,7 +24082,7 @@ translate zh_Hans fem_mc_storyline_10097_5677f8f3:
 translate zh_Hans fem_mc_storyline_10097_b5cdddd1:
 
     # nvljohn_f "😘😘"
-    nvljohn_f ""
+    nvljohn_f "😘😘"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12093
 translate zh_Hans fem_mc_storyline_10097_53c71d7c:
@@ -24376,7 +24376,7 @@ translate zh_Hans fem_mc_storyline_10100_787c79c3:
 translate zh_Hans fem_mc_storyline_10100_672a20a7:
 
     # nvljohn_f "Sometimes I even start getting turned on just looking at myself in the mirror"
-    nvljohn_f "有时候，光是看着镜子里的自己，我都会忍不住XTAG0X兴奋XTAG1X起来呢。"
+    nvljohn_f "有时候，光是看着镜子里的自己，我都会忍不住兴奋起来呢。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12292
 translate zh_Hans fem_mc_storyline_10100_764a4bb8:
@@ -24424,7 +24424,7 @@ translate zh_Hans fem_mc_storyline_10100_8bf230df:
 translate zh_Hans fem_mc_storyline_10100_3e612d62:
 
     # nvljohn_f "I think I should change into something more fitting"
-    nvljohn_f "我想我得换身更XTAG0X合身XTAG1X的衣服才行。"
+    nvljohn_f "我想我得换身更合身的衣服才行。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12312
 translate zh_Hans fem_mc_storyline_10100_9e9f5e92:
@@ -24448,7 +24448,7 @@ translate zh_Hans fem_mc_storyline_10100_70a29de8:
 translate zh_Hans fem_mc_storyline_10100_a6196b10:
 
     # nvljohn_f "Thanks for the care 😘"
-    nvljohn_f "谢谢你的XTAG0X体贴XTAG1X哦😘"
+    nvljohn_f "谢谢你的体贴哦😘"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12320
 translate zh_Hans fem_mc_storyline_10100_ee0d6d19:
@@ -24580,7 +24580,7 @@ translate zh_Hans fem_mc_storyline_10101_eee28dab:
 translate zh_Hans fem_mc_storyline_10101_dfcc5fd7:
 
     # nvljohn_f "Yes"
-    nvljohn_f "XTAG0X是的。"
+    nvljohn_f "是的。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12403
 translate zh_Hans fem_mc_storyline_10101_744344eb:
@@ -24628,13 +24628,13 @@ translate zh_Hans fem_mc_storyline_10101_1b6a4f55:
 translate zh_Hans fem_mc_storyline_10101_d156af94:
 
     # nvlgeorge "I've never had a date like that"
-    nvlgeorge "我从来没约会过XTAG0X这么刺激XTAG1X的。"
+    nvlgeorge "我从来没约会过这么刺激的。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12426
 translate zh_Hans fem_mc_storyline_10101_369c8d0f:
 
     # nvlgeorge "It was just incredible"
-    nvlgeorge "简直太XTAG0X不可思议XTAG1X了。"
+    nvlgeorge "简直太不可思议了。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12428
 translate zh_Hans fem_mc_storyline_10101_a23577da:
@@ -24646,19 +24646,19 @@ translate zh_Hans fem_mc_storyline_10101_a23577da:
 translate zh_Hans fem_mc_storyline_10101_eafa613a:
 
     # nvljohn_f "I've never had sex in a cinema bathroom before"
-    nvljohn_f "我以前从没在电影院厕所里XTAG0X做过XTAG1X那种事。"
+    nvljohn_f "我以前从没在电影院厕所里做过那种事。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12432
 translate zh_Hans fem_mc_storyline_10101_3556d6fa:
 
     # nvljohn_f "Not even in my past life"
-    nvljohn_f "就算是我XTAG0X以前XTAG1X，也XTAG0X从没XTAG1X这样过。"
+    nvljohn_f "就算是我以前，也从没这样过。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12434
 translate zh_Hans fem_mc_storyline_10101_68cbb0bb:
 
     # nvlgeorge "Good thing no one noticed us"
-    nvlgeorge "幸好没人XTAG0X发现XTAG1X我们。"
+    nvlgeorge "幸好没人发现我们。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12436
 translate zh_Hans fem_mc_storyline_10101_4c1f7690:
@@ -24700,25 +24700,25 @@ translate zh_Hans fem_mc_storyline_10101_11391b28:
 translate zh_Hans fem_mc_storyline_10101_db77e1a5:
 
     # nvljohn_f "Damn, it looks so... hot"
-    nvljohn_f "XTAG0X天啊XTAG1X，看起来XTAG0X好XTAG1X……XTAG0X好XTAG1XXTAG0X诱人XTAG1X。"
+    nvljohn_f "天啊，看起来好……好诱人。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12454
 translate zh_Hans fem_mc_storyline_10101_c3a478e0:
 
     # nvljohn_f "Turns out I was moaning so loud"
-    nvljohn_f "原来我XTAG0X叫得XTAG1X那么XTAG0X大声XTAG1X啊。"
+    nvljohn_f "原来我叫得那么大声啊。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12456
 translate zh_Hans fem_mc_storyline_10101_d84f6e17:
 
     # nvljohn_f "I thought I was quiet"
-    nvljohn_f "我还以为自己很XTAG0X安静XTAG1X呢。"
+    nvljohn_f "我还以为自己很安静呢。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12458
 translate zh_Hans fem_mc_storyline_10101_fa66d384:
 
     # nvlgeorge "You definitely weren't quiet"
-    nvlgeorge "你XTAG0X绝对XTAG1X不XTAG0X安静XTAG1X。"
+    nvlgeorge "你绝对不安静。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12460
 translate zh_Hans fem_mc_storyline_10101_beae8cb3:
@@ -24730,19 +24730,19 @@ translate zh_Hans fem_mc_storyline_10101_beae8cb3:
 translate zh_Hans fem_mc_storyline_10101_9b220248:
 
     # nvlgeorge "I think it's better if we do this at home"
-    nvlgeorge "我想我们还是在家里XTAG0X做XTAG1X比较好。"
+    nvlgeorge "我想我们还是在家里做比较好。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12464
 translate zh_Hans fem_mc_storyline_10101_2342964b:
 
     # nvljohn_f "But I liked it"
-    nvljohn_f "可是我XTAG0X喜欢XTAG1X那样。"
+    nvljohn_f "可是我喜欢那样。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12466
 translate zh_Hans fem_mc_storyline_10101_53c5d8ee:
 
     # nvljohn_f "With adrenaline, the feelings were much stronger"
-    nvljohn_f "有XTAG0X肾上腺素XTAG1X的XTAG0X加持XTAG1X，感觉XTAG0X强烈XTAG1X多了。"
+    nvljohn_f "有肾上腺素的加持，感觉强烈多了。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12468
 translate zh_Hans fem_mc_storyline_10101_55effb7c:
@@ -24766,31 +24766,31 @@ translate zh_Hans fem_mc_storyline_10101_fd408538:
 translate zh_Hans fem_mc_storyline_10101_835b7e17:
 
     # nvlgeorge "Damn, I still can't believe all this"
-    nvlgeorge "XTAG0X天哪XTAG1X，我还是不敢相信这一切。"
+    nvlgeorge "天哪，我还是不敢相信这一切。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12476
 translate zh_Hans fem_mc_storyline_10101_a4cda927:
 
     # nvlgeorge "That we're doing this"
-    nvlgeorge "我们竟然XTAG0X会XTAG1X做这种事。"
+    nvlgeorge "我们竟然会做这种事。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12478
 translate zh_Hans fem_mc_storyline_10101_3795b17f:
 
     # nvlgeorge "If you think about it, it's kinda nuts"
-    nvlgeorge "仔细想想，这XTAG0X简直XTAG1X太XTAG0X疯狂XTAG1X了。"
+    nvlgeorge "仔细想想，这简直太疯狂了。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12480
 translate zh_Hans fem_mc_storyline_10101_d88eca82:
 
     # nvlgeorge "You're my former friend who became a woman"
-    nvlgeorge "你是我以前的朋友，现在XTAG0X却XTAG1X成了个女人。"
+    nvlgeorge "你是我以前的朋友，现在却成了个女人。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12482
 translate zh_Hans fem_mc_storyline_10101_2ec7ee19:
 
     # nvlgeorge "And now we're fucking each other..."
-    nvlgeorge "而现在，我们XTAG0X竟然XTAG1X在XTAG0X互相XTAG1XXTAG0X操XTAG1X……"
+    nvlgeorge "而现在，我们竟然在互相操……"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12484
 translate zh_Hans fem_mc_storyline_10101_26925e15:
@@ -24898,7 +24898,7 @@ translate zh_Hans fem_mc_storyline_10101_2ac152b9:
 translate zh_Hans fem_mc_storyline_10101_6f9b1bfc:
 
     # nvljohn_f "😘😘😘"
-    nvljohn_f ""
+    nvljohn_f "😘😘😘"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:12520
 translate zh_Hans fem_mc_storyline_10101_a247955d:
@@ -26530,7 +26530,7 @@ translate zh_Hans fem_mc_storyline_10107_1f6ea44a:
 translate zh_Hans fem_mc_storyline_10107_2b991cbc:
 
     # nvlwife "❤️"
-    nvlwife ""
+    nvlwife "❤️"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:13335
 translate zh_Hans fem_mc_storyline_10107_dd839d82:
@@ -26548,7 +26548,7 @@ translate zh_Hans fem_mc_storyline_10107_40184efa:
 translate zh_Hans fem_mc_storyline_10107_b239a54b:
 
     # nvljohn_f "❤️"
-    nvljohn_f ""
+    nvljohn_f "❤️"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:13341
 translate zh_Hans fem_mc_storyline_10107_93418580:
@@ -27328,7 +27328,7 @@ translate zh_Hans fem_mc_storyline_10110_d71b9647:
 translate zh_Hans fem_mc_storyline_10110_6f9b1bfc:
 
     # nvljohn_f "😘😘😘"
-    nvljohn_f ""
+    nvljohn_f "😘😘😘"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:13692
 translate zh_Hans fem_mc_storyline_10110_afb93455:
@@ -28544,7 +28544,7 @@ translate zh_Hans fem_mc_storyline_10115_180223db:
 translate zh_Hans fem_mc_storyline_10115_b5cdddd1:
 
     # nvljohn_f "😘😘"
-    nvljohn_f ""
+    nvljohn_f "😘😘"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:14293
 translate zh_Hans fem_mc_storyline_10115_53c71d7c:
@@ -28746,7 +28746,7 @@ translate zh_Hans fem_mc_storyline_10117_168ddbfa:
 translate zh_Hans fem_mc_storyline_10117_bad07ba8:
 
     # nvlraul "I don’t like jerking off."
-    nvlraul "人家不喜欢自己动手啦。"
+    nvlraul "我不喜欢自己动手。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:14422
 translate zh_Hans fem_mc_storyline_10117_24111519:
@@ -28770,7 +28770,7 @@ translate zh_Hans fem_mc_storyline_10117_5e97581e:
 translate zh_Hans fem_mc_storyline_10117_b239a54b:
 
     # nvljohn_f "❤️"
-    nvljohn_f ""
+    nvljohn_f "❤️"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:14436
 translate zh_Hans fem_mc_storyline_10117_9a9f9de3:
@@ -31612,7 +31612,7 @@ translate zh_Hans fem_mc_storyline_10132_d5992d2d:
 translate zh_Hans fem_mc_storyline_10132_b5cdddd1:
 
     # nvljohn_f "😘😘"
-    nvljohn_f ""
+    nvljohn_f "😘😘"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:15965
 translate zh_Hans fem_mc_storyline_10132_18d9c92f:
@@ -32606,7 +32606,7 @@ translate zh_Hans fem_mc_storyline_10134_341ff13b:
 translate zh_Hans fem_mc_storyline_10134_76330b84:
 
     # nvlwife "[wife_name_is] 😊"
-    nvlwife ""
+    nvlwife "[wife_name_is] 😊"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:16386
 translate zh_Hans fem_mc_storyline_10134_4b187a2e:
@@ -34680,7 +34680,7 @@ translate zh_Hans fem_mc_storyline_10146_27c4207b:
 translate zh_Hans fem_mc_storyline_10146_b5cdddd1:
 
     # nvljohn_f "😘😘"
-    nvljohn_f ""
+    nvljohn_f "😘😘"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:17533
 translate zh_Hans fem_mc_storyline_10146_a5322ea6:
@@ -34942,7 +34942,7 @@ translate zh_Hans fem_mc_storyline_10148_cc5c11a8:
 translate zh_Hans fem_mc_storyline_10148_f4469e50:
 
     # nvlson "So, I've moved everything over to your place."
-    nvlson "那么，人家已经把所有东西都搬到你那里了哦。"
+    nvlson "所以，我已经把所有东西都搬到你那边了。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:17688
 translate zh_Hans fem_mc_storyline_10148_03ec625a:
@@ -36028,19 +36028,19 @@ translate zh_Hans fem_mc_storyline_10154_282db1f8:
 translate zh_Hans fem_mc_storyline_10154_731d11e6:
 
     # nvljohn_f "Our favourite topic, huh?"
-    nvljohn_f "XTAG0X咱们最爱聊的，不就是这个嘛，嗯？"
+    nvljohn_f "咱们最爱聊的，不就是这个嘛，嗯？"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:18288
 translate zh_Hans fem_mc_storyline_10154_d911eaa7:
 
     # nvljenna "And what else should we talk about?"
-    nvljenna "XTAG0X不然还能聊什么呢？"
+    nvljenna "不然还能聊什么呢？"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:18290
 translate zh_Hans fem_mc_storyline_10154_91b8c630:
 
     # nvljenna "It’s the most interesting topic. Haha."
-    nvljenna "XTAG0X这可是最带劲儿的话题了，哈哈。"
+    nvljenna "这可是最带劲儿的话题了，哈哈。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:18292
 translate zh_Hans fem_mc_storyline_10154_fe3a0f38:
@@ -36058,13 +36058,13 @@ translate zh_Hans fem_mc_storyline_10154_c7e2970f:
 translate zh_Hans fem_mc_storyline_10154_98f9c96a:
 
     # nvljohn_f "A couple days ago I gave my son's teacher a blowjob."
-    nvljohn_f "XTAG0X前两天，我才刚给我儿子那个老师口了一次。"
+    nvljohn_f "前两天，我才刚给我儿子那个老师口了一次。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:18298
 translate zh_Hans fem_mc_storyline_10154_3b805e79:
 
     # nvljohn_f "It’s not sex, of course, but still wasn’t bad."
-    nvljohn_f "XTAG0X当然啦，那不算做爱，可感觉嘛……也还不错啦。"
+    nvljohn_f "当然啦，那不算做爱，可感觉嘛……也还不错啦。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:18300
 translate zh_Hans fem_mc_storyline_10154_c03915a5:
@@ -36088,13 +36088,13 @@ translate zh_Hans fem_mc_storyline_10154_070ff8a3:
 translate zh_Hans fem_mc_storyline_10154_22e348c3:
 
     # nvljohn_f "My son was about to get expelled. I had to help him a bit."
-    nvljohn_f "XTAG0X我儿子差点被开除，我总得帮他一把嘛。"
+    nvljohn_f "我儿子差点被开除，我总得帮他一把嘛。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:18308
 translate zh_Hans fem_mc_storyline_10154_ae893c8d:
 
     # nvljohn_f "Persuade the professor, so to say, not to expel my son."
-    nvljohn_f "XTAG0X就是……‘说服’教授，别把我儿子给踢出去咯。"
+    nvljohn_f "就是……‘说服’教授，别把我儿子给踢出去咯。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:18310
 translate zh_Hans fem_mc_storyline_10154_ce26059c:
@@ -36130,7 +36130,7 @@ translate zh_Hans fem_mc_storyline_10154_47f9f49e:
 translate zh_Hans fem_mc_storyline_10154_30e963b3:
 
     # nvljohn_f "I don’t know. If it were necessary, then yes, probably."
-    nvljohn_f "XTAG0X不好说呢。不过要是真有需要，嗯……大概会吧。"
+    nvljohn_f "不好说呢。不过要是真有需要，嗯……大概会吧。"
 
 # game/scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:18322
 translate zh_Hans fem_mc_storyline_10154_a6106da9:
@@ -36581,4 +36581,3 @@ translate zh_Hans strings:
     # scripts/dialogues/fem_mc/really_fem_mc_storyline.rpy:15278
     old "I agree (choose George)"
     new "我同意（选择乔治）"
-
