@@ -1044,7 +1044,7 @@ translate zh_Hans daughter_storyline_88_b500b157:
     # nvl clear
     # nvlscott "Your daughter is becoming more and more like a cheap slut"
     nvl clear
-    nvlscott "你女儿越来越像个廉价的荡妇了。"
+    nvlscott "你女儿越来越不懂得保护自己了。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:603
 translate zh_Hans daughter_storyline_88_60bb5741:
@@ -1936,7 +1936,7 @@ translate zh_Hans daughter_storyline_90_18aa2ff7:
 translate zh_Hans daughter_storyline_90_26b4671b:
 
     # nvljenna "And for your daughter 😉"
-    nvljenna "And for your daughter 😉|还有给你的女儿 😉"
+    nvljenna "还有给你的女儿 😉"
 
 # game/scripts/dialogues/daughter_storyline.rpy:971
 translate zh_Hans daughter_storyline_90_49d660ea:
@@ -1978,7 +1978,7 @@ translate zh_Hans daughter_storyline_90_e7a620d9:
 translate zh_Hans daughter_storyline_90_f7efca30:
 
     # nvljenna "Of how he fucked your daughter"
-    nvljenna "关于他是如何操你女儿的"
+    nvljenna "关于他和你女儿之间发生的事"
 
 # game/scripts/dialogues/daughter_storyline.rpy:985
 translate zh_Hans daughter_storyline_90_863eec0c:
@@ -2478,7 +2478,7 @@ translate zh_Hans daughter_storyline_91_after_d2f749b0:
 translate zh_Hans daughter_storyline_91_after_d51c2d94:
 
     # mc "{i}So my daughter is going there just to get fucked"
-    mc "{i}So my daughter is going there just to get fucked|{i}所以我的女儿去那里就是为了被猛肏的。"
+    mc "{i}所以我的女儿去那里就是为了那种事。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1215
 translate zh_Hans daughter_storyline_91_after_82b9f930:
@@ -2490,19 +2490,19 @@ translate zh_Hans daughter_storyline_91_after_82b9f930:
 translate zh_Hans daughter_storyline_91_after_2439cdd7:
 
     # mc "{i}She's going there like some whore who's been called over for sex"
-    mc "{i}She's going there like some whore who's been called over for sex|{i}她去那儿就像个被叫去卖肉的骚货一样。"
+    mc "{i}她去那儿就像是被人叫过去做那种事一样。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1219
 translate zh_Hans daughter_storyline_91_after_88954129:
 
     # mc "{i}My daughter..."
-    mc "{i}My daughter...|{i}我的女儿……"
+    mc "{i}我的女儿……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1221
 translate zh_Hans daughter_storyline_91_after_8a42fb93:
 
     # mc "{i}Damn, I'm so turned on by all this"
-    mc "{i}Damn, I'm so turned on by all this|{i}该死，这一切都把我搞得欲火焚身！"
+    mc "{i}该死，这一切竟然让我这么兴奋。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1223
 translate zh_Hans daughter_storyline_91_after_3a9b4584:
@@ -2520,7 +2520,7 @@ translate zh_Hans daughter_storyline_91_after_e14a757c:
 translate zh_Hans daughter_storyline_91_after_8346de55:
 
     # mc "{i}That you could get so much pleasure from your daughter or wife fucking someone"
-    mc "{i}That you could get so much pleasure from your daughter or wife fucking someone|{i}你竟然能从女儿或妻子被别人猛肏中获得如此巨大的快感。"
+    mc "{i}你竟然能从女儿或妻子和别人亲密中获得如此巨大的快感。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1229
 translate zh_Hans daughter_storyline_91_after_9c960196:
@@ -2870,19 +2870,19 @@ translate zh_Hans daughter_storyline_92_after_e7286f66:
 translate zh_Hans daughter_storyline_92_after_695f1f24:
 
     # mc "{i}No, I need to try to stop this"
-    mc "{i}No, I need to try to stop this|{i}不，我得想办法阻止这一切。"
+    mc "{i}不，我得想办法阻止这一切。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1395
 translate zh_Hans daughter_storyline_92_after_a7dfcefd:
 
     # mc "{i}It could ruin my daughter's life"
-    mc "{i}It could ruin my daughter's life|{i}这可能会毁了我女儿的一生。"
+    mc "{i}这可能会毁了我女儿的一生。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1397
 translate zh_Hans daughter_storyline_92_after_c56e4f8d:
 
     # mc "{i}It could ruin her future"
-    mc "{i}It could ruin her future|{i}这可能会毁了她的未来。"
+    mc "{i}这可能会毁了她的未来。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1399
 translate zh_Hans daughter_storyline_92_after_da685824:
@@ -3322,13 +3322,13 @@ translate zh_Hans daughter_storyline_93_53c71d7c:
 translate zh_Hans daughter_storyline_93_after_2f344041:
 
     # mc "{i}I'm going to need to talk to my daughter about all this"
-    mc "{i}I'm going to need to talk to my daughter about all this|{i}我得好好和女儿谈谈这些事了。"
+    mc "{i}我得好好和女儿谈谈这些事了。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1595
 translate zh_Hans daughter_storyline_93_after_ae0a7e0b:
 
     # mc "{i}Since Scott says he'll stop cumming inside her if she tells him to, I need to talk to her"
-    mc "{i}既然斯科特说只要她开口，他就会停止把滚烫的精液射进她的骚穴，那我得跟她好好谈谈。"
+    mc "{i}既然斯科特说只要她开口，他就会停下，那我得跟她好好谈谈。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1597
 translate zh_Hans daughter_storyline_93_after_a04ce5ad:
@@ -3516,7 +3516,7 @@ translate zh_Hans daughter_storyline_94_034684ed:
 translate zh_Hans daughter_storyline_94_f894f3f8:
 
     # nvljenna "I want your daughter and her mother to enjoy a life full of black cocks together"
-    nvljenna "我希望你女儿和她妈妈能一起享受被黑屌操翻的人生。"
+    nvljenna "我希望你女儿和她妈妈能一起沉溺在那些男人带来的生活里。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:1686
 translate zh_Hans daughter_storyline_94_6f3bce04:
@@ -5752,7 +5752,7 @@ translate zh_Hans daughter_storyline_102_4da9724c:
 translate zh_Hans daughter_storyline_102_e6bcbe8d:
 
     # nvlscott "I filled your daughter with cum again"
-    nvlscott "我又用骚精填满了你女儿"
+    nvlscott "我又在你女儿身体里留下了痕迹"
 
 # game/scripts/dialogues/daughter_storyline.rpy:2742
 translate zh_Hans daughter_storyline_102_36d26ce5:
@@ -5860,7 +5860,7 @@ translate zh_Hans daughter_storyline_102_54f21278:
 translate zh_Hans daughter_storyline_102_49706cdd:
 
     # nvlscott "You could come over and watch me fuck your daughter"
-    nvlscott "你可以过来，看我怎么操翻你女儿"
+    nvlscott "你可以过来，看看我和你女儿在一起的样子"
 
 # game/scripts/dialogues/daughter_storyline.rpy:2778
 translate zh_Hans daughter_storyline_102_a5398ecb:
@@ -8304,7 +8304,7 @@ translate zh_Hans daughter_storyline_109_79cbe53f:
 translate zh_Hans daughter_storyline_109_635cdba4:
 
     # nvlscott "What did you feel when we were having sex with your daughter?"
-    nvlscott "当我们猛操你女儿的时候，你有什么感觉？"
+    nvlscott "当我们和你女儿发生关系的时候，你有什么感觉？"
 
 # game/scripts/dialogues/daughter_storyline.rpy:3880
 translate zh_Hans daughter_storyline_109_5b226380:
@@ -8334,7 +8334,7 @@ translate zh_Hans daughter_storyline_109_c6b2319f:
 translate zh_Hans daughter_storyline_109_0c98eaf8:
 
     # nvlscott "I find it pleasurable when I'm having sex with your daughter"
-    nvlscott "我觉得操你女儿的时候爽极了"
+    nvlscott "我觉得和你女儿在一起的时候很愉快"
 
 # game/scripts/dialogues/daughter_storyline.rpy:3890
 translate zh_Hans daughter_storyline_109_8a061c99:
@@ -8906,7 +8906,7 @@ translate zh_Hans daughter_storyline_110_b4840ff5:
 translate zh_Hans daughter_storyline_110_40028703:
 
     # nvljenna "Didn't you watch him fuck your daughter?"
-    nvljenna "你没看他猛操你女儿吗？"
+    nvljenna "你没看他和你女儿在一起吗？"
 
 # game/scripts/dialogues/daughter_storyline.rpy:4123
 translate zh_Hans daughter_storyline_110_60bb5741:
@@ -10346,7 +10346,7 @@ translate zh_Hans daughter_storyline_114_7c4f2df1:
 translate zh_Hans daughter_storyline_114_15d0f4ec:
 
     # nvlscott "Yes, I keep cumming inside your daughter"
-    nvlscott "是的，我一直在你女儿的骚穴里尽情射精"
+    nvlscott "是的，我一直在你女儿身体里留下痕迹"
 
 # game/scripts/dialogues/daughter_storyline.rpy:4755
 translate zh_Hans daughter_storyline_114_60bb5741:
@@ -10592,7 +10592,7 @@ translate zh_Hans daughter_storyline_114_after_a04ce5ad:
 translate zh_Hans daughter_storyline_114_after_e4207801:
 
     # mc "{i}Now I can't see him fuck my daughter this weekend"
-    mc "{i}现在我这周末没法看到他操我女儿了。"
+    mc "{i}现在我这周末没法看到他和我女儿在一起了。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:4862
 translate zh_Hans daughter_storyline_114_after_e71261a6:
@@ -12948,7 +12948,7 @@ translate zh_Hans daughter_storyline_120_24e94d63:
 translate zh_Hans daughter_storyline_120_6369819a:
 
     # nvljenna "That you enjoy seeing your daughter getting fucked"
-    nvljenna "你享受看着你的女儿被肏"
+    nvljenna "你享受看着你的女儿和别人亲密"
 
 # game/scripts/dialogues/daughter_storyline.rpy:5899
 translate zh_Hans daughter_storyline_120_6e57b328:
@@ -13404,7 +13404,7 @@ translate zh_Hans daughter_storyline_120_after_76f6be10:
 translate zh_Hans daughter_storyline_120_after_011c5dd2:
 
     # mc "{i}And my daughter..."
-    mc "{i}还有我那骚浪的女儿……"
+    mc "{i}还有我那个已经变得放纵的女儿……"
 
 # game/scripts/dialogues/daughter_storyline.rpy:6080
 translate zh_Hans daughter_storyline_120_after_5246c733:
@@ -14942,7 +14942,7 @@ translate zh_Hans daughter_storyline_124_54f21278:
 translate zh_Hans daughter_storyline_124_0b36f5e1:
 
     # nvlscott "I want to fuck your daughter and her mum at the same time"
-    nvlscott "我想同时肏你的女儿和她妈"
+    nvlscott "我想同时拥有你的女儿和她妈妈"
 
 # game/scripts/dialogues/daughter_storyline.rpy:6737
 translate zh_Hans daughter_storyline_124_c2f5fcdf:
@@ -14990,7 +14990,7 @@ translate zh_Hans daughter_storyline_124_6ef47376:
 translate zh_Hans daughter_storyline_124_be11c15e:
 
     # nvlscott "Where both the daughter and her mother are such sluts"
-    nvlscott "女儿和她妈都是这种骚货"
+    nvlscott "女儿和她妈妈都这么放纵"
 
 # game/scripts/dialogues/daughter_storyline.rpy:6753
 translate zh_Hans daughter_storyline_124_1b578e5b:
@@ -31282,7 +31282,7 @@ translate zh_Hans daughter_storyline_170_e78f71cf:
 translate zh_Hans daughter_storyline_170_049b8151:
 
     # nvlscott "I need her daughter's pussy"
-    nvlscott "我需要她女儿的骚穴"
+    nvlscott "我需要她女儿"
 
 # game/scripts/dialogues/daughter_storyline.rpy:13826
 translate zh_Hans daughter_storyline_170_aafc5838:
@@ -40530,7 +40530,7 @@ translate zh_Hans daughter_storyline_228_a62caad9:
 translate zh_Hans daughter_storyline_228_5cb450b3:
 
     # nvljenna "Now stop overthinking and go check on your daughter, she’s way more fun to talk about 😏"
-    nvljenna "现在别再胡思乱想了，快去看看你女儿吧，跟她聊聊那些浪事儿才更有趣😏"
+    nvljenna "现在别再胡思乱想了，快去看看你女儿吧，聊她的事可有趣多了😏"
 
 # game/scripts/dialogues/daughter_storyline.rpy:18996
 translate zh_Hans daughter_storyline_228_53c71d7c:
@@ -42066,7 +42066,7 @@ translate zh_Hans daughter_storyline_237_6f52a30d:
 translate zh_Hans daughter_storyline_237_fca0d3f0:
 
     # nvljohn "Goodnight, my daughter"
-    nvljohn "晚安，我的小骚货。"
+    nvljohn "晚安，我的女儿。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:19802
 translate zh_Hans daughter_storyline_237_879eeda4:
@@ -42724,7 +42724,7 @@ translate zh_Hans daughter_storyline_242_7e5d68e4:
 translate zh_Hans daughter_storyline_242_0af36af5:
 
     # nvljohn "Holy… daughter, that looks so hot"
-    nvljohn "天哪……女儿，这看起来也太骚了吧。"
+    nvljohn "天哪……女儿，这看起来太撩人了。"
 
 # game/scripts/dialogues/daughter_storyline.rpy:20195
 translate zh_Hans daughter_storyline_242_499ff90b:
@@ -48188,7 +48188,7 @@ translate zh_Hans daughter_storyline_1009_after_22cc5ccc:
 translate zh_Hans daughter_storyline_1009_after_3bb4b59a:
 
     # mc "{i}Does think I might want to have sex with our daughter?"
-    mc "{i}你觉得我可能会想肏我们的女儿吗？"
+    mc "{i}你觉得我可能会对我们的女儿有那种想法吗？"
 
 # game/scripts/dialogues/daughter_storyline.rpy:23063
 translate zh_Hans daughter_storyline_1009_after_a04ce5ad:

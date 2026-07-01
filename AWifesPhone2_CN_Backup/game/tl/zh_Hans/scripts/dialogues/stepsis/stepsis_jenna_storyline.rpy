@@ -8366,7 +8366,7 @@ translate zh_Hans stepsis_jenna_storyline_41_10fd58f8:
 translate zh_Hans stepsis_jenna_storyline_41_891e642b:
 
     # nvlwife "It’s a date 😘"
-    nvlwife "约炮定了😘"
+    nvlwife "约会定了😘"
 
 # game/scripts/dialogues/stepsis/stepsis_jenna_storyline.rpy:4294
 translate zh_Hans stepsis_jenna_storyline_41_53c71d7c:

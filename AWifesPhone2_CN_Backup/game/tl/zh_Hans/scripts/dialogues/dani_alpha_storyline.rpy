@@ -5290,7 +5290,7 @@ translate zh_Hans dani_alpha_storyline_33_f9964dc8:
 translate zh_Hans dani_alpha_storyline_33_1f75efb9:
 
     # nvljohn "You can call me anytime."
-    nvljohn "你随时都能来操我。"
+    nvljohn "你随时都可以给我打电话。"
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:2935
 translate zh_Hans dani_alpha_storyline_33_67ee33c4:
@@ -5376,7 +5376,7 @@ translate zh_Hans dani_alpha_storyline_34_872934e2:
 translate zh_Hans dani_alpha_storyline_34_298f2df2:
 
     # nvljohn "Oh? What do you have in mind?"
-    nvljohn "哦？小骚货，你有什么鬼主意？"
+    nvljohn "哦？你有什么主意？"
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:2996
 translate zh_Hans dani_alpha_storyline_34_8f1bce0e:
@@ -5776,7 +5776,7 @@ translate zh_Hans dani_alpha_storyline_36_0a62d453:
 translate zh_Hans dani_alpha_storyline_36_cf2d54c9:
 
     # nvljohn "You’re incorrigible."
-    nvljohn "你真是个小浪蹄子。"
+    nvljohn "你真是没救了。"
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:3198
 translate zh_Hans dani_alpha_storyline_36_45f4707f:
@@ -6164,7 +6164,7 @@ translate zh_Hans dani_alpha_storyline_38_be55b8ad:
 translate zh_Hans dani_alpha_storyline_38_0734cf99:
 
     # nvljohn "Soon we’ll make even more videos."
-    nvljohn "我们很快会拍更多操逼视频。"
+    nvljohn "我们很快会拍更多视频。"
 
 # game/scripts/dialogues/dani_alpha_storyline.rpy:3394
 translate zh_Hans dani_alpha_storyline_38_36d06c05:

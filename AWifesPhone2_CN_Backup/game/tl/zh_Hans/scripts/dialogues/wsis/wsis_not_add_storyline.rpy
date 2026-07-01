@@ -10776,7 +10776,7 @@ translate zh_Hans wsis_not_add_storyline_64_55eae236:
 translate zh_Hans wsis_not_add_storyline_64_b244fc6c:
 
     # nvljohn "You’re really not holding back today"
-    nvljohn "你今天可真是彻底放开了，小骚货。"
+    nvljohn "你今天可真是彻底放开了。"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:5322
 translate zh_Hans wsis_not_add_storyline_64_ab3f0926:
@@ -11440,7 +11440,7 @@ translate zh_Hans wsis_not_add_storyline_66_eec257a3:
 translate zh_Hans wsis_not_add_storyline_66_8c8e9964:
 
     # nvljohn "Don't hold your breath"
-    nvljohn "别他妈憋着了"
+    nvljohn "别抱太大希望。"
 
 # game/scripts/dialogues/wsis/wsis_not_add_storyline.rpy:5626
 translate zh_Hans wsis_not_add_storyline_66_7f526d21:

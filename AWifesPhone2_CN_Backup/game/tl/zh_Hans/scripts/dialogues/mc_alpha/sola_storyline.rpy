@@ -676,7 +676,7 @@ translate zh_Hans sola_storyline_52_ccd4cec4:
 translate zh_Hans sola_storyline_52_7067d48f:
 
     # nvlhenrique "If I find out that you're harassing my daughter, you'll have problems"
-    nvlhenrique "如果我发现你骚扰我女儿，你会有大麻烦的"
+    nvlhenrique "如果我发现你纠缠我女儿，你会有大麻烦的"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:368
 translate zh_Hans sola_storyline_52_83731d71:
@@ -3294,7 +3294,7 @@ translate zh_Hans sola_storyline_59_ccbcf0c4:
 translate zh_Hans sola_storyline_59_87460ce1:
 
     # nvljohn "After yesterday, I'm feeling really good 😉"
-    nvljohn "昨天被你操过之后，我感觉爽透了😉"
+    nvljohn "昨天之后，我感觉好多了😉"
 
 # game/scripts/dialogues/mc_alpha/sola_storyline.rpy:1513
 translate zh_Hans sola_storyline_59_067474ec:

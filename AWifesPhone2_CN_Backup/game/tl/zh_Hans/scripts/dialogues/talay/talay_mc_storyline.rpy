@@ -6502,7 +6502,7 @@ translate zh_Hans talay_mc_storyline_30_8a928fb6:
 translate zh_Hans talay_mc_storyline_30_9d1d0e26:
 
     # nvljohn "Each time we have sex, I like it more and more"
-    nvljohn "我们每次被你操，我都越来越喜欢"
+    nvljohn "我们每一次，我都越来越喜欢"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:3159
 translate zh_Hans talay_mc_storyline_30_56f08681:
@@ -13492,7 +13492,7 @@ translate zh_Hans talay_mc_storyline_68_d09f84d9:
 translate zh_Hans talay_mc_storyline_68_9647f6c5:
 
     # nvltalay "I’m going clubbing with my daughter this Friday."
-    nvltalay "这周五我要和女儿去夜店浪。"
+    nvltalay "这周五我要和女儿去夜店玩。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:6873
 translate zh_Hans talay_mc_storyline_68_910ae96f:
@@ -17660,7 +17660,7 @@ translate zh_Hans talay_mc_storyline_104_a4c21574:
 translate zh_Hans talay_mc_storyline_104_e7d71202:
 
     # nvljohn "Counting the hours."
-    nvljohn "我数着时间，等着被你操。"
+    nvljohn "我数着时间等你。"
 
 # game/scripts/dialogues/talay/talay_mc_storyline.rpy:9508
 translate zh_Hans talay_mc_storyline_104_53c71d7c:

@@ -7694,7 +7694,7 @@ translate zh_Hans gianna_cuck_storyline_50_717ad6db:
 translate zh_Hans gianna_cuck_storyline_50_a133c3e6:
 
     # nvljohn "I’ll be ready."
-    nvljohn "我会把骚穴准备好的。"
+    nvljohn "我会准备好的。"
 
 # game/scripts/dialogues/gianna_cuck_storyline.rpy:4310
 translate zh_Hans gianna_cuck_storyline_50_53c71d7c:

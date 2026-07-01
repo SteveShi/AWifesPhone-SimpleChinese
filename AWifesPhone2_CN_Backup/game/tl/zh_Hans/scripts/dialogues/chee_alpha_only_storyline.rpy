@@ -356,7 +356,7 @@ translate zh_Hans chee_storyline_2_1f860aa6:
 translate zh_Hans chee_storyline_2_428b333a:
 
     # nvljohn "When I decided to message you, you already had my attention"
-    nvljohn "当我决定给你发消息的那一刻，你他妈就已经完全吸引住我了。"
+    nvljohn "当我决定给你发消息的那一刻，你就已经吸引住我了。"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:255
 translate zh_Hans chee_storyline_2_0f7f03c8:
@@ -604,7 +604,7 @@ translate zh_Hans chee_storyline_3_13859fb9:
 translate zh_Hans chee_storyline_3_559d80b5:
 
     # nvljohn "Wow, what adorable feet"
-    nvljohn "哇哦，这双小脚丫真是太他妈可爱了！"
+    nvljohn "哇哦，这双小脚丫真可爱！"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:372
 translate zh_Hans chee_storyline_3_b10fdf56:
@@ -658,7 +658,7 @@ translate zh_Hans chee_storyline_3_1f095dba:
 translate zh_Hans chee_storyline_3_c102bffb:
 
     # nvljohn "I think short girls are the most beautiful in the world"
-    nvljohn "我觉得个子娇小的女孩才是这世界上最他妈美的。"
+    nvljohn "我觉得个子娇小的女孩是这世界上最美的。"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:390
 translate zh_Hans chee_storyline_3_02208b37:
@@ -1168,13 +1168,13 @@ translate zh_Hans chee_storyline_6_031a7404:
     # nvl clear
     # nvljohn "Hey Chee, how are you?"
     nvl clear
-    nvljohn "嘿，Chee，小骚货，过得可还舒坦？"
+    nvljohn "嘿，Chee，最近怎么样？"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:674
 translate zh_Hans chee_storyline_6_d667cab7:
 
     # nvljohn "Our date is the day after tomorrow and I just realised we haven’t set a time yet 😂"
-    nvljohn "咱们的‘约炮’是后天，我才他妈发现，竟然还没定好具体时间😂"
+    nvljohn "咱们的约会是后天，我才发现竟然还没定好具体时间😂"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:676
 translate zh_Hans chee_storyline_6_6966004c:
@@ -1210,7 +1210,7 @@ translate zh_Hans chee_storyline_6_77fef135:
 translate zh_Hans chee_storyline_6_05e3a04a:
 
     # nvljohn "Great! Now we have a time set 😄"
-    nvljohn "太棒了！现在‘约炮’时间总算敲定了😄"
+    nvljohn "太棒了！现在约会时间总算敲定了😄"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:688
 translate zh_Hans chee_storyline_6_cd76cbc2:
@@ -3098,7 +3098,7 @@ translate zh_Hans chee_storyline_17_df1b65dd:
 translate zh_Hans chee_storyline_17_46fe2997:
 
     # nvljohn "Honestly, I have no idea how you guys get these videos..."
-    nvljohn "说真的，我他妈真不知道你们是怎么搞到这些视频的……"
+    nvljohn "说真的，我真不知道你们是怎么搞到这些视频的……"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:1681
 translate zh_Hans chee_storyline_17_8bd363ed:
@@ -3148,7 +3148,7 @@ translate zh_Hans chee_storyline_18_cfff8cdc:
 translate zh_Hans chee_storyline_18_cfd4d33f:
 
     # nvljohn "Actually, I’m doing great"
-    nvljohn "说实话，我他妈爽翻了。"
+    nvljohn "说实话，我现在很好。"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:1730
 translate zh_Hans chee_storyline_18_1657b6ff:
@@ -3264,7 +3264,7 @@ translate zh_Hans chee_storyline_19_1cb655d1:
 translate zh_Hans chee_storyline_19_1ccd4ae0:
 
     # nvljohn "Maybe when all this is over, I could start a new life... married to her"
-    nvljohn "也许等这一切都他妈结束了，我就可以开始新的生活……和她结婚。"
+    nvljohn "也许等这一切都结束了，我就可以开始新的生活……和她结婚。"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:1801
 translate zh_Hans chee_storyline_19_19a3d4db:
@@ -3392,7 +3392,7 @@ translate zh_Hans chee_storyline_20_878b3099:
 translate zh_Hans chee_storyline_20_f4899549:
 
     # nvljohn "Yeah... it was really nice. Really, really nice"
-    nvljohn "是啊……那感觉真他妈好。真的，好得让人销魂。"
+    nvljohn "是啊……那感觉真的很好。真的，很好。"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:1876
 translate zh_Hans chee_storyline_20_294e681e:
@@ -3446,7 +3446,7 @@ translate zh_Hans chee_storyline_20_b426dc6d:
 translate zh_Hans chee_storyline_20_9d4f816d:
 
     # nvljohn "I loved feeling you in my arms"
-    nvljohn "我爱死把你抱在怀里的感觉了，那滋味儿真他妈销魂。"
+    nvljohn "我爱死把你抱在怀里的感觉了。"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:1894
 translate zh_Hans chee_storyline_20_0a3162a4:
@@ -5156,7 +5156,7 @@ translate zh_Hans chee_storyline_29_6451003f:
 translate zh_Hans chee_storyline_29_ad2f23b0:
 
     # nvljohn "Just thank me by enjoying tonight to the fullest"
-    nvljohn "今晚就用你最浪荡的姿态，尽情享受，来感谢我吧！"
+    nvljohn "今晚就尽情享受，来感谢我吧！"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:2795
 translate zh_Hans chee_storyline_29_5173acf1:
@@ -6496,7 +6496,7 @@ translate zh_Hans chee_storyline_36_65f80366:
     # nvl clear
     # nvljohn "Bro... you won’t believe what happened with Chee 😏"
     nvl clear
-    nvljohn "兄弟……你他妈绝对想不到Chee那小骚货发生了什么😏"
+    nvljohn "兄弟……你绝对想不到Chee发生了什么😏"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:3480
 translate zh_Hans chee_storyline_36_9d1815e6:
@@ -7192,7 +7192,7 @@ translate zh_Hans chee_storyline_39_fcf0f635:
 translate zh_Hans chee_storyline_39_8481d740:
 
     # nvljohn "I'll give you the best of everything."
-    nvljohn "我他妈会把最好的都给你。"
+    nvljohn "我会把最好的都给你。"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:3810
 translate zh_Hans chee_storyline_39_42068fb6:
@@ -7410,7 +7410,7 @@ translate zh_Hans chee_storyline_40_713ccc7b:
 translate zh_Hans chee_storyline_40_e8285549:
 
     # nvljohn "And from now on, you'll have only the best."
-    nvljohn "从现在起，你将拥有最好的，我的小骚货。"
+    nvljohn "从现在起，你会拥有最好的。"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:3915
 translate zh_Hans chee_storyline_40_9ad25584:
@@ -7488,7 +7488,7 @@ translate zh_Hans chee_storyline_40_a8afece1:
 translate zh_Hans chee_storyline_40_b5d8e443:
 
     # nvljohn "Wow... you look so gorgeous in all of them."
-    nvljohn "哇……你穿什么都他妈美得要死。"
+    nvljohn "哇……你穿什么都很美。"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:3945
 translate zh_Hans chee_storyline_40_40f76fd3:
@@ -7694,7 +7694,7 @@ translate zh_Hans chee_storyline_41_84f1af44:
 translate zh_Hans chee_storyline_41_7dd7c08e:
 
     # nvljohn "I can’t wait to see you wearing it in person."
-    nvljohn "我他妈已经迫不及待想看你穿上它的样子了。"
+    nvljohn "我已经迫不及待想看你穿上它的样子了。"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:4053
 translate zh_Hans chee_storyline_41_37eb06c9:
@@ -7730,7 +7730,7 @@ translate zh_Hans chee_storyline_41_bf605af9:
 translate zh_Hans chee_storyline_41_1f76d21f:
 
     # nvljohn "You don’t need to thank me, Chee. You deserve it all."
-    nvljohn "你不用谢我，Chee。这一切都是你应得的，我的小骚货。"
+    nvljohn "你不用谢我，Chee。这一切都是你应得的。"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:4065
 translate zh_Hans chee_storyline_41_8076db09:
@@ -7780,7 +7780,7 @@ translate zh_Hans chee_storyline_42_77ecc9be:
 translate zh_Hans chee_storyline_42_5630344d:
 
     # nvljohn "That’s cute. Don’t worry, it will be perfect."
-    nvljohn "真可爱。别担心，那晚会他妈完美得让你欲仙欲死。"
+    nvljohn "真可爱。别担心，那晚会很完美。"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:4114
 translate zh_Hans chee_storyline_42_b6529f10:
@@ -7792,7 +7792,7 @@ translate zh_Hans chee_storyline_42_b6529f10:
 translate zh_Hans chee_storyline_42_df3e13a5:
 
     # nvljohn "I promise. I’ll make sure it’s an amazing night."
-    nvljohn "我保证。我他妈会让你度过一个销魂蚀骨的夜晚。"
+    nvljohn "我保证。我会让你度过一个很棒的夜晚。"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:4118
 translate zh_Hans chee_storyline_42_ae40a3de:
@@ -8518,7 +8518,7 @@ translate zh_Hans chee_storyline_45_2a70e7a3:
 translate zh_Hans chee_storyline_45_77ecb721:
 
     # nvljohn "Always, angel. You’re my priority."
-    nvljohn "永远都是，我的小骚货。你是我最重要的人。"
+    nvljohn "永远都是，宝贝。你是我最重要的人。"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:4469
 translate zh_Hans chee_storyline_45_10f80735:
@@ -8610,7 +8610,7 @@ translate zh_Hans chee_storyline_46_bd4936a8:
 translate zh_Hans chee_storyline_46_7b001aac:
 
     # nvljohn "Get used to it. I’ll always take care of you."
-    nvljohn "习惯就好。我会永远把你操在手心。"
+    nvljohn "习惯就好。我会永远照顾你。"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:4532
 translate zh_Hans chee_storyline_46_ba399a7b:
@@ -8822,7 +8822,7 @@ translate zh_Hans chee_storyline_47_97349b10:
 translate zh_Hans chee_storyline_47_71258d50:
 
     # nvljohn "Don’t rush. Just breathe and let your body guide you."
-    nvljohn "别着急。深呼吸，让你的身体自己浪起来。"
+    nvljohn "别着急。深呼吸，让你的身体自己引导你。"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:4639
 translate zh_Hans chee_storyline_47_ebe3be9e:
@@ -9242,7 +9242,7 @@ translate zh_Hans chee_storyline_50_f62b28ba:
 translate zh_Hans chee_storyline_50_e3157c23:
 
     # nvljohn "Ohhh now I’m extra curious 😏"
-    nvljohn "哦，我现在更好奇了，小骚货😏"
+    nvljohn "哦，我现在更好奇了😏"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:4876
 translate zh_Hans chee_storyline_50_c1f10190:
@@ -9684,7 +9684,7 @@ translate zh_Hans chee_storyline_52_49592934:
 translate zh_Hans chee_storyline_52_29ec859c:
 
     # nvljohn "That’s perfect. You’re opening up, step by step."
-    nvljohn "太好了。你正在一步步敞开你的骚穴。"
+    nvljohn "太好了。你正在一步步敞开心扉。"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:5100
 translate zh_Hans chee_storyline_52_698cdf13:
@@ -10718,7 +10718,7 @@ translate zh_Hans chee_storyline_59_5e0e3e6b:
 translate zh_Hans chee_storyline_59_911a622a:
 
     # nvljohn "And I’ll pay for everything. Don’t worry about a thing."
-    nvljohn "我会支付所有费用。你什么都不用操心。"
+    nvljohn "我会支付所有费用。你什么都不用担心。"
 
 # game/scripts/dialogues/chee_alpha_only_storyline.rpy:5679
 translate zh_Hans chee_storyline_59_0f6c406f:

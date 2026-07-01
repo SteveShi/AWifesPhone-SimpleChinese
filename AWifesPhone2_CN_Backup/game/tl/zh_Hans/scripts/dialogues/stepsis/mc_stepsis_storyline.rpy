@@ -13614,7 +13614,7 @@ translate zh_Hans mc_stepsis_storyline_71_fbbb4dfd:
 translate zh_Hans mc_stepsis_storyline_71_e36acc13:
 
     # nvljohn "As long as you stay mine..."
-    nvljohn "只要你乖乖做我的女人……"
+    nvljohn "只要你一直属于我……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:7053
 translate zh_Hans mc_stepsis_storyline_71_c3cdfdfc:
@@ -14344,7 +14344,7 @@ translate zh_Hans mc_stepsis_storyline_76_b2dd31a1:
 translate zh_Hans mc_stepsis_storyline_76_f8edd7ae:
 
     # nvljohn "I'm the lucky one"
-    nvljohn "我才是那个被你操得欲罢不能的幸运儿。"
+    nvljohn "我才是那个幸运儿。"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:7474
 translate zh_Hans mc_stepsis_storyline_76_293e73a3:
@@ -14618,7 +14618,7 @@ translate zh_Hans mc_stepsis_storyline_78_5078414c:
 translate zh_Hans mc_stepsis_storyline_78_e9d2ff56:
 
     # nvljohn "Come quick, baby"
-    nvljohn "快来，宝贝，我的骚穴已经等不及了。"
+    nvljohn "快来，宝贝，我已经等不及了。"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:7634
 translate zh_Hans mc_stepsis_storyline_78_2af360be:
@@ -14656,7 +14656,7 @@ translate zh_Hans mc_stepsis_storyline_79_8e82964b:
 translate zh_Hans mc_stepsis_storyline_79_b5962169:
 
     # nvljohn "Woke up still thinking about last night..."
-    nvljohn "醒来后，我的骚穴还在回味着昨晚的狂欢……"
+    nvljohn "醒来后，我还在回味昨晚的一切……"
 
 # game/scripts/dialogues/stepsis/mc_stepsis_storyline.rpy:7679
 translate zh_Hans mc_stepsis_storyline_79_8119d869:

@@ -2104,7 +2104,7 @@ translate zh_Hans dani_cuck_storyline_15_db89e852:
 translate zh_Hans dani_cuck_storyline_15_cef9f1fc:
 
     # nvljohn "Just thinking about watching you two is already making me hard."
-    nvljohn "哈哈哈，既然周六我没机会玩你的鸡巴了……"
+    nvljohn "光是想到看你们两个，我就已经硬了。"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:1212
 translate zh_Hans dani_cuck_storyline_15_95174071:
@@ -4150,7 +4150,7 @@ translate zh_Hans dani_cuck_storyline_33_659d36d8:
 translate zh_Hans dani_cuck_storyline_33_b40b793e:
 
     # nvlwife "You never need to ask, [wife_name_is]’s house is your house."
-    nvlwife "你根本不用问，[wife_name_is]的房子就是你的家，凯茜的骚穴也随时为你敞开。"
+    nvlwife "你根本不用问，[wife_name_is]的房子就是你的家。"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:2530
 translate zh_Hans dani_cuck_storyline_33_c2740064:
@@ -4250,7 +4250,7 @@ translate zh_Hans dani_cuck_storyline_35_14fac302:
 translate zh_Hans dani_cuck_storyline_35_26b72292:
 
     # nvlwife "I’m up for it too. When’s good for you guys?"
-    nvlwife "我也想去。你们什么时候有空，想被肏？"
+    nvlwife "我也想去。你们什么时候有空？"
 
 # game/scripts/dialogues/dani_cuck_storyline.rpy:2628
 translate zh_Hans dani_cuck_storyline_35_bb021ab7:

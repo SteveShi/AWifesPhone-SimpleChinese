@@ -21760,7 +21760,7 @@ translate zh_Hans wife_jenna_storyline_798_51a4df25:
 translate zh_Hans wife_jenna_storyline_798_9cffda4b:
 
     # nvlwsis "How many guys fucked my daughter?"
-    nvlwsis "有多少男人肏过我女儿？"
+    nvlwsis "有多少男人碰过我女儿？"
 
 # game/scripts/dialogues/wife/wife_jenna_storyline.rpy:12037
 translate zh_Hans wife_jenna_storyline_798_0fc5102c:

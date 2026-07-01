@@ -2020,7 +2020,7 @@ translate zh_Hans mc_wsis_storyline_22_210fef43:
 translate zh_Hans mc_wsis_storyline_22_163f160f:
 
     # nvljohn "My life has changed so dramatically since we had sex"
-    nvljohn "自从被你操了以后，我的生活发生了翻天覆地的变化。"
+    nvljohn "自从我们发生关系以后，我的生活发生了翻天覆地的变化。"
 
 # game/scripts/dialogues/wsis/mc_wsis_storyline.rpy:991
 translate zh_Hans mc_wsis_storyline_22_58b72076:

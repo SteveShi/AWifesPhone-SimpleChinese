@@ -6154,7 +6154,7 @@ translate zh_Hans messager_stage2_d6832390:
 translate zh_Hans messager_stage2_74a7f8e1:
 
     # nvlwife "{a=show:photo_22567}photo_22567.png"
-    nvlwife ""
+    nvlwife "{a=show:photo_22567}photo_22567.png"
 
 # script.rpy:9118
 translate zh_Hans messager_stage2_0526af51:
@@ -6178,7 +6178,7 @@ translate zh_Hans messager_stage2_69350343:
 translate zh_Hans messager_stage2_1ad02265:
 
     # nvlwife "{a=show:photo_22568}photo_22568.png"
-    nvlwife ""
+    nvlwife "{a=show:photo_22568}photo_22568.png"
 
 # script.rpy:9141
 translate zh_Hans messager_stage2_82b6e3ca:
@@ -6208,7 +6208,7 @@ translate zh_Hans messager_stage2_f067e2f0:
 translate zh_Hans messager_stage2_e8de94bf:
 
     # nvlwife "{a=show:photo_22569}photo_22569.png"
-    nvlwife ""
+    nvlwife "{a=show:photo_22569}photo_22569.png"
 
 # script.rpy:9166
 translate zh_Hans messager_stage2_cde0a02c:
@@ -6256,7 +6256,7 @@ translate zh_Hans messager_stage2_41e32ad2:
 translate zh_Hans messager_stage2_6a06f79d:
 
     # nvlwife "{a=show:photo_22570}photo_22570.png"
-    nvlwife ""
+    nvlwife "{a=show:photo_22570}photo_22570.png"
 
 # script.rpy:9197
 translate zh_Hans messager_stage2_db149caa:
@@ -6394,7 +6394,7 @@ translate zh_Hans messager_stage2_f49e8f44:
 translate zh_Hans messager_stage3_463b9e14:
 
     # nvlwife0 "{a=show:photo_22571}photo_22571.png{nw}"
-    nvlwife0 ""
+    nvlwife0 "{a=show:photo_22571}photo_22571.png{nw}"
 
 # script.rpy:9284
 translate zh_Hans messager_stage3_80f1e46a:
@@ -6442,7 +6442,7 @@ translate zh_Hans messager_stage3_f49e8f44:
 translate zh_Hans messager_stage4_491e4e44:
 
     # nvljenna0 "{a=show:photo_571}photo_571.png"
-    nvljenna0 ""
+    nvljenna0 "{a=show:photo_571}photo_571.png"
 
 # script.rpy:9352
 translate zh_Hans messager_stage4_1a84e5ae:
@@ -6604,7 +6604,7 @@ translate zh_Hans messager_stage5_f49e8f44:
 translate zh_Hans messager_stage6_4b0095ef:
 
     # nvljenna0 "{a=show:photo_582}photo_582.png"
-    nvljenna0 ""
+    nvljenna0 "{a=show:photo_582}photo_582.png"
 
 # script.rpy:9475
 translate zh_Hans messager_stage6_3c64a615:
@@ -6886,7 +6886,7 @@ translate zh_Hans messager_stage8_3e80645a:
 translate zh_Hans messager_stage8_b2b3a467:
 
     # nvlwife "{a=show:photo_22591}photo_22591.png"
-    nvlwife ""
+    nvlwife "{a=show:photo_22591}photo_22591.png"
 
 # script.rpy:9651
 translate zh_Hans messager_stage8_55937521:
@@ -6952,7 +6952,7 @@ translate zh_Hans messager_stage8_f49e8f44:
 translate zh_Hans messager_stage9_0f370d15:
 
     # nvlwife0 "{a=show:photo_22598}photo_22598.png"
-    nvlwife0 ""
+    nvlwife0 "{a=show:photo_22598}photo_22598.png"
 
 # script.rpy:9711
 translate zh_Hans messager_stage9_e71b0277:
@@ -7060,13 +7060,13 @@ translate zh_Hans messager_stage9_f304b742:
 translate zh_Hans messager_stage9_2f7e38bd:
 
     # nvlwife "{a=show:photo_22596}photo_22596.png"
-    nvlwife ""
+    nvlwife "{a=show:photo_22596}photo_22596.png"
 
 # script.rpy:9770
 translate zh_Hans messager_stage9_71f35835:
 
     # nvlwife "{a=show:photo_22597}photo_22597.png"
-    nvlwife ""
+    nvlwife "{a=show:photo_22597}photo_22597.png"
 
 # script.rpy:9789
 translate zh_Hans messager_stage9_60379ddb:
@@ -7228,7 +7228,7 @@ translate zh_Hans messager_stage9_a51c069d:
 translate zh_Hans messager_stage9_c037c9a0:
 
     # nvljohn "{a=show:photo_105}photo_105.png"
-    nvljohn ""
+    nvljohn "{a=show:photo_105}photo_105.png"
 
 # script.rpy:9856
 translate zh_Hans messager_stage9_cddc153b:
@@ -7258,7 +7258,7 @@ translate zh_Hans messager_stage9_04836808:
 translate zh_Hans messager_stage9_23fe6e02:
 
     # nvlwife "{a=show:photo_22601}photo_22601.png"
-    nvlwife ""
+    nvlwife "{a=show:photo_22601}photo_22601.png"
 
 # script.rpy:9888
 translate zh_Hans messager_stage9_288fcf71:
@@ -7372,7 +7372,7 @@ translate zh_Hans messager_stage11_7dfbaf61:
 translate zh_Hans messager_stage11_a283a465:
 
     # nvlwife "{a=show:photo_22611}photo_22611.png"
-    nvlwife ""
+    nvlwife "{a=show:photo_22611}photo_22611.png"
 
 # script.rpy:10012
 translate zh_Hans messager_stage11_b2f7cb24:
@@ -7462,25 +7462,25 @@ translate zh_Hans messager_stage11_f49e8f44:
 translate zh_Hans messager_stage12_d01f3189:
 
     # nvljenna0 "{a=show:Christina_1}https://qos.blacked/newqueen/Christina/1.jpeg"
-    nvljenna0 ""
+    nvljenna0 "{a=show:Christina_1}https://qos.blacked/newqueen/Christina/1.jpeg"
 
 # script.rpy:10063
 translate zh_Hans messager_stage12_9cb65ffb:
 
     # nvljenna0 "{a=show:Christina_m_1}https://qos.blacked/newqueen/Christina/fucked1.mp4"
-    nvljenna0 ""
+    nvljenna0 "{a=show:Christina_m_1}https://qos.blacked/newqueen/Christina/fucked1.mp4"
 
 # script.rpy:10064
 translate zh_Hans messager_stage12_969dedbd:
 
     # nvljenna0 "{a=show:Christina_m_2}https://qos.blacked/newqueen/Christina/fucked2.mp4"
-    nvljenna0 ""
+    nvljenna0 "{a=show:Christina_m_2}https://qos.blacked/newqueen/Christina/fucked2.mp4"
 
 # script.rpy:10065
 translate zh_Hans messager_stage12_db697ef0:
 
     # nvljenna0 "{a=show:Christina_m_3}https://qos.blacked/newqueen/Christina/fucked3.mp4"
-    nvljenna0 ""
+    nvljenna0 "{a=show:Christina_m_3}https://qos.blacked/newqueen/Christina/fucked3.mp4"
 
 # script.rpy:10066
 translate zh_Hans messager_stage12_2c44d357:
@@ -7858,7 +7858,7 @@ translate zh_Hans messager_stage14_f49e8f44:
 translate zh_Hans messager_stage15_21ec6dd1:
 
     # nvljenna0 "{a=show:photo_782}photo_782.png"
-    nvljenna0 ""
+    nvljenna0 "{a=show:photo_782}photo_782.png"
 
 # script.rpy:10376
 translate zh_Hans messager_stage15_2ccd4cb4:
@@ -7888,7 +7888,7 @@ translate zh_Hans messager_stage15_6cb1cff2:
 translate zh_Hans messager_stage15_9da8f914:
 
     # nvljenna "{a=show:photo_774}photo_774.png"
-    nvljenna ""
+    nvljenna "{a=show:photo_774}photo_774.png"
 
 # script.rpy:10401
 translate zh_Hans messager_stage15_e3e771ca:
@@ -7930,7 +7930,7 @@ translate zh_Hans messager_stage15_e4ae63ec:
 translate zh_Hans messager_stage15_6c0bffe7:
 
     # nvljenna "{a=show:photo_765}photo_765.png"
-    nvljenna ""
+    nvljenna "{a=show:photo_765}photo_765.png"
 
 # script.rpy:10442
 translate zh_Hans messager_stage15_7c602f7d:
@@ -8008,7 +8008,7 @@ translate zh_Hans messager_stage15_6b3724e1:
 translate zh_Hans messager_stage15_0d8a2dd5:
 
     # nvljenna "{a=show:photo_785}photo_785.png"
-    nvljenna ""
+    nvljenna "{a=show:photo_785}photo_785.png"
 
 # script.rpy:10491
 translate zh_Hans messager_stage15_bb35e02b:
@@ -8104,13 +8104,13 @@ translate zh_Hans messager_stage15_08e8d15f:
 translate zh_Hans messager_stage15_8e4d3a83:
 
     # nvljenna "{a=show:qos_fuck_jenna_201}qos_fuck_jenna_201.mp4"
-    nvljenna ""
+    nvljenna "{a=show:qos_fuck_jenna_201}qos_fuck_jenna_201.mp4"
 
 # script.rpy:10539
 translate zh_Hans messager_stage15_8c8b1dc4:
 
     # nvljenna "{a=show:qos_fuck_jenna_254}qos_fuck_jenna_254.mp4"
-    nvljenna ""
+    nvljenna "{a=show:qos_fuck_jenna_254}qos_fuck_jenna_254.mp4"
 
 # script.rpy:10570
 translate zh_Hans messager_stage15_5d7d0849:
@@ -8134,7 +8134,7 @@ translate zh_Hans messager_stage15_60bb5741:
 translate zh_Hans messager_stage15_fd4bd914:
 
     # nvljenna "{a=show:qos_fuck_jenna_205}qos_fuck_jenna_205.mp4"
-    nvljenna ""
+    nvljenna "{a=show:qos_fuck_jenna_205}qos_fuck_jenna_205.mp4"
 
 # script.rpy:10591
 translate zh_Hans messager_stage15_b66dad36:
@@ -8338,7 +8338,7 @@ translate zh_Hans messager_stage15_7f4075af:
 translate zh_Hans messager_stage15_8e4d3a83_1:
 
     # nvljenna "{a=show:qos_fuck_jenna_201}qos_fuck_jenna_201.mp4"
-    nvljenna ""
+    nvljenna "{a=show:qos_fuck_jenna_201}qos_fuck_jenna_201.mp4"
 
 # script.rpy:10681
 translate zh_Hans messager_stage15_8dc30c8e:
@@ -8392,7 +8392,7 @@ translate zh_Hans messager_stage15_dcd365bd:
 translate zh_Hans messager_stage15_8e4d3a83_2:
 
     # nvljenna "{a=show:qos_fuck_jenna_201}qos_fuck_jenna_201.mp4"
-    nvljenna ""
+    nvljenna "{a=show:qos_fuck_jenna_201}qos_fuck_jenna_201.mp4"
 
 # script.rpy:10706
 translate zh_Hans messager_stage15_c1b513af:
@@ -8416,7 +8416,7 @@ translate zh_Hans messager_stage15_f49e8f44:
 translate zh_Hans messager_stage16_6a7399cc:
 
     # nvljenna0 "{a=show:photo_802}photo_802.png"
-    nvljenna0 ""
+    nvljenna0 "{a=show:photo_802}photo_802.png"
 
 # script.rpy:10760
 translate zh_Hans messager_stage16_4f58c1e3:
@@ -8476,7 +8476,7 @@ translate zh_Hans messager_stage16_bd0440ac:
 translate zh_Hans messager_stage16_a7e3e88a:
 
     # nvljenna "{a=show:photo_278}photo_278.png"
-    nvljenna ""
+    nvljenna "{a=show:photo_278}photo_278.png"
 
 # script.rpy:10793
 translate zh_Hans messager_stage16_475bd82a:
@@ -8548,7 +8548,7 @@ translate zh_Hans messager_stage16_f49e8f44:
 translate zh_Hans messager_stage17_63fdad08:
 
     # nvljenna0 "{a=show:photo_301}photo_301.png"
-    nvljenna0 ""
+    nvljenna0 "{a=show:photo_301}photo_301.png"
 
 # script.rpy:10850
 translate zh_Hans messager_stage17_3da816b0:
@@ -8650,7 +8650,7 @@ translate zh_Hans messager_stage17_8512f749:
 translate zh_Hans messager_stage17_0f5cf9a5:
 
     # nvljenna "{a=show:photo_171}photo_171.png"
-    nvljenna ""
+    nvljenna "{a=show:photo_171}photo_171.png"
 
 # script.rpy:10893
 translate zh_Hans messager_stage17_a84a25ac:
@@ -8734,7 +8734,7 @@ translate zh_Hans messager_stage17_98942224:
 translate zh_Hans messager_stage17_253ecf36:
 
     # nvljenna "{a=show:oldphoto_3202}oldphoto_3202.png"
-    nvljenna ""
+    nvljenna "{a=show:oldphoto_3202}oldphoto_3202.png"
 
 # script.rpy:10963
 translate zh_Hans messager_stage17_ff64afbf:
@@ -8764,7 +8764,7 @@ translate zh_Hans messager_stage17_b006d216:
 translate zh_Hans messager_stage17_2ff24fa5:
 
     # nvljenna "{a=show:oldphoto_3241}oldphoto_3241.png"
-    nvljenna ""
+    nvljenna "{a=show:oldphoto_3241}oldphoto_3241.png"
 
 # script.rpy:10985
 translate zh_Hans messager_stage17_d6591014:
@@ -8962,7 +8962,7 @@ translate zh_Hans messager_stage18_445ac2b1:
 translate zh_Hans messager_stage18_28b56143:
 
     # nvlwife "{a=show:photo_22641}photo_22641.png"
-    nvlwife ""
+    nvlwife "{a=show:photo_22641}photo_22641.png"
 
 # script.rpy:11092
 translate zh_Hans messager_stage18_06cbbd5c:
@@ -9340,7 +9340,7 @@ translate zh_Hans messager_stage21_db15bcca:
 translate zh_Hans messager_stage21_e575ff85:
 
     # nvljenna "{a=show:photo_22657}photo_22657.png"
-    nvljenna ""
+    nvljenna "{a=show:photo_22657}photo_22657.png"
 
 # script.rpy:11289
 translate zh_Hans messager_stage21_5cfb6c0a:
@@ -9388,7 +9388,7 @@ translate zh_Hans messager_stage21_8405222e:
 translate zh_Hans messager_stage21_f0600830:
 
     # nvljenna "{a=show:photo_341}photo_341.png"
-    nvljenna ""
+    nvljenna "{a=show:photo_341}photo_341.png"
 
 # script.rpy:11319
 translate zh_Hans messager_stage21_d7153134:
@@ -9496,7 +9496,7 @@ translate zh_Hans messager_stage21_f49e8f44:
 translate zh_Hans messager_stage22_24b35b9d:
 
     # nvlwife "{nw}{a=show:photo_22681}photo_22681.png"
-    nvlwife ""
+    nvlwife "{nw}{a=show:photo_22681}photo_22681.png"
 
 # script.rpy:11400
 translate zh_Hans messager_stage22_ef4f4474:
@@ -9508,7 +9508,7 @@ translate zh_Hans messager_stage22_ef4f4474:
 translate zh_Hans messager_stage22_f1dd2ee4:
 
     # nvlwife "{nw}{a=show:photo_22682}photo_22682.png"
-    nvlwife ""
+    nvlwife "{nw}{a=show:photo_22682}photo_22682.png"
 
 # script.rpy:11406
 translate zh_Hans messager_stage22_bc6cd0f6:
@@ -9526,13 +9526,13 @@ translate zh_Hans messager_stage22_81f01e68:
 translate zh_Hans messager_stage22_ad32fee8:
 
     # nvlwife "{nw}{a=show:photo_22674}photo_22674.png"
-    nvlwife ""
+    nvlwife "{nw}{a=show:photo_22674}photo_22674.png"
 
 # script.rpy:11412
 translate zh_Hans messager_stage22_837d91ce:
 
     # nvlwife "{nw}{a=show:photo_22675}photo_22675.png"
-    nvlwife ""
+    nvlwife "{nw}{a=show:photo_22675}photo_22675.png"
 
 # script.rpy:11418
 translate zh_Hans messager_stage22_6d67b302:
@@ -9556,7 +9556,7 @@ translate zh_Hans messager_stage22_f29137de:
 translate zh_Hans messager_stage22_fb4fa069:
 
     # nvlwife "{a=show:photo_22681}photo_22681.png"
-    nvlwife ""
+    nvlwife "{a=show:photo_22681}photo_22681.png"
 
 # script.rpy:11430
 translate zh_Hans messager_stage22_306cdf58:
@@ -9568,7 +9568,7 @@ translate zh_Hans messager_stage22_306cdf58:
 translate zh_Hans messager_stage22_5a00d418:
 
     # nvlwife "{a=show:photo_22682}photo_22682.png"
-    nvlwife ""
+    nvlwife "{a=show:photo_22682}photo_22682.png"
 
 # script.rpy:11436
 translate zh_Hans messager_stage22_ac9382a1:
@@ -9586,13 +9586,13 @@ translate zh_Hans messager_stage22_0d761e43:
 translate zh_Hans messager_stage22_000088b9:
 
     # nvlwife "{a=show:photo_22674}photo_22674.png"
-    nvlwife ""
+    nvlwife "{a=show:photo_22674}photo_22674.png"
 
 # script.rpy:11442
 translate zh_Hans messager_stage22_cbe1e687:
 
     # nvlwife "{a=show:photo_22675}photo_22675.png"
-    nvlwife ""
+    nvlwife "{a=show:photo_22675}photo_22675.png"
 
 # script.rpy:11448
 translate zh_Hans messager_stage22_8d5c3eef:
@@ -10096,7 +10096,7 @@ translate zh_Hans messager_stage24_607be2ab:
 translate zh_Hans messager_stage24_5e83d128:
 
     # nvlkeiran "{color=#000}{a=show:keiran_photo_101}keiran_photo_101.png"
-    nvlkeiran ""
+    nvlkeiran "{color=#000}{a=show:keiran_photo_101}keiran_photo_101.png"
 
 # script.rpy:11768
 translate zh_Hans messager_stage24_f80c8496:
@@ -10168,7 +10168,7 @@ translate zh_Hans messager_stage24_b5222ed0:
 translate zh_Hans messager_stage24_86cc8231:
 
     # nvlkeiran "{color=#000}{a=show:keiran_photo_102}keiran_photo_102.png"
-    nvlkeiran ""
+    nvlkeiran "{color=#000}{a=show:keiran_photo_102}keiran_photo_102.png"
 
 # script.rpy:11819
 translate zh_Hans messager_stage24_22e08edc:
@@ -10642,7 +10642,7 @@ translate zh_Hans messager_stage24_86e79856:
 translate zh_Hans messager_stage24_6cd5e3f9:
 
     # nvlwife "{color=#000}{a=show:photo_22701}photo_22701.png"
-    nvlwife ""
+    nvlwife "{color=#000}{a=show:photo_22701}photo_22701.png"
 
 # script.rpy:12074
 translate zh_Hans messager_stage24_3102e906:
@@ -10672,7 +10672,7 @@ translate zh_Hans messager_stage24_ce1bcb2e:
 translate zh_Hans messager_stage24_aa6caa84:
 
     # nvlwife "{color=#000}{a=show:photo_22570}photo_22570.png"
-    nvlwife ""
+    nvlwife "{color=#000}{a=show:photo_22570}photo_22570.png"
 
 # script.rpy:12095
 translate zh_Hans messager_stage24_640c2343:
@@ -10756,7 +10756,7 @@ translate zh_Hans messager_stage24_bc0544fa_10:
 translate zh_Hans messager_stage24_dd68d0c4:
 
     # nvlgreg "{color=#000}{a=show:el_photo_891}el_photo_891.png"
-    nvlgreg ""
+    nvlgreg "{color=#000}{a=show:el_photo_891}el_photo_891.png"
 
 # script.rpy:12142
 translate zh_Hans messager_stage24_2c0f2d23:
@@ -10960,7 +10960,7 @@ translate zh_Hans messager_stage24_ba769acb:
 translate zh_Hans messager_stage24_31c56626:
 
     # nvlwife "{color=#000}{a=show:photo_21700}photo_21700.png"
-    nvlwife ""
+    nvlwife "{color=#000}{a=show:photo_21700}photo_21700.png"
 
 # script.rpy:12243
 translate zh_Hans messager_stage24_30edfd17:
@@ -10996,7 +10996,7 @@ translate zh_Hans messager_stage24_488d2e03:
 translate zh_Hans messager_stage24_ea931200:
 
     # nvlwife "{color=#000}{a=show:photo_21054}photo_21054.png"
-    nvlwife ""
+    nvlwife "{color=#000}{a=show:photo_21054}photo_21054.png"
 
 # script.rpy:12264
 translate zh_Hans messager_stage24_d7a2b31f:
@@ -11020,7 +11020,7 @@ translate zh_Hans messager_stage24_181b4882:
 translate zh_Hans messager_stage24_f397269d:
 
     # nvlwife "{color=#000}{image=wink_emoji.png}"
-    nvlwife ""
+    nvlwife "{color=#000}{image=wink_emoji.png}"
 
 # script.rpy:12272
 translate zh_Hans messager_stage24_38392736:
@@ -11194,7 +11194,7 @@ translate zh_Hans messager_stage24_2d13fa48:
 translate zh_Hans messager_stage24_f397269d_1:
 
     # nvlwife "{color=#000}{image=wink_emoji.png}"
-    nvlwife ""
+    nvlwife "{color=#000}{image=wink_emoji.png}"
 
 # script.rpy:12342
 translate zh_Hans messager_stage24_fadec045:
@@ -11734,25 +11734,25 @@ translate zh_Hans messager_stage27_9c14aa8d:
 translate zh_Hans messager_stage27_1daf67bd:
 
     # nvlunknown "{a=show:control_app_wife1_434}control_app_wife1_434.mp4"
-    nvlunknown ""
+    nvlunknown "{a=show:control_app_wife1_434}control_app_wife1_434.mp4"
 
 # script.rpy:12705
 translate zh_Hans messager_stage27_becbd4bc:
 
     # nvlunknown "{a=show:control_app_wife1_506}control_app_wife1_506.mp4"
-    nvlunknown ""
+    nvlunknown "{a=show:control_app_wife1_506}control_app_wife1_506.mp4"
 
 # script.rpy:12707
 translate zh_Hans messager_stage27_7cf0b8cd:
 
     # nvlunknown "{a=show:control_app_wife1_710}control_app_wife1_710.mp4"
-    nvlunknown ""
+    nvlunknown "{a=show:control_app_wife1_710}control_app_wife1_710.mp4"
 
 # script.rpy:12709
 translate zh_Hans messager_stage27_4db281f4:
 
     # nvlunknown "{a=show:control_app_wife1_324}control_app_wife1_324.mp4"
-    nvlunknown ""
+    nvlunknown "{a=show:control_app_wife1_324}control_app_wife1_324.mp4"
 
 # script.rpy:12722
 translate zh_Hans messager_stage27_1f7a540c:
@@ -11848,25 +11848,25 @@ translate zh_Hans messager_stage27_88d00f57:
 translate zh_Hans messager_stage27_9a40e1e1:
 
     # nvlunknown "{a=show:control_app_wife1_517}control_app_wife1_517.mp4"
-    nvlunknown ""
+    nvlunknown "{a=show:control_app_wife1_517}control_app_wife1_517.mp4"
 
 # script.rpy:12785
 translate zh_Hans messager_stage27_9d5d3389:
 
     # nvlunknown "{a=show:control_app_wife1_438}control_app_wife1_438.mp4"
-    nvlunknown ""
+    nvlunknown "{a=show:control_app_wife1_438}control_app_wife1_438.mp4"
 
 # script.rpy:12787
 translate zh_Hans messager_stage27_fcbc537a:
 
     # nvlunknown "{a=show:control_app_wife1_503}control_app_wife1_503.mp4"
-    nvlunknown ""
+    nvlunknown "{a=show:control_app_wife1_503}control_app_wife1_503.mp4"
 
 # script.rpy:12789
 translate zh_Hans messager_stage27_3afd3dc3:
 
     # nvlunknown "{a=show:control_app_wife1_713}control_app_wife1_713.mp4"
-    nvlunknown ""
+    nvlunknown "{a=show:control_app_wife1_713}control_app_wife1_713.mp4"
 
 # script.rpy:12815
 translate zh_Hans messager_stage27_946c6af9:
@@ -12634,7 +12634,7 @@ translate zh_Hans messager_stage29_98b49a54:
 translate zh_Hans messager_stage29_2f55ec7e:
 
     # nvlwife "{a=show:photo_22701}photo_22701.png"
-    nvlwife ""
+    nvlwife "{a=show:photo_22701}photo_22701.png"
 
 # script.rpy:13167
 translate zh_Hans messager_stage29_f7c21855:
@@ -12712,7 +12712,7 @@ translate zh_Hans messager_stage29_2a0d60e6:
 translate zh_Hans messager_stage29_aa627303:
 
     # nvlwife "{a=show:photo_22693}photo_22693.png"
-    nvlwife ""
+    nvlwife "{a=show:photo_22693}photo_22693.png"
 
 # script.rpy:13202
 translate zh_Hans messager_stage29_da0155c8:
@@ -13006,85 +13006,85 @@ translate zh_Hans messager_stage30_f49e8f44:
 translate zh_Hans messager_stage32_6ce25d5f:
 
     # nvlunknown "{a=show:cheating_photo_98}cheating_photo_98.png"
-    nvlunknown ""
+    nvlunknown "{a=show:cheating_photo_98}cheating_photo_98.png"
 
 # script.rpy:13353
 translate zh_Hans messager_stage32_51df0d6e:
 
     # nvlunknown "{a=show:cheating_photo_99}cheating_photo_99.png"
-    nvlunknown ""
+    nvlunknown "{a=show:cheating_photo_99}cheating_photo_99.png"
 
 # script.rpy:13355
 translate zh_Hans messager_stage32_d5953d1b:
 
     # nvlunknown "{a=show:cheating_photo_101}cheating_photo_101.png"
-    nvlunknown ""
+    nvlunknown "{a=show:cheating_photo_101}cheating_photo_101.png"
 
 # script.rpy:13357
 translate zh_Hans messager_stage32_34f81469:
 
     # nvlunknown "{a=show:cheating_photo_105}cheating_photo_105.png"
-    nvlunknown ""
+    nvlunknown "{a=show:cheating_photo_105}cheating_photo_105.png"
 
 # script.rpy:13358
 translate zh_Hans messager_stage32_a409cac7:
 
     # nvlunknown "{a=show:cheating_photo_109}cheating_photo_109.png"
-    nvlunknown ""
+    nvlunknown "{a=show:cheating_photo_109}cheating_photo_109.png"
 
 # script.rpy:13359
 translate zh_Hans messager_stage32_cd773c9c:
 
     # nvlunknown "{a=show:cheating_photo_113}cheating_photo_113.png"
-    nvlunknown ""
+    nvlunknown "{a=show:cheating_photo_113}cheating_photo_113.png"
 
 # script.rpy:13360
 translate zh_Hans messager_stage32_a4f18549:
 
     # nvlunknown "{a=show:cheating_photo_116}cheating_photo_116.png"
-    nvlunknown ""
+    nvlunknown "{a=show:cheating_photo_116}cheating_photo_116.png"
 
 # script.rpy:13361
 translate zh_Hans messager_stage32_31323c38:
 
     # nvlunknown "{a=show:cheating_photo_118}cheating_photo_118.png"
-    nvlunknown ""
+    nvlunknown "{a=show:cheating_photo_118}cheating_photo_118.png"
 
 # script.rpy:13362
 translate zh_Hans messager_stage32_801f008a:
 
     # nvlunknown "{a=show:cheating_photo_121}cheating_photo_121.png"
-    nvlunknown ""
+    nvlunknown "{a=show:cheating_photo_121}cheating_photo_121.png"
 
 # script.rpy:13363
 translate zh_Hans messager_stage32_fa527585:
 
     # nvlunknown "{a=show:cheating_photo_123}cheating_photo_123.png"
-    nvlunknown ""
+    nvlunknown "{a=show:cheating_photo_123}cheating_photo_123.png"
 
 # script.rpy:13364
 translate zh_Hans messager_stage32_bc1d8e59:
 
     # nvlunknown "{a=show:cheating_photo_131}cheating_photo_131.png"
-    nvlunknown ""
+    nvlunknown "{a=show:cheating_photo_131}cheating_photo_131.png"
 
 # script.rpy:13365
 translate zh_Hans messager_stage32_cb385d3a:
 
     # nvlunknown "{a=show:cheating_photo_135}cheating_photo_135.png"
-    nvlunknown ""
+    nvlunknown "{a=show:cheating_photo_135}cheating_photo_135.png"
 
 # script.rpy:13366
 translate zh_Hans messager_stage32_761f786b:
 
     # nvlunknown "{a=show:cheating_photo_138}cheating_photo_138.png"
-    nvlunknown ""
+    nvlunknown "{a=show:cheating_photo_138}cheating_photo_138.png"
 
 # script.rpy:13367
 translate zh_Hans messager_stage32_ec794587:
 
     # nvlunknown "{a=show:cheating_photo_142}cheating_photo_142.png"
-    nvlunknown ""
+    nvlunknown "{a=show:cheating_photo_142}cheating_photo_142.png"
 
 # script.rpy:13428
 translate zh_Hans messager_stage32_1f482c07:
@@ -13180,25 +13180,25 @@ translate zh_Hans messager_stage32_64715f45:
 translate zh_Hans messager_stage32_6e2c3132:
 
     # nvlunknown "{a=show:cheating_video_16}cheating_video_16.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:cheating_video_16}cheating_video_16.mov"
 
 # script.rpy:13539
 translate zh_Hans messager_stage32_d00c3fd7:
 
     # nvlunknown "{a=show:cheating_video_21}cheating_video_21.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:cheating_video_21}cheating_video_21.mov"
 
 # script.rpy:13541
 translate zh_Hans messager_stage32_fb6a8829:
 
     # nvlunknown "{a=show:cheating_video_32}cheating_video_32.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:cheating_video_32}cheating_video_32.mov"
 
 # script.rpy:13543
 translate zh_Hans messager_stage32_a0e8b89d:
 
     # nvlunknown "{a=show:cheating_video_07}cheating_video_07.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:cheating_video_07}cheating_video_07.mov"
 
 # script.rpy:13561
 translate zh_Hans messager_stage32_cdb6070a:
@@ -13264,7 +13264,7 @@ translate zh_Hans messager_stage32_fc0aa809:
 translate zh_Hans messager_stage32_8baea458:
 
     # nvlunknown "{a=show:cheating_video_13}cheating_video_13.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:cheating_video_13}cheating_video_13.mov"
 
 # script.rpy:13623
 translate zh_Hans messager_stage32_cf8cfbdd:
@@ -14212,7 +14212,7 @@ translate zh_Hans messager_stage35_f49e8f44:
 translate zh_Hans messager_stage37_4bd9849d:
 
     # nvlwife0 "{a=show:photo_22761}photo_22761.png"
-    nvlwife0 ""
+    nvlwife0 "{a=show:photo_22761}photo_22761.png"
 
 # script.rpy:14069
 translate zh_Hans messager_stage37_d417a917:
@@ -14574,7 +14574,7 @@ translate zh_Hans messager_stage39_8d70fb2b:
 translate zh_Hans messager_stage39_859d1a55:
 
     # nvlwsis "{a=show:myphoto_301}myphoto_301.png"
-    nvlwsis ""
+    nvlwsis "{a=show:myphoto_301}myphoto_301.png"
 
 # script.rpy:14239
 translate zh_Hans messager_stage39_99215df3:
@@ -14628,7 +14628,7 @@ translate zh_Hans messager_stage39_37e82d18:
 translate zh_Hans messager_stage39_789488ca:
 
     # nvlwsis "{a=show:myphoto_314}myphoto_314.png"
-    nvlwsis ""
+    nvlwsis "{a=show:myphoto_314}myphoto_314.png"
 
 # script.rpy:14266
 translate zh_Hans messager_stage39_cfde3466:
@@ -14706,7 +14706,7 @@ translate zh_Hans messager_stage39_651276e9:
 translate zh_Hans messager_stage39_74d0afd2:
 
     # nvlwsis "{a=show:myphoto_292}myphoto_292.png"
-    nvlwsis ""
+    nvlwsis "{a=show:myphoto_292}myphoto_292.png"
 
 # script.rpy:14308
 translate zh_Hans messager_stage39_8ceafbbc:
@@ -14760,7 +14760,7 @@ translate zh_Hans messager_stage39_2566b94c:
 translate zh_Hans messager_stage39_f6f43553:
 
     # nvlwsis "{a=show:myphoto_293}myphoto_293.png"
-    nvlwsis ""
+    nvlwsis "{a=show:myphoto_293}myphoto_293.png"
 
 # script.rpy:14347
 translate zh_Hans messager_stage39_8ceafbbc_1:
@@ -14832,7 +14832,7 @@ translate zh_Hans messager_stage39_ad14f7ad:
 translate zh_Hans messager_stage39_aa54a72b:
 
     # nvlwsis "{a=show:myphoto_297}myphoto_297.png"
-    nvlwsis ""
+    nvlwsis "{a=show:myphoto_297}myphoto_297.png"
 
 # script.rpy:14387
 translate zh_Hans messager_stage39_5a7777f0:

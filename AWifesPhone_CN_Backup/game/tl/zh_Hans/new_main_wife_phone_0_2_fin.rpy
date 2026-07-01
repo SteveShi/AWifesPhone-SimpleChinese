@@ -1678,7 +1678,7 @@ translate zh_Hans wife_sharing_1_messager02_2_b268a6c9:
 translate zh_Hans wife_sharing_1_messager02_2_886f96ae:
 
     # nvlwife "{a=show:photo_24167}photo_24167.png"
-    nvlwife ""
+    nvlwife "{a=show:photo_24167}photo_24167.png"
 
 # new_main_wife_phone_0_2_fin.rpy:726
 translate zh_Hans wife_sharing_1_messager02_2_b352394b:
@@ -1714,7 +1714,7 @@ translate zh_Hans wife_sharing_1_messager02_2_4caca935:
 translate zh_Hans wife_sharing_1_messager02_2_4bf96017:
 
     # nvlwife "{a=show:photo_24169}photo_24169.png"
-    nvlwife ""
+    nvlwife "{a=show:photo_24169}photo_24169.png"
 
 # new_main_wife_phone_0_2_fin.rpy:740
 translate zh_Hans wife_sharing_1_messager02_2_facd03cf:
@@ -1738,7 +1738,7 @@ translate zh_Hans wife_sharing_1_messager02_2_fa5d35e5:
 translate zh_Hans wife_sharing_1_messager02_2_10855b06:
 
     # nvlwife "{image=love_emoji.png} {image=love_emoji.png}"
-    nvlwife ""
+    nvlwife "{image=love_emoji.png} {image=love_emoji.png}"
 
 # new_main_wife_phone_0_2_fin.rpy:748
 translate zh_Hans wife_sharing_1_messager02_2_54cfb5d8:
@@ -2818,31 +2818,31 @@ translate zh_Hans wife_sharing_1_messager02_5_478312a9:
 translate zh_Hans wife_sharing_1_messager02_5_49b9af44:
 
     # nvlanissa "{a=show:anissa_photo_7461}anissa_photo_7461.png"
-    nvlanissa ""
+    nvlanissa "{a=show:anissa_photo_7461}anissa_photo_7461.png"
 
 # new_main_wife_phone_0_2_fin.rpy:1197
 translate zh_Hans wife_sharing_1_messager02_5_aa0ba9db:
 
     # nvlanissa "{a=show:anissa_photo_7213}anissa_photo_7213.png"
-    nvlanissa ""
+    nvlanissa "{a=show:anissa_photo_7213}anissa_photo_7213.png"
 
 # new_main_wife_phone_0_2_fin.rpy:1199
 translate zh_Hans wife_sharing_1_messager02_5_38faca9a:
 
     # nvlanissa "{a=show:anissa_photo_6915}anissa_photo_6915.png"
-    nvlanissa ""
+    nvlanissa "{a=show:anissa_photo_6915}anissa_photo_6915.png"
 
 # new_main_wife_phone_0_2_fin.rpy:1201
 translate zh_Hans wife_sharing_1_messager02_5_a2ff3c34:
 
     # nvlanissa "{a=show:anissa_photo_6174}anissa_photo_6174.png"
-    nvlanissa ""
+    nvlanissa "{a=show:anissa_photo_6174}anissa_photo_6174.png"
 
 # new_main_wife_phone_0_2_fin.rpy:1203
 translate zh_Hans wife_sharing_1_messager02_5_8cbd5441:
 
     # nvlanissa "{a=show:anissa_photo_6181}anissa_photo_6181.png"
-    nvlanissa ""
+    nvlanissa "{a=show:anissa_photo_6181}anissa_photo_6181.png"
 
 # new_main_wife_phone_0_2_fin.rpy:1215
 translate zh_Hans wife_sharing_1_messager02_5_d3452c50:
@@ -3556,7 +3556,7 @@ translate zh_Hans wife_sharing_1_messager02_8_f1c66f10:
 translate zh_Hans wife_sharing_1_messager02_8_b1e7bd0f:
 
     # nvlanissa "{a=show:anissa_photo_7693}anissa_photo_7693.png"
-    nvlanissa ""
+    nvlanissa "{a=show:anissa_photo_7693}anissa_photo_7693.png"
 
 # new_main_wife_phone_0_2_fin.rpy:1533
 translate zh_Hans wife_sharing_1_messager02_8_b6e6a923:
@@ -3580,7 +3580,7 @@ translate zh_Hans wife_sharing_1_messager02_8_f8c5caf8:
 translate zh_Hans wife_sharing_1_messager02_8_d281583a:
 
     # nvlanissa "{a=show:anissa_photo_7049}anissa_photo_7049.png"
-    nvlanissa ""
+    nvlanissa "{a=show:anissa_photo_7049}anissa_photo_7049.png"
 
 # new_main_wife_phone_0_2_fin.rpy:1543
 translate zh_Hans wife_sharing_1_messager02_8_f151cabc:
@@ -4132,55 +4132,55 @@ translate zh_Hans wife_sharing_1_messager02_11_ff3dab46:
 translate zh_Hans wife_sharing_1_messager02_11_bdfe03a1:
 
     # nvlanissa "{a=show:dr_photo_103}dr_photo_103.png"
-    nvlanissa ""
+    nvlanissa "{a=show:dr_photo_103}dr_photo_103.png"
 
 # new_main_wife_phone_0_2_fin.rpy:1805
 translate zh_Hans wife_sharing_1_messager02_11_29d3362a:
 
     # nvlanissa "{a=show:dr_photo_106}dr_photo_106.png"
-    nvlanissa ""
+    nvlanissa "{a=show:dr_photo_106}dr_photo_106.png"
 
 # new_main_wife_phone_0_2_fin.rpy:1807
 translate zh_Hans wife_sharing_1_messager02_11_c198e601:
 
     # nvlanissa "{a=show:dr_photo_131}dr_photo_131.png"
-    nvlanissa ""
+    nvlanissa "{a=show:dr_photo_131}dr_photo_131.png"
 
 # new_main_wife_phone_0_2_fin.rpy:1809
 translate zh_Hans wife_sharing_1_messager02_11_21d81931:
 
     # nvlanissa "{a=show:dr_photo_138}dr_photo_138.png"
-    nvlanissa ""
+    nvlanissa "{a=show:dr_photo_138}dr_photo_138.png"
 
 # new_main_wife_phone_0_2_fin.rpy:1811
 translate zh_Hans wife_sharing_1_messager02_11_db816575:
 
     # nvlanissa "{a=show:dr_photo_174}dr_photo_174.png"
-    nvlanissa ""
+    nvlanissa "{a=show:dr_photo_174}dr_photo_174.png"
 
 # new_main_wife_phone_0_2_fin.rpy:1813
 translate zh_Hans wife_sharing_1_messager02_11_a22b4e97:
 
     # nvlanissa "{a=show:dr_video_09}dr_video_09.mov"
-    nvlanissa ""
+    nvlanissa "{a=show:dr_video_09}dr_video_09.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:1815
 translate zh_Hans wife_sharing_1_messager02_11_cf38c717:
 
     # nvlanissa "{a=show:dr_video_10}dr_video_10.mov"
-    nvlanissa ""
+    nvlanissa "{a=show:dr_video_10}dr_video_10.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:1817
 translate zh_Hans wife_sharing_1_messager02_11_6f96b347:
 
     # nvlanissa "{a=show:dr_video_11}dr_video_11.mov"
-    nvlanissa ""
+    nvlanissa "{a=show:dr_video_11}dr_video_11.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:1819
 translate zh_Hans wife_sharing_1_messager02_11_b6c9e2aa:
 
     # nvlanissa "{a=show:dr_video_12}dr_video_12.mov"
-    nvlanissa ""
+    nvlanissa "{a=show:dr_video_12}dr_video_12.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:1839
 translate zh_Hans wife_sharing_1_messager02_11_1486ea04:
@@ -4534,7 +4534,7 @@ translate zh_Hans wife_sharing_1_messager02_12_9fce16cf:
 translate zh_Hans wife_sharing_1_messager02_12_6b69ddc8:
 
     # nvljenna "{a=show:jax_photo_57}jax_photo_57.png"
-    nvljenna ""
+    nvljenna "{a=show:jax_photo_57}jax_photo_57.png"
 
 # new_main_wife_phone_0_2_fin.rpy:1981
 translate zh_Hans wife_sharing_1_messager02_12_3aa8d5e3:
@@ -4564,7 +4564,7 @@ translate zh_Hans wife_sharing_1_messager02_12_558fc8ee:
 translate zh_Hans wife_sharing_1_messager02_12_d6f8c278:
 
     # nvljenna "{a=show:jax_photo_83}jax_photo_83.png"
-    nvljenna ""
+    nvljenna "{a=show:jax_photo_83}jax_photo_83.png"
 
 # new_main_wife_phone_0_2_fin.rpy:1993
 translate zh_Hans wife_sharing_1_messager02_12_6d9e8d34:
@@ -5476,7 +5476,7 @@ translate zh_Hans wife_sharing_1_messager02_17_babaee4c:
 translate zh_Hans wife_sharing_1_messager02_17_ccb7261a:
 
     # nvlanissa "{a=show:anissa_photo_7732}anissa_photo_7732.png"
-    nvlanissa ""
+    nvlanissa "{a=show:anissa_photo_7732}anissa_photo_7732.png"
 
 # new_main_wife_phone_0_2_fin.rpy:2415
 translate zh_Hans wife_sharing_1_messager02_17_3ee2a38c:
@@ -5506,7 +5506,7 @@ translate zh_Hans wife_sharing_1_messager02_17_8cdec6c6:
 translate zh_Hans wife_sharing_1_messager02_17_13bc5922:
 
     # nvljohn "{image=smile_emoji.png} {image=smile_emoji.png}"
-    nvljohn ""
+    nvljohn "{image=smile_emoji.png} {image=smile_emoji.png}"
 
 # new_main_wife_phone_0_2_fin.rpy:2425
 translate zh_Hans wife_sharing_1_messager02_17_7f66fe82:
@@ -6490,13 +6490,13 @@ translate zh_Hans wife_sharing_1_messager02_19_91aeee1c:
 translate zh_Hans wife_sharing_1_messager02_19_939e1ef8:
 
     # nvljenna "{a=show:jax_photo_101}jax_photo_101.png"
-    nvljenna ""
+    nvljenna "{a=show:jax_photo_101}jax_photo_101.png"
 
 # new_main_wife_phone_0_2_fin.rpy:2802
 translate zh_Hans wife_sharing_1_messager02_19_f395617c:
 
     # nvljenna "{a=show:jax_photo_118}jax_photo_118.png"
-    nvljenna ""
+    nvljenna "{a=show:jax_photo_118}jax_photo_118.png"
 
 # new_main_wife_phone_0_2_fin.rpy:2808
 translate zh_Hans wife_sharing_1_messager02_19_423219b9:
@@ -6538,7 +6538,7 @@ translate zh_Hans wife_sharing_1_messager02_19_de6e0438:
 translate zh_Hans wife_sharing_1_messager02_19_db1cd79d:
 
     # nvljenna "{a=show:bbc_cock_782}bbc_cock_782.png"
-    nvljenna ""
+    nvljenna "{a=show:bbc_cock_782}bbc_cock_782.png"
 
 # new_main_wife_phone_0_2_fin.rpy:2824
 translate zh_Hans wife_sharing_1_messager02_19_eb76741d:
@@ -7306,7 +7306,7 @@ translate zh_Hans wife_sharing_1_messager02_19_5_ba8c927d:
 translate zh_Hans wife_sharing_1_messager02_19_5_ec9e9a95:
 
     # nvlwife "{a=show:photo_27369}photo_27369.png"
-    nvlwife ""
+    nvlwife "{a=show:photo_27369}photo_27369.png"
 
 # new_main_wife_phone_0_2_fin.rpy:3108
 translate zh_Hans wife_sharing_1_messager02_19_5_840c4fef:
@@ -7348,7 +7348,7 @@ translate zh_Hans wife_sharing_1_messager02_19_5_ec0e0c94:
 translate zh_Hans wife_sharing_1_messager02_19_5_8c887fd0:
 
     # nvlwife "{a=show:photo_21032}photo_21032.png"
-    nvlwife ""
+    nvlwife "{a=show:photo_21032}photo_21032.png"
 
 # new_main_wife_phone_0_2_fin.rpy:3124
 translate zh_Hans wife_sharing_1_messager02_19_5_09b3099a:
@@ -7702,7 +7702,7 @@ translate zh_Hans wife_sharing_1_messager02_20_73585a96:
 translate zh_Hans wife_sharing_1_messager02_20_5c0c893b:
 
     # nvlanissa "{a=show:anissa_photo_6947}anissa_photo_6947.png"
-    nvlanissa ""
+    nvlanissa "{a=show:anissa_photo_6947}anissa_photo_6947.png"
 
 # new_main_wife_phone_0_2_fin.rpy:3270
 translate zh_Hans wife_sharing_1_messager02_20_a4deae9d:
@@ -7840,37 +7840,37 @@ translate zh_Hans wife_sharing_1_messager02_21_58cd24e0:
 translate zh_Hans wife_sharing_1_messager02_21_3dade6cd:
 
     # nvlanissa "{a=show:anissa_movie_247}anissa_movie_247.mov"
-    nvlanissa ""
+    nvlanissa "{a=show:anissa_movie_247}anissa_movie_247.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:3346
 translate zh_Hans wife_sharing_1_messager02_21_8e24fd62:
 
     # nvlanissa "{a=show:anissa_movie_248}anissa_movie_248.mov"
-    nvlanissa ""
+    nvlanissa "{a=show:anissa_movie_248}anissa_movie_248.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:3348
 translate zh_Hans wife_sharing_1_messager02_21_a0347ddf:
 
     # nvlanissa "{a=show:anissa_movie_249}anissa_movie_249.mov"
-    nvlanissa ""
+    nvlanissa "{a=show:anissa_movie_249}anissa_movie_249.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:3350
 translate zh_Hans wife_sharing_1_messager02_21_38fc907d:
 
     # nvlanissa "{a=show:anissa_movie_250}anissa_movie_250.mov"
-    nvlanissa ""
+    nvlanissa "{a=show:anissa_movie_250}anissa_movie_250.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:3352
 translate zh_Hans wife_sharing_1_messager02_21_25250802:
 
     # nvlanissa "{a=show:anissa_movie_251}anissa_movie_251.mov"
-    nvlanissa ""
+    nvlanissa "{a=show:anissa_movie_251}anissa_movie_251.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:3354
 translate zh_Hans wife_sharing_1_messager02_21_5330d0b7:
 
     # nvlanissa "{a=show:anissa_movie_252}anissa_movie_252.mov"
-    nvlanissa ""
+    nvlanissa "{a=show:anissa_movie_252}anissa_movie_252.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:3368
 translate zh_Hans wife_sharing_1_messager02_21_5ab59e2e:
@@ -9760,7 +9760,7 @@ translate zh_Hans wife_sharing_1_messager02_27_5d0d9361:
 translate zh_Hans wife_sharing_1_messager02_27_f247ced6:
 
     # nvljenna "{a=show:jax_photo_151}jax_photo_151.png"
-    nvljenna ""
+    nvljenna "{a=show:jax_photo_151}jax_photo_151.png"
 
 # new_main_wife_phone_0_2_fin.rpy:4159
 translate zh_Hans wife_sharing_1_messager02_27_3b41f511:
@@ -9928,7 +9928,7 @@ translate zh_Hans wife_sharing_1_messager02_28_4ea270d4:
 translate zh_Hans wife_sharing_1_messager02_28_29894c74:
 
     # nvlwife "{a=show:jx_pic_73}jx_pic_73.png"
-    nvlwife ""
+    nvlwife "{a=show:jx_pic_73}jx_pic_73.png"
 
 # new_main_wife_phone_0_2_fin.rpy:4245
 translate zh_Hans wife_sharing_1_messager02_28_22ef7533:
@@ -11044,25 +11044,25 @@ translate zh_Hans wife_sharing_1_messager02_31_6114292c:
 translate zh_Hans wife_sharing_1_messager02_31_7616ba85:
 
     # nvlanissa "{a=show:anissa_movie_273}anissa_movie_273.mov"
-    nvlanissa ""
+    nvlanissa "{a=show:anissa_movie_273}anissa_movie_273.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:4689
 translate zh_Hans wife_sharing_1_messager02_31_4ed71219:
 
     # nvlanissa "{a=show:anissa_movie_278}anissa_movie_278.mov"
-    nvlanissa ""
+    nvlanissa "{a=show:anissa_movie_278}anissa_movie_278.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:4691
 translate zh_Hans wife_sharing_1_messager02_31_f647abda:
 
     # nvlanissa "{a=show:anissa_movie_279}anissa_movie_279.mov"
-    nvlanissa ""
+    nvlanissa "{a=show:anissa_movie_279}anissa_movie_279.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:4693
 translate zh_Hans wife_sharing_1_messager02_31_8a53fba9:
 
     # nvlanissa "{a=show:anissa_movie_280}anissa_movie_280.mov"
-    nvlanissa ""
+    nvlanissa "{a=show:anissa_movie_280}anissa_movie_280.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:4695
 translate zh_Hans wife_sharing_1_messager02_31_0396f3c3:
@@ -11074,13 +11074,13 @@ translate zh_Hans wife_sharing_1_messager02_31_0396f3c3:
 translate zh_Hans wife_sharing_1_messager02_31_78a1d5be:
 
     # nvlanissa "{a=show:anissa_movie_281}anissa_movie_281.mov"
-    nvlanissa ""
+    nvlanissa "{a=show:anissa_movie_281}anissa_movie_281.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:4699
 translate zh_Hans wife_sharing_1_messager02_31_4ee8ebcd:
 
     # nvlanissa "{a=show:anissa_movie_282}anissa_movie_282.mov"
-    nvlanissa ""
+    nvlanissa "{a=show:anissa_movie_282}anissa_movie_282.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:4713
 translate zh_Hans wife_sharing_1_messager02_31_db75f92f:
@@ -11212,25 +11212,25 @@ translate zh_Hans wife_sharing_1_messager02_32_44914c4c:
 translate zh_Hans wife_sharing_1_messager02_32_64440de6:
 
     # nvljohn "{a=show:my_video_192}my_video_192.mov"
-    nvljohn ""
+    nvljohn "{a=show:my_video_192}my_video_192.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:4780
 translate zh_Hans wife_sharing_1_messager02_32_b13489ad:
 
     # nvljohn "{a=show:my_video_193}my_video_193.mov"
-    nvljohn ""
+    nvljohn "{a=show:my_video_193}my_video_193.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:4782
 translate zh_Hans wife_sharing_1_messager02_32_1d93e631:
 
     # nvljohn "{a=show:my_video_194}my_video_194.mov"
-    nvljohn ""
+    nvljohn "{a=show:my_video_194}my_video_194.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:4784
 translate zh_Hans wife_sharing_1_messager02_32_0668821c:
 
     # nvljohn "{a=show:my_video_195}my_video_195.mov"
-    nvljohn ""
+    nvljohn "{a=show:my_video_195}my_video_195.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:4794
 translate zh_Hans wife_sharing_1_messager02_32_bd487999:
@@ -13750,31 +13750,31 @@ translate zh_Hans wife_sharing_1_messager02_35_6df3146f:
 translate zh_Hans wife_sharing_1_messager02_35_b4429bc0:
 
     # nvljohn "{a=show:my_video_214}my_video_214.mov"
-    nvljohn ""
+    nvljohn "{a=show:my_video_214}my_video_214.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:5899
 translate zh_Hans wife_sharing_1_messager02_35_f0069cb1:
 
     # nvljohn "{a=show:my_video_215}my_video_215.mov"
-    nvljohn ""
+    nvljohn "{a=show:my_video_215}my_video_215.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:5901
 translate zh_Hans wife_sharing_1_messager02_35_0cb2c3ad:
 
     # nvljohn "{a=show:my_video_216}my_video_216.mov"
-    nvljohn ""
+    nvljohn "{a=show:my_video_216}my_video_216.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:5903
 translate zh_Hans wife_sharing_1_messager02_35_2074ba94:
 
     # nvljohn "{a=show:my_video_218}my_video_218.mov"
-    nvljohn ""
+    nvljohn "{a=show:my_video_218}my_video_218.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:5905
 translate zh_Hans wife_sharing_1_messager02_35_0cc87078:
 
     # nvljohn "{a=show:my_video_220}my_video_220.mov"
-    nvljohn ""
+    nvljohn "{a=show:my_video_220}my_video_220.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:5917
 translate zh_Hans wife_sharing_1_messager02_35_7af05e7e:
@@ -14902,7 +14902,7 @@ translate zh_Hans wife_sharing_1_messager02_37_b0e4b2a2:
 translate zh_Hans wife_sharing_1_messager02_37_f247ced6:
 
     # nvljenna "{a=show:jax_photo_151}jax_photo_151.png"
-    nvljenna ""
+    nvljenna "{a=show:jax_photo_151}jax_photo_151.png"
 
 # new_main_wife_phone_0_2_fin.rpy:6344
 translate zh_Hans wife_sharing_1_messager02_37_dd42da04:
@@ -15508,31 +15508,31 @@ translate zh_Hans christina_wife_messager02_1_3_eb4043df:
 translate zh_Hans christina_wife_messager02_1_3_b4429bc0:
 
     # nvljohn "{a=show:my_video_214}my_video_214.mov"
-    nvljohn ""
+    nvljohn "{a=show:my_video_214}my_video_214.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:6594
 translate zh_Hans christina_wife_messager02_1_3_f0069cb1:
 
     # nvljohn "{a=show:my_video_215}my_video_215.mov"
-    nvljohn ""
+    nvljohn "{a=show:my_video_215}my_video_215.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:6596
 translate zh_Hans christina_wife_messager02_1_3_0cb2c3ad:
 
     # nvljohn "{a=show:my_video_216}my_video_216.mov"
-    nvljohn ""
+    nvljohn "{a=show:my_video_216}my_video_216.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:6598
 translate zh_Hans christina_wife_messager02_1_3_2074ba94:
 
     # nvljohn "{a=show:my_video_218}my_video_218.mov"
-    nvljohn ""
+    nvljohn "{a=show:my_video_218}my_video_218.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:6600
 translate zh_Hans christina_wife_messager02_1_3_0cc87078:
 
     # nvljohn "{a=show:my_video_220}my_video_220.mov"
-    nvljohn ""
+    nvljohn "{a=show:my_video_220}my_video_220.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:6612
 translate zh_Hans christina_wife_messager02_1_3_653ce148:
@@ -15994,13 +15994,13 @@ translate zh_Hans christina_wife_messager02_1_4_99440d7c:
 translate zh_Hans christina_wife_messager02_1_4_21c7aae7:
 
     # nvlchristina "{a=show:christy_photo_1631}christy_photo_1631.png"
-    nvlchristina ""
+    nvlchristina "{a=show:christy_photo_1631}christy_photo_1631.png"
 
 # new_main_wife_phone_0_2_fin.rpy:6798
 translate zh_Hans christina_wife_messager02_1_4_27db989b:
 
     # nvlchristina "{a=show:christy_photo_1289}christy_photo_1289.png"
-    nvlchristina ""
+    nvlchristina "{a=show:christy_photo_1289}christy_photo_1289.png"
 
 # new_main_wife_phone_0_2_fin.rpy:6804
 translate zh_Hans christina_wife_messager02_1_4_05d880f8:
@@ -16024,19 +16024,19 @@ translate zh_Hans christina_wife_messager02_1_4_0515986d:
 translate zh_Hans christina_wife_messager02_1_4_ff2612f3:
 
     # nvlchristina "{a=show:christy_photo_1017}christy_photo_1017.png"
-    nvlchristina ""
+    nvlchristina "{a=show:christy_photo_1017}christy_photo_1017.png"
 
 # new_main_wife_phone_0_2_fin.rpy:6816
 translate zh_Hans christina_wife_messager02_1_4_5beb591b:
 
     # nvlchristina "{a=show:christy_photo_1632}christy_photo_1632.png"
-    nvlchristina ""
+    nvlchristina "{a=show:christy_photo_1632}christy_photo_1632.png"
 
 # new_main_wife_phone_0_2_fin.rpy:6818
 translate zh_Hans christina_wife_messager02_1_4_c73786fe:
 
     # nvlchristina "{a=show:christy_photo_1288}christy_photo_1288.png"
-    nvlchristina ""
+    nvlchristina "{a=show:christy_photo_1288}christy_photo_1288.png"
 
 # new_main_wife_phone_0_2_fin.rpy:6824
 translate zh_Hans christina_wife_messager02_1_4_05d880f8_1:
@@ -16060,7 +16060,7 @@ translate zh_Hans christina_wife_messager02_1_4_0515986d_1:
 translate zh_Hans christina_wife_messager02_1_4_c3f88233:
 
     # nvlchristina "{a=show:christy_photo_1015}christy_photo_1015.png"
-    nvlchristina ""
+    nvlchristina "{a=show:christy_photo_1015}christy_photo_1015.png"
 
 # new_main_wife_phone_0_2_fin.rpy:6834
 translate zh_Hans christina_wife_messager02_1_4_901bc048:
@@ -16084,7 +16084,7 @@ translate zh_Hans christina_wife_messager02_1_4_d0972059:
 translate zh_Hans christina_wife_messager02_1_4_633852b8:
 
     # nvlchristina "{a=show:christy_photo_1233}christy_photo_1233.png"
-    nvlchristina ""
+    nvlchristina "{a=show:christy_photo_1233}christy_photo_1233.png"
 
 # new_main_wife_phone_0_2_fin.rpy:6844
 translate zh_Hans christina_wife_messager02_1_4_d22a1ce2:
@@ -17518,7 +17518,7 @@ translate zh_Hans wife_sharing_1_messager02_41_890593d6:
 translate zh_Hans wife_sharing_1_messager02_41_4527308d:
 
     # nvljax "{a=show:jax_photo_123}jax_photo_123.png"
-    nvljax ""
+    nvljax "{a=show:jax_photo_123}jax_photo_123.png"
 
 # new_main_wife_phone_0_2_fin.rpy:7425
 translate zh_Hans wife_sharing_1_messager02_41_f28325df:
@@ -18196,7 +18196,7 @@ translate zh_Hans wife_sharing_1_messager02_44_d9bf6f3a:
 translate zh_Hans wife_sharing_1_messager02_44_017da1a6:
 
     # nvljenna "{a=show:ch_10331}ch_10331.png"
-    nvljenna ""
+    nvljenna "{a=show:ch_10331}ch_10331.png"
 
 # new_main_wife_phone_0_2_fin.rpy:7739
 translate zh_Hans wife_sharing_1_messager02_44_8ad14339:
@@ -19102,19 +19102,19 @@ translate zh_Hans wife_sharing_1_messager02_50_dc9d693c:
 translate zh_Hans wife_sharing_1_messager02_50_ee8293bc:
 
     # nvljenna "{a=show:jx_pic_104}jx_pic_104.png"
-    nvljenna ""
+    nvljenna "{a=show:jx_pic_104}jx_pic_104.png"
 
 # new_main_wife_phone_0_2_fin.rpy:8220
 translate zh_Hans wife_sharing_1_messager02_50_e42648a6:
 
     # nvljenna "{a=show:jx_pic_106}jx_pic_106.png"
-    nvljenna ""
+    nvljenna "{a=show:jx_pic_106}jx_pic_106.png"
 
 # new_main_wife_phone_0_2_fin.rpy:8222
 translate zh_Hans wife_sharing_1_messager02_50_16662eee:
 
     # nvljenna "{a=show:jx_pic_107}jx_pic_107.png"
-    nvljenna ""
+    nvljenna "{a=show:jx_pic_107}jx_pic_107.png"
 
 # new_main_wife_phone_0_2_fin.rpy:8230
 translate zh_Hans wife_sharing_1_messager02_50_fb388c20:
@@ -19810,25 +19810,25 @@ translate zh_Hans wife_sharing_1_messager02_53_9a522406:
 translate zh_Hans wife_sharing_1_messager02_53_ba21c58a:
 
     # nvljax "{a=show:bbc4487}bbc4487.png"
-    nvljax ""
+    nvljax "{a=show:bbc4487}bbc4487.png"
 
 # new_main_wife_phone_0_2_fin.rpy:8612
 translate zh_Hans wife_sharing_1_messager02_53_a6eb9f7c:
 
     # nvljax "{a=show:bbc4043}bbc4043.png"
-    nvljax ""
+    nvljax "{a=show:bbc4043}bbc4043.png"
 
 # new_main_wife_phone_0_2_fin.rpy:8614
 translate zh_Hans wife_sharing_1_messager02_53_4eecf726:
 
     # nvljax "{a=show:bbc5169}bbc5169.png"
-    nvljax ""
+    nvljax "{a=show:bbc5169}bbc5169.png"
 
 # new_main_wife_phone_0_2_fin.rpy:8616
 translate zh_Hans wife_sharing_1_messager02_53_f8eead55:
 
     # nvljax "{a=show:bbc4920}bbc4920.png"
-    nvljax ""
+    nvljax "{a=show:bbc4920}bbc4920.png"
 
 # new_main_wife_phone_0_2_fin.rpy:8626
 translate zh_Hans wife_sharing_1_messager02_53_fb8ce979:
@@ -20086,19 +20086,19 @@ translate zh_Hans wife_sharing_1_messager02_54_4bc2031b:
 translate zh_Hans wife_sharing_1_messager02_54_109875c0:
 
     # nvljenna "{a=show:j_pic_1315}photo_4512.png"
-    nvljenna ""
+    nvljenna "{a=show:j_pic_1315}photo_4512.png"
 
 # new_main_wife_phone_0_2_fin.rpy:8737
 translate zh_Hans wife_sharing_1_messager02_54_d6443c4b:
 
     # nvljenna "{a=show:j_pic_1316}photo_2452.png"
-    nvljenna ""
+    nvljenna "{a=show:j_pic_1316}photo_2452.png"
 
 # new_main_wife_phone_0_2_fin.rpy:8739
 translate zh_Hans wife_sharing_1_messager02_54_8e74368f:
 
     # nvljenna "{a=show:j_pic_1317}photo_9403.png"
-    nvljenna ""
+    nvljenna "{a=show:j_pic_1317}photo_9403.png"
 
 # new_main_wife_phone_0_2_fin.rpy:8747
 translate zh_Hans wife_sharing_1_messager02_54_fd8f2e4e:
@@ -20464,7 +20464,7 @@ translate zh_Hans wife_sharing_1_messager02_55_05498bdd:
 translate zh_Hans wife_sharing_1_messager02_55_c2665b06:
 
     # nvlwife "{a=show:photo_27983}photo_27983.png"
-    nvlwife ""
+    nvlwife "{a=show:photo_27983}photo_27983.png"
 
 # new_main_wife_phone_0_2_fin.rpy:8895
 translate zh_Hans wife_sharing_1_messager02_55_f652129d:
@@ -20854,7 +20854,7 @@ translate zh_Hans wife_sharing_1_messager02_56_0c821eb9:
 translate zh_Hans wife_sharing_1_messager02_56_27580bc1:
 
     # nvlanissa "{a=show:anissa_pic_17}photo_1695.png"
-    nvlanissa ""
+    nvlanissa "{a=show:anissa_pic_17}photo_1695.png"
 
 # new_main_wife_phone_0_2_fin.rpy:9068
 translate zh_Hans wife_sharing_1_messager02_56_6a1e934c:
@@ -20986,7 +20986,7 @@ translate zh_Hans wife_sharing_1_messager02_56_13367a2a:
 translate zh_Hans wife_sharing_1_messager02_56_58c52902:
 
     # nvlanissa "{a=show:anissa_pic_18}photo_1307.png"
-    nvlanissa ""
+    nvlanissa "{a=show:anissa_pic_18}photo_1307.png"
 
 # new_main_wife_phone_0_2_fin.rpy:9114
 translate zh_Hans wife_sharing_1_messager02_56_10a94d40:
@@ -21280,7 +21280,7 @@ translate zh_Hans wife_sharing_1_messager02_57_dfc262d2:
 translate zh_Hans wife_sharing_1_messager02_57_fbd3bc7d:
 
     # nvljax "{a=show:steph_photo_139}photo_139.png"
-    nvljax ""
+    nvljax "{a=show:steph_photo_139}photo_139.png"
 
 # new_main_wife_phone_0_2_fin.rpy:9241
 translate zh_Hans wife_sharing_1_messager02_57_68e11245:
@@ -21718,25 +21718,25 @@ translate zh_Hans wife_sharing_1_messager02_58_353be25e:
 translate zh_Hans wife_sharing_1_messager02_58_bcf187e7:
 
     # nvljenna "{a=show:bbc_2504}bbc_2504.png"
-    nvljenna ""
+    nvljenna "{a=show:bbc_2504}bbc_2504.png"
 
 # new_main_wife_phone_0_2_fin.rpy:9410
 translate zh_Hans wife_sharing_1_messager02_58_862937ec:
 
     # nvljenna "{a=show:bbc4487}bbc4487.png"
-    nvljenna ""
+    nvljenna "{a=show:bbc4487}bbc4487.png"
 
 # new_main_wife_phone_0_2_fin.rpy:9412
 translate zh_Hans wife_sharing_1_messager02_58_641e19e9:
 
     # nvljenna "{a=show:jenna_photo_1275}bbc5068.png"
-    nvljenna ""
+    nvljenna "{a=show:jenna_photo_1275}bbc5068.png"
 
 # new_main_wife_phone_0_2_fin.rpy:9414
 translate zh_Hans wife_sharing_1_messager02_58_79e00768:
 
     # nvljenna "{a=show:bbc_pic_27}bbc9401.png"
-    nvljenna ""
+    nvljenna "{a=show:bbc_pic_27}bbc9401.png"
 
 # new_main_wife_phone_0_2_fin.rpy:9424
 translate zh_Hans wife_sharing_1_messager02_58_961490fc:
@@ -22006,7 +22006,7 @@ translate zh_Hans wife_sharing_1_messager02_59_d67ada7f:
 translate zh_Hans wife_sharing_1_messager02_59_48d66afc:
 
     # nvljohn "{a=show:rae_pic_1}photo_39.png"
-    nvljohn ""
+    nvljohn "{a=show:rae_pic_1}photo_39.png"
 
 # new_main_wife_phone_0_2_fin.rpy:9563
 translate zh_Hans wife_sharing_1_messager02_59_56f0f9d4:
@@ -22108,7 +22108,7 @@ translate zh_Hans wife_sharing_1_messager02_59_9227f71b:
 translate zh_Hans wife_sharing_1_messager02_59_f0ff227c:
 
     # nvljohn "{a=show:rae_pic_2}photo_41.png"
-    nvljohn ""
+    nvljohn "{a=show:rae_pic_2}photo_41.png"
 
 # new_main_wife_phone_0_2_fin.rpy:9599
 translate zh_Hans wife_sharing_1_messager02_59_fc802000:
@@ -22228,13 +22228,13 @@ translate zh_Hans wife_sharing_1_messager02_59_80001f48:
 translate zh_Hans wife_sharing_1_messager02_59_b1b7ecb6:
 
     # nvljohn "{a=show:wife_video_35}video_353.png"
-    nvljohn ""
+    nvljohn "{a=show:wife_video_35}video_353.png"
 
 # new_main_wife_phone_0_2_fin.rpy:9639
 translate zh_Hans wife_sharing_1_messager02_59_6f482db6:
 
     # nvljohn "{a=show:wife_video_36}video_354.png"
-    nvljohn ""
+    nvljohn "{a=show:wife_video_36}video_354.png"
 
 # new_main_wife_phone_0_2_fin.rpy:9645
 translate zh_Hans wife_sharing_1_messager02_59_3f822a06:
@@ -22468,13 +22468,13 @@ translate zh_Hans wife_sharing_1_messager02_60_521c7406:
 translate zh_Hans wife_sharing_1_messager02_60_c503968f:
 
     # nvljohn "{a=show:photo_23021}photo_23021.png"
-    nvljohn ""
+    nvljohn "{a=show:photo_23021}photo_23021.png"
 
 # new_main_wife_phone_0_2_fin.rpy:9749
 translate zh_Hans wife_sharing_1_messager02_60_1588df87:
 
     # nvljohn "{a=show:photo_21054}photo_21054.png"
-    nvljohn ""
+    nvljohn "{a=show:photo_21054}photo_21054.png"
 
 # new_main_wife_phone_0_2_fin.rpy:9755
 translate zh_Hans wife_sharing_1_messager02_60_9108135b:
@@ -22510,7 +22510,7 @@ translate zh_Hans wife_sharing_1_messager02_60_e56734b7:
 translate zh_Hans wife_sharing_1_messager02_60_ccde6c98:
 
     # nvljohn "{a=show:photo_28468}photo_28468.png"
-    nvljohn ""
+    nvljohn "{a=show:photo_28468}photo_28468.png"
 
 # new_main_wife_phone_0_2_fin.rpy:9769
 translate zh_Hans wife_sharing_1_messager02_60_44fdfeb4:
@@ -22552,13 +22552,13 @@ translate zh_Hans wife_sharing_1_messager02_60_af8f126d:
 translate zh_Hans wife_sharing_1_messager02_60_383cd4d7:
 
     # nvljohn "{a=show:mc_pic_5}photo_431.png"
-    nvljohn ""
+    nvljohn "{a=show:mc_pic_5}photo_431.png"
 
 # new_main_wife_phone_0_2_fin.rpy:9783
 translate zh_Hans wife_sharing_1_messager02_60_c124b5b4:
 
     # nvljohn "{a=show:mc_pic_6}photo_397.png"
-    nvljohn ""
+    nvljohn "{a=show:mc_pic_6}photo_397.png"
 
 # new_main_wife_phone_0_2_fin.rpy:9789
 translate zh_Hans wife_sharing_1_messager02_60_a8e8d18c:
@@ -22630,7 +22630,7 @@ translate zh_Hans wife_sharing_1_messager02_60_d90a3160:
 translate zh_Hans wife_sharing_1_messager02_60_a44c7a70:
 
     # nvljohn "{a=show:photo_353}photo_353.png"
-    nvljohn ""
+    nvljohn "{a=show:photo_353}photo_353.png"
 
 # new_main_wife_phone_0_2_fin.rpy:9815
 translate zh_Hans wife_sharing_1_messager02_60_dfe07de2:
@@ -22666,13 +22666,13 @@ translate zh_Hans wife_sharing_1_messager02_60_107c2010:
 translate zh_Hans wife_sharing_1_messager02_60_78f8380c:
 
     # nvlrae "{a=show:rae_pic_4}photo_3105.png"
-    nvlrae ""
+    nvlrae "{a=show:rae_pic_4}photo_3105.png"
 
 # new_main_wife_phone_0_2_fin.rpy:9827
 translate zh_Hans wife_sharing_1_messager02_60_8ae40890:
 
     # nvlrae "{a=show:rae_pic_5}photo_3388.png"
-    nvlrae ""
+    nvlrae "{a=show:rae_pic_5}photo_3388.png"
 
 # new_main_wife_phone_0_2_fin.rpy:9833
 translate zh_Hans wife_sharing_1_messager02_60_7d9f50c3:
@@ -22708,7 +22708,7 @@ translate zh_Hans wife_sharing_1_messager02_60_7e74f73c:
 translate zh_Hans wife_sharing_1_messager02_60_aee1ca45:
 
     # nvlrae "{a=show:rae_pic_3}photo_2953.png"
-    nvlrae ""
+    nvlrae "{a=show:rae_pic_3}photo_2953.png"
 
 # new_main_wife_phone_0_2_fin.rpy:9847
 translate zh_Hans wife_sharing_1_messager02_60_ec283953:
@@ -23218,7 +23218,7 @@ translate zh_Hans wife_sharing_1_messager02_61_8a11b303:
 translate zh_Hans wife_sharing_1_messager02_61_8ff82bff:
 
     # nvlwife "{a=show:wife_pic_287}photo_16983.png"
-    nvlwife ""
+    nvlwife "{a=show:wife_pic_287}photo_16983.png"
 
 # new_main_wife_phone_0_2_fin.rpy:10042
 translate zh_Hans wife_sharing_1_messager02_61_0c8ea1ba:
@@ -23614,7 +23614,7 @@ translate zh_Hans wife_sharing_1_messager02_62_a2513b66:
 translate zh_Hans wife_sharing_1_messager02_62_c68d14a7:
 
     # nvljenna "{a=show:j_pic_1893}j_pic_1893.png"
-    nvljenna ""
+    nvljenna "{a=show:j_pic_1893}j_pic_1893.png"
 
 # new_main_wife_phone_0_2_fin.rpy:10210
 translate zh_Hans wife_sharing_1_messager02_62_6753637a_1:
@@ -24046,7 +24046,7 @@ translate zh_Hans wife_sharing_1_messager02_63_788c3b6a:
 translate zh_Hans wife_sharing_1_messager02_63_d7fb8fe1:
 
     # nvlrae "{a=show:rae_pic_6}photo_4304.png"
-    nvlrae ""
+    nvlrae "{a=show:rae_pic_6}photo_4304.png"
 
 # new_main_wife_phone_0_2_fin.rpy:10415
 translate zh_Hans wife_sharing_1_messager02_63_15fd7dff:
@@ -24268,7 +24268,7 @@ translate zh_Hans wife_sharing_1_messager02_64_ebd6facd:
 translate zh_Hans wife_sharing_1_messager02_64_71e4fe9f:
 
     # nvljohn "{a=show:rae_video_1}video_239.mov"
-    nvljohn ""
+    nvljohn "{a=show:rae_video_1}video_239.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:10515
 translate zh_Hans wife_sharing_1_messager02_64_71336c52:
@@ -24862,19 +24862,19 @@ translate zh_Hans wife_sharing_1_messager02_66_715f1699:
 translate zh_Hans wife_sharing_1_messager02_66_220556a6:
 
     # nvljohn "{a=show:wife_rae_video_1}video_501.mov"
-    nvljohn ""
+    nvljohn "{a=show:wife_rae_video_1}video_501.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:10763
 translate zh_Hans wife_sharing_1_messager02_66_41e02a06:
 
     # nvljohn "{a=show:wife_rae_video_2}video_504.mov"
-    nvljohn ""
+    nvljohn "{a=show:wife_rae_video_2}video_504.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:10765
 translate zh_Hans wife_sharing_1_messager02_66_7d78f965:
 
     # nvljohn "{a=show:wife_rae_video_3}video_505.mov"
-    nvljohn ""
+    nvljohn "{a=show:wife_rae_video_3}video_505.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:10773
 translate zh_Hans wife_sharing_1_messager02_66_d856182f:
@@ -24922,7 +24922,7 @@ translate zh_Hans wife_sharing_1_messager02_66_f0d4c913:
 translate zh_Hans wife_sharing_1_messager02_66_46dfb36a:
 
     # nvljohn "{a=show:wife_rae_video_4}video_507.mov"
-    nvljohn ""
+    nvljohn "{a=show:wife_rae_video_4}video_507.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:10791
 translate zh_Hans wife_sharing_1_messager02_66_3f822a06:
@@ -25342,7 +25342,7 @@ translate zh_Hans wife_sharing_1_messager02_67_9b5227dd:
 translate zh_Hans wife_sharing_1_messager02_67_252fe96c:
 
     # nvlrae "{a=show:rae_pic_8}photo_593.png"
-    nvlrae ""
+    nvlrae "{a=show:rae_pic_8}photo_593.png"
 
 # new_main_wife_phone_0_2_fin.rpy:10955
 translate zh_Hans wife_sharing_1_messager02_67_7cbb69bb:
@@ -25444,25 +25444,25 @@ translate zh_Hans wife_sharing_1_messager02_67_6e8c811f:
 translate zh_Hans wife_sharing_1_messager02_67_220556a6:
 
     # nvljohn "{a=show:wife_rae_video_1}video_501.mov"
-    nvljohn ""
+    nvljohn "{a=show:wife_rae_video_1}video_501.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:10989
 translate zh_Hans wife_sharing_1_messager02_67_41e02a06:
 
     # nvljohn "{a=show:wife_rae_video_2}video_504.mov"
-    nvljohn ""
+    nvljohn "{a=show:wife_rae_video_2}video_504.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:10991
 translate zh_Hans wife_sharing_1_messager02_67_7d78f965:
 
     # nvljohn "{a=show:wife_rae_video_3}video_505.mov"
-    nvljohn ""
+    nvljohn "{a=show:wife_rae_video_3}video_505.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:10993
 translate zh_Hans wife_sharing_1_messager02_67_46dfb36a:
 
     # nvljohn "{a=show:wife_rae_video_4}video_507.mov"
-    nvljohn ""
+    nvljohn "{a=show:wife_rae_video_4}video_507.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:11003
 translate zh_Hans wife_sharing_1_messager02_67_22877a5b:
@@ -26242,19 +26242,19 @@ translate zh_Hans wife_sharing_1_messager02_70_8b2260de:
 translate zh_Hans wife_sharing_1_messager02_70_c53f032b:
 
     # nvljohn "{a=show:wife_rae_video_5}video_528.mov"
-    nvljohn ""
+    nvljohn "{a=show:wife_rae_video_5}video_528.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:11344
 translate zh_Hans wife_sharing_1_messager02_70_1dd989b3:
 
     # nvljohn "{a=show:wife_rae_video_6}video_535.mov"
-    nvljohn ""
+    nvljohn "{a=show:wife_rae_video_6}video_535.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:11346
 translate zh_Hans wife_sharing_1_messager02_70_9c42e59b:
 
     # nvljohn "{a=show:wife_rae_video_7}video_536.mov"
-    nvljohn ""
+    nvljohn "{a=show:wife_rae_video_7}video_536.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:11354
 translate zh_Hans wife_sharing_1_messager02_70_067669e8:
@@ -26278,7 +26278,7 @@ translate zh_Hans wife_sharing_1_messager02_70_fc0d3ce7:
 translate zh_Hans wife_sharing_1_messager02_70_4365e5df:
 
     # nvljohn "{a=show:rae_pic_11}photo_3011.png"
-    nvljohn ""
+    nvljohn "{a=show:rae_pic_11}photo_3011.png"
 
 # new_main_wife_phone_0_2_fin.rpy:11364
 translate zh_Hans wife_sharing_1_messager02_70_a8e8d18c:
@@ -27328,7 +27328,7 @@ translate zh_Hans wife_sharing_1_messager02_72_f54d9f68:
 translate zh_Hans wife_sharing_1_messager02_72_59130384:
 
     # nvljenna "{a=show:bbc_video_4}video_841.mov"
-    nvljenna ""
+    nvljenna "{a=show:bbc_video_4}video_841.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:11767
 translate zh_Hans wife_sharing_1_messager02_72_61facf71:
@@ -27742,7 +27742,7 @@ translate zh_Hans wife_sharing_1_messager02_73_eeafe7b1:
 translate zh_Hans wife_sharing_1_messager02_73_dd306da4:
 
     # nvlrae "{a=show:rae_pic_7}photo_2939.png"
-    nvlrae ""
+    nvlrae "{a=show:rae_pic_7}photo_2939.png"
 
 # new_main_wife_phone_0_2_fin.rpy:11934
 translate zh_Hans wife_sharing_1_messager02_73_7cbb69bb:
@@ -28858,13 +28858,13 @@ translate zh_Hans wife_sharing_1_messager02_76_66d874ae:
 translate zh_Hans wife_sharing_1_messager02_76_00c34725:
 
     # nvljohn "{a=show:wife_rae_video_8}video_569.mov"
-    nvljohn ""
+    nvljohn "{a=show:wife_rae_video_8}video_569.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:12444
 translate zh_Hans wife_sharing_1_messager02_76_4a908f9a:
 
     # nvljohn "{a=show:wife_rae_video_9}video_570.mov"
-    nvljohn ""
+    nvljohn "{a=show:wife_rae_video_9}video_570.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:12452
 translate zh_Hans wife_sharing_1_messager02_76_49eff83f:
@@ -28990,13 +28990,13 @@ translate zh_Hans wife_sharing_1_messager02_76_66d874ae_1:
 translate zh_Hans wife_sharing_1_messager02_76_3f767cd2:
 
     # nvljohn "{a=show:rae_video_2}video_569.mov"
-    nvljohn ""
+    nvljohn "{a=show:rae_video_2}video_569.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:12494
 translate zh_Hans wife_sharing_1_messager02_76_37048db8:
 
     # nvljohn "{a=show:rae_video_3}video_570.mov"
-    nvljohn ""
+    nvljohn "{a=show:rae_video_3}video_570.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:12501
 translate zh_Hans wife_sharing_1_messager02_76_152cba59:
@@ -29716,7 +29716,7 @@ translate zh_Hans wife_sharing_1_messager02_78_192dd363:
 translate zh_Hans wife_sharing_1_messager02_78_2193cef2:
 
     # nvlnicole "{a=show:nicole_pic_1}photo_1409.png"
-    nvlnicole ""
+    nvlnicole "{a=show:nicole_pic_1}photo_1409.png"
 
 # new_main_wife_phone_0_2_fin.rpy:12806
 translate zh_Hans wife_sharing_1_messager02_78_3fea2be4:
@@ -29758,7 +29758,7 @@ translate zh_Hans wife_sharing_1_messager02_78_aa932744:
 translate zh_Hans wife_sharing_1_messager02_78_ae18212f:
 
     # nvlnicole "{a=show:nicole_pic_2}photo_788.png"
-    nvlnicole ""
+    nvlnicole "{a=show:nicole_pic_2}photo_788.png"
 
 # new_main_wife_phone_0_2_fin.rpy:12822
 translate zh_Hans wife_sharing_1_messager02_78_4cdc7732:
@@ -30082,7 +30082,7 @@ translate zh_Hans wife_sharing_1_messager02_80_101acdbc:
 translate zh_Hans wife_sharing_1_messager02_80_926793ff:
 
     # nvljohn "{a=show:nicole_pic_2}photo_788.png"
-    nvljohn ""
+    nvljohn "{a=show:nicole_pic_2}photo_788.png"
 
 # new_main_wife_phone_0_2_fin.rpy:12986
 translate zh_Hans wife_sharing_1_messager02_80_56f0f9d4:
@@ -30496,7 +30496,7 @@ translate zh_Hans wife_ntr_messager02_1_2_97d6bcbb:
 translate zh_Hans wife_ntr_messager02_1_2_5136216a:
 
     # nvlwife "{a=show:my_photo_166}my_photo_166.png"
-    nvlwife ""
+    nvlwife "{a=show:my_photo_166}my_photo_166.png"
 
 # new_main_wife_phone_0_2_fin.rpy:13232
 translate zh_Hans wife_ntr_messager02_1_2_b4054f7d:
@@ -30538,7 +30538,7 @@ translate zh_Hans wife_ntr_messager02_1_2_495c2013:
 translate zh_Hans wife_ntr_messager02_1_2_905e4a0b:
 
     # nvljohn "{a=show:photo_12}photo_12.png"
-    nvljohn ""
+    nvljohn "{a=show:photo_12}photo_12.png"
 
 # new_main_wife_phone_0_2_fin.rpy:13258
 translate zh_Hans wife_ntr_messager02_1_2_44012aae:
@@ -30712,7 +30712,7 @@ translate zh_Hans wife_ntr_messager02_1_3_bd0440ac:
 translate zh_Hans wife_ntr_messager02_1_3_9fb467de:
 
     # nvlwife "{a=show:my_photo_177}my_photo_177.png"
-    nvlwife ""
+    nvlwife "{a=show:my_photo_177}my_photo_177.png"
 
 # new_main_wife_phone_0_2_fin.rpy:13343
 translate zh_Hans wife_ntr_messager02_1_3_904e1f0f:
@@ -30970,7 +30970,7 @@ translate zh_Hans wife_ntr_messager02_1_4_76b2fe88:
 translate zh_Hans wife_ntr_messager02_1_4_8cca7066:
 
     # nvlwife "{a=show:my_photo_182}my_photo_182.png"
-    nvlwife ""
+    nvlwife "{a=show:my_photo_182}my_photo_182.png"
 
 # new_main_wife_phone_0_2_fin.rpy:13456
 translate zh_Hans wife_ntr_messager02_1_4_f45347bc:
@@ -31210,19 +31210,19 @@ translate zh_Hans wife_ntr_messager02_1_5_1_f0078102:
 translate zh_Hans wife_ntr_messager02_1_5_1_0ce8f752:
 
     # nvlwife "{a=show:sins_photo_174}sins_photo_174.png"
-    nvlwife ""
+    nvlwife "{a=show:sins_photo_174}sins_photo_174.png"
 
 # new_main_wife_phone_0_2_fin.rpy:13590
 translate zh_Hans wife_ntr_messager02_1_5_1_da90d642:
 
     # nvlwife "{a=show:sins_photo_181}sins_photo_181.png"
-    nvlwife ""
+    nvlwife "{a=show:sins_photo_181}sins_photo_181.png"
 
 # new_main_wife_phone_0_2_fin.rpy:13595
 translate zh_Hans wife_ntr_messager02_1_5_1_6e5bbf29:
 
     # nvlwife "{a=show:sins_photo_175}sins_photo_175.png"
-    nvlwife ""
+    nvlwife "{a=show:sins_photo_175}sins_photo_175.png"
 
 # new_main_wife_phone_0_2_fin.rpy:13599
 translate zh_Hans wife_ntr_messager02_1_5_1_88825694:
@@ -31330,19 +31330,19 @@ translate zh_Hans wife_ntr_messager02_1_5_2_76b2fe88:
 translate zh_Hans wife_ntr_messager02_1_5_2_e973eb0f:
 
     # nvlwife "{a=show:sins_photo_176}sins_photo_176.png"
-    nvlwife ""
+    nvlwife "{a=show:sins_photo_176}sins_photo_176.png"
 
 # new_main_wife_phone_0_2_fin.rpy:13670
 translate zh_Hans wife_ntr_messager02_1_5_2_482f2e3f:
 
     # nvlwife "{a=show:sins_photo_183}sins_photo_183.png"
-    nvlwife ""
+    nvlwife "{a=show:sins_photo_183}sins_photo_183.png"
 
 # new_main_wife_phone_0_2_fin.rpy:13675
 translate zh_Hans wife_ntr_messager02_1_5_2_4719f1dd:
 
     # nvlwife "{a=show:sins_photo_178}sins_photo_178.png"
-    nvlwife ""
+    nvlwife "{a=show:sins_photo_178}sins_photo_178.png"
 
 # new_main_wife_phone_0_2_fin.rpy:13679
 translate zh_Hans wife_ntr_messager02_1_5_2_88825694:
@@ -32206,7 +32206,7 @@ translate zh_Hans wife_ntr_messager02_1_4_work_176c86b4:
 translate zh_Hans wife_ntr_messager02_1_4_work_7043b603:
 
     # nvlwife "{a=show:photo_23238}photo_23238.png"
-    nvlwife ""
+    nvlwife "{a=show:photo_23238}photo_23238.png"
 
 # new_main_wife_phone_0_2_fin.rpy:14128
 translate zh_Hans wife_ntr_messager02_1_4_work_b2557534:
@@ -32344,7 +32344,7 @@ translate zh_Hans wife_ntr_messager02_1_4_work_176c86b4_1:
 translate zh_Hans wife_ntr_messager02_1_4_work_7043b603_1:
 
     # nvlwife "{a=show:photo_23238}photo_23238.png"
-    nvlwife ""
+    nvlwife "{a=show:photo_23238}photo_23238.png"
 
 # new_main_wife_phone_0_2_fin.rpy:14178
 translate zh_Hans wife_ntr_messager02_1_4_work_b2557534_1:
@@ -32476,7 +32476,7 @@ translate zh_Hans wife_ntr_messager02_1_5_work_76b2fe88:
 translate zh_Hans wife_ntr_messager02_1_5_work_457af42c:
 
     # nvlwife "{a=show:photo_23243}photo_23243.png"
-    nvlwife ""
+    nvlwife "{a=show:photo_23243}photo_23243.png"
 
 # new_main_wife_phone_0_2_fin.rpy:14250
 translate zh_Hans wife_ntr_messager02_1_5_work_242236c4:
@@ -32620,19 +32620,19 @@ translate zh_Hans wife_ntr_messager02_1_6_work_6953dd01:
 translate zh_Hans wife_ntr_messager02_1_6_work_15a3c4b2:
 
     # nvlwife "{a=show:photo_23251}photo_23251.png"
-    nvlwife ""
+    nvlwife "{a=show:photo_23251}photo_23251.png"
 
 # new_main_wife_phone_0_2_fin.rpy:14322
 translate zh_Hans wife_ntr_messager02_1_6_work_841d7080:
 
     # nvlwife "{a=show:photo_23254}photo_23254.png"
-    nvlwife ""
+    nvlwife "{a=show:photo_23254}photo_23254.png"
 
 # new_main_wife_phone_0_2_fin.rpy:14324
 translate zh_Hans wife_ntr_messager02_1_6_work_933e82b9:
 
     # nvlwife "{a=show:photo_23257}photo_23257.png"
-    nvlwife ""
+    nvlwife "{a=show:photo_23257}photo_23257.png"
 
 # new_main_wife_phone_0_2_fin.rpy:14348
 translate zh_Hans wife_ntr_messager02_1_6_work_d30ad7be:
@@ -33304,7 +33304,7 @@ translate zh_Hans fuckst_wife_messager02_1_2_815bc317:
 translate zh_Hans fuckst_wife_messager02_1_2_fbb3c8bc:
 
     # nvlwife "{color=#000}{a=show:photo_23328}photo_23328.png"
-    nvlwife ""
+    nvlwife "{color=#000}{a=show:photo_23328}photo_23328.png"
 
 # new_main_wife_phone_0_2_fin.rpy:14705
 translate zh_Hans fuckst_wife_messager02_1_2_7737d653:
@@ -33340,7 +33340,7 @@ translate zh_Hans fuckst_wife_messager02_1_2_a2a513b7:
 translate zh_Hans fuckst_wife_messager02_1_2_77cf9f4a:
 
     # nvlwife "{color=#000}{a=show:photo_24539}photo_24539.png"
-    nvlwife ""
+    nvlwife "{color=#000}{a=show:photo_24539}photo_24539.png"
 
 # new_main_wife_phone_0_2_fin.rpy:14721
 translate zh_Hans fuckst_wife_messager02_1_2_8aec4964:
@@ -33532,7 +33532,7 @@ translate zh_Hans fuckst_wife_messager02_1_2_23073cc9:
 translate zh_Hans fuckst_wife_messager02_1_2_86cc8231:
 
     # nvlkeiran "{color=#000}{a=show:keiran_photo_102}keiran_photo_102.png"
-    nvlkeiran ""
+    nvlkeiran "{color=#000}{a=show:keiran_photo_102}keiran_photo_102.png"
 
 # new_main_wife_phone_0_2_fin.rpy:14793
 translate zh_Hans fuckst_wife_messager02_1_2_7de5bbe1:
@@ -33610,7 +33610,7 @@ translate zh_Hans fuckst_wife_messager02_1_2_442ac0e8:
 translate zh_Hans fuckst_wife_messager02_1_2_ecbaf311:
 
     # nvlwife "{color=#000}{image=smile_emoji.png}"
-    nvlwife ""
+    nvlwife "{color=#000}{image=smile_emoji.png}"
 
 # new_main_wife_phone_0_2_fin.rpy:14821
 translate zh_Hans fuckst_wife_messager02_1_2_3cc2f300:
@@ -33760,7 +33760,7 @@ translate zh_Hans fuckst_wife_messager02_1_3_a4c07b51:
 translate zh_Hans fuckst_wife_messager02_1_3_14a6962d:
 
     # nvlwife "{color=#000}{a=show:photo_23454}photo_23454.png"
-    nvlwife ""
+    nvlwife "{color=#000}{a=show:photo_23454}photo_23454.png"
 
 # new_main_wife_phone_0_2_fin.rpy:14897
 translate zh_Hans fuckst_wife_messager02_1_3_3629a501:
@@ -33796,7 +33796,7 @@ translate zh_Hans fuckst_wife_messager02_1_3_be7be048_1:
 translate zh_Hans fuckst_wife_messager02_1_3_d6262a29:
 
     # nvlkeiran "{color=#000}{a=show:keiran_photo_131}keiran_photo_131.png"
-    nvlkeiran ""
+    nvlkeiran "{color=#000}{a=show:keiran_photo_131}keiran_photo_131.png"
 
 # new_main_wife_phone_0_2_fin.rpy:14911
 translate zh_Hans fuckst_wife_messager02_1_3_866ff54e:
@@ -33856,7 +33856,7 @@ translate zh_Hans fuckst_wife_messager02_1_3_53787d13:
 translate zh_Hans fuckst_wife_messager02_1_3_f397269d:
 
     # nvlwife "{color=#000}{image=wink_emoji.png}"
-    nvlwife ""
+    nvlwife "{color=#000}{image=wink_emoji.png}"
 
 # new_main_wife_phone_0_2_fin.rpy:14931
 translate zh_Hans fuckst_wife_messager02_1_3_6b8a153e:
@@ -34174,7 +34174,7 @@ translate zh_Hans fuckst_wife_messager02_1_3_32bf29a1:
 translate zh_Hans fuckst_wife_messager02_1_3_7c797392:
 
     # nvlwife "{color=#000}{a=show:photo_22603}photo_22603.png"
-    nvlwife ""
+    nvlwife "{color=#000}{a=show:photo_22603}photo_22603.png"
 
 # new_main_wife_phone_0_2_fin.rpy:15052
 translate zh_Hans fuckst_wife_messager02_1_3_5330f306:
@@ -34204,7 +34204,7 @@ translate zh_Hans fuckst_wife_messager02_1_3_d8d33847:
 translate zh_Hans fuckst_wife_messager02_1_3_6576ea65:
 
     # nvlwife "{color=#000}{a=show:photo_28301}photo_28301.png"
-    nvlwife ""
+    nvlwife "{color=#000}{a=show:photo_28301}photo_28301.png"
 
 # new_main_wife_phone_0_2_fin.rpy:15064
 translate zh_Hans fuckst_wife_messager02_1_3_f0c1c9c7:
@@ -34222,7 +34222,7 @@ translate zh_Hans fuckst_wife_messager02_1_3_f0ca535e:
 translate zh_Hans fuckst_wife_messager02_1_3_382a05c9:
 
     # nvlwife "{color=#000}{a=show:photo_27369}photo_27369.png"
-    nvlwife ""
+    nvlwife "{color=#000}{a=show:photo_27369}photo_27369.png"
 
 # new_main_wife_phone_0_2_fin.rpy:15076
 translate zh_Hans fuckst_wife_messager02_1_3_1051401d:
@@ -34636,7 +34636,7 @@ translate zh_Hans fuckst_wife_messager02_1_3_d8783054:
 translate zh_Hans fuckst_wife_messager02_1_3_ecbaf311:
 
     # nvlwife "{color=#000}{image=smile_emoji.png}"
-    nvlwife ""
+    nvlwife "{color=#000}{image=smile_emoji.png}"
 
 # new_main_wife_phone_0_2_fin.rpy:15232
 translate zh_Hans fuckst_wife_messager02_1_3_a37db9a8:
@@ -35056,13 +35056,13 @@ translate zh_Hans fuckst_wife_messager02_1_5_5ab68427:
 translate zh_Hans fuckst_wife_messager02_1_5_89b09409:
 
     # nvlwife "{color=#000}{a=show:photo_24167}photo_24167.png"
-    nvlwife ""
+    nvlwife "{color=#000}{a=show:photo_24167}photo_24167.png"
 
 # new_main_wife_phone_0_2_fin.rpy:15436
 translate zh_Hans fuckst_wife_messager02_1_5_d53219c2:
 
     # nvlwife "{color=#000}{a=show:photo_24169}photo_24169.png"
-    nvlwife ""
+    nvlwife "{color=#000}{a=show:photo_24169}photo_24169.png"
 
 # new_main_wife_phone_0_2_fin.rpy:15442
 translate zh_Hans fuckst_wife_messager02_1_5_dbbe75b0:
@@ -35116,7 +35116,7 @@ translate zh_Hans fuckst_wife_messager02_1_5_745455de:
 translate zh_Hans fuckst_wife_messager02_1_5_69ad6cb8:
 
     # nvlwife "{color=#000}{a=show:photo_28103}photo_28103.png"
-    nvlwife ""
+    nvlwife "{color=#000}{a=show:photo_28103}photo_28103.png"
 
 # new_main_wife_phone_0_2_fin.rpy:15462
 translate zh_Hans fuckst_wife_messager02_1_5_f525e821:
@@ -35134,19 +35134,19 @@ translate zh_Hans fuckst_wife_messager02_1_5_c929b7d1:
 translate zh_Hans fuckst_wife_messager02_1_5_013cef69:
 
     # nvlwife "{color=#000}{a=show:photo_28104}photo_28104.png"
-    nvlwife ""
+    nvlwife "{color=#000}{a=show:photo_28104}photo_28104.png"
 
 # new_main_wife_phone_0_2_fin.rpy:15470
 translate zh_Hans fuckst_wife_messager02_1_5_58dfc033:
 
     # nvlkeiran "{color=#000}{image=love_emoji.png} {image=love_emoji.png}"
-    nvlkeiran ""
+    nvlkeiran "{color=#000}{image=love_emoji.png} {image=love_emoji.png}"
 
 # new_main_wife_phone_0_2_fin.rpy:15472
 translate zh_Hans fuckst_wife_messager02_1_5_f397269d:
 
     # nvlwife "{color=#000}{image=wink_emoji.png}"
-    nvlwife ""
+    nvlwife "{color=#000}{image=wink_emoji.png}"
 
 # new_main_wife_phone_0_2_fin.rpy:15474
 translate zh_Hans fuckst_wife_messager02_1_5_d6da6548:
@@ -35170,7 +35170,7 @@ translate zh_Hans fuckst_wife_messager02_1_5_e40d81c1:
 translate zh_Hans fuckst_wife_messager02_1_5_017427e1:
 
     # nvlkeiran "{color=#000}{a=show:keiran_photo_145}keiran_photo_145.png"
-    nvlkeiran ""
+    nvlkeiran "{color=#000}{a=show:keiran_photo_145}keiran_photo_145.png"
 
 # new_main_wife_phone_0_2_fin.rpy:15484
 translate zh_Hans fuckst_wife_messager02_1_5_93b21f9a:
@@ -35416,7 +35416,7 @@ translate zh_Hans fuckst_wife_messager02_1_5_b81e12c4:
 translate zh_Hans fuckst_wife_messager02_1_5_ecbaf311:
 
     # nvlwife "{color=#000}{image=smile_emoji.png}"
-    nvlwife ""
+    nvlwife "{color=#000}{image=smile_emoji.png}"
 
 # new_main_wife_phone_0_2_fin.rpy:15579
 translate zh_Hans fuckst_wife_messager02_1_5_b0bf08d3:
@@ -35440,7 +35440,7 @@ translate zh_Hans fuckst_wife_messager02_1_5_cff4f634:
 translate zh_Hans fuckst_wife_messager02_1_5_ecbaf311_1:
 
     # nvlwife "{color=#000}{image=smile_emoji.png}"
-    nvlwife ""
+    nvlwife "{color=#000}{image=smile_emoji.png}"
 
 # new_main_wife_phone_0_2_fin.rpy:15587
 translate zh_Hans fuckst_wife_messager02_1_5_70fc7e77:
@@ -35770,7 +35770,7 @@ translate zh_Hans fuckst_wife_messager02_1_6_968b9913:
 translate zh_Hans fuckst_wife_messager02_1_6_ecbaf311:
 
     # nvlwife "{color=#000}{image=smile_emoji.png}"
-    nvlwife ""
+    nvlwife "{color=#000}{image=smile_emoji.png}"
 
 # new_main_wife_phone_0_2_fin.rpy:15730
 translate zh_Hans fuckst_wife_messager02_1_6_832d5aea:
@@ -35818,7 +35818,7 @@ translate zh_Hans fuckst_wife_messager02_1_6_2492fdb1:
 translate zh_Hans fuckst_wife_messager02_1_6_d4f12cad:
 
     # nvlkeiran "{color=#000}{a=show:keiran_photo_153}photo_153.png"
-    nvlkeiran ""
+    nvlkeiran "{color=#000}{a=show:keiran_photo_153}photo_153.png"
 
 # new_main_wife_phone_0_2_fin.rpy:15748
 translate zh_Hans fuckst_wife_messager02_1_6_9ded1c12:
@@ -35860,7 +35860,7 @@ translate zh_Hans fuckst_wife_messager02_1_6_ce8aa602:
 translate zh_Hans fuckst_wife_messager02_1_6_969615d9:
 
     # nvlwife "{color=#000}{a=show:photo_23283}photo_23283.png"
-    nvlwife ""
+    nvlwife "{color=#000}{a=show:photo_23283}photo_23283.png"
 
 # new_main_wife_phone_0_2_fin.rpy:15764
 translate zh_Hans fuckst_wife_messager02_1_6_d0338c7b:
@@ -35890,7 +35890,7 @@ translate zh_Hans fuckst_wife_messager02_1_6_ebb664e1:
 translate zh_Hans fuckst_wife_messager02_1_6_06fdb535:
 
     # nvlwife "{color=#000}{a=show:photo_23049}photo_23049.png"
-    nvlwife ""
+    nvlwife "{color=#000}{a=show:photo_23049}photo_23049.png"
 
 # new_main_wife_phone_0_2_fin.rpy:15776
 translate zh_Hans fuckst_wife_messager02_1_6_ebbf68b3:
@@ -35986,7 +35986,7 @@ translate zh_Hans fuckst_wife_messager02_1_6_b44ba126:
 translate zh_Hans fuckst_wife_messager02_1_6_36ddecfa:
 
     # nvlwife "{color=#000}{a=show:photo_26130}photo_26130.png"
-    nvlwife ""
+    nvlwife "{color=#000}{a=show:photo_26130}photo_26130.png"
 
 # new_main_wife_phone_0_2_fin.rpy:15810
 translate zh_Hans fuckst_wife_messager02_1_6_1d7deed9:
@@ -36016,7 +36016,7 @@ translate zh_Hans fuckst_wife_messager02_1_6_b4864137:
 translate zh_Hans fuckst_wife_messager02_1_6_ecbaf311_1:
 
     # nvlwife "{color=#000}{image=smile_emoji.png}"
-    nvlwife ""
+    nvlwife "{color=#000}{image=smile_emoji.png}"
 
 # new_main_wife_phone_0_2_fin.rpy:15820
 translate zh_Hans fuckst_wife_messager02_1_6_136bc80c:
@@ -36112,7 +36112,7 @@ translate zh_Hans fuckst_wife_messager02_1_6_f64bc047:
 translate zh_Hans fuckst_wife_messager02_1_6_ecbaf311_2:
 
     # nvlwife "{color=#000}{image=smile_emoji.png}"
-    nvlwife ""
+    nvlwife "{color=#000}{image=smile_emoji.png}"
 
 # new_main_wife_phone_0_2_fin.rpy:15852
 translate zh_Hans fuckst_wife_messager02_1_6_3d90f020:
@@ -36256,7 +36256,7 @@ translate zh_Hans fuckst_wife_messager02_1_6_b657be96:
 translate zh_Hans fuckst_wife_messager02_1_6_560f55fe:
 
     # nvlkeiran "{color=#000}{a=show:keiran_video_1}video_130.mov"
-    nvlkeiran ""
+    nvlkeiran "{color=#000}{a=show:keiran_video_1}video_130.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:15902
 translate zh_Hans fuckst_wife_messager02_1_6_4c4f73ce:
@@ -36322,7 +36322,7 @@ translate zh_Hans fuckst_wife_messager02_1_6_452d2bd0:
 translate zh_Hans fuckst_wife_messager02_1_6_ecbaf311_3:
 
     # nvlwife "{color=#000}{image=smile_emoji.png}"
-    nvlwife ""
+    nvlwife "{color=#000}{image=smile_emoji.png}"
 
 # new_main_wife_phone_0_2_fin.rpy:15924
 translate zh_Hans fuckst_wife_messager02_1_6_499dde9f:
@@ -36682,7 +36682,7 @@ translate zh_Hans fuckst_wife_messager02_1_7_5aa1b66f:
 translate zh_Hans fuckst_wife_messager02_1_7_86d08663:
 
     # nvlkeiran "{color=#000}{a=show:keiran_photo_159}photo_159.png"
-    nvlkeiran ""
+    nvlkeiran "{color=#000}{a=show:keiran_photo_159}photo_159.png"
 
 # new_main_wife_phone_0_2_fin.rpy:16077
 translate zh_Hans fuckst_wife_messager02_1_7_179fd925:
@@ -36748,7 +36748,7 @@ translate zh_Hans fuckst_wife_messager02_1_7_595f06d7:
 translate zh_Hans fuckst_wife_messager02_1_7_ba85f2b5:
 
     # nvlwife "{color=#000}{a=show:photo_27903}photo_27903.png"
-    nvlwife ""
+    nvlwife "{color=#000}{a=show:photo_27903}photo_27903.png"
 
 # new_main_wife_phone_0_2_fin.rpy:16101
 translate zh_Hans fuckst_wife_messager02_1_7_c2036759:
@@ -37150,7 +37150,7 @@ translate zh_Hans fuckst_wife_messager02_1_8_393899e5:
 translate zh_Hans fuckst_wife_messager02_1_8_784439c9:
 
     # nvlwife "{color=#000}{a=show:photo_28279}photo_28279.png"
-    nvlwife ""
+    nvlwife "{color=#000}{a=show:photo_28279}photo_28279.png"
 
 # new_main_wife_phone_0_2_fin.rpy:16278
 translate zh_Hans fuckst_wife_messager02_1_8_ad5b8e12:
@@ -37180,7 +37180,7 @@ translate zh_Hans fuckst_wife_messager02_1_8_9eba3476:
 translate zh_Hans fuckst_wife_messager02_1_8_ecbaf311:
 
     # nvlwife "{color=#000}{image=smile_emoji.png}"
-    nvlwife ""
+    nvlwife "{color=#000}{image=smile_emoji.png}"
 
 # new_main_wife_phone_0_2_fin.rpy:16288
 translate zh_Hans fuckst_wife_messager02_1_8_48c31fc2:
@@ -37240,7 +37240,7 @@ translate zh_Hans fuckst_wife_messager02_1_8_393899e5_1:
 translate zh_Hans fuckst_wife_messager02_1_8_a30e081b:
 
     # nvlwife "{color=#000}{a=show:photo_28274}photo_28274.png"
-    nvlwife ""
+    nvlwife "{color=#000}{a=show:photo_28274}photo_28274.png"
 
 # new_main_wife_phone_0_2_fin.rpy:16312
 translate zh_Hans fuckst_wife_messager02_1_8_ad5b8e12_1:
@@ -37360,7 +37360,7 @@ translate zh_Hans fuckst_wife_messager02_1_8_393899e5_2:
 translate zh_Hans fuckst_wife_messager02_1_8_784439c9_1:
 
     # nvlwife "{color=#000}{a=show:photo_28279}photo_28279.png"
-    nvlwife ""
+    nvlwife "{color=#000}{a=show:photo_28279}photo_28279.png"
 
 # new_main_wife_phone_0_2_fin.rpy:16360
 translate zh_Hans fuckst_wife_messager02_1_8_ad5b8e12_2:
@@ -37390,7 +37390,7 @@ translate zh_Hans fuckst_wife_messager02_1_8_9eba3476_1:
 translate zh_Hans fuckst_wife_messager02_1_8_ecbaf311_1:
 
     # nvlwife "{color=#000}{image=smile_emoji.png}"
-    nvlwife ""
+    nvlwife "{color=#000}{image=smile_emoji.png}"
 
 # new_main_wife_phone_0_2_fin.rpy:16370
 translate zh_Hans fuckst_wife_messager02_1_8_48c31fc2_1:
@@ -37450,7 +37450,7 @@ translate zh_Hans fuckst_wife_messager02_1_8_393899e5_3:
 translate zh_Hans fuckst_wife_messager02_1_8_a30e081b_1:
 
     # nvlwife "{color=#000}{a=show:photo_28274}photo_28274.png"
-    nvlwife ""
+    nvlwife "{color=#000}{a=show:photo_28274}photo_28274.png"
 
 # new_main_wife_phone_0_2_fin.rpy:16394
 translate zh_Hans fuckst_wife_messager02_1_8_ad5b8e12_3:
@@ -38032,7 +38032,7 @@ translate zh_Hans fuckst_wife_messager02_1_9_2d526d91:
 translate zh_Hans fuckst_wife_messager02_1_9_13aa555a:
 
     # nvlkeiran "{color=#000}{a=show:keiran_photo_187}photo_187.png"
-    nvlkeiran ""
+    nvlkeiran "{color=#000}{a=show:keiran_photo_187}photo_187.png"
 
 # new_main_wife_phone_0_2_fin.rpy:16618
 translate zh_Hans fuckst_wife_messager02_1_9_3627f712:
@@ -38212,7 +38212,7 @@ translate zh_Hans fuckst_wife_messager02_1_10_bf66217e:
 translate zh_Hans fuckst_wife_messager02_1_10_b54b6dbf:
 
     # nvlwife "{color=#000}{a=show:photo_28304}photo_28304.png"
-    nvlwife ""
+    nvlwife "{color=#000}{a=show:photo_28304}photo_28304.png"
 
 # new_main_wife_phone_0_2_fin.rpy:16707
 translate zh_Hans fuckst_wife_messager02_1_10_bd78465d:
@@ -38272,7 +38272,7 @@ translate zh_Hans fuckst_wife_messager02_1_10_37fef4fb:
 translate zh_Hans fuckst_wife_messager02_1_10_d3a6d8a5:
 
     # nvlwife "{color=#000}{a=show:photo_27983}photo_27983.png"
-    nvlwife ""
+    nvlwife "{color=#000}{a=show:photo_27983}photo_27983.png"
 
 # new_main_wife_phone_0_2_fin.rpy:16729
 translate zh_Hans fuckst_wife_messager02_1_10_e61bb703:
@@ -38302,7 +38302,7 @@ translate zh_Hans fuckst_wife_messager02_1_10_a5749063:
 translate zh_Hans fuckst_wife_messager02_1_10_f397269d:
 
     # nvlwife "{color=#000}{image=wink_emoji.png}"
-    nvlwife ""
+    nvlwife "{color=#000}{image=wink_emoji.png}"
 
 # new_main_wife_phone_0_2_fin.rpy:16739
 translate zh_Hans fuckst_wife_messager02_1_10_9e94956e:
@@ -38380,7 +38380,7 @@ translate zh_Hans fuckst_wife_messager02_1_10_4fa73bdc:
 translate zh_Hans fuckst_wife_messager02_1_10_e8bbcdc1:
 
     # nvlwife "{color=#000}{a=show:photo_28449}photo_28449.png"
-    nvlwife ""
+    nvlwife "{color=#000}{a=show:photo_28449}photo_28449.png"
 
 # new_main_wife_phone_0_2_fin.rpy:16767
 translate zh_Hans fuckst_wife_messager02_1_10_fdc8ddbb:
@@ -40402,7 +40402,7 @@ translate zh_Hans wife_photo_sell_messager02_1_1_9dcafff5:
 translate zh_Hans wife_photo_sell_messager02_1_1_7c037a00:
 
     # nvlwife "{a=show:photo_23108}photo_23108.png"
-    nvlwife ""
+    nvlwife "{a=show:photo_23108}photo_23108.png"
 
 # new_main_wife_phone_0_2_fin.rpy:17618
 translate zh_Hans wife_photo_sell_messager02_1_1_82219fae:
@@ -40564,7 +40564,7 @@ translate zh_Hans wife_photo_sell_messager02_1_1_21ad9f00:
 translate zh_Hans wife_photo_sell_messager02_1_1_605349af:
 
     # nvlwife "{a=show:photo_21054}photo_21054.png"
-    nvlwife ""
+    nvlwife "{a=show:photo_21054}photo_21054.png"
 
 # new_main_wife_phone_0_2_fin.rpy:17678
 translate zh_Hans wife_photo_sell_messager02_1_1_ad592a3a:
@@ -40822,7 +40822,7 @@ translate zh_Hans wife_photo_sell_messager02_1_2_4aaca1fa:
 translate zh_Hans wife_photo_sell_messager02_1_2_dbfb2cc8:
 
     # nvlwife "{a=show:photo_23021}photo_23021.png"
-    nvlwife ""
+    nvlwife "{a=show:photo_23021}photo_23021.png"
 
 # new_main_wife_phone_0_2_fin.rpy:17802
 translate zh_Hans wife_photo_sell_messager02_1_2_bd4a021d:
@@ -40876,7 +40876,7 @@ translate zh_Hans wife_photo_sell_messager02_1_2_a67aab58:
 translate zh_Hans wife_photo_sell_messager02_1_2_62df837e:
 
     # nvlwife "{a=show:photo_23328}photo_23328.png"
-    nvlwife ""
+    nvlwife "{a=show:photo_23328}photo_23328.png"
 
 # new_main_wife_phone_0_2_fin.rpy:17822
 translate zh_Hans wife_photo_sell_messager02_1_2_b4054f7d:
@@ -41146,13 +41146,13 @@ translate zh_Hans wife_photo_sell_messager02_1_3_25f7f9b2:
 translate zh_Hans wife_photo_sell_messager02_1_3_125e337e:
 
     # nvljohn "{a=show:mc_photo_77}mc_photo_77.png"
-    nvljohn ""
+    nvljohn "{a=show:mc_photo_77}mc_photo_77.png"
 
 # new_main_wife_phone_0_2_fin.rpy:17951
 translate zh_Hans wife_photo_sell_messager02_1_3_04f5baf2:
 
     # nvljohn "{a=show:mc_photo_81}mc_photo_81.png"
-    nvljohn ""
+    nvljohn "{a=show:mc_photo_81}mc_photo_81.png"
 
 # new_main_wife_phone_0_2_fin.rpy:17955
 translate zh_Hans wife_photo_sell_messager02_1_3_d7c8de57:
@@ -44134,7 +44134,7 @@ translate zh_Hans george_messager02_1_2_d6d840ec:
 translate zh_Hans george_messager02_1_2_f79c678e:
 
     # nvlgeorge "{a=show:g_photo_231}g_photo_231.png"
-    nvlgeorge ""
+    nvlgeorge "{a=show:g_photo_231}g_photo_231.png"
 
 # new_main_wife_phone_0_2_fin.rpy:19557
 translate zh_Hans george_messager02_1_2_5733a435:
@@ -44254,7 +44254,7 @@ translate zh_Hans george_messager02_1_3_921bd883:
 translate zh_Hans george_messager02_1_3_b4984955:
 
     # nvlgeorge "{a=show:christy_photo_1231}christy_photo_1231.png"
-    nvlgeorge ""
+    nvlgeorge "{a=show:christy_photo_1231}christy_photo_1231.png"
 
 # new_main_wife_phone_0_2_fin.rpy:19623
 translate zh_Hans george_messager02_1_3_ca84091c:
@@ -44302,7 +44302,7 @@ translate zh_Hans george_messager02_1_3_7806c4fc:
 translate zh_Hans george_messager02_1_3_69261ce0:
 
     # nvlgeorge "{a=show:christy_photo_1293}christy_photo_1293.png"
-    nvlgeorge ""
+    nvlgeorge "{a=show:christy_photo_1293}christy_photo_1293.png"
 
 # new_main_wife_phone_0_2_fin.rpy:19641
 translate zh_Hans george_messager02_1_3_1367990a:
@@ -44368,7 +44368,7 @@ translate zh_Hans george_messager02_1_3_cbd19cc9:
 translate zh_Hans george_messager02_1_3_9200860b:
 
     # nvlgeorge "{a=show:christy_photo_1305}christy_photo_1305.png"
-    nvlgeorge ""
+    nvlgeorge "{a=show:christy_photo_1305}christy_photo_1305.png"
 
 # new_main_wife_phone_0_2_fin.rpy:19665
 translate zh_Hans george_messager02_1_3_26f7fa5f:
@@ -44722,7 +44722,7 @@ translate zh_Hans george_messager02_1_5_fc859057:
 translate zh_Hans george_messager02_1_5_ed2fb297:
 
     # nvlchristina "{a=show:christy_photo_1312}christy_photo_1312.png"
-    nvlchristina ""
+    nvlchristina "{a=show:christy_photo_1312}christy_photo_1312.png"
 
 # new_main_wife_phone_0_2_fin.rpy:19833
 translate zh_Hans george_messager02_1_5_d99cb911:
@@ -45010,7 +45010,7 @@ translate zh_Hans george_messager02_1_6_8bf917c7:
 translate zh_Hans george_messager02_1_6_be4ca9d1:
 
     # nvlchristina "{a=show:christy_photo_1319}christy_photo_1319.png"
-    nvlchristina ""
+    nvlchristina "{a=show:christy_photo_1319}christy_photo_1319.png"
 
 # new_main_wife_phone_0_2_fin.rpy:19979
 translate zh_Hans george_messager02_1_6_bf771dfb:
@@ -46162,13 +46162,13 @@ translate zh_Hans george_messager02_1_10_4a219750:
 translate zh_Hans george_messager02_1_10_ae4be40a:
 
     # nvlgeorge "{a=show:christy_photo_1327}christy_photo_1327.png"
-    nvlgeorge ""
+    nvlgeorge "{a=show:christy_photo_1327}christy_photo_1327.png"
 
 # new_main_wife_phone_0_2_fin.rpy:20550
 translate zh_Hans george_messager02_1_10_be08fcaf:
 
     # nvlgeorge "{a=show:christy_photo_1333}christy_photo_1333.png"
-    nvlgeorge ""
+    nvlgeorge "{a=show:christy_photo_1333}christy_photo_1333.png"
 
 # new_main_wife_phone_0_2_fin.rpy:20556
 translate zh_Hans george_messager02_1_10_78b4963a:
@@ -46186,7 +46186,7 @@ translate zh_Hans george_messager02_1_10_99e8da72:
 translate zh_Hans george_messager02_1_10_2b200435:
 
     # nvlgeorge "{a=show:christy_photo_1341}christy_photo_1341.png"
-    nvlgeorge ""
+    nvlgeorge "{a=show:christy_photo_1341}christy_photo_1341.png"
 
 # new_main_wife_phone_0_2_fin.rpy:20564
 translate zh_Hans george_messager02_1_10_51bb591b:
@@ -46876,7 +46876,7 @@ translate zh_Hans george_messager02_1_12_b4a26bc8:
 translate zh_Hans george_messager02_1_12_513394f6:
 
     # nvljohn "{image=like_icon_text.png}{image=like_icon_text.png}"
-    nvljohn ""
+    nvljohn "{image=like_icon_text.png}{image=like_icon_text.png}"
 
 # new_main_wife_phone_0_2_fin.rpy:20857
 translate zh_Hans george_messager02_1_12_f89cf31f:
@@ -48616,25 +48616,25 @@ translate zh_Hans salim_messager02_1_3_259bc7c3:
 translate zh_Hans salim_messager02_1_3_51e4dca8:
 
     # nvlsalim "{a=show:cuckold_pic_39}cuckold_pic_39.png"
-    nvlsalim ""
+    nvlsalim "{a=show:cuckold_pic_39}cuckold_pic_39.png"
 
 # new_main_wife_phone_0_2_fin.rpy:21710
 translate zh_Hans salim_messager02_1_3_b03b21c7:
 
     # nvlsalim "{a=show:cuckold_pic_52}cuckold_pic_52.png"
-    nvlsalim ""
+    nvlsalim "{a=show:cuckold_pic_52}cuckold_pic_52.png"
 
 # new_main_wife_phone_0_2_fin.rpy:21712
 translate zh_Hans salim_messager02_1_3_26aacbc3:
 
     # nvlsalim "{a=show:cuckold_pic_5}cuckold_pic_46.png"
-    nvlsalim ""
+    nvlsalim "{a=show:cuckold_pic_5}cuckold_pic_46.png"
 
 # new_main_wife_phone_0_2_fin.rpy:21714
 translate zh_Hans salim_messager02_1_3_06186f04:
 
     # nvlsalim "{a=show:cuckold_pic_79}cuckold_pic_79.png"
-    nvlsalim ""
+    nvlsalim "{a=show:cuckold_pic_79}cuckold_pic_79.png"
 
 # new_main_wife_phone_0_2_fin.rpy:21738
 translate zh_Hans salim_messager02_1_3_c0e6cf1e:
@@ -48796,43 +48796,43 @@ translate zh_Hans salim_messager02_1_3_c24911e7:
 translate zh_Hans salim_messager02_1_3_d053586a:
 
     # nvlsalim "{a=show:cuckold_pic_102}cuckold_pic_102.png"
-    nvlsalim ""
+    nvlsalim "{a=show:cuckold_pic_102}cuckold_pic_102.png"
 
 # new_main_wife_phone_0_2_fin.rpy:21812
 translate zh_Hans salim_messager02_1_3_139f9f98:
 
     # nvlsalim "{a=show:cuckold_pic_121}cuckold_pic_121.png"
-    nvlsalim ""
+    nvlsalim "{a=show:cuckold_pic_121}cuckold_pic_121.png"
 
 # new_main_wife_phone_0_2_fin.rpy:21814
 translate zh_Hans salim_messager02_1_3_51626570:
 
     # nvlsalim "{a=show:cuckold_pic_96}cuckold_pic_96.png"
-    nvlsalim ""
+    nvlsalim "{a=show:cuckold_pic_96}cuckold_pic_96.png"
 
 # new_main_wife_phone_0_2_fin.rpy:21816
 translate zh_Hans salim_messager02_1_3_6c2a6083:
 
     # nvlsalim "{a=show:cuckold_pic_81}cuckold_pic_81.png"
-    nvlsalim ""
+    nvlsalim "{a=show:cuckold_pic_81}cuckold_pic_81.png"
 
 # new_main_wife_phone_0_2_fin.rpy:21818
 translate zh_Hans salim_messager02_1_3_dbde9670:
 
     # nvlsalim "{a=show:cuckold_pic_179}cuckold_pic_179.png"
-    nvlsalim ""
+    nvlsalim "{a=show:cuckold_pic_179}cuckold_pic_179.png"
 
 # new_main_wife_phone_0_2_fin.rpy:21820
 translate zh_Hans salim_messager02_1_3_e9a7a3cd:
 
     # nvlsalim "{a=show:cuckold_pic_253}cuckold_pic_253.png"
-    nvlsalim ""
+    nvlsalim "{a=show:cuckold_pic_253}cuckold_pic_253.png"
 
 # new_main_wife_phone_0_2_fin.rpy:21822
 translate zh_Hans salim_messager02_1_3_1bc39ceb:
 
     # nvlsalim "{a=show:cuckold_pic_234}cuckold_pic_234.png"
-    nvlsalim ""
+    nvlsalim "{a=show:cuckold_pic_234}cuckold_pic_234.png"
 
 # new_main_wife_phone_0_2_fin.rpy:21838
 translate zh_Hans salim_messager02_1_3_b18c76f3:
@@ -48940,7 +48940,7 @@ translate zh_Hans salim_messager02_1_3_2ea7e2a8:
 translate zh_Hans salim_messager02_1_3_cb9f431a:
 
     # nvlsalim "{a=show:cuckold_pic_253}s_pic_3.png"
-    nvlsalim ""
+    nvlsalim "{a=show:cuckold_pic_253}s_pic_3.png"
 
 # new_main_wife_phone_0_2_fin.rpy:21939
 translate zh_Hans salim_messager02_1_3_65b0a638:
@@ -49570,19 +49570,19 @@ translate zh_Hans salim_messager02_1_5_83a6130b:
 translate zh_Hans salim_messager02_1_5_fab78010:
 
     # nvlsalim "{a=show:s_pic_11}s_pic_11.png"
-    nvlsalim ""
+    nvlsalim "{a=show:s_pic_11}s_pic_11.png"
 
 # new_main_wife_phone_0_2_fin.rpy:22235
 translate zh_Hans salim_messager02_1_5_cec2c074:
 
     # nvlsalim "{a=show:s_pic_19}s_pic_19.png"
-    nvlsalim ""
+    nvlsalim "{a=show:s_pic_19}s_pic_19.png"
 
 # new_main_wife_phone_0_2_fin.rpy:22237
 translate zh_Hans salim_messager02_1_5_6925a996:
 
     # nvlsalim "{a=show:s_pic_32}s_pic_32.png"
-    nvlsalim ""
+    nvlsalim "{a=show:s_pic_32}s_pic_32.png"
 
 # new_main_wife_phone_0_2_fin.rpy:22259
 translate zh_Hans salim_messager02_1_5_584733a0:
@@ -49768,19 +49768,19 @@ translate zh_Hans salim_messager02_1_5_88645ff8:
 translate zh_Hans salim_messager02_1_5_9bba783d:
 
     # nvlsalim "{a=show:s_pic_41}s_pic_41.png"
-    nvlsalim ""
+    nvlsalim "{a=show:s_pic_41}s_pic_41.png"
 
 # new_main_wife_phone_0_2_fin.rpy:22354
 translate zh_Hans salim_messager02_1_5_86017b34:
 
     # nvlsalim "{a=show:s_pic_46}s_pic_46.png"
-    nvlsalim ""
+    nvlsalim "{a=show:s_pic_46}s_pic_46.png"
 
 # new_main_wife_phone_0_2_fin.rpy:22356
 translate zh_Hans salim_messager02_1_5_b38f03b0:
 
     # nvlsalim "{a=show:s_pic_49}s_pic_49.png"
-    nvlsalim ""
+    nvlsalim "{a=show:s_pic_49}s_pic_49.png"
 
 # new_main_wife_phone_0_2_fin.rpy:22379
 translate zh_Hans salim_messager02_1_5_3119a68e:
@@ -50026,19 +50026,19 @@ translate zh_Hans salim_messager02_1_5_88645ff8_1:
 translate zh_Hans salim_messager02_1_5_9bba783d_1:
 
     # nvlsalim "{a=show:s_pic_41}s_pic_41.png"
-    nvlsalim ""
+    nvlsalim "{a=show:s_pic_41}s_pic_41.png"
 
 # new_main_wife_phone_0_2_fin.rpy:22485
 translate zh_Hans salim_messager02_1_5_86017b34_1:
 
     # nvlsalim "{a=show:s_pic_46}s_pic_46.png"
-    nvlsalim ""
+    nvlsalim "{a=show:s_pic_46}s_pic_46.png"
 
 # new_main_wife_phone_0_2_fin.rpy:22487
 translate zh_Hans salim_messager02_1_5_b38f03b0_1:
 
     # nvlsalim "{a=show:s_pic_49}s_pic_49.png"
-    nvlsalim ""
+    nvlsalim "{a=show:s_pic_49}s_pic_49.png"
 
 # new_main_wife_phone_0_2_fin.rpy:22510
 translate zh_Hans salim_messager02_1_5_3119a68e_2:
@@ -51100,7 +51100,7 @@ translate zh_Hans wife_withoutapp_messager02_1_0_d6485f95:
 translate zh_Hans wife_withoutapp_messager02_1_0_cab4df24:
 
     # nvlwife "{a=show:wife_pic_441}photo_14988.png"
-    nvlwife ""
+    nvlwife "{a=show:wife_pic_441}photo_14988.png"
 
 # new_main_wife_phone_0_2_fin.rpy:23099
 translate zh_Hans wife_withoutapp_messager02_1_0_b5e125d6:
@@ -51634,7 +51634,7 @@ translate zh_Hans wife_withoutapp_messager02_1_3_210fef43:
 translate zh_Hans wife_withoutapp_messager02_1_3_a766f702:
 
     # nvlwife "{a=show:wife_pic_442}photo_15031.png"
-    nvlwife ""
+    nvlwife "{a=show:wife_pic_442}photo_15031.png"
 
 # new_main_wife_phone_0_2_fin.rpy:23370
 translate zh_Hans wife_withoutapp_messager02_1_3_ab8bb9ee:
@@ -51940,7 +51940,7 @@ translate zh_Hans wife_withoutapp_messager02_1_4_1a483dfe:
 translate zh_Hans wife_withoutapp_messager02_1_4_28845600:
 
     # nvljenna "{a=show:office_pic_1}pic_1013.png"
-    nvljenna ""
+    nvljenna "{a=show:office_pic_1}pic_1013.png"
 
 # new_main_wife_phone_0_2_fin.rpy:23502
 translate zh_Hans wife_withoutapp_messager02_1_4_c380b6bb:
@@ -51952,13 +51952,13 @@ translate zh_Hans wife_withoutapp_messager02_1_4_c380b6bb:
 translate zh_Hans wife_withoutapp_messager02_1_4_e65f13ea:
 
     # nvljenna "{a=show:office_pic_2}pic_748.png"
-    nvljenna ""
+    nvljenna "{a=show:office_pic_2}pic_748.png"
 
 # new_main_wife_phone_0_2_fin.rpy:23508
 translate zh_Hans wife_withoutapp_messager02_1_4_90a8ec19:
 
     # nvljenna "{a=show:office_pic_3}pic_749.png"
-    nvljenna ""
+    nvljenna "{a=show:office_pic_3}pic_749.png"
 
 # new_main_wife_phone_0_2_fin.rpy:23512
 translate zh_Hans wife_withoutapp_messager02_1_4_57e82ff2:
@@ -52318,7 +52318,7 @@ translate zh_Hans wife_withoutapp_messager02_1_5_d92c8d71:
 translate zh_Hans wife_withoutapp_messager02_1_5_afa0bdf1:
 
     # nvlwife "{a=show:wife_pic_443}photo_15037.png"
-    nvlwife ""
+    nvlwife "{a=show:wife_pic_443}photo_15037.png"
 
 # new_main_wife_phone_0_2_fin.rpy:23669
 translate zh_Hans wife_withoutapp_messager02_1_5_c905fe5d:
@@ -52630,7 +52630,7 @@ translate zh_Hans wife_withoutapp_messager02_1_6_583984dd:
 translate zh_Hans wife_withoutapp_messager02_1_6_7e145092:
 
     # nvlwife "{a=show:photo_23125}photo_23125.png"
-    nvlwife ""
+    nvlwife "{a=show:photo_23125}photo_23125.png"
 
 # new_main_wife_phone_0_2_fin.rpy:23807
 translate zh_Hans wife_withoutapp_messager02_1_6_6019e8fa:
@@ -53050,7 +53050,7 @@ translate zh_Hans wife_withoutapp_messager02_1_9_ef13bbaf:
 translate zh_Hans wife_withoutapp_messager02_1_9_d95cefd6:
 
     # nvlwife "{a=show:wife_pic_444}photo_15043.png"
-    nvlwife ""
+    nvlwife "{a=show:wife_pic_444}photo_15043.png"
 
 # new_main_wife_phone_0_2_fin.rpy:24033
 translate zh_Hans wife_withoutapp_messager02_1_9_726fa51e:
@@ -53134,7 +53134,7 @@ translate zh_Hans wife_withoutapp_messager02_1_9_72f3a799:
 translate zh_Hans wife_withoutapp_messager02_1_9_1e669687:
 
     # nvljohn "{a=show:wife_video_82}video_432.mov"
-    nvljohn ""
+    nvljohn "{a=show:wife_video_82}video_432.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:24063
 translate zh_Hans wife_withoutapp_messager02_1_9_d6673df9:
@@ -55120,7 +55120,7 @@ translate zh_Hans wife_withoutapp_messager02_1_18_05498bdd:
 translate zh_Hans wife_withoutapp_messager02_1_18_0812a9a4:
 
     # nvlwife "{a=show:wife_pic_445}photo_15055.png"
-    nvlwife ""
+    nvlwife "{a=show:wife_pic_445}photo_15055.png"
 
 # new_main_wife_phone_0_2_fin.rpy:24987
 translate zh_Hans wife_withoutapp_messager02_1_18_72f02449:
@@ -55450,7 +55450,7 @@ translate zh_Hans wife_withoutapp_messager02_1_19_745822fd:
 translate zh_Hans wife_withoutapp_messager02_1_19_59468be5:
 
     # nvljohn "{a=show:wife_video_83}video_438.mov"
-    nvljohn ""
+    nvljohn "{a=show:wife_video_83}video_438.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:25127
 translate zh_Hans wife_withoutapp_messager02_1_19_d6673df9:
@@ -55678,7 +55678,7 @@ translate zh_Hans wife_withoutapp_messager02_1_20_76b2fe88:
 translate zh_Hans wife_withoutapp_messager02_1_20_633d5ca3:
 
     # nvljenna "{a=show:bbc_video_7}video_1293.mov"
-    nvljenna ""
+    nvljenna "{a=show:bbc_video_7}video_1293.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:25233
 translate zh_Hans wife_withoutapp_messager02_1_20_b0a31758:
@@ -55726,7 +55726,7 @@ translate zh_Hans wife_withoutapp_messager02_1_20_d8d4509c:
 translate zh_Hans wife_withoutapp_messager02_1_20_1c523cad:
 
     # nvljenna "{a=show:bbc_video_8}video_967.mov"
-    nvljenna ""
+    nvljenna "{a=show:bbc_video_8}video_967.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:25251
 translate zh_Hans wife_withoutapp_messager02_1_20_9ce0cf19:
@@ -56320,7 +56320,7 @@ translate zh_Hans wife_withoutapp_messager02_1_23_d8c2f445:
 translate zh_Hans wife_withoutapp_messager02_1_23_b24611b8:
 
     # nvlwife "{a=show:wife_pic_446}photo_15061.png"
-    nvlwife ""
+    nvlwife "{a=show:wife_pic_446}photo_15061.png"
 
 # new_main_wife_phone_0_2_fin.rpy:25542
 translate zh_Hans wife_withoutapp_messager02_1_23_52ca955d:
@@ -56464,7 +56464,7 @@ translate zh_Hans wife_withoutapp_messager02_1_24_76b2fe88:
 translate zh_Hans wife_withoutapp_messager02_1_24_26cd5b13:
 
     # nvljenna "{a=show:wife_pic_448}photo_3933.png"
-    nvljenna ""
+    nvljenna "{a=show:wife_pic_448}photo_3933.png"
 
 # new_main_wife_phone_0_2_fin.rpy:25620
 translate zh_Hans wife_withoutapp_messager02_1_24_022136e1:
@@ -56584,7 +56584,7 @@ translate zh_Hans wife_withoutapp_messager02_1_24_d8241b51:
 translate zh_Hans wife_withoutapp_messager02_1_24_f4ac908b:
 
     # nvljenna "{a=show:wife_video_84}video_2308.mov"
-    nvljenna ""
+    nvljenna "{a=show:wife_video_84}video_2308.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:25662
 translate zh_Hans wife_withoutapp_messager02_1_24_60bb5741:
@@ -57484,7 +57484,7 @@ translate zh_Hans wife_withoutapp_messager02_1_28_f660439c:
 translate zh_Hans wife_withoutapp_messager02_1_28_3aec20cf:
 
     # nvljenna "{a=show:bbc_video_9}video_1033.mov"
-    nvljenna ""
+    nvljenna "{a=show:bbc_video_9}video_1033.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:26095
 translate zh_Hans wife_withoutapp_messager02_1_28_60bb5741:
@@ -58576,7 +58576,7 @@ translate zh_Hans wife_withoutapp_messager02_1_31_8b1049b5:
 translate zh_Hans wife_withoutapp_messager02_1_31_a0db1664:
 
     # nvljohn "{a=show:wife_pic_449}photo_409.png"
-    nvljohn ""
+    nvljohn "{a=show:wife_pic_449}photo_409.png"
 
 # new_main_wife_phone_0_2_fin.rpy:26557
 translate zh_Hans wife_withoutapp_messager02_1_31_f45623ea:
@@ -58792,7 +58792,7 @@ translate zh_Hans wife_withoutapp_messager02_1_32_87c30f47:
 translate zh_Hans wife_withoutapp_messager02_1_32_df911cad:
 
     # nvlwife "{a=show:wife_video_85}video_1097.mov"
-    nvlwife ""
+    nvlwife "{a=show:wife_video_85}video_1097.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:26659
 translate zh_Hans wife_withoutapp_messager02_1_32_21b18c96:
@@ -59332,7 +59332,7 @@ translate zh_Hans wife_withoutapp_messager02_1_34_76b2fe88:
 translate zh_Hans wife_withoutapp_messager02_1_34_d16bedbb:
 
     # nvljenna "{a=show:bbc_video_10}video_1042.mov"
-    nvljenna ""
+    nvljenna "{a=show:bbc_video_10}video_1042.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:26911
 translate zh_Hans wife_withoutapp_messager02_1_34_825a9aeb:
@@ -59440,7 +59440,7 @@ translate zh_Hans wife_withoutapp_messager02_1_34_7f87dcc5:
 translate zh_Hans wife_withoutapp_messager02_1_34_de1da508:
 
     # nvljenna "{a=show:bbc_video_11}video_1076.mov"
-    nvljenna ""
+    nvljenna "{a=show:bbc_video_11}video_1076.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:26949
 translate zh_Hans wife_withoutapp_messager02_1_34_da1f418d:
@@ -60136,7 +60136,7 @@ translate zh_Hans wife_withoutapp_messager02_1_36_181f85b5:
 translate zh_Hans wife_withoutapp_messager02_1_36_50f90116:
 
     # nvljenna "{a=show:bbc_video_12}video_1083.mov"
-    nvljenna ""
+    nvljenna "{a=show:bbc_video_12}video_1083.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:27248
 translate zh_Hans wife_withoutapp_messager02_1_36_02d5398f:
@@ -60274,7 +60274,7 @@ translate zh_Hans wife_withoutapp_messager02_1_36_4b77a1fd:
 translate zh_Hans wife_withoutapp_messager02_1_36_9da8f914:
 
     # nvljenna "{a=show:photo_774}photo_774.png"
-    nvljenna ""
+    nvljenna "{a=show:photo_774}photo_774.png"
 
 # new_main_wife_phone_0_2_fin.rpy:27296
 translate zh_Hans wife_withoutapp_messager02_1_36_37c9ce6c:
@@ -63280,13 +63280,13 @@ translate zh_Hans wife_withoutapp_messager02_1_42_32157762:
 translate zh_Hans wife_withoutapp_messager02_1_42_0a2b3416:
 
     # nvljenna "{a=show:bbc_video_13}video_3093.mov"
-    nvljenna ""
+    nvljenna "{a=show:bbc_video_13}video_3093.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:28493
 translate zh_Hans wife_withoutapp_messager02_1_42_91bd301c:
 
     # nvljenna "{a=show:bbc_video_14}video_3094.mov"
-    nvljenna ""
+    nvljenna "{a=show:bbc_video_14}video_3094.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:28499
 translate zh_Hans wife_withoutapp_messager02_1_42_230a0551:
@@ -63940,7 +63940,7 @@ translate zh_Hans wife_withoutapp_messager02_1_45_a52a1acc:
 translate zh_Hans wife_withoutapp_messager02_1_45_2682bd51:
 
     # nvlwife "{a=show:wife_pic_447}photo_15203.png"
-    nvlwife ""
+    nvlwife "{a=show:wife_pic_447}photo_15203.png"
 
 # new_main_wife_phone_0_2_fin.rpy:28801
 translate zh_Hans wife_withoutapp_messager02_1_45_024f84cf:
@@ -65548,7 +65548,7 @@ translate zh_Hans withoutapp_messager02_1_2_86ddc744:
 translate zh_Hans withoutapp_messager02_1_2_f2e38005:
 
     # nvljenna "{a=show:bbc_video_16}video_3112.mov"
-    nvljenna ""
+    nvljenna "{a=show:bbc_video_16}video_3112.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:29654
 translate zh_Hans withoutapp_messager02_1_2_a6761841:
@@ -66130,7 +66130,7 @@ translate zh_Hans withoutapp_messager02_1_5_5d1488cb:
 translate zh_Hans withoutapp_messager02_1_5_25e122d1:
 
     # nvljenna "{a=show:bbc_video_17}video_3116.mov"
-    nvljenna ""
+    nvljenna "{a=show:bbc_video_17}video_3116.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:29941
 translate zh_Hans withoutapp_messager02_1_5_60bb5741:
@@ -66754,7 +66754,7 @@ translate zh_Hans withoutapp_messager02_1_7_76b2fe88:
 translate zh_Hans withoutapp_messager02_1_7_e430a479:
 
     # nvljenna "{a=show:bbc_video_18}video_2927.mov"
-    nvljenna ""
+    nvljenna "{a=show:bbc_video_18}video_2927.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:30259
 translate zh_Hans withoutapp_messager02_1_7_191b368f:
@@ -66874,7 +66874,7 @@ translate zh_Hans withoutapp_messager02_1_7_cdd44619:
 translate zh_Hans withoutapp_messager02_1_7_e7611e7e:
 
     # nvljenna "{a=show:ntr_pic_1}pic_23431.jpg"
-    nvljenna ""
+    nvljenna "{a=show:ntr_pic_1}pic_23431.jpg"
 
 # new_main_wife_phone_0_2_fin.rpy:30301
 translate zh_Hans withoutapp_messager02_1_7_7deaa566:
@@ -66886,7 +66886,7 @@ translate zh_Hans withoutapp_messager02_1_7_7deaa566:
 translate zh_Hans withoutapp_messager02_1_7_6c7a0917:
 
     # nvljenna "{a=show:ntr_pic_2}pic_17843.jpg"
-    nvljenna ""
+    nvljenna "{a=show:ntr_pic_2}pic_17843.jpg"
 
 # new_main_wife_phone_0_2_fin.rpy:30307
 translate zh_Hans withoutapp_messager02_1_7_b119d15c:
@@ -66946,7 +66946,7 @@ translate zh_Hans withoutapp_messager02_1_7_d1df1a02:
 translate zh_Hans withoutapp_messager02_1_7_a3894325:
 
     # nvljenna "{a=show:ntr_pic_3}pic_24494.jpg"
-    nvljenna ""
+    nvljenna "{a=show:ntr_pic_3}pic_24494.jpg"
 
 # new_main_wife_phone_0_2_fin.rpy:30329
 translate zh_Hans withoutapp_messager02_1_7_da6381b6:
@@ -66982,7 +66982,7 @@ translate zh_Hans withoutapp_messager02_1_7_8bfc7c08:
 translate zh_Hans withoutapp_messager02_1_7_fb6048d1:
 
     # nvljenna "{a=show:ntr_pic_4}pic_8947.jpg"
-    nvljenna ""
+    nvljenna "{a=show:ntr_pic_4}pic_8947.jpg"
 
 # new_main_wife_phone_0_2_fin.rpy:30343
 translate zh_Hans withoutapp_messager02_1_7_0791bc38:
@@ -68962,7 +68962,7 @@ translate zh_Hans withoutapp_messager02_1_11_a619fb87:
 translate zh_Hans withoutapp_messager02_1_11_c1ba453a:
 
     # nvljenna "{a=show:wife_pic_450}photo_3933.png"
-    nvljenna ""
+    nvljenna "{a=show:wife_pic_450}photo_3933.png"
 
 # new_main_wife_phone_0_2_fin.rpy:31184
 translate zh_Hans withoutapp_messager02_1_11_94129fa9:
@@ -69460,7 +69460,7 @@ translate zh_Hans withoutapp_messager02_1_12_95642a3c:
 translate zh_Hans withoutapp_messager02_1_12_c679d506:
 
     # nvlwife "{a=show:wife_pic_451}photo_23933.png"
-    nvlwife ""
+    nvlwife "{a=show:wife_pic_451}photo_23933.png"
 
 # new_main_wife_phone_0_2_fin.rpy:31387
 translate zh_Hans withoutapp_messager02_1_12_3e8485b8:
@@ -69526,13 +69526,13 @@ translate zh_Hans withoutapp_messager02_1_13_76b2fe88:
 translate zh_Hans withoutapp_messager02_1_13_31a52fa9:
 
     # nvljenna "{a=show:bbc_video_20}video_3013.mp4"
-    nvljenna ""
+    nvljenna "{a=show:bbc_video_20}video_3013.mp4"
 
 # new_main_wife_phone_0_2_fin.rpy:31437
 translate zh_Hans withoutapp_messager02_1_13_1e26de7d:
 
     # nvljenna "{a=show:bbc_video_21}video_4613.mp4"
-    nvljenna ""
+    nvljenna "{a=show:bbc_video_21}video_4613.mp4"
 
 # new_main_wife_phone_0_2_fin.rpy:31443
 translate zh_Hans withoutapp_messager02_1_13_c15e6c55:
@@ -69892,7 +69892,7 @@ translate zh_Hans withoutapp_messager02_1_14_188c4ef5:
 translate zh_Hans withoutapp_messager02_1_14_4c5b1398:
 
     # nvlwife "{a=show:wife_pic_452}photo_23940.png"
-    nvlwife ""
+    nvlwife "{a=show:wife_pic_452}photo_23940.png"
 
 # new_main_wife_phone_0_2_fin.rpy:31593
 translate zh_Hans withoutapp_messager02_1_14_88825694:
@@ -70060,7 +70060,7 @@ translate zh_Hans withoutapp_messager02_1_15_76b2fe88:
 translate zh_Hans withoutapp_messager02_1_15_54caf556:
 
     # nvlwife "{a=show:bbc_video_22}video_622.mp4"
-    nvlwife ""
+    nvlwife "{a=show:bbc_video_22}video_622.mp4"
 
 # new_main_wife_phone_0_2_fin.rpy:31679
 translate zh_Hans withoutapp_messager02_1_15_bc5abed1:
@@ -70522,7 +70522,7 @@ translate zh_Hans withoutapp_messager02_1_17_daab80ed:
 translate zh_Hans withoutapp_messager02_1_17_6cd2f9a0:
 
     # nvljenna "{a=show:wife_video_86}video_1311.mov"
-    nvljenna ""
+    nvljenna "{a=show:wife_video_86}video_1311.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:31890
 translate zh_Hans withoutapp_messager02_1_17_5269850a:
@@ -70816,7 +70816,7 @@ translate zh_Hans withoutapp_messager02_1_18_76b2fe88:
 translate zh_Hans withoutapp_messager02_1_18_33d7f627:
 
     # nvljenna "{a=show:wife_video_87}video_1314.mov"
-    nvljenna ""
+    nvljenna "{a=show:wife_video_87}video_1314.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:32037
 translate zh_Hans withoutapp_messager02_1_18_da9edf34:
@@ -70978,7 +70978,7 @@ translate zh_Hans withoutapp_messager02_1_18_191972f7:
 translate zh_Hans withoutapp_messager02_1_18_fe0c1906:
 
     # nvljenna "{a=show:bbc_video_23}video_4031.mov"
-    nvljenna ""
+    nvljenna "{a=show:bbc_video_23}video_4031.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:32093
 translate zh_Hans withoutapp_messager02_1_18_800f7e65:
@@ -71008,7 +71008,7 @@ translate zh_Hans withoutapp_messager02_1_18_40caf158:
 translate zh_Hans withoutapp_messager02_1_18_708ffdbc:
 
     # nvljenna "{a=show:bbc_video_24}video_509.mov"
-    nvljenna ""
+    nvljenna "{a=show:bbc_video_24}video_509.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:32105
 translate zh_Hans withoutapp_messager02_1_18_133f26b7:
@@ -71962,13 +71962,13 @@ translate zh_Hans withoutapp_messager02_1_19_a830ac35:
 translate zh_Hans withoutapp_messager02_1_19_2fd55a58:
 
     # nvljenna "{a=show:ntr_pic_5}pic_9031.jpg"
-    nvljenna ""
+    nvljenna "{a=show:ntr_pic_5}pic_9031.jpg"
 
 # new_main_wife_phone_0_2_fin.rpy:32504
 translate zh_Hans withoutapp_messager02_1_19_972eaf16:
 
     # nvljenna "{a=show:ntr_pic_6}pic_764.jpg"
-    nvljenna ""
+    nvljenna "{a=show:ntr_pic_6}pic_764.jpg"
 
 # new_main_wife_phone_0_2_fin.rpy:32508
 translate zh_Hans withoutapp_messager02_1_19_50727e6a:
@@ -72970,7 +72970,7 @@ translate zh_Hans withoutapp_messager02_1_23_19ee3eac:
 translate zh_Hans withoutapp_messager02_1_23_4e9745b3:
 
     # nvljenna "{a=show:bbc_video_19}video_2931.mp4"
-    nvljenna ""
+    nvljenna "{a=show:bbc_video_19}video_2931.mp4"
 
 # new_main_wife_phone_0_2_fin.rpy:32970
 translate zh_Hans withoutapp_messager02_1_23_ea17654d:
@@ -74050,7 +74050,7 @@ translate zh_Hans withoutapp_messager02_1_27_76b2fe88:
 translate zh_Hans withoutapp_messager02_1_27_7e2f9bfa:
 
     # nvlson "{a=show:wife_pic_453}photo_874.png"
-    nvlson ""
+    nvlson "{a=show:wife_pic_453}photo_874.png"
 
 # new_main_wife_phone_0_2_fin.rpy:33458
 translate zh_Hans withoutapp_messager02_1_27_aed50562:
@@ -74362,7 +74362,7 @@ translate zh_Hans withoutapp_messager02_1_28_a9403c62:
 translate zh_Hans withoutapp_messager02_1_28_90b7af02:
 
     # nvlwife "{a=show:wife_pic_454}photo_14874.png"
-    nvlwife ""
+    nvlwife "{a=show:wife_pic_454}photo_14874.png"
 
 # new_main_wife_phone_0_2_fin.rpy:33590
 translate zh_Hans withoutapp_messager02_1_28_6c473546:
@@ -74566,7 +74566,7 @@ translate zh_Hans withoutapp_messager02_1_29_76b2fe88:
 translate zh_Hans withoutapp_messager02_1_29_9605a743:
 
     # nvlwife "{a=show:wife_pic_455}photo_15018.png"
-    nvlwife ""
+    nvlwife "{a=show:wife_pic_455}photo_15018.png"
 
 # new_main_wife_phone_0_2_fin.rpy:33688
 translate zh_Hans withoutapp_messager02_1_29_c7cfe788:
@@ -74824,13 +74824,13 @@ translate zh_Hans withoutapp_messager02_1_30_a83d355e:
 translate zh_Hans withoutapp_messager02_1_30_7a09e72a:
 
     # nvljohn "{a=show:wife_video_88}video_127.mov"
-    nvljohn ""
+    nvljohn "{a=show:wife_video_88}video_127.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:33802
 translate zh_Hans withoutapp_messager02_1_30_002339ca:
 
     # nvljohn "{a=show:wife_video_89}video_128.mov"
-    nvljohn ""
+    nvljohn "{a=show:wife_video_89}video_128.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:33808
 translate zh_Hans withoutapp_messager02_1_30_56f0f9d4:
@@ -75004,7 +75004,7 @@ translate zh_Hans withoutapp_messager02_1_31_7e879b0c:
 translate zh_Hans withoutapp_messager02_1_31_a96db64c:
 
     # nvlwife "{a=show:wife_pic_456}photo_431.png"
-    nvlwife ""
+    nvlwife "{a=show:wife_pic_456}photo_431.png"
 
 # new_main_wife_phone_0_2_fin.rpy:33896
 translate zh_Hans withoutapp_messager02_1_31_2b70dc03:
@@ -75682,7 +75682,7 @@ translate zh_Hans withoutapp_messager02_1_33_5631630a:
 translate zh_Hans withoutapp_messager02_1_33_a1ad4b14:
 
     # nvlwife "{a=show:wife_pic_457}photo_14131.png"
-    nvlwife ""
+    nvlwife "{a=show:wife_pic_457}photo_14131.png"
 
 # new_main_wife_phone_0_2_fin.rpy:34180
 translate zh_Hans withoutapp_messager02_1_33_e055bb0c:
@@ -77272,13 +77272,13 @@ translate zh_Hans withoutapp_messager02_1_40_1c47992c:
 translate zh_Hans withoutapp_messager02_1_40_bcf187e7:
 
     # nvljenna "{a=show:bbc_2504}bbc_2504.png"
-    nvljenna ""
+    nvljenna "{a=show:bbc_2504}bbc_2504.png"
 
 # new_main_wife_phone_0_2_fin.rpy:34913
 translate zh_Hans withoutapp_messager02_1_40_fd9795db:
 
     # nvljenna "{a=show:bbc_pic_91}bbc_pic_91.png"
-    nvljenna ""
+    nvljenna "{a=show:bbc_pic_91}bbc_pic_91.png"
 
 # new_main_wife_phone_0_2_fin.rpy:34917
 translate zh_Hans withoutapp_messager02_1_40_1dd70819:
@@ -77296,13 +77296,13 @@ translate zh_Hans withoutapp_messager02_1_40_b119d15c:
 translate zh_Hans withoutapp_messager02_1_40_7219b6c2:
 
     # nvljenna "{a=show:bbc_pic_101}bbc_117.png"
-    nvljenna ""
+    nvljenna "{a=show:bbc_pic_101}bbc_117.png"
 
 # new_main_wife_phone_0_2_fin.rpy:34925
 translate zh_Hans withoutapp_messager02_1_40_c7d3cf56:
 
     # nvljenna "{a=show:bbc_pic_174}bbc_118.png"
-    nvljenna ""
+    nvljenna "{a=show:bbc_pic_174}bbc_118.png"
 
 # new_main_wife_phone_0_2_fin.rpy:34929
 translate zh_Hans withoutapp_messager02_1_40_d6f2e93f:
@@ -78466,7 +78466,7 @@ translate zh_Hans withoutapp_messager02_1_45_5510ff30:
 translate zh_Hans withoutapp_messager02_1_45_eabc1551:
 
     # nvljohn "{a=show:other_pic_7}pic_787.png"
-    nvljohn ""
+    nvljohn "{a=show:other_pic_7}pic_787.png"
 
 # new_main_wife_phone_0_2_fin.rpy:35473
 translate zh_Hans withoutapp_messager02_1_45_d813ba41:
@@ -78604,7 +78604,7 @@ translate zh_Hans withoutapp_messager02_1_45_9559a2a6:
 translate zh_Hans withoutapp_messager02_1_45_e0784f5c:
 
     # nvljohn "{a=show:anissa_pic_19}photo_1695.png"
-    nvljohn ""
+    nvljohn "{a=show:anissa_pic_19}photo_1695.png"
 
 # new_main_wife_phone_0_2_fin.rpy:35521
 translate zh_Hans withoutapp_messager02_1_45_25dbf3fc:
@@ -78862,7 +78862,7 @@ translate zh_Hans withoutapp_messager02_1_46_ba8400be:
 translate zh_Hans withoutapp_messager02_1_46_dc44e11a:
 
     # nvljenna "{a=show:bbc_video_25}video_533.mov"
-    nvljenna ""
+    nvljenna "{a=show:bbc_video_25}video_533.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:35637
 translate zh_Hans withoutapp_messager02_1_46_37372be5:
@@ -79546,7 +79546,7 @@ translate zh_Hans withoutapp_messager02_1_48_8b45bdd7:
 translate zh_Hans withoutapp_messager02_1_48_8e152aa7:
 
     # nvljohn "{a=show:bbc_video_26}video_538.mov"
-    nvljohn ""
+    nvljohn "{a=show:bbc_video_26}video_538.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:35930
 translate zh_Hans withoutapp_messager02_1_48_56f0f9d4:
@@ -79900,7 +79900,7 @@ translate zh_Hans withoutapp_messager02_1_49_9fd7fc65:
 translate zh_Hans withoutapp_messager02_1_49_b3bd6410:
 
     # nvlunknown "{a=show:wife_video_90}video_4819.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:wife_video_90}video_4819.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:36078
 translate zh_Hans withoutapp_messager02_1_49_a900fa90:
@@ -80404,7 +80404,7 @@ translate zh_Hans withoutapp_messager02_1_51_3cfb4a60:
 translate zh_Hans withoutapp_messager02_1_51_41afffa7:
 
     # nvlwife "{a=show:wife_pic_458}photo_14304.png"
-    nvlwife ""
+    nvlwife "{a=show:wife_pic_458}photo_14304.png"
 
 # new_main_wife_phone_0_2_fin.rpy:36304
 translate zh_Hans withoutapp_messager02_1_51_7ec3e2e3:
@@ -80824,7 +80824,7 @@ translate zh_Hans withoutapp_messager02_1_53_5156036b:
 translate zh_Hans withoutapp_messager02_1_53_f1ba5ba7:
 
     # nvljenna "{a=show:bbc_video_27}video_4931.mov"
-    nvljenna ""
+    nvljenna "{a=show:bbc_video_27}video_4931.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:36500
 translate zh_Hans withoutapp_messager02_1_53_23f3fdd4:
@@ -80980,7 +80980,7 @@ translate zh_Hans withoutapp_messager02_1_54_67ac8ced:
 translate zh_Hans withoutapp_messager02_1_54_690148c2:
 
     # nvljenna "{a=show:wife_video_67}video_399.mov"
-    nvljenna ""
+    nvljenna "{a=show:wife_video_67}video_399.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:36582
 translate zh_Hans withoutapp_messager02_1_54_0b772a52:
@@ -81040,13 +81040,13 @@ translate zh_Hans withoutapp_messager02_1_54_60bb5741_1:
 translate zh_Hans withoutapp_messager02_1_54_9f37ee9d:
 
     # nvljenna "{a=show:wife_video_71}video_401.mov"
-    nvljenna ""
+    nvljenna "{a=show:wife_video_71}video_401.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:36602
 translate zh_Hans withoutapp_messager02_1_54_581905f7:
 
     # nvljenna "{a=show:wife_video_72}video_402.mov"
-    nvljenna ""
+    nvljenna "{a=show:wife_video_72}video_402.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:36608
 translate zh_Hans withoutapp_messager02_1_54_21955cdf:
@@ -81100,7 +81100,7 @@ translate zh_Hans withoutapp_messager02_1_54_8d345ec8:
 translate zh_Hans withoutapp_messager02_1_54_10f66c7f:
 
     # nvljenna "{a=show:wife_video_70}video_405.mov"
-    nvljenna ""
+    nvljenna "{a=show:wife_video_70}video_405.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:36628
 translate zh_Hans withoutapp_messager02_1_54_381cfa17:
@@ -82108,7 +82108,7 @@ translate zh_Hans withoutapp_messager02_1_58_955e7d34:
 translate zh_Hans withoutapp_messager02_1_58_ee35783b:
 
     # nvljohn "{a=show:wife_pic_459}photo_14344.png"
-    nvljohn ""
+    nvljohn "{a=show:wife_pic_459}photo_14344.png"
 
 # new_main_wife_phone_0_2_fin.rpy:37078
 translate zh_Hans withoutapp_messager02_1_58_c4dcebd9:
@@ -82222,7 +82222,7 @@ translate zh_Hans withoutapp_messager02_1_58_6f1fc853:
 translate zh_Hans withoutapp_messager02_1_58_775997d1:
 
     # nvljohn "{a=show:bbc_video_28}video_2837.mov"
-    nvljohn ""
+    nvljohn "{a=show:bbc_video_28}video_2837.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:37118
 translate zh_Hans withoutapp_messager02_1_58_0f4f0f0f:
@@ -82402,7 +82402,7 @@ translate zh_Hans withoutapp_messager02_1_59_6110e90b:
 translate zh_Hans withoutapp_messager02_1_59_1c34e0ac:
 
     # nvljohn "{a=show:wife_video_91}video_187.mov"
-    nvljohn ""
+    nvljohn "{a=show:wife_video_91}video_187.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:37208
 translate zh_Hans withoutapp_messager02_1_59_abcbe5f0:
@@ -82960,7 +82960,7 @@ translate zh_Hans withoutapp_messager02_1_61_6a30989a:
 translate zh_Hans withoutapp_messager02_1_61_ab6d0abc:
 
     # nvlson "{a=show:kirely_pic_13}photo_609.png"
-    nvlson ""
+    nvlson "{a=show:kirely_pic_13}photo_609.png"
 
 # new_main_wife_phone_0_2_fin.rpy:37452
 translate zh_Hans withoutapp_messager02_1_61_56f7afbd:
@@ -83734,7 +83734,7 @@ translate zh_Hans withoutapp_messager02_1_64_d78825ca:
 translate zh_Hans withoutapp_messager02_1_64_43fe54d4:
 
     # nvljohn "{a=show:photo_27489}photo_27489.png"
-    nvljohn ""
+    nvljohn "{a=show:photo_27489}photo_27489.png"
 
 # new_main_wife_phone_0_2_fin.rpy:37803
 translate zh_Hans withoutapp_messager02_1_64_bdb624bb:
@@ -84256,7 +84256,7 @@ translate zh_Hans withoutapp_messager02_1_65_67a54730:
 translate zh_Hans withoutapp_messager02_1_65_051e33a2:
 
     # nvlwife "{a=show:wife_pic_460}photo_14353.png"
-    nvlwife ""
+    nvlwife "{a=show:wife_pic_460}photo_14353.png"
 
 # new_main_wife_phone_0_2_fin.rpy:38007
 translate zh_Hans withoutapp_messager02_1_65_611b4796:
@@ -85516,13 +85516,13 @@ translate zh_Hans withoutapp_messager02_1_70_02cdff4b:
 translate zh_Hans withoutapp_messager02_1_70_f2dfcf79:
 
     # nvljohn "{a=show:wife_video_92}video_196.mov"
-    nvljohn ""
+    nvljohn "{a=show:wife_video_92}video_196.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:38572
 translate zh_Hans withoutapp_messager02_1_70_92af9213:
 
     # nvljohn "{a=show:wife_video_93}video_197.mov"
-    nvljohn ""
+    nvljohn "{a=show:wife_video_93}video_197.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:38576
 translate zh_Hans withoutapp_messager02_1_70_02986a2f:
@@ -85864,7 +85864,7 @@ translate zh_Hans withoutapp_messager02_1_71_d1872738:
 translate zh_Hans withoutapp_messager02_1_71_0f95fda8:
 
     # nvlwife "{a=show:wife_pic_461}photo_14364.png"
-    nvlwife ""
+    nvlwife "{a=show:wife_pic_461}photo_14364.png"
 
 # new_main_wife_phone_0_2_fin.rpy:38720
 translate zh_Hans withoutapp_messager02_1_71_1911880a:
@@ -86080,7 +86080,7 @@ translate zh_Hans withoutapp_messager02_1_72_88fc1313:
 translate zh_Hans withoutapp_messager02_1_72_b3cab735:
 
     # nvljohn "{a=show:wife_pic_461}photo_14364.png"
-    nvljohn ""
+    nvljohn "{a=show:wife_pic_461}photo_14364.png"
 
 # new_main_wife_phone_0_2_fin.rpy:38820
 translate zh_Hans withoutapp_messager02_1_72_8904ab15:
@@ -86170,7 +86170,7 @@ translate zh_Hans withoutapp_messager02_1_72_f32ffeeb:
 translate zh_Hans withoutapp_messager02_1_72_424d7223:
 
     # nvljohnny "{a=show:miko_pic_1}photo_3145.png"
-    nvljohnny ""
+    nvljohnny "{a=show:miko_pic_1}photo_3145.png"
 
 # new_main_wife_phone_0_2_fin.rpy:38852
 translate zh_Hans withoutapp_messager02_1_72_93f94ea2:
@@ -86578,13 +86578,13 @@ translate zh_Hans withoutapp_messager02_1_73_581938c5:
 translate zh_Hans withoutapp_messager02_1_73_d01277a9:
 
     # nvljohn "{a=show:wife_pic_462}photo_1391.png"
-    nvljohn ""
+    nvljohn "{a=show:wife_pic_462}photo_1391.png"
 
 # new_main_wife_phone_0_2_fin.rpy:39018
 translate zh_Hans withoutapp_messager02_1_73_9dc33cdf:
 
     # nvljohn "{a=show:wife_pic_463}photo_1392.png"
-    nvljohn ""
+    nvljohn "{a=show:wife_pic_463}photo_1392.png"
 
 # new_main_wife_phone_0_2_fin.rpy:39022
 translate zh_Hans withoutapp_messager02_1_73_582a550e:
@@ -86668,13 +86668,13 @@ translate zh_Hans withoutapp_messager02_1_74_66883060:
 translate zh_Hans withoutapp_messager02_1_74_1abf01d4:
 
     # nvljohn "{a=show:wife_video_94}video_201.mov"
-    nvljohn ""
+    nvljohn "{a=show:wife_video_94}video_201.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:39080
 translate zh_Hans withoutapp_messager02_1_74_f2e50dff:
 
     # nvljohn "{a=show:wife_video_95}video_202.mov"
-    nvljohn ""
+    nvljohn "{a=show:wife_video_95}video_202.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:39084
 translate zh_Hans withoutapp_messager02_1_74_1cf45bce:
@@ -87214,13 +87214,13 @@ translate zh_Hans withoutapp_messager02_1_75_8855f5c5:
 translate zh_Hans withoutapp_messager02_1_75_84978d58:
 
     # nvljenna "{a=show:blacked_pic_4}pic_336.png"
-    nvljenna ""
+    nvljenna "{a=show:blacked_pic_4}pic_336.png"
 
 # new_main_wife_phone_0_2_fin.rpy:39299
 translate zh_Hans withoutapp_messager02_1_75_bf3e4ac0:
 
     # nvljenna "{a=show:blacked_pic_3}pic_30491.png"
-    nvljenna ""
+    nvljenna "{a=show:blacked_pic_3}pic_30491.png"
 
 # new_main_wife_phone_0_2_fin.rpy:39305
 translate zh_Hans withoutapp_messager02_1_75_af19ae00:
@@ -88168,13 +88168,13 @@ translate zh_Hans withoutapp_messager02_1_78_fa2e8d0f:
 translate zh_Hans withoutapp_messager02_1_78_27d8cf8f:
 
     # nvljohn "{a=show:wife_video_96}video_209.mov"
-    nvljohn ""
+    nvljohn "{a=show:wife_video_96}video_209.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:39705
 translate zh_Hans withoutapp_messager02_1_78_2645ab49:
 
     # nvljohn "{a=show:wife_video_97}video_210.mov"
-    nvljohn ""
+    nvljohn "{a=show:wife_video_97}video_210.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:39709
 translate zh_Hans withoutapp_messager02_1_78_45561043:
@@ -88798,7 +88798,7 @@ translate zh_Hans withoutapp_messager02_1_79_5039dd2a:
 translate zh_Hans withoutapp_messager02_1_79_5b48c2b4:
 
     # nvljohnny "{a=show:bbc_pic_177}photo_118.png"
-    nvljohnny ""
+    nvljohnny "{a=show:bbc_pic_177}photo_118.png"
 
 # new_main_wife_phone_0_2_fin.rpy:39947
 translate zh_Hans withoutapp_messager02_1_79_1d5416b7:
@@ -89080,13 +89080,13 @@ translate zh_Hans withoutapp_messager02_1_80_93bd91ea:
 translate zh_Hans withoutapp_messager02_1_80_27d8cf8f:
 
     # nvljohn "{a=show:wife_video_96}video_209.mov"
-    nvljohn ""
+    nvljohn "{a=show:wife_video_96}video_209.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:40071
 translate zh_Hans withoutapp_messager02_1_80_2645ab49:
 
     # nvljohn "{a=show:wife_video_97}video_210.mov"
-    nvljohn ""
+    nvljohn "{a=show:wife_video_97}video_210.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:40075
 translate zh_Hans withoutapp_messager02_1_80_56f0f9d4:
@@ -89134,25 +89134,25 @@ translate zh_Hans withoutapp_messager02_1_80_95ee3e84:
 translate zh_Hans withoutapp_messager02_1_80_4f8b5ec5:
 
     # nvljenna "{a=show:j_movie_101}j_movie_101.mov"
-    nvljenna ""
+    nvljenna "{a=show:j_movie_101}j_movie_101.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:40091
 translate zh_Hans withoutapp_messager02_1_80_f2d374cd:
 
     # nvljenna "{a=show:j_movie_104}j_movie_104.mov"
-    nvljenna ""
+    nvljenna "{a=show:j_movie_104}j_movie_104.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:40093
 translate zh_Hans withoutapp_messager02_1_80_cd1dcb02:
 
     # nvljenna "{a=show:j_movie_107}j_movie_107.mov"
-    nvljenna ""
+    nvljenna "{a=show:j_movie_107}j_movie_107.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:40095
 translate zh_Hans withoutapp_messager02_1_80_eda5fef2:
 
     # nvljenna "{a=show:j_movie_109}j_movie_109.mov"
-    nvljenna ""
+    nvljenna "{a=show:j_movie_109}j_movie_109.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:40105
 translate zh_Hans withoutapp_messager02_1_80_7e781e5d:
@@ -90208,7 +90208,7 @@ translate zh_Hans withoutapp_messager02_1_83_229402f8:
 translate zh_Hans withoutapp_messager02_1_83_93b7f547:
 
     # nvljenna "{a=show:bbc_video_29}video_2837.mov"
-    nvljenna ""
+    nvljenna "{a=show:bbc_video_29}video_2837.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:40543
 translate zh_Hans withoutapp_messager02_1_83_03404edd:
@@ -90442,7 +90442,7 @@ translate zh_Hans withoutapp_messager02_1_84_ffe939e7:
 translate zh_Hans withoutapp_messager02_1_84_089dae2d:
 
     # nvlwife "{a=show:wife_pic_464}photo_1404.png"
-    nvlwife ""
+    nvlwife "{a=show:wife_pic_464}photo_1404.png"
 
 # new_main_wife_phone_0_2_fin.rpy:40651
 translate zh_Hans withoutapp_messager02_1_84_0d705d96:
@@ -90646,7 +90646,7 @@ translate zh_Hans withoutapp_messager02_1_85_a6e5a20a:
 translate zh_Hans withoutapp_messager02_1_85_574bc827:
 
     # nvlmark "{a=show:wife_pic_465}photo_493.png"
-    nvlmark ""
+    nvlmark "{a=show:wife_pic_465}photo_493.png"
 
 # new_main_wife_phone_0_2_fin.rpy:40749
 translate zh_Hans withoutapp_messager02_1_85_b38b29a1:
@@ -90670,7 +90670,7 @@ translate zh_Hans withoutapp_messager02_1_85_77f4a6ba:
 translate zh_Hans withoutapp_messager02_1_85_7dbf4956:
 
     # nvlmark "{a=show:wife_pic_466}photo_494.png"
-    nvlmark ""
+    nvlmark "{a=show:wife_pic_466}photo_494.png"
 
 # new_main_wife_phone_0_2_fin.rpy:40759
 translate zh_Hans withoutapp_messager02_1_85_49502584:
@@ -91354,7 +91354,7 @@ translate zh_Hans withoutapp_messager02_1_87_2d9ea59f:
 translate zh_Hans withoutapp_messager02_1_87_7c52c406:
 
     # nvlmark "{a=show:wife_pic_467}photo_503.png"
-    nvlmark ""
+    nvlmark "{a=show:wife_pic_467}photo_503.png"
 
 # new_main_wife_phone_0_2_fin.rpy:41052
 translate zh_Hans withoutapp_messager02_1_87_7dc7f28e:
@@ -92248,7 +92248,7 @@ translate zh_Hans withoutapp_messager02_1_88_81fa1338:
 translate zh_Hans withoutapp_messager02_1_88_cfdeeac0:
 
     # nvljohn "{a=show:bbc_pic_177}photo_118.png"
-    nvljohn ""
+    nvljohn "{a=show:bbc_pic_177}photo_118.png"
 
 # new_main_wife_phone_0_2_fin.rpy:41396
 translate zh_Hans withoutapp_messager02_1_88_eb108329:
@@ -92674,7 +92674,7 @@ translate zh_Hans withoutapp_messager02_1_90_b7fb9607:
 translate zh_Hans withoutapp_messager02_1_90_af4148a4:
 
     # nvljohn "{a=show:bbc_video_30}video_1392.mov"
-    nvljohn ""
+    nvljohn "{a=show:bbc_video_30}video_1392.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:41596
 translate zh_Hans withoutapp_messager02_1_90_56f0f9d4:
@@ -92686,7 +92686,7 @@ translate zh_Hans withoutapp_messager02_1_90_56f0f9d4:
 translate zh_Hans withoutapp_messager02_1_90_8629ec4b:
 
     # nvljohn "{a=show:bbc_video_31}video_549.mov"
-    nvljohn ""
+    nvljohn "{a=show:bbc_video_31}video_549.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:41602
 translate zh_Hans withoutapp_messager02_1_90_6fb2d564:
@@ -93190,7 +93190,7 @@ translate zh_Hans withoutapp_messager02_1_92_cc848e52:
 translate zh_Hans withoutapp_messager02_1_92_22e1debc:
 
     # nvljohn "{a=show:photo_28563}photo_28563.png"
-    nvljohn ""
+    nvljohn "{a=show:photo_28563}photo_28563.png"
 
 # new_main_wife_phone_0_2_fin.rpy:41826
 translate zh_Hans withoutapp_messager02_1_92_e48fda33:
@@ -93220,7 +93220,7 @@ translate zh_Hans withoutapp_messager02_1_92_96c2920e:
 translate zh_Hans withoutapp_messager02_1_92_438a4d26:
 
     # nvljohn "{a=show:photo_28569}photo_28569.png"
-    nvljohn ""
+    nvljohn "{a=show:photo_28569}photo_28569.png"
 
 # new_main_wife_phone_0_2_fin.rpy:41838
 translate zh_Hans withoutapp_messager02_1_92_8d6a8e07:
@@ -93250,13 +93250,13 @@ translate zh_Hans withoutapp_messager02_1_92_ad403b9a:
 translate zh_Hans withoutapp_messager02_1_92_b368476b:
 
     # nvljohn "{a=show:photo_24167}photo_24167.png"
-    nvljohn ""
+    nvljohn "{a=show:photo_24167}photo_24167.png"
 
 # new_main_wife_phone_0_2_fin.rpy:41850
 translate zh_Hans withoutapp_messager02_1_92_2f366767:
 
     # nvljohn "{a=show:photo_24169}photo_24169.png"
-    nvljohn ""
+    nvljohn "{a=show:photo_24169}photo_24169.png"
 
 # new_main_wife_phone_0_2_fin.rpy:41854
 translate zh_Hans withoutapp_messager02_1_92_3dc157f2:
@@ -93496,13 +93496,13 @@ translate zh_Hans withoutapp_messager02_1_93_72567ba1:
 translate zh_Hans withoutapp_messager02_1_93_a15abb8c:
 
     # nvljohn "{a=show:wife_video_42}video_306.mov"
-    nvljohn ""
+    nvljohn "{a=show:wife_video_42}video_306.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:41962
 translate zh_Hans withoutapp_messager02_1_93_23f4b2df:
 
     # nvljohn "{a=show:wife_video_43}video_308.mov"
-    nvljohn ""
+    nvljohn "{a=show:wife_video_43}video_308.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:41968
 translate zh_Hans withoutapp_messager02_1_93_1c5b237e:
@@ -93934,13 +93934,13 @@ translate zh_Hans withoutapp_messager02_1_95_719d6838:
 translate zh_Hans withoutapp_messager02_1_95_a15abb8c:
 
     # nvljohn "{a=show:wife_video_42}video_306.mov"
-    nvljohn ""
+    nvljohn "{a=show:wife_video_42}video_306.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:42168
 translate zh_Hans withoutapp_messager02_1_95_23f4b2df:
 
     # nvljohn "{a=show:wife_video_43}video_308.mov"
-    nvljohn ""
+    nvljohn "{a=show:wife_video_43}video_308.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:42170
 translate zh_Hans withoutapp_messager02_1_95_712d4430:
@@ -94216,7 +94216,7 @@ translate zh_Hans withoutapp_messager02_1_95_1960ff6a:
 translate zh_Hans withoutapp_messager02_1_95_8ba4375b:
 
     # nvljenna "{a=show:bbc_pic_178}photo_3119.png"
-    nvljenna ""
+    nvljenna "{a=show:bbc_pic_178}photo_3119.png"
 
 # new_main_wife_phone_0_2_fin.rpy:42264
 translate zh_Hans withoutapp_messager02_1_95_e75cf4bb:
@@ -94852,7 +94852,7 @@ translate zh_Hans withoutapp_messager02_1_97_7df99d8d:
 translate zh_Hans withoutapp_messager02_1_97_799141d5:
 
     # nvlson "{a=show:wife_video_98}video_238.mov"
-    nvlson ""
+    nvlson "{a=show:wife_video_98}video_238.mov"
 
 # new_main_wife_phone_0_2_fin.rpy:42534
 translate zh_Hans withoutapp_messager02_1_97_5ddd1f23_1:
@@ -95776,7 +95776,7 @@ translate zh_Hans withoutapp_messager02_1_100_3071d1d9:
 translate zh_Hans withoutapp_messager02_1_100_37f7d2a7:
 
     # nvlwife "{a=show:wife_pic_469}photo_3123.png"
-    nvlwife ""
+    nvlwife "{a=show:wife_pic_469}photo_3123.png"
 
 # new_main_wife_phone_0_2_fin.rpy:42943
 translate zh_Hans withoutapp_messager02_1_100_4f1bca59:

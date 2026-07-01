@@ -730,67 +730,67 @@ translate zh_Hans scrip_0_2_start_ba8c927d:
 translate zh_Hans scrip_0_2_start_ab796e07:
 
     # nvlunknown "{a=show:gym_j_n_street_71_photo24}gym_j_n_street_71_photo24.png"
-    nvlunknown ""
+    nvlunknown "{a=show:gym_j_n_street_71_photo24}gym_j_n_street_71_photo24.png"
 
 # script_0_2.rpy:1123
 translate zh_Hans scrip_0_2_start_5225fe58:
 
     # nvlunknown "{a=show:gym_j_n_street_71_photo32}gym_j_n_street_71_photo32.png"
-    nvlunknown ""
+    nvlunknown "{a=show:gym_j_n_street_71_photo32}gym_j_n_street_71_photo32.png"
 
 # script_0_2.rpy:1125
 translate zh_Hans scrip_0_2_start_ec9cf832:
 
     # nvlunknown "{a=show:gym_j_n_street_71_photo35}gym_j_n_street_71_photo35.png"
-    nvlunknown ""
+    nvlunknown "{a=show:gym_j_n_street_71_photo35}gym_j_n_street_71_photo35.png"
 
 # script_0_2.rpy:1127
 translate zh_Hans scrip_0_2_start_b5066db2:
 
     # nvlunknown "{a=show:gym_j_n_street_71_photo37}gym_j_n_street_71_photo37.png"
-    nvlunknown ""
+    nvlunknown "{a=show:gym_j_n_street_71_photo37}gym_j_n_street_71_photo37.png"
 
 # script_0_2.rpy:1129
 translate zh_Hans scrip_0_2_start_e8344959:
 
     # nvlunknown "{a=show:gym_j_n_street_71_photo39}gym_j_n_street_71_photo39.png"
-    nvlunknown ""
+    nvlunknown "{a=show:gym_j_n_street_71_photo39}gym_j_n_street_71_photo39.png"
 
 # script_0_2.rpy:1131
 translate zh_Hans scrip_0_2_start_85adb387:
 
     # nvlunknown "{a=show:gym_j_n_street_71_photo45}gym_j_n_street_71_photo45.png"
-    nvlunknown ""
+    nvlunknown "{a=show:gym_j_n_street_71_photo45}gym_j_n_street_71_photo45.png"
 
 # script_0_2.rpy:1133
 translate zh_Hans scrip_0_2_start_7d42243b:
 
     # nvlunknown "{a=show:gym_j_n_street_71_photo52}gym_j_n_street_71_photo52.png"
-    nvlunknown ""
+    nvlunknown "{a=show:gym_j_n_street_71_photo52}gym_j_n_street_71_photo52.png"
 
 # script_0_2.rpy:1135
 translate zh_Hans scrip_0_2_start_39cc572a:
 
     # nvlunknown "{a=show:gym_j_n_street_71_photo55}gym_j_n_street_71_photo55.png"
-    nvlunknown ""
+    nvlunknown "{a=show:gym_j_n_street_71_photo55}gym_j_n_street_71_photo55.png"
 
 # script_0_2.rpy:1137
 translate zh_Hans scrip_0_2_start_12e06c76:
 
     # nvlunknown "{a=show:gym_j_n_street_71_video9}gym_j_n_street_71_video9.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:gym_j_n_street_71_video9}gym_j_n_street_71_video9.mov"
 
 # script_0_2.rpy:1139
 translate zh_Hans scrip_0_2_start_ee5b1edd:
 
     # nvlunknown "{a=show:gym_j_n_street_71_video12}gym_j_n_street_71_video12.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:gym_j_n_street_71_video12}gym_j_n_street_71_video12.mov"
 
 # script_0_2.rpy:1141
 translate zh_Hans scrip_0_2_start_6c9caff7:
 
     # nvlunknown "{a=show:gym_j_n_street_71_video13}gym_j_n_street_71_video13.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:gym_j_n_street_71_video13}gym_j_n_street_71_video13.mov"
 
 # script_0_2.rpy:1150
 translate zh_Hans scrip_0_2_start_5a35e17b:

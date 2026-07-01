@@ -16,19 +16,19 @@ translate zh_Hans son_sissy_messager02_1_1_76b2fe88:
 translate zh_Hans son_sissy_messager02_1_1_762d0c18:
 
     # nvlunknown "{a=show:hypno_m_8}hypno.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:hypno_m_8}hypno.mov"
 
 # new_main_son_phone_0_2.rpy:4646
 translate zh_Hans son_sissy_messager02_1_1_161dcbeb:
 
     # nvlunknown "{a=show:hypno_m_11}hypno.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:hypno_m_11}hypno.mov"
 
 # new_main_son_phone_0_2.rpy:4648
 translate zh_Hans son_sissy_messager02_1_1_c112c4ba:
 
     # nvlunknown "{a=show:hypno_m_12}hypno.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:hypno_m_12}hypno.mov"
 
 # new_main_son_phone_0_2.rpy:4656
 translate zh_Hans son_sissy_messager02_1_1_cca91ca6:
@@ -154,19 +154,19 @@ translate zh_Hans son_sissy_messager02_1_1_5_76b2fe88:
 translate zh_Hans son_sissy_messager02_1_1_5_b76f6bf0:
 
     # nvlunknown "{a=show:hypno_m_6}hypno.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:hypno_m_6}hypno.mov"
 
 # new_main_son_phone_0_2.rpy:4750
 translate zh_Hans son_sissy_messager02_1_1_5_52e4e142:
 
     # nvlunknown "{a=show:hypno_m_7}hypno.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:hypno_m_7}hypno.mov"
 
 # new_main_son_phone_0_2.rpy:4752
 translate zh_Hans son_sissy_messager02_1_1_5_24451ed6:
 
     # nvlunknown "{a=show:hypno_m_9}hypno.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:hypno_m_9}hypno.mov"
 
 # new_main_son_phone_0_2.rpy:4760
 translate zh_Hans son_sissy_messager02_1_1_5_83459abe:
@@ -508,19 +508,19 @@ translate zh_Hans son_sissy_messager02_1_3_76b2fe88:
 translate zh_Hans son_sissy_messager02_1_3_b76f6bf0:
 
     # nvlunknown "{a=show:hypno_m_6}hypno.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:hypno_m_6}hypno.mov"
 
 # new_main_son_phone_0_2.rpy:4984
 translate zh_Hans son_sissy_messager02_1_3_79ce75d5:
 
     # nvlunknown "{a=show:hypno_m_10}hypno.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:hypno_m_10}hypno.mov"
 
 # new_main_son_phone_0_2.rpy:4986
 translate zh_Hans son_sissy_messager02_1_3_c112c4ba:
 
     # nvlunknown "{a=show:hypno_m_12}hypno.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:hypno_m_12}hypno.mov"
 
 # new_main_son_phone_0_2.rpy:4994
 translate zh_Hans son_sissy_messager02_1_3_55a23149:
@@ -868,7 +868,7 @@ translate zh_Hans son_sissy_messager02_1_5_after_6e9cdb36:
 translate zh_Hans son_sissy_messager02_1_5_after_9ec4a522:
 
     # nvlson "{a=show:s_photo_91}s_photo_91.png"
-    nvlson ""
+    nvlson "{a=show:s_photo_91}s_photo_91.png"
 
 # new_main_son_phone_0_2.rpy:5234
 translate zh_Hans son_sissy_messager02_1_5_after_24b5f334:
@@ -880,13 +880,13 @@ translate zh_Hans son_sissy_messager02_1_5_after_24b5f334:
 translate zh_Hans son_sissy_messager02_1_5_after_f1794c94:
 
     # nvlgreg "Damn, she's pretty"
-    nvlgreg "XTAG0X埃德温：XTAG1X天呐，人家真是太漂亮了……"
+    nvlgreg "埃德温：天呐，人家真是太漂亮了……"
 
 # new_main_son_phone_0_2.rpy:5238
 translate zh_Hans son_sissy_messager02_1_5_after_a64b569c:
 
     # nvlgreg "Nice legs, sexy"
-    nvlgreg "XTAG0X埃德温：XTAG1X这双腿真美，好性感呀……"
+    nvlgreg "埃德温：这双腿真美，好性感呀……"
 
 # new_main_son_phone_0_2.rpy:5240
 translate zh_Hans son_sissy_messager02_1_5_after_af43b6a5:
@@ -898,7 +898,7 @@ translate zh_Hans son_sissy_messager02_1_5_after_af43b6a5:
 translate zh_Hans son_sissy_messager02_1_5_after_9bd5cceb:
 
     # nvlson "Her face?"
-    nvlson "XTAG0X埃德温：XTAG1X她的脸吗？"
+    nvlson "埃德温：她的脸吗？"
 
 # new_main_son_phone_0_2.rpy:5244
 translate zh_Hans son_sissy_messager02_1_5_after_0ac42fcc:
@@ -910,31 +910,31 @@ translate zh_Hans son_sissy_messager02_1_5_after_0ac42fcc:
 translate zh_Hans son_sissy_messager02_1_5_after_e555b426:
 
     # nvlson "Maybe some other time"
-    nvlson "XTAG0X埃德温：XTAG1X也许下次吧。"
+    nvlson "埃德温：也许下次吧。"
 
 # new_main_son_phone_0_2.rpy:5248
 translate zh_Hans son_sissy_messager02_1_5_after_50d6f049:
 
     # nvlson "She actually didn’t send me any selfies"
-    nvlson "XTAG0X埃德温：XTAG1X她其实没给我发过自拍照呢。"
+    nvlson "埃德温：她其实没给我发过自拍照呢。"
 
 # new_main_son_phone_0_2.rpy:5250
 translate zh_Hans son_sissy_messager02_1_5_after_f833a043:
 
     # nvlgreg "Gooot it. She only sends pictures of her legs"
-    nvlgreg "XTAG0X格雷格：XTAG1X明白了。她只发腿的照片。"
+    nvlgreg "格雷格：明白了。她只发腿的照片。"
 
 # new_main_son_phone_0_2.rpy:5252
 translate zh_Hans son_sissy_messager02_1_5_after_94b6f7dd:
 
     # nvlson "Hah! Well, yeah, just her legs"
-    nvlson "XTAG0X埃德温：XTAG1X哈！嗯，是呀，就只有腿。"
+    nvlson "埃德温：哈！嗯，是呀，就只有腿。"
 
 # new_main_son_phone_0_2.rpy:5254
 translate zh_Hans son_sissy_messager02_1_5_after_eebe4186:
 
     # nvlgreg "But they are great. I like them, ha-ha"
-    nvlgreg "XTAG0X埃德温：XTAG1X可是它们很棒呀。人家好喜欢它们呢，呵呵。"
+    nvlgreg "埃德温：可是它们很棒呀。人家好喜欢它们呢，呵呵。"
 
 # new_main_son_phone_0_2.rpy:5256
 translate zh_Hans son_sissy_messager02_1_5_after_102b84c3:
@@ -946,7 +946,7 @@ translate zh_Hans son_sissy_messager02_1_5_after_102b84c3:
 translate zh_Hans son_sissy_messager02_1_5_after_c8cc2b74:
 
     # nvlson "Thank you {image=smile_emoji.png}"
-    nvlson "{image=smile_emoji.png}埃德温：XTAG1X谢谢你{image=smile_emoji.png}。"
+    nvlson "{image=smile_emoji.png}埃德温：谢谢你{image=smile_emoji.png}。"
 
 # new_main_son_phone_0_2.rpy:5260
 translate zh_Hans son_sissy_messager02_1_5_after_87c14183:
@@ -958,7 +958,7 @@ translate zh_Hans son_sissy_messager02_1_5_after_87c14183:
 translate zh_Hans son_sissy_messager02_1_5_after_f588681e:
 
     # nvlson "When?"
-    nvlson "XTAG0X埃德温：XTAG1X什么时候呀？"
+    nvlson "埃德温：什么时候呀？"
 
 # new_main_son_phone_0_2.rpy:5264
 translate zh_Hans son_sissy_messager02_1_5_after_8047877f:
@@ -976,7 +976,7 @@ translate zh_Hans son_sissy_messager02_1_5_after_84a7c6b3:
 translate zh_Hans son_sissy_messager02_1_5_after_82ec7960:
 
     # nvlson "Okay, got it. Maybe I'll join you"
-    nvlson "XTAG0X埃德温：XTAG1X好的，人家知道了。也许我会加入你们的。"
+    nvlson "埃德温：好的，人家知道了。也许我会加入你们的。"
 
 # new_main_son_phone_0_2.rpy:5270
 translate zh_Hans son_sissy_messager02_1_5_after_e3719c61:
@@ -1090,7 +1090,7 @@ translate zh_Hans son_sissy_messager02_1_6_e55e9f2f:
 translate zh_Hans son_sissy_messager02_1_6_a1251bfa:
 
     # nvlson "{a=show:s_photo_102}s_photo_102.png"
-    nvlson ""
+    nvlson "{a=show:s_photo_102}s_photo_102.png"
 
 # new_main_son_phone_0_2.rpy:5367
 translate zh_Hans son_sissy_messager02_1_6_95b289a8:
@@ -1612,13 +1612,13 @@ translate zh_Hans son_sissy_messager02_1_8_e7f0ac8b:
 translate zh_Hans son_sissy_messager02_1_8_820fde1d:
 
     # nvlsson "{a=show:s_photo_103}s_photo_103.png"
-    nvlsson ""
+    nvlsson "{a=show:s_photo_103}s_photo_103.png"
 
 # new_main_son_phone_0_2.rpy:5602
 translate zh_Hans son_sissy_messager02_1_8_258dda52:
 
     # nvlsson "{a=show:s_photo_102}s_photo_102.png"
-    nvlsson ""
+    nvlsson "{a=show:s_photo_102}s_photo_102.png"
 
 # new_main_son_phone_0_2.rpy:5608
 translate zh_Hans son_sissy_messager02_1_8_c51b729a:
@@ -1684,7 +1684,7 @@ translate zh_Hans son_sissy_messager02_1_8_5df4ef8c:
 translate zh_Hans son_sissy_messager02_1_8_92f39f87:
 
     # nvlemanuil "{a=show:em_photo_11}em_photo_11.jpg"
-    nvlemanuil ""
+    nvlemanuil "{a=show:em_photo_11}em_photo_11.jpg"
 
 # new_main_son_phone_0_2.rpy:5632
 translate zh_Hans son_sissy_messager02_1_8_c3171c49:
@@ -2026,7 +2026,7 @@ translate zh_Hans son_sissy_messager02_1_9_8c68c53b:
 translate zh_Hans son_sissy_messager02_1_9_c40e0bc5:
 
     # nvlsson "{a=show:s_photo_124}s_photo_124.png"
-    nvlsson ""
+    nvlsson "{a=show:s_photo_124}s_photo_124.png"
 
 # new_main_son_phone_0_2.rpy:5784
 translate zh_Hans son_sissy_messager02_1_9_316f12af:
@@ -2116,7 +2116,7 @@ translate zh_Hans son_sissy_messager02_1_9_f9f08b43:
 translate zh_Hans son_sissy_messager02_1_9_984b9168:
 
     # nvlsson "{a=show:s_photo_129}s_photo_129.png"
-    nvlsson ""
+    nvlsson "{a=show:s_photo_129}s_photo_129.png"
 
 # new_main_son_phone_0_2.rpy:5816
 translate zh_Hans son_sissy_messager02_1_9_01972b44:
@@ -2296,7 +2296,7 @@ translate zh_Hans son_sissy_messager02_1_9_85874831:
 translate zh_Hans son_sissy_messager02_1_9_1c66d341:
 
     # nvlsson "{a=show:s_photo_134}s_photo_134.png"
-    nvlsson ""
+    nvlsson "{a=show:s_photo_134}s_photo_134.png"
 
 # new_main_son_phone_0_2.rpy:5878
 translate zh_Hans son_sissy_messager02_1_9_323a8b4e:
@@ -2746,7 +2746,7 @@ translate zh_Hans son_sissy_messager02_1_11_02765931:
 translate zh_Hans son_sissy_messager02_1_11_ab18944b:
 
     # nvlemanuil "{a=show:em_photo_47}em_photo_47.png"
-    nvlemanuil ""
+    nvlemanuil "{a=show:em_photo_47}em_photo_47.png"
 
 # new_main_son_phone_0_2.rpy:6104
 translate zh_Hans son_sissy_messager02_1_11_a752d93e:
@@ -2848,7 +2848,7 @@ translate zh_Hans son_sissy_messager02_1_11_908c3801:
 translate zh_Hans son_sissy_messager02_1_11_f3005227:
 
     # nvlsson "{a=show:s_photo_137}s_photo_137.png"
-    nvlsson ""
+    nvlsson "{a=show:s_photo_137}s_photo_137.png"
 
 # new_main_son_phone_0_2.rpy:6140
 translate zh_Hans son_sissy_messager02_1_11_3f1b6026:
@@ -2872,7 +2872,7 @@ translate zh_Hans son_sissy_messager02_1_11_ac0c3d83:
 translate zh_Hans son_sissy_messager02_1_11_af2269e8:
 
     # nvlsson "{a=show:s_photo_141}s_photo_141.png"
-    nvlsson ""
+    nvlsson "{a=show:s_photo_141}s_photo_141.png"
 
 # new_main_son_phone_0_2.rpy:6150
 translate zh_Hans son_sissy_messager02_1_11_770b4da3:
@@ -3846,25 +3846,25 @@ translate zh_Hans son_sissy_messager02_1_17_76b2fe88:
 translate zh_Hans son_sissy_messager02_1_17_d2d0a2e2:
 
     # nvlunknown "{a=show:ss_hypno_1}ss_hypno.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:ss_hypno_1}ss_hypno.mov"
 
 # new_main_son_phone_0_2.rpy:6657
 translate zh_Hans son_sissy_messager02_1_17_3a277ca3:
 
     # nvlunknown "{a=show:train_video_sx2}train_video_sx2.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:train_video_sx2}train_video_sx2.mov"
 
 # new_main_son_phone_0_2.rpy:6659
 translate zh_Hans son_sissy_messager02_1_17_837ce2c2:
 
     # nvlunknown "{a=show:train_video_sx3}train_video_sx3.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:train_video_sx3}train_video_sx3.mov"
 
 # new_main_son_phone_0_2.rpy:6661
 translate zh_Hans son_sissy_messager02_1_17_0ed3d464:
 
     # nvlunknown "{a=show:train_video_sx4}train_video_sx4.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:train_video_sx4}train_video_sx4.mov"
 
 # new_main_son_phone_0_2.rpy:6671
 translate zh_Hans son_sissy_messager02_1_17_b389331b:
@@ -4230,25 +4230,25 @@ translate zh_Hans son_sissy_messager02_1_18_76b2fe88:
 translate zh_Hans son_sissy_messager02_1_18_876741fe:
 
     # nvlunknown "{a=show:ss_hypno_2}ss_hypno.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:ss_hypno_2}ss_hypno.mov"
 
 # new_main_son_phone_0_2.rpy:6871
 translate zh_Hans son_sissy_messager02_1_18_837ce2c2:
 
     # nvlunknown "{a=show:train_video_sx3}train_video_sx3.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:train_video_sx3}train_video_sx3.mov"
 
 # new_main_son_phone_0_2.rpy:6873
 translate zh_Hans son_sissy_messager02_1_18_511055d4:
 
     # nvlunknown "{a=show:train_video_sx5}train_video_sx5.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:train_video_sx5}train_video_sx5.mov"
 
 # new_main_son_phone_0_2.rpy:6875
 translate zh_Hans son_sissy_messager02_1_18_3290380c:
 
     # nvlunknown "{a=show:train_video_sx6}train_video_sx6.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:train_video_sx6}train_video_sx6.mov"
 
 # new_main_son_phone_0_2.rpy:6885
 translate zh_Hans son_sissy_messager02_1_18_a1c49257:
@@ -4560,19 +4560,19 @@ translate zh_Hans son_sissy_messager02_1_19_76b2fe88:
 translate zh_Hans son_sissy_messager02_1_19_14215e28:
 
     # nvlunknown "{a=show:ss_hypno_3}ss_hypno.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:ss_hypno_3}ss_hypno.mov"
 
 # new_main_son_phone_0_2.rpy:7077
 translate zh_Hans son_sissy_messager02_1_19_1146d871:
 
     # nvlunknown "{a=show:train_video_sx9}train_video_sx9.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:train_video_sx9}train_video_sx9.mov"
 
 # new_main_son_phone_0_2.rpy:7079
 translate zh_Hans son_sissy_messager02_1_19_a4b5c08f:
 
     # nvlunknown "{a=show:train_video_sx10}train_video_sx10.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:train_video_sx10}train_video_sx10.mov"
 
 # new_main_son_phone_0_2.rpy:7087
 translate zh_Hans son_sissy_messager02_1_19_734b39e7:
@@ -4896,25 +4896,25 @@ translate zh_Hans son_sissy_messager02_1_20_76b2fe88:
 translate zh_Hans son_sissy_messager02_1_20_40ea9b11:
 
     # nvlunknown "{a=show:hypno_m_11}ss_hypno.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:hypno_m_11}ss_hypno.mov"
 
 # new_main_son_phone_0_2.rpy:7289
 translate zh_Hans son_sissy_messager02_1_20_191a16f9:
 
     # nvlunknown "{a=show:train_video_sx11}train_video_sx11.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:train_video_sx11}train_video_sx11.mov"
 
 # new_main_son_phone_0_2.rpy:7291
 translate zh_Hans son_sissy_messager02_1_20_d3c80bf3:
 
     # nvlunknown "{a=show:train_video_sx12}train_video_sx12.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:train_video_sx12}train_video_sx12.mov"
 
 # new_main_son_phone_0_2.rpy:7293
 translate zh_Hans son_sissy_messager02_1_20_df89ba81:
 
     # nvlunknown "{a=show:train_video_sx13}train_video_sx13.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:train_video_sx13}train_video_sx13.mov"
 
 # new_main_son_phone_0_2.rpy:7303
 translate zh_Hans son_sissy_messager02_1_20_9e38850b:
@@ -5214,31 +5214,31 @@ translate zh_Hans son_sissy_messager02_1_21_76b2fe88:
 translate zh_Hans son_sissy_messager02_1_21_876741fe:
 
     # nvlunknown "{a=show:ss_hypno_2}ss_hypno.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:ss_hypno_2}ss_hypno.mov"
 
 # new_main_son_phone_0_2.rpy:7492
 translate zh_Hans son_sissy_messager02_1_21_191a16f9:
 
     # nvlunknown "{a=show:train_video_sx11}train_video_sx11.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:train_video_sx11}train_video_sx11.mov"
 
 # new_main_son_phone_0_2.rpy:7494
 translate zh_Hans son_sissy_messager02_1_21_efd7dbf9:
 
     # nvlunknown "{a=show:train_video_sx14}train_video_sx14.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:train_video_sx14}train_video_sx14.mov"
 
 # new_main_son_phone_0_2.rpy:7496
 translate zh_Hans son_sissy_messager02_1_21_9074a112:
 
     # nvlunknown "{a=show:train_video_sx15}train_video_sx15.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:train_video_sx15}train_video_sx15.mov"
 
 # new_main_son_phone_0_2.rpy:7498
 translate zh_Hans son_sissy_messager02_1_21_9807da78:
 
     # nvlunknown "{a=show:train_video_sx16}train_video_sx16.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:train_video_sx16}train_video_sx16.mov"
 
 # new_main_son_phone_0_2.rpy:7510
 translate zh_Hans son_sissy_messager02_1_21_8b6d6f50:
@@ -5622,31 +5622,31 @@ translate zh_Hans son_sissy_messager02_1_22_76b2fe88:
 translate zh_Hans son_sissy_messager02_1_22_14215e28:
 
     # nvlunknown "{a=show:ss_hypno_3}ss_hypno.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:ss_hypno_3}ss_hypno.mov"
 
 # new_main_son_phone_0_2.rpy:7755
 translate zh_Hans son_sissy_messager02_1_22_efd7dbf9:
 
     # nvlunknown "{a=show:train_video_sx14}train_video_sx14.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:train_video_sx14}train_video_sx14.mov"
 
 # new_main_son_phone_0_2.rpy:7757
 translate zh_Hans son_sissy_messager02_1_22_9807da78:
 
     # nvlunknown "{a=show:train_video_sx16}train_video_sx16.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:train_video_sx16}train_video_sx16.mov"
 
 # new_main_son_phone_0_2.rpy:7759
 translate zh_Hans son_sissy_messager02_1_22_9cc5f717:
 
     # nvlunknown "{a=show:train_video_sx18}train_video_sx18.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:train_video_sx18}train_video_sx18.mov"
 
 # new_main_son_phone_0_2.rpy:7761
 translate zh_Hans son_sissy_messager02_1_22_4d652b58:
 
     # nvlunknown "{a=show:train_video_sx20}train_video_sx20.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:train_video_sx20}train_video_sx20.mov"
 
 # new_main_son_phone_0_2.rpy:7773
 translate zh_Hans son_sissy_messager02_1_22_78258e80:
@@ -6228,7 +6228,7 @@ translate zh_Hans son_sissy_messager02_1_23_81b7ca62:
 translate zh_Hans son_sissy_messager02_1_23_f0fc4576:
 
     # nvlemanuil "When you \"get back\" from your grandma's and are ready to meet up, send me a text"
-    nvlemanuil "XTAG0XEdwin: XTAG1X我可以这样：如果我爸爸给我钱，那我就在这里买点东西。"
+    nvlemanuil "等你从奶奶家\"回来\"，准备好见面了，就给我发消息。"
 
 # new_main_son_phone_0_2.rpy:8071
 translate zh_Hans son_sissy_messager02_1_23_b386d67c:
@@ -6276,25 +6276,25 @@ translate zh_Hans son_sissy_messager02_1_24_76b2fe88:
 translate zh_Hans son_sissy_messager02_1_24_d2d0a2e2:
 
     # nvlunknown "{a=show:ss_hypno_1}ss_hypno.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:ss_hypno_1}ss_hypno.mov"
 
 # new_main_son_phone_0_2.rpy:8111
 translate zh_Hans son_sissy_messager02_1_24_b1b20965:
 
     # nvlunknown "{a=show:train_video_sx17}train_video_sx17.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:train_video_sx17}train_video_sx17.mov"
 
 # new_main_son_phone_0_2.rpy:8113
 translate zh_Hans son_sissy_messager02_1_24_6cee8548:
 
     # nvlunknown "{a=show:train_video_sx19}train_video_sx19.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:train_video_sx19}train_video_sx19.mov"
 
 # new_main_son_phone_0_2.rpy:8115
 translate zh_Hans son_sissy_messager02_1_24_9339c128:
 
     # nvlunknown "{a=show:train_video_sx21}train_video_sx21.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:train_video_sx21}train_video_sx21.mov"
 
 # new_main_son_phone_0_2.rpy:8125
 translate zh_Hans son_sissy_messager02_1_24_765e20c4:
@@ -6894,7 +6894,7 @@ translate zh_Hans son_sissy_messager02_1_25_49838476:
 translate zh_Hans son_sissy_messager02_1_25_d049d3df:
 
     # nvljenna "{a=show:sissy_princess_103}sissy_princess_103.png"
-    nvljenna ""
+    nvljenna "{a=show:sissy_princess_103}sissy_princess_103.png"
 
 # new_main_son_phone_0_2.rpy:8417
 translate zh_Hans son_sissy_messager02_1_25_7d25b974:
@@ -6924,7 +6924,7 @@ translate zh_Hans son_sissy_messager02_1_25_7f45918b:
 translate zh_Hans son_sissy_messager02_1_25_7e6e0c7b:
 
     # nvljenna "{a=show:sissy_princess_159}sissy_princess_159.png"
-    nvljenna ""
+    nvljenna "{a=show:sissy_princess_159}sissy_princess_159.png"
 
 # new_main_son_phone_0_2.rpy:8429
 translate zh_Hans son_sissy_messager02_1_25_5c43c50b:
@@ -7002,7 +7002,7 @@ translate zh_Hans son_sissy_messager02_1_25_a7b5ced8:
 translate zh_Hans son_sissy_messager02_1_25_31f8984e:
 
     # nvljenna "{a=show:sissy_princess_211}sissy_princess_211.png"
-    nvljenna ""
+    nvljenna "{a=show:sissy_princess_211}sissy_princess_211.png"
 
 # new_main_son_phone_0_2.rpy:8457
 translate zh_Hans son_sissy_messager02_1_25_b685d3a2:
@@ -7908,7 +7908,7 @@ translate zh_Hans son_sissy_messager02_1_28_3fa9cd09:
 translate zh_Hans son_sissy_messager02_1_28_2619c607:
 
     # nvljenna "{a=show:jenna_photo_2004}jenna_photo_2004.png"
-    nvljenna ""
+    nvljenna "{a=show:jenna_photo_2004}jenna_photo_2004.png"
 
 # new_main_son_phone_0_2.rpy:8858
 translate zh_Hans son_sissy_messager02_1_28_b4904586:
@@ -8328,7 +8328,7 @@ translate zh_Hans son_sissy_messager02_1_29_64104d42:
 translate zh_Hans son_sissy_messager02_1_29_b405f395:
 
     # nvlsson "{a=show:mikky_44}mikky_44.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_44}mikky_44.png"
 
 # new_main_son_phone_0_2.rpy:9036
 translate zh_Hans son_sissy_messager02_1_29_ca0ac8a1:
@@ -8652,13 +8652,13 @@ translate zh_Hans son_sissy_messager02_1_30_db10ef11:
 translate zh_Hans son_sissy_messager02_1_30_897e85de:
 
     # nvlsson "{a=show:mikky_video_12}mikky_video_12.mov"
-    nvlsson ""
+    nvlsson "{a=show:mikky_video_12}mikky_video_12.mov"
 
 # new_main_son_phone_0_2.rpy:9206
 translate zh_Hans son_sissy_messager02_1_30_2b28960a:
 
     # nvlsson "{a=show:mikky_video_19}mikky_video_19.mov"
-    nvlsson ""
+    nvlsson "{a=show:mikky_video_19}mikky_video_19.mov"
 
 # new_main_son_phone_0_2.rpy:9212
 translate zh_Hans son_sissy_messager02_1_30_ca0ac8a1:
@@ -10110,7 +10110,7 @@ translate zh_Hans son_sissy_messager02_1_34_a419242c:
 translate zh_Hans son_sissy_messager02_1_34_95ede625:
 
     # nvlsson "{a=show:mikky_88}mikky_88.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_88}mikky_88.png"
 
 # new_main_son_phone_0_2.rpy:9823
 translate zh_Hans son_sissy_messager02_1_34_e2885d25:
@@ -10164,7 +10164,7 @@ translate zh_Hans son_sissy_messager02_1_34_b8ae0cd1:
 translate zh_Hans son_sissy_messager02_1_34_a37ff84d:
 
     # nvljenna "{a=show:jenna_p_29}jenna_p_29.png"
-    nvljenna ""
+    nvljenna "{a=show:jenna_p_29}jenna_p_29.png"
 
 # new_main_son_phone_0_2.rpy:9843
 translate zh_Hans son_sissy_messager02_1_34_1e1dfbf3:
@@ -10182,13 +10182,13 @@ translate zh_Hans son_sissy_messager02_1_34_a68cd32b:
 translate zh_Hans son_sissy_messager02_1_34_e3204c94:
 
     # nvljenna "{a=show:jenna_p_30}jenna_p_30.png"
-    nvljenna ""
+    nvljenna "{a=show:jenna_p_30}jenna_p_30.png"
 
 # new_main_son_phone_0_2.rpy:9849
 translate zh_Hans son_sissy_messager02_1_34_565e44af:
 
     # nvljenna "{a=show:jenna_p_31}jenna_p_31.png"
-    nvljenna ""
+    nvljenna "{a=show:jenna_p_31}jenna_p_31.png"
 
 # new_main_son_phone_0_2.rpy:9855
 translate zh_Hans son_sissy_messager02_1_34_214ce2c4:
@@ -10320,7 +10320,7 @@ translate zh_Hans son_sissy_messager02_1_35_3cb6ce1d:
 translate zh_Hans son_sissy_messager02_1_35_a8634897:
 
     # nvlsson "{a=show:mikky_101}mikky_101.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_101}mikky_101.png"
 
 # new_main_son_phone_0_2.rpy:9945
 translate zh_Hans son_sissy_messager02_1_35_10a94d40:
@@ -10536,7 +10536,7 @@ translate zh_Hans son_sissy_messager02_1_36_2f758aa2:
 translate zh_Hans son_sissy_messager02_1_36_13f9e479:
 
     # nvlsson "{a=show:mikky_103}mikky_103.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_103}mikky_103.png"
 
 # new_main_son_phone_0_2.rpy:10042
 translate zh_Hans son_sissy_messager02_1_36_4e317c1d:
@@ -10572,7 +10572,7 @@ translate zh_Hans son_sissy_messager02_1_36_e9c6a937:
 translate zh_Hans son_sissy_messager02_1_36_60295589:
 
     # nvljenna "Why \"not really\"?"
-    nvljenna "这是你一直心心念念、偷偷渴望的。"
+    nvljenna "为什么\"不完全是\"？"
 
 # new_main_son_phone_0_2.rpy:10054
 translate zh_Hans son_sissy_messager02_1_36_b8e44897:
@@ -10758,7 +10758,7 @@ translate zh_Hans son_sissy_messager02_1_37_75070db0:
 translate zh_Hans son_sissy_messager02_1_37_8ae5a8b0:
 
     # nvlsson "{a=show:mikky_77}mikky_77.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_77}mikky_77.png"
 
 # new_main_son_phone_0_2.rpy:10141
 translate zh_Hans son_sissy_messager02_1_37_3a10dfe1:
@@ -10974,13 +10974,13 @@ translate zh_Hans son_sissy_messager02_1_38_36415a47:
 translate zh_Hans son_sissy_messager02_1_38_375eaee6:
 
     # nvljenna "{a=show:jenna_video_303}jenna_video_303.mov"
-    nvljenna ""
+    nvljenna "{a=show:jenna_video_303}jenna_video_303.mov"
 
 # new_main_son_phone_0_2.rpy:10255
 translate zh_Hans son_sissy_messager02_1_38_b46e73f6:
 
     # nvljenna "{a=show:jenna_video_306}jenna_video_306.mov"
-    nvljenna ""
+    nvljenna "{a=show:jenna_video_306}jenna_video_306.mov"
 
 # new_main_son_phone_0_2.rpy:10261
 translate zh_Hans son_sissy_messager02_1_38_ad14b380:
@@ -11268,7 +11268,7 @@ translate zh_Hans son_sissy_messager02_1_39_b74067d5:
 translate zh_Hans son_sissy_messager02_1_39_cdf665b4:
 
     # nvljenna "{a=show:ch_10302}ch_10302.png"
-    nvljenna ""
+    nvljenna "{a=show:ch_10302}ch_10302.png"
 
 # new_main_son_phone_0_2.rpy:10384
 translate zh_Hans son_sissy_messager02_1_39_381cfa17:
@@ -11292,13 +11292,13 @@ translate zh_Hans son_sissy_messager02_1_39_95b31070:
 translate zh_Hans son_sissy_messager02_1_39_b0026f92:
 
     # nvljenna "{a=show:ch_10411}ch_10411.png"
-    nvljenna ""
+    nvljenna "{a=show:ch_10411}ch_10411.png"
 
 # new_main_son_phone_0_2.rpy:10392
 translate zh_Hans son_sissy_messager02_1_39_f2ce82fe:
 
     # nvljenna "{a=show:ch_10589}ch_10589.png"
-    nvljenna ""
+    nvljenna "{a=show:ch_10589}ch_10589.png"
 
 # new_main_son_phone_0_2.rpy:10398
 translate zh_Hans son_sissy_messager02_1_39_8d9f5037:
@@ -11616,7 +11616,7 @@ translate zh_Hans son_sissy_messager02_1_40_dc51fc72:
 translate zh_Hans son_sissy_messager02_1_40_425853e4:
 
     # nvlsson "{a=show:mikky_79}mikky_79.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_79}mikky_79.png"
 
 # new_main_son_phone_0_2.rpy:10531
 translate zh_Hans son_sissy_messager02_1_40_95cbf1de:
@@ -11670,13 +11670,13 @@ translate zh_Hans son_sissy_messager02_1_40_c5473f49:
 translate zh_Hans son_sissy_messager02_1_40_a8634897:
 
     # nvlsson "{a=show:mikky_101}mikky_101.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_101}mikky_101.png"
 
 # new_main_son_phone_0_2.rpy:10549
 translate zh_Hans son_sissy_messager02_1_40_8ae5a8b0:
 
     # nvlsson "{a=show:mikky_77}mikky_77.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_77}mikky_77.png"
 
 # new_main_son_phone_0_2.rpy:10555
 translate zh_Hans son_sissy_messager02_1_40_cd792952:
@@ -12012,7 +12012,7 @@ translate zh_Hans son_sissy_messager02_1_41_1fa72804:
 translate zh_Hans son_sissy_messager02_1_41_cbe8edad:
 
     # nvlemanuil "{a=show:em_photo_82}em_photo_82.png"
-    nvlemanuil ""
+    nvlemanuil "{a=show:em_photo_82}em_photo_82.png"
 
 # new_main_son_phone_0_2.rpy:10693
 translate zh_Hans son_sissy_messager02_1_41_e7503fb0:
@@ -12066,7 +12066,7 @@ translate zh_Hans son_sissy_messager02_1_41_ccd78df2:
 translate zh_Hans son_sissy_messager02_1_41_a591e8c8:
 
     # nvlemanuil "{a=show:em_photo_84}em_photo_84.png"
-    nvlemanuil ""
+    nvlemanuil "{a=show:em_photo_84}em_photo_84.png"
 
 # new_main_son_phone_0_2.rpy:10713
 translate zh_Hans son_sissy_messager02_1_41_9c1bacaf:
@@ -12126,7 +12126,7 @@ translate zh_Hans son_sissy_messager02_1_41_bd8a11de:
 translate zh_Hans son_sissy_messager02_1_41_6eeabfc0:
 
     # nvlsson "{a=show:mikky_125}mikky_125.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_125}mikky_125.png"
 
 # new_main_son_phone_0_2.rpy:10735
 translate zh_Hans son_sissy_messager02_1_41_340413f2:
@@ -12216,7 +12216,7 @@ translate zh_Hans son_sissy_messager02_1_42_df68cbc9:
 translate zh_Hans son_sissy_messager02_1_42_be9ea8ae:
 
     # nvljenna "{a=show:jenna_photo_2021}jenna_photo_2021.png"
-    nvljenna ""
+    nvljenna "{a=show:jenna_photo_2021}jenna_photo_2021.png"
 
 # new_main_son_phone_0_2.rpy:10794
 translate zh_Hans son_sissy_messager02_1_42_cc3ecd2f:
@@ -12654,7 +12654,7 @@ translate zh_Hans son_sissy_messager02_1_43_2b6c38b4:
 translate zh_Hans son_sissy_messager02_1_43_b46e73f6:
 
     # nvljenna "{a=show:jenna_video_306}jenna_video_306.mov"
-    nvljenna ""
+    nvljenna "{a=show:jenna_video_306}jenna_video_306.mov"
 
 # new_main_son_phone_0_2.rpy:10966
 translate zh_Hans son_sissy_messager02_1_43_ea75c69e:
@@ -13218,7 +13218,7 @@ translate zh_Hans son_sissy_messager02_1_44_42b2ab67:
 translate zh_Hans son_sissy_messager02_1_44_59abf84c:
 
     # nvljenna "{a=show:hypno_m_12}v_12.mov"
-    nvljenna ""
+    nvljenna "{a=show:hypno_m_12}v_12.mov"
 
 # new_main_son_phone_0_2.rpy:11288
 translate zh_Hans son_sissy_messager02_1_44_381cfa17:
@@ -13242,7 +13242,7 @@ translate zh_Hans son_sissy_messager02_1_44_589b8f4f:
 translate zh_Hans son_sissy_messager02_1_44_cbc2c5e6:
 
     # nvljenna "{a=show:train_video_sx20}video_sx20.mov"
-    nvljenna ""
+    nvljenna "{a=show:train_video_sx20}video_sx20.mov"
 
 # new_main_son_phone_0_2.rpy:11298
 translate zh_Hans son_sissy_messager02_1_44_b0a0bf08:
@@ -13500,7 +13500,7 @@ translate zh_Hans son_sissy_messager02_1_45_ad7fa369:
 translate zh_Hans son_sissy_messager02_1_45_208a37bb:
 
     # nvlsson "{a=show:mikky_127}mikky_127.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_127}mikky_127.png"
 
 # new_main_son_phone_0_2.rpy:11411
 translate zh_Hans son_sissy_messager02_1_45_234370ce:
@@ -13548,7 +13548,7 @@ translate zh_Hans son_sissy_messager02_1_45_524bb3dd:
 translate zh_Hans son_sissy_messager02_1_45_50c8adf9:
 
     # nvlemanuil "{a=show:em_photo_101}em_photo_101.png"
-    nvlemanuil ""
+    nvlemanuil "{a=show:em_photo_101}em_photo_101.png"
 
 # new_main_son_phone_0_2.rpy:11429
 translate zh_Hans son_sissy_messager02_1_45_66fb7321:
@@ -14028,13 +14028,13 @@ translate zh_Hans son_sissy_messager02_1_47_8aa4a82b:
 translate zh_Hans son_sissy_messager02_1_47_81647536:
 
     # nvlsson "{a=show:mikky_video_112}mikky_video_112.mov"
-    nvlsson ""
+    nvlsson "{a=show:mikky_video_112}mikky_video_112.mov"
 
 # new_main_son_phone_0_2.rpy:11653
 translate zh_Hans son_sissy_messager02_1_47_bad9b243:
 
     # nvlsson "{a=show:mikky_video_115}mikky_video_115.mov"
-    nvlsson ""
+    nvlsson "{a=show:mikky_video_115}mikky_video_115.mov"
 
 # new_main_son_phone_0_2.rpy:11659
 translate zh_Hans son_sissy_messager02_1_47_e443dceb:
@@ -14148,7 +14148,7 @@ translate zh_Hans son_sissy_messager02_1_47_5d5f6212:
 translate zh_Hans son_sissy_messager02_1_47_4da48c70:
 
     # nvlsson "Thank you {image=smile_emoji.png}"
-    nvlsson "{image=smile_emoji.png}埃德温：XTAG1X谢谢你{image=smile_emoji.png}。"
+    nvlsson "{image=smile_emoji.png}埃德温：谢谢你{image=smile_emoji.png}。"
 
 # new_main_son_phone_0_2.rpy:11697
 translate zh_Hans son_sissy_messager02_1_47_4e98f9bd:
@@ -14484,13 +14484,13 @@ translate zh_Hans son_sissy_messager02_1_48_1a9b8a20:
 translate zh_Hans son_sissy_messager02_1_48_dcc48e3c:
 
     # nvljenna "{a=show:mikky_video_112}mikky_video_112.mov"
-    nvljenna ""
+    nvljenna "{a=show:mikky_video_112}mikky_video_112.mov"
 
 # new_main_son_phone_0_2.rpy:11918
 translate zh_Hans son_sissy_messager02_1_48_2aac94b4:
 
     # nvljenna "{a=show:mikky_video_115}mikky_video_115.mov"
-    nvljenna ""
+    nvljenna "{a=show:mikky_video_115}mikky_video_115.mov"
 
 # new_main_son_phone_0_2.rpy:11924
 translate zh_Hans son_sissy_messager02_1_48_b8cae222:
@@ -15324,7 +15324,7 @@ translate zh_Hans son_sissy_messager02_1_50_1f4b60e8:
 translate zh_Hans son_sissy_messager02_1_50_4da48c70:
 
     # nvlsson "Thank you {image=smile_emoji.png}"
-    nvlsson "{image=smile_emoji.png}埃德温：XTAG1X谢谢你{image=smile_emoji.png}。"
+    nvlsson "{image=smile_emoji.png}埃德温：谢谢你{image=smile_emoji.png}。"
 
 # new_main_son_phone_0_2.rpy:12363
 translate zh_Hans son_sissy_messager02_1_50_9b530e8c:
@@ -15918,19 +15918,19 @@ translate zh_Hans son_sissy_messager02_1_52_32348c24:
 translate zh_Hans son_sissy_messager02_1_52_b2295473:
 
     # nvljenna "{a=show:shemale_pic_5}pic_3517.png"
-    nvljenna ""
+    nvljenna "{a=show:shemale_pic_5}pic_3517.png"
 
 # new_main_son_phone_0_2.rpy:12697
 translate zh_Hans son_sissy_messager02_1_52_64d1589a:
 
     # nvljenna "{a=show:shemale_pic_6}pic_829.png"
-    nvljenna ""
+    nvljenna "{a=show:shemale_pic_6}pic_829.png"
 
 # new_main_son_phone_0_2.rpy:12699
 translate zh_Hans son_sissy_messager02_1_52_46169ae2:
 
     # nvljenna "{a=show:shemale_pic_7}pic_45533.png"
-    nvljenna ""
+    nvljenna "{a=show:shemale_pic_7}pic_45533.png"
 
 # new_main_son_phone_0_2.rpy:12707
 translate zh_Hans son_sissy_messager02_1_52_f58f1e08:
@@ -15972,7 +15972,7 @@ translate zh_Hans son_sissy_messager02_1_52_d744fc89:
 translate zh_Hans son_sissy_messager02_1_52_cf2d3230:
 
     # nvljenna "{a=show:shemale_pic_8}pic_533.png"
-    nvljenna ""
+    nvljenna "{a=show:shemale_pic_8}pic_533.png"
 
 # new_main_son_phone_0_2.rpy:12723
 translate zh_Hans son_sissy_messager02_1_52_ee37f575:
@@ -17376,13 +17376,13 @@ translate zh_Hans son_sissy_messager02_1_57_07400abd:
 translate zh_Hans son_sissy_messager02_1_57_aa3ba13a:
 
     # nvljenna "{a=show:mikky_video_14}video_1909.mov"
-    nvljenna ""
+    nvljenna "{a=show:mikky_video_14}video_1909.mov"
 
 # new_main_son_phone_0_2.rpy:13329
 translate zh_Hans son_sissy_messager02_1_57_4fe32860:
 
     # nvljenna "{a=show:mikky_video_15}video_1423.mov"
-    nvljenna ""
+    nvljenna "{a=show:mikky_video_15}video_1423.mov"
 
 # new_main_son_phone_0_2.rpy:13335
 translate zh_Hans son_sissy_messager02_1_57_278c19d6_1:
@@ -18954,7 +18954,7 @@ translate zh_Hans son_sissy_messager02_1_61_1c05fa0d:
 translate zh_Hans son_sissy_messager02_1_61_ca044c09:
 
     # nvljenna "{a=show:jenna_pic_84}photo_139.png"
-    nvljenna ""
+    nvljenna "{a=show:jenna_pic_84}photo_139.png"
 
 # new_main_son_phone_0_2.rpy:13999
 translate zh_Hans son_sissy_messager02_1_61_1a483dfe:
@@ -19710,7 +19710,7 @@ translate zh_Hans son_sissy_messager02_1_63_e77485ba:
 translate zh_Hans son_sissy_messager02_1_63_12b4cb4c:
 
     # nvlemanuil "{a=show:em_pic_5}photo_571.png"
-    nvlemanuil ""
+    nvlemanuil "{a=show:em_pic_5}photo_571.png"
 
 # new_main_son_phone_0_2.rpy:14319
 translate zh_Hans son_sissy_messager02_1_63_b6f58af0:
@@ -19824,7 +19824,7 @@ translate zh_Hans son_sissy_messager02_1_63_9ff11477:
 translate zh_Hans son_sissy_messager02_1_63_2327b131:
 
     # nvlsson "{a=show:mikky_pic_21}photo_438.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_pic_21}photo_438.png"
 
 # new_main_son_phone_0_2.rpy:14359
 translate zh_Hans son_sissy_messager02_1_63_9b5155be:
@@ -20628,7 +20628,7 @@ translate zh_Hans son_sissy_messager02_1_66_13bd526a:
 translate zh_Hans son_sissy_messager02_1_66_42a7fd9c:
 
     # nvlemanuil "{a=show:em_pic_6}photo_583.png"
-    nvlemanuil ""
+    nvlemanuil "{a=show:em_pic_6}photo_583.png"
 
 # new_main_son_phone_0_2.rpy:14709
 translate zh_Hans son_sissy_messager02_1_66_41fbaf8f:
@@ -20874,7 +20874,7 @@ translate zh_Hans son_sissy_messager02_1_67_b7e7589c:
 translate zh_Hans son_sissy_messager02_1_67_d50480e2:
 
     # nvlsson "{a=show:mikky_pic_23}photo_1239.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_pic_23}photo_1239.png"
 
 # new_main_son_phone_0_2.rpy:14819
 translate zh_Hans son_sissy_messager02_1_67_cb6cfcb0:
@@ -21228,7 +21228,7 @@ translate zh_Hans son_sissy_messager02_1_68_b35c5ef6:
 translate zh_Hans son_sissy_messager02_1_68_5da34f2a:
 
     # nvlsson "{a=show:mikky_pic_24}photo_1251.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_pic_24}photo_1251.png"
 
 # new_main_son_phone_0_2.rpy:14966
 translate zh_Hans son_sissy_messager02_1_68_452c5168:
@@ -21822,7 +21822,7 @@ translate zh_Hans son_sissy_messager02_1_70_0f8ae249:
 translate zh_Hans son_sissy_messager02_1_70_5c683361:
 
     # nvlsson "{a=show:mikky_pic_25}photo_1276.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_pic_25}photo_1276.png"
 
 # new_main_son_phone_0_2.rpy:15230
 translate zh_Hans son_sissy_messager02_1_70_bca51457:
@@ -22350,7 +22350,7 @@ translate zh_Hans son_sissy_messager02_1_73_24e16549:
 translate zh_Hans son_sissy_messager02_1_73_de36da71:
 
     # nvltrevor "{a=show:mikky_video_16}video_461.mov"
-    nvltrevor ""
+    nvltrevor "{a=show:mikky_video_16}video_461.mov"
 
 # new_main_son_phone_0_2.rpy:15485
 translate zh_Hans son_sissy_messager02_1_73_37a17e65:
@@ -22692,7 +22692,7 @@ translate zh_Hans son_sissy_messager02_1_76_63668700:
 translate zh_Hans son_sissy_messager02_1_76_029d4402:
 
     # nvltrevor "{a=show:bbc_pic_273}photo_814.png"
-    nvltrevor ""
+    nvltrevor "{a=show:bbc_pic_273}photo_814.png"
 
 # new_main_son_phone_0_2.rpy:15657
 translate zh_Hans son_sissy_messager02_1_76_6f362903:
@@ -22770,7 +22770,7 @@ translate zh_Hans son_sissy_messager02_1_77_3841302f:
 translate zh_Hans son_sissy_messager02_1_77_7f0431c9:
 
     # nvltrevor "{a=show:son_pic_29}photo_145.jpg"
-    nvltrevor ""
+    nvltrevor "{a=show:son_pic_29}photo_145.jpg"
 
 # new_main_son_phone_0_2.rpy:15713
 translate zh_Hans son_sissy_messager02_1_77_e2e26444:
@@ -22902,7 +22902,7 @@ translate zh_Hans son_sissy_messager02_1_78_535b9061:
 translate zh_Hans son_sissy_messager02_1_78_dc7f4f99:
 
     # nvlsson "{a=show:son_pic_30}photo_419.jpg"
-    nvlsson ""
+    nvlsson "{a=show:son_pic_30}photo_419.jpg"
 
 # new_main_son_phone_0_2.rpy:15787
 translate zh_Hans son_sissy_messager02_1_78_43f1dcb9:
@@ -23034,7 +23034,7 @@ translate zh_Hans son_sissy_messager02_1_78_9e7943e5:
 translate zh_Hans son_sissy_messager02_1_78_1122646c:
 
     # nvlsson "{a=show:son_pic_31}photo_423.jpg"
-    nvlsson ""
+    nvlsson "{a=show:son_pic_31}photo_423.jpg"
 
 # new_main_son_phone_0_2.rpy:15833
 translate zh_Hans son_sissy_messager02_1_78_0d949905:
@@ -23430,13 +23430,13 @@ translate zh_Hans son_sissy_messager02_1_79_db189fbe:
 translate zh_Hans son_sissy_messager02_1_79_03c737c8:
 
     # nvlsson "{a=show:mikky_pic_26}photo_1279.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_pic_26}photo_1279.png"
 
 # new_main_son_phone_0_2.rpy:15995
 translate zh_Hans son_sissy_messager02_1_79_9ee95e15:
 
     # nvlsson "{a=show:mikky_pic_27}photo_1280.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_pic_27}photo_1280.png"
 
 # new_main_son_phone_0_2.rpy:15999
 translate zh_Hans son_sissy_messager02_1_79_db189fbe_1:
@@ -24012,7 +24012,7 @@ translate zh_Hans son_sissy_messager02_1_82_ff8abbd2:
 translate zh_Hans son_sissy_messager02_1_82_05a863d2:
 
     # nvltrevor "{a=show:mikky_pic_28}photo_495.png"
-    nvltrevor ""
+    nvltrevor "{a=show:mikky_pic_28}photo_495.png"
 
 # new_main_son_phone_0_2.rpy:16275
 translate zh_Hans son_sissy_messager02_1_82_92ece3dd:
@@ -24276,7 +24276,7 @@ translate zh_Hans son_sissy_messager02_1_83_f46245b7:
 translate zh_Hans son_sissy_messager02_1_83_16876fb9:
 
     # nvlsson "{a=show:mikky_pic_29}photo_499.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_pic_29}photo_499.png"
 
 # new_main_son_phone_0_2.rpy:16393
 translate zh_Hans son_sissy_messager02_1_83_02865f6d:
@@ -24462,7 +24462,7 @@ translate zh_Hans son_sissy_messager02_1_83_d5ecb309:
 translate zh_Hans son_sissy_messager02_1_83_4da48c70:
 
     # nvlsson "Thank you {image=smile_emoji.png}"
-    nvlsson "{image=smile_emoji.png}埃德温：XTAG1X谢谢你{image=smile_emoji.png}。"
+    nvlsson "{image=smile_emoji.png}埃德温：谢谢你{image=smile_emoji.png}。"
 
 # new_main_son_phone_0_2.rpy:16467
 translate zh_Hans son_sissy_messager02_1_83_f49e8f44:
@@ -24504,7 +24504,7 @@ translate zh_Hans son_sissy_messager02_1_84_55a7cc2e:
 translate zh_Hans son_sissy_messager02_1_84_59952a17:
 
     # nvlsson "{a=show:mikky_pic_30}photo_517.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_pic_30}photo_517.png"
 
 # new_main_son_phone_0_2.rpy:16499
 translate zh_Hans son_sissy_messager02_1_84_50453b69:
@@ -24966,7 +24966,7 @@ translate zh_Hans son_sissy_messager02_1_87_ec02cb00:
 translate zh_Hans son_sissy_messager02_1_87_ec24fe79:
 
     # nvljenna "{a=show:mikky_video_19_2}mikky_video_19.mov"
-    nvljenna ""
+    nvljenna "{a=show:mikky_video_19_2}mikky_video_19.mov"
 
 # new_main_son_phone_0_2.rpy:16739
 translate zh_Hans son_sissy_messager02_1_87_1741741b:
@@ -25464,13 +25464,13 @@ translate zh_Hans son_sissy_messager02_1_90_76b2fe88:
 translate zh_Hans son_sissy_messager02_1_90_6ac1a89a:
 
     # nvljenna "{a=show:mikky_pic_31}photo_523.png"
-    nvljenna ""
+    nvljenna "{a=show:mikky_pic_31}photo_523.png"
 
 # new_main_son_phone_0_2.rpy:16999
 translate zh_Hans son_sissy_messager02_1_90_e3858cac:
 
     # nvljenna "{a=show:mikky_pic_32}photo_525.png"
-    nvljenna ""
+    nvljenna "{a=show:mikky_pic_32}photo_525.png"
 
 # new_main_son_phone_0_2.rpy:17003
 translate zh_Hans son_sissy_messager02_1_90_b0ffb100:
@@ -26412,7 +26412,7 @@ translate zh_Hans son_sissy_messager02_1_93_90bac5e6:
 translate zh_Hans son_sissy_messager02_1_93_4b440777:
 
     # nvlsson "{a=show:mikky_pic_33}photo_543.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_pic_33}photo_543.png"
 
 # new_main_son_phone_0_2.rpy:17411
 translate zh_Hans son_sissy_messager02_1_93_7f141fcd:
@@ -26772,7 +26772,7 @@ translate zh_Hans son_sissy_messager02_1_95_10e38202:
 translate zh_Hans son_sissy_messager02_1_95_438f9cfb:
 
     # nvlsson "We're living together at my place now"
-    nvlsson "人家现在和XTAG0X住在一起了呢。"
+    nvlsson "人家现在和住在一起了呢。"
 
 # new_main_son_phone_0_2.rpy:17587
 translate zh_Hans son_sissy_messager02_1_95_ab2ed099:
@@ -26784,7 +26784,7 @@ translate zh_Hans son_sissy_messager02_1_95_ab2ed099:
 translate zh_Hans son_sissy_messager02_1_95_69a05005:
 
     # nvlsson "We have sex every evening"
-    nvlsson "人家每天晚上都会和XTAG0X做爱爱呢。"
+    nvlsson "人家每天晚上都会和做爱爱呢。"
 
 # new_main_son_phone_0_2.rpy:17591
 translate zh_Hans son_sissy_messager02_1_95_64919975:
@@ -26820,7 +26820,7 @@ translate zh_Hans son_sissy_messager02_1_95_ea0d9156:
 translate zh_Hans son_sissy_messager02_1_95_a52541fc:
 
     # nvljenna "I mean you're not going to stop sleeping with others"
-    nvljenna "我的意思是，你不会停止和别人XTAG0X睡觉XTAG0X吧？"
+    nvljenna "我的意思是，你不会停止和别人睡觉吧？"
 
 # new_main_son_phone_0_2.rpy:17603
 translate zh_Hans son_sissy_messager02_1_95_84458c64:
@@ -26844,7 +26844,7 @@ translate zh_Hans son_sissy_messager02_1_95_c9baf6e1:
 translate zh_Hans son_sissy_messager02_1_95_68046a9d:
 
     # nvlsson "Especially since he's really good in bed"
-    nvlsson "尤其XTAG0X他XTAG0X在床上XTAG0X那么XTAG0X棒XTAG0X呢XTAG0X。"
+    nvlsson "尤其他在床上那么棒呢。"
 
 # new_main_son_phone_0_2.rpy:17611
 translate zh_Hans son_sissy_messager02_1_95_21653b5e:
@@ -26856,13 +26856,13 @@ translate zh_Hans son_sissy_messager02_1_95_21653b5e:
 translate zh_Hans son_sissy_messager02_1_95_38db78e1:
 
     # nvljenna "You need to sleep with others"
-    nvljenna "你需要和别人XTAG0X睡觉XTAG0X。"
+    nvljenna "你需要和别人睡觉。"
 
 # new_main_son_phone_0_2.rpy:17615
 translate zh_Hans son_sissy_messager02_1_95_411509aa:
 
     # nvljenna "You can't just sleep with one person"
-    nvljenna "你不能只和一个人XTAG0X睡觉XTAG0X。"
+    nvljenna "你不能只和一个人睡觉。"
 
 # new_main_son_phone_0_2.rpy:17617
 translate zh_Hans son_sissy_messager02_1_95_2a04d7fe:
@@ -26892,7 +26892,7 @@ translate zh_Hans son_sissy_messager02_1_95_3cace938:
 translate zh_Hans son_sissy_messager02_1_95_91c13a13:
 
     # nvljenna "If I say you need to sleep with other guys too, then that's what you should do"
-    nvljenna "如果我说你也需要和别的男人XTAG0X睡觉XTAG0X，那你就应该那么做。"
+    nvljenna "如果我说你也需要和别的男人睡觉，那你就应该那么做。"
 
 # new_main_son_phone_0_2.rpy:17627
 translate zh_Hans son_sissy_messager02_1_95_6a8064a8:
@@ -26910,7 +26910,7 @@ translate zh_Hans son_sissy_messager02_1_95_283bca18:
 translate zh_Hans son_sissy_messager02_1_95_babd0e78:
 
     # nvlsson "I don't want to cheat on Michael"
-    nvlsson "人家不想背叛XTAG0X迈克尔XTAG0X嘛。"
+    nvlsson "人家不想背叛迈克尔嘛。"
 
 # new_main_son_phone_0_2.rpy:17633
 translate zh_Hans son_sissy_messager02_1_95_fbe90bcf:
@@ -26958,7 +26958,7 @@ translate zh_Hans son_sissy_messager02_1_95_f29da8ef:
 translate zh_Hans son_sissy_messager02_1_95_89396602:
 
     # nvlsson "Jenna!"
-    nvlsson "XTAG0X珍娜XTAG0X！"
+    nvlsson "珍娜！"
 
 # new_main_son_phone_0_2.rpy:17649
 translate zh_Hans son_sissy_messager02_1_95_d10a47e0:
@@ -26976,13 +26976,13 @@ translate zh_Hans son_sissy_messager02_1_95_56414ffd:
 translate zh_Hans son_sissy_messager02_1_95_e71396aa:
 
     # nvlsson "I just don't understand why I need to sleep with others when I have a boyfriend"
-    nvlsson "人家就是不明白，明明有了男朋友，为什么还要和别人XTAG0X做XTAG0X那种事XTAG0X呢XTAG0X。"
+    nvlsson "人家就是不明白，明明有了男朋友，为什么还要和别人做那种事呢。"
 
 # new_main_son_phone_0_2.rpy:17655
 translate zh_Hans son_sissy_messager02_1_95_5024555b:
 
     # nvlsson "You were the one who told me to start dating someone"
-    nvlsson "明明是你让XTAG0X人家XTAG0X去XTAG0X谈恋爱的XTAG0X呀XTAG0X。"
+    nvlsson "明明是你让人家去谈恋爱的呀。"
 
 # new_main_son_phone_0_2.rpy:17657
 translate zh_Hans son_sissy_messager02_1_95_89e42573:
@@ -26994,7 +26994,7 @@ translate zh_Hans son_sissy_messager02_1_95_89e42573:
 translate zh_Hans son_sissy_messager02_1_95_f43fd9df:
 
     # nvlsson "And now you're telling me to ruin my relationship"
-    nvlsson "可现在你却让XTAG0X人家XTAG0X毁掉XTAG0X自己的XTAG0X感情XTAG0X。"
+    nvlsson "可现在你却让人家毁掉自己的感情。"
 
 # new_main_son_phone_0_2.rpy:17661
 translate zh_Hans son_sissy_messager02_1_95_808b5673:
@@ -27012,7 +27012,7 @@ translate zh_Hans son_sissy_messager02_1_95_f29da8ef_1:
 translate zh_Hans son_sissy_messager02_1_95_9781aced:
 
     # nvlsson "Jenna?!"
-    nvlsson "XTAG0X珍娜XTAG0X？！"
+    nvlsson "珍娜？！"
 
 # new_main_son_phone_0_2.rpy:17667
 translate zh_Hans son_sissy_messager02_1_95_d27469fd:
@@ -27090,7 +27090,7 @@ translate zh_Hans son_sissy_messager02_1_96_8f8461db:
 translate zh_Hans son_sissy_messager02_1_96_0bc71ae7:
 
     # nvlsson "Had a bit of an argument with someone"
-    nvlsson "就是和XTAG0X人家XTAG0X的一个XTAG0X朋友XTAG0X吵了几句XTAG0X啦XTAG0X。"
+    nvlsson "就是和人家的一个朋友吵了几句啦。"
 
 # new_main_son_phone_0_2.rpy:17721
 translate zh_Hans son_sissy_messager02_1_96_afd5b340:
@@ -27126,7 +27126,7 @@ translate zh_Hans son_sissy_messager02_1_96_d593227e:
 translate zh_Hans son_sissy_messager02_1_96_f02325ff:
 
     # nvlsson "I'm worried about something else now"
-    nvlsson "人家现在XTAG0X在XTAG0X担心XTAG0X别的事情XTAG0X呢XTAG0X。"
+    nvlsson "人家现在在担心别的事情呢。"
 
 # new_main_son_phone_0_2.rpy:17733
 translate zh_Hans son_sissy_messager02_1_96_5a543029:
@@ -27138,13 +27138,13 @@ translate zh_Hans son_sissy_messager02_1_96_5a543029:
 translate zh_Hans son_sissy_messager02_1_96_d08a5af3:
 
     # nvlsson "I'm going to a job interview"
-    nvlsson "人家要去XTAG0X面试XTAG0X啦XTAG0X。"
+    nvlsson "人家要去面试啦。"
 
 # new_main_son_phone_0_2.rpy:17737
 translate zh_Hans son_sissy_messager02_1_96_a182238e:
 
     # nvlsson "{a=show:mikky_pic_34}photo_546.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_pic_34}photo_546.png"
 
 # new_main_son_phone_0_2.rpy:17741
 translate zh_Hans son_sissy_messager02_1_96_b9cb94a5:
@@ -27162,7 +27162,7 @@ translate zh_Hans son_sissy_messager02_1_96_65c486ca:
 translate zh_Hans son_sissy_messager02_1_96_5d3606af:
 
     # nvlsson "I think I'll get the job today"
-    nvlsson "人家觉得今天一定能拿到这份工作XTAG0X的XTAG0X！"
+    nvlsson "人家觉得今天一定能拿到这份工作的！"
 
 # new_main_son_phone_0_2.rpy:17747
 translate zh_Hans son_sissy_messager02_1_96_e3740816:
@@ -27648,7 +27648,7 @@ translate zh_Hans son_sissy_messager02_1_98_092eef77:
 translate zh_Hans son_sissy_messager02_1_98_516fe0e9:
 
     # nvlsson "{a=show:mikky_pic_35}photo_551.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_pic_35}photo_551.png"
 
 # new_main_son_phone_0_2.rpy:17965
 translate zh_Hans son_sissy_messager02_1_98_76ffb9ea:
@@ -27678,7 +27678,7 @@ translate zh_Hans son_sissy_messager02_1_98_2ae085a0:
 translate zh_Hans son_sissy_messager02_1_98_fa6abca5:
 
     # nvlmichael "{a=show:mikky_pic_36}photo_551_edited.png"
-    nvlmichael ""
+    nvlmichael "{a=show:mikky_pic_36}photo_551_edited.png"
 
 # new_main_son_phone_0_2.rpy:17977
 translate zh_Hans son_sissy_messager02_1_98_b94d9490:
@@ -27876,7 +27876,7 @@ translate zh_Hans son_sissy_messager02_1_100_76b2fe88:
 translate zh_Hans son_sissy_messager02_1_100_bf4e6c17:
 
     # nvltrevor "{a=show:carter_pic_1}photo_239.png"
-    nvltrevor ""
+    nvltrevor "{a=show:carter_pic_1}photo_239.png"
 
 # new_main_son_phone_0_2.rpy:18101
 translate zh_Hans son_sissy_messager02_1_100_057fc14a:
@@ -28110,7 +28110,7 @@ translate zh_Hans son_sissy_messager02_1_101_04efd278:
 translate zh_Hans son_sissy_messager02_1_101_edfbc963:
 
     # nvlsson "{a=show:carter_pic_1}photo_239.png"
-    nvlsson ""
+    nvlsson "{a=show:carter_pic_1}photo_239.png"
 
 # new_main_son_phone_0_2.rpy:18207
 translate zh_Hans son_sissy_messager02_1_101_9f4fd02f:
@@ -29076,7 +29076,7 @@ translate zh_Hans son_sissy_messager02_1_106_d155c190:
 translate zh_Hans son_sissy_messager02_1_106_4292828c:
 
     # nvltrevor "{a=show:carter_video_1}video_193.mov"
-    nvltrevor ""
+    nvltrevor "{a=show:carter_video_1}video_193.mov"
 
 # new_main_son_phone_0_2.rpy:18678
 translate zh_Hans son_sissy_messager02_1_106_d0428f16:
@@ -29478,7 +29478,7 @@ translate zh_Hans son_sissy_messager02_1_108_421f43e4:
 translate zh_Hans son_sissy_messager02_1_108_9fa5ba75:
 
     # nvltrevor "{a=show:mikky_pic_37}photo_293.png"
-    nvltrevor ""
+    nvltrevor "{a=show:mikky_pic_37}photo_293.png"
 
 # new_main_son_phone_0_2.rpy:18870
 translate zh_Hans son_sissy_messager02_1_108_3bccaad9:
@@ -29544,7 +29544,7 @@ translate zh_Hans son_sissy_messager02_1_108_c2ecc1ca:
 translate zh_Hans son_sissy_messager02_1_108_136c5359:
 
     # nvltrevor "{a=show:bbc_pic_274}photo_311.png"
-    nvltrevor ""
+    nvltrevor "{a=show:bbc_pic_274}photo_311.png"
 
 # new_main_son_phone_0_2.rpy:18894
 translate zh_Hans son_sissy_messager02_1_108_73229bd2:
@@ -30228,7 +30228,7 @@ translate zh_Hans son_sissy_messager02_1_114_76b2fe88:
 translate zh_Hans son_sissy_messager02_1_114_6e3fd818:
 
     # nvltrevor "{a=show:mikky_pic_38}photo_317.png"
-    nvltrevor ""
+    nvltrevor "{a=show:mikky_pic_38}photo_317.png"
 
 # new_main_son_phone_0_2.rpy:19290
 translate zh_Hans son_sissy_messager02_1_114_ffeb9abc:
@@ -30576,7 +30576,7 @@ translate zh_Hans son_sissy_messager02_1_115_ca6ef941:
 translate zh_Hans son_sissy_messager02_1_115_b24467f4:
 
     # nvlnatalie "{a=show:natalie_pic_1}photo_2019.png"
-    nvlnatalie ""
+    nvlnatalie "{a=show:natalie_pic_1}photo_2019.png"
 
 # new_main_son_phone_0_2.rpy:19436
 translate zh_Hans son_sissy_messager02_1_115_931ccf86:
@@ -30588,7 +30588,7 @@ translate zh_Hans son_sissy_messager02_1_115_931ccf86:
 translate zh_Hans son_sissy_messager02_1_115_41404a74:
 
     # nvlsson "You're a sissy too?"
-    nvlsson "你也是个XTAG0X吗？"
+    nvlsson "你也是个吗？"
 
 # new_main_son_phone_0_2.rpy:19440
 translate zh_Hans son_sissy_messager02_1_115_8d40a54f:
@@ -30618,7 +30618,7 @@ translate zh_Hans son_sissy_messager02_1_115_7e126446:
 translate zh_Hans son_sissy_messager02_1_115_d487f21e:
 
     # nvlnatalie "Do you have any sissy friends?"
-    nvlnatalie "你有XTAG0X朋友吗？"
+    nvlnatalie "你有朋友吗？"
 
 # new_main_son_phone_0_2.rpy:19450
 translate zh_Hans son_sissy_messager02_1_115_dbd78b07:
@@ -31638,7 +31638,7 @@ translate zh_Hans son_sissy_messager02_1_120_e67eb0df:
 translate zh_Hans son_sissy_messager02_1_120_c79112c2:
 
     # nvlnatalie "{a=show:natalie_pic_2}photo_2027.png"
-    nvlnatalie ""
+    nvlnatalie "{a=show:natalie_pic_2}photo_2027.png"
 
 # new_main_son_phone_0_2.rpy:19941
 translate zh_Hans son_sissy_messager02_1_120_b0eca294:
@@ -33000,7 +33000,7 @@ translate zh_Hans son_sissy_messager02_1_128_79603e98:
 translate zh_Hans son_sissy_messager02_1_128_647e74aa:
 
     # nvltrevor "{a=show:mikky_pic_39}photo_331.png"
-    nvltrevor ""
+    nvltrevor "{a=show:mikky_pic_39}photo_331.png"
 
 # new_main_son_phone_0_2.rpy:20617
 translate zh_Hans son_sissy_messager02_1_128_6331c7bc:
@@ -33330,7 +33330,7 @@ translate zh_Hans son_sissy_messager02_1_129_fd154e29:
 translate zh_Hans son_sissy_messager02_1_129_72179704:
 
     # nvlharry "{a=show:mikky_pic_40}photo_338.png"
-    nvlharry ""
+    nvlharry "{a=show:mikky_pic_40}photo_338.png"
 
 # new_main_son_phone_0_2.rpy:20755
 translate zh_Hans son_sissy_messager02_1_129_ccb96d10:
@@ -34224,7 +34224,7 @@ translate zh_Hans son_sissy_messager02_1_132_9454f7a0:
 translate zh_Hans son_sissy_messager02_1_132_754934b1:
 
     # nvljim "{a=show:mikky_pic_41}photo_75.png"
-    nvljim ""
+    nvljim "{a=show:mikky_pic_41}photo_75.png"
 
 # new_main_son_phone_0_2.rpy:21137
 translate zh_Hans son_sissy_messager02_1_132_44f1f86b:
@@ -34632,7 +34632,7 @@ translate zh_Hans son_sissy_messager02_1_134_1d365164:
 translate zh_Hans son_sissy_messager02_1_134_1e41c42e:
 
     # nvlsson "{a=show:mikky_pic_42}photo_743.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_pic_42}photo_743.png"
 
 # new_main_son_phone_0_2.rpy:21331
 translate zh_Hans son_sissy_messager02_1_134_44aae90f:
@@ -34728,7 +34728,7 @@ translate zh_Hans son_sissy_messager02_1_134_fc4b6d09:
 translate zh_Hans son_sissy_messager02_1_134_629ee1f3:
 
     # nvljim "{a=show:valerie_video_1}video_83.mov"
-    nvljim ""
+    nvljim "{a=show:valerie_video_1}video_83.mov"
 
 # new_main_son_phone_0_2.rpy:21365
 translate zh_Hans son_sissy_messager02_1_134_3318349a:
@@ -35472,7 +35472,7 @@ translate zh_Hans son_sissy_messager02_1_138_af302ba0:
 translate zh_Hans son_sissy_messager02_1_138_84e83482:
 
     # nvlsson "{a=show:mikky_pic_43}photo_743.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_pic_43}photo_743.png"
 
 # new_main_son_phone_0_2.rpy:21727
 translate zh_Hans son_sissy_messager02_1_138_585eae1f:
@@ -35826,7 +35826,7 @@ translate zh_Hans son_sissy_messager02_1_139_555e3e9f:
 translate zh_Hans son_sissy_messager02_1_139_561c9618:
 
     # nvlvalerie "{a=show:valerie_video_2}video_418.mov"
-    nvlvalerie ""
+    nvlvalerie "{a=show:valerie_video_2}video_418.mov"
 
 # new_main_son_phone_0_2.rpy:21875
 translate zh_Hans son_sissy_messager02_1_139_68b433ea:
@@ -36426,7 +36426,7 @@ translate zh_Hans son_sissy_messager02_1_141_abd661af:
 translate zh_Hans son_sissy_messager02_1_141_fe7f9278:
 
     # nvlharry "{a=show:dick_pic_20}photo_173.mov"
-    nvlharry ""
+    nvlharry "{a=show:dick_pic_20}photo_173.mov"
 
 # new_main_son_phone_0_2.rpy:22133
 translate zh_Hans son_sissy_messager02_1_141_08b7dae3:
@@ -36564,7 +36564,7 @@ translate zh_Hans son_sissy_messager02_1_142_87bc62a7:
 translate zh_Hans son_sissy_messager02_1_142_be63b0ee:
 
     # nvlsson "{a=show:mikky_pic_44}photo_756.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_pic_44}photo_756.png"
 
 # new_main_son_phone_0_2.rpy:22207
 translate zh_Hans son_sissy_messager02_1_142_d8d963d7:
@@ -36690,7 +36690,7 @@ translate zh_Hans son_sissy_messager02_1_143_f4f5e8b3:
 translate zh_Hans son_sissy_messager02_1_143_be519d8b:
 
     # nvlvalerie "{a=show:valerie_video_3}video_423.mov"
-    nvlvalerie ""
+    nvlvalerie "{a=show:valerie_video_3}video_423.mov"
 
 # new_main_son_phone_0_2.rpy:22277
 translate zh_Hans son_sissy_messager02_1_143_9e6a69e8:
@@ -37362,7 +37362,7 @@ translate zh_Hans son_sissy_messager02_1_146_b9243110:
 translate zh_Hans son_sissy_messager02_1_146_003aa649:
 
     # nvlharry "{a=show:valerie_video_4}video_437.mov"
-    nvlharry ""
+    nvlharry "{a=show:valerie_video_4}video_437.mov"
 
 # new_main_son_phone_0_2.rpy:22604
 translate zh_Hans son_sissy_messager02_1_146_54236574:
@@ -37608,7 +37608,7 @@ translate zh_Hans son_sissy_messager02_1_147_a31270a0:
 translate zh_Hans son_sissy_messager02_1_147_d41031fe:
 
     # nvlsson "{a=show:mikky_pic_45}photo_759.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_pic_45}photo_759.png"
 
 # new_main_son_phone_0_2.rpy:22716
 translate zh_Hans son_sissy_messager02_1_147_61ff49e8:
@@ -37680,7 +37680,7 @@ translate zh_Hans son_sissy_messager02_1_147_e91ddaa0:
 translate zh_Hans son_sissy_messager02_1_147_006ab491:
 
     # nvltrevor "{a=show:mikky_pic_46}photo_183.png"
-    nvltrevor ""
+    nvltrevor "{a=show:mikky_pic_46}photo_183.png"
 
 # new_main_son_phone_0_2.rpy:22742
 translate zh_Hans son_sissy_messager02_1_147_6888b2bf:
@@ -37836,7 +37836,7 @@ translate zh_Hans son_sissy_messager02_1_149_2fa20a9f:
 translate zh_Hans son_sissy_messager02_1_149_446a29d0:
 
     # nvlsson "{a=show:mikky_pic_47}photo_811.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_pic_47}photo_811.png"
 
 # new_main_son_phone_0_2.rpy:22852
 translate zh_Hans son_sissy_messager02_1_149_5288d90e:
@@ -38046,7 +38046,7 @@ translate zh_Hans son_sissy_messager02_1_149_f938a002:
 translate zh_Hans son_sissy_messager02_1_149_76759390:
 
     # nvljim "{a=show:valerie_pic_1}photo_215.png"
-    nvljim ""
+    nvljim "{a=show:valerie_pic_1}photo_215.png"
 
 # new_main_son_phone_0_2.rpy:22924
 translate zh_Hans son_sissy_messager02_1_149_10491020:
@@ -38214,7 +38214,7 @@ translate zh_Hans son_sissy_messager02_1_150_498d1517:
 translate zh_Hans son_sissy_messager02_1_150_f9ca9b4b:
 
     # nvltrevor "{a=show:mikky_pic_48}photo_817.png"
-    nvltrevor ""
+    nvltrevor "{a=show:mikky_pic_48}photo_817.png"
 
 # new_main_son_phone_0_2.rpy:23010
 translate zh_Hans son_sissy_messager02_1_150_253baceb:
@@ -38424,13 +38424,13 @@ translate zh_Hans son_sissy_messager02_1_151_90eaf3f3:
 translate zh_Hans son_sissy_messager02_1_151_f916d23a:
 
     # nvlsson "{a=show:mikky_pic_49}photo_843.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_pic_49}photo_843.png"
 
 # new_main_son_phone_0_2.rpy:23110
 translate zh_Hans son_sissy_messager02_1_151_fb1a06fe:
 
     # nvlsson "{a=show:mikky_pic_50}photo_828.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_pic_50}photo_828.png"
 
 # new_main_son_phone_0_2.rpy:23114
 translate zh_Hans son_sissy_messager02_1_151_1aeeb92b:
@@ -38574,7 +38574,7 @@ translate zh_Hans son_sissy_messager02_1_151_07034e75:
 translate zh_Hans son_sissy_messager02_1_151_4dda5c1b:
 
     # nvlsson "{a=show:mikky_pic_51}photo_851.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_pic_51}photo_851.png"
 
 # new_main_son_phone_0_2.rpy:23164
 translate zh_Hans son_sissy_messager02_1_151_7853662b:
@@ -39012,31 +39012,31 @@ translate zh_Hans son_sissy_messager02_1_152_64c58558:
 translate zh_Hans son_sissy_messager02_1_152_00e32b97:
 
     # nvlnatalie "{a=show:natalie_pic_3}photo_2038.png"
-    nvlnatalie ""
+    nvlnatalie "{a=show:natalie_pic_3}photo_2038.png"
 
 # new_main_son_phone_0_2.rpy:23340
 translate zh_Hans son_sissy_messager02_1_152_f3c51101:
 
     # nvlnatalie "{a=show:natalie_pic_4}photo_2042.png"
-    nvlnatalie ""
+    nvlnatalie "{a=show:natalie_pic_4}photo_2042.png"
 
 # new_main_son_phone_0_2.rpy:23344
 translate zh_Hans son_sissy_messager02_1_152_4b69dc83:
 
     # nvlnatalie "{a=show:natalie_pic_5}photo_2046.png"
-    nvlnatalie ""
+    nvlnatalie "{a=show:natalie_pic_5}photo_2046.png"
 
 # new_main_son_phone_0_2.rpy:23348
 translate zh_Hans son_sissy_messager02_1_152_258bedc8:
 
     # nvlnatalie "{a=show:natalie_pic_6}photo_2078.png"
-    nvlnatalie ""
+    nvlnatalie "{a=show:natalie_pic_6}photo_2078.png"
 
 # new_main_son_phone_0_2.rpy:23352
 translate zh_Hans son_sissy_messager02_1_152_8f626f95:
 
     # nvlnatalie "{a=show:natalie_pic_7}photo_2103.png"
-    nvlnatalie ""
+    nvlnatalie "{a=show:natalie_pic_7}photo_2103.png"
 
 # new_main_son_phone_0_2.rpy:23356
 translate zh_Hans son_sissy_messager02_1_152_be791d32:
@@ -40356,7 +40356,7 @@ translate zh_Hans son_sissy_messager02_1_158_09220673:
 translate zh_Hans son_sissy_messager02_1_158_a445a4c0:
 
     # nvlharry "{a=show:valerie_video_5}video_443.mov"
-    nvlharry ""
+    nvlharry "{a=show:valerie_video_5}video_443.mov"
 
 # new_main_son_phone_0_2.rpy:23966
 translate zh_Hans son_sissy_messager02_1_158_bb678650:
@@ -40404,7 +40404,7 @@ translate zh_Hans son_sissy_messager02_1_158_9946bf2d:
 translate zh_Hans son_sissy_messager02_1_158_82cf4529:
 
     # nvlsson "Just to tell me that she rode your cock?"
-    nvlsson "就为了告诉人家，她骑在你的XTAG0X上XTAG0X了吗？"
+    nvlsson "就为了告诉人家，她骑在你的上了吗？"
 
 # new_main_son_phone_0_2.rpy:23982
 translate zh_Hans son_sissy_messager02_1_158_18f847e7:
@@ -40464,7 +40464,7 @@ translate zh_Hans son_sissy_messager02_1_158_0b061bbf:
 translate zh_Hans son_sissy_messager02_1_158_94ab1f68:
 
     # nvlharry "Wanna do it?"
-    nvlharry "想不想让XTAG0X爸爸XTAG0X疼爱呢？"
+    nvlharry "想不想让爸爸疼爱呢？"
 
 # new_main_son_phone_0_2.rpy:24002
 translate zh_Hans son_sissy_messager02_1_158_f8db8dfb:
@@ -40560,7 +40560,7 @@ translate zh_Hans son_sissy_messager02_1_158_12fca1cb:
 translate zh_Hans son_sissy_messager02_1_158_d7774f54:
 
     # nvlharry "When I want to fuck your friend again"
-    nvlharry "等爸爸想再XTAG0X玩弄XTAG0X你的朋友的时候。"
+    nvlharry "等爸爸想再玩弄你的朋友的时候。"
 
 # new_main_son_phone_0_2.rpy:24044
 translate zh_Hans son_sissy_messager02_1_158_f49e8f44:
@@ -40722,7 +40722,7 @@ translate zh_Hans son_sissy_messager02_1_159_80f2256b:
 translate zh_Hans son_sissy_messager02_1_159_c4125f6f:
 
     # nvlvalerie "Did you suck him off today?"
-    nvlvalerie "你今天有没有好好XTAG0X伺候XTAG0X他呀？"
+    nvlvalerie "你今天有没有好好伺候他呀？"
 
 # new_main_son_phone_0_2.rpy:24114
 translate zh_Hans son_sissy_messager02_1_159_16733586:
@@ -40752,13 +40752,13 @@ translate zh_Hans son_sissy_messager02_1_159_9353caf3:
 translate zh_Hans son_sissy_messager02_1_159_543a6fb4:
 
     # nvlvalerie "Have a good shift then"
-    nvlvalerie "那你好好XTAG0X上班XTAG0X吧。"
+    nvlvalerie "那你好好上班吧。"
 
 # new_main_son_phone_0_2.rpy:24124
 translate zh_Hans son_sissy_messager02_1_159_b54811db:
 
     # nvlvalerie "And give him a proper suck, haha"
-    nvlvalerie "还有，好好XTAG0X伺候XTAG0X他哦，哈哈。"
+    nvlvalerie "还有，好好伺候他哦，哈哈。"
 
 # new_main_son_phone_0_2.rpy:24126
 translate zh_Hans son_sissy_messager02_1_159_ce3da0dc:
@@ -41466,13 +41466,13 @@ translate zh_Hans son_sissy_messager02_1_163_76b2fe88:
 translate zh_Hans son_sissy_messager02_1_163_3bb358cf:
 
     # nvljenna "{a=show:mikky_pic_52}photo_1231.png"
-    nvljenna ""
+    nvljenna "{a=show:mikky_pic_52}photo_1231.png"
 
 # new_main_son_phone_0_2.rpy:24476
 translate zh_Hans son_sissy_messager02_1_163_f588a0c3:
 
     # nvljenna "{a=show:mikky_pic_53}photo_1233.png"
-    nvljenna ""
+    nvljenna "{a=show:mikky_pic_53}photo_1233.png"
 
 # new_main_son_phone_0_2.rpy:24480
 translate zh_Hans son_sissy_messager02_1_163_214ce2c4:
@@ -41538,7 +41538,7 @@ translate zh_Hans son_sissy_messager02_1_163_71483664:
 translate zh_Hans son_sissy_messager02_1_163_ffe3074f:
 
     # nvljenna "{a=show:mikky_pic_54}photo_1238.png"
-    nvljenna ""
+    nvljenna "{a=show:mikky_pic_54}photo_1238.png"
 
 # new_main_son_phone_0_2.rpy:24504
 translate zh_Hans son_sissy_messager02_1_163_70922525:
@@ -42060,7 +42060,7 @@ translate zh_Hans son_sissy_messager02_1_164_7095c045:
 translate zh_Hans son_sissy_messager02_1_164_633c16b3:
 
     # nvlnatalie "{a=show:natalie_pic_8}photo_2122.png"
-    nvlnatalie ""
+    nvlnatalie "{a=show:natalie_pic_8}photo_2122.png"
 
 # new_main_son_phone_0_2.rpy:24715
 translate zh_Hans son_sissy_messager02_1_164_80a3b7b6:
@@ -42144,7 +42144,7 @@ translate zh_Hans son_sissy_messager02_1_164_0a65af91:
 translate zh_Hans son_sissy_messager02_1_164_ef5e651b:
 
     # nvlnatalie "Jenna?!"
-    nvlnatalie "XTAG0X珍娜XTAG0X？！"
+    nvlnatalie "珍娜？！"
 
 # new_main_son_phone_0_2.rpy:24743
 translate zh_Hans son_sissy_messager02_1_164_1c744411:
@@ -42558,7 +42558,7 @@ translate zh_Hans son_sissy_messager02_1_165_70f7bcb7:
 translate zh_Hans son_sissy_messager02_1_165_89e40444:
 
     # nvljenna "{a=show:sissy_video_6}video_4411.mov"
-    nvljenna ""
+    nvljenna "{a=show:sissy_video_6}video_4411.mov"
 
 # new_main_son_phone_0_2.rpy:24911
 translate zh_Hans son_sissy_messager02_1_165_214ce2c4:
@@ -42606,7 +42606,7 @@ translate zh_Hans son_sissy_messager02_1_165_d8181d24:
 translate zh_Hans son_sissy_messager02_1_165_c25187f2:
 
     # nvljenna "{a=show:sissy_video_7}v481313.mov"
-    nvljenna ""
+    nvljenna "{a=show:sissy_video_7}v481313.mov"
 
 # new_main_son_phone_0_2.rpy:24929
 translate zh_Hans son_sissy_messager02_1_165_a8309b9b:
@@ -42936,7 +42936,7 @@ translate zh_Hans son_sissy_messager02_1_167_085dd038:
 translate zh_Hans son_sissy_messager02_1_167_3637341a:
 
     # nvljim "{a=show:cum_pic_4}351.png"
-    nvljim ""
+    nvljim "{a=show:cum_pic_4}351.png"
 
 # new_main_son_phone_0_2.rpy:25095
 translate zh_Hans son_sissy_messager02_1_167_a06ba08d:
@@ -43440,7 +43440,7 @@ translate zh_Hans son_sissy_messager02_1_172_327208bb:
 translate zh_Hans son_sissy_messager02_1_172_b33aa4a3:
 
     # nvljim "{a=show:valerie_video_6}video_448.mov"
-    nvljim ""
+    nvljim "{a=show:valerie_video_6}video_448.mov"
 
 # new_main_son_phone_0_2.rpy:25401
 translate zh_Hans son_sissy_messager02_1_172_25e49710:
@@ -43452,7 +43452,7 @@ translate zh_Hans son_sissy_messager02_1_172_25e49710:
 translate zh_Hans son_sissy_messager02_1_172_04e438d2:
 
     # nvljim "{a=show:valerie_video_7}video_452.mov"
-    nvljim ""
+    nvljim "{a=show:valerie_video_7}video_452.mov"
 
 # new_main_son_phone_0_2.rpy:25407
 translate zh_Hans son_sissy_messager02_1_172_9d0f9354:
@@ -43896,7 +43896,7 @@ translate zh_Hans son_sissy_messager02_1_174_cd8044a3:
 translate zh_Hans son_sissy_messager02_1_174_e1ae6202:
 
     # nvljenna "{a=show:mikky_pic_55}photo_1245.png"
-    nvljenna ""
+    nvljenna "{a=show:mikky_pic_55}photo_1245.png"
 
 # new_main_son_phone_0_2.rpy:25613
 translate zh_Hans son_sissy_messager02_1_174_4cbed3f3:
@@ -44754,7 +44754,7 @@ translate zh_Hans son_sissy_messager02_1_178_124701f6:
 translate zh_Hans son_sissy_messager02_1_178_144f24e9:
 
     # nvlvalerie "{a=show:valerie_video_8}video_463.mov"
-    nvlvalerie ""
+    nvlvalerie "{a=show:valerie_video_8}video_463.mov"
 
 # new_main_son_phone_0_2.rpy:26011
 translate zh_Hans son_sissy_messager02_1_178_1739876e:
@@ -45012,13 +45012,13 @@ translate zh_Hans son_sissy_messager02_1_179_0ee679b4:
 translate zh_Hans son_sissy_messager02_1_179_3e6cc1b9:
 
     # nvljenna "{a=show:sissy_video_8}video_911.mov"
-    nvljenna ""
+    nvljenna "{a=show:sissy_video_8}video_911.mov"
 
 # new_main_son_phone_0_2.rpy:26127
 translate zh_Hans son_sissy_messager02_1_179_135ce238:
 
     # nvljenna "{a=show:sissy_video_9}4341.mov"
-    nvljenna ""
+    nvljenna "{a=show:sissy_video_9}4341.mov"
 
 # new_main_son_phone_0_2.rpy:26131
 translate zh_Hans son_sissy_messager02_1_179_46bf74f6:
@@ -45252,7 +45252,7 @@ translate zh_Hans son_sissy_messager02_1_181_196123f6:
 translate zh_Hans son_sissy_messager02_1_181_4da48c70:
 
     # nvlsson "Thank you {image=smile_emoji.png}"
-    nvlsson "{image=smile_emoji.png}埃德温：XTAG1X谢谢你{image=smile_emoji.png}。"
+    nvlsson "{image=smile_emoji.png}埃德温：谢谢你{image=smile_emoji.png}。"
 
 # new_main_son_phone_0_2.rpy:26275
 translate zh_Hans son_sissy_messager02_1_181_f49e8f44:
@@ -45918,7 +45918,7 @@ translate zh_Hans son_sissy_messager02_1_185_e33c9dec:
 translate zh_Hans son_sissy_messager02_1_185_351c839b:
 
     # nvlvalerie "{a=show:bbc_pic_275}photo_319.png"
-    nvlvalerie ""
+    nvlvalerie "{a=show:bbc_pic_275}photo_319.png"
 
 # new_main_son_phone_0_2.rpy:26599
 translate zh_Hans son_sissy_messager02_1_185_c8aae86c:
@@ -46596,7 +46596,7 @@ translate zh_Hans son_sissy_messager02_1_187_4e9fa439:
 translate zh_Hans son_sissy_messager02_1_187_8b59a5ba:
 
     # nvljenna "{a=show:sissy_pic_41}pic_15947.png"
-    nvljenna ""
+    nvljenna "{a=show:sissy_pic_41}pic_15947.png"
 
 # new_main_son_phone_0_2.rpy:26883
 translate zh_Hans son_sissy_messager02_1_187_ae7d58dc:
@@ -46776,7 +46776,7 @@ translate zh_Hans son_sissy_messager02_1_188_76b2fe88:
 translate zh_Hans son_sissy_messager02_1_188_61941fac:
 
     # nvlsson "{a=show:mikky_pic_56}photo_1252.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_pic_56}photo_1252.png"
 
 # new_main_son_phone_0_2.rpy:26971
 translate zh_Hans son_sissy_messager02_1_188_8fd0cc5c:
@@ -46866,7 +46866,7 @@ translate zh_Hans son_sissy_messager02_1_189_7f171643:
 translate zh_Hans son_sissy_messager02_1_189_3aabfe50:
 
     # nvlsson "{a=show:mikky_pic_57}photo_1263.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_pic_57}photo_1263.png"
 
 # new_main_son_phone_0_2.rpy:27029
 translate zh_Hans son_sissy_messager02_1_189_9ad9279b:
@@ -47202,7 +47202,7 @@ translate zh_Hans son_sissy_messager02_1_190_a90d2554:
 translate zh_Hans son_sissy_messager02_1_190_1bb7285d:
 
     # nvljenna "{a=show:mikky_pic_58}photo_3913.png"
-    nvljenna ""
+    nvljenna "{a=show:mikky_pic_58}photo_3913.png"
 
 # new_main_son_phone_0_2.rpy:27173
 translate zh_Hans son_sissy_messager02_1_190_2b7177c6:
@@ -47532,7 +47532,7 @@ translate zh_Hans son_sissy_messager02_1_191_158fadc2:
 translate zh_Hans son_sissy_messager02_1_191_83f2d8ee:
 
     # nvltrevor "{a=show:bbc_pic_276}photo_412.png"
-    nvltrevor ""
+    nvltrevor "{a=show:bbc_pic_276}photo_412.png"
 
 # new_main_son_phone_0_2.rpy:27313
 translate zh_Hans son_sissy_messager02_1_191_11ed5435:
@@ -47688,7 +47688,7 @@ translate zh_Hans son_sissy_messager02_1_192_96695d4e:
 translate zh_Hans son_sissy_messager02_1_192_14974a7f:
 
     # nvljim "{a=show:dick_pic_21}photo_209.mov"
-    nvljim ""
+    nvljim "{a=show:dick_pic_21}photo_209.mov"
 
 # new_main_son_phone_0_2.rpy:27395
 translate zh_Hans son_sissy_messager02_1_192_6a3d960f:
@@ -47748,7 +47748,7 @@ translate zh_Hans son_sissy_messager02_1_193_76b2fe88:
 translate zh_Hans son_sissy_messager02_1_193_214cf860:
 
     # nvljim "{a=show:mikky_pic_59}photo_3922.png"
-    nvljim ""
+    nvljim "{a=show:mikky_pic_59}photo_3922.png"
 
 # new_main_son_phone_0_2.rpy:27443
 translate zh_Hans son_sissy_messager02_1_193_f53d4965:
@@ -48054,7 +48054,7 @@ translate zh_Hans son_sissy_messager02_1_194_76b2fe88:
 translate zh_Hans son_sissy_messager02_1_194_936af5c8:
 
     # nvljim "{a=show:valerie_video_9}video_473.mov"
-    nvljim ""
+    nvljim "{a=show:valerie_video_9}video_473.mov"
 
 # new_main_son_phone_0_2.rpy:27586
 translate zh_Hans son_sissy_messager02_1_194_d9bdfafc:
@@ -48540,7 +48540,7 @@ translate zh_Hans son_sissy_messager02_1_196_66fb7321:
 translate zh_Hans son_sissy_messager02_1_196_b19ee268:
 
     # nvljim "{a=show:mikky_pic_60}photo_218.png"
-    nvljim ""
+    nvljim "{a=show:mikky_pic_60}photo_218.png"
 
 # new_main_son_phone_0_2.rpy:27806
 translate zh_Hans son_sissy_messager02_1_196_b3792f9f:
@@ -48810,7 +48810,7 @@ translate zh_Hans son_sissy_messager02_1_197_1823650a:
 translate zh_Hans son_sissy_messager02_1_197_c29cc76d:
 
     # nvlvalerie "{a=show:valerie_pic_2}photo_2193.png"
-    nvlvalerie ""
+    nvlvalerie "{a=show:valerie_pic_2}photo_2193.png"
 
 # new_main_son_phone_0_2.rpy:27924
 translate zh_Hans son_sissy_messager02_1_197_6be12f35:
@@ -49146,7 +49146,7 @@ translate zh_Hans son_sissy_messager02_1_197_5e799eb3:
 translate zh_Hans son_sissy_messager02_1_197_6193aff0:
 
     # nvlvalerie "I never would've thought I'd end up working in a gloryhole"
-    nvlvalerie "人家从没想过，自己会在这里的XTAG0X小洞里工作呢。"
+    nvlvalerie "人家从没想过，自己会在这里的小洞里工作呢。"
 
 # new_main_son_phone_0_2.rpy:28036
 translate zh_Hans son_sissy_messager02_1_197_b1dba0d4:
@@ -49158,7 +49158,7 @@ translate zh_Hans son_sissy_messager02_1_197_b1dba0d4:
 translate zh_Hans son_sissy_messager02_1_197_4fa0f4d7:
 
     # nvlvalerie "At a café-gloryhole"
-    nvlvalerie "在一家咖啡馆XTAG0X小洞里呢。"
+    nvlvalerie "在一家咖啡馆小洞里呢。"
 
 # new_main_son_phone_0_2.rpy:28040
 translate zh_Hans son_sissy_messager02_1_197_c8d71802_1:
@@ -49362,13 +49362,13 @@ translate zh_Hans son_sissy_messager02_1_198_d8359748:
 translate zh_Hans son_sissy_messager02_1_198_0c0636bc:
 
     # nvljenna "{a=show:mikky_pic_61}photo_3111.png"
-    nvljenna ""
+    nvljenna "{a=show:mikky_pic_61}photo_3111.png"
 
 # new_main_son_phone_0_2.rpy:28152
 translate zh_Hans son_sissy_messager02_1_198_2180eb59:
 
     # nvljenna "{a=show:mikky_pic_62}photo_3115.png"
-    nvljenna ""
+    nvljenna "{a=show:mikky_pic_62}photo_3115.png"
 
 # new_main_son_phone_0_2.rpy:28156
 translate zh_Hans son_sissy_messager02_1_198_64c2a95d:
@@ -49722,7 +49722,7 @@ translate zh_Hans son_sissy_messager02_1_200_76b2fe88:
 translate zh_Hans son_sissy_messager02_1_200_7ef66569:
 
     # nvljim "{a=show:mikky_pic_63}photo_149.png"
-    nvljim ""
+    nvljim "{a=show:mikky_pic_63}photo_149.png"
 
 # new_main_son_phone_0_2.rpy:28332
 translate zh_Hans son_sissy_messager02_1_200_675640d1:
@@ -50112,7 +50112,7 @@ translate zh_Hans son_sissy_messager02_1_202_ac7bdabb:
 translate zh_Hans son_sissy_messager02_1_202_c074ce3c:
 
     # nvljenna "{a=show:mikky_pic_64}photo_591.png"
-    nvljenna ""
+    nvljenna "{a=show:mikky_pic_64}photo_591.png"
 
 # new_main_son_phone_0_2.rpy:28520
 translate zh_Hans son_sissy_messager02_1_202_63fa6128:
@@ -50574,7 +50574,7 @@ translate zh_Hans son_sissy_messager02_1_203_4876a6a7:
 translate zh_Hans son_sissy_messager02_1_203_be47b4a3:
 
     # nvlsson "{a=show:mikky_pic_65}photo_611.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_pic_65}photo_611.png"
 
 # new_main_son_phone_0_2.rpy:28704
 translate zh_Hans son_sissy_messager02_1_203_7972779b:
@@ -50718,7 +50718,7 @@ translate zh_Hans son_sissy_messager02_1_204_79211073:
 translate zh_Hans son_sissy_messager02_1_204_92825087:
 
     # nvljim "{a=show:mikky_video_20}video_2314.mov"
-    nvljim ""
+    nvljim "{a=show:mikky_video_20}video_2314.mov"
 
 # new_main_son_phone_0_2.rpy:28782
 translate zh_Hans son_sissy_messager02_1_204_f23404b5:
@@ -51990,7 +51990,7 @@ translate zh_Hans son_sissy_messager02_1_208_3c1b7a11:
 translate zh_Hans son_sissy_messager02_1_208_271506d0:
 
     # nvlvalerie "{a=show:valerie_pic_3}photo_2197.png"
-    nvlvalerie ""
+    nvlvalerie "{a=show:valerie_pic_3}photo_2197.png"
 
 # new_main_son_phone_0_2.rpy:29320
 translate zh_Hans son_sissy_messager02_1_208_7e6cdc22:
@@ -52464,7 +52464,7 @@ translate zh_Hans son_sissy_messager02_1_211_3535c6af:
 translate zh_Hans son_sissy_messager02_1_211_7e1573d4:
 
     # nvlvalerie "{a=show:valerie_video_10}video_638.mov"
-    nvlvalerie ""
+    nvlvalerie "{a=show:valerie_video_10}video_638.mov"
 
 # new_main_son_phone_0_2.rpy:29571
 translate zh_Hans son_sissy_messager02_1_211_3239e4e1:
@@ -52752,7 +52752,7 @@ translate zh_Hans son_sissy_messager02_1_213_a96eed5e:
 translate zh_Hans son_sissy_messager02_1_213_1562a930:
 
     # nvlkirely "{a=show:mikky_pic_66}photo_5413.png"
-    nvlkirely ""
+    nvlkirely "{a=show:mikky_pic_66}photo_5413.png"
 
 # new_main_son_phone_0_2.rpy:29725
 translate zh_Hans son_sissy_messager02_1_213_884013aa:
@@ -53076,7 +53076,7 @@ translate zh_Hans son_sissy_messager02_1_213_b1e87ca8:
 translate zh_Hans son_sissy_messager02_1_213_067965fd:
 
     # nvlsson "{a=show:mikky_pic_67}photo_293.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_pic_67}photo_293.png"
 
 # new_main_son_phone_0_2.rpy:29835
 translate zh_Hans son_sissy_messager02_1_213_450272b5:
@@ -53598,7 +53598,7 @@ translate zh_Hans son_sissy_peter_messager02_1_1_5361b61d:
 translate zh_Hans son_sissy_peter_messager02_1_1_f866dd5d:
 
     # nvlsson "{a=show:s_photo_117}s_photo_117.png"
-    nvlsson ""
+    nvlsson "{a=show:s_photo_117}s_photo_117.png"
 
 # new_main_son_phone_0_2.rpy:30125
 translate zh_Hans son_sissy_peter_messager02_1_1_8eb8900b:
@@ -53688,7 +53688,7 @@ translate zh_Hans son_sissy_peter_messager02_1_1_c3bbe08f:
 translate zh_Hans son_sissy_peter_messager02_1_1_d1944394:
 
     # nvlpeter "{a=show:pe_photo_243}pe_photo_243.png"
-    nvlpeter ""
+    nvlpeter "{a=show:pe_photo_243}pe_photo_243.png"
 
 # new_main_son_phone_0_2.rpy:30157
 translate zh_Hans son_sissy_peter_messager02_1_1_2ac361ca:
@@ -53700,7 +53700,7 @@ translate zh_Hans son_sissy_peter_messager02_1_1_2ac361ca:
 translate zh_Hans son_sissy_peter_messager02_1_1_9894f4de:
 
     # nvlpeter "{a=show:pe_photo_177}pe_photo_177.png"
-    nvlpeter ""
+    nvlpeter "{a=show:pe_photo_177}pe_photo_177.png"
 
 # new_main_son_phone_0_2.rpy:30163
 translate zh_Hans son_sissy_peter_messager02_1_1_8bf928cd:
@@ -53892,7 +53892,7 @@ translate zh_Hans son_sissy_peter_messager02_1_2_d9761464:
 translate zh_Hans son_sissy_peter_messager02_1_2_984b9168:
 
     # nvlsson "{a=show:s_photo_129}s_photo_129.png"
-    nvlsson ""
+    nvlsson "{a=show:s_photo_129}s_photo_129.png"
 
 # new_main_son_phone_0_2.rpy:30255
 translate zh_Hans son_sissy_peter_messager02_1_2_97bb6825:
@@ -54048,7 +54048,7 @@ translate zh_Hans son_sissy_peter_messager02_1_2_175c81da:
 translate zh_Hans son_sissy_peter_messager02_1_2_281f1a04:
 
     # nvlpeter "When?"
-    nvlpeter "XTAG0X埃德温：XTAG1X什么时候呀？"
+    nvlpeter "埃德温：什么时候呀？"
 
 # new_main_son_phone_0_2.rpy:30307
 translate zh_Hans son_sissy_peter_messager02_1_2_cb537636:
@@ -54174,7 +54174,7 @@ translate zh_Hans son_sissy_peter_messager02_1_2_c7d6c23d:
 translate zh_Hans son_sissy_peter_messager02_1_2_d06e5d64:
 
     # nvlsson "{a=show:s_photo_136}s_photo_136.png"
-    nvlsson ""
+    nvlsson "{a=show:s_photo_136}s_photo_136.png"
 
 # new_main_son_phone_0_2.rpy:30351
 translate zh_Hans son_sissy_peter_messager02_1_2_8a44aa80:
@@ -54270,7 +54270,7 @@ translate zh_Hans son_sissy_peter_messager02_1_2_6a412e7c:
 translate zh_Hans son_sissy_peter_messager02_1_2_3eee21ff:
 
     # nvlpeter "{a=show:pe_photo_181}pe_photo_181.png"
-    nvlpeter ""
+    nvlpeter "{a=show:pe_photo_181}pe_photo_181.png"
 
 # new_main_son_phone_0_2.rpy:30385
 translate zh_Hans son_sissy_peter_messager02_1_2_b4e4a216:
@@ -54570,19 +54570,19 @@ translate zh_Hans son_sissy_peter_messager02_1_3_784444ac:
 translate zh_Hans son_sissy_peter_messager02_1_3_5f12c0aa:
 
     # nvlsson "{a=show:s_photo_143}s_photo_143.jpg"
-    nvlsson ""
+    nvlsson "{a=show:s_photo_143}s_photo_143.jpg"
 
 # new_main_son_phone_0_2.rpy:30510
 translate zh_Hans son_sissy_peter_messager02_1_3_97bb5ba6:
 
     # nvlsson "{a=show:s_photo_144}s_photo_144.jpg"
-    nvlsson ""
+    nvlsson "{a=show:s_photo_144}s_photo_144.jpg"
 
 # new_main_son_phone_0_2.rpy:30512
 translate zh_Hans son_sissy_peter_messager02_1_3_85e4badb:
 
     # nvlsson "{a=show:s_photo_145}s_photo_145.jpg"
-    nvlsson ""
+    nvlsson "{a=show:s_photo_145}s_photo_145.jpg"
 
 # new_main_son_phone_0_2.rpy:30520
 translate zh_Hans son_sissy_peter_messager02_1_3_647358af:
@@ -54642,7 +54642,7 @@ translate zh_Hans son_sissy_peter_messager02_1_3_afba1f8f:
 translate zh_Hans son_sissy_peter_messager02_1_3_047b5f43:
 
     # nvlsson "{a=show:s_photo_168}s_photo_168.jpg"
-    nvlsson ""
+    nvlsson "{a=show:s_photo_168}s_photo_168.jpg"
 
 # new_main_son_phone_0_2.rpy:30542
 translate zh_Hans son_sissy_peter_messager02_1_3_7b58657b:
@@ -55242,7 +55242,7 @@ translate zh_Hans son_sissy_ahat_messager02_1_2_678ecd5f:
 translate zh_Hans son_sissy_ahat_messager02_1_2_e8ef8fa9:
 
     # nvlsson "{a=show:s_photo_138}s_photo_138.png"
-    nvlsson ""
+    nvlsson "{a=show:s_photo_138}s_photo_138.png"
 
 # new_main_son_phone_0_2.rpy:30850
 translate zh_Hans son_sissy_ahat_messager02_1_2_70aa3636:
@@ -55254,7 +55254,7 @@ translate zh_Hans son_sissy_ahat_messager02_1_2_70aa3636:
 translate zh_Hans son_sissy_ahat_messager02_1_2_6cf880d4:
 
     # nvlahat "{image=like_icon_text.png}{image=like_icon_text.png}"
-    nvlahat ""
+    nvlahat "{image=like_icon_text.png}{image=like_icon_text.png}"
 
 # new_main_son_phone_0_2.rpy:30854
 translate zh_Hans son_sissy_ahat_messager02_1_2_fe6f3326:
@@ -55350,7 +55350,7 @@ translate zh_Hans son_sissy_ahat_messager02_1_2_c429ab93:
 translate zh_Hans son_sissy_ahat_messager02_1_2_b811d57c:
 
     # nvlahat "{a=show:ah_photo_91}ah_photo_91.png"
-    nvlahat ""
+    nvlahat "{a=show:ah_photo_91}ah_photo_91.png"
 
 # new_main_son_phone_0_2.rpy:30888
 translate zh_Hans son_sissy_ahat_messager02_1_2_31c789b1:
@@ -55890,7 +55890,7 @@ translate zh_Hans son_sissy_ahat_messager02_1_4_0b312ec2:
 translate zh_Hans son_sissy_ahat_messager02_1_4_8076f313:
 
     # nvlsson "{a=show:s_photo_145}s_photo_145.png"
-    nvlsson ""
+    nvlsson "{a=show:s_photo_145}s_photo_145.png"
 
 # new_main_son_phone_0_2.rpy:31122
 translate zh_Hans son_sissy_ahat_messager02_1_4_4929939d:
@@ -56004,7 +56004,7 @@ translate zh_Hans son_sissy_ahat_messager02_1_4_20c3d7e0:
 translate zh_Hans son_sissy_ahat_messager02_1_4_01d6f563:
 
     # nvlsson "{a=show:s_photo_144}s_photo_144.png"
-    nvlsson ""
+    nvlsson "{a=show:s_photo_144}s_photo_144.png"
 
 # new_main_son_phone_0_2.rpy:31162
 translate zh_Hans son_sissy_ahat_messager02_1_4_baf33dae:
@@ -56160,7 +56160,7 @@ translate zh_Hans son_sissy_ahat_messager02_1_5_76b2fe88:
 translate zh_Hans son_sissy_ahat_messager02_1_5_3cfa0a2a:
 
     # nvlahat "{a=show:ah_photo_93}ah_photo_93.png"
-    nvlahat ""
+    nvlahat "{a=show:ah_photo_93}ah_photo_93.png"
 
 # new_main_son_phone_0_2.rpy:31240
 translate zh_Hans son_sissy_ahat_messager02_1_5_7b72efba:
@@ -56430,7 +56430,7 @@ translate zh_Hans son_sissy_ahat_messager02_1_6_449fd7e6:
 translate zh_Hans son_sissy_ahat_messager02_1_6_e391eab3:
 
     # nvlahat "{a=show:ah_photo_97}ah_photo_97.png"
-    nvlahat ""
+    nvlahat "{a=show:ah_photo_97}ah_photo_97.png"
 
 # new_main_son_phone_0_2.rpy:31357
 translate zh_Hans son_sissy_ahat_messager02_1_6_a0b85253:
@@ -56532,7 +56532,7 @@ translate zh_Hans son_sissy_ahat_messager02_1_6_899c0953:
 translate zh_Hans son_sissy_ahat_messager02_1_6_af2269e8:
 
     # nvlsson "{a=show:s_photo_141}s_photo_141.png"
-    nvlsson ""
+    nvlsson "{a=show:s_photo_141}s_photo_141.png"
 
 # new_main_son_phone_0_2.rpy:31393
 translate zh_Hans son_sissy_ahat_messager02_1_6_3eb6663f:
@@ -56580,7 +56580,7 @@ translate zh_Hans son_sissy_ahat_messager02_1_6_cab24578:
 translate zh_Hans son_sissy_ahat_messager02_1_6_2a7d4e15:
 
     # nvlsson "When?"
-    nvlsson "XTAG0X埃德温：XTAG1X什么时候呀？"
+    nvlsson "埃德温：什么时候呀？"
 
 # new_main_son_phone_0_2.rpy:31409
 translate zh_Hans son_sissy_ahat_messager02_1_6_6ba39399:
@@ -56820,7 +56820,7 @@ translate zh_Hans son_sissy_ahat_messager02_1_7_4c58eb32:
 translate zh_Hans son_sissy_ahat_messager02_1_7_d2fc8285:
 
     # nvlsson "{a=show:mikky_128}mikky_128.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_128}mikky_128.png"
 
 # new_main_son_phone_0_2.rpy:31516
 translate zh_Hans son_sissy_ahat_messager02_1_7_bb74e58d:
@@ -56838,7 +56838,7 @@ translate zh_Hans son_sissy_ahat_messager02_1_7_6f3c4ba6:
 translate zh_Hans son_sissy_ahat_messager02_1_7_21a282aa:
 
     # nvlsson "{a=show:mikky_121}mikky_121.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_121}mikky_121.png"
 
 # new_main_son_phone_0_2.rpy:31524
 translate zh_Hans son_sissy_ahat_messager02_1_7_e8d577ca:
@@ -56892,7 +56892,7 @@ translate zh_Hans son_sissy_ahat_messager02_1_7_81a86d25:
 translate zh_Hans son_sissy_ahat_messager02_1_7_67eff6b5:
 
     # nvlsson "{a=show:mikky_149}mikky_149.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_149}mikky_149.png"
 
 # new_main_son_phone_0_2.rpy:31544
 translate zh_Hans son_sissy_ahat_messager02_1_7_571eb1a7:
@@ -57204,7 +57204,7 @@ translate zh_Hans son_sissy_ahat_messager02_1_8_cf6a1ee9:
 translate zh_Hans son_sissy_ahat_messager02_1_8_b70415c7:
 
     # nvlsson "{a=show:mikky_152}mikky_152.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_152}mikky_152.png"
 
 # new_main_son_phone_0_2.rpy:31674
 translate zh_Hans son_sissy_ahat_messager02_1_8_dbc01d18:
@@ -57510,13 +57510,13 @@ translate zh_Hans son_sissy_ahat_messager02_1_9_6e366397:
 translate zh_Hans son_sissy_ahat_messager02_1_9_5af6ab2f:
 
     # nvlahat "Well, it's called \"The Pint\". Do you know it?"
-    nvlahat "大人什么时候回来呀？人家等不及了，好想大人快点回来抱抱人家~"
+    nvlahat "嗯，那家店叫\"The Pint\"。你知道吗？"
 
 # new_main_son_phone_0_2.rpy:31800
 translate zh_Hans son_sissy_ahat_messager02_1_9_f84b61c8:
 
     # nvlsson "There are many \"Pints\" in the city. Which one??"
-    nvlsson "大概两小时。"
+    nvlsson "城里有很多家\"The Pint\"。是哪一家？？"
 
 # new_main_son_phone_0_2.rpy:31802
 translate zh_Hans son_sissy_ahat_messager02_1_9_fd7d602a:
@@ -57570,7 +57570,7 @@ translate zh_Hans son_sissy_ahat_messager02_1_9_1b22e010:
 translate zh_Hans son_sissy_ahat_messager02_1_9_c514b2d9:
 
     # nvlsson "{a=show:mikky_154}mikky_154.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_154}mikky_154.png"
 
 # new_main_son_phone_0_2.rpy:31822
 translate zh_Hans son_sissy_ahat_messager02_1_9_d12030d8:
@@ -58002,7 +58002,7 @@ translate zh_Hans son_sissy_ahat_messager02_1_10_15d29dbe:
 translate zh_Hans son_sissy_ahat_messager02_1_10_c5decb7c:
 
     # nvlahat "{a=show:ah_photo_101}ah_photo_101.png"
-    nvlahat ""
+    nvlahat "{a=show:ah_photo_101}ah_photo_101.png"
 
 # new_main_son_phone_0_2.rpy:31998
 translate zh_Hans son_sissy_ahat_messager02_1_10_efcfeb57:
@@ -58698,7 +58698,7 @@ translate zh_Hans son_sissy_ahat_messager02_1_13_83f9fd35:
 translate zh_Hans son_sissy_ahat_messager02_1_13_4da48c70:
 
     # nvlsson "Thank you {image=smile_emoji.png}"
-    nvlsson "{image=smile_emoji.png}埃德温：XTAG1X谢谢你{image=smile_emoji.png}。"
+    nvlsson "{image=smile_emoji.png}埃德温：谢谢你{image=smile_emoji.png}。"
 
 # new_main_son_phone_0_2.rpy:32307
 translate zh_Hans son_sissy_ahat_messager02_1_13_f830542d:
@@ -58830,13 +58830,13 @@ translate zh_Hans son_sissy_ahat_messager02_1_13_2b16c870:
 translate zh_Hans son_sissy_ahat_messager02_1_13_1262cd2c:
 
     # nvljenna "{a=show:blowjob_pic_5}pic_1835.png"
-    nvljenna ""
+    nvljenna "{a=show:blowjob_pic_5}pic_1835.png"
 
 # new_main_son_phone_0_2.rpy:32351
 translate zh_Hans son_sissy_ahat_messager02_1_13_a805bb58:
 
     # nvljenna "{a=show:blowjob_pic_6}pic_7391.png"
-    nvljenna ""
+    nvljenna "{a=show:blowjob_pic_6}pic_7391.png"
 
 # new_main_son_phone_0_2.rpy:32357
 translate zh_Hans son_sissy_ahat_messager02_1_13_09174af9:
@@ -59088,7 +59088,7 @@ translate zh_Hans son_sissy_ahat_messager02_1_14_10d5d582:
 translate zh_Hans son_sissy_ahat_messager02_1_14_7c6fa204:
 
     # nvlahat "When?"
-    nvlahat "XTAG0X埃德温：XTAG1X什么时候呀？"
+    nvlahat "埃德温：什么时候呀？"
 
 # new_main_son_phone_0_2.rpy:32469
 translate zh_Hans son_sissy_ahat_messager02_1_14_d8d753f5:
@@ -59784,7 +59784,7 @@ translate zh_Hans son_sissy_ahat_messager02_1_17_ce13745f:
 translate zh_Hans son_sissy_ahat_messager02_1_17_a82461a8:
 
     # nvlunknown "{a=show:mikky_video_17}video_293.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:mikky_video_17}video_293.mov"
 
 # new_main_son_phone_0_2.rpy:32780
 translate zh_Hans son_sissy_ahat_messager02_1_17_60bb5741_1:
@@ -61122,7 +61122,7 @@ translate zh_Hans son_sissy_ahat_messager02_1_21_e642e31b:
 translate zh_Hans son_sissy_ahat_messager02_1_21_bbba917f:
 
     # nvljenna "{a=show:jenna_video_12}video_493.mov"
-    nvljenna ""
+    nvljenna "{a=show:jenna_video_12}video_493.mov"
 
 # new_main_son_phone_0_2.rpy:33335
 translate zh_Hans son_sissy_ahat_messager02_1_21_aca1a864:
@@ -61458,7 +61458,7 @@ translate zh_Hans son_sissy_ahat_messager02_1_22_2e614c66:
 translate zh_Hans son_sissy_ahat_messager02_1_22_26a8f121:
 
     # nvlahat "{a=show:bbc_pic_117}pic4512.jpg"
-    nvlahat ""
+    nvlahat "{a=show:bbc_pic_117}pic4512.jpg"
 
 # new_main_son_phone_0_2.rpy:33476
 translate zh_Hans son_sissy_ahat_messager02_1_22_7c67ff6f:
@@ -61704,7 +61704,7 @@ translate zh_Hans son_sissy_ahat_messager02_1_23_2b6b45e5:
 translate zh_Hans son_sissy_ahat_messager02_1_23_641d51a4:
 
     # nvlahat "{a=show:bbc_pic_118}photo_1049.png"
-    nvlahat ""
+    nvlahat "{a=show:bbc_pic_118}photo_1049.png"
 
 # new_main_son_phone_0_2.rpy:33587
 translate zh_Hans son_sissy_ahat_messager02_1_23_e8b54a04:
@@ -61746,7 +61746,7 @@ translate zh_Hans son_sissy_ahat_messager02_1_23_197f4670:
 translate zh_Hans son_sissy_ahat_messager02_1_23_4da48c70:
 
     # nvlsson "Thank you {image=smile_emoji.png}"
-    nvlsson "{image=smile_emoji.png}埃德温：XTAG1X谢谢你{image=smile_emoji.png}。"
+    nvlsson "{image=smile_emoji.png}埃德温：谢谢你{image=smile_emoji.png}。"
 
 # new_main_son_phone_0_2.rpy:33601
 translate zh_Hans son_sissy_ahat_messager02_1_23_bc5483bb:
@@ -61836,7 +61836,7 @@ translate zh_Hans son_sissy_ahat_messager02_1_24_14698399:
 translate zh_Hans son_sissy_ahat_messager02_1_24_4177b1c0:
 
     # nvlahat "{a=show:mikky_video_18}video_449.mov"
-    nvlahat ""
+    nvlahat "{a=show:mikky_video_18}video_449.mov"
 
 # new_main_son_phone_0_2.rpy:33660
 translate zh_Hans son_sissy_ahat_messager02_1_24_03171d6c:
@@ -62280,7 +62280,7 @@ translate zh_Hans son_sissy_ahat_messager02_1_25_e3bf896f:
 translate zh_Hans son_sissy_ahat_messager02_1_25_e49c0272:
 
     # nvlahat "No offence, but I'd like you even more if you were a girl"
-    nvlahat "恕我直言，如果你是个女孩子，爸爸会更爱你，更疼你 XTAG0X"
+    nvlahat "恕我直言，如果你是个女孩子，爸爸会更爱你，更疼你 "
 
 # new_main_son_phone_0_2.rpy:33834
 translate zh_Hans son_sissy_ahat_messager02_1_25_804caa1a:
@@ -62292,7 +62292,7 @@ translate zh_Hans son_sissy_ahat_messager02_1_25_804caa1a:
 translate zh_Hans son_sissy_ahat_messager02_1_25_5220400a:
 
     # nvlsson "We need to wait a little longer, and everything will be fine"
-    nvlsson "我们再耐心等一等，一切都会变得更美好 XTAG0X"
+    nvlsson "我们再耐心等一等，一切都会变得更美好 "
 
 # new_main_son_phone_0_2.rpy:33838
 translate zh_Hans son_sissy_ahat_messager02_1_25_9ad00e87:
@@ -62358,13 +62358,13 @@ translate zh_Hans son_sissy_ahat_messager02_1_25_e2a50103:
 translate zh_Hans son_sissy_ahat_messager02_1_25_81c42c3e:
 
     # nvlsson "Yeeah, I really want to see it"
-    nvlsson "嗯，爸爸当然想看，好想看 XTAG0X"
+    nvlsson "嗯，爸爸当然想看，好想看 "
 
 # new_main_son_phone_0_2.rpy:33860
 translate zh_Hans son_sissy_ahat_messager02_1_25_686f9696:
 
     # nvlahat "{a=show:bbc_pic_119}photo_1073.png"
-    nvlahat ""
+    nvlahat "{a=show:bbc_pic_119}photo_1073.png"
 
 # new_main_son_phone_0_2.rpy:33864
 translate zh_Hans son_sissy_ahat_messager02_1_25_c3171c49:
@@ -62820,7 +62820,7 @@ translate zh_Hans son_greg_messager02_1_1_9d479c43:
 translate zh_Hans son_greg_messager02_1_1_ce0c3b56:
 
     # nvlgreg "{a=show:photo_795}photo_795.png"
-    nvlgreg ""
+    nvlgreg "{a=show:photo_795}photo_795.png"
 
 # new_main_son_phone_0_2.rpy:34119
 translate zh_Hans son_greg_messager02_1_1_e2659e72:
@@ -62850,19 +62850,19 @@ translate zh_Hans son_greg_messager02_1_1_d49ebaee:
 translate zh_Hans son_greg_messager02_1_1_1f8e64c1:
 
     # nvlgreg "{a=show:photo_801}photo_801.png"
-    nvlgreg ""
+    nvlgreg "{a=show:photo_801}photo_801.png"
 
 # new_main_son_phone_0_2.rpy:34133
 translate zh_Hans son_greg_messager02_1_1_604d003b:
 
     # nvlgreg "{a=show:photo_805}photo_805.png"
-    nvlgreg ""
+    nvlgreg "{a=show:photo_805}photo_805.png"
 
 # new_main_son_phone_0_2.rpy:34135
 translate zh_Hans son_greg_messager02_1_1_b9289125:
 
     # nvlgreg "{a=show:photo_807}photo_807.png"
-    nvlgreg ""
+    nvlgreg "{a=show:photo_807}photo_807.png"
 
 # new_main_son_phone_0_2.rpy:34152
 translate zh_Hans son_greg_messager02_1_1_2642bac9:
@@ -62922,31 +62922,31 @@ translate zh_Hans son_greg_messager02_1_1_bee8ceba:
 translate zh_Hans son_greg_messager02_1_1_ffd867e7:
 
     # nvlgreg "{a=show:photo_821}photo_821.png"
-    nvlgreg ""
+    nvlgreg "{a=show:photo_821}photo_821.png"
 
 # new_main_son_phone_0_2.rpy:34177
 translate zh_Hans son_greg_messager02_1_1_d4a7f907:
 
     # nvlgreg "{a=show:photo_826}photo_826.png"
-    nvlgreg ""
+    nvlgreg "{a=show:photo_826}photo_826.png"
 
 # new_main_son_phone_0_2.rpy:34179
 translate zh_Hans son_greg_messager02_1_1_7ff21ca3:
 
     # nvlgreg "{a=show:photo_827}photo_827.png"
-    nvlgreg ""
+    nvlgreg "{a=show:photo_827}photo_827.png"
 
 # new_main_son_phone_0_2.rpy:34181
 translate zh_Hans son_greg_messager02_1_1_7f05a735:
 
     # nvlgreg "{a=show:photo_834}photo_834.png"
-    nvlgreg ""
+    nvlgreg "{a=show:photo_834}photo_834.png"
 
 # new_main_son_phone_0_2.rpy:34183
 translate zh_Hans son_greg_messager02_1_1_73068fcf:
 
     # nvlgreg "{a=show:photo_838}photo_838.png"
-    nvlgreg ""
+    nvlgreg "{a=show:photo_838}photo_838.png"
 
 # new_main_son_phone_0_2.rpy:34204
 translate zh_Hans son_greg_messager02_1_1_ef1cc817:
@@ -63042,7 +63042,7 @@ translate zh_Hans son_greg_messager02_1_1_f3a565f6:
 translate zh_Hans son_greg_messager02_1_1_a957b570:
 
     # nvlgreg "{a=show:photo_843}photo_843.png"
-    nvlgreg ""
+    nvlgreg "{a=show:photo_843}photo_843.png"
 
 # new_main_son_phone_0_2.rpy:34253
 translate zh_Hans son_greg_messager02_1_1_be3e4566:
@@ -63084,7 +63084,7 @@ translate zh_Hans son_greg_messager02_1_1_e251ecd4:
 translate zh_Hans son_greg_messager02_1_1_35e81b8c:
 
     # nvlgreg "And, you know, it was awesome. I mean, my dad was pleased and thanked me for the \"gift\""
-    nvlgreg "而我却像个傻瓜一样信任你。"
+    nvlgreg "而且，你知道吗，那感觉很棒。我的意思是，我爸很高兴，还因为那份\"礼物\"谢了我。"
 
 # new_main_son_phone_0_2.rpy:34273
 translate zh_Hans son_greg_messager02_1_1_968fc640:
@@ -63288,7 +63288,7 @@ translate zh_Hans son_greg_messager02_1_1_cb0a9dc9:
 translate zh_Hans son_greg_messager02_1_1_ff35a9e7:
 
     # nvlgreg "{a=show:photo_22657}black_cat_24.png"
-    nvlgreg ""
+    nvlgreg "{a=show:photo_22657}black_cat_24.png"
 
 # new_main_son_phone_0_2.rpy:34351
 translate zh_Hans son_greg_messager02_1_1_a761e8f1:
@@ -64104,19 +64104,19 @@ translate zh_Hans son_sissy_greg_messager02_1_2_526d4c19:
 translate zh_Hans son_sissy_greg_messager02_1_2_9ff46f92:
 
     # nvlson "{a=show:s_photo_129}s_photo_129.jpg"
-    nvlson ""
+    nvlson "{a=show:s_photo_129}s_photo_129.jpg"
 
 # new_main_son_phone_0_2.rpy:34744
 translate zh_Hans son_sissy_greg_messager02_1_2_d6b29c8a:
 
     # nvlson "{a=show:s_photo_134}s_photo_134.jpg"
-    nvlson ""
+    nvlson "{a=show:s_photo_134}s_photo_134.jpg"
 
 # new_main_son_phone_0_2.rpy:34746
 translate zh_Hans son_sissy_greg_messager02_1_2_5a06db2f:
 
     # nvlson "{a=show:s_photo_124}s_photo_124.jpg"
-    nvlson ""
+    nvlson "{a=show:s_photo_124}s_photo_124.jpg"
 
 # new_main_son_phone_0_2.rpy:34754
 translate zh_Hans son_sissy_greg_messager02_1_2_8446acdb:
@@ -64896,7 +64896,7 @@ translate zh_Hans son_sissy_greg_messager02_1_5_76b2fe88:
 translate zh_Hans son_sissy_greg_messager02_1_5_0f6e214c:
 
     # nvlson "{a=show:mikky_121}mikky_121.png"
-    nvlson ""
+    nvlson "{a=show:mikky_121}mikky_121.png"
 
 # new_main_son_phone_0_2.rpy:35089
 translate zh_Hans son_sissy_greg_messager02_1_5_6dcc5e73:
@@ -64992,7 +64992,7 @@ translate zh_Hans son_sissy_greg_messager02_1_5_89e6ae5d:
 translate zh_Hans son_sissy_greg_messager02_1_5_70ed14e9:
 
     # nvlson "{a=show:mikky_123}mikky_123.png"
-    nvlson ""
+    nvlson "{a=show:mikky_123}mikky_123.png"
 
 # new_main_son_phone_0_2.rpy:35123
 translate zh_Hans son_sissy_greg_messager02_1_5_5b91a766:
@@ -65208,7 +65208,7 @@ translate zh_Hans son_sissy_greg_messager02_1_6_38243c84:
 translate zh_Hans son_sissy_greg_messager02_1_6_08dec492:
 
     # nvlgreg "When?"
-    nvlgreg "XTAG0X埃德温：XTAG1X什么时候呀？"
+    nvlgreg "埃德温：什么时候呀？"
 
 # new_main_son_phone_0_2.rpy:35220
 translate zh_Hans son_sissy_greg_messager02_1_6_ca1e90a3:
@@ -65592,7 +65592,7 @@ translate zh_Hans son_sissy_greg_messager02_1_7_98d023be:
 translate zh_Hans son_sissy_greg_messager02_1_7_b8bb344a:
 
     # nvlson "{a=show:mikky_128}mikky_128.png"
-    nvlson ""
+    nvlson "{a=show:mikky_128}mikky_128.png"
 
 # new_main_son_phone_0_2.rpy:35375
 translate zh_Hans son_sissy_greg_messager02_1_7_cd4549c9:
@@ -65880,7 +65880,7 @@ translate zh_Hans son_sissy_greg_messager02_1_8_f025e16c:
 translate zh_Hans son_sissy_greg_messager02_1_8_2e6cd0e8:
 
     # nvlsson "Well, to be honest, I haven't thought about it yey"
-    nvlsson "嗯……说实话，人家还没来得及细想呢 XTAG0X"
+    nvlsson "嗯……说实话，人家还没来得及细想呢 "
 
 # new_main_son_phone_0_2.rpy:35493
 translate zh_Hans son_sissy_greg_messager02_1_8_131509c8:
@@ -66222,7 +66222,7 @@ translate zh_Hans son_sissy_greg_messager02_1_9_44aae90f:
 translate zh_Hans son_sissy_greg_messager02_1_9_64288779:
 
     # nvlsson "{a=show:mikky_131}mikky_131.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_131}mikky_131.png"
 
 # new_main_son_phone_0_2.rpy:35634
 translate zh_Hans son_sissy_greg_messager02_1_9_efddb0ea:
@@ -66570,7 +66570,7 @@ translate zh_Hans son_sissy_greg_messager02_1_10_86c5d6df:
 translate zh_Hans son_sissy_greg_messager02_1_10_d04c6dfe:
 
     # nvlsson "{a=show:mikky_137}mikky_137.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_137}mikky_137.png"
 
 # new_main_son_phone_0_2.rpy:35781
 translate zh_Hans son_sissy_greg_messager02_1_10_1b6ab9cd:
@@ -68016,7 +68016,7 @@ translate zh_Hans son_sissy_greg_messager02_1_12_f2ee1af2:
 translate zh_Hans son_sissy_greg_messager02_1_12_d094f813:
 
     # nvlsson "{a=show:mikky_144}mikky_144.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_144}mikky_144.png"
 
 # new_main_son_phone_0_2.rpy:36394
 translate zh_Hans son_sissy_greg_messager02_1_12_6e1b71fb:
@@ -68712,7 +68712,7 @@ translate zh_Hans son_sissy_greg_messager02_1_13_7288b2e4:
 translate zh_Hans son_sissy_greg_messager02_1_13_4da48c70:
 
     # nvlsson "Thank you {image=smile_emoji.png}"
-    nvlsson "{image=smile_emoji.png}埃德温：XTAG1X谢谢你{image=smile_emoji.png}。"
+    nvlsson "{image=smile_emoji.png}埃德温：谢谢你{image=smile_emoji.png}。"
 
 # new_main_son_phone_0_2.rpy:36701
 translate zh_Hans son_sissy_greg_messager02_1_13_1f728b4f:
@@ -68724,13 +68724,13 @@ translate zh_Hans son_sissy_greg_messager02_1_13_1f728b4f:
 translate zh_Hans son_sissy_greg_messager02_1_13_7600bd37:
 
     # nvlgreg "{a=show:mikky_video_124}mikky_video_124.jpg"
-    nvlgreg ""
+    nvlgreg "{a=show:mikky_video_124}mikky_video_124.jpg"
 
 # new_main_son_phone_0_2.rpy:36705
 translate zh_Hans son_sissy_greg_messager02_1_13_2c591a08:
 
     # nvlgreg "{a=show:mikky_video_127}mikky_video_127.jpg"
-    nvlgreg ""
+    nvlgreg "{a=show:mikky_video_127}mikky_video_127.jpg"
 
 # new_main_son_phone_0_2.rpy:36711
 translate zh_Hans son_sissy_greg_messager02_1_13_1dac9622:
@@ -68760,7 +68760,7 @@ translate zh_Hans son_sissy_greg_messager02_1_13_629317af:
 translate zh_Hans son_sissy_greg_messager02_1_13_4da48c70_1:
 
     # nvlsson "Thank you {image=smile_emoji.png}"
-    nvlsson "{image=smile_emoji.png}埃德温：XTAG1X谢谢你{image=smile_emoji.png}。"
+    nvlsson "{image=smile_emoji.png}埃德温：谢谢你{image=smile_emoji.png}。"
 
 # new_main_son_phone_0_2.rpy:36721
 translate zh_Hans son_sissy_greg_messager02_1_13_d98a768d:
@@ -69228,7 +69228,7 @@ translate zh_Hans son_sissy_greg_messager02_1_14_ad7fa369:
 translate zh_Hans son_sissy_greg_messager02_1_14_82692e58:
 
     # nvlsson "{a=show:mikky_pic_20}photo_590.png"
-    nvlsson ""
+    nvlsson "{a=show:mikky_pic_20}photo_590.png"
 
 # new_main_son_phone_0_2.rpy:36905
 translate zh_Hans son_sissy_greg_messager02_1_14_a44003e5:
@@ -69342,7 +69342,7 @@ translate zh_Hans son_sissy_greg_messager02_1_15_1b140d9c:
 translate zh_Hans son_sissy_greg_messager02_1_15_9f6fa047:
 
     # nvlsson "You haven't changed your mind about our date today, have you?"
-    nvlsson "你今天没有改变主意，不和人家约会了吧？XTAG0X"
+    nvlsson "你今天没有改变主意，不和人家约会了吧？"
 
 # new_main_son_phone_0_2.rpy:36968
 translate zh_Hans son_sissy_greg_messager02_1_15_108e9a75:
@@ -69420,7 +69420,7 @@ translate zh_Hans son_sissy_greg_messager02_1_15_28170a17:
 translate zh_Hans son_sissy_greg_messager02_1_15_1c9915f1:
 
     # nvlgreg "{a=show:el_pic_32}photo_373.png"
-    nvlgreg ""
+    nvlgreg "{a=show:el_pic_32}photo_373.png"
 
 # new_main_son_phone_0_2.rpy:36996
 translate zh_Hans son_sissy_greg_messager02_1_15_c3171c49:
@@ -69636,7 +69636,7 @@ translate zh_Hans son_sissy_greg_messager02_1_16_4b8159da:
 translate zh_Hans son_sissy_greg_messager02_1_16_0d37e9f1:
 
     # nvlgreg "{a=show:mikky_video_13}video_108.mov"
-    nvlgreg ""
+    nvlgreg "{a=show:mikky_video_13}video_108.mov"
 
 # new_main_son_phone_0_2.rpy:37095
 translate zh_Hans son_sissy_greg_messager02_1_16_b32a7acc:
@@ -70572,7 +70572,7 @@ translate zh_Hans son_sissy_greg_messager02_1_19_b4b9570e:
 translate zh_Hans son_sissy_greg_messager02_1_19_556955ee:
 
     # nvlgreg "{a=show:mikky_video_14}video_131.mov"
-    nvlgreg ""
+    nvlgreg "{a=show:mikky_video_14}video_131.mov"
 
 # new_main_son_phone_0_2.rpy:37485
 translate zh_Hans son_sissy_greg_messager02_1_19_5ae81752:
@@ -71334,19 +71334,19 @@ translate zh_Hans son_sissy_greg_messager02_1_20_7008ec60:
 translate zh_Hans son_sissy_greg_messager02_1_20_37364d14:
 
     # nvljenna "{a=show:shemale_pic_1}pic_3731.png"
-    nvljenna ""
+    nvljenna "{a=show:shemale_pic_1}pic_3731.png"
 
 # new_main_son_phone_0_2.rpy:37764
 translate zh_Hans son_sissy_greg_messager02_1_20_b2a064c8:
 
     # nvljenna "{a=show:shemale_pic_2}pic_465.png"
-    nvljenna ""
+    nvljenna "{a=show:shemale_pic_2}pic_465.png"
 
 # new_main_son_phone_0_2.rpy:37766
 translate zh_Hans son_sissy_greg_messager02_1_20_763e8fc0:
 
     # nvljenna "{a=show:shemale_pic_3}pic_803.png"
-    nvljenna ""
+    nvljenna "{a=show:shemale_pic_3}pic_803.png"
 
 # new_main_son_phone_0_2.rpy:37774
 translate zh_Hans son_sissy_greg_messager02_1_20_bc199579:
@@ -71442,7 +71442,7 @@ translate zh_Hans son_sissy_greg_messager02_1_20_6b6db01c:
 translate zh_Hans son_sissy_greg_messager02_1_20_5a22fef4:
 
     # nvljenna "{a=show:shemale_pic_4}pic_9727.png"
-    nvljenna ""
+    nvljenna "{a=show:shemale_pic_4}pic_9727.png"
 
 # new_main_son_phone_0_2.rpy:37808
 translate zh_Hans son_sissy_greg_messager02_1_20_e1897f71:
@@ -72114,7 +72114,7 @@ translate zh_Hans son_sissy_greg_messager02_1_24_0108bc88:
 translate zh_Hans son_sissy_greg_messager02_1_24_c222e3ae:
 
     # nvljenna "{a=show:shemale_pic_9}pic_729.png"
-    nvljenna ""
+    nvljenna "{a=show:shemale_pic_9}pic_729.png"
 
 # new_main_son_phone_0_2.rpy:38134
 translate zh_Hans son_sissy_greg_messager02_1_24_d381cb56:
@@ -74256,7 +74256,7 @@ translate zh_Hans son_sissy_greg_messager02_1_33_8976723d:
 translate zh_Hans son_sissy_greg_messager02_1_33_e353246b:
 
     # nvlgreg "{a=show:mikky_pic_68}photo_618.png"
-    nvlgreg ""
+    nvlgreg "{a=show:mikky_pic_68}photo_618.png"
 
 # new_main_son_phone_0_2.rpy:39120
 translate zh_Hans son_sissy_greg_messager02_1_33_1905e761:
@@ -74844,7 +74844,7 @@ translate zh_Hans son_kirely_messager02_1_2_9e404c69:
 translate zh_Hans son_kirely_messager02_1_2_117824eb:
 
     # nvlkirely "{a=show:kirely_photo_143}kirely_photo_143.png"
-    nvlkirely ""
+    nvlkirely "{a=show:kirely_photo_143}kirely_photo_143.png"
 
 # new_main_son_phone_0_2.rpy:39409
 translate zh_Hans son_kirely_messager02_1_2_9f57526d:

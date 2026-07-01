@@ -1660,7 +1660,7 @@ translate zh_Hans choose_the_target_0_15_fee8457e:
 translate zh_Hans choose_the_target_0_15_844bfc8d:
 
     # nvlgreg "{a=show:photo_762}photo_762.png"
-    nvlgreg ""
+    nvlgreg "{a=show:photo_762}photo_762.png"
 
 # wifespy.rpy:1141
 translate zh_Hans choose_the_target_0_15_98fe7fc9:
@@ -1678,7 +1678,7 @@ translate zh_Hans choose_the_target_0_15_1dd2509d:
 translate zh_Hans choose_the_target_0_15_51eaf45a:
 
     # nvlgreg "{a=show:photo_737}photo_737.png"
-    nvlgreg ""
+    nvlgreg "{a=show:photo_737}photo_737.png"
 
 # wifespy.rpy:1155
 translate zh_Hans choose_the_target_0_15_7b654cdc:
@@ -1804,19 +1804,19 @@ translate zh_Hans choose_the_target_0_15_8e422f84:
 translate zh_Hans choose_the_target_0_15_daa19d98:
 
     # nvlkirely "{a=show:cosplay_photo_105}cosplay_photo_105.png"
-    nvlkirely ""
+    nvlkirely "{a=show:cosplay_photo_105}cosplay_photo_105.png"
 
 # wifespy.rpy:1213
 translate zh_Hans choose_the_target_0_15_2c6a0bbb:
 
     # nvlkirely "{a=show:cosplay_photo_106}cosplay_photo_106.png"
-    nvlkirely ""
+    nvlkirely "{a=show:cosplay_photo_106}cosplay_photo_106.png"
 
 # wifespy.rpy:1215
 translate zh_Hans choose_the_target_0_15_270dedda:
 
     # nvlkirely "{a=show:cosplay_photo_107}cosplay_photo_107.png"
-    nvlkirely ""
+    nvlkirely "{a=show:cosplay_photo_107}cosplay_photo_107.png"
 
 # wifespy.rpy:1237
 translate zh_Hans choose_the_target_0_15_40252075:
@@ -1852,7 +1852,7 @@ translate zh_Hans choose_the_target_0_15_a32c29e1:
 translate zh_Hans choose_the_target_0_15_83d460e0:
 
     # nvlkirely "{a=show:cosplay_photo_114}cosplay_photo_114.png"
-    nvlkirely ""
+    nvlkirely "{a=show:cosplay_photo_114}cosplay_photo_114.png"
 
 # wifespy.rpy:1269
 translate zh_Hans choose_the_target_0_15_4bdcd175:
@@ -2446,7 +2446,7 @@ translate zh_Hans choose_the_target_0_15_90e220fe:
 translate zh_Hans choose_the_target_0_15_ace6cc02:
 
     # nvlwsis "{a=show:photo_337}photo_337.png"
-    nvlwsis ""
+    nvlwsis "{a=show:photo_337}photo_337.png"
 
 # wifespy.rpy:1613
 translate zh_Hans choose_the_target_0_15_bf4ed245:
@@ -2500,7 +2500,7 @@ translate zh_Hans choose_the_target_0_15_f443678e:
 translate zh_Hans choose_the_target_0_15_dfde59ce:
 
     # nvlsteph "{a=show:photo_102}photo_102.png"
-    nvlsteph ""
+    nvlsteph "{a=show:photo_102}photo_102.png"
 
 # wifespy.rpy:1641
 translate zh_Hans choose_the_target_0_15_65dea567:

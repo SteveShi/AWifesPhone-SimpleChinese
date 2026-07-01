@@ -40328,7 +40328,7 @@ translate zh_Hans mc_alpha_storyline_298_1c9dd46d:
 translate zh_Hans mc_alpha_storyline_298_ef056639:
 
     # nvljohn "Then I’ll text you when I have time."
-    nvljohn "那等我下面发情了，就给你发信息。"
+    nvljohn "那等我有时间了，就给你发信息。"
 
 # game/scripts/dialogues/mc_alpha/mc_alpha_storyline.rpy:20914
 translate zh_Hans mc_alpha_storyline_298_55462835:

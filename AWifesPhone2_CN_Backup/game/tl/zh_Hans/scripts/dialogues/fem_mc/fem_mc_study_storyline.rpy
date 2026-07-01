@@ -3686,7 +3686,7 @@ translate zh_Hans fem_mc_study_storyline_7_786d9424:
 translate zh_Hans fem_mc_study_storyline_7_53bb1c5c:
 
     # nvljenna "It's not up to you to decide what she needs to know and what she doesn't"
-    nvljenna "我希望你女儿和她妈妈一起享受充满黑鸡巴的生活"
+    nvljenna "我希望你女儿和她妈妈一起沉溺在那些男人带来的生活里"
 
 # game/scripts/dialogues/fem_mc/fem_mc_study_storyline.rpy:1620
 translate zh_Hans fem_mc_study_storyline_7_3c473072:

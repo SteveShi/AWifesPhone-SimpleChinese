@@ -15280,7 +15280,7 @@ translate zh_Hans wsis_steph_storyline_90_385a1d3e:
 translate zh_Hans wsis_steph_storyline_90_5e5f93c7:
 
     # nvlwsis "I’ll be there."
-    nvlwsis "我他妈的会去的。"
+    nvlwsis "我会去的。"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:6933
 translate zh_Hans wsis_steph_storyline_90_53c71d7c:
@@ -17200,7 +17200,7 @@ translate zh_Hans wsis_steph_storyline_106_285e42b8:
 translate zh_Hans wsis_steph_storyline_106_d76934df:
 
     # nvlwife "There’s an app called *M&F*."
-    nvlwife "有个叫 *M&F* 的骚浪APP。"
+    nvlwife "有个叫 *M&F* 的应用。"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:8087
 translate zh_Hans wsis_steph_storyline_106_9199ecbb:
@@ -18702,7 +18702,7 @@ translate zh_Hans wsis_steph_storyline_117_94da8f42:
 translate zh_Hans wsis_steph_storyline_117_ddd68e99:
 
     # nvlwsis "Started asking how I could be using an app to find strangers."
-    nvlwsis "开始质问我怎么能用约炮软件找陌生男人来干。"
+    nvlwsis "开始质问我怎么能用应用去找陌生人。"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:8966
 translate zh_Hans wsis_steph_storyline_117_5a64ac49:
@@ -19060,7 +19060,7 @@ translate zh_Hans wsis_steph_storyline_119_925b7501:
 translate zh_Hans wsis_steph_storyline_119_f8bbe2a7:
 
     # nvlwsis "He completely flipped out, saying I was crazy for looking for guys on apps."
-    nvlwsis "他彻底炸毛了，说我疯了才会用约炮软件找男人。"
+    nvlwsis "他彻底炸毛了，说我疯了才会用应用去找男人。"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:9146
 translate zh_Hans wsis_steph_storyline_119_37d351e3:
@@ -19180,7 +19180,7 @@ translate zh_Hans wsis_steph_storyline_119_ec306496:
 translate zh_Hans wsis_steph_storyline_119_95beab50:
 
     # nvlwsis "I’ll be ready."
-    nvlwsis "我会把骚穴准备好的。"
+    nvlwsis "我会准备好的。"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:9186
 translate zh_Hans wsis_steph_storyline_119_13957727:
@@ -19704,7 +19704,7 @@ translate zh_Hans wsis_steph_storyline_123_1567c37d:
 translate zh_Hans wsis_steph_storyline_123_4722b12c:
 
     # nvlwsis "OMG! You’re insane! 😂"
-    nvlwsis "我的天哪！你真是个小骚货！😂"
+    nvlwsis "我的天哪！你真疯！😂"
 
 # game/scripts/dialogues/wsis/wsis_steph_storyline.rpy:9492
 translate zh_Hans wsis_steph_storyline_123_019846cd:

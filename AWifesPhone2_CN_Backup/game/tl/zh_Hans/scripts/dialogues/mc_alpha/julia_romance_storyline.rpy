@@ -7578,7 +7578,7 @@ translate zh_Hans julia_romance_storyline_30_36b18836:
 translate zh_Hans julia_romance_storyline_30_05dff7af:
 
     # nvljulia "Can we hang out soon?"
-    nvljulia "我们能快点儿约炮吗？"
+    nvljulia "我们能尽快见面吗？"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:3728
 translate zh_Hans julia_romance_storyline_30_bb729028:
@@ -8122,7 +8122,7 @@ translate zh_Hans julia_romance_storyline_32_5a21adeb:
 translate zh_Hans julia_romance_storyline_32_2c53325e:
 
     # nvljulia "When can we hang out again?"
-    nvljulia "我们什么时候能再约炮？"
+    nvljulia "我们什么时候能再见面？"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:3992
 translate zh_Hans julia_romance_storyline_32_60c70e67:
@@ -9236,7 +9236,7 @@ translate zh_Hans julia_romance_storyline_40_ca3f28c9:
 translate zh_Hans julia_romance_storyline_40_e0b53842:
 
     # nvlwsis "You and my daughter... it’s wrong in every possible way."
-    nvlwsis "你和我女儿……这他妈的怎么看都是错的！"
+    nvlwsis "你和我女儿……怎么看都是错的。"
 
 # game/scripts/dialogues/mc_alpha/julia_romance_storyline.rpy:4658
 translate zh_Hans julia_romance_storyline_40_814c98e9:

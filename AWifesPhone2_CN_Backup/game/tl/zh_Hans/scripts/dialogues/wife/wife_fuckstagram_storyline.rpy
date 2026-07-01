@@ -1856,7 +1856,7 @@ translate zh_Hans wife_fuckstagram_storyline_4_05018590:
 translate zh_Hans wife_fuckstagram_storyline_4_deaab63f:
 
     # nvlwife "You want to meet tonight?"
-    nvlwife "你今晚想跟我约炮吗？"
+    nvlwife "你今晚想见我吗？"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:883
 translate zh_Hans wife_fuckstagram_storyline_4_5d05cdd3:
@@ -3184,7 +3184,7 @@ translate zh_Hans wife_fuckstagram_storyline_8_8e120eda:
 translate zh_Hans wife_fuckstagram_storyline_8_643ed44e:
 
     # nvlwife "Sometimes I meet people too"
-    nvlwife "有时我也会约炮。"
+    nvlwife "有时我也会见别人。"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:1506
 translate zh_Hans wife_fuckstagram_storyline_8_8c5351dd:
@@ -3496,7 +3496,7 @@ translate zh_Hans wife_fuckstagram_storyline_8_c3378ce6:
 translate zh_Hans wife_fuckstagram_storyline_8_788d1872:
 
     # nvlwife "Maybe we can meet this weekend"
-    nvlwife "也许我们这周末可以约炮。"
+    nvlwife "也许我们这周末可以见面。"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:1624
 translate zh_Hans wife_fuckstagram_storyline_8_634631a1:
@@ -4024,7 +4024,7 @@ translate zh_Hans wife_fuckstagram_storyline_11_dd15d49a:
 translate zh_Hans wife_fuckstagram_storyline_11_c51eb425:
 
     # nvlwife "I just don't want to meet anyone right now"
-    nvlwife "我现在不想约炮。"
+    nvlwife "我现在不想见任何人。"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:1906
 translate zh_Hans wife_fuckstagram_storyline_11_d4666617:
@@ -4446,7 +4446,7 @@ translate zh_Hans wife_fuckstagram_storyline_12_e63c4543:
 translate zh_Hans wife_fuckstagram_storyline_12_bf1a858f:
 
     # nvlwife "Alright, I'll be ready"
-    nvlwife "好的，我一定把自己弄得湿透透的，等你来操。"
+    nvlwife "好的，我会准备好的。"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:2091
 translate zh_Hans wife_fuckstagram_storyline_12_0f66dde8:
@@ -5924,7 +5924,7 @@ translate zh_Hans wife_fuckstagram_storyline_16_84a23b3f:
 translate zh_Hans wife_fuckstagram_storyline_16_ca575046:
 
     # nvlwife "No, I'll come to your place 😊"
-    nvlwife "不，我会去你那里，把我的骚穴献给你😊"
+    nvlwife "不，我会去你那里😊"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:2758
 translate zh_Hans wife_fuckstagram_storyline_16_f3542b99:
@@ -8140,7 +8140,7 @@ translate zh_Hans wife_fuckstagram_storyline_20_368507db:
 translate zh_Hans wife_fuckstagram_storyline_20_98c43421:
 
     # nvlwife "To hook up with you?"
-    nvlwife "想跟你约炮？"
+    nvlwife "想和你见面？"
 
 # game/scripts/dialogues/wife/wife_fuckstagram_storyline.rpy:3666
 translate zh_Hans wife_fuckstagram_storyline_20_18031218:

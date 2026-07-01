@@ -43652,7 +43652,7 @@ translate zh_Hans femdom_storyline_131_daa06b71:
 translate zh_Hans femdom_storyline_131_49b9f965:
 
     # nvljohn "Seeing you so turned on... it does something to me."
-    nvljohn "看到你那么**浪**……我下面也跟着硬了。"
+    nvljohn "看到你那么投入……我也有反应了。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:21342
 translate zh_Hans femdom_storyline_131_e1b97243:
@@ -44194,7 +44194,7 @@ translate zh_Hans femdom_storyline_135_c49d140f:
 translate zh_Hans femdom_storyline_135_eeb021c5:
 
     # nvljohn "I’m not sure how I feel about the mask, but I’m open."
-    nvljohn "我不太确定自己对面具的看法，但我随时可以被你开发。"
+    nvljohn "我不太确定自己对面具的看法，但我愿意试试。"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:21658
 translate zh_Hans femdom_storyline_135_9a8e6975:
@@ -63864,7 +63864,7 @@ translate zh_Hans femdom_storyline_253_95956219:
 translate zh_Hans femdom_storyline_253_40241bc4:
 
     # nvlwsis "Then I’ll be waiting for you. ❤️"
-    nvlwsis "那我就乖乖等你来操了。❤️"
+    nvlwsis "那我就等你来。❤️"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:32727
 translate zh_Hans femdom_storyline_253_53c71d7c:
@@ -78120,7 +78120,7 @@ translate zh_Hans femdom_storyline_1049_95956219:
 translate zh_Hans femdom_storyline_1049_40241bc4:
 
     # nvlwsis "Then I’ll be waiting for you. ❤️"
-    nvlwsis "那我就乖乖等你来操了。❤️"
+    nvlwsis "那我就等你来。❤️"
 
 # game/scripts/dialogues/wife/femdom_storyline.rpy:40864
 translate zh_Hans femdom_storyline_1049_53c71d7c:

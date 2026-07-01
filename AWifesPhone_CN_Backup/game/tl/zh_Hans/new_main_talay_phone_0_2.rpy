@@ -178,7 +178,7 @@ translate zh_Hans talay_salim_messager02_1_1_0ab96238:
 translate zh_Hans talay_salim_messager02_1_1_1e0572a3:
 
     # nvltalay "{a=show:taly_photo_602}taly_photo_602.png"
-    nvltalay ""
+    nvltalay "{a=show:taly_photo_602}taly_photo_602.png"
 
 # new_main_talay_phone_0_2.rpy:2156
 translate zh_Hans talay_salim_messager02_1_1_fb911b2d:
@@ -268,13 +268,13 @@ translate zh_Hans talay_salim_messager02_1_1_d301d0ac:
 translate zh_Hans talay_salim_messager02_1_1_7bae7f9d:
 
     # nvltalay "{a=show:taly_photo_603}taly_photo_603.png"
-    nvltalay ""
+    nvltalay "{a=show:taly_photo_603}taly_photo_603.png"
 
 # new_main_talay_phone_0_2.rpy:2186
 translate zh_Hans talay_salim_messager02_1_1_19362680:
 
     # nvltalay "{a=show:taly_photo_604}taly_photo_604.png"
-    nvltalay ""
+    nvltalay "{a=show:taly_photo_604}taly_photo_604.png"
 
 # new_main_talay_phone_0_2.rpy:2192
 translate zh_Hans talay_salim_messager02_1_1_b1b0a5c1:
@@ -622,7 +622,7 @@ translate zh_Hans talay_salim_messager02_1_2_86cef9ff:
 translate zh_Hans talay_salim_messager02_1_2_1c7ab2fb:
 
     # nvltalay "{a=show:taly_photo_611}taly_photo_611.png"
-    nvltalay ""
+    nvltalay "{a=show:taly_photo_611}taly_photo_611.png"
 
 # new_main_talay_phone_0_2.rpy:2334
 translate zh_Hans talay_salim_messager02_1_2_86c312bf:
@@ -904,13 +904,13 @@ translate zh_Hans talay_salim_messager02_1_4_e85eea2d:
 translate zh_Hans talay_salim_messager02_1_4_66545328:
 
     # nvltalay "{a=show:taly_photo_651}taly_photo_651.jpg"
-    nvltalay ""
+    nvltalay "{a=show:taly_photo_651}taly_photo_651.jpg"
 
 # new_main_talay_phone_0_2.rpy:2452
 translate zh_Hans talay_salim_messager02_1_4_797d5e9f:
 
     # nvltalay "{a=show:taly_photo_652}taly_photo_652.jpg"
-    nvltalay ""
+    nvltalay "{a=show:taly_photo_652}taly_photo_652.jpg"
 
 # new_main_talay_phone_0_2.rpy:2458
 translate zh_Hans talay_salim_messager02_1_4_cc72b115:
@@ -2614,7 +2614,7 @@ translate zh_Hans talay_cecilia_messager02_1_2_9526d766:
 translate zh_Hans talay_cecilia_messager02_1_2_394e9d8f:
 
     # nvlcecilia "{a=show:lia_photo_1033}lia_photo_1033.png"
-    nvlcecilia ""
+    nvlcecilia "{a=show:lia_photo_1033}lia_photo_1033.png"
 
 # new_main_talay_phone_0_2.rpy:3338
 translate zh_Hans talay_cecilia_messager02_1_2_d7da36e9:
@@ -3028,7 +3028,7 @@ translate zh_Hans talay_cecilia_messager02_1_3_e4be00fc:
 translate zh_Hans talay_cecilia_messager02_1_3_b18ae8bf:
 
     # nvlcecilia "{a=show:lia_photo_501}lia_photo_501.png"
-    nvlcecilia ""
+    nvlcecilia "{a=show:lia_photo_501}lia_photo_501.png"
 
 # new_main_talay_phone_0_2.rpy:3503
 translate zh_Hans talay_cecilia_messager02_1_3_cb6da45d:
@@ -3664,7 +3664,7 @@ translate zh_Hans talay_salim_messager02_1_5_b127f205:
 translate zh_Hans talay_salim_messager02_1_5_cdc12658:
 
     # nvltalay "{a=show:taly_photo_665}taly_photo_665.jpg"
-    nvltalay ""
+    nvltalay "{a=show:taly_photo_665}taly_photo_665.jpg"
 
 # new_main_talay_phone_0_2.rpy:3770
 translate zh_Hans talay_salim_messager02_1_5_b013024f:
@@ -3772,7 +3772,7 @@ translate zh_Hans talay_cecilia_messager02_1_4_fa6359c7:
 translate zh_Hans talay_cecilia_messager02_1_4_59aba509:
 
     # nvlcecilia "{a=show:lia_photo_1005}lia_photo_1005.png"
-    nvlcecilia ""
+    nvlcecilia "{a=show:lia_photo_1005}lia_photo_1005.png"
 
 # new_main_talay_phone_0_2.rpy:3858
 translate zh_Hans talay_cecilia_messager02_1_4_10606527:
@@ -3796,7 +3796,7 @@ translate zh_Hans talay_cecilia_messager02_1_4_a89f2ed1:
 translate zh_Hans talay_cecilia_messager02_1_4_9848e9f3:
 
     # nvlcecilia "{a=show:lia_photo_1045}lia_photo_1045.png"
-    nvlcecilia ""
+    nvlcecilia "{a=show:lia_photo_1045}lia_photo_1045.png"
 
 # new_main_talay_phone_0_2.rpy:3868
 translate zh_Hans talay_cecilia_messager02_1_4_b380f362:
@@ -4126,7 +4126,7 @@ translate zh_Hans talay_cecilia_messager02_1_5_2abecaf0:
 translate zh_Hans talay_cecilia_messager02_1_5_3264f1b3:
 
     # nvltalay "{a=show:taly_photo_452}taly_photo_452.png"
-    nvltalay ""
+    nvltalay "{a=show:taly_photo_452}taly_photo_452.png"
 
 # new_main_talay_phone_0_2.rpy:4019
 translate zh_Hans talay_cecilia_messager02_1_5_45ef3ce7:
@@ -4348,7 +4348,7 @@ translate zh_Hans talay_cecilia_messager02_1_6_b26ab5a3:
 translate zh_Hans talay_cecilia_messager02_1_6_a540c8c6:
 
     # nvlcecilia "{a=show:lia_photo_1049}lia_photo_1049.png"
-    nvlcecilia ""
+    nvlcecilia "{a=show:lia_photo_1049}lia_photo_1049.png"
 
 # new_main_talay_phone_0_2.rpy:4121
 translate zh_Hans talay_cecilia_messager02_1_6_a2ba142c:
@@ -5434,13 +5434,13 @@ translate zh_Hans talay_cecilia_messager02_1_9_763d9e71:
 translate zh_Hans talay_cecilia_messager02_1_9_d814e625:
 
     # nvlcecilia "{a=show:lia_photo_1338}lia_photo_1338.png"
-    nvlcecilia ""
+    nvlcecilia "{a=show:lia_photo_1338}lia_photo_1338.png"
 
 # new_main_talay_phone_0_2.rpy:4635
 translate zh_Hans talay_cecilia_messager02_1_9_b18ae8bf:
 
     # nvlcecilia "{a=show:lia_photo_501}lia_photo_501.png"
-    nvlcecilia ""
+    nvlcecilia "{a=show:lia_photo_501}lia_photo_501.png"
 
 # new_main_talay_phone_0_2.rpy:4641
 translate zh_Hans talay_cecilia_messager02_1_9_4fc7170c:
@@ -5956,7 +5956,7 @@ translate zh_Hans talay_cecilia_messager02_1_10_a740861b:
 translate zh_Hans talay_cecilia_messager02_1_10_79c4e4f0:
 
     # nvlcecilia "{a=show:benj_photo_133}benj_photo_133.png"
-    nvlcecilia ""
+    nvlcecilia "{a=show:benj_photo_133}benj_photo_133.png"
 
 # new_main_talay_phone_0_2.rpy:4858
 translate zh_Hans talay_cecilia_messager02_1_10_34f5c817:
@@ -6304,7 +6304,7 @@ translate zh_Hans talay_cecilia_messager02_1_11_8dbaa70b:
 translate zh_Hans talay_cecilia_messager02_1_11_b1cd5879:
 
     # nvlcecilia "{a=show:lia_video_409}lia_video_409.mov"
-    nvlcecilia ""
+    nvlcecilia "{a=show:lia_video_409}lia_video_409.mov"
 
 # new_main_talay_phone_0_2.rpy:5001
 translate zh_Hans talay_cecilia_messager02_1_11_085efab1:
@@ -6970,13 +6970,13 @@ translate zh_Hans talay_cecilia_messager02_1_13_003f628b:
 translate zh_Hans talay_cecilia_messager02_1_13_e83ba6e7:
 
     # nvlcecilia "{a=show:benj_video_41}benj_video_41.mov"
-    nvlcecilia ""
+    nvlcecilia "{a=show:benj_video_41}benj_video_41.mov"
 
 # new_main_talay_phone_0_2.rpy:5288
 translate zh_Hans talay_cecilia_messager02_1_13_fba23760:
 
     # nvlcecilia "{a=show:benj_video_43}benj_video_43.mov"
-    nvlcecilia ""
+    nvlcecilia "{a=show:benj_video_43}benj_video_43.mov"
 
 # new_main_talay_phone_0_2.rpy:5294
 translate zh_Hans talay_cecilia_messager02_1_13_3da28334:
@@ -7564,7 +7564,7 @@ translate zh_Hans talay_cecilia_messager02_1_15_e4882219:
 translate zh_Hans talay_cecilia_messager02_1_15_a2231ad8:
 
     # nvlcecilia "{a=show:lia_photo_1351}lia_photo_1351.png"
-    nvlcecilia ""
+    nvlcecilia "{a=show:lia_photo_1351}lia_photo_1351.png"
 
 # new_main_talay_phone_0_2.rpy:5557
 translate zh_Hans talay_cecilia_messager02_1_15_dd67534d:
@@ -7882,7 +7882,7 @@ translate zh_Hans talay_cecilia_messager02_1_16_9453d5e2:
 translate zh_Hans talay_cecilia_messager02_1_16_f1dd34eb:
 
     # nvlcecilia "{a=show:lia_photo_1354}lia_photo_1354.png"
-    nvlcecilia ""
+    nvlcecilia "{a=show:lia_photo_1354}lia_photo_1354.png"
 
 # new_main_talay_phone_0_2.rpy:5697
 translate zh_Hans talay_cecilia_messager02_1_16_b52fd96c:
@@ -8008,7 +8008,7 @@ translate zh_Hans talay_cecilia_messager02_1_16_ce37828d:
 translate zh_Hans talay_cecilia_messager02_1_16_a66e3ba0:
 
     # nvltalay "{a=show:taly_photo_653}taly_photo_653.png"
-    nvltalay ""
+    nvltalay "{a=show:taly_photo_653}taly_photo_653.png"
 
 # new_main_talay_phone_0_2.rpy:5741
 translate zh_Hans talay_cecilia_messager02_1_16_e3777f6d:
@@ -8398,7 +8398,7 @@ translate zh_Hans talay_benjamin_messager02_1_1_e70b7ae7:
 translate zh_Hans talay_benjamin_messager02_1_1_5b174d07:
 
     # nvltalay "{a=show:taly_photo_623}taly_photo_623.png"
-    nvltalay ""
+    nvltalay "{a=show:taly_photo_623}taly_photo_623.png"
 
 # new_main_talay_phone_0_2.rpy:5959
 translate zh_Hans talay_benjamin_messager02_1_1_bbe99b11:
@@ -9520,25 +9520,25 @@ translate zh_Hans talay_benjamin_messager02_1_3_e0389324:
 translate zh_Hans talay_benjamin_messager02_1_3_4694c48e:
 
     # nvlbenjamin "{a=show:benj_video_40}video_40.mov"
-    nvlbenjamin ""
+    nvlbenjamin "{a=show:benj_video_40}video_40.mov"
 
 # new_main_talay_phone_0_2.rpy:6386
 translate zh_Hans talay_benjamin_messager02_1_3_8f16bfb0:
 
     # nvlbenjamin "{a=show:benj_video_42}video_42.mov"
-    nvlbenjamin ""
+    nvlbenjamin "{a=show:benj_video_42}video_42.mov"
 
 # new_main_talay_phone_0_2.rpy:6388
 translate zh_Hans talay_benjamin_messager02_1_3_5ce711c2:
 
     # nvlbenjamin "{a=show:benj_video_44}video_44.mov"
-    nvlbenjamin ""
+    nvlbenjamin "{a=show:benj_video_44}video_44.mov"
 
 # new_main_talay_phone_0_2.rpy:6390
 translate zh_Hans talay_benjamin_messager02_1_3_8884c28f:
 
     # nvlbenjamin "{a=show:benj_video_45}video_45.mov"
-    nvlbenjamin ""
+    nvlbenjamin "{a=show:benj_video_45}video_45.mov"
 
 # new_main_talay_phone_0_2.rpy:6400
 translate zh_Hans talay_benjamin_messager02_1_3_492a476b:
@@ -9940,7 +9940,7 @@ translate zh_Hans mc_cecilia_messager02_1_1_a7b654f7:
 translate zh_Hans mc_cecilia_messager02_1_1_a44c7a70:
 
     # nvljohn "{a=show:photo_353}photo_353.png"
-    nvljohn ""
+    nvljohn "{a=show:photo_353}photo_353.png"
 
 # new_main_talay_phone_0_2.rpy:6688
 translate zh_Hans mc_cecilia_messager02_1_1_2b94948c:
@@ -10000,7 +10000,7 @@ translate zh_Hans mc_cecilia_messager02_1_1_f7f9a1d7:
 translate zh_Hans mc_cecilia_messager02_1_1_51c4becb:
 
     # nvlcecilia "{a=show:lia_photo_1341}lia_photo_1341.png"
-    nvlcecilia ""
+    nvlcecilia "{a=show:lia_photo_1341}lia_photo_1341.png"
 
 # new_main_talay_phone_0_2.rpy:6710
 translate zh_Hans mc_cecilia_messager02_1_1_096abd94:
@@ -10612,7 +10612,7 @@ translate zh_Hans mc_cecilia_messager02_1_3_ee4f7e31:
 translate zh_Hans mc_cecilia_messager02_1_3_dad94bc9:
 
     # nvlcecilia "{a=show:lia_photo_1344}lia_photo_1344.png"
-    nvlcecilia ""
+    nvlcecilia "{a=show:lia_photo_1344}lia_photo_1344.png"
 
 # new_main_talay_phone_0_2.rpy:6966
 translate zh_Hans mc_cecilia_messager02_1_3_7785450e:
@@ -10648,7 +10648,7 @@ translate zh_Hans mc_cecilia_messager02_1_3_e2b09fce:
 translate zh_Hans mc_cecilia_messager02_1_3_848f395f:
 
     # nvlcecilia "{a=show:lia_photo_1347}lia_photo_1347.png"
-    nvlcecilia ""
+    nvlcecilia "{a=show:lia_photo_1347}lia_photo_1347.png"
 
 # new_main_talay_phone_0_2.rpy:6980
 translate zh_Hans mc_cecilia_messager02_1_3_b191a28f:
@@ -11398,7 +11398,7 @@ translate zh_Hans mc_cecilia_messager02_1_5_0f95731b:
 translate zh_Hans mc_cecilia_messager02_1_5_63cc10d4:
 
     # nvlcecilia "{a=show:lia_photo_1355}lia_photo_1355.png"
-    nvlcecilia ""
+    nvlcecilia "{a=show:lia_photo_1355}lia_photo_1355.png"
 
 # new_main_talay_phone_0_2.rpy:7295
 translate zh_Hans mc_cecilia_messager02_1_5_d2746a88:
@@ -11458,7 +11458,7 @@ translate zh_Hans mc_cecilia_messager02_1_5_ea2917c6:
 translate zh_Hans mc_cecilia_messager02_1_5_080a6d2a:
 
     # nvljohn "{a=show:photo_358}photo_358.png"
-    nvljohn ""
+    nvljohn "{a=show:photo_358}photo_358.png"
 
 # new_main_talay_phone_0_2.rpy:7317
 translate zh_Hans mc_cecilia_messager02_1_5_b8030664:
@@ -11866,7 +11866,7 @@ translate zh_Hans mc_cecilia_messager02_1_6_5bf676e5:
 translate zh_Hans mc_cecilia_messager02_1_6_837fdb3d:
 
     # nvlcecilia "{a=show:lia_photo_1369}lia_photo_1369.png"
-    nvlcecilia ""
+    nvlcecilia "{a=show:lia_photo_1369}lia_photo_1369.png"
 
 # new_main_talay_phone_0_2.rpy:7482
 translate zh_Hans mc_cecilia_messager02_1_6_61c7a562:
@@ -12586,7 +12586,7 @@ translate zh_Hans mc_cecilia_messager02_1_10_after_9771c83c:
 translate zh_Hans mc_cecilia_messager02_1_10_after_392c2df7:
 
     # "{color=#000}{i}So, Mr Salim, your daughter is just a few steps away from having sex with a man you took everything from"
-    "{color=#000}{i}所以，萨利姆先生，你的女儿离被一个你夺走一切的男人肏，就只差几步了。{color=#000}{i}"
+    "{color=#000}{i}所以，萨利姆先生，你的女儿离和一个被你夺走一切的男人发生关系，就只差几步了。"
 
 # new_main_talay_phone_0_2.rpy:7855
 translate zh_Hans mc_cecilia_messager02_1_10_after_8c7928b2:
@@ -12598,7 +12598,7 @@ translate zh_Hans mc_cecilia_messager02_1_10_after_8c7928b2:
 translate zh_Hans mc_cecilia_messager02_1_10_after_ceb1d949:
 
     # "{color=#000}{i}I'll feel much better after fucking your daughter"
-    "{color=#000}{i}操了你女儿之后我会感觉好得多。{color=#000}{i}"
+    "{color=#000}{i}和你女儿发生关系之后，我会感觉好得多。"
 
 # new_main_talay_phone_0_2.rpy:7859
 translate zh_Hans mc_cecilia_messager02_1_10_after_14b65178:
@@ -12778,19 +12778,19 @@ translate zh_Hans mc_cecilia_messager02_1_11_d686e517:
 translate zh_Hans mc_cecilia_messager02_1_11_c5e794a9:
 
     # nvljohn "{a=show:lia_video_409}video_40.mov"
-    nvljohn ""
+    nvljohn "{a=show:lia_video_409}video_40.mov"
 
 # new_main_talay_phone_0_2.rpy:7932
 translate zh_Hans mc_cecilia_messager02_1_11_8e2a40f7:
 
     # nvljohn "{a=show:benj_video_41}video_41.mov"
-    nvljohn ""
+    nvljohn "{a=show:benj_video_41}video_41.mov"
 
 # new_main_talay_phone_0_2.rpy:7934
 translate zh_Hans mc_cecilia_messager02_1_11_e81c20d8:
 
     # nvljohn "{a=show:benj_video_43}video_43.mov"
-    nvljohn ""
+    nvljohn "{a=show:benj_video_43}video_43.mov"
 
 # new_main_talay_phone_0_2.rpy:7942
 translate zh_Hans mc_cecilia_messager02_1_11_f0b23f28:
@@ -12838,7 +12838,7 @@ translate zh_Hans mc_cecilia_messager02_1_11_5371798d:
 translate zh_Hans mc_cecilia_messager02_1_11_e460efe8:
 
     # nvlcecilia "{a=show:lia_photo_1372}lia_photo_1372.png"
-    nvlcecilia ""
+    nvlcecilia "{a=show:lia_photo_1372}lia_photo_1372.png"
 
 # new_main_talay_phone_0_2.rpy:7960
 translate zh_Hans mc_cecilia_messager02_1_11_08246883:
@@ -13210,19 +13210,19 @@ translate zh_Hans mc_cecilia_messager02_1_12_0d127c16:
 translate zh_Hans mc_cecilia_messager02_1_12_ee02c18f:
 
     # nvlcecilia "{a=show:lia_video_409}video_40.mov"
-    nvlcecilia ""
+    nvlcecilia "{a=show:lia_video_409}video_40.mov"
 
 # new_main_talay_phone_0_2.rpy:8110
 translate zh_Hans mc_cecilia_messager02_1_12_31b963d3:
 
     # nvlcecilia "{a=show:benj_video_41}video_41.mov"
-    nvlcecilia ""
+    nvlcecilia "{a=show:benj_video_41}video_41.mov"
 
 # new_main_talay_phone_0_2.rpy:8112
 translate zh_Hans mc_cecilia_messager02_1_12_08cb29d4:
 
     # nvlcecilia "{a=show:benj_video_43}video_43.mov"
-    nvlcecilia ""
+    nvlcecilia "{a=show:benj_video_43}video_43.mov"
 
 # new_main_talay_phone_0_2.rpy:8120
 translate zh_Hans mc_cecilia_messager02_1_12_627aca5c:
@@ -13492,7 +13492,7 @@ translate zh_Hans mc_cecilia_messager02_1_13_1d14fa2b:
 translate zh_Hans mc_cecilia_messager02_1_13_10d895e5:
 
     # nvlcecilia "{a=show:lia_photo_1377}lia_photo_1377.png"
-    nvlcecilia ""
+    nvlcecilia "{a=show:lia_photo_1377}lia_photo_1377.png"
 
 # new_main_talay_phone_0_2.rpy:8238
 translate zh_Hans mc_cecilia_messager02_1_13_9789a684:
@@ -13558,7 +13558,7 @@ translate zh_Hans mc_cecilia_messager02_1_13_38bbd216:
 translate zh_Hans mc_cecilia_messager02_1_13_0582e64f:
 
     # nvlcecilia "{a=show:lia_photo_1379}lia_photo_1379.png"
-    nvlcecilia ""
+    nvlcecilia "{a=show:lia_photo_1379}lia_photo_1379.png"
 
 # new_main_talay_phone_0_2.rpy:8262
 translate zh_Hans mc_cecilia_messager02_1_13_ad0918e9:
@@ -13576,7 +13576,7 @@ translate zh_Hans mc_cecilia_messager02_1_13_64b8546d:
 translate zh_Hans mc_cecilia_messager02_1_13_c7834c2a:
 
     # nvlcecilia "{image=love_emoji.png} {image=love_emoji.png}"
-    nvlcecilia ""
+    nvlcecilia "{image=love_emoji.png} {image=love_emoji.png}"
 
 # new_main_talay_phone_0_2.rpy:8268
 translate zh_Hans mc_cecilia_messager02_1_13_1495da04:
@@ -13738,19 +13738,19 @@ translate zh_Hans mc_cecilia_messager02_1_14_e7bb63ab:
 translate zh_Hans mc_cecilia_messager02_1_14_c8d05ad5:
 
     # nvljohn "{a=show:video_231}video_231.mov"
-    nvljohn ""
+    nvljohn "{a=show:video_231}video_231.mov"
 
 # new_main_talay_phone_0_2.rpy:8348
 translate zh_Hans mc_cecilia_messager02_1_14_02620502:
 
     # nvljohn "{a=show:video_233}video_233.mov"
-    nvljohn ""
+    nvljohn "{a=show:video_233}video_233.mov"
 
 # new_main_talay_phone_0_2.rpy:8350
 translate zh_Hans mc_cecilia_messager02_1_14_66e88a7f:
 
     # nvljohn "{a=show:video_235}video_235.mov"
-    nvljohn ""
+    nvljohn "{a=show:video_235}video_235.mov"
 
 # new_main_talay_phone_0_2.rpy:8358
 translate zh_Hans mc_cecilia_messager02_1_14_f33b2221:
@@ -13984,7 +13984,7 @@ translate zh_Hans mc_cecilia_messager02_1_14_71c3fa73:
 translate zh_Hans mc_cecilia_messager02_1_14_de71a51f:
 
     # nvlcecilia "{a=show:lia_photo_1385}lia_photo_1385.png"
-    nvlcecilia ""
+    nvlcecilia "{a=show:lia_photo_1385}lia_photo_1385.png"
 
 # new_main_talay_phone_0_2.rpy:8438
 translate zh_Hans mc_cecilia_messager02_1_14_9ca385a2:
@@ -14482,19 +14482,19 @@ translate zh_Hans mc_cecilia_messager02_1_16_7d24f6d7:
 translate zh_Hans mc_cecilia_messager02_1_16_c7834c2a:
 
     # nvlcecilia "{image=love_emoji.png} {image=love_emoji.png}"
-    nvlcecilia ""
+    nvlcecilia "{image=love_emoji.png} {image=love_emoji.png}"
 
 # new_main_talay_phone_0_2.rpy:8669
 translate zh_Hans mc_cecilia_messager02_1_16_2888b481:
 
     # nvljohn "{a=show:video_237}video_237.mov"
-    nvljohn ""
+    nvljohn "{a=show:video_237}video_237.mov"
 
 # new_main_talay_phone_0_2.rpy:8671
 translate zh_Hans mc_cecilia_messager02_1_16_356cfd78:
 
     # nvljohn "{a=show:video_238}video_238.mov"
-    nvljohn ""
+    nvljohn "{a=show:video_238}video_238.mov"
 
 # new_main_talay_phone_0_2.rpy:8677
 translate zh_Hans mc_cecilia_messager02_1_16_03688f93:
@@ -14644,7 +14644,7 @@ translate zh_Hans mc_cecilia_messager02_1_16_11049267:
 translate zh_Hans mc_cecilia_messager02_1_16_c7834c2a_1:
 
     # nvlcecilia "{image=love_emoji.png} {image=love_emoji.png}"
-    nvlcecilia ""
+    nvlcecilia "{image=love_emoji.png} {image=love_emoji.png}"
 
 # new_main_talay_phone_0_2.rpy:8727
 translate zh_Hans mc_cecilia_messager02_1_16_c424e1f1:
@@ -15328,7 +15328,7 @@ translate zh_Hans mc_cecilia_messager02_1_18_e97dc569:
 translate zh_Hans mc_cecilia_messager02_1_18_f00cd84a:
 
     # nvlcecilia "{a=show:lia_photo_1389}lia_photo_1389.png"
-    nvlcecilia ""
+    nvlcecilia "{a=show:lia_photo_1389}lia_photo_1389.png"
 
 # new_main_talay_phone_0_2.rpy:9020
 translate zh_Hans mc_cecilia_messager02_1_18_b81caca5:
@@ -15352,7 +15352,7 @@ translate zh_Hans mc_cecilia_messager02_1_18_92bdf468:
 translate zh_Hans mc_cecilia_messager02_1_18_dac47db7:
 
     # nvlcecilia "{a=show:lia_photo_1394}lia_photo_1394.png"
-    nvlcecilia ""
+    nvlcecilia "{a=show:lia_photo_1394}lia_photo_1394.png"
 
 # new_main_talay_phone_0_2.rpy:9030
 translate zh_Hans mc_cecilia_messager02_1_18_331ba9b7:
@@ -16036,13 +16036,13 @@ translate zh_Hans mc_cecilia_messager02_1_21_639f292e:
 translate zh_Hans mc_cecilia_messager02_1_21_203a0775:
 
     # nvljohn "{a=show:video_245}video_245.mov"
-    nvljohn ""
+    nvljohn "{a=show:video_245}video_245.mov"
 
 # new_main_talay_phone_0_2.rpy:9336
 translate zh_Hans mc_cecilia_messager02_1_21_67f21ba7:
 
     # nvljohn "{a=show:video_247}video_247.mov"
-    nvljohn ""
+    nvljohn "{a=show:video_247}video_247.mov"
 
 # new_main_talay_phone_0_2.rpy:9342
 translate zh_Hans mc_cecilia_messager02_1_21_a011a6d2:
@@ -16138,7 +16138,7 @@ translate zh_Hans mc_cecilia_messager02_1_21_c38d3f62:
 translate zh_Hans mc_cecilia_messager02_1_21_1d4e1f6b:
 
     # nvlcecilia "{a=show:lia_photo_1401}lia_photo_1401.png"
-    nvlcecilia ""
+    nvlcecilia "{a=show:lia_photo_1401}lia_photo_1401.png"
 
 # new_main_talay_phone_0_2.rpy:9376
 translate zh_Hans mc_cecilia_messager02_1_21_11413c22:
@@ -16330,7 +16330,7 @@ translate zh_Hans mc_cecilia_messager02_1_21_2_c38d3f62:
 translate zh_Hans mc_cecilia_messager02_1_21_2_13481cd1:
 
     # nvlcecilia "{a=show:cecilia_pic_27}photo_1449.png"
-    nvlcecilia ""
+    nvlcecilia "{a=show:cecilia_pic_27}photo_1449.png"
 
 # new_main_talay_phone_0_2.rpy:9470
 translate zh_Hans mc_cecilia_messager02_1_21_2_cbc800ff:
@@ -16612,7 +16612,7 @@ translate zh_Hans mc_cecilia_messager02_1_23_76b2fe88:
 translate zh_Hans mc_cecilia_messager02_1_23_a4b45bc9:
 
     # nvljohn "{a=show:cecilia_pic_28}photo_1463.png"
-    nvljohn ""
+    nvljohn "{a=show:cecilia_pic_28}photo_1463.png"
 
 # new_main_talay_phone_0_2.rpy:9622
 translate zh_Hans mc_cecilia_messager02_1_23_0e903f65:
@@ -17596,25 +17596,25 @@ translate zh_Hans mc_cecilia_messager02_1_26_4f438a71:
 translate zh_Hans mc_cecilia_messager02_1_26_c39b1265:
 
     # nvljohn "{a=show:cecilia_pic_29}photo_1469.png"
-    nvljohn ""
+    nvljohn "{a=show:cecilia_pic_29}photo_1469.png"
 
 # new_main_talay_phone_0_2.rpy:10035
 translate zh_Hans mc_cecilia_messager02_1_26_842c5207:
 
     # nvljohn "{a=show:cecilia_pic_30}photo_1470.png"
-    nvljohn ""
+    nvljohn "{a=show:cecilia_pic_30}photo_1470.png"
 
 # new_main_talay_phone_0_2.rpy:10039
 translate zh_Hans mc_cecilia_messager02_1_26_77efc0e3:
 
     # nvljohn "{a=show:cecilia_pic_31}photo_1472.png"
-    nvljohn ""
+    nvljohn "{a=show:cecilia_pic_31}photo_1472.png"
 
 # new_main_talay_phone_0_2.rpy:10043
 translate zh_Hans mc_cecilia_messager02_1_26_4aef3f95:
 
     # nvljohn "{a=show:cecilia_pic_32}photo_1473.png"
-    nvljohn ""
+    nvljohn "{a=show:cecilia_pic_32}photo_1473.png"
 
 # new_main_talay_phone_0_2.rpy:10047
 translate zh_Hans mc_cecilia_messager02_1_26_d5205f68:
@@ -18172,7 +18172,7 @@ translate zh_Hans mc_cecilia_messager02_1_27_9a613a07:
 translate zh_Hans mc_cecilia_messager02_1_27_806d47b3:
 
     # nvljohn "{a=show:cecilia_pic_33}photo_1481.png"
-    nvljohn ""
+    nvljohn "{a=show:cecilia_pic_33}photo_1481.png"
 
 # new_main_talay_phone_0_2.rpy:10263
 translate zh_Hans mc_cecilia_messager02_1_27_bbc8f85a:
@@ -18298,7 +18298,7 @@ translate zh_Hans mc_cecilia_messager02_1_27_b1f3915a:
 translate zh_Hans mc_cecilia_messager02_1_27_8c2cd952:
 
     # nvlcecilia "{a=show:cecilia_pic_34}photo_643.png"
-    nvlcecilia ""
+    nvlcecilia "{a=show:cecilia_pic_34}photo_643.png"
 
 # new_main_talay_phone_0_2.rpy:10307
 translate zh_Hans mc_cecilia_messager02_1_27_b8aa5260:
@@ -18418,7 +18418,7 @@ translate zh_Hans mc_cecilia_messager02_1_28_a1d31388:
 translate zh_Hans mc_cecilia_messager02_1_28_63e507c9:
 
     # nvljohn "Will you show me?"
-    nvljohn "XTAG0X你会给我看吗？"
+    nvljohn "你会给我看吗？"
 
 # new_main_talay_phone_0_2.rpy:10375
 translate zh_Hans mc_cecilia_messager02_1_28_2fa3599e:
@@ -18430,13 +18430,13 @@ translate zh_Hans mc_cecilia_messager02_1_28_2fa3599e:
 translate zh_Hans mc_cecilia_messager02_1_28_0f468d1d:
 
     # nvlcecilia "{a=show:cecilia_pic_35}photo_667.png"
-    nvlcecilia ""
+    nvlcecilia "{a=show:cecilia_pic_35}photo_667.png"
 
 # new_main_talay_phone_0_2.rpy:10381
 translate zh_Hans mc_cecilia_messager02_1_28_906b9d8a:
 
     # nvlcecilia "{a=show:cecilia_pic_36}photo_669.png"
-    nvlcecilia ""
+    nvlcecilia "{a=show:cecilia_pic_36}photo_669.png"
 
 # new_main_talay_phone_0_2.rpy:10385
 translate zh_Hans mc_cecilia_messager02_1_28_d7da36e9:
@@ -18898,7 +18898,7 @@ translate zh_Hans mc_cecilia_messager02_1_30_aecae14b:
 translate zh_Hans mc_cecilia_messager02_1_30_47f0e773:
 
     # nvlcecilia "{a=show:cecilia_pic_37}photo_679.png"
-    nvlcecilia ""
+    nvlcecilia "{a=show:cecilia_pic_37}photo_679.png"
 
 # new_main_talay_phone_0_2.rpy:10597
 translate zh_Hans mc_cecilia_messager02_1_30_b6256b9f:
@@ -18928,7 +18928,7 @@ translate zh_Hans mc_cecilia_messager02_1_30_d78825ca:
 translate zh_Hans mc_cecilia_messager02_1_30_a8dfe403:
 
     # nvljohn "{a=show:cecilia_pic_38}photo_1493.png"
-    nvljohn ""
+    nvljohn "{a=show:cecilia_pic_38}photo_1493.png"
 
 # new_main_talay_phone_0_2.rpy:10609
 translate zh_Hans mc_cecilia_messager02_1_30_56f0f9d4:
@@ -19780,13 +19780,13 @@ translate zh_Hans mc_cecilia_messager02_1_34_b9cacae5:
 translate zh_Hans mc_cecilia_messager02_1_34_ff0a61bb:
 
     # nvljohn "{a=show:cecilia_pic_39}photo_1511.png"
-    nvljohn ""
+    nvljohn "{a=show:cecilia_pic_39}photo_1511.png"
 
 # new_main_talay_phone_0_2.rpy:11007
 translate zh_Hans mc_cecilia_messager02_1_34_cb8dc99a:
 
     # nvljohn "{a=show:cecilia_pic_40}photo_1513.png"
-    nvljohn ""
+    nvljohn "{a=show:cecilia_pic_40}photo_1513.png"
 
 # new_main_talay_phone_0_2.rpy:11011
 translate zh_Hans mc_cecilia_messager02_1_34_c275e1fc:
@@ -20056,7 +20056,7 @@ translate zh_Hans mc_cecilia_messager02_1_35_f7f9a1d7:
 translate zh_Hans mc_cecilia_messager02_1_35_bab4a16c:
 
     # nvlcecilia "{a=show:cecilia_pic_41}photo_809.png"
-    nvlcecilia ""
+    nvlcecilia "{a=show:cecilia_pic_41}photo_809.png"
 
 # new_main_talay_phone_0_2.rpy:11131
 translate zh_Hans mc_cecilia_messager02_1_35_0ab73bc1:
@@ -20470,13 +20470,13 @@ translate zh_Hans mc_cecilia_messager02_1_36_dc645139:
 translate zh_Hans mc_cecilia_messager02_1_36_4e0939e9:
 
     # nvljohn "{a=show:cecilia_video_10}video_256.mov"
-    nvljohn ""
+    nvljohn "{a=show:cecilia_video_10}video_256.mov"
 
 # new_main_talay_phone_0_2.rpy:11307
 translate zh_Hans mc_cecilia_messager02_1_36_17fd119a:
 
     # nvljohn "{a=show:cecilia_video_11}video_258.mov"
-    nvljohn ""
+    nvljohn "{a=show:cecilia_video_11}video_258.mov"
 
 # new_main_talay_phone_0_2.rpy:11311
 translate zh_Hans mc_cecilia_messager02_1_36_f0b23f28:
@@ -20548,7 +20548,7 @@ translate zh_Hans mc_cecilia_messager02_1_36_9e1a6712:
 translate zh_Hans mc_cecilia_messager02_1_36_3319d47b:
 
     # nvlcecilia "{image=love_emoji.png}{image=love_emoji.png}{image=love_emoji.png}"
-    nvlcecilia ""
+    nvlcecilia "{image=love_emoji.png}{image=love_emoji.png}{image=love_emoji.png}"
 
 # new_main_talay_phone_0_2.rpy:11337
 translate zh_Hans mc_cecilia_messager02_1_36_ed45fe81:
@@ -21190,7 +21190,7 @@ translate zh_Hans mc_cecilia_messager02_1_39_66a9e826:
 translate zh_Hans mc_cecilia_messager02_1_39_29f6228e:
 
     # nvlcecilia "{a=show:cecilia_pic_42}photo_846.png"
-    nvlcecilia ""
+    nvlcecilia "{a=show:cecilia_pic_42}photo_846.png"
 
 # new_main_talay_phone_0_2.rpy:11637
 translate zh_Hans mc_cecilia_messager02_1_39_d7da36e9:
@@ -21406,7 +21406,7 @@ translate zh_Hans mc_cecilia_messager02_1_40_d5205f68:
 translate zh_Hans mc_cecilia_messager02_1_40_cabf5f82:
 
     # nvljohn "{a=show:cecilia_pic_44}photo_1854.png"
-    nvljohn ""
+    nvljohn "{a=show:cecilia_pic_44}photo_1854.png"
 
 # new_main_talay_phone_0_2.rpy:11739
 translate zh_Hans mc_cecilia_messager02_1_40_a2f71fc0:
@@ -21430,7 +21430,7 @@ translate zh_Hans mc_cecilia_messager02_1_40_40e27a1b:
 translate zh_Hans mc_cecilia_messager02_1_40_6f717a62:
 
     # nvljohn "{a=show:cecilia_pic_43}photo_1849.png"
-    nvljohn ""
+    nvljohn "{a=show:cecilia_pic_43}photo_1849.png"
 
 # new_main_talay_phone_0_2.rpy:11749
 translate zh_Hans mc_cecilia_messager02_1_40_cb0955d9:
@@ -21988,7 +21988,7 @@ translate zh_Hans mc_cecilia_messager02_1_42_5db1bf27:
 translate zh_Hans mc_cecilia_messager02_1_42_5815244e:
 
     # nvljohn "{a=show:cecilia_pic_45}photo_1861.png"
-    nvljohn ""
+    nvljohn "{a=show:cecilia_pic_45}photo_1861.png"
 
 # new_main_talay_phone_0_2.rpy:11991
 translate zh_Hans mc_cecilia_messager02_1_42_b9d2412e:
@@ -22954,13 +22954,13 @@ translate zh_Hans mc_cecilia_messager02_1_46_46c59772:
 translate zh_Hans mc_cecilia_messager02_1_46_b442f29d:
 
     # nvljohn "{a=show:cecilia_pic_47}photo_1873.png"
-    nvljohn ""
+    nvljohn "{a=show:cecilia_pic_47}photo_1873.png"
 
 # new_main_talay_phone_0_2.rpy:12427
 translate zh_Hans mc_cecilia_messager02_1_46_3e07d5b6:
 
     # nvljohn "{a=show:cecilia_pic_48}photo_1875.png"
-    nvljohn ""
+    nvljohn "{a=show:cecilia_pic_48}photo_1875.png"
 
 # new_main_talay_phone_0_2.rpy:12431
 translate zh_Hans mc_cecilia_messager02_1_46_56f0f9d4:
@@ -23860,7 +23860,7 @@ translate zh_Hans mc_cecilia_messager02_1_49_2ac4a108:
 translate zh_Hans mc_cecilia_messager02_1_49_e222faaa:
 
     # nvljohn "{a=show:cecilia_pic_49}photo_1879.png"
-    nvljohn ""
+    nvljohn "{a=show:cecilia_pic_49}photo_1879.png"
 
 # new_main_talay_phone_0_2.rpy:12817
 translate zh_Hans mc_cecilia_messager02_1_49_8b97f136:
@@ -23896,7 +23896,7 @@ translate zh_Hans mc_cecilia_messager02_1_49_41a164e4:
 translate zh_Hans mc_cecilia_messager02_1_49_ac134f8d:
 
     # nvlcecilia "{a=show:cecilia_pic_50}photo_831.png"
-    nvlcecilia ""
+    nvlcecilia "{a=show:cecilia_pic_50}photo_831.png"
 
 # new_main_talay_phone_0_2.rpy:12831
 translate zh_Hans mc_cecilia_messager02_1_49_a6edaf2b:
@@ -24070,7 +24070,7 @@ translate zh_Hans mc_cecilia_messager02_1_50_3a80b2f3:
 translate zh_Hans mc_cecilia_messager02_1_50_e0947248:
 
     # nvlcecilia "{a=show:cecilia_pic_46}photo_901.png"
-    nvlcecilia ""
+    nvlcecilia "{a=show:cecilia_pic_46}photo_901.png"
 
 # new_main_talay_phone_0_2.rpy:12919
 translate zh_Hans mc_cecilia_messager02_1_50_a6edaf2b:
@@ -24442,7 +24442,7 @@ translate zh_Hans mc_cecilia_messager02_1_51_e4b95863:
 translate zh_Hans mc_cecilia_messager02_1_51_20047a8a:
 
     # nvljohn "{a=show:cecilia_pic_51}photo_1930.png"
-    nvljohn ""
+    nvljohn "{a=show:cecilia_pic_51}photo_1930.png"
 
 # new_main_talay_phone_0_2.rpy:13073
 translate zh_Hans mc_cecilia_messager02_1_51_bbab18fc:
@@ -24604,7 +24604,7 @@ translate zh_Hans mc_cecilia_messager02_1_51_after_c18fea94:
 translate zh_Hans mc_cecilia_messager02_1_51_after_44bd5c00:
 
     # "{color=#000}{i}I want my enemy's daughter to become a slutty girl. She'll want to fuck every man around her"
-    "{color=#000}{i}我要让我敌人的女儿变成一个淫荡的骚货。她会饥渴地想被身边的每个男人操！{color=#000}{i}"
+    "{color=#000}{i}我要让我敌人的女儿变得放纵。她会渴望身边每个男人。"
 
 # new_main_talay_phone_0_2.rpy:13147
 translate zh_Hans mc_cecilia_messager02_1_51_after_db0baad3:
@@ -25252,13 +25252,13 @@ translate zh_Hans mc_cecilia_messager02_1_55_9589e65a:
 translate zh_Hans mc_cecilia_messager02_1_55_e32e6876:
 
     # nvljohn "{a=show:cecilia_pic_52}photo_1936.png"
-    nvljohn ""
+    nvljohn "{a=show:cecilia_pic_52}photo_1936.png"
 
 # new_main_talay_phone_0_2.rpy:13462
 translate zh_Hans mc_cecilia_messager02_1_55_806ddc14:
 
     # nvljohn "{a=show:cecilia_pic_53}photo_1938.png"
-    nvljohn ""
+    nvljohn "{a=show:cecilia_pic_53}photo_1938.png"
 
 # new_main_talay_phone_0_2.rpy:13466
 translate zh_Hans mc_cecilia_messager02_1_55_01ebd0d2:
@@ -26710,7 +26710,7 @@ translate zh_Hans mc_cecilia_messager02_1_59_d85b92b7:
 translate zh_Hans mc_cecilia_messager02_1_59_b507f457:
 
     # nvlcecilia "{a=show:cecilia_pic_54}photo_919.png"
-    nvlcecilia ""
+    nvlcecilia "{a=show:cecilia_pic_54}photo_919.png"
 
 # new_main_talay_phone_0_2.rpy:14069
 translate zh_Hans mc_cecilia_messager02_1_59_e140103a:
@@ -27064,13 +27064,13 @@ translate zh_Hans mc_cecilia_messager02_1_60_76b2fe88:
 translate zh_Hans mc_cecilia_messager02_1_60_5b41deaa:
 
     # nvljohn "{a=show:cecilia_pic_55}photo_1984.png"
-    nvljohn ""
+    nvljohn "{a=show:cecilia_pic_55}photo_1984.png"
 
 # new_main_talay_phone_0_2.rpy:14217
 translate zh_Hans mc_cecilia_messager02_1_60_4fe154ac:
 
     # nvljohn "{a=show:cecilia_pic_56}photo_1986.png"
-    nvljohn ""
+    nvljohn "{a=show:cecilia_pic_56}photo_1986.png"
 
 # new_main_talay_phone_0_2.rpy:14221
 translate zh_Hans mc_cecilia_messager02_1_60_63e48c43:
@@ -27124,13 +27124,13 @@ translate zh_Hans mc_cecilia_messager02_1_60_439c093b:
 translate zh_Hans mc_cecilia_messager02_1_60_a39ccc39:
 
     # nvljohn "{a=show:cecilia_pic_57}photo_1989.png"
-    nvljohn ""
+    nvljohn "{a=show:cecilia_pic_57}photo_1989.png"
 
 # new_main_talay_phone_0_2.rpy:14241
 translate zh_Hans mc_cecilia_messager02_1_60_bfe8960f:
 
     # nvljohn "{a=show:cecilia_pic_58}photo_1992.png"
-    nvljohn ""
+    nvljohn "{a=show:cecilia_pic_58}photo_1992.png"
 
 # new_main_talay_phone_0_2.rpy:14245
 translate zh_Hans mc_cecilia_messager02_1_60_61c7a562:
@@ -29050,19 +29050,19 @@ translate zh_Hans mc_cecilia_messager02_1_64_bc8116df:
 translate zh_Hans mc_cecilia_messager02_1_64_e1307c4f:
 
     # nvljohn "{a=show:cecilia_pic_26}photo_1446.png"
-    nvljohn ""
+    nvljohn "{a=show:cecilia_pic_26}photo_1446.png"
 
 # new_main_talay_phone_0_2.rpy:15015
 translate zh_Hans mc_cecilia_messager02_1_64_2e69f409:
 
     # nvljohn "{a=show:cecilia_pic_35}photo_667.png"
-    nvljohn ""
+    nvljohn "{a=show:cecilia_pic_35}photo_667.png"
 
 # new_main_talay_phone_0_2.rpy:15017
 translate zh_Hans mc_cecilia_messager02_1_64_d2e5710a:
 
     # nvljohn "{a=show:cecilia_pic_37}photo_679.png"
-    nvljohn ""
+    nvljohn "{a=show:cecilia_pic_37}photo_679.png"
 
 # new_main_talay_phone_0_2.rpy:15019
 translate zh_Hans mc_cecilia_messager02_1_64_56f0f9d4:
@@ -29566,13 +29566,13 @@ translate zh_Hans mc_cecilia_messager02_1_66_c9b6dba6:
 translate zh_Hans mc_cecilia_messager02_1_66_2d9426ce:
 
     # nvljohn "{a=show:cecilia_pic_59}photo_2007.png"
-    nvljohn ""
+    nvljohn "{a=show:cecilia_pic_59}photo_2007.png"
 
 # new_main_talay_phone_0_2.rpy:15245
 translate zh_Hans mc_cecilia_messager02_1_66_ece98e5d:
 
     # nvljohn "{a=show:cecilia_pic_60}photo_2013.png"
-    nvljohn ""
+    nvljohn "{a=show:cecilia_pic_60}photo_2013.png"
 
 # new_main_talay_phone_0_2.rpy:15249
 translate zh_Hans mc_cecilia_messager02_1_66_047136eb:
@@ -30454,7 +30454,7 @@ translate zh_Hans mc_cecilia_messager02_1_69_632337da:
 translate zh_Hans mc_cecilia_messager02_1_69_f7c5a0cf:
 
     # nvlrick_cecilia "Man, it's been ages since I had sex with a young chick like your girlfriend"
-    nvlrick_cecilia "妈的，我好久没干过你女朋友这种小骚货了！XTAG0X"
+    nvlrick_cecilia "妈的，我好久没干过你女朋友这种小骚货了！"
 
 # new_main_talay_phone_0_2.rpy:15625
 translate zh_Hans mc_cecilia_messager02_1_69_4a442ef8:
@@ -30658,7 +30658,7 @@ translate zh_Hans mc_cecilia_messager02_1_69_after_b079319b:
 translate zh_Hans mc_cecilia_messager02_1_69_after_5b22904c:
 
     # "{color=#000}{i}And I'll make sure his daughter and wife become sluts"
-    "{color=#000}{i}我还会确保他的女儿和老婆都变成淫荡的骚货。{color=#000}{i}"
+    "{color=#000}{i}我还会确保他的女儿和老婆都变得放纵。"
 
 # new_main_talay_phone_0_2.rpy:15714
 translate zh_Hans mc_cecilia_messager02_1_69_after_4c95c2ab:
@@ -30916,19 +30916,19 @@ translate zh_Hans mc_cecilia_messager02_1_71_fba5e3f3:
 translate zh_Hans mc_cecilia_messager02_1_71_bc5d98da:
 
     # nvlrick_cecilia "{a=show:cecilia_pic_61}photo_834.png"
-    nvlrick_cecilia ""
+    nvlrick_cecilia "{a=show:cecilia_pic_61}photo_834.png"
 
 # new_main_talay_phone_0_2.rpy:15855
 translate zh_Hans mc_cecilia_messager02_1_71_881bc0ab:
 
     # nvlrick_cecilia "{a=show:cecilia_pic_62}photo_835.png"
-    nvlrick_cecilia ""
+    nvlrick_cecilia "{a=show:cecilia_pic_62}photo_835.png"
 
 # new_main_talay_phone_0_2.rpy:15859
 translate zh_Hans mc_cecilia_messager02_1_71_3ffa8489:
 
     # nvlrick_cecilia "{a=show:cecilia_pic_63}photo_839.png"
-    nvlrick_cecilia ""
+    nvlrick_cecilia "{a=show:cecilia_pic_63}photo_839.png"
 
 # new_main_talay_phone_0_2.rpy:15863
 translate zh_Hans mc_cecilia_messager02_1_71_4f419f42:
@@ -31342,7 +31342,7 @@ translate zh_Hans talay_zac_messager02_1_5_76b2fe88:
 translate zh_Hans talay_zac_messager02_1_5_71b905d0:
 
     # nvltalay "{a=show:taly_photo_635}taly_photo_635.jpg"
-    nvltalay ""
+    nvltalay "{a=show:taly_photo_635}taly_photo_635.jpg"
 
 # new_main_talay_phone_0_2.rpy:16097
 translate zh_Hans talay_zac_messager02_1_5_05095768:
@@ -34084,7 +34084,7 @@ translate zh_Hans talay_adam_messager02_1_8_06495621:
 translate zh_Hans talay_adam_messager02_1_8_da16ce7a:
 
     # nvltalay "{a=show:taly_photo_682}taly_photo_682.png"
-    nvltalay ""
+    nvltalay "{a=show:taly_photo_682}taly_photo_682.png"
 
 # new_main_talay_phone_0_2.rpy:17421
 translate zh_Hans talay_adam_messager02_1_8_5b81184e:
@@ -34384,7 +34384,7 @@ translate zh_Hans talay_adam_messager02_1_9_e688034a:
 translate zh_Hans talay_adam_messager02_1_9_6195890e:
 
     # nvltalay "{a=show:taly_photo_691}taly_photo_691.png"
-    nvltalay ""
+    nvltalay "{a=show:taly_photo_691}taly_photo_691.png"
 
 # new_main_talay_phone_0_2.rpy:17549
 translate zh_Hans talay_adam_messager02_1_9_b21c4c99:
@@ -34414,7 +34414,7 @@ translate zh_Hans talay_adam_messager02_1_9_6c814ee2:
 translate zh_Hans talay_adam_messager02_1_9_b8caccc0:
 
     # nvltalay "{a=show:taly_photo_609}taly_photo_609.png"
-    nvltalay ""
+    nvltalay "{a=show:taly_photo_609}taly_photo_609.png"
 
 # new_main_talay_phone_0_2.rpy:17561
 translate zh_Hans talay_adam_messager02_1_9_0181ac23:
@@ -34456,7 +34456,7 @@ translate zh_Hans talay_adam_messager02_1_9_8a630d27:
 translate zh_Hans talay_adam_messager02_1_9_9d94d83c:
 
     # nvlmr_adam "I think about what my life would be like if you were my woman, Talay"
-    nvlmr_adam "我在想，塔莱，如果你是我的女人，我的生活会是怎样的。"
+    nvlmr_adam "抱歉这么直白，但这就是我每次看到你时会想到的事。"
 
 # new_main_talay_phone_0_2.rpy:17575
 translate zh_Hans talay_adam_messager02_1_9_163282c7:
@@ -35116,7 +35116,7 @@ translate zh_Hans talay_rodrigo_messager02_1_2_76b2fe88:
 translate zh_Hans talay_rodrigo_messager02_1_2_6728bcfe:
 
     # nvlrodrigo "{a=show:ro_photo_305}ro_photo_305.png"
-    nvlrodrigo ""
+    nvlrodrigo "{a=show:ro_photo_305}ro_photo_305.png"
 
 # new_main_talay_phone_0_2.rpy:17926
 translate zh_Hans talay_rodrigo_messager02_1_2_aae5ee97:
@@ -36100,7 +36100,7 @@ translate zh_Hans talay_antony_messager02_1_4_911224b8:
 translate zh_Hans talay_antony_messager02_1_4_7f6e56b5:
 
     # nvlantony "{a=show:antony_photo_214}antony_photo_214.png"
-    nvlantony ""
+    nvlantony "{a=show:antony_photo_214}antony_photo_214.png"
 
 # new_main_talay_phone_0_2.rpy:18435
 translate zh_Hans talay_antony_messager02_1_4_59469e99:
@@ -36508,7 +36508,7 @@ translate zh_Hans talay_antony_messager02_1_5_c89d5d5c:
 translate zh_Hans talay_antony_messager02_1_5_8b4727e2:
 
     # nvltalay "{a=show:taly_photo_621}taly_photo_621.png"
-    nvltalay ""
+    nvltalay "{a=show:taly_photo_621}taly_photo_621.png"
 
 # new_main_talay_phone_0_2.rpy:18599
 translate zh_Hans talay_antony_messager02_1_5_aa75c705:
@@ -36790,7 +36790,7 @@ translate zh_Hans talay_antony_messager02_1_6_9135b963:
 translate zh_Hans talay_antony_messager02_1_6_b973d893:
 
     # nvlantony "{a=show:forwarded_pic}forwarded_pic.png"
-    nvlantony ""
+    nvlantony "{a=show:forwarded_pic}forwarded_pic.png"
 
 # new_main_talay_phone_0_2.rpy:18721
 translate zh_Hans talay_antony_messager02_1_6_4b3a7110:
@@ -36868,7 +36868,7 @@ translate zh_Hans talay_antony_messager02_1_6_7ae680e1:
 translate zh_Hans talay_antony_messager02_1_6_5b174d07:
 
     # nvltalay "{a=show:taly_photo_623}taly_photo_623.png"
-    nvltalay ""
+    nvltalay "{a=show:taly_photo_623}taly_photo_623.png"
 
 # new_main_talay_phone_0_2.rpy:18749
 translate zh_Hans talay_antony_messager02_1_6_edb86540:
@@ -37936,7 +37936,7 @@ translate zh_Hans talay_antony_messager02_1_11_2be06201:
 translate zh_Hans talay_antony_messager02_1_11_cf58e33a:
 
     # nvlantony "{a=show:golf_pic_32}golf_pic_32.png"
-    nvlantony ""
+    nvlantony "{a=show:golf_pic_32}golf_pic_32.png"
 
 # new_main_talay_phone_0_2.rpy:19250
 translate zh_Hans talay_antony_messager02_1_11_0b162a56:
@@ -37990,13 +37990,13 @@ translate zh_Hans talay_antony_messager02_1_11_7e049940:
 translate zh_Hans talay_antony_messager02_1_11_d6cf38d5:
 
     # nvltalay "{a=show:taly_photo_672}taly_photo_672.png"
-    nvltalay ""
+    nvltalay "{a=show:taly_photo_672}taly_photo_672.png"
 
 # new_main_talay_phone_0_2.rpy:19270
 translate zh_Hans talay_antony_messager02_1_11_86e28cf0:
 
     # nvltalay "{a=show:taly_photo_673}taly_photo_673.png"
-    nvltalay ""
+    nvltalay "{a=show:taly_photo_673}taly_photo_673.png"
 
 # new_main_talay_phone_0_2.rpy:19274
 translate zh_Hans talay_antony_messager02_1_11_349a3a48:
@@ -39112,7 +39112,7 @@ translate zh_Hans talay_antony_messager02_1_15_3d524df4:
 translate zh_Hans talay_antony_messager02_1_15_c7408d2e:
 
     # nvltalay "{a=show:taly_photo_678}taly_photo_678.png"
-    nvltalay ""
+    nvltalay "{a=show:taly_photo_678}taly_photo_678.png"
 
 # new_main_talay_phone_0_2.rpy:19772
 translate zh_Hans talay_antony_messager02_1_15_f97a1121:
@@ -39436,19 +39436,19 @@ translate zh_Hans talay_antony_messager02_1_16_dd5b834c:
 translate zh_Hans talay_antony_messager02_1_16_4bf65475:
 
     # nvlunknown "{a=show:target_video_993}target_video_993.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:target_video_993}target_video_993.mov"
 
 # new_main_talay_phone_0_2.rpy:19934
 translate zh_Hans talay_antony_messager02_1_16_ad2648c3:
 
     # nvlunknown "{a=show:target_video_995}target_video_995.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:target_video_995}target_video_995.mov"
 
 # new_main_talay_phone_0_2.rpy:19938
 translate zh_Hans talay_antony_messager02_1_16_486f1858:
 
     # nvlunknown "{a=show:target_video_996}target_video_996.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:target_video_996}target_video_996.mov"
 
 # new_main_talay_phone_0_2.rpy:19942
 translate zh_Hans talay_antony_messager02_1_16_7ec3e2e3:
@@ -39640,19 +39640,19 @@ translate zh_Hans talay_irvin_messager02_1_1_54d5ec40:
 translate zh_Hans talay_irvin_messager02_1_1_23ed653e:
 
     # nvlirvin "{a=show:antony_photo_214}antony_photo_214.png"
-    nvlirvin ""
+    nvlirvin "{a=show:antony_photo_214}antony_photo_214.png"
 
 # new_main_talay_phone_0_2.rpy:20063
 translate zh_Hans talay_irvin_messager02_1_1_1f75f02b:
 
     # nvlirvin "{a=show:taly_photo_621}taly_photo_621.png"
-    nvlirvin ""
+    nvlirvin "{a=show:taly_photo_621}taly_photo_621.png"
 
 # new_main_talay_phone_0_2.rpy:20065
 translate zh_Hans talay_irvin_messager02_1_1_90c56ad3:
 
     # nvlirvin "{a=show:taly_photo_623}taly_photo_623.png"
-    nvlirvin ""
+    nvlirvin "{a=show:taly_photo_623}taly_photo_623.png"
 
 # new_main_talay_phone_0_2.rpy:20073
 translate zh_Hans talay_irvin_messager02_1_1_78f3a50c:
@@ -39778,7 +39778,7 @@ translate zh_Hans talay_irvin_messager02_1_1_9b8c1cf2:
 translate zh_Hans talay_irvin_messager02_1_1_46213299:
 
     # nvlirvin "{a=show:irvin_photo_62}irvin_photo_62.png"
-    nvlirvin ""
+    nvlirvin "{a=show:irvin_photo_62}irvin_photo_62.png"
 
 # new_main_talay_phone_0_2.rpy:20117
 translate zh_Hans talay_irvin_messager02_1_1_a1c66197:
@@ -39904,7 +39904,7 @@ translate zh_Hans talay_irvin_messager02_1_1_76e6ea5c:
 translate zh_Hans talay_irvin_messager02_1_1_8943296e:
 
     # nvltalay "{a=show:taly_photo_628}taly_photo_628.png"
-    nvltalay ""
+    nvltalay "{a=show:taly_photo_628}taly_photo_628.png"
 
 # new_main_talay_phone_0_2.rpy:20161
 translate zh_Hans talay_irvin_messager02_1_1_bd86975d:
@@ -40102,7 +40102,7 @@ translate zh_Hans talay_irvin_messager02_1_2_76b2fe88:
 translate zh_Hans talay_irvin_messager02_1_2_e3925f0a:
 
     # nvltalay "{a=show:taly_photo_688}taly_photo_688.png"
-    nvltalay ""
+    nvltalay "{a=show:taly_photo_688}taly_photo_688.png"
 
 # new_main_talay_phone_0_2.rpy:20261
 translate zh_Hans talay_irvin_messager02_1_2_e3ee9d6d:
@@ -40312,7 +40312,7 @@ translate zh_Hans talay_irvin_messager02_1_2_18d4feb7:
 translate zh_Hans talay_irvin_messager02_1_2_7a01e2bd:
 
     # nvlirvin "{a=show:irvin_photo_69}irvin_photo_69.png"
-    nvlirvin ""
+    nvlirvin "{a=show:irvin_photo_69}irvin_photo_69.png"
 
 # new_main_talay_phone_0_2.rpy:20333
 translate zh_Hans talay_irvin_messager02_1_2_4c67e020:
@@ -40348,7 +40348,7 @@ translate zh_Hans talay_irvin_messager02_1_2_a663dafd:
 translate zh_Hans talay_irvin_messager02_1_2_5119d217:
 
     # nvlirvin "{a=show:irvin_photo_44}irvin_photo_44.png"
-    nvlirvin ""
+    nvlirvin "{a=show:irvin_photo_44}irvin_photo_44.png"
 
 # new_main_talay_phone_0_2.rpy:20347
 translate zh_Hans talay_irvin_messager02_1_2_0e76a74a:
@@ -40666,7 +40666,7 @@ translate zh_Hans talay_irvin_messager02_1_4_76b2fe88:
 translate zh_Hans talay_irvin_messager02_1_4_0421dc72:
 
     # nvltalay "{a=show:taly_photo_693}taly_photo_693.png"
-    nvltalay ""
+    nvltalay "{a=show:taly_photo_693}taly_photo_693.png"
 
 # new_main_talay_phone_0_2.rpy:20508
 translate zh_Hans talay_irvin_messager02_1_4_87350ce3:
@@ -40738,7 +40738,7 @@ translate zh_Hans talay_irvin_messager02_1_5_76b2fe88:
 translate zh_Hans talay_irvin_messager02_1_5_a66e3ba0:
 
     # nvltalay "{a=show:taly_photo_653}taly_photo_653.png"
-    nvltalay ""
+    nvltalay "{a=show:taly_photo_653}taly_photo_653.png"
 
 # new_main_talay_phone_0_2.rpy:20559
 translate zh_Hans talay_irvin_messager02_1_5_36eab428:
@@ -40786,7 +40786,7 @@ translate zh_Hans talay_irvin_messager02_1_6_76b2fe88:
 translate zh_Hans talay_irvin_messager02_1_6_b8caccc0:
 
     # nvltalay "{a=show:taly_photo_609}taly_photo_609.png"
-    nvltalay ""
+    nvltalay "{a=show:taly_photo_609}taly_photo_609.png"
 
 # new_main_talay_phone_0_2.rpy:20615
 translate zh_Hans talay_irvin_messager02_1_6_59d87eb7:
@@ -41500,7 +41500,7 @@ translate zh_Hans talay_irvin_messager02_1_9_fe0face7:
 translate zh_Hans talay_irvin_messager02_1_9_23f918bb:
 
     # nvltalay "{a=show:taly_photo_702}taly_photo_702.png"
-    nvltalay ""
+    nvltalay "{a=show:taly_photo_702}taly_photo_702.png"
 
 # new_main_talay_phone_0_2.rpy:20948
 translate zh_Hans talay_irvin_messager02_1_9_4f7b809b:
@@ -41824,7 +41824,7 @@ translate zh_Hans talay_irvin_messager02_1_10_c47eae06:
 translate zh_Hans talay_irvin_messager02_1_10_23f918bb:
 
     # nvltalay "{a=show:taly_photo_702}taly_photo_702.png"
-    nvltalay ""
+    nvltalay "{a=show:taly_photo_702}taly_photo_702.png"
 
 # new_main_talay_phone_0_2.rpy:21084
 translate zh_Hans talay_irvin_messager02_1_10_8c0f42e1:
@@ -41890,7 +41890,7 @@ translate zh_Hans talay_irvin_messager02_1_10_a46cbb67:
 translate zh_Hans talay_irvin_messager02_1_10_bcd82882:
 
     # nvltalay "{a=show:taly_photo_704}taly_photo_704.png"
-    nvltalay ""
+    nvltalay "{a=show:taly_photo_704}taly_photo_704.png"
 
 # new_main_talay_phone_0_2.rpy:21108
 translate zh_Hans talay_irvin_messager02_1_10_7196c637:
@@ -41992,7 +41992,7 @@ translate zh_Hans talay_irvin_messager02_1_10_38dff0c2:
 translate zh_Hans talay_irvin_messager02_1_10_01d9796b:
 
     # nvlirvin "{a=show:irvin_photo_55}irvin_photo_55.png"
-    nvlirvin ""
+    nvlirvin "{a=show:irvin_photo_55}irvin_photo_55.png"
 
 # new_main_talay_phone_0_2.rpy:21144
 translate zh_Hans talay_irvin_messager02_1_10_73e6684d:
@@ -42304,13 +42304,13 @@ translate zh_Hans talay_irvin_messager02_1_11_1f5048cd:
 translate zh_Hans talay_irvin_messager02_1_11_b644fa03:
 
     # nvlirvin "{a=show:irvin_video_96}irvin_video_96.mov"
-    nvlirvin ""
+    nvlirvin "{a=show:irvin_video_96}irvin_video_96.mov"
 
 # new_main_talay_phone_0_2.rpy:21278
 translate zh_Hans talay_irvin_messager02_1_11_63e3ebc3:
 
     # nvlirvin "{a=show:irvin_video_99}irvin_video_99.mov"
-    nvlirvin ""
+    nvlirvin "{a=show:irvin_video_99}irvin_video_99.mov"
 
 # new_main_talay_phone_0_2.rpy:21284
 translate zh_Hans talay_irvin_messager02_1_11_0b52e968:
@@ -43144,25 +43144,25 @@ translate zh_Hans talay_mc_bad_messager02_1_1_e236fb19:
 translate zh_Hans talay_mc_bad_messager02_1_1_8d8ccef1:
 
     # nvljohn "{a=show:benj_video_40}video_40.mov"
-    nvljohn ""
+    nvljohn "{a=show:benj_video_40}video_40.mov"
 
 # new_main_talay_phone_0_2.rpy:21757
 translate zh_Hans talay_mc_bad_messager02_1_1_a8824450:
 
     # nvljohn "{a=show:benj_video_42}video_42.mov"
-    nvljohn ""
+    nvljohn "{a=show:benj_video_42}video_42.mov"
 
 # new_main_talay_phone_0_2.rpy:21759
 translate zh_Hans talay_mc_bad_messager02_1_1_2fc945c2:
 
     # nvljohn "{a=show:benj_video_44}video_44.mov"
-    nvljohn ""
+    nvljohn "{a=show:benj_video_44}video_44.mov"
 
 # new_main_talay_phone_0_2.rpy:21761
 translate zh_Hans talay_mc_bad_messager02_1_1_1876466c:
 
     # nvljohn "{a=show:benj_video_45}video_45.mov"
-    nvljohn ""
+    nvljohn "{a=show:benj_video_45}video_45.mov"
 
 # new_main_talay_phone_0_2.rpy:21771
 translate zh_Hans talay_mc_bad_messager02_1_1_7161c678:
@@ -43402,13 +43402,13 @@ translate zh_Hans talay_mc_bad_messager02_1_1_aa5b3a87:
 translate zh_Hans talay_mc_bad_messager02_1_1_996b319d:
 
     # nvltalay "{a=show:taly_photo_709}taly_photo_709.png"
-    nvltalay ""
+    nvltalay "{a=show:taly_photo_709}taly_photo_709.png"
 
 # new_main_talay_phone_0_2.rpy:21851
 translate zh_Hans talay_mc_bad_messager02_1_1_c7408d2e:
 
     # nvltalay "{a=show:taly_photo_678}taly_photo_678.png"
-    nvltalay ""
+    nvltalay "{a=show:taly_photo_678}taly_photo_678.png"
 
 # new_main_talay_phone_0_2.rpy:21857
 translate zh_Hans talay_mc_bad_messager02_1_1_eff809ee:
@@ -43888,7 +43888,7 @@ translate zh_Hans talay_mc_bad_messager02_1_3_57a6669c:
 translate zh_Hans talay_mc_bad_messager02_1_3_23f918bb:
 
     # nvltalay "{a=show:taly_photo_702}taly_photo_702.png"
-    nvltalay ""
+    nvltalay "{a=show:taly_photo_702}taly_photo_702.png"
 
 # new_main_talay_phone_0_2.rpy:22082
 translate zh_Hans talay_mc_bad_messager02_1_3_e22f1876:
@@ -44266,25 +44266,25 @@ translate zh_Hans talay_mc_bad_messager02_1_4_after_e93819f4:
 translate zh_Hans talay_mc_bad_messager02_1_4_after_8d8ccef1:
 
     # nvljohn "{a=show:benj_video_40}video_40.mov"
-    nvljohn ""
+    nvljohn "{a=show:benj_video_40}video_40.mov"
 
 # new_main_talay_phone_0_2.rpy:22263
 translate zh_Hans talay_mc_bad_messager02_1_4_after_a8824450:
 
     # nvljohn "{a=show:benj_video_42}video_42.mov"
-    nvljohn ""
+    nvljohn "{a=show:benj_video_42}video_42.mov"
 
 # new_main_talay_phone_0_2.rpy:22265
 translate zh_Hans talay_mc_bad_messager02_1_4_after_2fc945c2:
 
     # nvljohn "{a=show:benj_video_44}video_44.mov"
-    nvljohn ""
+    nvljohn "{a=show:benj_video_44}video_44.mov"
 
 # new_main_talay_phone_0_2.rpy:22267
 translate zh_Hans talay_mc_bad_messager02_1_4_after_1876466c:
 
     # nvljohn "{a=show:benj_video_45}video_45.mov"
-    nvljohn ""
+    nvljohn "{a=show:benj_video_45}video_45.mov"
 
 # new_main_talay_phone_0_2.rpy:22277
 translate zh_Hans talay_mc_bad_messager02_1_4_after_8c8dc73a:
@@ -44572,7 +44572,7 @@ translate zh_Hans talay_mc_bad_messager02_1_6_76b2fe88:
 translate zh_Hans talay_mc_bad_messager02_1_6_18c0e674:
 
     # nvltalay "{a=show:talay_video_203}talay_video_203.mov"
-    nvltalay ""
+    nvltalay "{a=show:talay_video_203}talay_video_203.mov"
 
 # new_main_talay_phone_0_2.rpy:22417
 translate zh_Hans talay_mc_bad_messager02_1_6_14f32428:
@@ -45148,7 +45148,7 @@ translate zh_Hans talay_mc_bad_messager02_1_9_8183f163:
 translate zh_Hans talay_mc_bad_messager02_1_9_c89f0dca:
 
     # nvljohn "{a=show:video_451}video_451.mov"
-    nvljohn ""
+    nvljohn "{a=show:video_451}video_451.mov"
 
 # new_main_talay_phone_0_2.rpy:22697
 translate zh_Hans talay_mc_bad_messager02_1_9_3518c97f:
@@ -45190,19 +45190,19 @@ translate zh_Hans talay_mc_bad_messager02_1_9_af75019d:
 translate zh_Hans talay_mc_bad_messager02_1_9_554c7824:
 
     # nvljohn "{a=show:video_457}video_457.mov"
-    nvljohn ""
+    nvljohn "{a=show:video_457}video_457.mov"
 
 # new_main_talay_phone_0_2.rpy:22711
 translate zh_Hans talay_mc_bad_messager02_1_9_3ec7edfb:
 
     # nvljohn "{a=show:video_458}video_458.mov"
-    nvljohn ""
+    nvljohn "{a=show:video_458}video_458.mov"
 
 # new_main_talay_phone_0_2.rpy:22713
 translate zh_Hans talay_mc_bad_messager02_1_9_0bbc1d55:
 
     # nvljohn "{a=show:video_461}video_461.mov"
-    nvljohn ""
+    nvljohn "{a=show:video_461}video_461.mov"
 
 # new_main_talay_phone_0_2.rpy:22721
 translate zh_Hans talay_mc_bad_messager02_1_9_04136ac6:
@@ -45772,7 +45772,7 @@ translate zh_Hans talay_mc_bad_messager02_1_11_65ee7572:
 translate zh_Hans talay_mc_bad_messager02_1_11_01ddfadb:
 
     # nvljohn "{a=show:talay_pic_32}photo_711.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_32}photo_711.png"
 
 # new_main_talay_phone_0_2.rpy:23005
 translate zh_Hans talay_mc_bad_messager02_1_11_8c527271:
@@ -45946,7 +45946,7 @@ translate zh_Hans talay_mc_bad_messager02_1_12_76b2fe88:
 translate zh_Hans talay_mc_bad_messager02_1_12_69360e1b:
 
     # nvltalay "{a=show:talay_pic_33}photo_3184.png"
-    nvltalay ""
+    nvltalay "{a=show:talay_pic_33}photo_3184.png"
 
 # new_main_talay_phone_0_2.rpy:23091
 translate zh_Hans talay_mc_bad_messager02_1_12_ba33f452:
@@ -46354,25 +46354,25 @@ translate zh_Hans talay_mc_bad_messager02_1_14_6a94b48a:
 translate zh_Hans talay_mc_bad_messager02_1_14_8d8ccef1:
 
     # nvljohn "{a=show:benj_video_40}video_40.mov"
-    nvljohn ""
+    nvljohn "{a=show:benj_video_40}video_40.mov"
 
 # new_main_talay_phone_0_2.rpy:23300
 translate zh_Hans talay_mc_bad_messager02_1_14_a8824450:
 
     # nvljohn "{a=show:benj_video_42}video_42.mov"
-    nvljohn ""
+    nvljohn "{a=show:benj_video_42}video_42.mov"
 
 # new_main_talay_phone_0_2.rpy:23302
 translate zh_Hans talay_mc_bad_messager02_1_14_2fc945c2:
 
     # nvljohn "{a=show:benj_video_44}video_44.mov"
-    nvljohn ""
+    nvljohn "{a=show:benj_video_44}video_44.mov"
 
 # new_main_talay_phone_0_2.rpy:23304
 translate zh_Hans talay_mc_bad_messager02_1_14_1876466c:
 
     # nvljohn "{a=show:benj_video_45}video_45.mov"
-    nvljohn ""
+    nvljohn "{a=show:benj_video_45}video_45.mov"
 
 # new_main_talay_phone_0_2.rpy:23306
 translate zh_Hans talay_mc_bad_messager02_1_14_1cf12a2d:
@@ -46504,7 +46504,7 @@ translate zh_Hans talay_mc_bad_messager02_1_14_d94a455c:
 translate zh_Hans talay_mc_bad_messager02_1_14_f499753e:
 
     # nvltalay "{a=show:talay_pic_34}photo_3191.png"
-    nvltalay ""
+    nvltalay "{a=show:talay_pic_34}photo_3191.png"
 
 # new_main_talay_phone_0_2.rpy:23352
 translate zh_Hans talay_mc_bad_messager02_1_14_b79bfcf5:
@@ -46768,13 +46768,13 @@ translate zh_Hans talay_mc_bad_messager02_1_15_d5205f68:
 translate zh_Hans talay_mc_bad_messager02_1_15_78bb8c65:
 
     # nvljohn "{a=show:talay_pic_35}photo_1913.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_35}photo_1913.png"
 
 # new_main_talay_phone_0_2.rpy:23470
 translate zh_Hans talay_mc_bad_messager02_1_15_b08ffa12:
 
     # nvljohn "{a=show:talay_pic_36}photo_1915.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_36}photo_1915.png"
 
 # new_main_talay_phone_0_2.rpy:23474
 translate zh_Hans talay_mc_bad_messager02_1_15_36174b16:
@@ -46816,7 +46816,7 @@ translate zh_Hans talay_mc_bad_messager02_1_15_96c2920e:
 translate zh_Hans talay_mc_bad_messager02_1_15_04cff5db:
 
     # nvljohn "{a=show:talay_pic_37}photo_1927.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_37}photo_1927.png"
 
 # new_main_talay_phone_0_2.rpy:23490
 translate zh_Hans talay_mc_bad_messager02_1_15_ff1c3e69:
@@ -47392,31 +47392,31 @@ translate zh_Hans talay_mc_bad_messager02_1_16_87ddc999:
 translate zh_Hans talay_mc_bad_messager02_1_16_e839db8e:
 
     # nvljohn "{a=show:talay_pic_38}photo_1944.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_38}photo_1944.png"
 
 # new_main_talay_phone_0_2.rpy:23712
 translate zh_Hans talay_mc_bad_messager02_1_16_53fa0fb6:
 
     # nvljohn "{a=show:talay_pic_39}photo_1946.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_39}photo_1946.png"
 
 # new_main_talay_phone_0_2.rpy:23716
 translate zh_Hans talay_mc_bad_messager02_1_16_915b342c:
 
     # nvljohn "{a=show:talay_pic_40}photo_1947.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_40}photo_1947.png"
 
 # new_main_talay_phone_0_2.rpy:23720
 translate zh_Hans talay_mc_bad_messager02_1_16_89e59423:
 
     # nvljohn "{a=show:talay_pic_41}photo_1949.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_41}photo_1949.png"
 
 # new_main_talay_phone_0_2.rpy:23724
 translate zh_Hans talay_mc_bad_messager02_1_16_59d14cf4:
 
     # nvljohn "{a=show:talay_pic_42}photo_1954.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_42}photo_1954.png"
 
 # new_main_talay_phone_0_2.rpy:23728
 translate zh_Hans talay_mc_bad_messager02_1_16_56f0f9d4:
@@ -49036,13 +49036,13 @@ translate zh_Hans talay_mc_bad_messager02_1_20_a135e214:
 translate zh_Hans talay_mc_bad_messager02_1_20_2c1dda55:
 
     # nvljohn "{a=show:talay_pic_43}photo_2130.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_43}photo_2130.png"
 
 # new_main_talay_phone_0_2.rpy:24395
 translate zh_Hans talay_mc_bad_messager02_1_20_fdcd9c67:
 
     # nvljohn "{a=show:talay_pic_44}photo_2137.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_44}photo_2137.png"
 
 # new_main_talay_phone_0_2.rpy:24399
 translate zh_Hans talay_mc_bad_messager02_1_20_d5205f68:
@@ -49540,7 +49540,7 @@ translate zh_Hans talay_mc_bad_messager02_1_21_4b455b72:
 translate zh_Hans talay_mc_bad_messager02_1_21_8159f631:
 
     # nvltalay "{a=show:talay_pic_45}photo_738.png"
-    nvltalay ""
+    nvltalay "{a=show:talay_pic_45}photo_738.png"
 
 # new_main_talay_phone_0_2.rpy:24595
 translate zh_Hans talay_mc_bad_messager02_1_21_2a64d9af:
@@ -49606,7 +49606,7 @@ translate zh_Hans talay_mc_bad_messager02_1_21_338df687:
 translate zh_Hans talay_mc_bad_messager02_1_21_8277b57d:
 
     # nvltalay "{a=show:talay_pic_46}photo_739.png"
-    nvltalay ""
+    nvltalay "{a=show:talay_pic_46}photo_739.png"
 
 # new_main_talay_phone_0_2.rpy:24619
 translate zh_Hans talay_mc_bad_messager02_1_21_ae2c5cbb:
@@ -50302,13 +50302,13 @@ translate zh_Hans talay_mc_bad_messager02_1_24_507f6c4d:
 translate zh_Hans talay_mc_bad_messager02_1_24_22e3943e:
 
     # nvljohn "{a=show:talay_pic_45}photo_738.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_45}photo_738.png"
 
 # new_main_talay_phone_0_2.rpy:24941
 translate zh_Hans talay_mc_bad_messager02_1_24_b443d05b:
 
     # nvljohn "{a=show:talay_pic_46}photo_739.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_46}photo_739.png"
 
 # new_main_talay_phone_0_2.rpy:24943
 translate zh_Hans talay_mc_bad_messager02_1_24_56f0f9d4:
@@ -50380,7 +50380,7 @@ translate zh_Hans talay_mc_bad_messager02_1_24_23788143:
 translate zh_Hans talay_mc_bad_messager02_1_24_1a5655d3:
 
     # nvljohn "{a=show:talay_pic_34}photo_3191.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_34}photo_3191.png"
 
 # new_main_talay_phone_0_2.rpy:24967
 translate zh_Hans talay_mc_bad_messager02_1_24_d677e05b:
@@ -51214,7 +51214,7 @@ translate zh_Hans talay_mc_bad_messager02_1_26_76b2fe88:
 translate zh_Hans talay_mc_bad_messager02_1_26_ba7f8ea9:
 
     # nvltalay "{a=show:talay_pic_47}photo_787.png"
-    nvltalay ""
+    nvltalay "{a=show:talay_pic_47}photo_787.png"
 
 # new_main_talay_phone_0_2.rpy:25306
 translate zh_Hans talay_mc_bad_messager02_1_26_acacc449:
@@ -51304,7 +51304,7 @@ translate zh_Hans talay_mc_bad_messager02_1_26_145c948e:
 translate zh_Hans talay_mc_bad_messager02_1_26_837c4c09:
 
     # nvltalay "{a=show:talay_pic_48}photo_788.png"
-    nvltalay ""
+    nvltalay "{a=show:talay_pic_48}photo_788.png"
 
 # new_main_talay_phone_0_2.rpy:25338
 translate zh_Hans talay_mc_bad_messager02_1_26_3d218fcc:
@@ -52492,7 +52492,7 @@ translate zh_Hans talay_mc_bad_messager02_1_30_0deefc97:
 translate zh_Hans talay_mc_bad_messager02_1_30_7a025bf4:
 
     # nvlpeter2 "{a=show:talay_pic_49}photo_143.png"
-    nvlpeter2 ""
+    nvlpeter2 "{a=show:talay_pic_49}photo_143.png"
 
 # new_main_talay_phone_0_2.rpy:25860
 translate zh_Hans talay_mc_bad_messager02_1_30_990305a3:
@@ -53002,7 +53002,7 @@ translate zh_Hans talay_mc_bad_messager02_1_32_2ae90061:
 translate zh_Hans talay_mc_bad_messager02_1_32_19d0f360:
 
     # nvltalay "{a=show:talay_pic_50}photo_1403.png"
-    nvltalay ""
+    nvltalay "{a=show:talay_pic_50}photo_1403.png"
 
 # new_main_talay_phone_0_2.rpy:26088
 translate zh_Hans talay_mc_bad_messager02_1_32_a6edaf2b:
@@ -53608,7 +53608,7 @@ translate zh_Hans talay_mc_bad_messager02_1_34_679ae3f7:
 translate zh_Hans talay_mc_bad_messager02_1_34_0849e9df:
 
     # nvltalay "{a=show:talay_pic_51}photo_1411.png"
-    nvltalay ""
+    nvltalay "{a=show:talay_pic_51}photo_1411.png"
 
 # new_main_talay_phone_0_2.rpy:26369
 translate zh_Hans talay_mc_bad_messager02_1_34_b79bfcf5:
@@ -53746,7 +53746,7 @@ translate zh_Hans talay_mc_bad_messager02_1_34_5265ad65:
 translate zh_Hans talay_mc_bad_messager02_1_34_d0bc8c0b:
 
     # nvltalay "{a=show:talay_pic_52}photo_1401.png"
-    nvltalay ""
+    nvltalay "{a=show:talay_pic_52}photo_1401.png"
 
 # new_main_talay_phone_0_2.rpy:26417
 translate zh_Hans talay_mc_bad_messager02_1_34_5223802c:
@@ -53800,7 +53800,7 @@ translate zh_Hans talay_mc_bad_messager02_1_34_a37a91b5:
 translate zh_Hans talay_mc_bad_messager02_1_34_2966262b:
 
     # nvljohn "{a=show:dick_pic_16}783.png"
-    nvljohn ""
+    nvljohn "{a=show:dick_pic_16}783.png"
 
 # new_main_talay_phone_0_2.rpy:26437
 translate zh_Hans talay_mc_bad_messager02_1_34_b72a308a:
@@ -53980,19 +53980,19 @@ translate zh_Hans talay_mc_bad_messager02_1_35_cc2ef502:
 translate zh_Hans talay_mc_bad_messager02_1_35_f3d68747:
 
     # nvljohn "{a=show:talay_pic_50}photo_1403.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_50}photo_1403.png"
 
 # new_main_talay_phone_0_2.rpy:26529
 translate zh_Hans talay_mc_bad_messager02_1_35_d0f3cabe:
 
     # nvljohn "{a=show:talay_pic_51}photo_1411.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_51}photo_1411.png"
 
 # new_main_talay_phone_0_2.rpy:26531
 translate zh_Hans talay_mc_bad_messager02_1_35_44f26e6e:
 
     # nvljohn "{a=show:talay_pic_52}photo_1401.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_52}photo_1401.png"
 
 # new_main_talay_phone_0_2.rpy:26533
 translate zh_Hans talay_mc_bad_messager02_1_35_56f0f9d4:
@@ -54394,7 +54394,7 @@ translate zh_Hans talay_mc_bad_messager02_1_36_a0a13b1f:
 translate zh_Hans talay_mc_bad_messager02_1_36_dab9e605:
 
     # nvltalay "{a=show:talay_pic_53}photo_1427.png"
-    nvltalay ""
+    nvltalay "{a=show:talay_pic_53}photo_1427.png"
 
 # new_main_talay_phone_0_2.rpy:26697
 translate zh_Hans talay_mc_bad_messager02_1_36_611b4796:
@@ -55012,7 +55012,7 @@ translate zh_Hans talay_mc_bad_messager02_1_38_983d14c2:
 translate zh_Hans talay_mc_bad_messager02_1_38_a3e328ab:
 
     # nvlunknown "{a=show:talay_video_14}video_469.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:talay_video_14}video_469.mov"
 
 # new_main_talay_phone_0_2.rpy:26965
 translate zh_Hans talay_mc_bad_messager02_1_38_ee1ee97e:
@@ -55618,13 +55618,13 @@ translate zh_Hans talay_mc_bad_messager02_1_40_28fdd50c:
 translate zh_Hans talay_mc_bad_messager02_1_40_8a797657:
 
     # nvljohn "{a=show:talay_pic_54}photo_1443.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_54}photo_1443.png"
 
 # new_main_talay_phone_0_2.rpy:27256
 translate zh_Hans talay_mc_bad_messager02_1_40_c05a44c7:
 
     # nvljohn "{a=show:talay_pic_55}photo_1445.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_55}photo_1445.png"
 
 # new_main_talay_phone_0_2.rpy:27260
 translate zh_Hans talay_mc_bad_messager02_1_40_56f0f9d4:
@@ -55894,13 +55894,13 @@ translate zh_Hans talay_mc_bad_messager02_1_41_11fb94da:
 translate zh_Hans talay_mc_bad_messager02_1_41_8a797657:
 
     # nvljohn "{a=show:talay_pic_54}photo_1443.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_54}photo_1443.png"
 
 # new_main_talay_phone_0_2.rpy:27382
 translate zh_Hans talay_mc_bad_messager02_1_41_c05a44c7:
 
     # nvljohn "{a=show:talay_pic_55}photo_1445.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_55}photo_1445.png"
 
 # new_main_talay_phone_0_2.rpy:27384
 translate zh_Hans talay_mc_bad_messager02_1_41_56f0f9d4:
@@ -56170,13 +56170,13 @@ translate zh_Hans talay_mc_bad_messager02_1_42_4ab165ef:
 translate zh_Hans talay_mc_bad_messager02_1_42_ba87a92d:
 
     # nvltalay "{a=show:talay_pic_56}photo_1451.png"
-    nvltalay ""
+    nvltalay "{a=show:talay_pic_56}photo_1451.png"
 
 # new_main_talay_phone_0_2.rpy:27504
 translate zh_Hans talay_mc_bad_messager02_1_42_1ed9d808:
 
     # nvltalay "{a=show:talay_pic_57}photo_1452.png"
-    nvltalay ""
+    nvltalay "{a=show:talay_pic_57}photo_1452.png"
 
 # new_main_talay_phone_0_2.rpy:27508
 translate zh_Hans talay_mc_bad_messager02_1_42_a6edaf2b:
@@ -56656,7 +56656,7 @@ translate zh_Hans talay_mc_bad_messager02_1_44_919c864f:
 translate zh_Hans talay_mc_bad_messager02_1_44_58dfb7ee:
 
     # nvljohn "{a=show:talay_video_15}video_311.mov"
-    nvljohn ""
+    nvljohn "{a=show:talay_video_15}video_311.mov"
 
 # new_main_talay_phone_0_2.rpy:27732
 translate zh_Hans talay_mc_bad_messager02_1_44_db2ee7da:
@@ -56722,7 +56722,7 @@ translate zh_Hans talay_mc_bad_messager02_1_44_6beeb0d8:
 translate zh_Hans talay_mc_bad_messager02_1_44_501f036a:
 
     # nvljohn "You can't admit that you enjoy having sex with me? {image=smile_emoji.png}"
-    nvljohn "{color=#000}{i}我想让我敌人的女儿变成一个荡妇。她会想和她身边的每个男人上床。"
+    nvljohn "你不能承认自己享受和我发生关系吗？{image=smile_emoji.png}"
 
 # new_main_talay_phone_0_2.rpy:27754
 translate zh_Hans talay_mc_bad_messager02_1_44_b20da796:
@@ -57316,7 +57316,7 @@ translate zh_Hans talay_mc_bad_messager02_1_46_03052182:
 translate zh_Hans talay_mc_bad_messager02_1_46_a77a9485:
 
     # nvltalay "{a=show:talay_pic_58}photo_1461.png"
-    nvltalay ""
+    nvltalay "{a=show:talay_pic_58}photo_1461.png"
 
 # new_main_talay_phone_0_2.rpy:28018
 translate zh_Hans talay_mc_bad_messager02_1_46_611b4796:
@@ -57352,7 +57352,7 @@ translate zh_Hans talay_mc_bad_messager02_1_46_2b3b7eb3:
 translate zh_Hans talay_mc_bad_messager02_1_46_82444121:
 
     # nvljohn "{a=show:dick_pic_9}photo_433.png"
-    nvljohn ""
+    nvljohn "{a=show:dick_pic_9}photo_433.png"
 
 # new_main_talay_phone_0_2.rpy:28032
 translate zh_Hans talay_mc_bad_messager02_1_46_cf5af8ff:
@@ -57400,7 +57400,7 @@ translate zh_Hans talay_mc_bad_messager02_1_46_c9a69c85:
 translate zh_Hans talay_mc_bad_messager02_1_46_1d4eaa19:
 
     # nvltalay "{a=show:talay_pic_59}photo_1457.png"
-    nvltalay ""
+    nvltalay "{a=show:talay_pic_59}photo_1457.png"
 
 # new_main_talay_phone_0_2.rpy:28050
 translate zh_Hans talay_mc_bad_messager02_1_46_763321d1:
@@ -57844,13 +57844,13 @@ translate zh_Hans talay_mc_bad_messager02_1_49_c7c7033b:
 translate zh_Hans talay_mc_bad_messager02_1_49_dd16e789:
 
     # nvljohn "{a=show:talay_pic_60}photo_2391.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_60}photo_2391.png"
 
 # new_main_talay_phone_0_2.rpy:28301
 translate zh_Hans talay_mc_bad_messager02_1_49_74e844ab:
 
     # nvljohn "{a=show:talay_pic_61}photo_2392.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_61}photo_2392.png"
 
 # new_main_talay_phone_0_2.rpy:28305
 translate zh_Hans talay_mc_bad_messager02_1_49_bd24fe02:
@@ -57928,7 +57928,7 @@ translate zh_Hans talay_mc_bad_messager02_1_49_1cf12a2d_1:
 translate zh_Hans talay_mc_bad_messager02_1_49_aa5c28ad:
 
     # nvljohn "{a=show:talay_pic_62}photo_2398.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_62}photo_2398.png"
 
 # new_main_talay_phone_0_2.rpy:28333
 translate zh_Hans talay_mc_bad_messager02_1_49_96c2920e:
@@ -59188,7 +59188,7 @@ translate zh_Hans talay_mc_messager02_1_4_d3cfb6bb:
 translate zh_Hans talay_mc_messager02_1_4_0a435b42:
 
     # nvltalay "{a=show:taly_photo_721}taly_photo_721.jpg"
-    nvltalay ""
+    nvltalay "{a=show:taly_photo_721}taly_photo_721.jpg"
 
 # new_main_talay_phone_0_2.rpy:28980
 translate zh_Hans talay_mc_messager02_1_4_9f999b24:
@@ -59242,7 +59242,7 @@ translate zh_Hans talay_mc_messager02_1_4_879be2f0:
 translate zh_Hans talay_mc_messager02_1_4_7b8ad886:
 
     # nvltalay "{a=show:taly_photo_722}taly_photo_722.jpg"
-    nvltalay ""
+    nvltalay "{a=show:taly_photo_722}taly_photo_722.jpg"
 
 # new_main_talay_phone_0_2.rpy:29000
 translate zh_Hans talay_mc_messager02_1_4_731fa580:
@@ -59644,7 +59644,7 @@ translate zh_Hans talay_mc_messager02_1_5_after_3e909d7a:
 translate zh_Hans talay_mc_messager02_1_5_after_97b8bd4e:
 
     # "{color=#000}{i}I want to see his face when his wife and daughter become my sluts and turn their backs on him"
-    "{color=#000}{i}我想看看他那张脸，当他老婆和女儿都变成我的骚货，彻底背叛他的时候。"
+    "{color=#000}{i}我想看看他那张脸，当他老婆和女儿都属于我、彻底背叛他的时候。"
 
 # new_main_talay_phone_0_2.rpy:29182
 translate zh_Hans talay_mc_messager02_1_5_after_86d8f44b:
@@ -60448,7 +60448,7 @@ translate zh_Hans talay_mc_messager02_1_7_3f3fb57f:
 translate zh_Hans talay_mc_messager02_1_7_8138209a:
 
     # nvltalay "{a=show:talay_pic_63}photo_1794.png"
-    nvltalay ""
+    nvltalay "{a=show:talay_pic_63}photo_1794.png"
 
 # new_main_talay_phone_0_2.rpy:29523
 translate zh_Hans talay_mc_messager02_1_7_017c54ac:
@@ -61786,37 +61786,37 @@ translate zh_Hans talay_mc_messager02_1_12_a2194b40:
 translate zh_Hans talay_mc_messager02_1_12_fce0f959:
 
     # nvlunknown "{a=show:bbc_pic_248}314.png"
-    nvlunknown ""
+    nvlunknown "{a=show:bbc_pic_248}314.png"
 
 # new_main_talay_phone_0_2.rpy:30119
 translate zh_Hans talay_mc_messager02_1_12_725a1e73:
 
     # nvlunknown "{a=show:bbc_pic_249}5561.png"
-    nvlunknown ""
+    nvlunknown "{a=show:bbc_pic_249}5561.png"
 
 # new_main_talay_phone_0_2.rpy:30123
 translate zh_Hans talay_mc_messager02_1_12_f3de47d3:
 
     # nvlunknown "{a=show:bbc_pic_250}948.png"
-    nvlunknown ""
+    nvlunknown "{a=show:bbc_pic_250}948.png"
 
 # new_main_talay_phone_0_2.rpy:30127
 translate zh_Hans talay_mc_messager02_1_12_73019ba1:
 
     # nvlunknown "{a=show:bbc_pic_251}55813.png"
-    nvlunknown ""
+    nvlunknown "{a=show:bbc_pic_251}55813.png"
 
 # new_main_talay_phone_0_2.rpy:30131
 translate zh_Hans talay_mc_messager02_1_12_328167a3:
 
     # nvlunknown "{a=show:bbc_pic_252}9195.png"
-    nvlunknown ""
+    nvlunknown "{a=show:bbc_pic_252}9195.png"
 
 # new_main_talay_phone_0_2.rpy:30135
 translate zh_Hans talay_mc_messager02_1_12_e6f22ee2:
 
     # nvlunknown "{a=show:bbc_pic_253}51415.png"
-    nvlunknown ""
+    nvlunknown "{a=show:bbc_pic_253}51415.png"
 
 # new_main_talay_phone_0_2.rpy:30139
 translate zh_Hans talay_mc_messager02_1_12_adb80e40:
@@ -61954,37 +61954,37 @@ translate zh_Hans talay_mc_messager02_1_13_6b424c4a:
 translate zh_Hans talay_mc_messager02_1_13_0be8f04a:
 
     # nvljohn "{a=show:bbc_pic_248}314.png"
-    nvljohn ""
+    nvljohn "{a=show:bbc_pic_248}314.png"
 
 # new_main_talay_phone_0_2.rpy:30213
 translate zh_Hans talay_mc_messager02_1_13_33aa362a:
 
     # nvljohn "{a=show:bbc_pic_249}5561.png"
-    nvljohn ""
+    nvljohn "{a=show:bbc_pic_249}5561.png"
 
 # new_main_talay_phone_0_2.rpy:30215
 translate zh_Hans talay_mc_messager02_1_13_c55aa3c3:
 
     # nvljohn "{a=show:bbc_pic_250}948.png"
-    nvljohn ""
+    nvljohn "{a=show:bbc_pic_250}948.png"
 
 # new_main_talay_phone_0_2.rpy:30217
 translate zh_Hans talay_mc_messager02_1_13_8fc5fcd9:
 
     # nvljohn "{a=show:bbc_pic_251}55813.png"
-    nvljohn ""
+    nvljohn "{a=show:bbc_pic_251}55813.png"
 
 # new_main_talay_phone_0_2.rpy:30219
 translate zh_Hans talay_mc_messager02_1_13_81cefeb6:
 
     # nvljohn "{a=show:bbc_pic_252}9195.png"
-    nvljohn ""
+    nvljohn "{a=show:bbc_pic_252}9195.png"
 
 # new_main_talay_phone_0_2.rpy:30221
 translate zh_Hans talay_mc_messager02_1_13_5f851366:
 
     # nvljohn "{a=show:bbc_pic_253}51415.png"
-    nvljohn ""
+    nvljohn "{a=show:bbc_pic_253}51415.png"
 
 # new_main_talay_phone_0_2.rpy:30223
 translate zh_Hans talay_mc_messager02_1_13_1ef6f06d:
@@ -62614,7 +62614,7 @@ translate zh_Hans talay_mc_messager02_1_16_c068535f:
 translate zh_Hans talay_mc_messager02_1_16_2d348edc:
 
     # nvlunknown "{a=show:talay_video_16}video_319.mov"
-    nvlunknown ""
+    nvlunknown "{a=show:talay_video_16}video_319.mov"
 
 # new_main_talay_phone_0_2.rpy:30530
 translate zh_Hans talay_mc_messager02_1_16_8b9e9b1c:
@@ -63304,13 +63304,13 @@ translate zh_Hans talay_mc_messager02_1_19_61ed598e:
 translate zh_Hans talay_mc_messager02_1_19_78bb8c65:
 
     # nvljohn "{a=show:talay_pic_35}photo_1913.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_35}photo_1913.png"
 
 # new_main_talay_phone_0_2.rpy:30846
 translate zh_Hans talay_mc_messager02_1_19_b08ffa12:
 
     # nvljohn "{a=show:talay_pic_36}photo_1915.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_36}photo_1915.png"
 
 # new_main_talay_phone_0_2.rpy:30850
 translate zh_Hans talay_mc_messager02_1_19_6316afab:
@@ -63322,7 +63322,7 @@ translate zh_Hans talay_mc_messager02_1_19_6316afab:
 translate zh_Hans talay_mc_messager02_1_19_04cff5db:
 
     # nvljohn "{a=show:talay_pic_37}photo_1927.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_37}photo_1927.png"
 
 # new_main_talay_phone_0_2.rpy:30856
 translate zh_Hans talay_mc_messager02_1_19_e07b6c0d:
@@ -63790,13 +63790,13 @@ translate zh_Hans talay_mc_messager02_1_21_ec4d1259:
 translate zh_Hans talay_mc_messager02_1_21_8159f631:
 
     # nvltalay "{a=show:talay_pic_45}photo_738.png"
-    nvltalay ""
+    nvltalay "{a=show:talay_pic_45}photo_738.png"
 
 # new_main_talay_phone_0_2.rpy:31070
 translate zh_Hans talay_mc_messager02_1_21_8277b57d:
 
     # nvltalay "{a=show:talay_pic_46}photo_739.png"
-    nvltalay ""
+    nvltalay "{a=show:talay_pic_46}photo_739.png"
 
 # new_main_talay_phone_0_2.rpy:31074
 translate zh_Hans talay_mc_messager02_1_21_acacc449:
@@ -64084,13 +64084,13 @@ translate zh_Hans talay_mc_messager02_1_22_76b2fe88:
 translate zh_Hans talay_mc_messager02_1_22_2c1dda55:
 
     # nvljohn "{a=show:talay_pic_43}photo_2130.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_43}photo_2130.png"
 
 # new_main_talay_phone_0_2.rpy:31200
 translate zh_Hans talay_mc_messager02_1_22_fdcd9c67:
 
     # nvljohn "{a=show:talay_pic_44}photo_2137.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_44}photo_2137.png"
 
 # new_main_talay_phone_0_2.rpy:31204
 translate zh_Hans talay_mc_messager02_1_22_469e7045:
@@ -65008,25 +65008,25 @@ translate zh_Hans talay_mc_messager02_1_25_07747ca0:
 translate zh_Hans talay_mc_messager02_1_25_8a797657:
 
     # nvljohn "{a=show:talay_pic_54}photo_1443.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_54}photo_1443.png"
 
 # new_main_talay_phone_0_2.rpy:31596
 translate zh_Hans talay_mc_messager02_1_25_5c03a3bb:
 
     # nvljohn "{a=show:talay_pic_60}photo_1446.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_60}photo_1446.png"
 
 # new_main_talay_phone_0_2.rpy:31600
 translate zh_Hans talay_mc_messager02_1_25_a01d2dfc:
 
     # nvljohn "{a=show:talay_pic_61}photo_1448.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_61}photo_1448.png"
 
 # new_main_talay_phone_0_2.rpy:31604
 translate zh_Hans talay_mc_messager02_1_25_bef327d0:
 
     # nvljohn "{a=show:talay_pic_55}photo_1454.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_55}photo_1454.png"
 
 # new_main_talay_phone_0_2.rpy:31608
 translate zh_Hans talay_mc_messager02_1_25_56f0f9d4:
@@ -65308,7 +65308,7 @@ translate zh_Hans talay_mc_messager02_1_26_d0bfe1fc:
 translate zh_Hans talay_mc_messager02_1_26_19d0f360:
 
     # nvltalay "{a=show:talay_pic_50}photo_1403.png"
-    nvltalay ""
+    nvltalay "{a=show:talay_pic_50}photo_1403.png"
 
 # new_main_talay_phone_0_2.rpy:31732
 translate zh_Hans talay_mc_messager02_1_26_c54391cc:
@@ -65446,31 +65446,31 @@ translate zh_Hans talay_mc_messager02_1_27_76b2fe88:
 translate zh_Hans talay_mc_messager02_1_27_e839db8e:
 
     # nvljohn "{a=show:talay_pic_38}photo_1944.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_38}photo_1944.png"
 
 # new_main_talay_phone_0_2.rpy:31808
 translate zh_Hans talay_mc_messager02_1_27_53fa0fb6:
 
     # nvljohn "{a=show:talay_pic_39}photo_1946.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_39}photo_1946.png"
 
 # new_main_talay_phone_0_2.rpy:31812
 translate zh_Hans talay_mc_messager02_1_27_915b342c:
 
     # nvljohn "{a=show:talay_pic_40}photo_1947.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_40}photo_1947.png"
 
 # new_main_talay_phone_0_2.rpy:31816
 translate zh_Hans talay_mc_messager02_1_27_89e59423:
 
     # nvljohn "{a=show:talay_pic_41}photo_1949.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_41}photo_1949.png"
 
 # new_main_talay_phone_0_2.rpy:31820
 translate zh_Hans talay_mc_messager02_1_27_59d14cf4:
 
     # nvljohn "{a=show:talay_pic_42}photo_1954.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_42}photo_1954.png"
 
 # new_main_talay_phone_0_2.rpy:31824
 translate zh_Hans talay_mc_messager02_1_27_10fa7845:
@@ -66334,7 +66334,7 @@ translate zh_Hans talay_mc_messager02_1_30_87ddc999:
 translate zh_Hans talay_mc_messager02_1_30_3585375a:
 
     # nvljohn "{a=show:talay_video_17}video_343.mov"
-    nvljohn ""
+    nvljohn "{a=show:talay_video_17}video_343.mov"
 
 # new_main_talay_phone_0_2.rpy:32206
 translate zh_Hans talay_mc_messager02_1_30_ba200779:
@@ -66370,7 +66370,7 @@ translate zh_Hans talay_mc_messager02_1_30_b4dba8bd:
 translate zh_Hans talay_mc_messager02_1_30_ed6cc875:
 
     # nvljohn "{a=show:talay_video_16}video_319.mov"
-    nvljohn ""
+    nvljohn "{a=show:talay_video_16}video_319.mov"
 
 # new_main_talay_phone_0_2.rpy:32218
 translate zh_Hans talay_mc_messager02_1_30_26e9e0fd:
@@ -66622,7 +66622,7 @@ translate zh_Hans talay_mc_messager02_1_32_313d2eb3:
 translate zh_Hans talay_mc_messager02_1_32_224b57eb:
 
     # nvljohn "{a=show:talay_pic_64}photo_1811.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_64}photo_1811.png"
 
 # new_main_talay_phone_0_2.rpy:32372
 translate zh_Hans talay_mc_messager02_1_32_eab70c59:
@@ -67108,13 +67108,13 @@ translate zh_Hans talay_mc_messager02_1_34_a403520e:
 translate zh_Hans talay_mc_messager02_1_34_38eb2da8:
 
     # nvljohn "{a=show:talay_pic_65}photo_1823.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_65}photo_1823.png"
 
 # new_main_talay_phone_0_2.rpy:32592
 translate zh_Hans talay_mc_messager02_1_34_c9281a57:
 
     # nvljohn "{a=show:talay_pic_66}photo_1826.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_66}photo_1826.png"
 
 # new_main_talay_phone_0_2.rpy:32596
 translate zh_Hans talay_mc_messager02_1_34_a2f15ba2:
@@ -67168,7 +67168,7 @@ translate zh_Hans talay_mc_messager02_1_34_6c299c78:
 translate zh_Hans talay_mc_messager02_1_34_ef90df09:
 
     # nvljohn "{a=show:talay_pic_67}photo_1838.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_67}photo_1838.png"
 
 # new_main_talay_phone_0_2.rpy:32616
 translate zh_Hans talay_mc_messager02_1_34_1cf12a2d:
@@ -68380,13 +68380,13 @@ translate zh_Hans talay_mc_messager02_1_37_76b2fe88:
 translate zh_Hans talay_mc_messager02_1_37_23966bcc:
 
     # nvljohn "{a=show:talay_pic_68}photo_1847.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_68}photo_1847.png"
 
 # new_main_talay_phone_0_2.rpy:33120
 translate zh_Hans talay_mc_messager02_1_37_4e46ad60:
 
     # nvljohn "{a=show:talay_pic_69}photo_1851.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_69}photo_1851.png"
 
 # new_main_talay_phone_0_2.rpy:33124
 translate zh_Hans talay_mc_messager02_1_37_0e0a4f8a:
@@ -69394,7 +69394,7 @@ translate zh_Hans talay_mc_messager02_1_40_9fb33bf8:
 translate zh_Hans talay_mc_messager02_1_40_8991e90f:
 
     # nvlcecilia "{a=show:cecilia_pic_26}photo_1446.png"
-    nvlcecilia ""
+    nvlcecilia "{a=show:cecilia_pic_26}photo_1446.png"
 
 # new_main_talay_phone_0_2.rpy:33557
 translate zh_Hans talay_mc_messager02_1_40_d7da36e9:
@@ -70012,13 +70012,13 @@ translate zh_Hans talay_mc_messager02_1_42_ff333534:
 translate zh_Hans talay_mc_messager02_1_42_e6338187:
 
     # nvljohn "{a=show:talay_pic_70}photo_1893.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_70}photo_1893.png"
 
 # new_main_talay_phone_0_2.rpy:33838
 translate zh_Hans talay_mc_messager02_1_42_3c7f954a:
 
     # nvljohn "{a=show:talay_pic_71}photo_1894.png"
-    nvljohn ""
+    nvljohn "{a=show:talay_pic_71}photo_1894.png"
 
 # new_main_talay_phone_0_2.rpy:33842
 translate zh_Hans talay_mc_messager02_1_42_75280397:

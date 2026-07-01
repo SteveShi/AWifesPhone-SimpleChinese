@@ -1966,7 +1966,7 @@ translate zh_Hans gianna_alpha_storyline_15_0cfcb5f1:
 translate zh_Hans gianna_alpha_storyline_15_bc1e7423:
 
     # nvljohn "Great, I'm already here waiting for you"
-    nvljohn "太棒了，我他妈的已经在这儿等你来操了。"
+    nvljohn "太好了，我已经在这儿等你了。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:1167
 translate zh_Hans gianna_alpha_storyline_15_2cbfa32b:
@@ -2038,7 +2038,7 @@ translate zh_Hans gianna_alpha_storyline_15_da292b60:
 translate zh_Hans gianna_alpha_storyline_15_e59f4455:
 
     # nvljohn "I’ll be here waiting 😏"
-    nvljohn "我他妈的会在这儿等你来操😏"
+    nvljohn "我会在这儿等你😏"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:1205
 translate zh_Hans gianna_alpha_storyline_15_53c71d7c:
@@ -3730,7 +3730,7 @@ translate zh_Hans gianna_alpha_storyline_27_1bf4fb7f:
 translate zh_Hans gianna_alpha_storyline_27_cdce6e85:
 
     # nvljohn "Less distraction, more focus."
-    nvljohn "少点干扰，更能专注地被你操。"
+    nvljohn "少点干扰，更能专心。"
 
 # game/scripts/dialogues/gianna_alpha_storyline.rpy:2160
 translate zh_Hans gianna_alpha_storyline_27_4f3141c1:

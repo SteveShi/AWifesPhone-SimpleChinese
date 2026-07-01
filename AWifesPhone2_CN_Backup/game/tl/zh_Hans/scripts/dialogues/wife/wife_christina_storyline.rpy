@@ -10100,7 +10100,7 @@ translate zh_Hans wife_christina_storyline_319_d8bcb1f9:
 translate zh_Hans wife_christina_storyline_319_7cfed3ff:
 
     # nvlwife "Okay… I trust you ❤️"
-    nvlwife "好吧……我把我的骚穴交给你了❤️"
+    nvlwife "好吧……我相信你❤️"
 
 # game/scripts/dialogues/wife/wife_christina_storyline.rpy:4883
 translate zh_Hans wife_christina_storyline_319_702b5add:

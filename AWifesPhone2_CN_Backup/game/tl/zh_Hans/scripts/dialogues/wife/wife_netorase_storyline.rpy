@@ -18674,7 +18674,7 @@ translate zh_Hans wife_netorase_storyline_151_0ea34cdc:
 translate zh_Hans wife_netorase_storyline_151_f136b4ab:
 
     # nvljohn "Mmm, now that sounds like something worth staying half-asleep for."
-    nvljohn "嗯，听起来这事儿值得我半睡半醒地等着被你操。"
+    nvljohn "嗯，听起来这事儿值得我半睡半醒地等着。"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:9277
 translate zh_Hans wife_netorase_storyline_151_f3a556a8:
@@ -19880,7 +19880,7 @@ translate zh_Hans wife_netorase_storyline_161_61dac4de:
 translate zh_Hans wife_netorase_storyline_161_92ccb125:
 
     # nvljohn "Oh, I’m ready... and I’m not letting you go until I’ve had my fill 😉"
-    nvljohn "哦，我准备好了……在我被你操到满足之前，我是不会放你走的😉"
+    nvljohn "哦，我准备好了……在我满足之前，我是不会放你走的😉"
 
 # game/scripts/dialogues/wife/wife_netorase_storyline.rpy:10047
 translate zh_Hans wife_netorase_storyline_161_7739a4b8:

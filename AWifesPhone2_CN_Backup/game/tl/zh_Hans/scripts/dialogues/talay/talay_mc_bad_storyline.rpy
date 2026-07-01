@@ -17110,7 +17110,7 @@ translate zh_Hans talay_mc_bad_storyline_83_0ad19ac0:
     # nvl clear
     # nvljohn "How are things going for the meeting?"
     nvl clear
-    nvljohn "为这次约炮准备得怎么样了？"
+    nvljohn "这次见面的准备怎么样了？"
 
 # game/scripts/dialogues/talay/talay_mc_bad_storyline.rpy:8582
 translate zh_Hans talay_mc_bad_storyline_83_2fe2bf94:
@@ -21596,7 +21596,7 @@ translate zh_Hans talay_mc_bad_storyline_127_ff536260:
 translate zh_Hans talay_mc_bad_storyline_127_8f899779:
 
     # nvljohn "Enjoy every second."
-    nvljohn "尽情享受他被你开发，被你操弄的每一秒。"
+    nvljohn "尽情享受每一秒。"
 
 # game/scripts/dialogues/talay/talay_mc_bad_storyline.rpy:11570
 translate zh_Hans talay_mc_bad_storyline_127_2c60a473:

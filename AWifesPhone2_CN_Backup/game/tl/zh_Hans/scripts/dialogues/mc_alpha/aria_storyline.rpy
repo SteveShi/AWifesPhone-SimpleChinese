@@ -23412,7 +23412,7 @@ translate zh_Hans aria_storyline_100_ca591a82:
 translate zh_Hans aria_storyline_100_a4a3631f:
 
     # nvljohn "Honestly? Way more relaxed than yesterday"
-    nvljohn "说实话？比昨天被你操弄前放松多了。"
+    nvljohn "说实话？比昨天放松多了。"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:11419
 translate zh_Hans aria_storyline_100_4edffac2:
@@ -23460,7 +23460,7 @@ translate zh_Hans aria_storyline_100_50bd927c:
 translate zh_Hans aria_storyline_100_1a15ade1:
 
     # nvljohn "You almost sucked my soul out"
-    nvljohn "你差点把我的魂儿都吸出来了，我的骚穴都被你吸干了。"
+    nvljohn "你差点把我的魂儿都吸出来了。"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:11435
 translate zh_Hans aria_storyline_100_15ddebbc:
@@ -24330,7 +24330,7 @@ translate zh_Hans aria_storyline_109_277de1bf:
 translate zh_Hans aria_storyline_109_d58834cb:
 
     # nvljohn "I'm ready for it. Let’s make it special."
-    nvljohn "我已经准备好被你操弄了。让我们把它变成一次永生难忘的极乐体验。"
+    nvljohn "我已经准备好了。让我们把它变成一次特别的体验。"
 
 # game/scripts/dialogues/mc_alpha/aria_storyline.rpy:12026
 translate zh_Hans aria_storyline_109_aa479299:

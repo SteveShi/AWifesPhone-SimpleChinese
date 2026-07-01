@@ -8296,7 +8296,7 @@ translate zh_Hans cecilia_storyline_51_after_339a4f82:
 translate zh_Hans cecilia_storyline_51_after_0700b44e:
 
     # mc "{i}I want my enemy's daughter to become a slutty girl. She'll want to fuck every man around her"
-    mc "{i}I want my enemy's daughter to become a slutty girl. She'll want to fuck every man around her|{i}我要让我仇人的女儿变成一个淫荡的骚货。她会饥渴地想被周围每个男人猛操。"
+    mc "{i}我要让我仇人的女儿变得放纵。她会渴望身边每个男人。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3931
 translate zh_Hans cecilia_storyline_51_after_7ba4b72c:
@@ -8314,7 +8314,7 @@ translate zh_Hans cecilia_storyline_51_after_feb06f3c:
 translate zh_Hans cecilia_storyline_51_after_5a596657:
 
     # mc "{i}I would love to see Salim's face when he finds out what his daughter is up to"
-    mc "{i}I would love to see Salim's face when he finds out what his daughter is up to|{i}我真想看看萨利姆发现他女儿都干了些什么好事时的那张臭脸。"
+    mc "{i}我真想看看萨利姆发现他女儿都做了些什么时的表情。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:3937
 translate zh_Hans cecilia_storyline_51_after_b7dedc3b:
@@ -14288,7 +14288,7 @@ translate zh_Hans cecilia_storyline_69_after_b6de9304:
 translate zh_Hans cecilia_storyline_69_after_a53d33da:
 
     # mc "{i}And I'll make sure his daughter and wife become sluts"
-    mc "{i}我还会让他女儿和妻子都变成人尽可夫的骚货。"
+    mc "{i}我还会让他女儿和妻子都变得放纵。"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:6582
 translate zh_Hans cecilia_storyline_69_after_bd6cbd5d:
@@ -19182,7 +19182,7 @@ translate zh_Hans cecilia_storyline_99_f553fbf8:
 translate zh_Hans cecilia_storyline_99_9ef5c97b:
 
     # nvlalex "So your plan is to turn Salim’s daughter into a full-blown slut, huh?"
-    nvlalex "所以你的计划是把萨利姆的女儿变成一个彻头彻尾的骚货，嗯？"
+    nvlalex "所以你的计划是让萨利姆的女儿彻底放下矜持，嗯？"
 
 # game/scripts/dialogues/talay/cecilia_storyline.rpy:9299
 translate zh_Hans cecilia_storyline_99_8aba551c:
